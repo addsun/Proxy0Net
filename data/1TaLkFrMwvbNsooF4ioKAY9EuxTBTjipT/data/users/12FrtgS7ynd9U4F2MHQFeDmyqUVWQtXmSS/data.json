@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 1,
+				"body": "wow",
+				"added": 1508777636
+			}
+		],
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 2,
+				"body": "subtitle support when\n\n> [realkittykate](#comment_32_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I now know what happened to the Fuckcf.cf zeroproxy. Basically, they deleted all of our big files, including the ones at ZeroUp.. so KopyKate BIG and ZeroUP are practically non-functional at that proxy.. because the database is querying the files, then returning null.. then basically stopping the javascript. If anyone can set up a proxy that welcomes big files, please do so! I'll be monetizing the [Home] page of KopyKate eventually.. that means that you can pay a small monthly bitcoin fee to have your video become more visible and get more seeders.. provided you aren't a scammer or some dodgy advertiser selling supplements or something.  Part of that revenue will then go to any zeroproxy willing to put up with us.. and if it ever gets big enough.. a lot of that revenue will also go to charities and well.. paying my rent I guess.. lol\n\nBecause you guys are messing up their bandwidth. It's not like 'proxy server' is just client-sided zeronet; Every traffic has to pass through server. I'm running a proxy server as well but my server bandwidth gone mad after your webzite",
+				"added": 1508777769
+			},
+			{
+				"comment_id": 3,
+				"body": "Main problem is that there are too few people to seed videos. At this moment. If you uploaded video you have to be personal youtube server.",
+				"added": 1508777921
+			}
+		]
+	},
+	"comment_vote": {}
+}

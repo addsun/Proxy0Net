@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G652jgmIhNiBmWb4RSmTVCnkvfNgxzHv15IdSDNcjvXcuQMmz9pcJNoS/CWLrsPsMbHmXpSeZy2C50hS0lweL94=",
+ "cert_user_id": "ring@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "68c5e739056949ed9ec1a7dd6d75c34f242fab95c577c100bfe21e3d89c7a074",
+   "size": 2662
+  },
+  "data.json": {
+   "sha512": "dc4b0f867637cfb308e07cd2a5e8cecc9f990c8ed58fd5059e5fe15815234bab",
+   "size": 14093
+  }
+ },
+ "inner_path": "data/users/1EX9aDiUEREThFXf3FksYPnXvv3mkePpr7/content.json",
+ "modified": 1504880593,
+ "signs": {
+  "1EX9aDiUEREThFXf3FksYPnXvv3mkePpr7": "HLhC2kEUi7fPnfXnz7ovSa+RUJtVf+/YHgAkvwTRAzpaE90VwYlqIJNMdOBwXWXfQal5MebJlFCbRhI7sEfdHF4="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G+eETfEiR9fhojHklqN/sXAX7BEtGOfYo9bTBa+FklrhamazzTyAzGxvxEOyi0Ur/QOuw0/jpScetpxXCoNvm08=",
+ "cert_user_id": "teslahack@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "6740e37a3cb7d07f810519c7c5cf94bdef51b6c881ee264c02a1deae8815d468",
+   "size": 1411
+  },
+  "data.json": {
+   "sha512": "69426df490d35bf141616c37dd4cb3191354f0b73b6f496f7d391a8cc2098119",
+   "size": 1908
+  }
+ },
+ "inner_path": "data/users/1Q1bLJPDs9mwvu3fXkDkK7omiPq4Kn2HMj/content.json",
+ "modified": 1483056902.07,
+ "signs": {
+  "1Q1bLJPDs9mwvu3fXkDkK7omiPq4Kn2HMj": "HBsR0fzJrAc73E/KU+DfUT33OYlRDxq2vNp/gEaOInyNejieZA8B1MtINcX3s9n9REuMQU3ElLPWCdeLwHuBkxs="
+ }
+}

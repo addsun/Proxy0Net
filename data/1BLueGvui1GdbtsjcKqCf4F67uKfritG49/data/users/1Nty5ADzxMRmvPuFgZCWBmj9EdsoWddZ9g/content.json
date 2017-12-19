@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G12Q3ICbcZuZuVhKAeorxjO10Y6CKUxYI5AQqPbFWDbzUhMDDSiSN7IpHtruDeFSj7tuqYIsnnkuQaoaBvMDL4w=",
+ "cert_user_id": "gingerfull@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "59184e75278119ba2a935c7cdcfd91808942e7ecf07e0f27cc06e7cb86781583",
+   "size": 1365
+  },
+  "data.json": {
+   "sha512": "678d25cfa78f0828b6623701350d428bbd4368aebaf966248f608c351bbc8844",
+   "size": 524
+  }
+ },
+ "inner_path": "data/users/1Nty5ADzxMRmvPuFgZCWBmj9EdsoWddZ9g/content.json",
+ "modified": 1494337156,
+ "signs": {
+  "1Nty5ADzxMRmvPuFgZCWBmj9EdsoWddZ9g": "Gx236BUnjU2tcLAO0UEVF0gMcNGsJR48RahQfZdiW/aiLis63yKUoKb4tDbju+Sx/arOpR+T8alJYJDb0ZrEG0M="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9mYv45vadTRD1ChAR9UerAEXXPjbesJ2TWttgDmLSc7SzFb5cGLhXyZe8tM0Owa6OYNLDQ3FNUQ8iZrU3pC2oU=",
+ "cert_user_id": "nostak@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "be51d82b50e00b303735d4067510fb6daa47dd882237d55b95074033f33ec593",
+   "size": 382
+  }
+ },
+ "inner_path": "data/users/1CDetK4d72aTVTDGaiFCut7E98XfyXaTTM/content.json",
+ "modified": 1502817509,
+ "signs": {
+  "1CDetK4d72aTVTDGaiFCut7E98XfyXaTTM": "HPA4fCCMYbzlMBB9SzYUW2NFn/x6cknoB9GlRpGoWekQdlLXnGl2oXZKJBzDKBgmmrfqI4VnunShaHgLk9P6DOU="
+ }
+}

@@ -1,0 +1,457 @@
+{
+	"next_comment_id": 75,
+	"user_name": "Rythyrix",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1488999609": 1489019201,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1498397221": 1498423755,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1498756631": 1498847834,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1504202461": 1504232252
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Since LineageOS hasn't rolled out my phone's build yet (and I wanted call recording, damn it) I built my own. Works beautifully, well worth the four hours I spent making it.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485310003
+		},
+		{
+			"comment_id": 2,
+			"body": "@Ysc3839: The code is there, but due to varying laws around the world regarding the recording of calls (they can get SILLY) CM disabled the feature by default in their nightlies. The control switches are stored in XML resource files under the Dialer's app source tree, here's a oneliner to change them from false to true: ```cd <yourbuildroot>/packages/apps/Dialer/res/ && find -iname config.xml | xargs -L1 sed -i '/call_recording_enabled/s@false@true@``` Replace <yourbuildroot> with the top of your build directory tree, the same place that ```croot``` cd's to. I am personally of the opinion that since they are no longer a corporate entity, they should not be cowed into leaving it out, since no corp = no liability BS. Thoughts?",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485317265
+		},
+		{
+			"comment_id": 3,
+			"body": "@Ysc3839: 1) Is it an official nightly? 2) There's at least three Xposed modules that can enable call recording, are you sure that you haven't installed any of them? ",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485322269
+		},
+		{
+			"comment_id": 4,
+			"body": "@Ysc3839: Well, at least official, just recalled that Xposed doesn't seem to support Nougat yet.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485322319
+		},
+		{
+			"comment_id": 5,
+			"body": "@Ysc3839: Wonder if your device maintainer did something akin to the ```serrano```'s dev, see ```https://github.com/LineageOS/android_device_samsung_serrano-common/blob/cm-14.1/overlay/packages/apps/Dialer/res/values/config.xml``` . The device-specific ```overlay``` directory appears to override any give app's file, probably overwriting it. Check your device's repo, should lead somewhere.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485323099
+		},
+		{
+			"comment_id": 6,
+			"body": "@Ysc3839: My device ```klteduos``` ought to inherit ```klte-common```'s overlays, I wonder if I just got a false positive. Big deal either way, as I want A) built-in root and B) ```bash``` as my default shell when using adb, because bash is awesome. Still need to add the source for bash into the tree and setup the makefiles, but that's a weekend project.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485324111
+		},
+		{
+			"comment_id": 7,
+			"body": "@Ysc3839: We do, it's the backend for whatever app stores you install on your device. There are multiple app stores available, ranging from the nigh-ubiquitous Google Play to F-Droid FOSS and Amazon's App Store to the China-only Baidu (spelling?). You can install any APK you wish, provided you flick a switch in the Settings. Find, transfer to device, find in file manager, open in package manager.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485324486
+		},
+		{
+			"comment_id": 8,
+			"body": "@Ysc3839: Wonderful, the quantity of populist titles in China's name are rearing their ugly heads.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485325052
+		},
+		{
+			"comment_id": 9,
+			"body": "@Ysc3839: I was griping about how totalitarian China is being. Since the full title that the leaders of China gave the nation of China is ```Democratic People's Republic of China``` , I am point out how they need to have three adjectives to cover up their blatant lying about the values those words are SUPPOSED to represent.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485263030",
+			"date_added": 1485325597
+		},
+		{
+			"comment_id": 10,
+			"body": "Root 4 life. Sometimes, it's the only way to rescue your poor, malware-infected phone. Other times, the only way to recover accidentally-deleted photos. Moreover, echoing @Martinv that tis better to have it and not use it, than need it and not have it.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485361661",
+			"date_added": 1485392383
+		},
+		{
+			"comment_id": 11,
+			"body": "@Martinv: That's what root access controls are for. If using a root app, consider whether the stated functionality could be achieved without root, and search non-Play Store reviews for yea/nays. ```https://www.xda-developers.com/``` is a good site. And any root-requiring malware worth its salt will simply take advantages of unpatched kernel exploits to give itself root privilidges, anyway.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485361661",
+			"date_added": 1485394476
+		},
+		{
+			"comment_id": 12,
+			"body": "@Martinv: At which point, it is up to the user to dedicate that time, which comes down to personal choice, again. Back to square one...",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485361661",
+			"date_added": 1485396240
+		},
+		{
+			"comment_id": 13,
+			"body": "@Martinv: Nandroid is a slang term for a system backup. Try googling \"TWRP <your device codename here>\". TWRP stands for Team Win Recovery Project, and as the name implies is a custom recovery image to enable flashing, backup and other tools from the recovery partition, ensuring that you can recover (pun alert) when an app with root does something it shouldn't and bricks Android.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485361661",
+			"date_added": 1485490645
+		},
+		{
+			"comment_id": 14,
+			"body": "@Grahf: There's ways to get around su-checkers, if your Android device is Marshmallow or below try the Xposed framework and the modules RootCloak and ANRC, or search with the terms ```root``` and enjoy a browse :P",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1485361661",
+			"date_added": 1485678606
+		},
+		{
+			"comment_id": 15,
+			"body": "Who are you cosplaying as here? I do not recognize the character.",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1486039985",
+			"date_added": 1486084428
+		},
+		{
+			"comment_id": 16,
+			"body": "Why is remote code execution being lauded as a good thing?",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1486166005",
+			"date_added": 1486174072
+		},
+		{
+			"comment_id": 17,
+			"body": "And this is why you only do frivolous things over clearnet. Such as webcomics. Which search engine are you using?",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1487458368",
+			"date_added": 1487463948
+		},
+		{
+			"comment_id": 18,
+			"body": "@FraYoshi: Google DNS ( 8.8.8.8 primary, 8.8.4.4 secondary ) supposedly logs your ISP and geoloc permanently, and your IP for 24 hours. Consider OpenNIC. You can find info on it under the Routers section of (clearnet): ```https://prism-break.org``` Someone mirrored its content in ZeroNet here: ```http://127.0.0.1:43110/1AsRLpuRxr3pb9p3TKoMXPSWHzh6i7fMGi/en.tar.bz2/index.html```",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1487458368",
+			"date_added": 1487718791
+		},
+		{
+			"comment_id": 19,
+			"body": "If Dark ZeroMe is a dark skin of ZeroMe, please count me in :D You may wish to include the link to it too, so your post acts like advertising.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488836366",
+			"date_added": 1488854354
+		},
+		{
+			"comment_id": 20,
+			"body": "Just as a thought: ZeroMe is open-source; have you thought about modding ZeroMe to support user-defined themes and posting a pull request? I can see the other side of this argument too; that doing so centralizes ZeroMe more than different zites for different themes.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488856744",
+			"date_added": 1488856863
+		},
+		{
+			"comment_id": 21,
+			"body": "@Nekololi: Appears he is making up for lost time, and doing a decent job of it too. :P",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488914042",
+			"date_added": 1488929630
+		},
+		{
+			"comment_id": 22,
+			"body": "@Jayofthezero: Doesn't appear to be so.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488914042",
+			"date_added": 1488948489
+		},
+		{
+			"comment_id": 23,
+			"body": "@Nekololi: Not without ZeroMux, anyway. The problem inherent with ZeroNet is that peers must store the data you wish to view, and since video = loadsaspace, most nodes cannot support the demand of even a single Youtube page's search results, not at the demands. Then there's the fact that the safe nodes always use Tor anyway, which is its own bottleneck.",
+			"post_uri": "1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG_1488943248",
+			"date_added": 1488948641
+		},
+		{
+			"comment_id": 24,
+			"body": "Yes, Tails is a Linux distro. As with any code you did not make yourself, you need to determine if you trust the coders behind the project and/or review the source yourself. If you want persistent storage beyond the capabilities of the host machine's RAM, you'll need a USB. There's tutorials for both on the [Tails website](https://tails.boum.org/) ; for English, the installation wizard is [here](https://tails.boum.org/install/index.en.html).\n\nIf you are on Windows, the Tails website says it's impossible to install Tails from within it, so get two USB sticks instead of one.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1489827586",
+			"date_added": 1489868228
+		},
+		{
+			"comment_id": 25,
+			"body": "I think it's great that people from so many places find ZeroNet useful. :)",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1490286815",
+			"date_added": 1490313696
+		},
+		{
+			"comment_id": 26,
+			"body": "And checked your ```optional``` and ```ignore``` settings?",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1490412586",
+			"date_added": 1490425354
+		},
+		{
+			"comment_id": 27,
+			"body": "@Emeraude: Just reloaded, and now playback works. Same problem as @Kaffie, ID3 tags > filenames. Alternatively, as part of UX improvement, add GUI to submit file metadata. Regarding deduplication, you'll likely run into problems with simple hash matching, given that MP3s are lossy and non-deterministic.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1490486020",
+			"date_added": 1490500341
+		},
+		{
+			"comment_id": 28,
+			"body": "I don't know, a catbot is a welcome bot to me.",
+			"post_uri": "18QRaL2iLVEKLihwERUgkB1hSCmsi7qx9y_1491102867",
+			"date_added": 1491106489
+		},
+		{
+			"comment_id": 29,
+			"body": "@Ranxerox: Sane =/= fun.Besides. with the way the US screwed over the Internet, he'll get another shot.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1491340537",
+			"date_added": 1491351069
+		},
+		{
+			"comment_id": 30,
+			"body": "2.",
+			"post_uri": "1JJX89y9cqskbMdwYsW3yzQjPGtNA6GLbT_1491363057",
+			"date_added": 1491365692
+		},
+		{
+			"comment_id": 31,
+			"body": "Game engine unity or ubuntu launcher?",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491418166",
+			"date_added": 1491418873
+		},
+		{
+			"comment_id": 32,
+			"body": "Sad. What failed? EDIT: Just saw your other post about it.\n",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491418166",
+			"date_added": 1491418949
+		},
+		{
+			"comment_id": 33,
+			"body": "@Sirenyc: No. Currently, only MP3s are supported.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1490979015",
+			"date_added": 1491419353
+		},
+		{
+			"comment_id": 34,
+			"body": "That was roughly when [TorrentFreak](https://torrentfreak.com/steal-show-s02e01-zeronet/) did a podcast showcasing it, and lots of people joined to see if they could get torrents, as Play was featured in addition to the podcast. Like many such shinies, the moment it took any effort to obtain something they quit. Sad, really, this place could use more than fifteen active posters. </hypocrite>",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1492535145",
+			"date_added": 1492561190
+		},
+		{
+			"comment_id": 35,
+			"body": "Sufficient backups were sufficient. Now, are they secure?",
+			"post_uri": "1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8_1492809054",
+			"date_added": 1492821933
+		},
+		{
+			"comment_id": 36,
+			"body": "Slacker :P",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1492852346",
+			"date_added": 1492894616
+		},
+		{
+			"comment_id": 37,
+			"body": "And you're quite welcome to do it :P. Have you checked out  [Important Zites](http://127.0.0.1:43110/15Pf9VVuDT8NSWj1qUBh4V89yPmrmzRw6a/) yet? It lists a large quantity of zite links, sorted by type of content they cover. ",
+			"post_uri": "18mGdPEnMhDEzbwus5atYTEb4QVRQ1xjYy_1492936237",
+			"date_added": 1492938261
+		},
+		{
+			"comment_id": 38,
+			"body": "@Mkg20001: Actual credit cards, or are debit cards also accepted? Prepaid debit?",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1486904274",
+			"date_added": 1492938631
+		},
+		{
+			"comment_id": 39,
+			"body": "Analog scales, tolerences and thresholds instead of binary would make my head hurt.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1493248643",
+			"date_added": 1493250504
+		},
+		{
+			"comment_id": 40,
+			"body": "It's okay, you can say torrent here :P",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1495244811",
+			"date_added": 1495247911
+		},
+		{
+			"comment_id": 41,
+			"body": "If you still have the original, it's stored under ```ZeroBundle/ZeroNet/data/users.json```. Encrypt and copy it to a safe place. You can switch back to your original by swapping out this (isolinks) one with the original. Be careful not to overwrite by accident.",
+			"post_uri": "12tK31toPb3BPLQhhQ87tk6dQk5AqN65C3_1495942711",
+			"date_added": 1495956731
+		},
+		{
+			"comment_id": 42,
+			"body": "@isolinks: no problem.",
+			"post_uri": "12tK31toPb3BPLQhhQ87tk6dQk5AqN65C3_1495942711",
+			"date_added": 1496017110
+		},
+		{
+			"comment_id": 43,
+			"body": "Shadow-banned in 5, 4, ...",
+			"post_uri": "1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2_1495992716",
+			"date_added": 1496017229
+		},
+		{
+			"comment_id": 44,
+			"body": "Pictures of your cat. ZeroNet is far behind the Internet in score.",
+			"post_uri": "1BDapygZHNG8GxEuSsEpK9Xipm9mFfW1F2_1496111868",
+			"date_added": 1496112583
+		},
+		{
+			"comment_id": 45,
+			"body": "Why are they stored upside down? Unless this case is horizontal, won't gravity cause them to fall against the glass? The middle row looks recessed too.",
+			"post_uri": "13KjVHdVXjiMLMcN1RMhaRPDFFXRotVzsK_1496570079",
+			"date_added": 1496570903
+		},
+		{
+			"comment_id": 46,
+			"body": "是的，首页上没有通知是恼人的。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1496575726",
+			"date_added": 1496576176
+		},
+		{
+			"comment_id": 47,
+			"body": "It would not surprise me; I've had to increase my Zeronet filesystem quota to hold it all :D",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497052861
+		},
+		{
+			"comment_id": 48,
+			"body": "@Jayofthezero: ```du -sch /path/to/zeronet/``` : 37G\n```du -sch /path/to/zeronet/data/1MusicXkuN2pk5hRdmroeyaCLDJtzTicpB/``` : 23G\n\nNot nearly enough music. Send moar!\n\nAlso, I'm constantly missing 325 files; I don't want to edit the content.db to remove the entries, so is there a way to prioritize those missing files over seeding those that I have to other peers?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497057815
+		},
+		{
+			"comment_id": 49,
+			"body": "@Jayofthezero: Having the accumulated drives of the last ten years of my life in one computer certainly helps.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497059440
+		},
+		{
+			"comment_id": 50,
+			"body": "@Jayofthezero: Consider all the poor, poor music-less people motivation to do so :P",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497061333
+		},
+		{
+			"comment_id": 51,
+			"body": "@Jayofthezero: <deep>YOUR CONSCIENCE COMMANDS IT</deep>",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497061589
+		},
+		{
+			"comment_id": 52,
+			"body": "@Jayofthezero: It's good for your computer, too; SSDs suffer massive slowdown when almost completely full. Winblows needs free disk space too, for all its temporary files.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497066400
+		},
+		{
+			"comment_id": 53,
+			"body": "@Kaffie: Dump it. My hard drive isn't full, thus not enough music.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497145102
+		},
+		{
+			"comment_id": 54,
+			"body": "@Kaffie: Test if symlinks are things on macOS and if ZeroNet will traverse them on it. ZN doesn't for GNU/Linux. I suppose hard links would work too, even saving an inode per file.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497145543
+		},
+		{
+			"comment_id": 55,
+			"body": "Also, digging around in  ```eyeD3```'s options, there's an option for setting the play count of a given MP3. The fact that such a thing exists is disturbing, as that's a means of tracking number of listens and thus triggering DRM.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497146486
+		},
+		{
+			"comment_id": 56,
+			"body": "@Kaffie: Symlinks are a feature of Windows, macOS and GNU/Linux at a minimum. They are special, small files interpreted by the kernel for to point to somewhere else on the filesystem, which the kernel treats as that file. Some caveats apply, such as symlink traversal depth being limited on some systems. They have multiple uses such as providing a single filename for applications to reference a library, enabling easy updating of the library, or allowing access to a certain subdirectory of a filesystem without exposing the rest of it. Hard links are a second reference to the inode in which a given file's data is stored on disk. The two have different low-level advantages; symlinks are seperate files, and as such take inodes of their own, but can point anywhere in the filesystem, whilst hard links do not, but cannot point outside the partition in which their file is located, and all hard links must be deleted to dereference the file from the filesystem and allow the computer to use that space as something else. Try [here](https://gigaom.com/2011/04/27/how-to-create-and-use-symlinks-on-a-mac/) for a macOS symlink tutorial.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497146960
+		},
+		{
+			"comment_id": 57,
+			"body": "@Kaffie: Is your collection entirely made up of MP3s? ZeroMusic only accepts MP3s.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497148045
+		},
+		{
+			"comment_id": 58,
+			"body": "@Kaffie: Well, taking a look at the user directory of ZeroMusic, it looks like ZeroMusic assigns a numerical ID to each MP3 uploaded. I am not sure if it would create a given directory if required.  Can you go to ZeroMusic, filter by artist for Reverbrony, and see if Animating Automatons is there? I just edited data.json by hand to include it in a subdirectory; need to see if ZeroMusic creates the directory.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497151321
+		},
+		{
+			"comment_id": 59,
+			"body": "@Kaffie: I did. Shows up just fine on my node.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497165268
+		},
+		{
+			"comment_id": 60,
+			"body": "@Kaffie: [This](https://w1r3.net/sUyyTp.png) (clearnet) is what I see. I can play all save the top one. Looking at the same site on another node, I get [this](https://w1r3.net/wtYNkj.png) (also clearnet) under my missing files when attempting to play flamma idola. \n\nLooking closely, my file is looking for a content.json, whilst yours is looking for the file itself. Any thoughts as to how that might be?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497173187
+		},
+		{
+			"comment_id": 61,
+			"body": "@Kaffie: ```\n  \"Artists/Yousei Teikoku/flamma idola/01. flamma idola.mp3\": {\n   \"sha512\": \"aacdb81ae724ee1772a04eb0c8673afb6068692ef38b2331d5596ffc0d213978\",\n   \"size\": 1274011\n  }\n```\nSo it did get traversed to when summing. Not sure why I can't dl it. Perhaps the spaces in the filepath, or maybe the JSfor ZeroMusic doesn't take subdirs into account, such as ```mkdir -p```.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497174439
+		},
+		{
+			"comment_id": 62,
+			"body": "@Kaffie: Sums cannot be identical to another file if the file in  question is not the exact same file, short of the alg being broken. Did you use the GUI tools under the sidebar when signing?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497174643
+		},
+		{
+			"comment_id": 63,
+			"body": "@Kaffie: If that's true, then I think that the signing button under the sidebar doesn't traverse symlinks. Looking at mine under ```data/users/18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y/content.json```, you can see the two copies of Animating are both there. I did not use a symlink when signing it. Will you please try a standard subdirectory?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497175105
+		},
+		{
+			"comment_id": 64,
+			"body": "@Kaffie: Damn it. The two nodes I have have differing copies my my content.json. Propagation issues? I'll try uploading a song via ZeroMusic's GUI. EDIT: Done. New music should be index number 3414 under Reverbrony > All or Nothing. Plays on node upon which I uploaded, other node has received json, waiting on song dl.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497175484
+		},
+		{
+			"comment_id": 65,
+			"body": "@Kaffie: Probably connection issues. The two that aren't Animating were there long before Jayofthezero's post, and they worked fine, so they probably only exist on my comp and the proxy you tried.\n\nEDIT: I went and grabbed the [logs](http://127.0.0.1:43110/17iF64gTLycSohUSJsFyq7FMYsQfMqghJa/?18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y_10) when I open ZeroMusic and attempt to play your non-symlink file via pressing the play button next to it; the most obvious errors are at line 63, where the hash fails for 3515.mp3, and at line 5, where it states the size is too large, despite my node's optional files switch on. Can you try another file that is less than 10mb, to remove one PoF?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497178929
+		},
+		{
+			"comment_id": 66,
+			"body": "@Kaffie: Apologies for the delay. Whatever you did, ZeroMusic successfully pushed all numerically-assigned mp3s. It also pushed the Adventure of Link files to their symlink directories and created the parent dirs for them. It did not push previous iterations of ```flamma idola``` symlinks, nor any LostFairy files or directories.\n\nA quick test with python2.7 reveals the directories can be created with ```os.mkdir(\"some kanji Unicode\")```.\n\n```\ndata/users/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Artists$ ls\nYousei Teikoku  ZREO\ndata/users/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Artists$ python2.7\nPython 2.7.12 (default, Nov 19 2016, 06:48:10) \n[GCC 5.4.0 20160609] on linux2\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> import os\n>>> os.mkdir(\"孤塔の情景\")\n>>> exit()\ndata/users/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Artists$ ls\nYousei Teikoku  ZREO  孤塔の情景\n```\nso I don't think that mkdir is to blame. Perhaps spaces in the file paths are to blame? When I try to play the non-symlink ```flamma idola```, [this logdump](http://127.0.0.1:43110/17iF64gTLycSohUSJsFyq7FMYsQfMqghJa/?18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y_12) appears.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497230492
+		},
+		{
+			"comment_id": 67,
+			"body": "@Jayofthezero: [Science!](http://static.tvtropes.org/pmwiki/pub/images/GirlGeniusRubiksCube_4968.jpg) (clearnet)",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497232786
+		},
+		{
+			"comment_id": 68,
+			"body": "@Kaffie: Let me restart my ZN after deleting the bad_files key for ZM in sites.json. Maybe my client isn't pulling those files first.\n\nEDIT: Attempting to play the symlink for Yousei's Mythology resulted in [this logdump](http://127.0.0.1:43110/17iF64gTLycSohUSJsFyq7FMYsQfMqghJa/?18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y_14). It started playing after about 45s-1m; should have had a timer. Either way, it's reachable. Attempts to play the flamma idola symlink resulted in the same problem as last time; see lines 22-23, 26-27, and 29-30. Given that the symlink and the numeric file shown are supposed to be identical, it's not surprising that the two are failing in the same manner. Have you tried manually editing the ```size``` key in content.json for both to match ```du -b <file>```?. In addition, at line 2, there's a reference to ```data/users/1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Artists/-LostFairy-/content.json```. Do you have this file on your comp?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497234877
+		},
+		{
+			"comment_id": 69,
+			"body": "@Kaffie: Grepping through it, it has the .mp3.mp3 version of the symlink flammola idola -derp- lostfairy. Did you push it again already?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497237093
+		},
+		{
+			"comment_id": 70,
+			"body": "@Kaffie: I'll wait until it updates on my end before I post more tests. Any thoughts on how the content_inner_path key works, or if it is reference by ZM at all?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497237598
+		},
+		{
+			"comment_id": 71,
+			"body": "@Uv: [Here](http://127.0.0.1:43110/1MusicXkuN2pk5hRdmroeyaCLDJtzTicpB/) you go. Try @Kaffie: 's [Kaffiene](http://127.0.0.1:43110/kaffiene.bit/) or [RVRE](http://127.0.0.1:43110/1f7FYxZWSZ5YG7Nd8sGsHcWEQgvdnVvQF) if you need to find a zite.\n\nAlso, @Kaffie: , still don't have a version of your content.json without the .mp3.mp3 lostfairy.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497052800",
+			"date_added": 1497501815
+		},
+		{
+			"comment_id": 72,
+			"body": "LineageOS is a so much better than bloated, out of date Samsung firmware. In regards to root, LineageOS's stock root access controls work on an ask-on-first-use model; there's no temporary permissions short of manually toggling it off from ```Settings > Developer Options > Manage root accesses```. If you prefer, [Magisk](https://forum.xda-developers.com/apps/magisk) (clearnet) offers a timed option when allowing root, but you'll also need to install Magisk to get it.",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1498397221",
+			"date_added": 1498421162
+		},
+		{
+			"comment_id": 73,
+			"body": "Thanks for the link :D",
+			"post_uri": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1504202461",
+			"date_added": 1504232277
+		},
+		{
+			"comment_id": 74,
+			"body": "She left Sanityville behind on her way there.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1507119841",
+			"date_added": 1507166247
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HCUR/i+Pw14bj+hZAJ+yKtG1UR99eDHL8orVOpc+DmSs9pNMcvqsR15x7TvvRr9541vqLPoWrOafe0XbFdBMsNU=",
+ "cert_user_id": "dukeduan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "21d854fef7bbec04f24d5aed4dcb6137d1c0948c1065a400e6b79cb92c7f2982",
+   "size": 4615
+  }
+ },
+ "files_optional": {
+  "1485057067.jpg": {
+   "sha512": "e3922fdfd479f38ed5e67a927cae74e77b1f4334ef15892b12f7fd011c86b0ea",
+   "size": 29081
+  },
+  "1485077969.jpg": {
+   "sha512": "f176b11da20b42bd283a59f0d7f9fa7dd0b38a4c35948fc3b4f9228922d46905",
+   "size": 31716
+  },
+  "1485078019.jpg": {
+   "sha512": "1b4091e750f15a027d21300b6e7288cdc6abb927fe297e5c07df1d2fcd426511",
+   "size": 37767
+  },
+  "1485078082.jpg": {
+   "sha512": "3dc30981db89af90116ca69248b3f264f151dbc2a31f023518f8d2e06a4c91f3",
+   "size": 39834
+  },
+  "1485078152.jpg": {
+   "sha512": "0e7a3534c1fe0eef805df5423ecb6f55dc0cd002cf9a24e25d13788647e4ee65",
+   "size": 116892
+  }
+ },
+ "inner_path": "data/users/1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A/content.json",
+ "modified": 1490110647,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A": "GwO1UGb1ADI+4Z+NWllj6ff0aCg8Fa9op4Iy3QGXjo3YZgm70AsEwEPZ5sgPfiMOjhkyD7S3ItOHJ/klxDxoqTw="
+ }
+}

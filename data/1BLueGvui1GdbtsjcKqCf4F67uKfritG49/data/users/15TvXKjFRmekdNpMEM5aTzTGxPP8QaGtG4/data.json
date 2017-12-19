@@ -1,0 +1,57 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Oneonline",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471514661,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1487514833": 1490099699
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp",
+			"user_name": "Helloarch",
+			"date_added": 1475306523
+		},
+		{
+			"follow_id": 2,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1McMBno2UPFy6h6Ykobaqbt7YrZMB43csC",
+			"user_name": "Frost1",
+			"date_added": 1479721760
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1482307966
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KrJgpJqJij8zdhJ4gFZg7gscskgtCgNmX",
+			"user_name": "Rambotito",
+			"date_added": 1490008178
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1490099607
+		}
+	]
+}

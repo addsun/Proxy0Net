@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G26EtAUS1X46hao4Dk84CU3UW762sklvlyWhGx8gHWWlBkIOKfwJm0NB9w/ffkjyqJ40PIN0gSyp1uOmSI4g3Vw=",
+ "cert_user_id": "basilum@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "2476f026d0e50914a3998267275f329e96d8dcc48ed449a932d8293cd6eb09dd",
+   "size": 1147
+  },
+  "data.json": {
+   "sha512": "e73c94bb0b8718549a83d60fe96d9a864d7a8c6eebc5500563db2225d7e01650",
+   "size": 999
+  }
+ },
+ "inner_path": "data/users/1yzwyysSZzqW3d7jv1gNdDv9NzapzsHFH/content.json",
+ "modified": 1485303152,
+ "signs": {
+  "1yzwyysSZzqW3d7jv1gNdDv9NzapzsHFH": "G1iwPzjfA/FJY+l7VDeMlnZ0DYb+Bill4TeAFmz9/T2FSP7+4TldQCBagyzWiGJNdb7HvGMtPv9b8ibiFwGFdvA="
+ }
+}

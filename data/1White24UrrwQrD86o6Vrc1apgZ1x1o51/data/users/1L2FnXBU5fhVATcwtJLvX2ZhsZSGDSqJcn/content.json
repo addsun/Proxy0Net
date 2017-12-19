@@ -1,0 +1,21 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G1gEBngIVu8DR0spSvJ7712rS4A/xtzlF3tX06XUp3jfkQ5WEFqLFwLgN12MvFVjtO/BLggZr9ou4VVYHdvTm9o=",
+ "cert_user_id": "codegeass@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "5dc68c0652ddf9c3cba94389d104d912858b861d363726e62b89f6a1d67c6ef7",
+   "size": 919
+  },
+  "data.json": {
+   "sha512": "4c77645b7c2ec87acf46a7ef4644c0dc514e18b751875d79f01cd0151925b148",
+   "size": 1293
+  }
+ },
+ "inner_path": "data/users/1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn/content.json",
+ "modified": 1505970990,
+ "signs": {
+  "1L2FnXBU5fhVATcwtJLvX2ZhsZSGDSqJcn": "G6lrjgZFhnEGpyWh9Wialma2ql1DRDcaLWUb4E01XGM3RaqW3qekEmCHrdXbv0WVcfpQspZjBd8mXjPU9I7J7/8="
+ }
+}

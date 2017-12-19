@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HLshlTjfMCav4gpz+rjNb7mdHOcoSLvTay65Gcj2w0BZlPOVUiGqF+OI+zRZVoRo/FdeoTrvpa/kAw6+lu71D3A=",
+ "cert_user_id": "muerdo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e5a998b2de45f3ca0420b4fe6963fcd259940192b8ea73fc03af47c4e30c9cef",
+   "size": 3458
+  }
+ },
+ "inner_path": "data/users/12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn/content.json",
+ "modified": 1506587270,
+ "signs": {
+  "12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": "HADU8ILQ7Mjf2T+casbi7tFq78fY/YxynhYPi5zeLyIEGYdxfX6v0bLK04cYI0RekhyLjXUOE15ePDgsQLFnHVc="
+ }
+}

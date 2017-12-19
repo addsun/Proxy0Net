@@ -1,0 +1,212 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "World Wide Web Consortium abandons consensus, standardizes DRM with 58.4% support, EFF resigns",
+			"body": "This is a bad day for the W3C: it's the day it publishes a standard\ndesigned to control, rather than empower, web users. That standard that\nwas explicitly published without any protections -- even the most minimal compromise was rejected without discussion, an intransigence that the W3C leadership tacitly approved.\n It's the day that the W3C changed its process to reward stonewalling\nover compromise, provided those doing the stonewalling are the biggest\ncorporations in the consortium. EFF no longer believes that the W3C process is suited to defending the\nopen web. We have resigned from the Consortium, effective today. ... \n\nhttps://boingboing.net/2017/09/18/antifeatures-for-all.html",
+			"added": 1505775838,
+			"parent_topic_uri": "1_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG"
+		},
+		{
+			"topic_id": 2,
+			"title": "Shared ZeroBlog",
+			"body": "Is it possible to setup a blog with more than one author? e.g. I would share my blog with a friend who would post occasionally. \n\nI'm fairly confused on how to go about setting that up.",
+			"added": 1506478009
+		},
+		{
+			"topic_id": 1511482022,
+			"title": "Would be awesome if there was a POP/SMTP transport for ZeroMail",
+			"body": "Then we could use Thunderbird.\n\nFound this basic python pop server, but I'm not skilled enough to use it.\nhttp://code.activestate.com/recipes/534131-pypopper-python-pop3-server/",
+			"added": 1511482019
+		}
+	],
+	"topic_vote": {
+		"3_1M78zG4cdm2osFEpXApCHxh6bu936kgte6": 1,
+		"6_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"3_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"1_14qkCANgpwdN9rLmjeEWyyxEzAjmwFVkom": 1,
+		"22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": 1,
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"11_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1511482022_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"1513544848_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1
+	},
+	"next_comment_id": 24,
+	"comment": {
+		"3_1M78zG4cdm2osFEpXApCHxh6bu936kgte6": [
+			{
+				"comment_id": 1,
+				"body": "> [cosmologica](#comment_5_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): ... some people see ZeroNet as their secret place where they can come when bad things happen in mainstream internet.\n\nThe way it's going (Bittorrent and Internet Archive blocked in most parts of India), ZeroNet won't be around much longer either on 'clear web'. It will be considerably difficult to publish zites over Tor. What we really need is I2P trackers. I2Pd is thusfar not blocked and can be used to hide torrent traffic rather nicely.\n\nSecondarily, we need alternatives to the internet, and people to get 'woke' enough to start demanding a stop on massive surveillance and censorship.",
+				"added": 1504661518
+			}
+		],
+		"2_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 2,
+				"body": "Some more mesh-related resources for you:\n\n* [WIRELESS NETWORKING IN THE DEVELOPING WORLD](http://wndw.net/)\n* [ServalMesh](http://www.servalproject.org/)\n* [SplinterNet](https://github.com/megamattron/SplinterNet)\n* [AirChat](https://github.com/lulzlabs/AirChat)\n* [PirateBox](https://piratebox.cc/)\n* [Streisand](https://github.com/jlund/streisand)",
+				"added": 1504662077
+			}
+		],
+		"4_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 3,
+				"body": "> [tauprojekt](#comment_7_19oGd3eQrXYQ5Hg3ZsyAuPCi2ZXRMoT8zM): i dream of a browser that can talk to TOR's .onion, IIP's .i2p, and this beautiful zeroNet right here. oh, perhaps freenet too ?\n\nPretty easy to do with [privoxy](https://www.privoxy.org/).\n\n> forward-socks5t   /               127.0.0.1:9050 .\n> forward .i2p 127.0.0.1:4444",
+				"added": 1504664903
+			}
+		],
+		"6_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_995_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Unfortunately I think we reached a turning-point and i'm not sure if there is a way back.\n\nSo as long as projects like ZeroNet/Freenet/I2P/Tor exist we still have hope. \nThat said, the web is becoming *very* centralized. On top of this, governments and corporations are beginning to seriously flex their muscles to shape the internet in their image. \n\nThe problem is also cultural, many have simply forgotten the importance of fully free speech.\n\n > **“I disapprove of what you say, but I will defend to the death your right to say it.”**",
+				"added": 1504665924
+			},
+			{
+				"comment_id": 15,
+				"body": "> [cosmologica](#comment_83_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): Cloudflare is man in the middle. With ZeroNet you do not have a man in the middle. That is good.\n\nTrue, however some fake Zites start appearing that use the cancerous CloudFlare. \"Zoogle\" is one such zite...",
+				"added": 1506810895
+			}
+		],
+		"3_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 5,
+				"body": "> [mert](#comment_1_14HdmCpHuvt25N85Yy5HAhtbE2YvfPdqaQ): dude very nice but i dont think npm install will be good, it is python so pip install maybealso on OSX brew cask install zeronet works. IDK about linux distros btw. [...]\n\nPorting to NPM would be a mess, and python is more portable imo. As far as the other ideas of mesh + vpn + coins, it sounds interesting.  I don't know much about electrum, but I don't want unobtainium coins just to publish content.",
+				"added": 1504914386
+			}
+		],
+		"1_1M9eCjGafEjLttDFKbAzxJR98gUC7JsjyH": [
+			{
+				"comment_id": 6,
+				"body": "ZeroTorrent.bit for some",
+				"added": 1504916676
+			}
+		],
+		"1_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": [
+			{
+				"comment_id": 7,
+				"body": "> [obiwanzanobi](#comment_33_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): noice.  Any steam alternatives?\n\nGOG and Humble Bundle. Both are DRM free.",
+				"added": 1504917130
+			},
+			{
+				"comment_id": 8,
+				"body": "> [killallnazis](#comment_1_1A4aynEbYS3QqpecpWTfau7xzBAo7VXHjg): fuck off, fascist\n\nI've never understood why fascists call other people fascist. If you are being violent towards someone else, then you are no better than the person you are judging. In that regards, I think ZeroNet provides a wonderful platform for anti-censorship. Even though we may disagree on certain issues, both can peacefully exist without censored speech.",
+				"added": 1504987670
+			}
+		],
+		"13_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 9,
+				"body": "The size of the zite your uploading is too large, there's a cap at 10MB. Try compressing images and minimizing html. If that doesn't work, maybe someone else will let you know how to work around the limit. I'm not sure myself.",
+				"added": 1504994352
+			}
+		],
+		"1_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn": [
+			{
+				"comment_id": 10,
+				"body": "As others mentioned, I don't see this as a left/right or black/white issue. Censorship of speech is wrong, the answer to hate speech is more speech.",
+				"added": 1505061142
+			},
+			{
+				"comment_id": 11,
+				"body": "> [doiasedfnasnedcp](#comment_2_1EijxsAumeeuw6ojPjHc9KKwUfH6ryhbJc): Except the censorship is coming from the left and not from the right. So this means censorship is a left/right issue.\n\nThe left tries to ban 'nazis', the right tries to ban all forms of 'porn' and 'online gambling'. I fail to see the difference, both are content based censorship. If you read Cypherpunks: Freedom and the Future of the Internet (2012), you'll realize all this has to do with the...\n\n[Four Horsemen of the Infocalypse](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Infocalypse): terrorists, pedophiles, drug dealers, and money launderers\n\nHow to get what you want in 4 easy stages:\n\n* Have a target \"thing\" you wish to stop, yet lack any moral, or practical reasons for doing so?\n* Pick a fear common to lots of people, something that will evoke a gut reaction: terrorists, pedophiles, serial killers.\n* Scream loudly to the media that \"thing\" is being used by perpetrators. (Don't worry if this is true, or common to all other things, or less common with \"thing\" than with other long established systems—payphones, paper mail, private hotel rooms, lack of bugs in all houses etc.)\n* Say that the only way to stop perpetrators is to close down \"thing\", or to regulate it to death, or to have laws forcing en-mass tapability of all private communications on \"thing\". Don't worry if communicating on \"thing\" is a constitutionally protected right, if you have done a good job in choosing and publicising the horsemen in 2, no one will notice, they will be too busy clamoring for you to save them from the supposed evils.",
+				"added": 1505091782
+			}
+		],
+		"2_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 12,
+				"body": "> [kaffie](#comment_332_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh):  Personally, I can't wait to have ipv6 and dht support so that cjdns can be used. Solving this issue altogether. [...]\n\nI recently looked into cjdns, but it lacks mixing, so it's pretty much [useless for anonymity](https://www.reddit.com/r/cjdns/comments/55rtdn/anonymity_in_cjdns/). I2P support might be interesting, and I'd be curious if it's possible to run Tor/I2P inside of a mesh/cjdns protocol if it doesn't have access to the regular internet.",
+				"added": 1505603716
+			},
+			{
+				"comment_id": 13,
+				"body": "Your ISP can detect Tor traffic, but they don't know what it is. [Here's an example of what your ISP sees](https://www.rsreese.com/detecting-tor-traffic-with-bro-network-traffic-analyzer/).\n\nThe NSA thinks \"[Tor stinks](https://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document)\", but they have upped their game over the years and added [some sibyl nodes](https://trac.torproject.org/projects/tor/wiki/doc/badRelays). I think it's safe to say they can probably gain access to some of the traffic, being they are a global passive adversary, but they may not be able to watch the entire network yet, just chunks under their control. The Tor project used to maintain a list of rogue exit nodes, but they no longer do. Also their new board of directors thinks it's ok to shame \"[nazis](https://blog.torproject.org/blog/tor-project-defends-human-rights-racists-oppose)\", so I wouldn't be surprised if they try and implement some form of censorship if they continue along that path.",
+				"added": 1505604396
+			}
+		],
+		"2_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": [
+			{
+				"comment_id": 14,
+				"body": "Also I guess it's not possible to manage comments? Not sure how it works.",
+				"added": 1506478376
+			}
+		],
+		"19_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 16,
+				"body": "> [m00plicate](#comment_14_12pqz164272L8bYB9UA2enxr92boTWBpfd): concupiscence\n\nwas",
+				"added": 1506810959
+			}
+		],
+		"1_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL": [
+			{
+				"comment_id": 17,
+				"body": "Going to take a guess and say it's not an e-mail. It's a [Monero Payment ID](https://monero.stackexchange.com/questions/4247/how-can-i-set-a-payment-id-of-64-characters-hex-on-wallet-cli/4248).\n\n[Bitmessage](https://bitmessage.org/wiki/Address) is only 34 characters, so I doubt it's that.",
+				"added": 1508080224
+			}
+		],
+		"1_1LKqM2iURftQD8TULHKAzrm6yPME2wqPHG": [
+			{
+				"comment_id": 18,
+				"body": "Quick clearnet search shows there's an APK. If you can't access their site I think there's a mirror on ZeroUp.\n\nEdit: Found it: http://127.0.0.1:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5/1507814925-I2P_0.9.3.1.zip",
+				"added": 1508086164
+			}
+		],
+		"1510376498_13YYF6nT5NB9ayzUQmmAL7iueaAjkw51kB": [
+			{
+				"comment_id": 19,
+				"body": "> Around 1980, when the news media took notice of hackers, they fixated on one narrow aspect of real hacking: the security breaking which some hackers occasionally did. They ignored all the rest of hacking, and took the term to mean breaking security, no more and no less. The media have since spread that definition, disregarding our attempts to correct them. As a result, most people have a mistaken idea of what we hackers actually do and what we think.\n\n> You can help correct the misunderstanding simply by making a distinction between security breaking and hacking—by using the term \"cracking\" for security breaking. The people who do it are \"crackers\". Some of them may also be hackers, just as some of them may be chess players or golfers; most of them are not.  ~ [Stallman](https://stallman.org/articles/on-hacking.html)",
+				"added": 1510435146
+			}
+		],
+		"1510946916_1BrGZNxToC56H726jqXuUNuR6M8nn9kfBN": [
+			{
+				"comment_id": 20,
+				"body": "> [happyrabbit](#comment_4_1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT): maybe try to use tor or some thing tors a proxy so i think you can sort of use it to bypass your fire wall i think\n\nWorks, but you need to have at least one peer with an open port that has the url before you push the site. e.g. post the link first, or use proxy, then push.",
+				"added": 1511025935
+			}
+		],
+		"1511471860_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": [
+			{
+				"comment_id": 21,
+				"body": "Pretty sure that depends on your distro and package manager. [Easy enough to do.](http://xmodulo.com/create-desktop-shortcut-launcher-linux.html)",
+				"added": 1511481885
+			}
+		],
+		"1511482022_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": [
+			{
+				"comment_id": 22,
+				"body": "> [glightstar](#comment_26_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): Maybe you could write a plugin for ZeroNet, which would listen on a different port, to which a mail-client like Thunderbird could connect to, and route all the mails to ZeroMail..?! [...]\n\nThat's sort of what I had in mind, I guess it could be a plugin too. Just some way of receiving/sending data from Thunderbird to ZeroMail. The POP/SMTP could run on localhost. I guess I2P-Bote does this for their implementation.",
+				"added": 1512083191
+			}
+		],
+		"1513344544_1NekEfk2dRHtSeioUKrRXKfaiS9A65hGwQ": [
+			{
+				"comment_id": 23,
+				"body": "> [odellus](#comment_1_1NyDVH3VGKKvo8iAHEfZU1Cai2xCSNg3dC):  the only difference is how the content is hosted. zeronet's purpose is to combat censorship.\n\nThankfully the protocol is harder to censor and throttle than normal traffic. See also GFW of china.\nHowever, it would be nice to get ZeroNet LAN support ASAP, then at least if it gets cut off you could share with anyone on your LAN or WLAN...",
+				"added": 1513646037
+			}
+		]
+	},
+	"comment_vote": {
+		"1_17ahaGK6Y1Y9WxbGQutqB95EaeXQN1GpWE": 1,
+		"70_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1,
+		"1_145y9GYC9cAgPF2nC27KsHmJxzvWJvKCaj": 1,
+		"2_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": 1,
+		"1_1JUmJHq6hzQmqvxY8Q85ge8fSD1LeBshHM": 1,
+		"37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"38_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"6_14YZi1gMud3SpDFUUQncoW68qorXf6SPPU": 1,
+		"94_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"12_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs": 1,
+		"6_1PcZwxWnxHJdWgdbsvZnivK8iGX9cdVvZg": 1,
+		"1_1MzbKchvvhdKxf8JRFL9vAVMqF7YQu9zuk": 1,
+		"1_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": 1,
+		"2_1GjGCryreLrds3qMAf4Eb1pe8FNyG5qokd": 1,
+		"4_1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": 1,
+		"1_1981gxtfUj3M1ZB4ym2VeSCeU3gdU2GXrG": 1
+	}
+}

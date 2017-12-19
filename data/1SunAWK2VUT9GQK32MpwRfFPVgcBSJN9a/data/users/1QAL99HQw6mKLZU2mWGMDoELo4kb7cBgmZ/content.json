@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyjkbZpPNJtPptQiN2WgC6qd0ykfcDje0lCyAa4XrwOtz9gHIyeU6SdEHN1M9yy2vx6uxfxM+EMpUJsrFtX7INI=",
+ "cert_user_id": "zefinity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d39202455f58a130a8d80454c302a7cfca8a1777559340fb1bbe56888c48cac6",
+   "size": 10053
+  }
+ },
+ "inner_path": "data/users/1QAL99HQw6mKLZU2mWGMDoELo4kb7cBgmZ/content.json",
+ "modified": 1509324276,
+ "signs": {
+  "1QAL99HQw6mKLZU2mWGMDoELo4kb7cBgmZ": "G7DOYoqXp7zehGo9PyBoDwZIPC4T+wLiXojK10qWoE3adl57OMhJCTtZd6kdEklbg3Q/o3kb+Xk9C+8S+LKm2oQ="
+ }
+}

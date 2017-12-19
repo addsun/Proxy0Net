@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "HPtRCmfzzUJwaC1DhNrrHoLpg0atKGLflzAQCB3qf+cGzVI85Xlik3yff/x7bvKXXZbc/8/V+ZWm981PSBsKVrs=",
+ "cert_user_id": "neanderthals@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "99fd1e4430c29518c18553236eb7f1c8032dc43e9d23b31f6d3f08d79eebd366",
+   "size": 2175
+  }
+ },
+ "inner_path": "data/users/1KGXyTfCaaiFWrqoUeY1ku5ULVnEatNhpE/content.json",
+ "modified": 1507797169,
+ "signs": {
+  "1KGXyTfCaaiFWrqoUeY1ku5ULVnEatNhpE": "Gx9zzcexaCLGfbxA5fljPd6Re3udUA2Ak1/IScD1s/KKbeiS0xLM7shKsp2BkyNWlEj5K00gUI92pFws/mVrZlk="
+ }
+}

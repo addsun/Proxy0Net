@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "HEBypuDYtu70wX04b1uj+3lIQu1De8CnFzZWx+I154r5rtMoW+WvSsGZuRaQFLIq4qAxnY1hYaL+UH5gi5/LjOg=",
+ "cert_user_id": "affeali@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "05fe868dff325c297685525e999a6c32a87e778dec16867593d41afbf51da996",
+   "size": 4207
+  }
+ },
+ "inner_path": "data/users/1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB/content.json",
+ "modified": 1511442915,
+ "signs": {
+  "1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB": "HGKQhK1E4dDnaIVqWqL5vUfxbSAYKG+hjyTbeIaU4AtddoPLT4ZYpW3+i3Zy/EDt1kFcE4DuvpVGw8vzodOcmgU="
+ }
+}

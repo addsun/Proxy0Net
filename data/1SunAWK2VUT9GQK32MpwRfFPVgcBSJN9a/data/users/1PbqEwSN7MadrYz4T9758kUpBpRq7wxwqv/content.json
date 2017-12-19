@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HHFvJSQP1KVv95GrsW3u/+D9fF0Tj47VlaA8KwN/UErZUzDabd7kDXMNlqUH24aagCcKL/mSe/1xNMB/6doLFe4=",
+ "cert_user_id": "mattiasrubenson@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8291c803704beaa507940d2bbd6c8729d5f263126afcce2a4d9368cf88e2744a",
+   "size": 435
+  }
+ },
+ "inner_path": "data/users/1PbqEwSN7MadrYz4T9758kUpBpRq7wxwqv/content.json",
+ "modified": 1506709668,
+ "signs": {
+  "1PbqEwSN7MadrYz4T9758kUpBpRq7wxwqv": "HC3Cv+sRqPbZ6c8qihqRYiz6l78mZXAPUjsMuTOogIhDDRha8EGZpY35au0JR08UMcBpozD9oS33WaxuX3SjYzg="
+ }
+}

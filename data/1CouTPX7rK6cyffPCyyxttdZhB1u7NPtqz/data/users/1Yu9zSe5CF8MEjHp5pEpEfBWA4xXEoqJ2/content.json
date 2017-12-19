@@ -1,0 +1,21 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HMhkBAb/ecCPdGzeDhUdEvAoBqu8PIz4C/gjnwoajxVZR23nRJ+hzo9HfPIVyxba9pnYEi1r9nr3UHry4h7indc=",
+ "cert_user_id": "fucktg@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b90f844acd4c9e5137f40a1f2362b9c084af72d599111dd35191be334563e2d4",
+   "size": 1977
+  },
+  "data.json": {
+   "sha512": "55d9e1760136b89c5f69448ae9741c03dcc34513a93b45f6ec23132dcd4ba31e",
+   "size": 444
+  }
+ },
+ "inner_path": "data/users/1Yu9zSe5CF8MEjHp5pEpEfBWA4xXEoqJ2/content.json",
+ "modified": 1485077718,
+ "signs": {
+  "1Yu9zSe5CF8MEjHp5pEpEfBWA4xXEoqJ2": "G0vOKOth5Q1pAFSoRtXksZqeo6KLmFKBQvMjAFzv8N2kbB8/ik1iYNbXjJEW5+Pma/4JjMa0lFz1reMIYp/99x4="
+ }
+}

@@ -1,0 +1,69 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Migrating sites to another computer.",
+			"body": "I have a windows machine, Linux machine, and mac os machine and I would like to keep the sites that I use synchronized between the machines, anyone have any idea how to do this?",
+			"added": 1505833777
+		},
+		{
+			"topic_id": 2,
+			"title": "Checking for upload....",
+			"body": "I am trying to confirm that I have published my site properly... anyone got a moment to help diagnose?  address: http://127.0.0.1:43110/19CU2ACogqfA9wQRpffRrTLjwqQiyTBf5/",
+			"added": 1505847085
+		}
+	],
+	"topic_vote": {
+		"25_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"2_1165u6pt5mQNFjyhMVwy6azB7bZuQGLA9b": 1,
+		"1_1CjmMpMZgtzY2w9REEwLWQbtHhd5B5NStZ": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Testing 1,2,3",
+				"added": 1474301652
+			}
+		],
+		"1_1B5iBCuHQgbGdgTJmM2A2pZNVfpfp3EU5u": [
+			{
+				"comment_id": 2,
+				"body": "My guess is no, since there is no backing for node, all sites are distributed via static content... if you are looking for something to help you may want to look at jekyll (https://jekyllrb.com/) or hugo (https://gohugo.io/). HTH",
+				"added": 1492116620
+			}
+		],
+		"1_1Nx9ZGUxSaVmY3dMK9yaxcwuD9KtrK38Ra": [
+			{
+				"comment_id": 3,
+				"body": "yo",
+				"added": 1505154445
+			}
+		],
+		"1_1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v": [
+			{
+				"comment_id": 4,
+				"body": "> [james007](#comment_27_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Easiest way: Make a backup of your ZeroNet directory, and run it off a portable drive.  [...]\n\nThanks for the suggestion, It looks like I was able to do it by pulling the data directory, that still seems like an expensive (size wise) way to do it.",
+				"added": 1505840761
+			}
+		],
+		"2_1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v": [
+			{
+				"comment_id": 5,
+				"body": "> [james007](#comment_28_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Loads properly here. Nice looking Zite.\n\nExcellent... Thank you for the Assist.",
+				"added": 1505847855
+			}
+		]
+	},
+	"comment_vote": {
+		"275_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"2_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"5_14Kakxw14Eo5mXozLpsU755yeQuPmLRS9z": 1,
+		"4_1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v": 1,
+		"4_1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": 1,
+		"1_18ofhh3EyZe9ASAKNkwCdhaxwtaRSfg6ja": 1,
+		"28_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1
+	}
+}

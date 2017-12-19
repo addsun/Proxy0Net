@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Bnr",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Deterministic ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1511639525,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1511639698,
+			"body": "Yes, I just took this username because it has three characters. Also I lost access to my original one. :(",
+			"date_added": 1511639696
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "148RrrccHRKR7eVFUccfx7q1iFu6HVPuJD",
+			"user_name": "Bnr",
+			"date_added": 1511639657
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Aeonium",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Utilisateur ZeroNet aléatoire",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513126976,
+			"body": "Bonjour ZeroMe!"
+		},
+		{
+			"post_id": 1513130218,
+			"body": "un Zerosite qui démarre : http://127.0.0.1:43110/1GBaSyj6nrjsG3wep914Ym6VtUUYX2st1t/userChrome.html",
+			"date_added": 1513130216
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Padtrique: bonjour",
+			"post_uri": "1FKLmdDYNDMgqNd9QFEgNCgSttaDF7KnTF_1",
+			"date_added": 1513127119
+		}
+	],
+	"follow": []
+}

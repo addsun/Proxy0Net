@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HMiGkYzUar+/OVhHWBKxbObNouOn3BsK7tgyTYhIrZajZV70dLBeAQIoCwXq/KgsC/0uVRD2IbjsizvIWlC/TJ4=",
+ "cert_user_id": "prepper@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "280b0d8bff47090849547a1d61cc1df8b411d5e2c5d3be59c79e896c04256317",
+   "size": 16813
+  }
+ },
+ "inner_path": "data/users/1BqBYvoVCrsBD7Mhfh5F2rZtFphTzdShS3/content.json",
+ "modified": 1509545889,
+ "signs": {
+  "1BqBYvoVCrsBD7Mhfh5F2rZtFphTzdShS3": "HHPSMqhGX4mluM42f8ZEVoJdXxsqd8fefK9Fow1+xmtxQVnL6LG+pQnFo78hKNi6kUoVrzLxj1v6+1L5AnGQAcc="
+ }
+}

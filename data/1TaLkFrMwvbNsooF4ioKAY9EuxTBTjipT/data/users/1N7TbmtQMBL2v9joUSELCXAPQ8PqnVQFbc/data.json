@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1JPLWNMSRA2MCW52wRjUeCaQUhDxXAz71D": [
+			{
+				"comment_id": 1,
+				"body": "md5值相同，是病毒",
+				"added": 1500868077
+			},
+			{
+				"comment_id": 4,
+				"body": "检测报告 http://r.virscan.org/report/36338c15f43cacb566750dc25f2be51c",
+				"added": 1500868162
+			}
+		],
+		"2_1JPLWNMSRA2MCW52wRjUeCaQUhDxXAz71D": [
+			{
+				"comment_id": 2,
+				"body": "病毒",
+				"added": 1500868087
+			}
+		]
+	},
+	"comment_vote": {
+		"1_15veLatSdM1bDkPzfQ13NGY4urYWFYvvDU": 1,
+		"78_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1
+	}
+}

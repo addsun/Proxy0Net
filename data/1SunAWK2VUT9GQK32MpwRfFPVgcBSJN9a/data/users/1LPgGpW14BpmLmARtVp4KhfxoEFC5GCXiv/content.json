@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G8jrfWlNSMk1szXBlfBcOJZxWOkHQohUAjtFCx/ktJw3FaCKQFWk+T4OfdjgzzeYm9TStTL5rRFJCKsZ8uJn3Ek=",
+ "cert_user_id": "biochemstudent@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "207956dd91632af68c50926d0e636d1766c341a2fdb9070559ee9491a33f437e",
+   "size": 695
+  }
+ },
+ "inner_path": "data/users/1LPgGpW14BpmLmARtVp4KhfxoEFC5GCXiv/content.json",
+ "modified": 1503900313,
+ "signs": {
+  "1LPgGpW14BpmLmARtVp4KhfxoEFC5GCXiv": "G7FscBeFYPXLeIJVTR8/bI+Znr6uWCKLBDYUy9gJYutyGm9BbLK9kVerT8N7Sj7YjfV0KMafuWcSTYFKu0at1GE="
+ }
+}

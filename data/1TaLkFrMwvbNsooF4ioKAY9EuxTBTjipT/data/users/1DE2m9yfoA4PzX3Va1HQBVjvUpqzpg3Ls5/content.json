@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1CBhmbWAGhJ/9mbIKE6MLCqs/ffmF2hULkSSf4znw5rdfc1wmfX1gZNGFZUi5QKAWlrD5DK9aFV2lMrP5x1FYE=",
+ "cert_user_id": "sinetitan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "db9e1a5adfc457f27e93b1ca1a187ad5f864e54f3f0de4e60e4087b1ce6443be",
+   "size": 257
+  }
+ },
+ "inner_path": "data/users/1DE2m9yfoA4PzX3Va1HQBVjvUpqzpg3Ls5/content.json",
+ "modified": 1502437062,
+ "signs": {
+  "1DE2m9yfoA4PzX3Va1HQBVjvUpqzpg3Ls5": "HJYfrka814nY7daTuvTMLKfVVP8RfhDBNFeRCVkGEztQdBD+LIR/RNusMhQ4CyeEi92maMMsS0VNEfgwJ9hu0Zo="
+ }
+}

@@ -1,0 +1,675 @@
+{
+  "next_comment_id": 1,
+  "next_topic_id": 828,
+  "topic": [
+    {
+      "parent_topic_uri": "9_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+      "title": "ZeroNet Dev News Bot",
+      "body": "Commit, issue and PR bot for ZeroNet-related projects. By [ZeroTalk Feedbot Script](/Talk.ZeroNetwork.bit/?Topic:6_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h) ",
+      "type": "group",
+      "topic_id": 1509065748,
+      "added": 1509065747
+    },
+    {
+      "topic_id": 734,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Display confirmation before creating profile if user already have one",
+      "body": "     Display confirmation before creating profile if user already have one\n\n\n\nhttps://github.com/HelloZeroNet/ZeroMe/commit/eba38e3466996a973935291d677c80e24765d60d\n\n-- [Recent Commits to ZeroMe:master](https://github.com/HelloZeroNet/ZeroMe/commits/master.atom) 2017-12-13T22:37:53Z",
+      "added": 1513207371
+    },
+    {
+      "topic_id": 735,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Hub selection to menu if more than one profile found",
+      "body": "     Hub selection to menu if more than one profile found\n\n\n\nhttps://github.com/HelloZeroNet/ZeroMe/commit/614851064efec30d418d161c14b9fe9dbb429764\n\n-- [Recent Commits to ZeroMe:master](https://github.com/HelloZeroNet/ZeroMe/commits/master.atom) 2017-12-13T22:39:17Z",
+      "added": 1513207371
+    },
+    {
+      "topic_id": 736,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Menu always on top",
+      "body": "     Menu always on top\n\n\n\nhttps://github.com/HelloZeroNet/ZeroMe/commit/0343b67c342c76854104078bb55ce5671bf0ff3a\n\n-- [Recent Commits to ZeroMe:master](https://github.com/HelloZeroNet/ZeroMe/commits/master.atom) 2017-12-13T22:39:26Z",
+      "added": 1513207371
+    },
+    {
+      "topic_id": 737,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge js, css",
+      "body": "     Merge js, css\n\n\n\nhttps://github.com/HelloZeroNet/ZeroMe/commit/6318ff7aa204bdc1a2b333e1ddab4165ebfa9233\n\n-- [Recent Commits to ZeroMe:master](https://github.com/HelloZeroNet/ZeroMe/commits/master.atom) 2017-12-13T22:39:38Z",
+      "added": 1513207371
+    },
+    {
+      "topic_id": 738,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: ZeroBoard: Submitting messages containing Chinese characters to get \"Message submit failed! Parsing parameters... Please try again later\".",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1203\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 14, 2017",
+      "added": 1513225653
+    },
+    {
+      "topic_id": 739,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Wait for localstorage before running checkUser",
+      "body": "     Wait for localstorage before running checkUser\n\n\n\nhttps://github.com/HelloZeroNet/ZeroMe/commit/b8dfac56742cff03a3fce011a2107c36ffe5bf66\n\n-- [Recent Commits to ZeroMe:master](https://github.com/HelloZeroNet/ZeroMe/commits/master.atom) 2017-12-14T13:25:29Z",
+      "added": 1513258579
+    },
+    {
+      "topic_id": 740,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: ZeroNet Windows Firewall Issues",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1204\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 14, 2017",
+      "added": 1513273235
+    },
+    {
+      "topic_id": 741,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: https://github.com/jaros1/Money-Network/issues/262",
+      "body": "     https://github.com/jaros1/Money-Network/issues/262     backup check in. adding file with wallet transaction status\n\n\n\nhttps://github.com/jaros1/Money-Network/commit/1b6db99940258e608adc2629b4e467efd20c3915\n\n-- [Recent Commits to Money-Network:master](https://github.com/jaros1/Money-Network/commits/master.atom) 2017-12-14T18:04:36Z",
+      "added": 1513276895
+    },
+    {
+      "topic_id": 742,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New PR: Parse both UNION and UNION ALL",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/pull/1205\n\n-- [Pull Requests \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/pulls) Dec 14, 2017",
+      "added": 1513280554
+    },
+    {
+      "topic_id": 743,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Limit change button for sites that running out of limit",
+      "body": "     Limit change button for sites that running out of limit\n\n\n\nhttps://github.com/HelloZeroNet/ZeroHello/commit/3fb304eb59fff46b860ed2cc8f20b3fb2dd7eab3\n\n-- [Recent Commits to ZeroHello:master](https://github.com/HelloZeroNet/ZeroHello/commits/master.atom) 2017-12-15T01:01:08Z",
+      "added": 1513302498
+    },
+    {
+      "topic_id": 744,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'master' of https://github.com/HelloZeroNet/ZeroHello",
+      "body": "     Merge branch 'master' of https://github.com/HelloZeroNet/ZeroHello\n\n\n\nhttps://github.com/HelloZeroNet/ZeroHello/commit/13d0aa6864bb9018f2d66434f565a0758542768f\n\n-- [Recent Commits to ZeroHello:master](https://github.com/HelloZeroNet/ZeroHello/commits/master.atom) 2017-12-15T01:01:15Z",
+      "added": 1513302498
+    },
+    {
+      "topic_id": 745,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: x",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1204\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 14, 2017",
+      "added": 1513331750
+    },
+    {
+      "topic_id": 746,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: UiWebsocket handleRequest takes parsed request intead of raw message (and more)",
+      "body": "     UiWebsocket handleRequest takes parsed request intead of raw message\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/8a331e7400dc30c3ba464b2e17e7869f58c433f9\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-15T11:11:27Z",
+      "added": 1513339063
+    },
+    {
+      "topic_id": 747,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: New UiWebsocket API command to run commands as other site",
+      "body": "     New UiWebsocket API command to run commands as other site\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/1ac69ae315604aba5ba75eb6d2ac294d154d32b5\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-15T11:13:19Z",
+      "added": 1513339063
+    },
+    {
+      "topic_id": 748,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Send websocket update on site limit change",
+      "body": "     Send websocket update on site limit change\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/8f34afc630348bccdf34f11aad5e92eaff57509e\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-15T11:13:35Z",
+      "added": 1513339063
+    },
+    {
+      "topic_id": 749,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Rev3170",
+      "body": "     Rev3170\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/6628b07bbac891d903e630a8e3fdcc14e6ec9570\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-15T11:14:09Z",
+      "added": 1513339063
+    },
+    {
+      "topic_id": 750,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Rev3171, Allow 127.0.0.1 peers for testing reasons",
+      "body": "     Rev3171, Allow 127.0.0.1 peers for testing reasons\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/b5452bce6bd0eb230a959f631575c11068a8ea0e\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-15T11:28:48Z",
+      "added": 1513339063
+    },
+    {
+      "topic_id": 751,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Repo: Add 'Actions' to updateFollow(); automatically subscribe when a\u2026 (and more)",
+      "body": "     Repo: Add 'Actions' to updateFollow() ; automatically subscribe when adding new feeds\n\n\n\nhttps://github.com/imachug/gitcenter/commit/95957e92f9b6af60a0ead7ceef712e84807da981\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-14T18:00:08Z",
+      "added": 1513353702
+    },
+    {
+      "topic_id": 752,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Remove SELECT inside SELECT",
+      "body": "     Remove SELECT inside SELECT\n\n\n\nhttps://github.com/imachug/gitcenter/commit/8ed9b5e963ca654677a6eb53ba0bed3c2b8cfbac\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T14:04:11Z",
+      "added": 1513353702
+    },
+    {
+      "topic_id": 753,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Repo: Show 'Closed ...' / 'Reopened ...' in newsfeed",
+      "body": "     Repo: Show 'Closed ...' / 'Reopened ...' in newsfeed\n\n\n\nhttps://github.com/imachug/gitcenter/commit/08e902b808db48fb85c5877334b33c4c350a40a9\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T14:59:01Z",
+      "added": 1513353702
+    },
+    {
+      "topic_id": 754,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Update actions after closing/reopening",
+      "body": "     Update actions after closing/reopening\n\n\n\nhttps://github.com/imachug/gitcenter/commit/4db2bdbd6e4cfbafcbcf80282ec09a0a0588367f\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T15:04:34Z",
+      "added": 1513353702
+    },
+    {
+      "topic_id": 755,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-9-164x9q7'",
+      "body": "     Merge branch 'issue-9-164x9q7'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/bf3bca6a591b27b745c4651f94b33cb598486c66\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T15:05:03Z",
+      "added": 1513353702
+    },
+    {
+      "topic_id": 756,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Repo: Add changeIssue() and changePullRequest() (and more)",
+      "body": "     Repo: Add changeIssue()  and changePullRequest() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/ebf62b0e88543685bdc0059d1a0140ad0b5c31ff\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T16:48:49Z",
+      "added": 1513357366
+    },
+    {
+      "topic_id": 757,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Edit both comment and issue/PR",
+      "body": "     Edit both comment and issue/PR\n\n\n\nhttps://github.com/imachug/gitcenter/commit/d1ea84ef88741a9da026f06452540d0f34c93111\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T16:48:59Z",
+      "added": 1513357366
+    },
+    {
+      "topic_id": 758,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Fix PRs",
+      "body": "     Fix PRs\n\n\n\nhttps://github.com/imachug/gitcenter/commit/c0a86758ec98d34e8c70be3f03715e8d3a5ed854\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T16:51:34Z",
+      "added": 1513357366
+    },
+    {
+      "topic_id": 759,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Set 'owned' to true when posting comment",
+      "body": "     Set 'owned' to true when posting comment\n\n\n\nhttps://github.com/imachug/gitcenter/commit/70214a571171681ccb5eb730f1a3c1ea292f6be6\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T16:53:33Z",
+      "added": 1513357366
+    },
+    {
+      "topic_id": 760,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-2-12gaes6'",
+      "body": "     Merge branch 'issue-2-12gaes6'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/192dc532e71fb02e30bce3244d00429175c3b921\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T16:53:56Z",
+      "added": 1513357366
+    },
+    {
+      "topic_id": 761,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add removeIssueComment() and removePullRequestComment() (and more)",
+      "body": "     Add removeIssueComment()  and removePullRequestComment() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/c602e5b4cbee16a5da3fb00adfd7f182986ae407\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T17:27:59Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 762,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Make cross black",
+      "body": "     Make cross black\n\n\n\nhttps://github.com/imachug/gitcenter/commit/722a82c8a32d0e402a6d5b0580881773277aafa9\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T17:28:40Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 763,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Replace cross.svg with remove.svg",
+      "body": "     Replace cross.svg with remove.svg\n\n\n\nhttps://github.com/imachug/gitcenter/commit/b12199a547a19df9d5066023a943f8892e4c9ed6\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T17:35:23Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 764,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add removing support",
+      "body": "     Add removing support\n\n\n\nhttps://github.com/imachug/gitcenter/commit/77b6a7e82f11acadcd6d39783015176f89362fed\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T17:37:18Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 765,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-delete'",
+      "body": "     Merge branch 'issue-delete'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/128af1707b1cee0999d8786b7d319beee4490acf\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T17:37:27Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 766,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: https://github.com/jaros1/Money-Network/issues/262",
+      "body": "     https://github.com/jaros1/Money-Network/issues/262     backup check-in.\n\n\n\nhttps://github.com/jaros1/Money-Network/commit/98d4ebea8cdd9ff6f864c994695a75c01609f749\n\n-- [Recent Commits to Money-Network:master](https://github.com/jaros1/Money-Network/commits/master.atom) 2017-12-15T17:56:18Z",
+      "added": 1513361022
+    },
+    {
+      "topic_id": 767,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add .tag-add (and more)",
+      "body": "     Add .tag-add\n\n\n\nhttps://github.com/imachug/gitcenter/commit/8cb49ec61cdf867688b508c0df3e6200c778050b\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T18:28:17Z",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 768,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add '+'",
+      "body": "     Add '+'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/4a8db75e7d2ac522a038ada3aeb804becae94f13\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T18:29:00Z",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 769,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Change tag size a bit",
+      "body": "     Change tag size a bit\n\n\n\nhttps://github.com/imachug/gitcenter/commit/94a97e2eb014c0d60c3de08e97afc8a90f6da79f\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T18:30:43Z",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 770,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'change-tags'",
+      "body": "     Merge branch 'change-tags'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/fcb4c14916520116d08c2407ce9ced97a4648d90\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T18:30:59Z",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 771,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Hotfix",
+      "body": "     Hotfix\n\n\n\nhttps://github.com/imachug/gitcenter/commit/077ac7c8578823d4e0936645691f9087b45884a9\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-15T19:00:54Z",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 772,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Chat: send money - wallet ping is hanging",
+      "body": "\n\nhttps://github.com/jaros1/Money-Network/issues/296\n\n-- [Issues \u00b7 jaros1/Money-Network \u00b7 GitHub](https://github.com/jaros1/Money-Network/issues) Dec 15, 2017",
+      "added": 1513364682
+    },
+    {
+      "topic_id": 773,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Grammar and readability changes.",
+      "body": "     Grammar and readability changes.\n\n\n\nhttps://github.com/krixano/ZeroNet-Dev-Center/commit/870d5ce0d88d69956059563ca47c1d72c193414a\n\n-- [Recent Commits to ZeroNet-Dev-Center:master](https://github.com/krixano/ZeroNet-Dev-Center/commits/master.atom) 2017-12-12T10:40:13Z",
+      "added": 1513368339
+    },
+    {
+      "topic_id": 774,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Revert some of the writing style changes.",
+      "body": "     Revert some of the writing style changes.\n\n\n\nhttps://github.com/krixano/ZeroNet-Dev-Center/commit/a7d26c21b161f6a9c77c7ae66975ffa73e194cd0\n\n-- [Recent Commits to ZeroNet-Dev-Center:master](https://github.com/krixano/ZeroNet-Dev-Center/commits/master.atom) 2017-12-13T01:12:50Z",
+      "added": 1513368339
+    },
+    {
+      "topic_id": 775,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Edited according to comments.",
+      "body": "     Edited according to comments.\n\n\n\nhttps://github.com/krixano/ZeroNet-Dev-Center/commit/03186702f0ebe35459313d9a4887ade68cea3b28\n\n-- [Recent Commits to ZeroNet-Dev-Center:master](https://github.com/krixano/ZeroNet-Dev-Center/commits/master.atom) 2017-12-13T11:07:39Z",
+      "added": 1513368339
+    },
+    {
+      "topic_id": 776,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge pull request #30 from anoadragon453/master",
+      "body": "     Merge pull request #30 from anoadragon453/master          Grammar and readability changes\n\n\n\nhttps://github.com/krixano/ZeroNet-Dev-Center/commit/3d3c060e45ee8e5c7f646e21f1f7150d6fcbdf2b\n\n-- [Recent Commits to ZeroNet-Dev-Center:master](https://github.com/krixano/ZeroNet-Dev-Center/commits/master.atom) 2017-12-15T19:10:19Z",
+      "added": 1513368339
+    },
+    {
+      "topic_id": 777,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Hanging money transaction",
+      "body": "\n\nhttps://github.com/jaros1/Money-Network/issues/297\n\n-- [Issues \u00b7 jaros1/Money-Network \u00b7 GitHub](https://github.com/jaros1/Money-Network/issues) Dec 16, 2017",
+      "added": 1513404905
+    },
+    {
+      "topic_id": 778,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add cursor: pointer to .comment-edit, .comment-save and .comment-remove",
+      "body": "     Add cursor: pointer to .comment-edit, .comment-save and .comment-remove\n\n\n\nhttps://github.com/imachug/gitcenter/commit/fba8e0c970f22d5096138bfbf78641a43d60c68b\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T09:42:19Z",
+      "added": 1513419529
+    },
+    {
+      "topic_id": 779,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add cursor: pointer to .tag-remove and .tag-add",
+      "body": "     Add cursor: pointer to .tag-remove and .tag-add\n\n\n\nhttps://github.com/imachug/gitcenter/commit/d6022b76e3a73c88349f34527478495237e3731e\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T09:43:51Z",
+      "added": 1513419529
+    },
+    {
+      "topic_id": 780,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Move addTag() to separate file (and more)",
+      "body": "     Move addTag()  to separate file\n\n\n\nhttps://github.com/imachug/gitcenter/commit/fd9e7499deed39658c38258f2a5f122579a20837\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T18:55:24Z",
+      "added": 1513452432
+    },
+    {
+      "topic_id": 781,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add showTags()",
+      "body": "     Add showTags() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/c2a3420a61360b93bd6b0886291089a4f4621286\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T18:57:18Z",
+      "added": 1513452432
+    },
+    {
+      "topic_id": 782,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add showActions()",
+      "body": "     Add showActions() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/190b556af8b49f2b5118cd2c315e90edc45624b3\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:01:39Z",
+      "added": 1513452432
+    },
+    {
+      "topic_id": 783,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Move showAction() to objects_view.js",
+      "body": "     Move showAction()  to objects_view.js\n\n\n\nhttps://github.com/imachug/gitcenter/commit/703e27ad3de0bf3c9b86a8739469c4d95f953f4f\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:02:43Z",
+      "added": 1513452432
+    },
+    {
+      "topic_id": 784,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'repo-clean'",
+      "body": "     Merge branch 'repo-clean'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/7ff69f5fc6ce69a9ed5deed586835a5970e88045\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:08:38Z",
+      "added": 1513452432
+    },
+    {
+      "topic_id": 785,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Move comment button to showCommentButtons() (and more)",
+      "body": "     Move comment button to showCommentButtons() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/e28201c60c7155f6b0358d8e1f3329735d3cdd3a\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:12:00Z",
+      "added": 1513456088
+    },
+    {
+      "topic_id": 786,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Handle 'comment and close' button",
+      "body": "     Handle 'comment and close' button\n\n\n\nhttps://github.com/imachug/gitcenter/commit/bc35459c188317e8f9f9b7fd506edc5094e57298\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:25:48Z",
+      "added": 1513456088
+    },
+    {
+      "topic_id": 787,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Set 'actions' of FOLLOW_QUERIES",
+      "body": "     Set 'actions' of FOLLOW_QUERIES\n\n\n\nhttps://github.com/imachug/gitcenter/commit/0303b97e01a7ecb6b458e5c416130ca52c131b6b\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:29:07Z",
+      "added": 1513456088
+    },
+    {
+      "topic_id": 788,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'repo-clean'",
+      "body": "     Merge branch 'repo-clean'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/537e85b3c5c217e6cba77149342e2500a7d7ac7d\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:29:26Z",
+      "added": 1513456088
+    },
+    {
+      "topic_id": 789,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge pull request #1 from cxgreat2014/patch-1",
+      "body": "     Merge pull request #1 from cxgreat2014/patch-1          Fix for i18n\n\n\n\nhttps://github.com/imachug/gitcenter/commit/4aaf471db7e784368e505540e0dfdf4b52130026\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-16T19:31:32Z",
+      "added": 1513456088
+    },
+    {
+      "topic_id": 790,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Merger Zite(s)",
+      "body": "\n\nhttps://github.com/krixano/ZeroNet-Dev-Center/issues/21\n\n-- [Issues \u00b7 krixano/ZeroNet-Dev-Center \u00b7 GitHub](https://github.com/krixano/ZeroNet-Dev-Center/issues) Aug 18, 2017",
+      "added": 1513478023
+    },
+    {
+      "topic_id": 791,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: content.json not distributed after OK publish",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1206\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 17, 2017",
+      "added": 1513525549
+    },
+    {
+      "topic_id": 792,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Show list of users in group",
+      "body": "\n\nhttps://github.com/AnthyG/ThunderWave/issues/102\n\n-- [Issues \u00b7 AnthyG/ThunderWave \u00b7 GitHub](https://github.com/AnthyG/ThunderWave/issues) Dec 17, 2017",
+      "added": 1513554795
+    },
+    {
+      "topic_id": 793,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Rev3173, Don't display Cors permission ask if already has, Fix error \u2026",
+      "body": "     Rev3173, Don't display Cors permission ask if already has, Fix error on Cors request on non-existent site\n\n\n\nhttps://github.com/HelloZeroNet/ZeroNet/commit/c9c1d10ee46f3b97a3ec42329253f7feba7d423e\n\n-- [Recent Commits to ZeroNet:master](https://github.com/HelloZeroNet/ZeroNet/commits/master.atom) 2017-12-18T01:37:09Z",
+      "added": 1513562106
+    },
+    {
+      "topic_id": 794,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: [Suggestion] Better documentation about Plugins",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1207\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513573073
+    },
+    {
+      "topic_id": 795,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: [Suggestion] Documentation about how to create plugins",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1208\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513573073
+    },
+    {
+      "topic_id": 796,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Remove shadow and light gray background (and more)",
+      "body": "     Remove shadow and light gray background\n\n\n\nhttps://github.com/imachug/gitcenter/commit/64a8ae6b033c7b5d8f5faa34f2fa0394fd283903\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T07:30:09Z",
+      "added": 1513584043
+    },
+    {
+      "topic_id": 797,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-15-164x9q7'",
+      "body": "     Merge branch 'issue-15-164x9q7'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/57545f67861743092234105952f445250d89fa03\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T07:30:23Z",
+      "added": 1513584043
+    },
+    {
+      "topic_id": 798,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Repo: Don't use translateTime() for log",
+      "body": "     Repo: Don't use translateTime()  for log\n\n\n\nhttps://github.com/imachug/gitcenter/commit/c774e6a45f490830a514b860f47dedb6cd0b21bb\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T07:39:21Z",
+      "added": 1513584043
+    },
+    {
+      "topic_id": 799,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add 'Cancel' button",
+      "body": "     Add 'Cancel' button\n\n\n\nhttps://github.com/imachug/gitcenter/commit/a05e9c19308effcb139d67f1fdfb7d11787ec207\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T07:52:06Z",
+      "added": 1513584043
+    },
+    {
+      "topic_id": 800,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-17-164x9q7'",
+      "body": "     Merge branch 'issue-17-164x9q7'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/d62d0393002ffc5c9fa096f78ecf4dfc20c374cc\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T07:52:13Z",
+      "added": 1513584043
+    },
+    {
+      "topic_id": 801,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Load status objects in loadObjects() (and more)",
+      "body": "     Load status objects in loadObjects() \n\n\n\nhttps://github.com/imachug/gitcenter/commit/3f3d0397693d6528972bd513ffbf2a7dc8ee5e2d\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T08:20:39Z",
+      "added": 1513587702
+    },
+    {
+      "topic_id": 802,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Use status in navigation",
+      "body": "     Use status in navigation\n\n\n\nhttps://github.com/imachug/gitcenter/commit/4ca02cc55757c5f34c78d62ab6bd2d5ec361d372\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T08:21:52Z",
+      "added": 1513587702
+    },
+    {
+      "topic_id": 803,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Add .objects-... to content.css",
+      "body": "     Add .objects-... to content.css\n\n\n\nhttps://github.com/imachug/gitcenter/commit/517672dd7aebea3eeb4f9a51c1823256e7eff1db\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T08:24:54Z",
+      "added": 1513587702
+    },
+    {
+      "topic_id": 804,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Show heaer",
+      "body": "     Show heaer\n\n\n\nhttps://github.com/imachug/gitcenter/commit/b60c012a37eb93657cc0df4f74319a4616916966\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T08:26:33Z",
+      "added": 1513587702
+    },
+    {
+      "topic_id": 805,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-1-12gaes6'",
+      "body": "     Merge branch 'issue-1-12gaes6'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/e55733cca9fec9e76a610562c96d430f20cb7f91\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T08:27:04Z",
+      "added": 1513587702
+    },
+    {
+      "topic_id": 806,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Ability to submit sites for review to a ZeroProxy",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1209\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513591363
+    },
+    {
+      "topic_id": 807,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Remove module.exports, Search Query support (ex: &s=SearchInput)",
+      "body": "     Remove module.exports, Search Query support (ex: &s=SearchInput) \n\n\n\nhttps://github.com/krixano/ZeroFrame-Router/commit/fc139345c234b2c23801a72d0c1af2d4c3e1a127\n\n-- [Recent Commits to ZeroFrame-Router:master](https://github.com/krixano/ZeroFrame-Router/commits/master.atom) 2017-12-18T10:43:29Z",
+      "added": 1513595021
+    },
+    {
+      "topic_id": 808,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Pass searchQuery into controller and hook functions",
+      "body": "     Pass searchQuery into controller and hook functions\n\n\n\nhttps://github.com/krixano/ZeroFrame-Router/commit/6981f297a00e2d196464d6edc85f02ffbf5e5e5f\n\n-- [Recent Commits to ZeroFrame-Router:master](https://github.com/krixano/ZeroFrame-Router/commits/master.atom) 2017-12-18T10:47:02Z",
+      "added": 1513595021
+    },
+    {
+      "topic_id": 809,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Issues: Add .contexts",
+      "body": "     Issues: Add .contexts\n\n\n\nhttps://github.com/imachug/gitcenter/commit/2d69b436877efbf7ec49f90952bb1bac25b899f8\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T11:06:19Z",
+      "added": 1513598678
+    },
+    {
+      "topic_id": 810,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Retrieve contexts from RepoIssues",
+      "body": "     Retrieve contexts from RepoIssues\n\n\n\nhttps://github.com/imachug/gitcenter/commit/4a0dac7e15cc9738721015e3159ba674de581ada\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T11:06:38Z",
+      "added": 1513598678
+    },
+    {
+      "topic_id": 811,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'context'",
+      "body": "     Merge branch 'context'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/e88bad3535f0853f978e76347452d73c76e255c2\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T11:06:55Z",
+      "added": 1513598678
+    },
+    {
+      "topic_id": 812,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Add hash support",
+      "body": "\n\nhttps://github.com/krixano/ZeroFrame-Router/issues/1\n\n-- [Issues \u00b7 krixano/ZeroFrame-Router \u00b7 GitHub](https://github.com/krixano/ZeroFrame-Router/issues) Jul 29, 2017",
+      "added": 1513598678
+    },
+    {
+      "topic_id": 813,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: DecodeURIComponent additional (and more)",
+      "body": "     DecodeURIComponent additional\n\n\n\nhttps://github.com/imachug/gitcenter/commit/d298cc68e9e80c4486fec83200dcc3f3ba8f6c14\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T12:35:40Z",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 814,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Make tags links",
+      "body": "     Make tags links\n\n\n\nhttps://github.com/imachug/gitcenter/commit/6cab0983ad7b037d41544eac19147faf371e5717\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T13:01:31Z",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 815,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Set background and foreground colors !important for dark theme compat\u2026",
+      "body": "     Set background and foreground colors !important for dark theme compatibility\n\n\n\nhttps://github.com/imachug/gitcenter/commit/131e0ff6f26ac610cf9da42e418c62732d0fa57a\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T13:02:10Z",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 816,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Merge branch 'issue-5-164x9q7'",
+      "body": "     Merge branch 'issue-5-164x9q7'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/77704ad677d8a09b3f47644b3eee0ebe7f9da731\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T13:06:35Z",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 817,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Repo: Math.floor date delta to avoid '12.631 seconds ago'",
+      "body": "     Repo: Math.floor date delta to avoid '12.631 seconds ago'\n\n\n\nhttps://github.com/imachug/gitcenter/commit/7e0573ade9c58c4d42bf4e781193f62a6c14179b\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T13:07:24Z",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 818,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New PR: aAA",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/pull/1210\n\n-- [Pull Requests \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/pulls) Dec 18, 2017",
+      "added": 1513605994
+    },
+    {
+      "topic_id": 819,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Enrich git submodule URL parsing procedure",
+      "body": "     Enrich git submodule URL parsing procedure\n\n\n\nhttps://github.com/imachug/gitcenter/commit/0e350eef31e1181e69565bd394c814b839015952\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T15:26:06Z",
+      "added": 1513613311
+    },
+    {
+      "topic_id": 820,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Fix on this",
+      "body": "     Fix on this\n\n\n\nhttps://github.com/imachug/gitcenter/commit/5333b63309222ab25312cce63d7dbf6e8bc759d7\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T15:30:18Z",
+      "added": 1513613311
+    },
+    {
+      "topic_id": 821,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: Update originalBody when editing comment",
+      "body": "     Update originalBody when editing comment\n\n\n\nhttps://github.com/imachug/gitcenter/commit/df9e0bb843360eab3cb39ad936975139ce8f1ac9\n\n-- [Recent Commits to gitcenter:master](https://github.com/imachug/gitcenter/commits/master.atom) 2017-12-18T15:53:35Z",
+      "added": 1513613311
+    },
+    {
+      "topic_id": 822,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: File History",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1211\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513616968
+    },
+    {
+      "topic_id": 823,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Advanced Usage: Immutable Content, Trusted Timestamp, Permission Control",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1212\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513616968
+    },
+    {
+      "topic_id": 824,
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: Namecoin-based ID provider",
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1213\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "added": 1513616968
+    },
+    {
+      "body": "     https://github.com/jaros1/Money-Network/issues/262#issuecomment-352448194     backup check in - adding money transaction status to MN UI\n\n\n\nhttps://github.com/jaros1/Money-Network/commit/bf18b96fd8a3e931ece911e77ec3081ff9b5cf96\n\n-- [Recent Commits to Money-Network:master](https://github.com/jaros1/Money-Network/commits/master.atom) 2017-12-18T17:55:45Z",
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New commit: https://github.com/jaros1/Money-Network/issues/262#issuecomment-35244\u2026",
+      "topic_id": 825,
+      "added": 1513620629
+    },
+    {
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/1211\n\n-- [Issues \u00b7 HelloZeroNet/ZeroNet \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroNet/issues) Dec 18, 2017",
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: History and log for ZeroNet site files change",
+      "topic_id": 826,
+      "added": 1513620629
+    },
+    {
+      "body": "\n\nhttps://github.com/HelloZeroNet/ZeroMe/issues/109\n\n-- [Issues \u00b7 HelloZeroNet/ZeroMe \u00b7 GitHub](https://github.com/HelloZeroNet/ZeroMe/issues) Dec 18, 2017",
+      "parent_topic_uri": "1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D",
+      "title": "New issue: If comment and post are not stored in same hub, ZeroMe don't show the comment.",
+      "topic_id": 827,
+      "added": 1513620629
+    }
+  ],
+  "topic_vote": {},
+  "comment": {},
+  "comment_vote": {}
+}

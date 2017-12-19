@@ -1,0 +1,73 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "User data on Zeronet android",
+			"body": "Where does Zeronet stores the user data files on android?I would like to backup my identity,but cannot find anything",
+			"added": 1503863344
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": [
+			{
+				"comment_id": 1,
+				"body": "> [tempuser12345678]\nI was just thinking about the same thing,as I first read the article..",
+				"added": 1496274535
+			}
+		],
+		"4_1DLHbq2nvwpgU4xT3ajhABAW1Lfn3zTZhe": [
+			{
+				"comment_id": 2,
+				"body": "Magyar 😂",
+				"added": 1496611185
+			}
+		],
+		"5_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 3,
+				"body": "My P9 lite running android 6.0\nBenchmarking ZeroNet 0.5.4 (rev2067) Python 2.7.2 (default, May 14 2017, 08:45:38) [GCC 4.8] on: linux4...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.673s [x1.04: OK]\n- sign x 10..........0.336s [x1.04: OK]\n- openssl verify x 100...not avalible :(\n- pure-python verify x 10..........0.959s [x1.67: Fine]\n\nCryptHash:\n- sha256 5M x 10..........0.730s [x0.82: OK]\n- sha512 5M x 10..........2.474s [x0.24: Sloooow]\n- os.urandom(256) x 1000..........0.068s [x0.10: Sloooow]\n\nMsgpack: (version: 0.4.7)\n- pack 5K x 10 000..........1.328s [x0.59: Goodish]\n- unpack 5K x 10 000..........2.288s [x0.52: Goodish]\n- streaming unpack 5K x 10 000..........2.486s [x0.56: Goodish]\n\nDb: (version: 3.15.1, API: 2.6.0)\n- Open x 10..........0.039s [x3.29: WOW]\n- Insert x 10 x 1000..........2.998s [x0.33: Ehh]\n- Buffered insert x 100 x 100..........3.595s [x0.36: Ehh]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.363s [x0.69: Goodish]\n- Not indexed query x 100..........0.792s [x0.76: Goodish]\n- Like query x 100..........1.905s [x0.95: OK]\n\nCompression:\n- Zip pack x 10..........0.230s [x0.52: Goodish]\n- Zip unpack x 10..........0.036s [x5.63: Insane!!]\n- Tar.gz pack x 10..........0.548s [x0.55: Goodish]\n- Tar.gz unpack x 10..........0.031s [x6.41: Insane!!]\n- Tar.bz2 pack x 10\n! Error: bz2 module is not available\n0.001s [x1469.37: Insane!!]\n- Tar.bz2 unpack x 10\n! Error: bz2 module is not available\n0.001s [x365.74: Insane!!]\n\nDone. Total: 22.21s",
+				"added": 1499100876
+			},
+			{
+				"comment_id": 4,
+				"body": "Nofish,would it be a hard work to solve these things?mainly the 64bit compilation and the multi-thread support.nowadays all android devices have high corecount 64 bit cpus,for example my P9 has 8 cores.if we could utilize those,that should be a huge improvement.it can even help on desktop pcs(with FX or Phenom II cpus),but for start it would be great to try it out on the android version.if it's not a huge work of course :D",
+				"added": 1499280170
+			},
+			{
+				"comment_id": 5,
+				"body": "Now I see.yes,so in the end of the day multithreading isn't that easy but it would be beneficial for most of the zeronet users.bad thing is that python doesn't \"like\" multithreading by nature..",
+				"added": 1499476790
+			}
+		],
+		"1_1N1bEAsjdqCy5f7SG6jPXUoa1BA2QES8DZ": [
+			{
+				"comment_id": 6,
+				"body": "Thanks,helped a lot! :)",
+				"added": 1503965391
+			}
+		],
+		"1_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": [
+			{
+				"comment_id": 7,
+				"body": "I will also come,since I live next to Budapest,and it sounds fun :) make some new friends with the same interests,I'm looking forward to it!",
+				"added": 1504112277
+			},
+			{
+				"comment_id": 8,
+				"body": "Oh,I almost forgot today is the meetup..I didn't plan it out enough,but I will try to be there :)",
+				"added": 1506670648
+			}
+		]
+	},
+	"comment_vote": {
+		"2_1KVvRSAh83rytmVnpbhysce2SZ4Ht8tkUP": 1,
+		"3_1KVvRSAh83rytmVnpbhysce2SZ4Ht8tkUP": 1,
+		"85_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"944_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"70_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"21_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1
+	}
+}

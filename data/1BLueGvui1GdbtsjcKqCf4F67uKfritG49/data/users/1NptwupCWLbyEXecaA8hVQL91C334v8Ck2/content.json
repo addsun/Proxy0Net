@@ -1,0 +1,28 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HEf0YIXVHXcxHpKyhduRnbMMvRVlMlRT9mJ81zEJOhhr4aqoTHos5dnxTFsfGDZVo40D0ZM4bm0DY5REazdGn2s=",
+ "cert_user_id": "pellementmaker@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "c04e9054f1c63d450f3453aa0247b7ce71ebb4b6c35bcc390cf39d7406bae1c4",
+   "size": 1453
+  },
+  "data.json": {
+   "sha512": "3b3b1aaab11bcd495144a9f2ba1a40673cee9143a6bf5340bebaae4f01dea9d2",
+   "size": 817
+  }
+ },
+ "files_optional": {
+  "1504673344.jpg": {
+   "sha512": "234d23f9ff26e4accb22cac6b51546049338fef38e119aa4ca54ff05511bb8de",
+   "size": 97189
+  }
+ },
+ "inner_path": "data/users/1NptwupCWLbyEXecaA8hVQL91C334v8Ck2/content.json",
+ "modified": 1504674116,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1NptwupCWLbyEXecaA8hVQL91C334v8Ck2": "HFb7o0pwLHRKuoZjRUJXL7oAieD2YQ8VPBuucHwOgyJrXVEfXHTCYnjcZsyOZQ/ExWSghxl1YtojHA6T1xtTA+c="
+ }
+}

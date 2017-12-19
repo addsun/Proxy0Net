@@ -1,0 +1,102 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"13_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1
+	},
+	"next_comment_id": 16,
+	"comment": {
+		"8_1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t": [
+			{
+				"comment_id": 1,
+				"body": "Your site doesn't load. Is your port open?",
+				"added": 1471872974
+			},
+			{
+				"comment_id": 2,
+				"body": "Odd, the site loaded in a proxy, but it still fails for me. I'm not having issues with any other sites, and my ports are open and Tor is running fine. :\\",
+				"added": 1471887308
+			},
+			{
+				"comment_id": 3,
+				"body": "Nope. The proxy has me wait a while, but then it errors out. Guess it's probably still downloading it from you maybe?\n\nProxy says it's currently storing 873MB for the site, which is odd since it says that 727MB of that are JSON files. You aren't actually including that many redundant JSON's right?\n\nHere's the link so you can check it out yourself: https://proxy1.zn.kindlyfire.me/16iXY7BX8UF1j2NJVQHADyuGorFJKFvnzG/",
+				"added": 1471892833
+			},
+			{
+				"comment_id": 4,
+				"body": "Maybe try making the file optional so that the main page might at least load.",
+				"added": 1471912113
+			},
+			{
+				"comment_id": 5,
+				"body": "Still no dice. Endless flipping square with \"Peers found: 40\"",
+				"added": 1472080460
+			}
+		],
+		"2_1JHumjFpXMTtSgm1ygdHqsvL9321Z87NDc": [
+			{
+				"comment_id": 6,
+				"body": "Look at it this way. \n\n- Do you already have a computer?\n- Is fiddling with a few things considered a pain?\n- Do you want to have to buy a new computer?\n- Are you willing to pay a lot of money for a small bit of convenience?\n\nIf you answered Yes to all four questions you can get a Mac if you want, otherwise I'd recommend Linux.",
+				"added": 1489011721
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 7,
+				"body": "> [ivanq](#comment_33_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er): The main part of Reddit is subreddits, am I right? So, if we make subreddits as ZeroTalk clones and then make a main site (like reddit.bit) which has references to subreddits, will it work?\n\nMakes more sense to create a merge site and each \"subreddit\" is a hub that people can choose to download and subscribe to. That way no one person has control over the content, but people don't have to worry about maintaining an up to date clone of the actual reddit clone itself if they don't want to. That also means people can freely make their own reddit clone if they want to but have it connect to the same posts, and hence, the same content and communities.\n\nThis is how ZeroMe functions on the backend, and is why there are a bunch of ZeroMe clones, but they all can communicate with each other still.",
+				"added": 1506022900
+			},
+			{
+				"comment_id": 12,
+				"body": "> [ivanq](#comment_35_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er): I am a ZeroNet developer as well, a contibutor, wrote some libraries, etc. My idea was just simplified. But then, why can't we use ZeroMe as Reddit?\n\nZeroMe doesn't make an emphasis on the voting aspect. You can only like a top-post, you can't up-vote or down-vote any of the comments. There's also no comment threading so you just get a really long list of comments with no clear indication of who someone is replying to beyond maybe a username mention. And in its current form ZeroMe makes no distinction between hubs, so you can't easily talk to specific groups of people.\n\nThose are three of the main aspects I think people want out of a reddit clone at least.",
+				"added": 1506097048
+			},
+			{
+				"comment_id": 13,
+				"body": "> [styromaniac](#comment_112_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): https://steemit.com/steemit/@steemitblog/steemit-com-is-now-open-source\n\nThat'd be interesting if somebody could port that to ZeroNet.",
+				"added": 1506097120
+			},
+			{
+				"comment_id": 14,
+				"body": "> [xianc78](#comment_8_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ): steemit requires you to give your phone number and also sells your data.\n\nIf it's open-source then someone can clone it without including those things.",
+				"added": 1506441653
+			},
+			{
+				"comment_id": 15,
+				"body": "> [armitage](#comment_4_15NXsHCCfQw8BUSxnsapUH212qTtg29iFU): You mean like zero talk?\n\nZeroTalk is more of a forum with like buttons, not a reddit clone.",
+				"added": 1506626293
+			}
+		],
+		"2_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 8,
+				"body": "At this point trying to get Ajit Pai to change his mind is pointless. He doesn't care about consumers at all and wants to push his own agenda regardless of public desire. You'd have more success suing the FCC or getting him replaced than actually changing his goals.",
+				"added": 1506023179
+			},
+			{
+				"comment_id": 10,
+				"body": "> [theanswerer0](#comment_4_1F2ZbgkHvpknveTB6wFa5xNEQBb8yxQnCR): Net neutrality is about censorship and keeping the FCC relevant. Deregulation is good. [...]\n\nOnly if you also encourage the creation of more ISPs to foster competition. Many locations in the US are monopolized by single ISPs so there is no free market. A lot of areas and states even have laws that make it near impossible for new ISPs to get a foothold. If you don't like your ISP you can't move to a different one since they are the only option in town. Your only option would be to choose between having internet through them or having no internet at all. And please don't give the bs excuse that you could just use a wireless solution through Satellite or Cell, as both have caps and technical limitations that make them impractical if you do anything more than casually surf the net. We already had news recently of Verizon Wireless booting people off it's network because they were using too much data in a rural area that was expensive for them to service, so now what are those people going to use to access the internet?",
+				"added": 1506029717
+			},
+			{
+				"comment_id": 11,
+				"body": "More details on the rural Verizon Wireless customer terminations: https://arstechnica.com/tech-policy/2017/09/verizon-kicking-people-off-network-for-using-just-a-few-gigabytes-a-month/",
+				"added": 1506052062
+			}
+		],
+		"5_1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": [
+			{
+				"comment_id": 9,
+				"body": "> [obiwanzanobi](#comment_45_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): \n>if by that you meana built in plugin for each zeronet app, can you make it searchable? That would solve the issue of a >decentralized search engine I mentioned earlier in another topic.\n\nHe means a plugin for ZeroNet. It's included just disabled. Just rename the directory \n`.\\ZeroNet\\plugins\\disabled-Zeroname-local` \nto \n`.\\ZeroNet\\plugins\\Zeroname-local` \nin order to enable it. It taps into your local instance of Namecoin to work.",
+				"added": 1506024851
+			}
+		]
+	},
+	"comment_vote": {
+		"26_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"68_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"3_13Cqt2MSFS6eu4cbVuByZBuULrEAcZAqFG": 1,
+		"903_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

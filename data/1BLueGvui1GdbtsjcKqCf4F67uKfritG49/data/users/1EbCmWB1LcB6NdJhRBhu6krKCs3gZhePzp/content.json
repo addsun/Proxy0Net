@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HNjDrkSB25EJ1TCdeBtRccO5wPCdCY/T2pq2k0GGlyCaZRHdI+BE0btuzFQIGTofiiHb61A0GSb0S55epk0gS44=",
+ "cert_user_id": "peeper@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ce17f2b5d56a99f306ca1c2683f553fbc7227edfbad8f09661ab47240566395e",
+   "size": 3134
+  }
+ },
+ "inner_path": "data/users/1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp/content.json",
+ "modified": 1501506860,
+ "signs": {
+  "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": "HDZDfaEYMMMhvGavrjL/WxxfmnjULhi5mXd/sasgS/2KYs1JQlC22oWU7qDVaOZHnXMyA30gfKvrIeck12j9gcc="
+ }
+}

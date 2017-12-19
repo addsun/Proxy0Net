@@ -1,0 +1,93 @@
+{
+	"next_comment_id": 13,
+	"user_name": "Jro",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"post_like": {
+		"1NWaYFYGdfDnhgyjaGNYk2ewgEJUPmiZ2W_1480296385": 1480303617,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482403870": 1482406657,
+		"1D242AyQghFqqQTwo1f1csP5kRQe588BUm_1484211475": 1484293222,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1487514833": 1487526103,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1489429795": 1489466366,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1506819435": 1506914262
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Nice to donate but ZeroNet developers should also sell some kind of license. Like donate, but getting a bill. 1 year of support, implement af new feature or ẃhatever. Text not important. Getting a bill is important. Will make it possible for companies to support ZeroNet development.",
+			"post_uri": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_1476538661",
+			"date_added": 1476617830
+		},
+		{
+			"comment_id": 2,
+			"body": "@Militaryriotlab: Nice to see your proxy running again. ",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1478947190",
+			"date_added": 1479029919
+		},
+		{
+			"comment_id": 3,
+			"body": "@Militaryriotlab: Yes. I have tried it a number of times without any reply and dropped it from my proxy server list. Tried it again today with success.",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1478947190",
+			"date_added": 1479048654
+		},
+		{
+			"comment_id": 4,
+			"body": "@Militaryriotlab: OK. I would be wrong. I have switched between 3 different comp. within a very short time. Could just have typed in the wrong address ...",
+			"post_uri": "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB_1478947190",
+			"date_added": 1479058892
+		},
+		{
+			"comment_id": 5,
+			"body": "The \"problem\" is in user_contents section of contents.json. You can make your own ID provider, but there have to be a list of ID providers in cert_signers.  https://zeronet.readthedocs.io/en/latest/site_development/content_json/#user_contents\nBut a \"unique to site\" authorization could be nice as an option. Sometimes you don't need an ID provider ...",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480132856
+		},
+		{
+			"comment_id": 6,
+			"body": "@Balancer73: I am not sure, but maybe text \"Unique to site\" text is misleading. Maybe it should be \"Not logged in\" ..",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480147376
+		},
+		{
+			"comment_id": 7,
+			"body": "Maybe check out how Board.ZeroNetwork.bit is publishing dynamic content. No data/users structure and no user_contents section. ",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480155209
+		},
+		{
+			"comment_id": 8,
+			"body": "Connecting...\nPeers found: 2\nPeers found: 3\nPeers found: 4\nPeers found: 5\nPeers found: 7\ncontent.json download failed",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481816732",
+			"date_added": 1481823348
+		},
+		{
+			"comment_id": 9,
+			"body": "The <font> tag is not supported in HTML5. Use CSS instead. http://www.w3schools.com/TAgs/tag_font.asp",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1481973527",
+			"date_added": 1481974976
+		},
+		{
+			"comment_id": 10,
+			"body": "You can use proxy servers to seed your site if you do not have port 15441 open.",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1483989147",
+			"date_added": 1483994364
+		},
+		{
+			"comment_id": 11,
+			"body": "edit the HelloZero all.js file or do some kind of JS hacking. FeedList.coffee. Line 2164+2165 this.limit = 10; this.day_limit = 3; I changed it to 30 days and 100 posts here",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486870641",
+			"date_added": 1486874483
+		},
+		{
+			"comment_id": 12,
+			"body": "https://github.com/HelloZeroNet/ZeroHello/issues/42",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486870641",
+			"date_added": 1486876758
+		}
+	],
+	"flags": {
+		"post-1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1477467816": 2,
+		"post-1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1477537239": 2,
+		"post-1NsW7cpAZSc2F2RSUBSE8TcZvuUMrjtCGq_1480667940": 2
+	},
+	"comment_like": {}
+}

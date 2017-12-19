@@ -1,0 +1,440 @@
+{
+	"next_comment_id": 69,
+	"user_name": "Kaffie",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"1CR3B1Bwx6umZqL7H6hrbyPdXKJR7j8Mfn_1483209435": 1483230641,
+		"18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y_1490285129": 1490327596,
+		"15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1490917894": 1490920145,
+		"15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491614163": 1491653650,
+		"15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491775670": 1491815079,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1494119123": 1494165248,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1495631246": 1495687277,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1496639545": 1496829105,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961": 1499124223,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1500038671": 1500079693,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1500363955": 1500375500,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1500167922": 1500375531,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1500362338": 1500377027,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500394391": 1500415154,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1500420663": 1500427520,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500515306": 1500518672,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500778017": 1500946516,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1501115753": 1501118180,
+		"16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1501433679": 1501588407,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1501941144": 1502159342,
+		"1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1502162545": 1502447679,
+		"1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1503009697": 1503028853,
+		"1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1512943708": 1512981342
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I leave it running, but my laptop isn't always on. There's been a few times where I killed it for whatever reason (to save internet bandwidth, reduce ram usage, etc). But 9 times out of 10, if I'm on my laptop, zeronet is running.",
+			"post_uri": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj_1483466772",
+			"date_added": 1483511033
+		},
+		{
+			"comment_id": 2,
+			"body": "I'm an anarchist.",
+			"post_uri": "1PyJKf7erAPW5akUQsMSxQxRzkZNWZreFw_1485297633",
+			"date_added": 1485329147
+		},
+		{
+			"comment_id": 3,
+			"body": "@Jjg: ZeroNet is pretty appealing to anarchists. That's probably why.",
+			"post_uri": "1PyJKf7erAPW5akUQsMSxQxRzkZNWZreFw_1485297633",
+			"date_added": 1485516029
+		},
+		{
+			"comment_id": 4,
+			"body": "As mentioned, [KaffieID](/id.kaffie.bit) was built for this purpose. Just clone and follow the instructions. The way ID providing works in ZeroNet is that if you want unique usernames, you need a backend, which ZeroNet does not provide. Nanasi solved this problem by just not having unique names, and relied on the user's unique ID to distinguish. This is also how ZeroNet determines users (not by username). So KaffieID was a solution to both. You can freely choose your name (non-unique) and works off Nanasi's decentralized/anonymous system.\n\nThe code is also very simple in case you want to customize it or remix it however you'd like.",
+			"post_uri": "127xneP1vvFJyc6SQZNzh2hyrkBuezpcvr_1489334065",
+			"date_added": 1489370950
+		},
+		{
+			"comment_id": 5,
+			"body": "@Jro: What we need is a way for ZeroNet sites to just accept *every* ID provider. A blacklist instead of a whitelist. Right now you have to manually approve every provider for your site. It should be the other way around.",
+			"post_uri": "127xneP1vvFJyc6SQZNzh2hyrkBuezpcvr_1489334065",
+			"date_added": 1489371029
+		},
+		{
+			"comment_id": 6,
+			"body": "You can't. You need a back-end server for a proxy, which ZeroNet does not provide. Some similar things you can do to get the same 'feel' would be something like just use an iframe to bring up an external website in a zeronet address/zite, this still accesses clearnet on the user's device, and doesn't work as a proxy. There's also the option of just mirroring sites. Take a page, rip it, and upload a static version. This will give the site the benefits of ZeroNet, but given that it's not the actual clearnet site, will lack continuous updates or user-interaction.\n\nLastly, if you're the owner of the clearnet site, you can simply port the site. Have your CMS upload to both the zeronet site, as well as the clearnet site. I can't think of how to fix comments and such, but perhaps you can have a bot sync them? Or just have ZN comments for the ZN site, and clearnet comments for the clearnet site?\n\nIf you want something like Facebook, you'll just have to remake it from the ground up for ZeroNet. For something like google.... it's impossible to put on ZeroNet, given how much back-end server requirements there are, and how much HDD it takes up. One way to do this would be to have your own private back end *anyway*, and just call to it from the ZN site. One ZN search engine did this, and a few early ZN sites did this method as well, but it was poorly received, as people like to sandbox their experience, and not let *any* data escape out into the clearnet and sometimes even just block it on a browser or OS level.",
+			"post_uri": "12WBFnwNrtKtQD67GudLfZhwTPwehE2Cw9_1489579724",
+			"date_added": 1489622973
+		},
+		{
+			"comment_id": 7,
+			"body": "Yeah, it's basically a decentralized twitter clone.",
+			"post_uri": "17wvV3ETVFUjZex3NDRTsbwYtz8xPNUUsa_1489920598",
+			"date_added": 1489982719
+		},
+		{
+			"comment_id": 8,
+			"body": "KaffieID (as linked earlier) is freely cloneable and entirely P2P. However, like all alternative ID/cert systems, it requires each site to accept it. So as it stands, only KaffieHub accepts KaffieIDs, meaning that you'd be locked out from commenting on other hubs.\n\nThis is an ongoing problem with ZeroNet that enforces monopolization of the ID service. But if you mean to just have an ID you can use for your own sites that's not ZeroID-based, then KaffieID (or clones) works fine.\n\n@Rythyrix: has a good explanation of why it's an issue. We really need a way to accept all ID providers, and move over to a blacklist rather than a whitelist.",
+			"post_uri": "1Ea3RG4YuLnifynBxvuWAA3Y2nLcTWfrjQ_1490400723",
+			"date_added": 1490408612
+		},
+		{
+			"comment_id": 9,
+			"body": "@Rythyrix: Perhaps. Right now we have to blacklist users anyway. And so far there has only been a couple that I've actually had to ban. As it stands, banning userID systems isn't something that needs to be done.",
+			"post_uri": "1Ea3RG4YuLnifynBxvuWAA3Y2nLcTWfrjQ_1490400723",
+			"date_added": 1490409813
+		},
+		{
+			"comment_id": 10,
+			"body": "It doesn't work because several of those videos are just magnet links to non-webtorrent torrents. You need a peer capable of webrtc in order to benefit. AFAIK there's no index of popular webtorrents to stream/download.\n\nThe one you directly copy+pasted from KopyKate fails to work because of an issue with webseeding. You need to load the torrent from the direct .torrent file hosted on the server in order to benefit from a webseed on that same server. Otherwise you'll only get the peers of something.\n\nHopefully that helps solve your issues :3",
+			"post_uri": "1L8waPPVatA855bU6SjqWs2K1DbwnUZbEp_1490686850",
+			"date_added": 1490691442
+		},
+		{
+			"comment_id": 11,
+			"body": "@GhostWriter: Yeah, that's generally how it works. You need the mp4 and torrent file on the same server, like how KopyKate's webseeded stuff works. Dropbox used to be able to do this, but no more.",
+			"post_uri": "1L8waPPVatA855bU6SjqWs2K1DbwnUZbEp_1490686850",
+			"date_added": 1490699394
+		},
+		{
+			"comment_id": 12,
+			"body": "@GhostWriter: Well even regular torrents have webseeds. It's just that with normal torrents, there's a lot more people, so people are more eager to leave their computer seeding. With webtorrent that's not really the case. People don't use it like a torrent and instead use it like youtube. Pretty much *every* p2p video sharing service at the moment suffers this same problem. They require a dedicated host in order to prevent the torrent from running out of seeders.",
+			"post_uri": "1L8waPPVatA855bU6SjqWs2K1DbwnUZbEp_1490686850",
+			"date_added": 1490727676
+		},
+		{
+			"comment_id": 13,
+			"body": "I'm an anarchist in California. I haven't really done any active protests or anything though. Unfortunately I'm not quite in the position to do much IRL.",
+			"post_uri": "1DvzV85GE9oz9YyT7ZsLCA52tWAqD4kkDN_1490837917",
+			"date_added": 1490843979
+		},
+		{
+			"comment_id": 14,
+			"body": "Lol. That's kinda sad, but also hilarious. Why can't people just be rational and support a good thing when they see it?",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1490918993",
+			"date_added": 1490919214
+		},
+		{
+			"comment_id": 15,
+			"body": "The big issue with video sharing/streaming right now is figuring out decentralized storage. It's the big issue in P2P stuff right now, and there's quite a few different solutions being worked on. Nothing really works well yet because of bandwidth and hard drive limits. As well as the inability for users to keep 24/7 up-time. Webtorrent can get around this with webseeds, which is what is currently being done. And ZeroMux just does it the same way ZeroNet does, but that can end up taking up a lot of space on viewers' computers.",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1490908393",
+			"date_added": 1490920454
+		},
+		{
+			"comment_id": 16,
+			"body": "Just edit data.txt. The format is: `name[tags, separated, by, commas:address rank`. Just refer to the data.txt in Kaffiene's files for a reference. See [here.](/kaffiene.bit/data.txt)",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491016627",
+			"date_added": 1491119641
+		},
+		{
+			"comment_id": 17,
+			"body": "Thanks?",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491125400",
+			"date_added": 1491133872
+		},
+		{
+			"comment_id": 18,
+			"body": "@Plasmmer: I'll look into it. I'm not sure how easy that'll be to do. My initial thought was just to scrape the page, but then I remembered that that won't work. An iframe maybe, but then cleanup might be difficult. Alternatively I could try to query the sql database manually. Something like how sqeek does. Either way, dev for Kaffiene is really slow going at the moment. But I think this might be a way to add a bit more usage to it while I'm being slow with the index, haha.",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491016627",
+			"date_added": 1491134361
+		},
+		{
+			"comment_id": 19,
+			"body": "@Plasmmer: No github just yet. And yes, I understand a reworked database would be nice. As I mentioned, my dev work has kinda grinded to a halt and I'm not sure when I'll be able to resume. I have some personal issues and I'm not sure how long it'll take me to work through them. Sorry >_<",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491016627",
+			"date_added": 1491301335
+		},
+		{
+			"comment_id": 20,
+			"body": "Yeah, it's pretty clear a lot of the hate is just projection. Look at all the anti-gay republicans who end up being gay.\n\nBut please, don't accuse people of being a rapist or child molester if there's no actual proof they've done anything. Random blind accusations not only wreck lives, but weaken the word of *actual* victims. I can't speak for the people who've mentioned in your life, but AFAIK people like Milo and Trump *technically* haven't done anything wrong, despite being despicable people (well Trump maybe).\n\n>I'm a transwoman\n\nNice. We've got quite a bit of LGBT folk on here, but do be aware there *are* transphobes here. My network of sites will *always* be transphobe free, and I'll ban anyone who attempts it. Can't really say the same for other sites/people though.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1491367755",
+			"date_added": 1491396161
+		},
+		{
+			"comment_id": 21,
+			"body": "Lol. This isn't happening. Sorry. I'd love to see it, but even top of the line translation services like google translate still have issues. No way is a lazy unemployed girl working on a new platform using only javascript is going to manage to make something even remotely usable.",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491444511",
+			"date_added": 1491446384
+		},
+		{
+			"comment_id": 22,
+			"body": "Lazy, mostly. I hardly ever check it, and when I do I just put off responding. Sorry. I'm kinda shitty like that.",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491614121",
+			"date_added": 1491632482
+		},
+		{
+			"comment_id": 23,
+			"body": "@Plasmmer: I believe I answered that one already ;). Like the previous answer, mostly it's just because I haven't gotten around to it. I really don't have an answer besides that. That's literally the entire reason you haven't seen much of my development lately. I'd rather not go into the personal details of my life, but I've got some issues I need to work through before I can resume ZN development.\n\nAny sort of dev question almost certainly has the same answer; to save you some time. I haven't done much dev work in general, off and on ZN. And likely before that I need to get my actual income and living situations fixed.\n\nGithub is honestly on the to-do, but not for a while. The original plan was to get Kaffiene more or less automated and then move the code to github. But neither has happened yet.",
+			"post_uri": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe_1491614121",
+			"date_added": 1491653637
+		},
+		{
+			"comment_id": 24,
+			"body": "Pretty much? Ever since the developer changed the site to try and detect peers and then not list unseeded videos, it's basically been unusable for me. It just gets stuck at the homepage trying to load videos. [KopyKate](/kopykate.bit) is much better and is likely what you're looking for.",
+			"post_uri": "1165u6pt5mQNFjyhMVwy6azB7bZuQGLA9b_1491654783",
+			"date_added": 1491697113
+		},
+		{
+			"comment_id": 25,
+			"body": "Pretty cool site but file uploads seem to be really broken.\nEdit: content signing error or something.",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1491940364",
+			"date_added": 1491970260
+		},
+		{
+			"comment_id": 26,
+			"body": "@Glightstar: Yeah it's been working great. Firefox seems to lag though, so I've been using chrome with it and it works fine.",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1491940364",
+			"date_added": 1492071896
+		},
+		{
+			"comment_id": 27,
+			"body": "How does ZeroMail do it? You can certainly see your sent messages there.",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1492183929",
+			"date_added": 1492224123
+		},
+		{
+			"comment_id": 28,
+			"body": "@Thegillies: No one's here because it's new, and the users who *were* here have all kind of left because nothing was happening and it was pretty dead. We have a small community of people but we're all kinda lazy or busy. We really just need an influx of people who stick around. And for that we need a killer app that you don't really find elsewhere. No one will come for ZeroMe when they can just use twitter or facebook. But we *need* an active ZeroMe if we want people to stick around on zeronet.",
+			"post_uri": "1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x_1493000410",
+			"date_added": 1493018231
+		},
+		{
+			"comment_id": 29,
+			"body": "@Thegillies: Yeah all the stuff here is pretty solid. The problem is users and content. Users don't come if there's a lack of content, and without users content isn't posted. Chicken and egg problem. A killer app of some sort that's unique to zeronet will get people to use the platform, and hopefully adopt the network of sites in general.",
+			"post_uri": "1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x_1493000410",
+			"date_added": 1493018644
+		},
+		{
+			"comment_id": 30,
+			"body": "Haha, it's a very new feature. No live updates yet. I wanted to, but I can't figure out how to access the merged db from javascript.",
+			"post_uri": "1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt_1493481909",
+			"date_added": 1493510592
+		},
+		{
+			"comment_id": 31,
+			"body": "~~One of the two problems bitcoin has is now solved. Grats. Now just do something about the ridiculously large blockchain.~~\n\n>We want to be clear that this is an example of how fast it can be to get through the checkout process within the application, not the time it takes the transaction to clear on Bitcoin. That will still be dependent on the bitcoin network itself.\n\nSo.... still broken. Hype extinguished.",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961",
+			"date_added": 1499124256
+		},
+		{
+			"comment_id": 32,
+			"body": "@Elspru: Yeah. I don't mean to hate on bitcoin. It's pretty revolutionary. It just has some big problems.",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961",
+			"date_added": 1499134347
+		},
+		{
+			"comment_id": 33,
+			"body": "@Styromaniac: Are those a real issue though? I mean theoretically sure, but certainly all that needs to be done is to fix how people mine, right? Problems, but not on the user's end.",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961",
+			"date_added": 1499142472
+		},
+		{
+			"comment_id": 34,
+			"body": "@Styromaniac: If you're gonna hold my views in high regard *do* be aware I'm politically biased against ownership/currency/economics to begin with. I personally think bitcoin is pretty revolutionary for what it does, which is why I try to avoid shitting on it (even if it *does* have it's problems). The rest of the lot, the whole blockchain fad, etc. haven't convinced me yet. I see a lot of scams, lots of people running on hype without clearly thinking what they're doing, etc. Which is literally the exact opposite of why bitcoin is so interesting in the first place.\n\nBitcoin is good at what it does: decentralizing currency and creating a decentralized verification of ownership of tokens. This means it works great for things like money, domain names, etc. Not so great for other stuff.\n\nIn my ideal world, cryptocurrency wouldn't exist. But I at least try to give it a fair shot.",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961",
+			"date_added": 1499207019
+		},
+		{
+			"comment_id": 35,
+			"body": "Openbazaar is pretty legit tho",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1498886961",
+			"date_added": 1499207234
+		},
+		{
+			"comment_id": 36,
+			"body": "How are you keeping track of who uses it? That's kind of concerning.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500098749",
+			"date_added": 1500101989
+		},
+		{
+			"comment_id": 37,
+			"body": "@Peeper: Ah, thanks for the clarification. Just keep in mind you might not be connected with every peer who has the site.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500098749",
+			"date_added": 1500104137
+		},
+		{
+			"comment_id": 38,
+			"body": "@Peeper: Not only that. Even if they're seeding/sharing, and have the site. You as an individual may not be peered with them. Check the proxies to see. For me I usually have a few hundred peers show on my downloaded sites. However proxies reveal thousands.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500098749",
+			"date_added": 1500109540
+		},
+		{
+			"comment_id": 39,
+			"body": "@Peeper: No. No one can show 'the real peer number'. The peer count is *only* how many peers you're connected to. Not how many exist.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500098749",
+			"date_added": 1500158724
+		},
+		{
+			"comment_id": 40,
+			"body": "@Peeper: \n@Nofish: \nI'm unhappy due to merger sites not being feature-complete. It's a great system, and I don't mind it at all. But for regular cross-site content (rather than a specifically created data-store), it doesn't work at all. And now with the CORS 'fix', there's no way to fetch content from other sites. It's a shame, because automatically grabbing and embedding content from other sites is a huge part of what made the web successful. It's such a shame to not have any way to do it in ZeroNet.\n\nAs I wrote elsewhere, I think the proper fix would be to have a cross-site fileget that requires permission from the user. That way no trickery is going on, no way to maliciously use other sites, and ultimately you just fetch the content you need.\n\nIt's not *cors* that people are upset about. It's that functionality has been killed, making zeronet objectively worse.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500060035",
+			"date_added": 1500246887
+		},
+		{
+			"comment_id": 41,
+			"body": "@Nofish: Awesome :). It's just a bit frustrating to wake up and see all your sites broken haha. Glad to see you're open to it at least. Just give some way of getting raw file access from requested sites. As it stands, if we control the site, we can just throw a merger permission on it and be good to go. However, for sites without, it's a poor solution (see: fetching zerowiki entries).",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500060035",
+			"date_added": 1500280097
+		},
+		{
+			"comment_id": 42,
+			"body": "@Binchan: That doesn't sound so great if you change up the site haha.\n\n@Glightstar: Because that's the only time you'd ever use it. To update your own site to the latest version of whatever it was cloned from.",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1500303841",
+			"date_added": 1500332774
+		},
+		{
+			"comment_id": 43,
+			"body": "I think so. We just need more users :)",
+			"post_uri": "1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi_1500319184",
+			"date_added": 1500332807
+		},
+		{
+			"comment_id": 44,
+			"body": "There's an active community here. Please stick around and help contribute. It's a great little corner of the internet.",
+			"post_uri": "1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi_1500319293",
+			"date_added": 1500332840
+		},
+		{
+			"comment_id": 45,
+			"body": "To clone KaffieID, just click 'clone', and follow the instructions in the comments. It just has you uncomment a line to generate a key, and then put the key into the proper place on the document. Easy. Be sure to re-comment the generator again after you're done.\n\nZeroID: you need to clone the site, have a backend server where you host the server script, need to generate new keys/site, changeup the code to point to your own server, etc. Kinda difficult, and not very zeronet-friendly.\n\nThe big difference is how the two handle usernames. KaffieID, due to having the private signer key public, does not guarantee unique names (multiple auth_addresses can share the same name@kaffie.bit). ZeroID does it's uniqueness checking on the backend server, guaranteeing names are unique. It also hides it's private key, and relies on the server. Meaning that if that server ever goes down (much like the one for ZeroVerse IDs did), then you can no longer register ZeroIDs. However, KaffieIDs can be registered, even while offline due to it all being local.\n\nThe big appeal, though, of ZeroID is that it's the 'official' cert signer, and thus the go-to for any site that wants to add user interaction. People rarely add KaffieID, ZeroVerseIDs, etc. And, from what I've seen, there's no way to change permissions to accept *any* signer. I've been constantly talking about it, and hopefully @nofish: will change how cert signer lookups are handled (to being given by the cert, rather than given by the site). That way we can have an 'accept all signers' feature, that matches the API which already has the option.\n\nRight now there's not much appeal to a third signer. No way to use it on existing sites, no userbase, no new features/design, etc. Even KaffieID struggles, due to lacking support in official zeronet sites, and other sites that may not be aware of it's existence.\n\nHopefully that covers everything. If not, feel free to ask more questions :)",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500334371",
+			"date_added": 1500337667
+		},
+		{
+			"comment_id": 46,
+			"body": "@Peeper: You can find all the code for ZeroID [here.](https://github.com/HelloZeroNet/ZeroID) As well as the scripts for running the signer through bitmessage or regular http. You can arguably do any way you want to sign certs. Even do them by hand if you want. Personally, I'm fond of the 'only zeronet' solutions like kaffieid, since it doesn't rely on any external servers, and people know exactly what's going on.\n\nKeep in mind, the username on the cert *DOES NOT* dictate anything in terms of functionality. It's *only* a display name. On the backend of things, all users are identified through their auth_address, which is always unique.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500334371",
+			"date_added": 1500345019
+		},
+		{
+			"comment_id": 47,
+			"body": "@Peeper: \"Then, site creators should simply add a function to associate the username with the auth_address.\"\n\nThat's what ZeroID does. You can't do this without a backend server or a blockchain.\n\n\"But blockchain is better to solve it.\"\n\nIt's decentralized, but also not free. Whether it's 'better' is subjective. Personally, I don't see the need for unique names, given everything works fine without it. Domain names can be nice though. But usernames? Why not just let people share a name?\n\n\"Then I'll clone KaffieID, that doesn't relies in a centralized server.\"\n\nThat's why I prefer KaffieID. It doesn't rely on any servers or blockchains, you can register one completely offline, etc.\n\n\"Soon Peeper will accept only CryptoID signups, and unique names/respectable users will have a verified badge. \"\n\nYou cannot do this as long as Peeper relies on hubs outside of your control for data. The permissions check is on the hub, which is why KaffieID struggles on ZeroMe. Some hubs accept it and some don't. Which is different from ZeroID which basically every hub accepts. CryptoID would be accepted nowhere, and thus you'd need your own hub. At which point you're basically an isolated social network.\n\n\"I don't want users of ZeroID needing to signup in another provider just for use Peeper, its a \"marketing\" error.\"\n\nPersonally I could see peeper splitting off and using it's own type of hubs, and have the initial ones and cloneable ones only accept cryptoID. But you'd need something to really stand apart from ZeroMe.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500334371",
+			"date_added": 1500375124
+		},
+		{
+			"comment_id": 48,
+			"body": "@Glightstar: That's probably it. When you create a site using the button on ZeroHello, it's \"cloned from\" zerohello. That 'upgrade code' button will just fetch from whatever is listed as the cloned site. Not necessarily what you cloned it from (if anything).",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1500303841",
+			"date_added": 1500375208
+		},
+		{
+			"comment_id": 49,
+			"body": "I hate the politics around it. Too much ignorance and hate. But trans/cis are good terms to help describe things.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500394391",
+			"date_added": 1500415210
+		},
+		{
+			"comment_id": 50,
+			"body": "@Spawn: I'm getting the same thing. The user linked doesn't exist on the hub.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500373062",
+			"date_added": 1500415496
+		},
+		{
+			"comment_id": 51,
+			"body": "I can see data from users just fine on the hub. Just not the one you linked to. You need to properly sign/publish your new account's content.json.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500403614",
+			"date_added": 1500427483
+		},
+		{
+			"comment_id": 52,
+			"body": "@Spawn: There is no difference between KaffieID and the various 'anonymous' IDs from other services. They all originate and stem from the original code provided by [Nanasi.](http://127.0.0.1:43110/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN) I think the only difference is that KaffieID lets you choose your username, while the other services provide a random one.\n\nIn general, there's not really any difference between cert providers. There's only a difference between ZeroID and KaffieID due to the private key being stored on a backend private server vs being hosted directly on ZeroNet. Any new provider will almost certainly copy one of these two models.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1500334371",
+			"date_added": 1500464765
+		},
+		{
+			"comment_id": 53,
+			"body": "Is there a different ZeroMe Reloaded? This one is clearly made by @Mkg20001: http://127.0.0.1:43110/Me.Mkg20001.bit/\n\n@Plasmmer no offense, but i haven't really seen anything new in Peeper. Drop shadows? A rebranding? I saw some sort of badge feature, but investigation reveals it's just donations.\n\nI'm not hating on peeper (the opposite, I think it's important to have multiple variations of a site). But it honestly sounds like you're taking credit for work you didn't do.",
+			"post_uri": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp_1499545092",
+			"date_added": 1500503422
+		},
+		{
+			"comment_id": 54,
+			"body": "Top python project, android version is easily installable, mobile sites started appearing, cross-site file requests have become official, user settings can be saved in users.json. Getting hyped.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500515306",
+			"date_added": 1500518719
+		},
+		{
+			"comment_id": 55,
+			"body": "How do ports for cellular data even work? That whole side of things is kinda a mystery to me.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1500612071",
+			"date_added": 1500613755
+		},
+		{
+			"comment_id": 56,
+			"body": "Wait... wasn't that already a thing?",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1500743194",
+			"date_added": 1500806505
+		},
+		{
+			"comment_id": 57,
+			"body": "Those things are definitely real. They just aren't nearly as widespread.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1501001739",
+			"date_added": 1501031630
+		},
+		{
+			"comment_id": 58,
+			"body": "@Styromaniac: Yeah, I've experienced all of the listed in some form or another. Kinda shitty regardless of which way it goes.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1501001739",
+			"date_added": 1501032609
+		},
+		{
+			"comment_id": 59,
+			"body": "Spam? Could you link some examples please? I find it's rare to find actual spam. Mostly just chinese users, and maybe some irrelevant adverts.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1501115753",
+			"date_added": 1501118167
+		},
+		{
+			"comment_id": 60,
+			"body": ">Thunderwave in the newsfeed\nThat's.... actually kinda smart. I don't know why I didn't think of that.",
+			"post_uri": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy_1501167032",
+			"date_added": 1501196662
+		},
+		{
+			"comment_id": 61,
+			"body": "@Musickiller: you can just clone the whole repo (including the wiki) with: `git clone https://github.com/AnarchoTechNYC/meta.git` or you can just clone the wiki itself using `git clone https://github.com/AnarchoTechNYC/meta.wiki.git`. Both are fairly small (though the general repo has large video and images included) and it's all just simple md files. Though the images on *that* particular page are hosted elsewhere, so obviously the cloned repo would lack them (not a huge loss though since it's not relied upon).",
+			"post_uri": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h_1502162545",
+			"date_added": 1502447644
+		},
+		{
+			"comment_id": 62,
+			"body": "@ZAlex: Say what you want but Discord is pretty legit. Probably the only not-shit proprietary software tbh. It kills me that it's all closed off. Best chat app in a long time.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1502500549",
+			"date_added": 1502532518
+		},
+		{
+			"comment_id": 63,
+			"body": "@ZAlex: \"despises\". Looks like just a comment to me. You can easily write off something for being proprietary, yet still use proprietary software. It's the proper attitude to have when you want to move towards a better way of living. That doesn't mean you have to completely trash all your habits/communities/etc. just for the sake of ideology.\n\nThe way I see it is, yeah, I use discord which is proprietary. But that doesn't mean I'm about to go hop on skype because of some perceived benefit.\n\nPersonally, I'd love to see discord go open source and free. It's great software with a great dev team.",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1502500549",
+			"date_added": 1502546155
+		},
+		{
+			"comment_id": 64,
+			"body": "@ZAlex: Again, where's the outrage?",
+			"post_uri": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd_1502500549",
+			"date_added": 1502546592
+		},
+		{
+			"comment_id": 65,
+			"body": "Girl but not cute reporting in. Not sure why you're hitting up ZN for girls tho. People into tech and decentralized software aren't attractive. That's just how it goes. We're nerds.",
+			"post_uri": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1504055505",
+			"date_added": 1504267869
+		},
+		{
+			"comment_id": 66,
+			"body": "@weakish: Is nerdy moe tho? IRL? In anime girls sure.\n\n@Nekololi: Good luck. Seems like there's very few girls here. I know maybe 3 or 4.",
+			"post_uri": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1504055505",
+			"date_added": 1504318726
+		},
+		{
+			"comment_id": 67,
+			"body": "@Nekololi: Jokes on you, I'm already in a relationship *despite* how unattractive I am :P",
+			"post_uri": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1504055505",
+			"date_added": 1504321199
+		},
+		{
+			"comment_id": 68,
+			"body": "@Nekololi: I think it's really possible for anyone to find love. But you gotta set your standards lower. I felt the same way that you do for a long time.",
+			"post_uri": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB_1504055505",
+			"date_added": 1504321719
+		}
+	]
+}

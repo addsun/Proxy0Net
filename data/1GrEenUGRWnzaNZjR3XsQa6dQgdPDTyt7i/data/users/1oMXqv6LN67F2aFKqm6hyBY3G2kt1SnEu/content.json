@@ -1,0 +1,36 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HOD7plDxBtHIIFal6NtzDTJO9SXvoNe5hZRJMY2slmYABxUnZf8XG18Xzv6xbsOOrjxY414/Bz27RdSHUdOBrdA=",
+ "cert_user_id": "sickgamer@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4f6dce470359856d26aec0ba0e2fa885b5b1c8c2ea0a6cbf7b5e85e3a5d9be29",
+   "size": 1554
+  },
+  "data.json": {
+   "sha512": "7b0bd27e6d3b0168e3f1544b7ad349e3f9f6b6cd1d09cd33a2f29e09b6db374a",
+   "size": 10081
+  }
+ },
+ "files_optional": {
+  "1483297216.jpg": {
+   "sha512": "a2b2df18e8766d0fcd30b3ba200912a77edb5880c337afa30e789030684790f8",
+   "size": 48682
+  },
+  "1483341843.jpg": {
+   "sha512": "5e02e167d4735cbf250b2237e1358abf414bff44c10d47295cecc00c2d9fedaa",
+   "size": 19865
+  },
+  "1486478643.jpg": {
+   "sha512": "c062774089e672e5aeeff6d656bd251a078b8785a0bd8b949815f02b2297f5f4",
+   "size": 91061
+  }
+ },
+ "inner_path": "data/users/1oMXqv6LN67F2aFKqm6hyBY3G2kt1SnEu/content.json",
+ "modified": 1486680462,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1oMXqv6LN67F2aFKqm6hyBY3G2kt1SnEu": "Gzz28gE0jXkYweQxPHS4SoK8qbTd1un+Udj5GW2ojdLdKF2GhXKIauKXvv0wedO0qEqd3oNxrTCcufe7GwxdHiQ="
+ }
+}

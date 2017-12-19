@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBoj9f8a43cEGSyBVGJKxjQGzmIOOnhMcLKGVoY3JlS5+WeShpRII3ASWXAP+0xbK+yOawL4Vud4esGcSfif/hM=",
+ "cert_user_id": "hypereitan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "246da61f6bd632689c9a3a8400ddc5161d7eeae9f3876909b779199f85d8bc5a",
+   "size": 301
+  }
+ },
+ "inner_path": "data/users/1BdYibmpfvFcoXgMSyqBL1kyT6TUCShVaD/content.json",
+ "modified": 1512829941,
+ "signs": {
+  "1BdYibmpfvFcoXgMSyqBL1kyT6TUCShVaD": "GzSqTDGMM7doBA8FtZWDyYBLjEPAx14qzheNgt38mZb4WTxzemcAc7IX/YzBNJIZwYr6CIj0JWKGdicMbaaH50o="
+ }
+}

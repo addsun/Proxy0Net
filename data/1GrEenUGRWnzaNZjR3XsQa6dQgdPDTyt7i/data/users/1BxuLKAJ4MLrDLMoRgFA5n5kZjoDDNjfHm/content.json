@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HI8C3avDAIEiJObfcOz5wi4aXuXl+rAyexnu/jl0yvzQeY7J3tXmlyvd82E+PgODuQO0c7+zfOw6k0CxTZweRao=",
+ "cert_user_id": "zorriko@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "93cdd63f0974fff5ca8ce9e5f305b4aac4b708fa3cb6b53314b854bd981e021c",
+   "size": 1580
+  },
+  "data.json": {
+   "sha512": "72d199925babe695c5d32906947554e11c3135c29c93b576fec87877fb98ae9a",
+   "size": 5390
+  }
+ },
+ "inner_path": "data/users/1BxuLKAJ4MLrDLMoRgFA5n5kZjoDDNjfHm/content.json",
+ "modified": 1483236978.589328,
+ "signs": {
+  "1BxuLKAJ4MLrDLMoRgFA5n5kZjoDDNjfHm": "HCg52HbYqzRQ5ma/7qH5G9pNnOaWmKI/BnR4z3PTk2rpxUtpDXqKpfDk0/ciRQnfbTtQOAZI8R25G8HZEAP7mSI="
+ }
+}

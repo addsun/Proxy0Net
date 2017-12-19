@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL": [
+			{
+				"comment_id": 1,
+				"body": "Judging by characters and address length, looks like I2P's I2P-Bote address. I2P-Bote is a secure distributed email-like system.\nYou need to install I2P and I2P-Bote plugin to make it work.",
+				"added": 1508081027
+			},
+			{
+				"comment_id": 4,
+				"body": "> [yuqian](#comment_2_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL): I have tried I2P, But Because of the GFW, I can't get any seed. So how can I reseed I2P? I want try to use tor as the HTTP proxy for I2P reseeding, but it seemed that something went wrong.\n\nhttps://files.catbox.moe/1fdwi1.zip\nHere's i2preseed.zip",
+				"added": 1508178261
+			}
+		],
+		"3_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": [
+			{
+				"comment_id": 2,
+				"body": "This URL is invalid.\nAre you sure you wrote it correctly?",
+				"added": 1508081597
+			}
+		],
+		"2_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL": [
+			{
+				"comment_id": 3,
+				"body": "https://files.catbox.moe/1fdwi1.zip\nHere's i2preseed.zip",
+				"added": 1508178251
+			}
+		]
+	},
+	"comment_vote": {
+		"9_1GvzaGpd6f2brrsx1cjpx4WEVqauwQbg3M": 1
+	}
+}

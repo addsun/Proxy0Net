@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HKJvFxbs0AaBFTmoufdbK7ES05uXGR6pIV2amXIfrkvJcrvJqURD5bK4prnAaHxys6YLeKfNonoC1OG5w6v3kk4=",
+ "cert_user_id": "cimite0x00000@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "35dff7688d71efcce5f95d5a2e8b93a104c84b39c38ad8f0d9ed0333a7123657",
+   "size": 266
+  }
+ },
+ "inner_path": "data/users/18VPVoBVuEB1wgitw35gNk4sjBX237MMzv/content.json",
+ "modified": 1513345876,
+ "signs": {
+  "18VPVoBVuEB1wgitw35gNk4sjBX237MMzv": "G2Qezvv7D8q1dvbofpsiASObsEBBLkaVnWXvm2cgQhFjfggrpmUIGxYiRj3llniKjIFTnfKZF5iRMjmFHqZKK9c="
+ }
+}

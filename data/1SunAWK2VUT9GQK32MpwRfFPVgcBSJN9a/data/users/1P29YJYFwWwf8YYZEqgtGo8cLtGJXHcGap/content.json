@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HF6CFy8jBUSPXtLWtsYmmMuOQ4mpz+4lRPrf83bfGVqtYVtPu4G0WdXk6EDyp6flWwv1R1epg05TTSEXAwNXOfQ=",
+ "cert_user_id": "attackontitan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5e22f6194c0d7ff2fc546b7c355b725045ab6d4cc2bc514f693bb13582e8f9a6",
+   "size": 2757
+  },
+  "data.json": {
+   "sha512": "342c407e8ac66ddc9746e4145cf33d1c84006bc5c15ad34b992450fa83bca0d1",
+   "size": 533
+  }
+ },
+ "inner_path": "data/users/1P29YJYFwWwf8YYZEqgtGo8cLtGJXHcGap/content.json",
+ "modified": 1508005646,
+ "signs": {
+  "1P29YJYFwWwf8YYZEqgtGo8cLtGJXHcGap": "Gx/5IFOTIryLe0a4bw6ExhenMZgMi3O6yfzV2SagP7jnJJphtyOmLYbgLK+zBN8vYyzRZ/KfiyNBQKLoCU1IpZw="
+ }
+}

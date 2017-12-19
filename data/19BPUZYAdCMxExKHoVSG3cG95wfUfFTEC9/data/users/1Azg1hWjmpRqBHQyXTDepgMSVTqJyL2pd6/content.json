@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HBEXwYFNYEm4xeWz0/uXai8YeOxHSsO9z3nsvYP9mubLkAgh7c3gAfHINJ/dVBIG3USCt32jUj4fmzgt10tOkXk=",
+ "cert_user_id": "twitch@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d76ebc9d1c15bc422125ace401f6e95def8dffbf4f7047d535da73d58bf1e761",
+   "size": 987
+  }
+ },
+ "inner_path": "data/users/1Azg1hWjmpRqBHQyXTDepgMSVTqJyL2pd6/content.json",
+ "modified": 1512654583,
+ "signs": {
+  "1Azg1hWjmpRqBHQyXTDepgMSVTqJyL2pd6": "HK+wJTlybqU8/fDLNUVWhimvhB7m+qbBud6AknAcskGNT1YSZbxdzn5DZgIHx9UVz7McA1JyuKolBNAKc5Vm8jE="
+ }
+}

@@ -1,0 +1,101 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "請問如何成為I2P出口節點？",
+			"body": "請問如何成為I2P出口節點？可以給我一點指點嗎？\n\n自己嘗試了一些設定，都沒有辦法正常運轉，網上也找不到教學。",
+			"added": 1508379831,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		}
+	],
+	"topic_vote": {
+		"20_1G2KAr146veEMjvkrhD3sXMUH1fAuZdswM": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"6_1Cp5ENh2Sxu47yet96HqmFTT998VrExfvQ": [
+			{
+				"comment_id": 1,
+				"body": "雖然我沒有用過I2P，不過你有把在國外連結的I2P種子(清單)，帶回國嗎？",
+				"added": 1508215825
+			}
+		],
+		"2_1JmBwcsrovPGXG9c2VHbYHe7WBBF4xuTq6": [
+			{
+				"comment_id": 2,
+				"body": "> [ikana](#comment_2_14p4dsWSAmnRF1RkfcXmyBpiGXCmTMzLEY): 萌新求问这个码怎么用\n\n這個貌似是BT Sync的同步連結吧？",
+				"added": 1508292761
+			},
+			{
+				"comment_id": 6,
+				"body": "出口節點，好像掛掉了，所以目前只能訪問i2p內網。",
+				"added": 1509088029
+			},
+			{
+				"comment_id": 9,
+				"body": "> [aa121121](#comment_7_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 怎么访问I2P内网，我是小白一个，只能打开路由控制台\n\n請設定你的代理伺服器，對應i2p裡面的I2P HTTP Proxy，就可以了，預設是端口4444。\n\n這個其實跟透過i2p翻牆是一樣的設定方式，只是因為目前公眾的出口節點已經負荷不堪了，所以目前只能成功訪問.i2p結尾的網站。",
+				"added": 1509431250
+			},
+			{
+				"comment_id": 10,
+				"body": "> [yuqian](#comment_45_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL): https要用4445么\n\n是的，說明是說要這樣設定，但是我覺得全部用「端口4444」貌似也可以。",
+				"added": 1509438843
+			},
+			{
+				"comment_id": 11,
+				"body": "> [aa121121](#comment_8_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 能推荐一些I2P的内网吗？我上去看看，只要把代理服务器的节点改成127.0.0.1，端口改成4444就可以了吗？\n\n對的！但是前提是你的i2p軟體是安裝在你現在使用的這台電腦上。\n\n至於...推薦的內網，我現在也不知道 內網 有什麼好看的，我最常上網內網是i2p wiki。\nhttp://i2pwiki.i2p/index.php?title=Eepsite/Services/Chinese\n這是好心網友編輯的中文內網網址，雖然只有2個網站。",
+				"added": 1509535118
+			}
+		],
+		"1_1ZuZ3wk7CFvqnMb9BRaHrvayLJTrCdyKX": [
+			{
+				"comment_id": 3,
+				"body": "分享一下小心得，需要當出口節點需要設定兩個東西一個是I2P裡面的「I2P 隐身服务」，另一個是你需要設定一個代理伺服器，I2P的wiki建議是使用「Privoxy」這個軟體，然後在I2P裡面新增一個HTTP的「I2P 隐身服务」這個服務的端口要跟代理伺服器所提供的端口要一樣，使用「Privoxy」的話預設端口是8118，設定好並且啟動服務之後，最後就把剛剛新增的HTTP「I2P 隐身服务」裡面的「本地目標」的那一大串位置，分享給需要翻牆的朋友做相關後續設定，就可以了。\n\n備註：用I2P翻牆真的很慢速度大約在8~11 KB/s，即使提高出口節點的網速，也沒辦法提升速度。",
+				"added": 1508468616
+			},
+			{
+				"comment_id": 5,
+				"body": "> [littlelittle](#comment_21_14QA11YfgS5ftWwD54YYnTyvRbBRZGouPk): 我觉的这个技术没什么用。\n\n的確，對於純粹需要翻牆的朋友來說，的確沒什麼用，然而也很不好用。",
+				"added": 1508511611
+			}
+		],
+		"1_1CpX6ctRxB7XWZsRZFcgZgPvZRKDte5eM": [
+			{
+				"comment_id": 4,
+				"body": "BT SYNC被墻，聽說有一段時間了，請使用舊版本，並且搭配DHT。",
+				"added": 1508487448
+			},
+			{
+				"comment_id": 12,
+				"body": "> [chaoyueshengsi](#comment_1_15kUSugLwkMT84ScWXoJ7PNuT1gQgViQbr): 为啥新版本把dht给去掉了？\n\n因為官方推出了，中繼站，想圖利，所以去掉了DHT功能。\n\n想要使用DHT的話，請安裝舊版本。",
+				"added": 1509540981
+			}
+		],
+		"3_1Ko7622HKggRGbJny5hCS4n9wwMAVVLTSf": [
+			{
+				"comment_id": 7,
+				"body": "出口節點，好像掛掉了，所以目前只能訪問i2p內網。或是找信任的人架設i2p專用的出口節點給你。",
+				"added": 1509208376
+			},
+			{
+				"comment_id": 8,
+				"body": "> [aa121121](#comment_3_12J39qcszfZTTjh4LeojzbwKz3qkYcc9zR): 怎么用i2p访问暗网网站呢？好像没有可点击的入口\n\n請設定你的代理伺服器，對應i2p裡面的I2P HTTP Proxy，就可以了，預設是端口4444。\n\n這個其實跟透過i2p翻牆是一樣的設定方式，只是因為目前沒有公眾的出口節點，所以目前只能成功訪問.i2p結尾的網站。",
+				"added": 1509273167
+			}
+		],
+		"1_15egberD2AKxmhDhrWz8xCjDKpFeAaS4nn": [
+			{
+				"comment_id": 13,
+				"body": "雖然我不是很了解這兩個的相關原理，但是我覺得您有可能把為什麼需要翻牆才能瀏覽特定網頁這件事情，弄錯了。\n\n牆的設定，是阻擋特定的東西，而不是像是現實中的門衛那樣只允許，特定的東西通過。\n\ni2p的部分，原本的設計上就是拿來瀏覽.i2p的網址(就是所謂的內網)，翻牆功能，算是i2p的而外功能，要使用i2p翻牆你必須要有「出口代理」，目前設定中預設的「出口代理」目前已經不堪負荷了。",
+				"added": 1510742378
+			}
+		]
+	},
+	"comment_vote": {
+		"31_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": 1,
+		"1_1maRVvPkjC4EEYFGoWuxb2hyjS12do8zP": 1,
+		"21_19naVAHk8V5KPiEvmuJ75fwAs5KVZQv6KC": 1,
+		"50_15veLatSdM1bDkPzfQ13NGY4urYWFYvvDU": 1
+	}
+}

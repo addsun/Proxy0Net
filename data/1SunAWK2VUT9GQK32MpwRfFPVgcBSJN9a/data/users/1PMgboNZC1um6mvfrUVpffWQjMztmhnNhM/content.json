@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKZHJLTIrLOB5f8DYymIRCE4uEnD9D2WxJytokOA5ElzKBauJNXdUqkL4gjSudwDy8sQ5Ta+f9/NsDbVmhQpHJg=",
+ "cert_user_id": "fengyun009@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "af018987b701d9144242febd873b3de7ae56efd2e99470d953ada2f0d47d6387",
+   "size": 1549
+  },
+  "data.json": {
+   "sha512": "84d80ad2858ac805cf357223eb9d4f674d6dc26803c858e989a2183d8e399353",
+   "size": 996
+  }
+ },
+ "inner_path": "data/users/1PMgboNZC1um6mvfrUVpffWQjMztmhnNhM/content.json",
+ "modified": 1511713050,
+ "signs": {
+  "1PMgboNZC1um6mvfrUVpffWQjMztmhnNhM": "G0SfQGIeV9lJRJFHhVyBRzyCXAB4R3k9W7vXf34IWIiMJrmBZsdnUZVFzdRY2PN9IS5GhC2cz21n6jzrn8FCPlY="
+ }
+}

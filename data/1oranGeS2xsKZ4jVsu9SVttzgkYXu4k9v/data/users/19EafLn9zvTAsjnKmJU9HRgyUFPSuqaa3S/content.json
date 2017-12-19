@@ -1,0 +1,18 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "HODH0yH95Dhm6TCShwJSvY9PJT25sjSPZ7xSENN9+LNbTjIYio7voS/9VqwHp+uOaDNG/xslvEFPw4K1uuEev8c=",
+ "cert_user_id": "undyingfirewall@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "baac012a0bcd801a27365827b70b9ed82683fd66076fb0e5030730eb015bc0e4",
+   "size": 4709
+  }
+ },
+ "inner_path": "data/users/19EafLn9zvTAsjnKmJU9HRgyUFPSuqaa3S/content.json",
+ "modified": 1513178811,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19EafLn9zvTAsjnKmJU9HRgyUFPSuqaa3S": "HBRh1Yez9aggWSmSVCdGs/8niJdcdM3ZXDc4/px9fmuaW1V3bQVfGnSifM+v4CC76xCCh6dVSS/YgB4yuNWcssM="
+ }
+}

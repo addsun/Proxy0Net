@@ -1,0 +1,157 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 14,
+	"next_follow_id": 9,
+	"avatar": "jpg",
+	"user_name": "caryoscelus",
+	"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+	"intro": "http://caryoscelus.github.io",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503281218,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1503281580,
+			"body": "bah, why did i have to re-register here just now?",
+			"date_added": 1503281578
+		}
+	],
+	"post_like": {
+		"18aX6KzxzdyhnKYWiXe884HBNmK44gSpHJ_1503673883": 1503677225,
+		"1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510700123": 1510743613,
+		"1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510792054": 1510829588
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jayofthezero: i had setup my profile here on ZeroMe a few months ago (didn't use it much though or maybe even at all - can't remember exactly), then logged in tonight and it was still showing me my acc, but when i tried to post a message it didn't went through; then after page refresh my acc was gone and i had to 'register' again. (my ZeroId acc doesn't seem to be affected, only ZeroMe one)",
+			"post_uri": "13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE_1503281580",
+			"date_added": 1503298157
+		},
+		{
+			"comment_id": 2,
+			"body": "@Jayofthezero: looks white to me too",
+			"post_uri": "1ETuSwJzNdmHMoywaV2NCyZfC4ChiVUJqc_1503251233",
+			"date_added": 1503303857
+		},
+		{
+			"comment_id": 3,
+			"body": "@Jayofthezero: no, all i did was update ZeroNet by `git pull`",
+			"post_uri": "13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE_1503281580",
+			"date_added": 1503326670
+		},
+		{
+			"comment_id": 4,
+			"body": "When i stumbled upon it, i was taken aback by their contributor copyright waver phrasing (it pretty clearly tells that contributors has less rights over software than bystanders). Chances are, i wouldn't go far with it anyway, though ideas seem pretty cool",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1509815449
+		},
+		{
+			"comment_id": 5,
+			"body": "@Krixano: i suppose it was meant to mean what you said. But i can't read it that way and more importantly i don't want to sign supposedly legally binding (how much binding it is is a different question which would also depend on jurisdiction) thing of which content i'm not so sure",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1509823274
+		},
+		{
+			"comment_id": 6,
+			"body": "@Tdd: i'm talking about PD itself (even if it's definitely not my favourite approach), i'm talking about copyright waiver: https://github.com/mawww/kakoune/blob/master/CONTRIBUTING",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1509973785
+		},
+		{
+			"comment_id": 7,
+			"body": "@Tdd: i don't see how it adds anything new to discussion, except for the fact that Kakoune author didn't invent that waiver. They don't explain why it should be worded as it is (\"I dedicate **any** and **all** copyright interest in this software to the public domain)",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1510168760
+		},
+		{
+			"comment_id": 8,
+			"body": "most people have quite a mess in their head, sadly. so in a way, seeing such people on ZN could be seen as its success",
+			"post_uri": "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510700123",
+			"date_added": 1510705413
+		},
+		{
+			"comment_id": 9,
+			"body": "@Tdd: where does it say anything about fork? \"this software\" does not legally mean \"this repository\" (if it even means anything specific, anyway); it pretty much says that you lose all present and future copyright rights (\"all present and future rights to this software under copyright law.\"), which as far as i can see includes right to take that software and fork it",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1510743514
+		},
+		{
+			"comment_id": 10,
+			"body": "yeah, it seems to be a bit faster (possibly at the cost of processing power), but i wish they wouldn't force an interface change without user consent",
+			"post_uri": "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510872588",
+			"date_added": 1510876470
+		},
+		{
+			"comment_id": 11,
+			"body": "@Tdd: i know i can fork and change license if it's public domain, however as far as i understand that waiver, anyone who signed it cannot",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1509787855",
+			"date_added": 1510927303
+		},
+		{
+			"comment_id": 12,
+			"body": "@Ekaterina: i don't really care about round tabs or color palette (since it still uses system colors); what i didn't like were toolbar changes, like those hideous (i know it's a matter of taste ^_^) empty spaces around addressbar, reload button move and lots of unnecessary buttons (which is essentially something so easy to preserve, if asked for). I realize there's a point in using \"all-new\" look by default, but really, adding one small button \"make everything as close to previous settings as possible\" wouldn't be so hard to do",
+			"post_uri": "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510872588",
+			"date_added": 1510958518
+		},
+		{
+			"comment_id": 13,
+			"body": "@Krixano: i'm well aware of that. the point was that i don't like being forced to do something that software would obviously do faster",
+			"post_uri": "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT_1510872588",
+			"date_added": 1511003515
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1F41LyxfzgAv2ddfwyCEkBaDM8TkywCsRq",
+			"user_name": "Logitec",
+			"date_added": 1509817792
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD",
+			"user_name": "Ekaterina",
+			"date_added": 1509923068
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1510081570
+		},
+		{
+			"follow_id": 5,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1NmomwXDxpsc9qwyzV4xh4JqxGtT44XwCB",
+			"user_name": "Synapse❤️",
+			"date_added": 1510171912
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1510437701
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1510688160
+		},
+		{
+			"follow_id": 8,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT",
+			"user_name": "Happyrabbit",
+			"date_added": 1510829609
+		}
+	]
+}

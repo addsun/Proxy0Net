@@ -1,0 +1,204 @@
+{
+	"next_post_id": 13,
+	"next_comment_id": 15,
+	"next_follow_id": 8,
+	"avatar": "generate",
+	"user_name": "=sksn=",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Future is wonderful but I have no place there.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509643665,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1509643835,
+			"body": "Electrum 3.0 supports Segwit and the bech32 address format. That's fucking awesome!",
+			"date_added": 1509643833
+		},
+		{
+			"post_id": 1509644288,
+			"body": "Altcoins prices are going down. But I keep calm and still hodl homero.",
+			"date_added": 1509644285
+		},
+		{
+			"post_id": 1509645197,
+			"body": "I do not like an idea of donations to a zite address. ZeroNet is not a bitcoin wallet. If one sends coins it is possible that another won't even know about it.",
+			"date_added": 1509645193
+		},
+		{
+			"post_id": 1509648848,
+			"body": "ZeroNet is not anonymous. It will be a problem in the near future when neural networks will be good enough at stylometric analysis. ",
+			"date_added": 1509648843
+		},
+		{
+			"post_id": 1509649840,
+			"body": "I have tried beakerbrowser and dat several times. And it cannot find nodes trough tor. I guess it needs an open port for use.",
+			"date_added": 1509649834
+		},
+		{
+			"post_id": 1509780779,
+			"body": "I feel myself like I'am Buridan's ass of decentralized networks.",
+			"date_added": 1509780772
+		},
+		{
+			"post_id": 1510131543,
+			"body": "IMO, domains should be explicitly confirmed in `content.json`. At current time anyone can register a domain for any known zite. After some time he can change zite address to new his own zite and mislead users. On merger zites he even can modify user content on a hub.\n\n@nofish:",
+			"date_added": 1510131535
+		},
+		{
+			"post_id": 1510419842,
+			"body": "Ethereum Classic monetary policy ECIP1017 would be activated in month through the first reward decrease. Check it on http://ecip1017.com/",
+			"date_added": 1510419833
+		},
+		{
+			"post_id": 1510430799,
+			"body": "@nofish: Add comments on ZeroUp, please.",
+			"date_added": 1510430789
+		},
+		{
+			"post_id": 1510434979,
+			"body": "I am trying to reanimate the [cryptocurrency](http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:channel+channel_id=14QHv3VqRQvCAQdw8x34XVDCzNwHja9Rgp4) channel on ZeroVoat.",
+			"date_added": 1510434968
+		},
+		{
+			"post_id": 1510994618,
+			"body": "The bitcoin block #500000 will be mined around this Christmass.",
+			"date_added": 1510994606
+		}
+	],
+	"post_like": {
+		"1PxUVdXo2Cfi7DicGzLTj4KqgTQP2K3Q11_1": 1510080585
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It seems there isn't much effort on development. Namecoin even hasn't changed its consensus algorith from sha256 to anything ASIC-resistant or to PoS(or PoS/PoW Hybrid). And it's main feature is not unique to the blockchain world. Now we have ENS on Ethereum, for example.\n\nWhat if bitcoin becomes worthless? There is a lot of another cryptos. Ethereum, Litecoin and Monero also has big communities.",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509469366",
+			"date_added": 1509646325
+		},
+		{
+			"comment_id": 2,
+			"body": "Is it about [leeroy.io](https:leeroy.io/)? Deploying such apps on the ethereum mainnet is a bad idea. But apps could work fine without fees on an independent chain.",
+			"post_uri": "1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ_1508458680",
+			"date_added": 1509682640
+		},
+		{
+			"comment_id": 3,
+			"body": "For pseudonymous systems it is possible to deanonymize entire user's history as well as entire user's history can be used as a source for stylometry. For anonymous systems it is much more harder because messages is not easy to distinguish one message author from another. ",
+			"post_uri": "18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1509648848",
+			"date_added": 1509770427
+		},
+		{
+			"comment_id": 4,
+			"body": "fuck governments",
+			"post_uri": "1HRCEHNV2Xn5iqanzyv4unWaH6e9swNULc_1510033595",
+			"date_added": 1510033694
+		},
+		{
+			"comment_id": 5,
+			"body": "[ZeroVoat](http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/)",
+			"post_uri": "1HRCEHNV2Xn5iqanzyv4unWaH6e9swNULc_1510033595",
+			"date_added": 1510034065
+		},
+		{
+			"comment_id": 6,
+			"body": "Shitposting. Yeah, I actually aim to create such content here.",
+			"post_uri": "1NmomwXDxpsc9qwyzV4xh4JqxGtT44XwCB_1510123883",
+			"date_added": 1510129811
+		},
+		{
+			"comment_id": 7,
+			"body": "I have seen a weeaboo on ZeroNet today.",
+			"post_uri": "16U4vTzGSkewCm6a8MZQmZCXd5aram7nU2_1510230242",
+			"date_added": 1510264740
+		},
+		{
+			"comment_id": 8,
+			"body": "I2P is not an alternative to ZN but Tor. IPFS only partially intersects with ZN. FreeNet is not an application platform. FreeNet/RetroShare/GNUNet are all like swiss knives.",
+			"post_uri": "17Zks611RR4oN8USC3RxJzaw94GyPufioG_1510385449",
+			"date_added": 1510418388
+		},
+		{
+			"comment_id": 9,
+			"body": "There is nothing to compare between ZeroNet sites and Bitcoin transactions.",
+			"post_uri": "1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o_1510449523",
+			"date_added": 1510488896
+		},
+		{
+			"comment_id": 10,
+			"body": "I refuse.",
+			"post_uri": "1EqGKTo1R9d3MYD9EUMGATavY5Re3BZ4tZ_1510681021",
+			"date_added": 1510683250
+		},
+		{
+			"comment_id": 11,
+			"body": "I don't like both these cryptos, but if you need to choose I recommend Ethereum. Vulnerabilities mostly affect various Ethereum contracts not the core protocol itself. Contracts is turing-complete programs which run on Ethereum Virtual Machine and they can include security weaknesses as any other software does. Simple wallets in Ethereum is not contracts and they are unaffected. ",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510838229
+		},
+		{
+			"comment_id": 12,
+			"body": "@Ekaterina: Monero is one of the coin I like. It is the only cryptocurrency (except newest forks of Monero) which provide private transactions in mandatory manner. But due the larger transaction size tx fees also are large enough, about $1.5 per regular transaction. Monero has addoption on dark markets. Zcash provide a new type private transactions based on zk-proofs. But it requires trusted parameters which was created during zcash ceremony (google it). Also private transactions in Zcash are not mandatory and optional. Dash privacy is weak compared to the two above and it is not focused on privacy as its primary feature.\n\nSecond cryptocurrency I like is Ethereum Classic. It is mostly the same with Ethereum on its features but (will) have a deflationary monetary policy comparable with Bitcoin. Unlike Ethereum there is no a centralized foundation behind Classic.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510862705
+		},
+		{
+			"comment_id": 13,
+			"body": "In addition there are platforms for custom asset with native decentralized exchanges like Waves and BitShares. They have comparable fast blockchains with cheap transactions. The both use PoS consensus protocol with no mining.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510863319
+		},
+		{
+			"comment_id": 14,
+			"body": "I don't think that \n>people figure out that the whole concept of smart contracts doesn't work\nSome contracts have failed but other still work. \n",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510864079
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD",
+			"user_name": "Ekaterina",
+			"date_added": 1509650428
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ",
+			"user_name": "Lerolero",
+			"date_added": 1509684039
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1509944325
+		},
+		{
+			"follow_id": 4,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd",
+			"user_name": "Styromaniac",
+			"date_added": 1509997796
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1510129872
+		},
+		{
+			"follow_id": 6,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1510594761
+		}
+	]
+}

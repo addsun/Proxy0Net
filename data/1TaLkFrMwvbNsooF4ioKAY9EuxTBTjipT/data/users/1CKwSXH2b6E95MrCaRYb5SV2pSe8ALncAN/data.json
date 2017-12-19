@@ -1,0 +1,24 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX": [
+			{
+				"comment_id": 1,
+				"body": "I want to see if I have this figured out.\nYour id is associated with a permanent public key [1], which is generated from a private key [1]. This private key isn't designed to be human readable.\nYour id is associated with a temporary public key [2], which is generated from a private key [2]. This private key is designed to be human readable.\n\nTo confirm your identity you can sign a message with either private key.\n\nAt any point in time you can update your public key [2] to a new value, as long as you sign the update message with your private key [1].\n\nSo the purpose is to gain the usability of having a human readable key, while still keeping some of the security of having a non human readable key.",
+				"added": 1506634481
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": 1,
+		"4_1vuDGQZvMr5Jc9aRgA1dZKBmn9zc3yvPf": 1,
+		"1_18MunEYpqfdqGU75SLVA56zqvVMM67RdyZ": 1,
+		"101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"182_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	}
+}

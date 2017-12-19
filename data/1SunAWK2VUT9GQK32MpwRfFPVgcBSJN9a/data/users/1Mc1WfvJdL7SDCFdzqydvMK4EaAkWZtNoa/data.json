@@ -1,0 +1,40 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Kappanosanpei",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1510171111,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I like to read about myths and monsters. Mostly Japanese, but also Irish.",
+			"post_uri": "1NmomwXDxpsc9qwyzV4xh4JqxGtT44XwCB_1510123883",
+			"date_added": 1510171188
+		},
+		{
+			"comment_id": 2,
+			"body": "@Synapse❤️: If you're looking to get into Japanese mythology, Michael Dylan Foster's Pandemonium and Parade is a good start. The manga series GeGeGe no Kitaro is also a fun way to learn stuff about monsters.",
+			"post_uri": "1NmomwXDxpsc9qwyzV4xh4JqxGtT44XwCB_1510123883",
+			"date_added": 1510173453
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1NmomwXDxpsc9qwyzV4xh4JqxGtT44XwCB",
+			"user_name": "Synapse❤️",
+			"date_added": 1510171474
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Bcash",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "Beaver Cash",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504385596,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504690967,
+			"body": "I don't need centralized platforms as gab.ai. I can be a facist and make hate speech on ZeroNet or Mastodon. Don't @nofish and @gargron agree with this behavior? But I shouldn't ask them. It is what decentralization is.",
+			"date_added": 1504690965
+		},
+		{
+			"post_id": 1504700122,
+			"body": "Hi, zeronetians! Please, give me some recommendations about coins and tokens to add to my crypto-portfolio. Old mature coins is preferrable than fresh outed-form-ICOs. ",
+			"date_added": 1504700119
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@霸王寨第一光头: thanks, I already have these. I would glad to hear something interesting and less popular. Even if it is out of the top 100 at coinmarketcap.",
+			"post_uri": "15NgmXm8eGd5fH54S4JJnPsBaKHXusjjqG_1504700122",
+			"date_added": 1504728195
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1504454823
+		},
+		{
+			"follow_id": 2,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1504602107
+		},
+		{
+			"follow_id": 3,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1504627063
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "bug with connections limit",
+			"body": "I got lots of this in logs:\nDEBUG    FileServer Conn#45335 (IP) [?] > Closing connection: (IP) Connect error: IOError: cannot watch more than 1024 sockets in ConnectionServer.py line 142 > Connection.py line 107 > socket.py line 242 > core.pyx line 468 > core.pyx line 813, waiting_requests: 0, sites: 0, buff: 0...\nTray menu shows near the same value.\nThe actual problem is zn drops localhost connections too, so i can't access zites in the browser.\nI think there must be exception for that, first of all, plus some logic limiting connections, probably related to a peer count on each site hosted.\n// Yes, i have many zites connected.",
+			"added": 1509002639
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2": [
+			{
+				"comment_id": 1,
+				"body": "was 3094, now updated to 3125. will look for changes\n\n.. okay. now tray says connections ~2000 and site is not responding again.",
+				"added": 1509014202
+			}
+		],
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 2,
+				"body": "Is there any resource catalog for that network?\n\nGot some pointers from here https://louis.center/p2p-social-networking/",
+				"added": 1511861321
+			}
+		]
+	},
+	"comment_vote": {}
+}

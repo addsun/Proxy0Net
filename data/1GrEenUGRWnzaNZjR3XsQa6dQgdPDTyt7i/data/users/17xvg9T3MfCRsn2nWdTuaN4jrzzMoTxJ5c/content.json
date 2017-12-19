@@ -1,0 +1,18 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GzQPJPUunukVutAbs6eRpscjCBoBGDG5OGftbusnD8DmCtp9HL73eQaaiFf4L+illch7Ni2pnS5z+bNRHsC8UXc=",
+ "cert_user_id": "clack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "33d87321d094e5460887b8ce361c4fb4fd31ed5fb3030dd0d1c3e00bef1ef150",
+   "size": 1077
+  }
+ },
+ "inner_path": "data/users/17xvg9T3MfCRsn2nWdTuaN4jrzzMoTxJ5c/content.json",
+ "modified": 1479514331.121,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17xvg9T3MfCRsn2nWdTuaN4jrzzMoTxJ5c": "G7/p4I8pDY9CMzTH1Ma9w04LxEbKN/c5FzE2B1dv7ay6e6NtBlbF+GxvTBMPcSdfHqTcqCGjfT4+qCMtS2bSiRs="
+ }
+}

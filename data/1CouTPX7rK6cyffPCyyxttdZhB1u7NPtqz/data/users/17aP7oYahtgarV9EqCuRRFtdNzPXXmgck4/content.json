@@ -1,0 +1,28 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HGWb75DVB9hIPzxWkKPuqPgOOdt6/7QuWMqerqeUvhh9jCJ7hgf3eX3DdUp8M2no500ootvLtjxcDVzipxB7IUI=",
+ "cert_user_id": "diaotaida@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9f02033521e2defa9198e1975fe39cadd0fa8d9fd45aa6bf3eb2ef092b990422",
+   "size": 1591
+  },
+  "data.json": {
+   "sha512": "dfaecda92d8115d9c983c7094a82f43ed1af662d889f655de634430e8c278056",
+   "size": 740
+  }
+ },
+ "files_optional": {
+  "1499580372.jpg": {
+   "sha512": "a31a42e776a46cdcfeaadf2f2870e571fe597bfed9b3656c1f83a0ad172269a8",
+   "size": 79992
+  }
+ },
+ "inner_path": "data/users/17aP7oYahtgarV9EqCuRRFtdNzPXXmgck4/content.json",
+ "modified": 1508663461,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17aP7oYahtgarV9EqCuRRFtdNzPXXmgck4": "HCgvkoDyiSrjyWsU4ImIiwJHx5E5DdFAplBjbIUjzxg7MX5K53bdSQxbWRcQ1tEJ3fsXRdrvwBSS5d8pXlQGlbk="
+ }
+}

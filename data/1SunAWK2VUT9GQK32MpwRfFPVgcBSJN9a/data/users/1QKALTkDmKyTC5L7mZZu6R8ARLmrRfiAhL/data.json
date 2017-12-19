@@ -1,0 +1,45 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Bru",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "안녕하세요.\nHello.\nHola.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507935896,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507935982,
+			"body": "... My upper download line is crazy af lol",
+			"date_added": 1507935980
+		}
+	],
+	"post_like": {
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507934647": 1507936229
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Sadly, Twitter is a standard. Yet, ZeroMe (and ZeroNet) doesn't work on mobile phones as easily as doesn't scare newbies. Twitter is user friendly, while ZeroMe is privacy and censorship friendly.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507936438
+		},
+		{
+			"comment_id": 2,
+			"body": "Anyways, wait a few years and probably ZeroNet will become something more than this, just like every Internet project (eg. Linux) ;)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507936476
+		},
+		{
+			"comment_id": 3,
+			"body": "@Ekaterina: I guess the battery drain is because it downloads and uploads many files every time, like a torrent",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507942978
+		}
+	],
+	"follow": []
+}

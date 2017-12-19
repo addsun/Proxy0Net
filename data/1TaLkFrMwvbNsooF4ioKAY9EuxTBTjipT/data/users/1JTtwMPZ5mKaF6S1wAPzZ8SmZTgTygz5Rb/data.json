@@ -1,0 +1,83 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is the zeroTalk forum open source? Or is it using an open source project?",
+			"body": "",
+			"added": 1504814989
+		},
+		{
+			"topic_id": 2,
+			"title": "Any way of zeronet automatically warning people when external requests are being made or a when link is external?",
+			"body": "",
+			"added": 1504873490
+		},
+		{
+			"topic_id": 3,
+			"title": "A better Zeronet",
+			"body": "-- Some of my thoughts:\n\n1. Zeronet Ethereum token and ICO to help raise money for development and audits and a currency (token) for Zeronet.\n2. Built in ETH payments with API.\n3. Built in reward system (for creating helpful new services and seeding sites)\n4. Linux server script to seed sites:\n          a. Simple npm installation (e.g. pip install zeronet)\n          b. Ability to add bandwidth and storage limitations. (e.g. zeronet limit -b 500 -s 50)\n*\nIn my opinion this will be very helpful as anyone with as low as $2.5/m would be able to help the network and many VPs providers offer 1-2 months worth of credits as a free trial.\n*\n-- General improvements:\n*\n1. Notification system\n2. Bundled browser (chromium) in addition to existing solution\n3. MetaMask browser extension (open source for chrome) for ETH wallets, token management and payments\n4. An open source Android (iOS later) browser (with the option to not seed sites or only seed when connected to wifi)\n*\n-- Service ideas:\n*\n1. Marketplace (something like ebay)\n2. Freelance market (something like ethlance)\n3. Service marketplace (something like fiverr)\n4. Ethereum Prediction Market (something like www.betmoose.com)\n5. Decentralized dice game (something like https://www.vdice.io)\n\nP.S. I've been using zeronet since yesterday and I'm loving it. I would love to help with any of the above projects.\n\n**UPDATES**\n\n[lekton]\nETH Based D-Exchange(eg. EtherDelta)\n[obiwanzanobi] \n1. Automatic site change log (a la wikipedia)\n2. Integrated search engine that auto logs sites and can't be messed with (unlike a certain search engine that starts with a g, ends with an e, has an o and an l in the middle, and censors results like north korea censors journalists\n3. Run over mesh network (in the near future)\n4. Supports larger zites and media (think LBRY)\n5. Easier to make/clone zites and/or zite \n[zerolee]\n6. Decentralized VPN support for privacy\n7. Decentralized CDN support for speed",
+			"added": 1504874863
+		}
+	],
+	"topic_vote": {
+		"1_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": 1,
+		"3_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 1,
+				"body": "> [james007](#comment_8_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): https://github.com/HelloZeroNet/ZeroTalk\n\nwow, thanks",
+				"added": 1504871342
+			}
+		],
+		"3_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 2,
+				"body": "> [lekton](#comment_1_15hniXPB23ky54RzMd3iuDCLkGs8bxFdjT): great ideas. [...]\n\nThere are some great open source projects that we can use.\nI'll add your suggestion to the list",
+				"added": 1504875157
+			},
+			{
+				"comment_id": 3,
+				"body": "> [obiwanzanobi](#comment_31_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): automatic site change log (a la wikipedia) [...]\n\nadded",
+				"added": 1504875606
+			},
+			{
+				"comment_id": 4,
+				"body": "> [fengyun007](#comment_13_12pu2MFpjqWpNd4TqLC6edzMtEczQ2vLti): 反对收费。\n\nZeronet will always be free to use, but users can have the option to earn cryptocurrency, also a payment option for premium services and tools.",
+				"added": 1504883388
+			},
+			{
+				"comment_id": 5,
+				"body": "> [lime](#comment_7_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR): Confused, why does ZeroNet need its own currency? There are already several to choose from e.g. Bitcoin, Ethereum, Monero, etc\n\nEthereum tokens are not a new coin they are just tokens that run on the ethereum network.\n\nHaving a token for zeronet is helpful for:\n - Raising money through an ICO (Initial Coin Offering).\n - Rewarding users for seeding sites or creating popular services.\n - Having a decentralized autonomous organization with voting (voting on features which will cost tokens, helping the development with running donations for feature development).\n - Running smart contracts that are decentralized and unstoppable and fair.\n - People will be making money with the exchange of tokens and that is one way to attract new users and ensuring new cool projects and services plus help with the core zeronet project.\n - A simple decentralized autonomous exchange for ER20 tokens on zeronet.\nand many other benefits.",
+				"added": 1504884047
+			},
+			{
+				"comment_id": 6,
+				"body": "> [ppload3](#comment_6_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ): \"Always free to use\" and \"payment for premuim services and tools\" in one sentence, lol.\n\nWhat I meant is that the zeronet software and network is always free. And anyone could be starting a service where he/she sells development or design services for example.",
+				"added": 1504886882
+			},
+			{
+				"comment_id": 7,
+				"body": "> [ppload3](#comment_7_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ): Thats exactly why ETH, etc. imo is crap. It just turbo-capitlizes things and thereby even more disfavors those who cant afford to keep up the rats race.\n\nI agree with what you are saying to some extent, there are many projects or even scams on the internet using cryptocurrencies, however, some great projects and services have come because of them. Keeping up with technology in general is not easy in this day and age where technology is growing so fast it's hard to keep up with. This post is just some of my thoughts and opinions, that's it!",
+				"added": 1504887209
+			},
+			{
+				"comment_id": 8,
+				"body": "> [mert](#comment_1_14HdmCpHuvt25N85Yy5HAhtbE2YvfPdqaQ): dude very nice but i dont think npm install will be good, it is python so pip install maybealso on OSX brew cask install zeronet works. IDK about linux distros btw. [...]\n\nYou are right, updated. For the iOS & Android dev account fee we can crowdsource it or I can even pay the fees.",
+				"added": 1504894098
+			}
+		]
+	},
+	"comment_vote": {
+		"1_15hniXPB23ky54RzMd3iuDCLkGs8bxFdjT": 1,
+		"31_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"1_14HdmCpHuvt25N85Yy5HAhtbE2YvfPdqaQ": 1,
+		"8_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"30_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"29_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"10_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1
+	}
+}

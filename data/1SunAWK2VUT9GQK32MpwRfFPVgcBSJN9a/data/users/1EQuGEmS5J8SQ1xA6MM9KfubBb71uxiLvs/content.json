@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G9D0QxOnIVfMnbfHBVmu+4wbzZ8uVg1aK5VU1mz2Ya+82g2hP9nY7oqfAYdU/heZyfBCPY0j3mOxUWM0maQRmn8=",
+ "cert_user_id": "zerocateuadmin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0b2185ab0b79b06a1877a8027a52fd0163c002a4cc7cf2dc5e559872da1c853a",
+   "size": 2723
+  }
+ },
+ "inner_path": "data/users/1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs/content.json",
+ "modified": 1513430471,
+ "signs": {
+  "1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": "GzY3UsoO3Z/ylx3q6/SYQwVgxOV9FjAoYdoIXGnkSEn9cxdOI0/S+mhZSmFMKeVY07RJq7Pw3v9GraZsScCCUa4="
+ }
+}

@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zeroid.bit portability",
+			"body": "Hello! Sorry I'm really new to zeronet, just started to lurk today. I really like the ease of use of the zeroid authentication, but how do I carry this with me on other computers? Does it save some sort of a token on the PC? I'm using Linux if it matters",
+			"added": 1501009165
+		}
+	],
+	"topic_vote": {
+		"1_164LcDqc1cft4e73Cdm3jeDA1rHcftyr7Z": 1,
+		"1_127tNdRpqjPKrVbgYNJHyvHV2Hz43VApCK": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 1,
+				"body": "Finland! Torilla tavataan!",
+				"added": 1501012944
+			}
+		],
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 2,
+				"body": "How does one apply this to their zeronet proxy?",
+				"added": 1501013440
+			}
+		]
+	},
+	"comment_vote": {}
+}

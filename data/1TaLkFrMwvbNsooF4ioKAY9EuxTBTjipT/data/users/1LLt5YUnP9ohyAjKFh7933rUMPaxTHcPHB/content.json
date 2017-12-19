@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0YlF2sXnpcm4Jvg0SpOxW1gnF2tgoIMC5ZDD0uf7nzINoYEkeBuFo0O2WW75iFSoalXQAE77j8P+T0c9+YRrQw=",
+ "cert_user_id": "sanera@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "edf751a30bf3891f5ed9d8dc6a63318039fa582c59bd3c53bcee4aeef3a891f0",
+   "size": 524
+  }
+ },
+ "inner_path": "data/users/1LLt5YUnP9ohyAjKFh7933rUMPaxTHcPHB/content.json",
+ "modified": 1502188764,
+ "signs": {
+  "1LLt5YUnP9ohyAjKFh7933rUMPaxTHcPHB": "HFYeiivtW6SZ7qkArX1RDUD2NWh6cdKr1aCDRQVt8K70OMy7SGEUAPsSWyOS+98qZTxrTYcsgncXvRx6aXF+aBY="
+ }
+}

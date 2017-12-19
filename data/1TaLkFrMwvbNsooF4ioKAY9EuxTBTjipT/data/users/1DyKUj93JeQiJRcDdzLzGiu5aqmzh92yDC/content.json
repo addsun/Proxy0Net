@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMwRssD0mOlksHivATrZWFZaKyzkxTvFE1Kb0uxPaD5Hb1hzQKAt5PQ74s1dZ9ZUgElsyrG3o4G0MNTBJec6vOU=",
+ "cert_user_id": "playingcards@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "821f32ef3410678decdef906221a7f3f6e7f68a49af263049b22d8049b7a7612",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/1DyKUj93JeQiJRcDdzLzGiu5aqmzh92yDC/content.json",
+ "modified": 1503173528,
+ "signs": {
+  "1DyKUj93JeQiJRcDdzLzGiu5aqmzh92yDC": "HGoBBTIyRxbkD4916JDmTmCSPx/OvIeImjH1399YtexkTsK057AVls7rhvmVxngGQmDXjO11zjBpA7s65V2VUxw="
+ }
+}

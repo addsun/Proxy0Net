@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLYtbeHoC7CWxBGJX9jUMFCF4BK/iO4WyRUOucfAsUNTolUgEbqBSs1zvb22u1DaP2aLbp/Qfu2v1fJhtj6rhgQ=",
+ "cert_user_id": "bitcoinrapper@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "547587f14310eb755680f3ebd601fd3a829b4463fccd915573c8e6a4b9f3dbad",
+   "size": 1244
+  },
+  "data.json": {
+   "sha512": "d78496d597c50711d9694bf5b2e1f45fcac5044a68501ebaf7087e9b59d54fe4",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/1Ea3YpuM5LUw2cnwqxcD9Ukd8mmTXCWeF3/content.json",
+ "modified": 1509834974,
+ "signs": {
+  "1Ea3YpuM5LUw2cnwqxcD9Ukd8mmTXCWeF3": "G0+EFGGsoIxJmCs6Y5X+KK+ZWYC7qb/vl46eUmpCTg0bIKb6fSFjgvYasFm8lK15oNT0YNaJdYvgFh56KVZ8SBM="
+ }
+}

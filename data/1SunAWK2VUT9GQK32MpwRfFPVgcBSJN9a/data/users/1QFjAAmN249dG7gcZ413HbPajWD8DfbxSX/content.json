@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIo9Cd+d9Eim4o3sIvgTQ547j5/wq8ukiv54WPRFPWlJgm5PlB9709pbwKt8caTe1fPuaRGhDaNkAge8ctZ96To=",
+ "cert_user_id": "fcu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d4e50ba58408d09e6db5f91bad6399db296865aadf9bbde296d457db873e870",
+   "size": 2541
+  }
+ },
+ "files_optional": {
+  "1508511107.jpg": {
+   "sha512": "b91dce69ae78c928ec72eb182ed28e3bd4750a76749a9eb2899c620d58e69494",
+   "size": 55239
+  }
+ },
+ "inner_path": "data/users/1QFjAAmN249dG7gcZ413HbPajWD8DfbxSX/content.json",
+ "modified": 1508512707,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1QFjAAmN249dG7gcZ413HbPajWD8DfbxSX": "G1RhY585V7bx2VfHlJBlBmanfF4nUJKwU2OcZap0N28+cEUv+sJItwaNdPYZ/byy8SWOW69VC8d64Jtc2Z2PoHc="
+ }
+}

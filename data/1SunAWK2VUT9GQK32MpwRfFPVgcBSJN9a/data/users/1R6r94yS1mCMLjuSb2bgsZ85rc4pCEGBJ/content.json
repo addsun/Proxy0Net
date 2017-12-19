@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNamN//CalT1brUZ/y7CXsbw1p8NuuSNqEyINyTCwfnWM+ACAiHCIKtWGTRQdBY1T95zTEfC+vWj1uOZ/Wdf+6E=",
+ "cert_user_id": "tuckerotg@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2cafcc57969de6edd6c9ac39bc118f5891019d95acc3bd0f4b15c81b2cf51b65",
+   "size": 636
+  }
+ },
+ "files_optional": {
+  "1513391597.jpg": {
+   "sha512": "b5963d77b0f4a04df1811583c1eb26e6dfae1d9e96a5cc9e74b232e08e3f77a9",
+   "size": 27315
+  }
+ },
+ "inner_path": "data/users/1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ/content.json",
+ "modified": 1513391596,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": "GxW+nvn04FQWozqKszr76193l179Hu/bk1CUaEo0yRraBo25i1IyWXql11IUYF/rPKdZMnN+DggGFQfGOTvUPQ8="
+ }
+}

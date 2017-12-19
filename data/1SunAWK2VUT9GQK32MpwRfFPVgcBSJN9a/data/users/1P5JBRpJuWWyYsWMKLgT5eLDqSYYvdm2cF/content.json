@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HONbO1ZQgvZFF53xAgjT+IdJmi4LLwhAEBKeQh4JiiPQ6F3UMueCJVDCcwZVvg27XUrNaJcvIYPJgGWnbBkufDs=",
+ "cert_user_id": "darkarmy@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b701a1ab6faf9fe3e7bcdde9a16fe9643e6ed50e3cb3de51056edbfb85743c37",
+   "size": 1275
+  },
+  "data.json": {
+   "sha512": "7be4de10ccf228ce61a39363b96cfc7ad7d7e29ef8a3683d34c60f905062e7f5",
+   "size": 4711
+  }
+ },
+ "inner_path": "data/users/1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF/content.json",
+ "modified": 1504587145,
+ "signs": {
+  "1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF": "G/+vzlZG7GNeA6sAeI9M/X3UxE6O52heP726VwJGQbtUSIm0mR0t99EUCEqLJDY1ec8sMkS5tC53PSelwk5gpAk="
+ }
+}

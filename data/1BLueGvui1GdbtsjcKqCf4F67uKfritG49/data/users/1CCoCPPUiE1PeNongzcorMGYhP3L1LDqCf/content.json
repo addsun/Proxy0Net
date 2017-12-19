@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HBoyVg7fcvY1hIq7nqAd3NNqzrv6lql1vdbz3Cns/Esk16GpEpxLXum5fgnGV02a5I89slMWYbOh7SzfRDJhKYI=",
+ "cert_user_id": "applepie@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c19b7dcb8c8be869f1cea427767753552d8b21baef1fa105b9f7da6fa2879a2b",
+   "size": 194
+  }
+ },
+ "inner_path": "data/users/1CCoCPPUiE1PeNongzcorMGYhP3L1LDqCf/content.json",
+ "modified": 1497438310,
+ "signs": {
+  "1CCoCPPUiE1PeNongzcorMGYhP3L1LDqCf": "HNFQffcgTMIzZSsXZPy9roTOdO7IRCnV0HWve5v087HIXf6mS9s1JMRtckhOM5eMBvjXUvfa74wzhA/rQD1QP1Q="
+ }
+}

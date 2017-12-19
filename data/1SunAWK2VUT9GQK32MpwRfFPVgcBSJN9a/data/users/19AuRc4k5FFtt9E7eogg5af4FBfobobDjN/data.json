@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Ivanhjc",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1502343334,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1502343382,
+			"body": "Don't even know how I came here...",
+			"date_added": 1502343380
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Who am I? Why am I here? Where am I going?",
+			"post_uri": "19AuRc4k5FFtt9E7eogg5af4FBfobobDjN_1502343382",
+			"date_added": 1502343406
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "19AuRc4k5FFtt9E7eogg5af4FBfobobDjN",
+			"user_name": "Ivanhjc",
+			"date_added": 1502343466
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HH5lRnxde6m0VGvoYbJCVUuRUWTQTwAGIi9xK8mixxdZwh/wU7c5VBm8Z4ioooMU0KEBZjM6uTyvKtZspneCC+8=",
+ "cert_user_id": "greendog@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "244b6a482d1a2e660a4efa20839d9906fc343887e6f317f1cec863214046d991",
+   "size": 2255
+  },
+  "data.json": {
+   "sha512": "74492586bd80ba0e4c6f5067443646aabc1b2049fe2e6ac2177c1ba74f587acb",
+   "size": 8746
+  }
+ },
+ "inner_path": "data/users/1vNPY4HcxfJo2Z2iv1SMX3JRbY2r95WBd/content.json",
+ "modified": 1506131592,
+ "signs": {
+  "1vNPY4HcxfJo2Z2iv1SMX3JRbY2r95WBd": "HHdzjo8r4TjQTrTDfIkjHD4upouQ2yMlAF1yC0ZCStbXXKZdVB8cyYyHLYc+b2SHhEUhFX2CPag5iB3CHD84qFg="
+ }
+}

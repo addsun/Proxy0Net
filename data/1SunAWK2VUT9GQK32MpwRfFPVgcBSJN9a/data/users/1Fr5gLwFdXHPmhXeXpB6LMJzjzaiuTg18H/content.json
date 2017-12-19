@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HObw9xrnALYLStVhDvxQBTKHxOd4FlK+HGXq+JPm5Y1Z9jIPBXoJeOQ4iFY52ITHHxfvs39YPgDFSHg7TJWUsZQ=",
+ "cert_user_id": "ripcord@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46d207b2d8586e379021de593f2e65c0e48966e048da7e51caeef42eb71df2ed",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1Fr5gLwFdXHPmhXeXpB6LMJzjzaiuTg18H/content.json",
+ "modified": 1502850767,
+ "signs": {
+  "1Fr5gLwFdXHPmhXeXpB6LMJzjzaiuTg18H": "HGZFU/QhUTNILkO7m8PtwcqmHLZJ1n51uykb44pl4FivAKSVudnQn1Rq6yftTH3Pwt5LxpdMtmIPznYP45k5hNM="
+ }
+}

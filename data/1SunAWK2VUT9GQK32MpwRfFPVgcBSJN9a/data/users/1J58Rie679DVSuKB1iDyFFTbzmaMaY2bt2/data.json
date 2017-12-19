@@ -1,0 +1,64 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 5,
+	"avatar": "jpg",
+	"user_name": "Steal This Show",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "STEAL THIS SHOW is a collaboration between TorrentFreak  and STEAL THIS FILM‘s Jamie King. For more than a decade, TorrentFreak has covered the latest in filesharing and copyright news.\n\nWe wanted a way to discuss the kind of news covered on TorrentFreak with some thought-leaders, innovators and friends. \n\nWebsite: http://stealthisshow.com/",
+	"post": [
+		{
+			"post_id": 1512605608,
+			"body": "Hi ZeroMEians! If you enjoy audio Podcasts that discuss fringe technologies & topics then be sure to check out our latest episode   ‘The Nerd Reich’, with Vinay Gupta  @ https://stealthisshow.com/s03e11/",
+			"date_added": 1512605606
+		}
+	],
+	"post_like": {
+		"1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg_1512608602": 1512622690,
+		"17Zks611RR4oN8USC3RxJzaw94GyPufioG_1512334777": 1512633969
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Looks very nice!",
+			"post_uri": "1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg_1512608602",
+			"date_added": 1512622724
+		},
+		{
+			"comment_id": 2,
+			"body": "It's Dec 6th and I took a look at your site.  While I can see the '/uimedia/master.css' line in your index.html, there isn't any such directory or file that currently exists by that name and hence the problem.\n\nWhen I publish my sites, I try to push a few copies into a few zeronet proxies. There's like 2 functional ones available. Then after I do a few updates be sure to do the python zeronet.py siteSign command to sign the changes and a python zeronet.py sitePublish one to two times will get everything propagated throughout the network.\n\nHope that helps and hope to see your site up & running with style. :)",
+			"post_uri": "17Zks611RR4oN8USC3RxJzaw94GyPufioG_1512334777",
+			"date_added": 1512633884
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg",
+			"user_name": "Defalt",
+			"date_added": 1512622704
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17Zks611RR4oN8USC3RxJzaw94GyPufioG",
+			"user_name": "U53r",
+			"date_added": 1512633388
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17Zks611RR4oN8USC3RxJzaw94GyPufioG",
+			"user_name": "U53r",
+			"date_added": 1512633557
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1512949100
+		}
+	]
+}

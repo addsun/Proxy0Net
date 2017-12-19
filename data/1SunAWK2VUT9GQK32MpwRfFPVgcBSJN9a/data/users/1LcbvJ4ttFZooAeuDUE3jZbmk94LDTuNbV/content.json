@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HAlXqAXbBrXvNZqa9ZIZlV9CpLlVgm3DYCUTooyccBWxDs6K34tU4J9/noeZc4NkXCTgiYGejbXNcMUBBzVa0Ps=",
+ "cert_user_id": "dereddy@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b052d5b0ea4210eca86979f9d5d39d554f50d3d3e5156ccad38e0e51fa3346e6",
+   "size": 1779
+  },
+  "data.json": {
+   "sha512": "dea3795ad982c723a852ef8d78c4998ad6fcb4447ffdba51af8ececdf2898cb0",
+   "size": 868
+  }
+ },
+ "files_optional": {
+  "1506980515.jpg": {
+   "sha512": "5401fdce4fc9ccd298869e617fe4013a37ec802897e245256ca5be2c046819dd",
+   "size": 48597
+  }
+ },
+ "inner_path": "data/users/1LcbvJ4ttFZooAeuDUE3jZbmk94LDTuNbV/content.json",
+ "modified": 1507061330,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1LcbvJ4ttFZooAeuDUE3jZbmk94LDTuNbV": "HMIDQdOQRzTmvcAXWY39AEQgcHlR1v6dM7mzoFFG+pTEY1sFTCxYh44biU7tOR0ifPa8B0cKhYIJUI0zgM2dI4o="
+ }
+}

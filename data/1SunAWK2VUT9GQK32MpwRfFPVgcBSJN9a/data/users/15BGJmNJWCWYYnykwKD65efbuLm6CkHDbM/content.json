@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HE1K3yLd2HyjIx66JRJcy1pB8qMyn5ONyd7s5rI6JOGcnU/X75KY+egoyhTRkbqHQg9JAAP2+Wm6TngvDw/fTAA=",
+ "cert_user_id": "banjoecommando@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b41bcf1c09d836ded323808bc60293a2bdc275085060d912169b4e3aa4f55aca",
+   "size": 731
+  }
+ },
+ "inner_path": "data/users/15BGJmNJWCWYYnykwKD65efbuLm6CkHDbM/content.json",
+ "modified": 1513330440,
+ "signs": {
+  "15BGJmNJWCWYYnykwKD65efbuLm6CkHDbM": "GwhuFk3jMFSpYgzf4QAAGJiMyfGgsIMFly9E9obpGPIBInt74WBQu4iStPI/Sp13bJc/C6ujvhPB/42E3x6SUFc="
+ }
+}

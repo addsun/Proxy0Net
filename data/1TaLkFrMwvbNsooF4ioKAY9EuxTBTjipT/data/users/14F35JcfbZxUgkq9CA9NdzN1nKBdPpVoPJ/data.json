@@ -1,0 +1,72 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "It was just a matter of time until spammers took over zerotalk.",
+			"body": "What can be done about it? Could there possibly be a way of not seeding spam posts, or blacklisting files signed by specific keys?",
+			"added": 1494727027
+		},
+		{
+			"topic_id": 2,
+			"title": "Using webfonts in ZeroNet sites",
+			"body": "When I include webfonts hosted alongside a ZeroNet site, the browser shows an error saying, \"'access-control-allow-origin' header is present on the requested resource\". It seems that ZeroNet's webserver needs to send a CORS HTTP header when serving webfonts.\n\nAm I missing something? Is there a way to configure it, or is this a bug in the software? \n\nAs a workaround, I'm currently just using google fonts, but obviously that runs counter to the purpose of using a distributed network.",
+			"added": 1502994536
+		}
+	],
+	"topic_vote": {
+		"2_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"1_188bMdEPhk3gH5sWJogu54DXRHwehkpVoc": 1,
+		"1_1C9HXUYFSVafLxanwkaFPZRcRgCEGsj2Cn": 1,
+		"2_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"2_1LVa8gwjKqVvmoeXMRAZzwFMn7LUrhYAmR": 1,
+		"1_1FhAYRUS5wgHGeZHtergg1rWU4diKnKuuU": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_16bYoVV4ZHBY4kA416cTDvU1ZpjcLNkavi": [
+			{
+				"comment_id": 1,
+				"body": "Let's be serious, if you're on zeronet you're knowledgeable enough to set one up on a VPS as others have recommended. Packages like Algo and Streisand hold your hand through the entire process, and having a your own host avoids being blocked by VPN blacklists. Sans promotion, I think OVH has the cheapest machines out of the big providers, but it lacks support for automatically deploying machines with the aforementioned packages.",
+				"added": 1494139187
+			}
+		],
+		"1_14F35JcfbZxUgkq9CA9NdzN1nKBdPpVoPJ": [
+			{
+				"comment_id": 2,
+				"body": "> [parziva1](#comment_4_1Jk4sn5eCV5Eh2nojso2k8tmbSjLTdCgAx): What happened with spammers. (I just joined.)\n\nNot much in reality, the title was sorta hyperbolic, but I noticed an uptick in nutters and scammers hawking their shitty websites here.",
+				"added": 1494727849
+			}
+		],
+		"1_1CgJUqxQJEHM47hRvboY8cL65GqtWWWf9": [
+			{
+				"comment_id": 3,
+				"body": "no",
+				"added": 1494727879
+			}
+		],
+		"1_15rsz8sQRbkra9yHhyJQ3vSiSEFJ243WtF": [
+			{
+				"comment_id": 4,
+				"body": "[SCREEEEEEEEECH]",
+				"added": 1502940484
+			}
+		]
+	},
+	"comment_vote": {
+		"27_14YdhMiNAG8LDichYEQvyZZboGL8bSeZEu": 1,
+		"9_1LVa8gwjKqVvmoeXMRAZzwFMn7LUrhYAmR": 1,
+		"17_15NSryspZZm6RTYdeAoPLxzT7zdpVksg2S": 1,
+		"48_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"361_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_17WG9sFaQoZCyRT7m89WAa23Ma4WYPifMH": 1,
+		"1_1BqYepEtwwwXxMhB244xbEcEGUm6fVv9iU": 1,
+		"1_1M7ZsREmyDbA7kWbYG4BFroHYXH2d7r5f9": 1,
+		"982_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_173bxmLC8QA16cwrt2Z5SpYpijLHC2LtLR": 1,
+		"450_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_1BXCYRHwwev9cdgoMdWvhgKrMvUp19p2R2": 1,
+		"476_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"16_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1
+	}
+}

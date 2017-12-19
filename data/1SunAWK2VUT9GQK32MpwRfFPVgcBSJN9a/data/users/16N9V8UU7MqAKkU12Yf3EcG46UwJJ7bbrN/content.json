@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HAbigdIcjSJZIze9s7p5L8i409E8Ks43scaEqXry4Sh/OFW72WDX9Zivq33cEKw0cr0fyfiR9efUHyJi4DTRqSo=",
+ "cert_user_id": "altman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e564e46a79c10a52e2eb22efe97f426aebb1aada3735fb95774809ba8ec826c2",
+   "size": 206
+  }
+ },
+ "inner_path": "data/users/16N9V8UU7MqAKkU12Yf3EcG46UwJJ7bbrN/content.json",
+ "modified": 1512388674,
+ "signs": {
+  "16N9V8UU7MqAKkU12Yf3EcG46UwJJ7bbrN": "HJplUzLbYui9wWs7XIS1iPpjts3rzKb07FJZInj1ir5ZRJIYAZt5HpuZrJQdqA5QjDaus7w/lZalysGaWR3jFao="
+ }
+}

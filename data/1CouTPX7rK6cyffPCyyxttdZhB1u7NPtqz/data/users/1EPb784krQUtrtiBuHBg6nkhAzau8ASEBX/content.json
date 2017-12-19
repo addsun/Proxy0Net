@@ -1,0 +1,21 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "GyGYweGtiIzJdF+qILCRizVu44WsnB7rMJFytMiPBXNBcZENkFg15Rxn/kcOHsXyu9ulRrwTZbY/+XuaUt1OVsQ=",
+ "cert_user_id": "cppcc@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0728312663d36778b06559dc9e1fab8e1bd42f829a85561f4cb182e75351f1c0",
+   "size": 1472
+  },
+  "data.json": {
+   "sha512": "8e02ebf06b1da0cafaa0b1454b66804c6ba0f147a6c9eb0690c8874de2648002",
+   "size": 1165
+  }
+ },
+ "inner_path": "data/users/1EPb784krQUtrtiBuHBg6nkhAzau8ASEBX/content.json",
+ "modified": 1484879379,
+ "signs": {
+  "1EPb784krQUtrtiBuHBg6nkhAzau8ASEBX": "HLzTpFyyxu1IxzeyaSikhl6O29hYxbEMXy8NJWZlWnSghxu3EThwd5Ce7B7GB32sTMgo0BQnAOLhzGE3qBm+tg4="
+ }
+}

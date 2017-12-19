@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFuC2zzBnH+QpSfBXJ8m+bW3+mecmWJv0J2bUdjJYzRuW1X9oZBDliM4JzpjNtjfOMSJpECoPxvVOov7igd7GBo=",
+ "cert_user_id": "attilla@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3e91b2309bfc376ca33e29805cafef68ec7927657a5ea5f8b1d6eee6d49fc233",
+   "size": 241
+  }
+ },
+ "inner_path": "data/users/1AMV1eT2quYtrPCHB3MkJ5TLfLwaQLSH7d/content.json",
+ "modified": 1505801824,
+ "signs": {
+  "1AMV1eT2quYtrPCHB3MkJ5TLfLwaQLSH7d": "HFPXPzCGK9AgS/XPe1O/c74Pw/k9HRkeRk9o6ay/0ZfVIUZVv5yXZU0W02eW4e5bEQc/enk1kvYN3vqIZbEPjyY="
+ }
+}

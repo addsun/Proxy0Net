@@ -1,0 +1,483 @@
+{
+	"next_topic_id": 12,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "KopyKate - YouTube alternative for ZeroNet [UPDATE 1.3.24]",
+			"body": "&nbsp;\n## view on ZeroNet!\nhttp://127.0.0.1:43110/kopykate.bit\n&nbsp;\n## Change Log:\n## v1.3.24\n> - Improved player CSS.\n> - Changed admin e-mail.\n> - Added option to either upload instant webseed or upload torrent.\n> - (NEW - Katy-Torrent WebTorrent client under development. See below!)\n&nbsp;\n## Introduction:\nKopyKate is a ZeroNet site; it is an alternative to YouTube, but instead of hosting videos on webservers, it uses decentralized databases in order to store magnet links for videos, and then uses WebTorrent in order to stream them. Note that WebTorrent (WebRTC) and BitTorrent use two different protocols, and the videos can only be seeded by clients made specifically for WebTorrent (e.g. WebTorrent Desktop). Users also have the option to upload webseeds to a CORS-enabled webserver. This allows torrents to temporarily use a backup file from an HTTP server, until enough peers are available!\n&nbsp;\n## view on GitHub!\nhttps://github.com/kopy-kate/kopy-kate\n## NEW - KatyTorrent WebTorrent client\nhttps://github.com/kopy-kate/katy-torrent\n&nbsp;\n## Use these links to view outside of ZeroNet!\nhttp://www.kittyseedbox.tk:43110/kopykate.bit\nhttps://fuckcf.cf/kopykate.bit\n&nbsp;\n## If you want to get your video featured (USD $5 a month via Bitcoin)\nContact on ZeroNet: @ realkittykate\nContact on e-mail: kopykate@protonmail.com",
+			"added": 1506313097
+		},
+		{
+			"topic_id": 2,
+			"title": "Politics is a waste of energy",
+			"body": "Ultimately, your best chances of bringing about actual [change] is to live free, break laws that create victimless crimes whenever necessary, weasel your way out of criminal convictions by studying the law or getting a good lawyer, etc. .. while at the same time being a compassionate and caring human being who treats others with respect and also giving to charity and those in need whenever you can.",
+			"added": 1508458761
+		},
+		{
+			"topic_id": 3,
+			"title": "How would a Zeronet proxy deal with really, big files?",
+			"body": "Considering how many of them have limited storage.. does it have to fully download every single file that is viewed by the client?",
+			"added": 1508506472
+		},
+		{
+			"topic_id": 4,
+			"title": "Duniter - Cryptocurrency meets Basic Income",
+			"body": "http://basicincome.org/news/2017/01/interview-time-digital-basic-income/\nhttps://duniter.org/en/introduction/\n\nWe live in disastrous times right now.. but it neededn't all be doom and gloom. \n\nI'd like to imagine a world in which the biggest concern of the poorest kid in Africa.. is getting their video games not to lag on their computers. A world in which open source technology, 3d printing, the blockchain, etc. provide a universal high standard of living all across the world.\n\nIt's not too late not to lose hope. ;-)",
+			"added": 1508784458
+		},
+		{
+			"topic_id": 5,
+			"title": "Storing user-uploaded Big Files on different Directories/Hard drives",
+			"body": "Something I'm thinking about. I've been getting addicted to seeding and torrenting big files lately, however, unlike traditional torrenting, I kinda have to settle with having all my files in the data/user/xxx folders of ZeroNet. I'm also eventually gonna run out of space, lol.. but I want to buy a new hard drive.\n\nWould be great if we had options on where to store these files.",
+			"added": 1508914075
+		},
+		{
+			"topic_id": 6,
+			"title": "Thinking about Death, is what gets me through Life.",
+			"body": "It's pretty ironic, really. Just having death as a semi-imaginary Plan B for everything.. seems to lift a weight off of my shoulders. One minute I'm sitting in my chair, all dramatic and paralyzed, thinking about my problems.. next minute, I'm laughing my ass off. lol\n&nbsp;\nI just deleted my Facebook, and that also lifted a weight off of my shoulders. People just don't have interesting shit to talk about on there.. or maybe I just don't have any friends in real life, cause I'm a nerd and I like to talk about anarchy, politics, computer software, etc. instead of posting a trillion selfies.\n&nbsp;\nI hate how this world revolves around money. I hate feeling like a sucker for the dollar.\n&nbsp;\nTo be honest, though.. these days I'm not worried about money at all. I'm more worried about leaving behind something good for humanity, even if I can't make a living out of it. Anything. And also speaking out and saying things that people are too scared to say. \n&nbsp;\nIdeas are bulletproof.",
+			"added": 1508995954
+		},
+		{
+			"topic_id": 1509129499,
+			"title": "What are your opinions on YouTube's Like/Dislike system?",
+			"body": "I considered implementing it for KopyKate.. for a minute. lol\n&nbsp;\nBut then, now that I think about it. It's one of those things that tends to hurt small creators the most, because a lot of the times, what trolls can do .. is link a random video to a forum for fun, e.g. a video that talks about transgender people, or whatever.. and then start mass-disliking.\n&nbsp;\nThe dislike bar is almost embedded in our minds as implying 'something is wrong here' or 'There's gonna be lots of trash in the comments.' or alternatively... 'this could be a scam or a misleading title'.. in the case of more honest applications of the disliking system. (but then, that's what Report is for, isn't it..)\n&nbsp;\nOf course, creators can always disable ratings for their videos, but it's a catch-22; having your ratings disabled often makes you come across as 'I don't value people's opinions, I'm an authoritarian and possibly a douchebag.' \n&nbsp;\nSo maybe the only way to put an end to the drama is to do away with this system. If people like a video, they'll seed it, too. If not, well.. then it'll just float around with 1 like, and people can make better videos if they want, without the drama.",
+			"added": 1509129492
+		},
+		{
+			"topic_id": 1509159570,
+			"title": "What needs changing in the Video Game industry? How can we revolutionize it?",
+			"body": "Yesterday my mother told me how they were talking on the news about the obscene amounts of money that video game developers are currently making.. and how it's a very recession-proof line of work where you're never gonna be out of a job.\n&nbsp;\nI used to do modding on an open source video game when I was 8.. back in the days of SourceForge. In fact, it's currently on GitHub.. lol\n&nbsp;\nhttps://github.com/egoboo/egoboo\n&nbsp;\nOf course, I kinda grew up with the mindset that there's probably not much money to be made in video game development these days, considering how easy it is to crack yourself a free copy. Mind you, I'm not complaining about piracy here, lol .. .. more about, the lack of alternative business models for artists and developers on the interwebs, beyond simply forcing users to buy a physical copy, or forcing them to put up with annoying ads selling products they don't give a shit about.. or having to resort to crowdfunding a.k.a Cyber-begging / panhandling.\n&nbsp;\nObviously, there's video game companies making obscene amounts of money as we speak, but I have the feeling that it's one of those industries where you're either a big player, a big winner .. or a sore loser.. kinda like the music / film industry. There's no entry-level jobs, no middle-ground. This is just my opinion btw - I hope somebody can prove me wrong.\n&nbsp;\nI'm currently working on an ActionScript 3.0 framework for one of my animated series, and will soon release the code on GitHub, too. Basically, the way it works is that it allows you to automate animations. You have a certain set of body movements, facial expressions, etc. and then you control them all using code algorithms, combinations, patterns, etc. \n&nbsp;\nThis saves you a lot of time because frankly, animation is a very time-consuming hobby involving mundane and repetitive tasks, and even if you put a lot of effort into it .. if it doesn't have a good story line, it's gonna suck .. and if you're a creator yourself, you will sooner or later know how utterly exhausting, demotivating and depressing it is to put hours and days and months of effort into a project, only to have it pissed on by the wrath of the internets.. so you may as well just let AI take care of the animating part and the repetitive tasks, so that way you can put more effort and focus into the story. lol\n&nbsp;\nThe characters are also structured in a way that allows you to easily modify them, using a library that contains bitmaps and various images.. many of them downloaded off of the internet. haha\n&nbsp;\nAnyhow.. I actually plan on getting back into video game development after that. One thing I really hate about video games these days is that you have to sit on the computer for prolonged periods of time staring at a screen. I tend to be really restless and have to get up and be on the move every 30-40 minutes or so, which is why I've largely quit video games, and why I'd rather watch YouTube videos than watch a 2-hour-long movie. \n&nbsp;\nWouldn't it be nice to have a Virtual Reality MMORPG? Actually, that's a pretty dangerous idea.. a path to the matrix. It would get people up and going, but they'll probably never leave the house after that.\n&nbsp;\nAnother problem in video games is the Escapism. We live in an age of rising mental health issues, loneliness, obesity, eating disorders, etc. I think it's about time that video games got a good rap and helped us solve these issues. I want a video game that can help you find love, get laid, get fit. A game that, in many ways, can bring us back to the old days where people got together and joined clubs and went to church every sunday and went on adventures together, etc. . . without the church part, of course! ;-)\n&nbsp;\nI think this would also require us to make video game characters more realistic. On the internet, anybody can be a slender anime-girl with big, fat boobs.. even a man. Anybody can photoshop themselves on Facebook and only show the best part of their lives. It's time that we also embraced tragedy and imperfection.. and a good dose of reality here and then.....\n&nbsp;\nBut then, wouldn't that defeat the purpose of video games; Escaping reality?",
+			"added": 1509159562
+		},
+		{
+			"topic_id": 1509336621,
+			"title": "bigcat.tk - ZeroNet proxy test for big files",
+			"body": "https://www.bigcat.tk/\n&nbsp;\nWebserver reveals my ip, but oh well. I'm a YouTuber, and everyone knows I'm a kiwi, and a pirate. Sue me!\n&nbsp;\nI want to see how my hard drive handles public access to big files.",
+			"added": 1509336612
+		},
+		{
+			"topic_id": 1509482388,
+			"title": "I have a crush on the Prime Minister.",
+			"body": "Never thought this could ever happen to an anarchist..\n&nbsp;\n.. It's certainly happened to me. \n&nbsp;\nWhy are all the good women always straight, and taken. :(\n&nbsp;\nhttp://www.newshub.co.nz/home/politics/2017/06/poll-jacinda-ardern-s-popularity-plummets/_jcr_content/par/image_748347886.dynimg.1200.q75.jpg/v1497441509203/DONTUSE-jacinda-ardern-2-NEXT-MAGAZINE.jpg\nhttp://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/nznow/2017/08/09/33797/Jacinda-Ardern-portrait.jpg?width=600&height=315&quality=75&mode=crop\nhttp://images.indianexpress.com/2017/10/page11.jpg",
+			"added": 1509482378
+		}
+	],
+	"topic_vote": {
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"1_14qkCANgpwdN9rLmjeEWyyxEzAjmwFVkom": 1,
+		"16_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"13_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"15499_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1509317901_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1509398086_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1
+	},
+	"next_comment_id": 67,
+	"comment": {
+		"1_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 1,
+				"body": "> [orien3242](#comment_25_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP): You guys need a way to submit bugs and the like.eg. This video plays nice BUT when I click the download link, something you are running is concatenating your link to download videos.http://127.0.0.1:43110/kopykate.bit/?Topic:4_1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC/Beep+Beep+I+m+a+Sheep+Minus8+Version# [...]\n\nYou can submit bugs in the Issues tab in GitHub.",
+				"added": 1506458813
+			},
+			{
+				"comment_id": 4,
+				"body": "bump!\n\nGonna be uploading Rick and Morty season 3 on a daily basis, alongside the newest South Park TV shows, Game of Thrones.. as well as the newest BRrip releases of the latest 2017-2016 films, going back in time until every movie is added.\n\nI'll be releasing a movie encoding tutorial pretty soon, using Handbrake. Encoding is an artform in and of itself.. i can't stand watching encodes that have uneven FPS or are blurry or have the wrong aspect ratio or shitty sound etc. That's why RealKittyKate only uploads quality encodes, and would encourage future torrenters to do the same.\n\n**Please let me know what other shows you want added to the list! Encoding videos for online streaming is easier said than done, but step by step we can do this!**",
+				"added": 1506814546
+			},
+			{
+				"comment_id": 10,
+				"body": "bump! new movies added..\n\nMake sure you hit our new feed button next to the search bar at Kopykate so that you can get the latest movie uploads!",
+				"added": 1507452859
+			},
+			{
+				"comment_id": 11,
+				"body": "bump! two new shows fully uploaded: Rick and Morty, Stranger Things.",
+				"added": 1507676188
+			}
+		],
+		"1_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn": [
+			{
+				"comment_id": 2,
+				"body": "> [blazar](#comment_4_1P1baCe1LLjror4CZjChWFy7D7cVWyPL83): I see a lot of left-right-racial bullshit in comments. First of all: these terms like \"left\" and \"right\" are tools developed for manipulation.  Both \"left\" and \"right\" movements exist for one purpose: to don't let people move with own way. Left? Right? Just fuck off! There is only self-defense for any human with brain who understand current situation - not left or right sides. The \"racist\" term is just another tool. As it mentioned in topic message \"anti-racist\" means anti-white. This is just the fact which can be seen by anyone in racial subjects, in so called \"white guilt\" phenomena especially.  [...]\n\nExcept, whatever biological differences there may exist between races .. should not be used to justify discriminatory policies.\n\nLive and let live.",
+				"added": 1506592833
+			},
+			{
+				"comment_id": 3,
+				"body": "Anti-racism doesn't necessarily mean anti-white. Yes, a lot of self-proclaimed 'anti-racists' (e.g. Black Lives Matter, antifa) are guilty of hypocrisy and racism themselves.\n\nHowever, racism is still a problem around the world .. and there's nothing wrong with exposing a racist whenever it is appropriate, as everyone has the right to equal opportunity.\n\nThis is kindergarten stuff.",
+				"added": 1506593085
+			}
+		],
+		"11_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 5,
+				"body": "huh?\n\nWell, Facebook has been around since 2004. Whatsapp.. never really use it, I just use Facebook Messenger Lite to talk to friends and family.\n\nPeople don't usually feel the need to change what they are used to, unless the alternatives offer something different.. such as digital freedom, privacy, etc.",
+				"added": 1506843101
+			}
+		],
+		"21_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 6,
+				"body": "I for one would welcome a ZeroNet dating site. Normies scare the hell out of me.. at least here you get people with interesting stuff to talk about.. like science, politics, space, programming, networking, etc.\n\nI've always wanted to see a dating site that uses actual scientific algorithms in order to match people up, as opposed to pseudo-scientific junk like your Horoscope, or simply matching up interests and hobbies.. which doesn't always translate to successful matches.\n\ne.g. According to a study I've read a few years ago, you're more likely to be attracted to people who share similar facial features with you. This phenomenon has even been observed in people's choices of pet animals.. you're more likely to pick a dog or a cat that 'kinda looks like the owner'.\n\nIn other words, we are genetically pre-programmed to seek the Familiar.",
+				"added": 1506989114
+			}
+		],
+		"28_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 7,
+				"body": "Yeah, I'd say it's simply not a good idea to have unsecured networks.\n\nEvery wifi extender should have a web interface (usually something like 192.168.20.1.. or 192.168.10.1) where you can set up WPA2 passwords. You just plug your laptop directly into the device via Ethernet and then type the Gateway ip into your browser.. whichever IP is listed in the manual. You can buy wifi extenders for like $15 on eBay or aliexpress, and they sometimes even work better than the pricier ones you get at electronics shops.\n\nIf you wanna share it, I'd recommend only sharing it with people you trust. Have a chat with neighbours and all that. Plan ahead.\n\nPublic wifi hotspots are different. Obviously, they have better internet speeds and security systems in place to prevent hacking, etc. They also employ more pricey antennae and boosters to provide better coverage.. a Wifi extender won't cut it.\n\nNever buy phone data. It's on the same level as selling your camera at a Pawnshop because you're broke, or buying bottled water - you'll ALWAYS get a bad deal. It's a waste of money. Obviously if you're rich, it's a different story.. but then rich people can afford better plans where you can buy tons of data in bulk, saving you money in the long run.\n\nIt's much better just to wait till you get home so you can use the internet, or just look for public wifi hotspots in town. I myself don't have any problem with waiting till I get home.. also my college has free WiFi. I haven't had to buy phone credit for months.. except for that time when I needed Google maps cause I was going on long trips around town. I don't even top up my phone, I just talk to people via Messenger.\n\nBack when I was really broke and living in a trailer, I used to use a long-range 24dbi parabolic grid antenna in order to connect to wifi hotspots that were 300m away. Limited data on mobile broadband was killing me, so I said fuck it.. lol",
+				"added": 1507076800
+			}
+		],
+		"1_1BM5RxgUfzF8tXYBMbsh7mTjA8JRWEW72c": [
+			{
+				"comment_id": 8,
+				"body": "I honestly don't see much point in such independence movements. It's one thing if you're trying to escape a tyrannical government, and trying to create a better and happier society by declaring independence.. but this is just born out of petty cultural / historical grievances, it seems.\n\nFighting tyranny is all cool, but you need to be careful that you don't end up becoming a tyrant yourself. What are you going to do after independence? If you can't answer that question, don't declare independence.",
+				"added": 1507077408
+			}
+		],
+		"1_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn": [
+			{
+				"comment_id": 9,
+				"body": "The guy was a narcissistic misanthrope who sold his soul to the very shallow, consumerist, mainstream culture that he seemed to despise deep within.. and whose father was a bank robber.\n\nEven if he left some 10,000 page manifesto, as the Columbine killers did, you would probably still be scratching your head. Some things are just that simple.",
+				"added": 1507316570
+			}
+		],
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 12,
+				"body": "> [kopyjane](#comment_16_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Anybody know what's going on at this zeroproxy? https://fuckcf.cf/big.kopykate.bit/ The site seems to load blank.. gives off this error in the console. Everything is fine in my own Zeronet client, and other proxies.. The connection to wss://fuckcf.cf/Websocket?wrapper_key=d2ff841142b9677b9a52f594fcd118fb40406ef5ccf4374ebeaf515850f5d50a was interrupted while the page was loading.\n\nSeems like it's either a data overload or some attempt at censorship over in China..\n\nIf anybody is having trouble viewing the site for whatever reason, please let me know!",
+				"added": 1508402702
+			},
+			{
+				"comment_id": 13,
+				"body": "guys. are you able to see the site at all? what's going on at this proxy.. can somebody please test:\n https://fuckcf.cf/big.kopykate.bit/ ",
+				"added": 1508442902
+			},
+			{
+				"comment_id": 14,
+				"body": "> [krixano](#comment_91_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I can see the zite using the client running on my computer, but not on that particular proxy (only the video listing part doesn't show). Also, before, I got an error about loading some fonts (sorry, I can't quite remember the error message), but now I don't.\n\nMay have something to do with corrupted user files. I guess we'll have to wait for the proxy to restart, see what happens..\n\nIf anybody else sees this bug on their own client, please comment below!",
+				"added": 1508446815
+			},
+			{
+				"comment_id": 26,
+				"body": "UPDATE: Added basic commenting function for videos.\n\nWill now be working on URL navigation. ;)",
+				"added": 1508486159
+			},
+			{
+				"comment_id": 27,
+				"body": "UPDATE: Added URL navigation.\ntest:\nhttp://127.0.0.1:43110/big.kopykate.bit/?Video=1508239539_1\n\nOk. Now I'm drunk.",
+				"added": 1508501581
+			},
+			{
+				"comment_id": 28,
+				"body": "BUG FIXED: Accidentally got the wrong number of max megabytes allowed for optional big files, which prevented bigger uploads than 20-50mb for me and other users. Fixed now!",
+				"added": 1508535607
+			},
+			{
+				"comment_id": 31,
+				"body": "> [krixano](#comment_98_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): There seems to be a small bug with the zite. When you click on \"My Channel\", it underlines \"Airing Now\" instead, but it does show the correct videos in the videos list.\n\nYep.. I noticed that. It's supposed to show you the latest videos that you've uploaded to your channel.. so it's kinda accurate.. but yeah, I'll be sure to fix that soon!",
+				"added": 1508735629
+			},
+			{
+				"comment_id": 32,
+				"body": "I now know what happened to the Fuckcf.cf zeroproxy. Basically, they deleted all of our big files, including the ones at ZeroUp.. so KopyKate BIG and ZeroUP are practically non-functional at that proxy.. because the database is querying the files, then returning null.. then basically stopping the javascript.\n&nbsp;\nIf anyone can set up a proxy that welcomes big files, please do so! I'll be monetizing the [Home] page of KopyKate eventually.. that means that you can pay a small monthly bitcoin fee to have your video become more visible and get more seeders.. provided you aren't a scammer or some dodgy advertiser selling supplements or something.  Part of that revenue will then go to any zeroproxy willing to put up with us.. and if it ever gets big enough.. a lot of that revenue will also go to charities and well.. paying my rent I guess.. lol",
+				"added": 1508735917
+			},
+			{
+				"comment_id": 34,
+				"body": "Yes, but one can simply disable downloading and sharing big files on the proxy.",
+				"added": 1508783011
+			},
+			{
+				"comment_id": 37,
+				"body": "> [hippoki123](#comment_2_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2): btw, Will this webzite support subtitle/embed features? I'm waiting for it\n\nAt the moment, it'll be up to the uploader to encode subtitles into their videos, and it's really easy to do with HandBrake. There should be a plethora of tutorials available on YouTube for the uninitiated.\n\nbut yes, based on my findings.. it should be simple to add an HTML5 <track> element to the video player so as to allow users to write vtt files and publish the subtitles to the blockchain. I don't think SRT files work with HTML5.. but apparently there are some SRT > VTT converters.\n\nI'm not sure how embedding might work, probably only on ZeroNet.. but yeah I guess I'll experiment with that too.\n\nMy priority right now is also to integrate a javascript FFMPEG encoder that can be used directly on the site, so that you can encode your videos properly before they are uploaded.. so as to avoid the dreaded 'MIME TYPE OR FILE FORMAT NOT SUPPORTED' that many newcomers are producing.",
+				"added": 1508839347
+			},
+			{
+				"comment_id": 38,
+				"body": "> [krixano](#comment_102_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): btw, if you accept KaffieId, I think you should use auth_address instead of cert_user_id for the routing because multiple people can have the same cert_user_id for KaffieId.\n\nNever thought of that. Thanks for letting me know.. easy fix anyway. ;)",
+				"added": 1508908126
+			}
+		],
+		"10_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 15,
+				"body": "> [akito](#comment_245_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): There are so many problems and people are talking about legalizing cannabis. Seems to me kind of like worrying about how your clothes look while people are shooting with guns at you..\n\nThat's the point. Cannabis is not a priority - so LEGALIZE IT. period.",
+				"added": 1508450539
+			},
+			{
+				"comment_id": 16,
+				"body": "> [akito](#comment_248_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): So maybe we should legalize eating dogs and cats, too. That has about the same priority.\n\nWhat I do in my spare time without interfering with the rights of animals, or humans, is nobody's business.",
+				"added": 1508450698
+			},
+			{
+				"comment_id": 17,
+				"body": "> [akito](#comment_250_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): My right as a human is not to be gased by smoke at the bus station. So actually smoking should be forbidden in total.\n\nSmoking is already forbidden in public places.",
+				"added": 1508450820
+			},
+			{
+				"comment_id": 18,
+				"body": "I should add, legalizing cannabis would bring far more jobs than any old commie or corporate neo liberal could ever conjure up from out of thin air.\n\nWe want free markets and new industries - not communism or crony capitalism.!",
+				"added": 1508450857
+			},
+			{
+				"comment_id": 19,
+				"body": "> [akito](#comment_251_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): My point is, I don't wanna spend my time, or even worse, see actual politicians waste their time on the most unimportant topics of all, like legalizing cannabis or gay marriage, or whatever that bullshit is. Yes, I don't mind if someone does it for themselves, but that's so unimportant, we all can live without legalizing this or criminalizing the opposite.Basically every time I see politicians talk about legalizing cannabis for example (mostly greens), then I already can't take them serious for wasting their right to speak publicly in a certain time frame with shit like that. What do I care if cannabis is legal or not. It doesn't matter, at all.\n\nYou're just validating my point - it doesn't matter if people smoke weed or not.\nThe fact of the matter is, our jails are being clogged with people who could be working and paying tax as we speak..so it's really nothing to do with weed per se, but about respect for individual Liberty.",
+				"added": 1508451102
+			},
+			{
+				"comment_id": 20,
+				"body": "> [akito](#comment_253_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): To me, that's bullshit talk from weed people. If they wanna smoke, then let them smoke. I don't see any point in legalizing it. Actually I see a point in forbidding every way of smoking, ever. Smoking is cancer. Literally. Literally literally.\n\nSo you're basically saying.. let them smoke, but don't legalize it?\n\nIn other words, keep the law as it is, but don't enforce it?",
+				"added": 1508451289
+			},
+			{
+				"comment_id": 21,
+				"body": "Also think about how many dairy robberies and murders will go unsolved for every cop who wastes time trying to look for a plant.",
+				"added": 1508451317
+			},
+			{
+				"comment_id": 22,
+				"body": "> [akito](#comment_254_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): No, not at all. If someone would smoke and I would never ever even notice the slightest bit of it, I don't care. But basically you notice it on every smoker and most of them give you literal cancer. In my opinion, that should be charged as physical assault, or worse.\n\nSo it should be illegal to smell bad?",
+				"added": 1508451450
+			},
+			{
+				"comment_id": 23,
+				"body": "> [akito](#comment_255_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): You are missing the point more and more. I wasted already 5 minutes of my life in this conversation talking about shit like this. I think nobody in political charge should ever even talk one word about cannabis or anything like that, because that's literally a big waste of breath. What do I care if druggie weeders go to jail for their \"plants\"? That's not unjust to do. Every smoker should be cured in a psychiatric hospital anyway, for being depressive enough to not be able being happy in life without smoking.\n\nYou don't have to have the conversation.\n\nConsidering how strongly you feel about cannabis users, it really does seem like an important issue to you after all. \n\nWould you say the same thing about people who drink alcohol, drink coffee, play violent video games, watch porn? Surely, they need to be sent to re-education camps so they can be happy listening to Christian country music instead. What a lovely government it would be to live under!",
+				"added": 1508451651
+			}
+		],
+		"2_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 24,
+				"body": "Another thing I noticed is that voters aren't necessarily to blame for bad governments, either. Most people just live in fear and prefer the stability and normality of that which they're already used to.. coming home, watching sports on TV while drinking beer and ordering takeaways, etc.\n\nReal change takes danger, risk.. suffering, pain. Most people want bread and circuses.",
+				"added": 1508459123
+			},
+			{
+				"comment_id": 25,
+				"body": "An anarchist thus isn't going against the will of the people or the will of democracy. \n\nDeep inside, people do want change, they do want to live happier lives.. they do want more than the 9-5 rat race that is stealing our souls and causing depression, anxiety, eating disorders, obesity.. etc... but they're afraid of taking a risk or trying something new. \n\nThey want a guarantee that things will work out.. that's why they'd prefer to vote for a Bible-thumping douchebag in a suit and a tie, than someone who might bring new ideas to the table. The former comes with a guarantee, you know what you get - you get what you're already used to; coming home after work and tuning into the latest cricket match while you munch on your Pizza Hutt order.. then drink yourself to sleep only to wake up again and go back to work.\n\nThe latter comes with risk and uncertainty. You may end up with a far better society, but you may also get riots, protests .. economic recessions.. etc.\n\nAn anarchist essentially gives up on politics and creates their own micro-utopia within their own communities, so that people can try out new societies without destroying existing ones.",
+				"added": 1508459773
+			}
+		],
+		"7_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": [
+			{
+				"comment_id": 29,
+				"body": "> [styromaniac](#comment_144_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): The zite owner was seeding by keeping WebTorrent Desktop open or keeping tabs open, then gave up instead of working on a solution like installing Vuze with WebTorrent plugin. I wish they'd switch to large file support or put the site on GitHub. It looks nice even if it's not functioning. It's not fundamentally flawed. It's just that the owner didn't work on a better solution for seeding.\n\nVuze is pretty bad at seeding WebTorrent files. It craps out after a while.. stops communicating altogether.. then you need to restart the program and wait 5 minutes or so. WebRTC communication also has the side-effect of consuming a ton of CPU, which increases exponentially the more files you add..\n\nWebTorrent has largely been abandoned. The project creator also stopped replying to GitHub issues.",
+				"added": 1508625200
+			}
+		],
+		"4_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": [
+			{
+				"comment_id": 30,
+				"body": "I haven't seen many proxies around lately. \n\nWe really need proxies with lots of storage nowadays. Fuckcf.cf is the only zeronet proxy that I know of that isn't dead, but even they can't handle big files. KopyKate big for example stopped working on that proxy after they deleted all the files.. instead of simply disabling seeding.\n\nOnce I become more financially stable I'll set up a decent New Zealand-based zeronet proxy with one of my college friends. I have one running on my PC right now, but I use it mainly for friends.. it reveals my IP because it's hosted on my computer, that's the only thing that stops me from going fully public with it.",
+				"added": 1508625552
+			}
+		],
+		"3_15de5wZ71q8iQGhEmBkJnRKx37Defn5XoL": [
+			{
+				"comment_id": 33,
+				"body": "ZeroNet as a whole is practically an anarchist forum. lol",
+				"added": 1508741810
+			}
+		],
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 35,
+				"body": "The reason we're here in the first place is because translation AI software still sux.",
+				"added": 1508783915
+			}
+		],
+		"6_1LWErNVFAu2wJT2XBoVkLDCmY41EX32knU": [
+			{
+				"comment_id": 36,
+				"body": "How can we trust your group to be legitimate? I've seen your Reddit posts but there's a lot of deleted comments.",
+				"added": 1508813690
+			}
+		],
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 39,
+				"body": "> [naeui7tycw9p35y9](#comment_15_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep): did you try a https://en.wikipedia.org/wiki/Symbolic_link?\n\nI've just looked that up, actually. I just feel it would be too much of a pain doing all that command line, especially when ZeroNet gets really, really big.",
+				"added": 1508914706
+			},
+			{
+				"comment_id": 40,
+				"body": "well.. considering how the client is running on your computer, I would assume it should be able to access files outside of zeronet masterseed folder.. i.e. ../../../My_Custom_Big_Files_Folder/xxxxx/data/users/xxxxxxxxxxxxx/this.mp4",
+				"added": 1508915101
+			},
+			{
+				"comment_id": 41,
+				"body": "> [krixano](#comment_105_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Currently, zites can simply link to the file based on a relative link going into the user's folder. But if we move the files, it will no longer work, which means we need to ask ZeroNet for the directory path of the file, which would mean yet another command.\n\nCouldn't this be relative to each individual user's client, though?",
+				"added": 1508915363
+			},
+			{
+				"comment_id": 42,
+				"body": "> [krixano](#comment_106_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Okay, so for example, I have an optional file stored in my user's directory. The zite can access it by going to data/users/[my auth address]/file.ext. When someone download's the optional file, the zite will just use this url because it's relative to the zite and it's always located in the same place. But if we start moving files around, we instead have to ask the ZeroNet client where the file was moved to because everyone could move it to different places.\n\nI suppose there should be a way to set up some automatic symbolic linking system.",
+				"added": 1508915686
+			},
+			{
+				"comment_id": 43,
+				"body": "I'm also a big confused as to how the Optional big file settings work.. seeding part of the file.\n\nAt the moment, every time I watch a big file video.. it forces me to download it all to the hard drive. In the case of videos, there should be a way to simply stream them.",
+				"added": 1508923549
+			}
+		],
+		"10_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 44,
+				"body": "People's desire for comfort and safety is what is at the root of tyranny. It usually takes deaths, widespread police brutality and riots to really get people worried. I'd go as far as to say even that is not enough.. you need total societal collapse to get people to turn off the football games and start caring.",
+				"added": 1508927043
+			}
+		],
+		"1509129499_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 45,
+				"body": "Of course, the problem with mass-disliking is that a lot of them create fake accounts in order to achieve this. And true, not everybody has the disk space required in order to be a dedicated seeder. . .\n\nI never thought of that last idea.. sounds like a good idea; only show the like/dislike ratio after the vote has been casted. That gets rid of herd mentality.\n\nLuckily, the ZeroNet community hasn't had too many problems as of late, in terms of trolling. We seem to be pretty civil, even with all the alt-right-type threads popping up like 'Kill All Muslims' and stuff.. lol",
+				"added": 1509153851
+			}
+		],
+		"1509159570_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 46,
+				"body": "Now that I think about it, creators and artists probably do have at least one realiable line of defense - that sweet honeymoon period where your work is still sitting in your hard drive, and hasn't yet been published to the world. It's only after a digital copy is released that you can't take it back.\n\nFor example, I couldn't pirate Stephen King's IT right now if I wanted to, because the DVD / Bluray version hasn't been released yet. That means I can only choose to go to the cinema (which I did.. it was great!) or I can put up with watching one of those below-standard, shitty TeleSync  copies off of The Pirate Bay.. where you can hear people coughing and sneezing .. or even potentially put up with fake torrents that contain viruses and malware (not much of a problem for me because I use Linux.. never had a virus on it .. ;p)\n\nDownloading torrents also takes time.. and a lot of pirates suck at encoding.. so in effect, customers are less likely to bother getting a free copy of something if they can get what they want faster, and with better quality. Don't think of users who pirate as 'lost revenue'.. think of it as free marketing.",
+				"added": 1509162450
+			},
+			{
+				"comment_id": 47,
+				"body": "..>.>...Now that I think about it, I should probably submit this as my essay-writing assignment, where we had to choose any random topic and then write about it in-depth.. so long as it is in some way related to IT. \n..\nBingo. Homework done!",
+				"added": 1509162889
+			}
+		],
+		"1509253345_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 48,
+				"body": "Doesn't changing the site name in the ZeroNet control panel (right (0) > drag) change the window title?",
+				"added": 1509265180
+			}
+		],
+		"5_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 49,
+				"body": "Technological progress has been really slow as of late, or at least.. as of 2008. I had text-to-speech software on my laptop back in 2007.. and listening to Sophia's voice isn't quite that impressive, though I like her skin and face. It's a massive improvement since those creepy sex-doll looking types they made in Japan.\n&nbsp;\nWe could be doing much better than this, however. We haven't even landed a man on Mars yet. So much money went to waste on pointless wars.. money that could have been funneled into education, health, fighting poverty, etc... not to mention the recent tax cuts to scientific research, etc. \n&nbsp;\nReally, the only way to start working on AI is to start making robots at home. Buy parts online, from China.. start programming now. It's also better that way because it means the people will have power over the robots, not mighty corporations like Apple that don't even want you to repair your own phones or buy third party spare parts.",
+				"added": 1509306220
+			},
+			{
+				"comment_id": 59,
+				"body": "> [vikassingh](#comment_10_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd): Well @realkittykate.....your words don't come to meaning.......cus many mnc companies are working over AI and ML.....your knowledge of subject seems limited\n\nThing is, I just don't see any of it translated into real-world results right now. I don't see robots walking around collecting our rubbish yet, or even delivering our pizza. Whatever happened to Amazon Go? Whatever happened to electric cars? Electric cars still suck and are hugely expensive. \n&nbsp;\nThat's the problem - it's all just limited to million-dollar projects that they can show off on TV, or luxuries for the rich.",
+				"added": 1509400139
+			}
+		],
+		"1509293876_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 50,
+				"body": "You can easily delete files on the ZeroHello page, on the left menu. There's Sites, and then there's Files. Click on Files and delete any big file you want from any site. I'll start work again on KopyKate soon, once I finish a YouTube video I'm working on.. \n\nAlso, I wouldn't recommend using a phone for the purpose of seeding large amounts of video files. That doesn't quite make sense. . it would be like using a teacup to do your laundry.",
+				"added": 1509306736
+			}
+		],
+		"15517_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 51,
+				"body": "That's the problem with dark web drug dealers. You have decentralized marketplaces, but you don't have decentralized package delivery. Mainstream courier companies obviously scan their packages for illegal items.. you'd be stupid to buy or sell drugs online.",
+				"added": 1509308779
+			}
+		],
+		"1509111564_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": [
+			{
+				"comment_id": 52,
+				"body": "> [phr34kzz](#comment_1_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): I'd rather use IPFS over this. It's useless. Comparing the number of peers/seeders, IPFS is way more stable and act as a better tool for storage purposes. Technically works exactly like ZeroUP with It's Nowhere but it's Everywhere\n&nbsp;\nThe biggest strength of ZeroNet is the ease of access and its web interface. You can even create a web proxy and give freenet users access to the blockchain.. without them having to download the sites to their computer.. kinda like how Bitcoin users can either open up a new wallet by downloading the entire 80gb blockchain, or simply signing up with an online e-wallet provider.\n&nbsp;\nThe fact is, decentralization will never replace centalization. It has its ups and downs. I'd go as far as to say that the only reason it exists in the first place is because of government censorship. Besides circumventing censorship, I'd say the only use for p2p that I can think of it would be, having the ability to host your own content for free, without paying for web hosting and/or cloud storage, but that's about it.\n&nbsp;\nSo yeah, I'm sticking with Zeronet.. precisely because of its ability to bridge the p2p world and the HTTP world.",
+				"added": 1509320839
+			},
+			{
+				"comment_id": 54,
+				"body": "> [phr34kzz](#comment_2_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): ZeroNet isn't meant for bigfiles. It's built to host small static sites. See there's a thin line between using and understanding. Go read up the Git and Wikis again. IPFS works similarly like Zeronet and yes it's P2P but meant for storage. Unlike Zeronet, there's never a short of peers connected to speed up download of your files. No one said that there's inability of bridging. And lol! So it happens you are Kitty. Still remembered back when you just started building your \"Youtube\" alt Zite.\n\nWhich one, this one?\nhttp://127.0.0.1:43110/big.kopykate.bit",
+				"added": 1509321897
+			}
+		],
+		"1509317901_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": [
+			{
+				"comment_id": 53,
+				"body": "No weed, bruh?",
+				"added": 1509321719
+			}
+		],
+		"1509315919_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 55,
+				"body": "So long as you can define an Algorithm for how such a technology could work, the code is not going to be a problem.",
+				"added": 1509322046
+			}
+		],
+		"1509342996_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": [
+			{
+				"comment_id": 56,
+				"body": "You can remove your private keys from the Users.json file. It's only there by default for newbies who just wanna clone sites and experiment.. but if you're hosting a serious site, get rid of the \"Privatekey\" entry in Users.json, after you've copied it to a USB stick or something, or written it down. Then make your site public.",
+				"added": 1509362430
+			}
+		],
+		"1509348404_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": [
+			{
+				"comment_id": 57,
+				"body": "> [phr34kzz](#comment_10_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): Well that's Zeronet for you LOL! One has to view or enough peers to even view/download the sites content. IPFS has no problems with that :P All you noobs do is complain\n\nI had no problems downloading the site, it just said that it was running out of allowed space. Had to blacklist it on my proxy though cause otherwise they'll think I'm a drug kingpin or something..\n\nWhat have you got stored in there, anyway.. a mountain of cocaine?",
+				"added": 1509398797
+			},
+			{
+				"comment_id": 58,
+				"body": "I think that if I were to start a site like that, I'd start one for Cannabis Seeds.\n&nbsp;\nIt's one of those things that can reliably be hidden inside of a parcel and shipped overseas. There's also gonna be a huuuuuge booming market for it within the next few years.",
+				"added": 1509399248
+			}
+		],
+		"1509479387_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 60,
+				"body": "I shut down Apache and switched on Nginx and it's now pointing at https://www.bigcat.tk/",
+				"added": 1509480765
+			},
+			{
+				"comment_id": 61,
+				"body": "As with Kittyseedbox redirecting to sketchy places, I think my free domain subscription ran out. lol",
+				"added": 1509480900
+			},
+			{
+				"comment_id": 62,
+				"body": "> [styromaniac](#comment_170_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Don't get free or dirt cheap domain names ever again. I'm not the only one who knows this. Lots of webmasters have made that mistake and warm others about it.\n&nbsp;\nI'm gonna be switching to ClouDNS.net soon.\nbigcat.tk was registered with freenom, but the domain name servers are at cloudns.net",
+				"added": 1509483087
+			},
+			{
+				"comment_id": 63,
+				"body": "> [krixano](#comment_126_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Actually, I'm getting something too, but not quite as severe. When I first visit the zite (www.bigcat.tk - which then opens zerohello) and click anywhere, a new tab opens for a second then closes. Then I am able to click stuff again. This is the type of thing done by popups, but my browser is smart enough to close it because it knows it's not good. Another way you can tell is if clickable items don't have the pointer cursor until after you click once and that new tab opens. [...]\n\nThat was me. I just signed up to AdMaven to monetize the proxy.\n\nI'm monetizing the proxy through AdMaven (not KopyKate big, just the proxy.. so if you view without the proxy, there's obviously not gonna be any ads).",
+				"added": 1509739787
+			},
+			{
+				"comment_id": 64,
+				"body": "> [krixano](#comment_143_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): So your monetizing service brings up ads that auto download stuff that looks like Flash Player, but really isn't? Sorry, I won't be using bigcat.tk anymore.\n\nI'm actually keeping an eye on the links that pop up, but I haven't encountered the fake Flash Player yet. Are you able to show me a screenshot? I'll be trying out many networks but if one ad network does that to you, then I'll switch to another one.",
+				"added": 1509740258
+			}
+		],
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 65,
+				"body": "Alright. Check out new layout. A thin banner is displayed at top, showing 5 different links and disappears after 50 seconds.\n&nbsp;\nNative advertisement revenue will be used to move the proxy to high-speed servers, buy good domains and also keep myself working on the stuff that I love, and if I make more money than necessary, then that will go to charity.\n&nbsp;\nRemember to raise awareness of the Universal Basic Income movement - as this is the only thing that can make content truly free on the internet!",
+				"added": 1509764980
+			}
+		]
+	},
+	"comment_vote": {
+		"26_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"25_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"15_1HABFyuoohZ13drjwyJsECp4zDKjvggyNp": 1,
+		"273_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1,
+		"51_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"149_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"99_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"102_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"104_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1Lq9weoZHo1X3jPp9aWsyLxk4EFQkui8uq": 1,
+		"4_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"97_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"333_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"332_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"12_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"122_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"121_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"170_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	}
+}

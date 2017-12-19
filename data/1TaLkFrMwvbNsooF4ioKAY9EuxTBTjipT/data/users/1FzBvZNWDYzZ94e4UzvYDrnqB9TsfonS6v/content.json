@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNukLv5pwwFCig4p3du7LkiGbr/Qat7Ylj300SA7U7QFzONusBmNdpZl96XnleUtspnJICSJQ27xAMzjNMd/PRU=",
+ "cert_user_id": "tim0net@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b6f4347fa8e53993d3c4faddd04008dbd8c19f858e953e35cc0c1cda46b050b9",
+   "size": 246
+  }
+ },
+ "inner_path": "data/users/1FzBvZNWDYzZ94e4UzvYDrnqB9TsfonS6v/content.json",
+ "modified": 1506998512,
+ "signs": {
+  "1FzBvZNWDYzZ94e4UzvYDrnqB9TsfonS6v": "G9YOgMXA2BzssK3jyKyZc0zkpBcQ78WuzLP3GCI3lm7DWAO0LlNUT3r5yRJyRLEjOa56YRYCDeX72oEIKkZFITA="
+ }
+}

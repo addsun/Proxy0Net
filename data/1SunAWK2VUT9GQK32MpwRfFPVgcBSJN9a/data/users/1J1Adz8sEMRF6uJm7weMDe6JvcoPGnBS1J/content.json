@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G/WC0eQOnDeeEJo7BRugSqDwHbVhr4AC1S3fvNCae8tG4Y2aFX928OptTc2m6ZJcdO21bFbWKmJlRdSNJKAUjQU=",
+ "cert_user_id": "brainwash@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5c752f7113e9d990d09ce31e245da29c3245636ee0b3d3967414d8c40d495724",
+   "size": 962
+  },
+  "data.json": {
+   "sha512": "5ed827f6ed0ed85847cd7bddf4d6b4c04b1be37bdaac9c4523aa6cb4fb8e0973",
+   "size": 609
+  }
+ },
+ "inner_path": "data/users/1J1Adz8sEMRF6uJm7weMDe6JvcoPGnBS1J/content.json",
+ "modified": 1511852050,
+ "signs": {
+  "1J1Adz8sEMRF6uJm7weMDe6JvcoPGnBS1J": "HMs5fVa3fKNSuH6atIqp7cpPH+e3cAYa9AC0S5ihAR4+CgeSxc/nXdYfmMKoMCEH9pv6Zl1TqVm76QPlqDvxrLU="
+ }
+}

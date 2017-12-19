@@ -1,0 +1,53 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Tfj",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507058166,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507058285,
+			"body": "I don't make songs for free, I make them for freedom -Chance",
+			"date_added": 1507058283
+		},
+		{
+			"post_id": 1507058301,
+			"body": "Don't believe in the kings, believe in the kingdom -Chance",
+			"date_added": 1507058298
+		}
+	],
+	"post_like": {
+		"18HQ4Jfe32E7hJJjDbbQkCKNjeBfH5QEiP_1": 1507058230
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "How's it going",
+			"post_uri": "18HQ4Jfe32E7hJJjDbbQkCKNjeBfH5QEiP_1",
+			"date_added": 1507058235
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "18HQ4Jfe32E7hJJjDbbQkCKNjeBfH5QEiP",
+			"user_name": "Wolfskin",
+			"date_added": 1507058180
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "186JsFP3nmqBBmmN3VDfaCz5w9aFn2kBsz",
+			"user_name": "Tfj",
+			"date_added": 1507058301
+		}
+	]
+}

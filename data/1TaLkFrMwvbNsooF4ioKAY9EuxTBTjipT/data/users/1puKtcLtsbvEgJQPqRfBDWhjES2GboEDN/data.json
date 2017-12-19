@@ -1,0 +1,62 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 9,
+	"comment": {
+		"1_13PDAPMdvVB7xVGz9QV8m1D96nyhfkxzT5": [
+			{
+				"comment_id": 1,
+				"body": "It is a rumor there, and another picture which Fang Binxing (the initial developer of GFW) denied this in Wechat, but the denial seems fake.\nThe talk to the Shadossocks developer make her left and delete project. Currently it is maintained by others (source code can be backtracked in project's commitments and forked project). It also have a branch named SSR, which is stronger.\nI do believe GFW will eventually have the skill to recognize and block Shadowsocks, as long as they gather enough information (with machine learning?). Even this rumor is fake, it's better to keep multiple tool to meet the worst case.\nThe worst case will be government disconnect China from global Internet. At that time, any tools will become useless, even Shadowsocks.",
+				"added": 1500108933
+			}
+		],
+		"2_1ELbzUdEgV1kw4o358WdUfyN5vJVgfpMyx": [
+			{
+				"comment_id": 2,
+				"body": "It seems not. I looked up several account in Weibo (Chinese version of Twitter) which post traps photos. They are fine.\nBy the way, traps is not fully equals to gay. In my daily conversations, we use \"伪娘\"(traps) for only joking. Somebody will dress in female style just to amuse everyone. It is difficult to see real, hardcode traps.\nBut the authority did ban homosexuality in China's television. They said this is \"unhealthy\".",
+				"added": 1500291872
+			},
+			{
+				"comment_id": 3,
+				"body": "> [c0der](#comment_2_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN): It seems not. I looked up several account in Weibo (Chinese version of Twitter) which post traps photos. They are fine.By the way, traps is not fully equals to gay. In my daily conversations, we use \"伪娘\"(traps) for only joking. Somebody will dress in female style just to amuse everyone. It is difficult to see real, hardcode traps.But the authority did ban homosexuality in China's television. They said this is \"unhealthy\".\n\ntypo: hardcode -> hardcore",
+				"added": 1500292083
+			},
+			{
+				"comment_id": 4,
+				"body": "> [zcyzcy88](#comment_20_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG): You can edit your post: hover your post, click the \"pen\" button.\n\nOops, thank you.",
+				"added": 1500295551
+			}
+		],
+		"1_1DbT6zVh8rw3ntaHfyZK1XGSqupL8Rahcj": [
+			{
+				"comment_id": 5,
+				"body": "GreenWiFi",
+				"added": 1500443765
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 6,
+				"body": "They are not only using technical way but administrative way to do this. If you disobey, they may put you in prison in no reason. This is terrible. \nI'm wondering how we can gather useful information if this really happens.",
+				"added": 1500471286
+			},
+			{
+				"comment_id": 7,
+				"body": "> [hfzxpollywang](#comment_3_1FM9v3PmBRfNSDxQe7XaAgYwCkJcZdur34): So sad, as long as you live in China , what you have done is in vain\n\nI think we can only protect ourselves first. There are people had been \"teached a lesson\" by detecting their shadowsocks, blocking their net access, and forcing them to promise they won't using it any more.\nCherish we we have now. Prepare for the worst now.",
+				"added": 1500476376
+			}
+		],
+		"1_1KppeNmp1RLz7kESnW1qqSeRKj5sBUGRzD": [
+			{
+				"comment_id": 8,
+				"body": "Because we can't.\nEven we use HTTPS, the firewall can still know who you want to connect (by detecting IP address), before you send your data, the connection between client and server will be disconnected by sending RST signal.\nThe bullet point here is connection, not encryption, the data you send is still safe. But as long as you are trying connecting to a banned host, you still can't make it connect.",
+				"added": 1508593243
+			}
+		]
+	},
+	"comment_vote": {
+		"6_163qySY2DPqhhxhinT9SAF5D4BXzoZvp6z": 1,
+		"20_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1
+	}
+}

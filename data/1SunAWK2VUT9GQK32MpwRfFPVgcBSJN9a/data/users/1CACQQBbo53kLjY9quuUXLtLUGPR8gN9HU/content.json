@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2QyUltT28Q4ClNVCZuUUVhQG5HC2aQ6gEXmF3GKMgDNLTova2SfdDFkA6g1XUGNnZoFCgFsKtA4G3em8HWhd2E=",
+ "cert_user_id": "akiel@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0f1412094a175d52b4b99b9a6a3738d98b15fd7865830218b06b6fdce54ab5d0",
+   "size": 2043
+  },
+  "data.json": {
+   "sha512": "4ca2ced6d954febb617b585731492d13878411016c88e7781ad292f0d6a13084",
+   "size": 1849
+  }
+ },
+ "files_optional": {
+  "1512492756.jpg": {
+   "sha512": "59a1c06de4b287a91fbfa8de99051e7470a51689a3b7f23aa5fd78d715527131",
+   "size": 48886
+  }
+ },
+ "inner_path": "data/users/1CACQQBbo53kLjY9quuUXLtLUGPR8gN9HU/content.json",
+ "modified": 1512596196,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1CACQQBbo53kLjY9quuUXLtLUGPR8gN9HU": "G5fGsWEbL5hXS82KmGzcaXCESxSXGSEexYmN7STqlH4YJ7cVNdA+bfOU8QqNkiqhnedJsTTtFWcy6giDjtxgC+4="
+ }
+}

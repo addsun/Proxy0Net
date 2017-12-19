@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HJ8018xhOapVYCVPzsqLrs5hLWh/GbAumx1pPCLECyvYQIP93EMyJIFBtAZ204fPfs5SqAF+vFg5ANqEI/H1CFc=",
+ "cert_user_id": "esperluette@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2ac4f10a671fdd99d2afe70eae212df3fb7530fb9ad26460a62a6f2812e017d5",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/12sEHmNwRebDFevGZUFC9CbeCUgi4h3gRM/content.json",
+ "modified": 1508366448,
+ "signs": {
+  "12sEHmNwRebDFevGZUFC9CbeCUgi4h3gRM": "HC+NsNZrQjpTKbxvu1BXZENuhjuo96mPqeUF2QybwaNLP7RPBkenEeFlALeF3HwjiLvrDShKzj3y60SLcNtGZyE="
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNj4ktxnPRc5YSWDc6k7iqrwuiD74/iatkNP1kJwNYQlhK6atfNH7dEwjI21aUipQMDpNrVLp990pDFa7LA7igg=",
+ "cert_user_id": "leiva@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e979a048182edd62ed72bb6dea12852569efbe85a9e3f4d69c6313ab660dc7be",
+   "size": 751
+  }
+ },
+ "files_optional": {
+  "1506510849.jpg": {
+   "sha512": "ab5a194fe3e210e4a78e44555629ab6725c6325a5b3dfc975e05a243ac4097a8",
+   "size": 56842
+  }
+ },
+ "inner_path": "data/users/194iWLdaozrAHZeNmyN759t9F5Lp1c8KTe/content.json",
+ "modified": 1506512734,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "194iWLdaozrAHZeNmyN759t9F5Lp1c8KTe": "HGzxpZTKLgfqGruwvewAu2/tPbwFJnkCQxLofhAgU2xMaOZzGL1BkhYWIq1WYpE7gYtU+uCCLQrNEHprlw5nzAU="
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HPzpX9XJrJtneAFJty/O03BZoUCyXHmYpdhn5YdTbUAlY169a13ncOwxroGYV+Wj2oMxV3zyBiqbG44CcFQnYqg=",
+ "cert_user_id": "bozofish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4402f47dca73f851e7c08bc8e0b383e96e4123ed2bf5476ab0304f2366027477",
+   "size": 4659
+  }
+ },
+ "files_optional": {
+  "1499862073.jpg": {
+   "sha512": "662e791f93a6c73930d36045fb953268b9c89e13dc02333080efff8f32129805",
+   "size": 87281
+  },
+  "1499862086.jpg": {
+   "sha512": "079bd2931b30044db76750c2e94dcfbe42cc13faba30466b5df63d7d0f0c97cd",
+   "size": 100252
+  },
+  "1499862102.jpg": {
+   "sha512": "ac983911443fa88a24daba7999bd0e568073b8197dc60aa31a14c9e69883ea6f",
+   "size": 106871
+  },
+  "1499862111.jpg": {
+   "sha512": "73013b8dfe6d02890357a41711f5403dfccf6cb62cf0d30537b99b79b1930451",
+   "size": 65486
+  },
+  "1499862127.jpg": {
+   "sha512": "c3f83868ccf6aba0c1bba504ff129953c8c0dc0d6f59ed9d74ca5729721ec175",
+   "size": 92274
+  }
+ },
+ "inner_path": "data/users/1M82ytBHkEdjJv2aV9RL5ChqFfMgWBcPhw/content.json",
+ "modified": 1508475812,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1M82ytBHkEdjJv2aV9RL5ChqFfMgWBcPhw": "G5zd9z8xHQHjuzCYSLvppZarRa0Eg2KA7sPyHuWgpSbUEIVClLCG6KllHDkxLxJ7uD6oqe3XNh4c8jETYdiK/6U="
+ }
+}

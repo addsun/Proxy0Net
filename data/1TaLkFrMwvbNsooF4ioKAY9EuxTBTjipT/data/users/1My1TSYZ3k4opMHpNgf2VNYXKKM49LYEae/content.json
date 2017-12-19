@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHSIEkvpnwuVzOLh9wQ2pciuyuYfYzQVYgruB61ldbiq8Zl677uxnjnb8bQ/leSTn8aZZnm3tBN/ThBLNGQmMRU=",
+ "cert_user_id": "geoguide@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d0f16f9114ec93d00e62a1b3aa2d128f1570cdcbda3440d072ae8c73b30c5013",
+   "size": 328
+  }
+ },
+ "inner_path": "data/users/1My1TSYZ3k4opMHpNgf2VNYXKKM49LYEae/content.json",
+ "modified": 1511287483,
+ "signs": {
+  "1My1TSYZ3k4opMHpNgf2VNYXKKM49LYEae": "G/YTsM5FDqgOtqwppR99u2Ia7Ohi2XidiqfpoPUbr1m4bIIU8ztJT9xFkx5JohTjnENy65052gPhkD9SrdMmNM0="
+ }
+}

@@ -1,0 +1,756 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1509028020,
+			"title": "matrix.org is a ZeroNet Analogue for VoIP",
+			"body": "The beauty of the ZeroNet is that the original server/node that created the web page, can go offline and as long as the servers/nodes that viewed the page stay online, the page stays online. \nThe \nhttps://matrix.org/\nnetwork aims to be the tool for a TODALLY DIFFERENT USE CASE, which is real time phone calls over an open source P2P network. The ZeroNet and the matrix.org are complementary technologies. The matrix.org can also be used for implementing chat rooms, which are also possible on the ZeroNet. \nhttps://riot.im/app/#/home\n\nThe server/node side of both, the ZeroNet and the matrix.org seem to be implemented in Python.\n\nhttps://github.com/matrix-org/synapse",
+			"added": 1509028019
+		},
+		{
+			"topic_id": 1509855115,
+			"title": "Please Increase my Comments Data Limit.",
+			"body": "A note to the site administrator.",
+			"added": 1509855113
+		},
+		{
+			"topic_id": 1511084365,
+			"title": "Consensus Algorithm Inefficiencies Make Cheap&Quick CryptoCoin Transactions Impossible",
+			"body": "http://fouryears.eu/2017/07/09/the-blockchain-consensus-problem/\n(archival copy: https://archive.is/tCCvM)",
+			"added": 1511084362
+		}
+	],
+	"topic_vote": {
+		"1509087257_1CGP23WuLE1DHpiAyGuSoNrNzabKv8NVmZ": 1,
+		"1509056504_1AL7MPy6rvULDRvLbmsxttSQALdYFy6GbM": 1,
+		"1509028020_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"1510393256_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"2_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1512178065_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512496361_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1512712007_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1
+	},
+	"next_comment_id": 121,
+	"comment": {
+		"1_1HpB6tpXoVk2kCFpH9SozFZgyMVFouj6Yd": [
+			{
+				"comment_id": 1,
+				"body": "> [sjsk20171018](#comment_1_16R9HXmcNRtk9MdNJCizqCQo4moZbE1hM8): 感觉用的人很少，有人说高手们都用电报，可是电报需要翻墙—_—\n\nI don't speak Chinese, but according to the Google Translate You are discussing, how to use the telegram.org from behind the Chinese Wall. The Telegram.org has a command line client and You may try to use it like that:\n\nstep_1)\nstart the tor. It might be a daemon, but it does not need to be a daemon.\n\nstep_2)\nrun the telegram.org command line client with torsocks.\n\ntorsocks <the rest of the command>\n\nYou may test the torsocks by using\n\ntorsocks wget <some western URL, may be https://www.google.com>\n\nThe torsocks changes the network access library of the other command, in this case, wget.\n\nWARNING: The torsocks DOES NOT ANONYMIZE DNS queries. So if You want to be safe, then You should not use URLs, but You should connect to the IP-addresses directly. For example,\nresolveip shows in Europe that google.com is at \n\n172.217.22.174\n\nso in stead of https://google.com You should use \nhttp://172.217.22.174/\nlike\n\ntorsocks wget http://172.217.22.174/",
+				"added": 1508742447
+			},
+			{
+				"comment_id": 2,
+				"body": "You may also just create Your own ZeroTalk page and use JavaScript for feeding the forum posts to some other console tools. ZeroTalk is basically an ordinary web application, where in stead of \nhttp_server+PHP there is a python program that acts as an http server for the web browser, runs the webapp, which is a PHP software analogue, and at the server side uses the P2P for communicating with other nodes. At the web browser side the ZeroNet is just an ordinary JavaScript/AJAX application with a very nice and clever JavaScript library and use of modern browser features.\n\nhttp://localhost:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/",
+				"added": 1508742787
+			},
+			{
+				"comment_id": 3,
+				"body": "> [helium](#comment_2_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): You may also just create Your own ZeroTalk page and use JavaScript for feeding the forum posts to some other console tools. ZeroTalk is basically an ordinary web application, where in stead ofhttp_server+PHP there is a python program that acts as an http server for the web browser, runs the webapp, which is a PHP software analogue, and at the server side uses the P2P for communicating with other nodes. At the web browser side the ZeroNet is just an ordinary JavaScript/AJAX application with a very nice and clever JavaScript library and use of modern browser features. [...]\n\nYou may use GNU Privacy guard for encryption. Just use the command line option s --armor --dearmor",
+				"added": 1508742854
+			},
+			{
+				"comment_id": 4,
+				"body": "Alright, people, try to download that:\n\nhttp://www.mediafire.com/file/s429bsjf7jofli4/2017_10_23_tor_and_torsocks_from_Europe.tar.xz",
+				"added": 1508747514
+			},
+			{
+				"comment_id": 5,
+				"body": "> [helium](#comment_4_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): Alright, people, try to download that: [...]\n\nIt includes binaries and the source and the signatures and some Tor network URLs.",
+				"added": 1508747637
+			},
+			{
+				"comment_id": 6,
+				"body": "> [helium](#comment_4_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): Alright, people, try to download that: [...]\n\nThe SHA256 of the tar.xz file is\n580d581f1a547748795f22948351166f012ccc76ab561f1883d87c8825bf024d",
+				"added": 1508747721
+			},
+			{
+				"comment_id": 7,
+				"body": "> [akito](#comment_280_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Appeal for Chinese don't use Chinese language on this forum 呼吁中国人不要在本论坛使用中文 [...]\n\nI don't speak Chinese either, but to call Chinese _untidy_ is rude.\nHow about me calling Your native language _untidy_?\n(English is not my native language.)",
+				"added": 1508747879
+			},
+			{
+				"comment_id": 8,
+				"body": "> [akito](#comment_281_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I'm pretty sure it was translated not completely correct. Nobody says that Chinese is untidy. The English FORUM is untidy if all languages are mixed in here.\n\nWell, I guess there is a need for an agreement, what languages are being used in a forum. So, I agree with You on that part. However, the world has so many different languages and none of us is able to learn all of them, so I think that the \"airport rule\" that English is accepted everywhere should also hold on internet forums. Many international companies have a rule that to make sure that nobody is feeling being left out, everybody speaks English or some other language that absolutely everyone at the given conversation can understand. If everybody in this forum were able to understand Chinese, then from that perspective it was OK for them to use Chinese, because nobody was left out, till I appeared. \n\nI guess that there's some gray area. You're kind of right, but there are exceptions. In this case the exception was that they all understood each other, but I thank You for stepping in and pointing out the issues. Thank You for that :-)",
+				"added": 1508748631
+			},
+			{
+				"comment_id": 9,
+				"body": "It would be nice if people were giving some feedback about the tar.xz download. Did the download succeed, etc. The URL was:\nhttp://www.mediafire.com/file/s429bsjf7jofli4/2017_10_23_tor_and_torsocks_from_Europe.tar.xz",
+				"added": 1508748769
+			},
+			{
+				"comment_id": 10,
+				"body": "> [akito](#comment_283_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Not really, no discussion needed. The main forum is English only. If one wants to talk in another language, just change the forum to its respective language in the language selection bar on the top of this zite. That does not mean, the English forum is worth more/the Chinese forum is worth less. It just means that each language has its own forum so people can better read and not be annoyed by languages, they don't understand. It's just an organization thing, not about power or supremacy.\n\nThank You for the answer. I did not notice the language selection bar. At the presence of the language selection bar the selection from the bar is the agreement on language. On the other hand, I did not notice the bar before You mentioned it and may be the Chinese people did not notice the bar either. It's not an excuse for them to use Chinese at the English forum or vice a versa, but it does seem to be a usability design flaw. I consider the language matter decided: selection from the language bar determines the required language.\n\nThank You for Your answer :-)",
+				"added": 1508782816
+			},
+			{
+				"comment_id": 11,
+				"body": "> [koukou2017](#comment_8_1HpB6tpXoVk2kCFpH9SozFZgyMVFouj6Yd): thank you\n\nDid the download succeed?\nDid the hash match?",
+				"added": 1508920900
+			}
+		],
+		"1509028020_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": [
+			{
+				"comment_id": 12,
+				"body": "> [rrwtbrsyq8wmackv](#comment_39_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): In what way is matrix.org analogous?  You say yourself it is for a \"todally [sic]\" different use case. \n\nI find the matrix.org to be analogous to the ZeroNet in at least 2 ways:\n\n1) The matrix.org is not a \"venture capital\"(read: loan shark) financed project, which means that its developers can take decisions calmly on the basis of their technical preferences and the software development decisions are not influenced by a need to get a \"new round\" of \"venture capital\" money or an urge to make a start-up company as visible as possible to get a better price at some corporate acquisition or IPO(Initial Public Offering). The matrix.org developers can take their time at developing features and they can focus on technical quality in stead of being rushed to demonstrate something to the investors or potential buyers. I find the technical quality to be critical for any project that aims to be a base technology for other software projects. For example, in my very subjective view the \nhttps://diasporafoundation.org/\nclearly lacks technical quality, because its dependencies seem to be chosen hastily, it is truly difficult to set up a Diaspora node. If the Diaspora developers had had just TESTED, what has to be done to set up their own software on major Linux distributions, the number of steps, all the configuration, then clearly they would have noticed that they need to change the Diaspora radically to make its installation more robust, manageable, but the Diaspora was a crowdfunded project, where the developers had an urge to publish whatever they can publish to show the masses of backers that they deliver on their promises and the rushing related LACK OF TECHNICAL QUALITY really shows. Typical \"P2P start-up\" companies have both, the rushing related problems and also the \"legal\" problem, because the investors of the startup want to sell the start-up to some megacororation that operates in some specific \"jurisdiction\". Neither the ZeroNet, nor the matrix.org, has that problem and that makes them both technically much more elegant, although, as of 2017_10 I find that the ZeroNet source has higher quality than the matrix.org has, because some of the matrix.org dependencies seem to require PyPy at installation, while the ZeroNet works just fine with the classical Python.\n\n\n2) The matrix.org and the ZeroNet are both analogous to each other also from that point of view that they both require its users to run a node at LAN, unlike the Diaspora, which acts as an ordinary remotely hosted web application that just happens to use P2P between servers.\n\nAll in all, according to my personal taste I like the ZeroNet more than the matrix.org, because the ZeroNet developers have paid closer attention to the portability and ease of installation of the ZeroNet than the matrix.org developers have paid to the portability and ease of installation of their project software. My observation is that projects that are founded or lead by non-technical people, for example, journalists, lawyers, etc. tend to be technically crappier than projects that are founded and led by software developers, who want to keep a low profile and concentrate on the technical quality of the project, not huge crowds of fans of the project. If the non-technical guys hire or lobby to join technical guys, then the tech guys need to react to the wishes of their non-technical team-mates/clients and that leads to the pressure to publish/demonstrate_results. Any kind of rush and such kind of pressure is REALLY BAD for the technical quality of the project. In a proper situation software developers are free to declare calmly that they screwed up and need to start from scratch and that starting form the scratch, even if it's just a sub-component that needs to be totally overhauled, is what keeps the technical quality of the software project at high level,  but it's not an easy task to declare to investors of a start-up company or backers of a crowdfunded project that sorry, we screwed up and need to ditch the software that You paid us to develop and start the implementation effort from scratch. So they publish, even, when they know that they should consider the published version to be just one experiment out of many in a normal series of experiments that are needed in proper software development. The same problem with corporate projects: one does not tell the manager that hey, I screwed up and I should just start the project all over with a different set of dependencies or with a different architecture. \n\n\nThank You for reading my comment.",
+				"added": 1509065818
+			},
+			{
+				"comment_id": 13,
+				"body": "> [rrwtbrsyq8wmackv](#comment_46_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): Even if they do succeed in obsoleting a host of technically inferior networks, the question remains whether any such open protocol, developed by a small not-for-profit organization, will remain dominant when companies like Google or Facebook can pour money into embracing and extending it like Google did with XMPP. When the protocol is open, there are always lots of implementations of servers and clients, and big organizations with other sources of funding (hard to make money from ads by hosting services for a federated network with an open protocol!) can typically make sure their implementations work correctly with cutting-edge features much faster than small organizations like matrix.org or random developers of other popular implementations. The upshot is then that the majority of users stay within the walls laid out by the big organizations when told to do so, and their new features work. At this point, most of them will not care whether the protocol is open or well-designed, and the trap is sprung. Fingers crossed that this doesn't happen!\n\nThank You for Your reply.\n\nWhat regards to the \"getting to know the prior work\", then You can get my document and link collection by cloning my Fossil repository at the redirection destination of the\n\nhttps://silktorrent.softf1.com/\n\n(Yes, I know that it reveals my real identity, but I don't consider the ZeroNet to be anonymous anyway.)\n\nWhat regards to Your concerns about the fact that megacorporations define, what the majority of the end users on planet Earth use,  id est\n\n\"How many Microsoft engineers does it take to change a light bulb? \nNone, they merely change the standard to darkness and then they upgrade the customers.\"\n\nthen if that were the concern of the many great projects today, Vim, Ruby, FreePascal/Lazarus, THEN NOTHING WOULD GET DONE! Even in commercial space the \"irrelevant-nonsense-Apple\" with its iPhone just stuck to its plan and the result is that the gigantic Nokia is history and Apple is one of the rulers of the cellphone market. Another example of a giant giving in to \"niche idiots, who develop their irrelevant crap\" is the fact that as of 2017 the Windows 10 incorporates Ubuntu Linux Bash layer. When I first got to know it, I suspected that it's some kind of an April fool's joke, but as it turned out, it's not:\n\n(\"Windows Subsystem for Linux\")\nhttps://msdn.microsoft.com/en-us/commandline/wsl/about\n\nhttps://www.youtube.com/watch?v=PP_T_m0UV9E\n\nMy own, personal relation to the Microsoft is described at\nhttps://longterm.softf1.com/biased_history/2005_microsoft_hired_inorek_and_grey_to_lobby_for_software_patents/\n\nAnd finally, here's my blog post, in a very unconcise and free-form fachion, describing my technology stack:\n\n(\"My Technology Stack in 2016_07 and How I Prefer to Choose it\")\nhttps://martin.softf1.com/g/yellow_soap_opera_blog/my-technology-stack-in-2016_07-and-how-i-prefer-to-choose-it\n\nMay be the summary might be that I still need to learn, how to earn a fortune with software development, but what IS SURE is that all long-term projects need to withstand \"financing winters\" and that it tends to be so that projects that have high technical quality are cheaper/less_laborious to maintain than \"corporate_piles\". The cheaper it is to keep a software projects deliverables running on modern hardware, the greater the probability that the software project survives the \"financing winter\" and ends up being a long-term project and therefore is suitable to be a dependency of another, long-term, project. (Each software is usable only as long as its dependencies are met.) From freelancer's perspective I can say that I can't afford to work on old things \"too much\", meaning, the components that I create to serve my clients must all be long-term. There's also the issue with testing. The more a component gets used in different applications, the more of those test cases that are missing from the component's test collection are \"accidentally\" \"covered\". That is to say,  over a longer time period the most frequently used components tend to be with fewer flaws/bugs. (Usage frequency alone is not enough, because if the Microsoft ships out a flawed component to billions of users and millions of developers, then, as we can all see from practice,  having high usage/test frequency does not improve the quality/reliability of the Microsoft's components.)\n\nI hope that I did not forget to add some links here... \n\nThank You for reading my comment :-)\n\n\nP.S. Actually I'm planning to publish a new blog post within a week or so, but I still need to finish it a bit before pushing the \"Publish\" button. My shameless self-promotion: my blog has an RSS link.\nhttps://martin.softf1.com/g/yellow_soap_opera_blog/atom/1",
+				"added": 1509075360
+			},
+			{
+				"comment_id": 26,
+				"body": "What regards to the different \"networks\", then I see at least 3 trends:\n\ntrend_1)\nOnline communication environments have the same limitation that exists in the physical world and the limitation is that not all people fit together in the same group of people. For example, religious nuts, who deny evolution, do not fit into the same mailing_list/forum/IRC_channel/etc. with biologists, who want to discuss, who to conduct more effective stem cell research. The rules, for example, rules that advertisements on the streets and buildings must adhere to, end up being either the lowest common denominator, an absolute random mess or something that are enforced by the most violent party. (You probably can't run a porn movie as an advertisement on some big screen at some city center.) That is to say, THE HUMAN POPULATION WILL ORGANIZE ITSELF TO DISJOINT SETS, regardless of the technology(Facebook, matrix.org, ZeroNet, Freenet, Myspace, Bitmessage, etc.) that any one set of humans uses. The advertisement industry knows that since long-long time ago and to spam as many channels as possible, they use special software that posts the same advertisement to a whole variety of different channels, id est they won't start to log in to Facebook and Twitter individually, they just use their common \"management app\".\n\n\ntrend_2)\nThe more tech savvy part of the human population tends to divide itself to different silos by technology. For example, I never had a Freenet page, yet I'm here, on ZeroNet and I'm present at GitHub. Actually, some of the best, most talented software developers in the world, for example, \nhttp://bellard.org/\nand some old school gurus, like the creator of the Pascal programming language, the Niklaus Wirth, are not even present at the GitHub. \n\n\ntrend_3)\nEven the technical elite, the people, who dare to choose their tools according to their personal thoughts, the people, who do not run along with the masses, tend to get divided even by the technology that they prefer. For example, pure mathematicians love Haskell, because the notion of time is not relevant, when all their work is about functions. Also, the pure mathematicians do not require highly efficient implementations, because as consultants they just ship a one-off Mathematica/SAGE/SciLab/REDUCE/MathLab/Octave/etc. \"work-sheet\", which will not be run on some server thousands of times every month, or, if the pure mathematicians are scientists, then their work ends with the publication of a scientific paper, after which they throw their \"proof of concept\" or scientific paper specific dirty-hack-tools away and they do not really have any urgent need for any technical quality of the software that they create. For the pure mathematicians the only criteria is that the math is right. For production code the requirements for technical quality(speed, resource usage, reliability, including security topics, etc.) becomes important and that makes the task much more complicated than the task that the pure mathematicians have, is. For production code, the math has to be also right, but for production code having the correct math is not enough. \n\n\nObviously, the \"grannys\", who do not have their grandchldren setting up ZeroNet/matrix.org/Freenet/I2P/etc. servers to their LAN will never see anything that is posted to ZeroNet, because the default installation of Windows/Linux/MacOS/etc. does not have ZeroNet/matrix.org/Freenet/etc. installed. For them the ZeroNet is \"in_the_dark\", id est \"DarkNet\", something that populist journalists can write spooky stories about. My prediction is that the ZeroNet/Freenet/I2P/\nhttps://ipfs.io/\nhttps://github.com/datproject/dat\nhttps://sia.tech/\nhttps://syncthing.net/\nhttps://www.bigchaindb.com/\nhttps://blockstack.org/\nhttp://www.oneswarm.org/\nhttps://tent.io/\n....\nwill co-exist together, a lot like Sourceforge, GitHub, Bitbucket, \nhttps://notabug.org/\nhttp://chiselapp.com/\nhttp://www.fusionforge.org/\nhttps://alioth.debian.org/\nhttps://dotsrc.org/\nhttps://www.dyne.org/\nhttps://www.edgewall.org/\nhttp://freecode.com/\nhttp://icculus.org/\nhttp://www.jpackage.org/\nhttps://launchpad.net/\nhttp://rubyforge.org/\nhttp://savannah.gnu.org/\nhttps://www.nuget.org/\n...\nco-exist. Different developers use different publication web-apps, different publication channels. Different people use different P2P solutions for communicating. Some prefer matrix.org real-time solutions. Some prefer ZeroNet like non-real-time, but resilient solutions. The technically MOST ILLITERATE will stick to Facebook/Google/Myspace/Twitter. There will be a stark DIGITAL DIVIDE between those people, who have access to IT support that installs those ZeroNet/matrix.org/etc. servers to their LAN and those people, who do not have access to such IT support. Interestingly, money will not be the deciding factor here. For example, I do not imagine that anyone could ever make the U.S. president Trump to use ZeroNet or Freenet. So, it will be a tough divide that is not matching with the monetary/financial divide.\n\nThank You for reading my comment.",
+				"added": 1509288875
+			}
+		],
+		"1509087257_1CGP23WuLE1DHpiAyGuSoNrNzabKv8NVmZ": [
+			{
+				"comment_id": 14,
+				"body": "http://www.mediafire.com/file/s429bsjf7jofli4/2017_10_23_tor_and_torsocks_from_Europe.tar.xz",
+				"added": 1509094754
+			},
+			{
+				"comment_id": 15,
+				"body": "The SHA256 of the tar.xz file is\n580d581f1a547748795f22948351166f012ccc76ab561f1883d87c8825bf024d",
+				"added": 1509094782
+			},
+			{
+				"comment_id": 22,
+				"body": "> [james007](#comment_98_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): When downloading any of said tools, use official sources to verify the GPG signature + checksum of download.\n\nGood point, except that how do You konw, what is official, if the official page is attacked by The Wall by using a man in the middle attack? Actually, the binaries that I posted, including the source, can be modified by The Wall on their way to China. Also, the person in China does not know, whether I work for The Wall, despite being a genuine European. So, yeah, there are a lot of questions. But, that's evolution. The humanity developed from cave man to the current state through tough evolution and the smartest ones are capable of figuring their way around obstacles, including The Wall. \n\nTough, but, I guess, true.",
+				"added": 1509282262
+			},
+			{
+				"comment_id": 23,
+				"body": "I think that the best bet for Chinese Wall resistance is to get to know the Tor specification and implement a tor node from scratch. The script kiddies are doomed to fail. Another thing that the Chinese Wall resistance might try is to tunnel Bitmessage over Tor or, better yet, create some P2P system inside China and then connect it PHYSICALLY to Japan or South Korea or even Russia, bypassing The Wall. Most of the cheap electronics in the world comes from China. I guess that the Chinese must be true idiots, if they do not take advantage of the Chinese electronics industry and produce their own relay stations, laser links, satellite links, etc.",
+				"added": 1509282593
+			},
+			{
+				"comment_id": 24,
+				"body": "I mean, if multiple hundred MILLION people in China are not capable of developing their own, genuine, technical solutions, then the Chinese must be a true bunch of morons.",
+				"added": 1509282693
+			},
+			{
+				"comment_id": 25,
+				"body": "On the other hand, I guess that the Chinese culture has, traditionally, bet on the strength in numbers, but research and development are fields, where the strength lies in QUALITY, because copying, scaling the numbers, is a piece of cake. Making a copy of a file, stamping out similar microchips, is relatively easy, if compared to developing the software and the microchips. The corporate business software development, even operating system development in the form of the Microsoft has shown that having thousands of developers is not going to help to get high quality software. Microsoft's huge teams got beaten by a small bunch of people, who created Linux, which now runs Google and Android and cars and Raspberry Pis, etc. Culturally it's probably very difficult for the Chinese to switch their strategy from the \"strength in numbers\" to the \"strength in quality\". \n\nOn the other hand, Northern-Europe and Germany, in some areas also France and UK, can deliver the quality part, so there's opportunity for trade, except that after the robots take over, the Chinese loose their edge, because the Europeans and Americans can just ask their own robots to do the job, in stead of asking the Chinese to produce stuff with their robots. So, if the Chinese will not switch from the \"strength in numbers\" to the \"strength in quality\", then they will be out-competed by the Europeans and Americans, who will get their own production robots online, but unlike the Chinese, can also design the products that those robots will produce.",
+				"added": 1509283420
+			}
+		],
+		"1_12Ez2gro4jxnNT3mR93h6wzuKAV6Xime9b": [
+			{
+				"comment_id": 16,
+				"body": "I suggest that You work on the documentation of Your project, the \"VideoCrypt For ZeroNet\".",
+				"added": 1509106531
+			}
+		],
+		"1509105148_16Ld5cSuDN9k4XhxfSBukLXmoBGhgREmex": [
+			{
+				"comment_id": 17,
+				"body": "http://localhost:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/\n\nThe way I understand it, the general scheme is that secure hashes are signed by using public key cryptography, which is fundamentally broken regardless of the algorithm\nhttps://bitrary.softf1.com/index.php?title=Software_Development_:_Security_:_Cryptography#Why_Public_key_Cryptography_is_Fundamentally_Flawed\n\nA demo of that very flaw, where the private key can be derived from the public key:\nhttps://arstechnica.com/information-technology/2017/10/crypto-failure-cripples-millions-of-high-security-keys-750k-estonian-ids/\n\nThe thing that people do not say out laud is that the current public key crypto algorithms were developed decades ago, when computers were not what they are today and the banks, who tend to finance a lot, if not the most, of the cryptography related research, do not need strong cryptography, because they are going to reveal everything in the bank servers to their respective supermafia(\"government\") the moment some official appears with a \"subpoena\" and they are perfectly happy, if the temporary keys of a money transfer session are broken in a few hours after the session has closed.\n\nA blueprint for a symmetric key cryptography based signing system:\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=Experiment:+mmmv_symsig_t1\n\nA one-time-pad \nhttps://bitrary.softf1.com/index.php?title=Software_Development_:_Security_:_Cryptography_:_Onetime_pad\ninspired email encryption software, written entirely in Ruby:\nhttps://github.com/martinvahi/mmmv_devel_tools/tree/master/src/mmmv_devel_tools/mmmv_crypt_t1\n\nThank You for reading my comment and have fun :-D",
+				"added": 1509107650
+			},
+			{
+				"comment_id": 47,
+				"body": "RSA \"very secure\". Depends.\nhttps://acmccs.github.io/papers/p1631-nemecA.pdf",
+				"added": 1511077137
+			},
+			{
+				"comment_id": 48,
+				"body": "The FUD about public key security is very justified, although, if Your means for assessing the technical quality of a solution is based on assessing, how POPULAR some technical solution is, then, of course, our ways of assessing technical solutions differs A LOT. I prefer the search for contradictions to popularity assessment.",
+				"added": 1511077378
+			}
+		],
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 18,
+				"body": "To avoid less tested code, You may just run multiple instances of ZeroNet, at different localhost ports and then use Your own, local machine scripts to swap out a pipe between the \nlocalhost:43110 \nand the \nlocalhost:YourZeroNetInstanceSpecificPortNumber",
+				"added": 1509108348
+			}
+		],
+		"1509056504_1AL7MPy6rvULDRvLbmsxttSQALdYFy6GbM": [
+			{
+				"comment_id": 19,
+				"body": "Licenses: MIT, BSD, \"public domain\", BSD-compatible licenses.\nDeliverables: documentation, link collections, code.\n\nA one-time-pad\nhttps://bitrary.softf1.com/index.php?title=Software_Development_:_Security_:_Cryptography_:_Onetime_pad \n\nbased symmetric encryption software, which is written entirely in Ruby and is optimized for encryption strength and overall reliability: \nhttps://github.com/martinvahi/mmmv_devel_tools/tree/master/src/mmmv_devel_tools/mmmv_crypt_t1\n\nDue to the fact that the public key cryptography is fundamentally flawed\nhttps://bitrary.softf1.com/index.php?title=Software_Development_:_Security_:_Cryptography#Why_Public_key_Cryptography_is_Fundamentally_Flawed\nI created a blueprint of a signing system that uses only symmetric key cryptography:\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=Experiment:+mmmv_symsig_t1\nThe irony is that I'm an Estonian and the Estonian ID card failed exactly according to the aforementioned flaw, where the private key could be calculated from the public key.\nhttps://arstechnica.com/information-technology/2017/10/crypto-failure-cripples-millions-of-high-security-keys-750k-estonian-ids/\nexcept that my personal wiki entry about that possible fundamental flaw of ALL PUBLIC KEY ENCRYPTION ALGORITHMS was written to my wiki about a year before the high profile scandal happened, where the Estonian supermafia, \"government\", is in the role of the EU Presidency and is trying to lobby the rest of the European Union supermafiosi to adopt the Estonian 1984 e-state. Basically, I as an Estonian am saying that the Estonian supermafia, \"government\", failed miserably, because they had millions to spend on the design of the Estonian ID card, yet I came up with a technically stronger system WITH ZERO BUDGET. And yes, I'm envious. I struggle to make my ends meet and they burn money by the millions (of euros) and fail, where I, with my ZERO BUDGET, succeeded!\n\nIf You want to get a huge collection of links to the various privacy enforcement tools and P2P related projects, then You may find the following 2 pages at my Silktorrent Fossil repository to be very useful:\n\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=List+of+Similar+Projects\n\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=References\n\nAs of 2017_10 the main page of all of my creations and copies of some of the dependencies of my creations is:\nhttps://technology.softf1.com/\n\nIf You are writing code like\n\na=\"Hellow \"\nb=\"great \"\nc=\"wide \"\nd=\"World!\"\nsum=a+b+c+d // == \"Hellow great wide World!\"\n\nor\n\ncharstream=\"\"\nfor 1..<some huge number>{\n    charstream+=generate_random_char()\n}\n\nthen You may get at multiple fold speed increase by using the \nhttps://github.com/martinvahi/mmmv_notes/tree/master/mmmv_notes/phenomenon_scrutinization/string_concatenation\nThe COMMENTS.txt there is also a Bash script that demonstrates the performance.\nFrom memory allocation point of view the string concatenation code is very similar to multiplication. The watershed string concatenation algorithm approach can give a huge speed increase at multiplying an array of numbers all together. You may test that with the Ruby function kibuvits_factorial(...)\nhttps://github.com/martinvahi/mmmv_devel_tools/blob/55680ec14bda1d3f155525bbf088eebd2d10ca9c/src/bonnet/lib/kibuvits_ruby_library/src/include/numerics/kibuvits_numerics_set_0.rb#L140\n\n\nIf You are planning to implement brand new cryptography software, then You may want to do it in a brand new system programming language called ParaSail. I am NOT a ParaSail author, but I have repackaged it at\nhttps://technology.softf1.com/software_by_third_parties/ParaSail/\nThe introduction of the ParaSail by its author, the Tucker Taft, who is also the author of the newest Ada programming language versions:\nhttps://youtu.be/bNWTRdAlwUs?t=1m11s\n\nKey features of the ParaSail: \nx) Integer type size is limited only by RAM (read: simplifies crypto code).\nx) Brand new threading model, where autoparallelization is part of the programming language semantics, id est there is no difference, whether thousands of CPUs are used or just a few CPUs are used(read: brute force breaking code is automatically parallelized and simpler to write).\nx) Formal verification tools are part of the programming language standard implementation. The ParaSail programming language specification has been designed to support formal verification tools from the very start(read: secure-by-proof software is easier to write).\nx) In addition to leveraging the LLVM optimizations, the ParaSail compiler can translate ParaSail code to Linux C code(read: translate ParaSail to C on Linux and compile/run the C on any POSIX compliant operating system.) \n\nI emphasize that as of 2017 I am NOT a ParaSail project developer. I have NEVER BEEN part of the ParaSail project development team. The Tucker Taft is the author of the ParaSail programming language. I'm just a fan of the ParaSail project, who has repackaged Tucker Taft's fine work.\n\n\nThank You for reading my comment and \nthank You for getting acquainted with my creations :-)",
+				"added": 1509113926
+			},
+			{
+				"comment_id": 35,
+				"body": "You may want to take a look at:\nhttp://localhost:43110/1F7b27kT38nMYZQg7tvDr33qWDZQgwnQpw\nThe software package collection there is about 13GiB",
+				"added": 1509489394
+			},
+			{
+				"comment_id": 36,
+				"body": "> [kai0](#comment_386_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): do you have Android 7.0 for Raspberry Pi3 and Raspbian for Raspberry Pi3?\n\nThe aforementioned\nhttp://localhost:43110/1F7b27kT38nMYZQg7tvDr33qWDZQgwnQpw\nis not my site. I have not inspected it thoroughly.",
+				"added": 1509634651
+			},
+			{
+				"comment_id": 37,
+				"body": "However, my suggestion is that Raspberry Pi 3 should use an SD-card that has AT LEAST 60GiB capacity. I currently have the ~30GiB SD-card and that's almost full, despite the fact that I hold the majority of the data on an USB-drive.",
+				"added": 1509634788
+			},
+			{
+				"comment_id": 38,
+				"body": "Also, when running the Raspberry Pi, any version of it, then please switch off the SWAP, because if the SD-card wears out, the Raspberry Pi becomes unstable until You start using a new, unworn, SD-card. On Raspbian as root:\n\nswapoff --all\ndphys-swapfile uninstall\nupdate-rc.d dphys-swapfile remove\n\nYou may also want to create a special RAM partition for small, but frequently over-written, files. That should speed up the applications that use those temporary files and as it's a RAM partition, then the SD-card wearing is reduced:\nOn Raspbian as root add to /etc/fstab:\n\ntmpfs           /my_RAM_partition            tmpfs   nodev,nosuid,size=30M 0 0\n\nOf course, the applications software must then make sure that the temporary files will fit into the 30MiB RAM disk, unless You want to create a bigger RAM-disk, but the RAM allocated for the RAM-disk will not be available as a general purpose RAM for the C/C++ malloc() and alike.",
+				"added": 1509635252
+			},
+			{
+				"comment_id": 39,
+				"body": "> [andreamarini](#comment_9_1MYPi2rwymqQag8yxPGzJgSe591yp2xHak): is there a site where i can upload the Logo software file?\n\nYou might try to create one Yourself by using the ZeroNet development documentation.\nhttp://localhost:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/\nHowever, from the aspect of long-term hosting the issue with the ZeroNet, IPFS, etc. is the same as with the censored web: most sites have low traffic, may be a single visitor will even take a look at it during a whole year, meaning, either long-term hosting must be delegated to some advertisement revenue based business like the \nhttps://sourceforge.net/\nor You have to host it Yourself BY PAYING FOR THE HOSTING.\n\nIt really disturbs me, how shoddy people are at keeping their own, personal, web sites up, which is why I think that the sourceforge.net is probably one of the most reliable options out there. The \nhttps://archive.org/\nwas a nice idea, they also had loads of money, yet the implementation of their software seems to be pretty crappy and on top of the implementation related issues they have the various copyright lawyers attacking them, resulting a video like that:\nhttps://techcrunch.com/2016/08/07/innovate2016-brewster-kahles-call-for-a-decentralized-web/\nBasically, The Internet Archive founders are fed up that they are the central hub that is easy for the copyright lawyers to attack, so they try to upgrade the whole concept of archiving.\n\nThe problem with current P2P applications tends to be that they eat up HARD DISK TRAFFIC. The internet traffic is not that much of a problem any more, because the BitTorrent solved that by making BitTorrent traffic a low priority traffic, so that it just runs in the background, but hard disk access by the operating system is a problem despite the \nhttps://linux.die.net/man/1/ionice\nand its automatic application through nice. Consequently, P2P applications, including ZeroNet, should not be run on the same machine that the human user uses. P2P applications, including ZeroNet, should be used on LAN over an SSH tunnel. A Bash script for creating the SSH tunnels:\nhttps://github.com/martinvahi/mmmv_notes/blob/master/mmmv_notes/mmmv_utilities/src/various_Bash_scripts/ssh_tunnel_t1.bash\n\nThe summary is that there is no \"free cloud\", even in the P2P world. The published data is attached to the HARDWARE THAT STORES IT and the hardware is NOT just an HDD or USB-stick, but the HDD/USB-stick also requires some computer to attache to and the HDD-traffic really consumes the time of that computer. The computer, even if it is Raspberry Pi, also consumes electricity that COSTS. For example, in 2017 running a Raspberry Pi 24/7 in Estonia costs about 2€/month worth of electricity. (Electricity in Estonia tends to be more expensive than electricity in Finland.) Probably an ordinary, spinning, HDD takes more electricity than the Raspberry Pi. The P2P only gives decentralization, NOT ANONYMITY, NOT PRICE CUTS. \n\nAs a matter of fact, the P2P solutions tend to create a new type of DIGITAL DIVIDE: the technically more capable users have access to the ZeroNet and alike, and the rest, who don't have the skills and can't afford to pay for the IT-support to set up the P2P apps, have to get by with the classical, centralized, web like Facebook, Google, Twitter, etc. \n\nThank You for reading my comment.",
+				"added": 1509737984
+			}
+		],
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": [
+			{
+				"comment_id": 20,
+				"body": "Please keep in mind that the ZeroNet is not an anonymous network. If You admit that You have the source, then You might have to start fighting with the lawyers of a multi-billion giant.",
+				"added": 1509116245
+			},
+			{
+				"comment_id": 34,
+				"body": "> [mari0](#comment_13_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC): If we ever want to ditch Windows we gotta have Wine working even better, the only way non-coders can help is by donating or buying Crossover Linux.\n\nWine isn't the only option to run Windows binaries without paying to Microsoft. There's also the \nhttp://www.reactos.com/",
+				"added": 1509320631
+			}
+		],
+		"1_1F1GejpbpTzkbHpDgaQ4Uvibkpi494U9bu": [
+			{
+				"comment_id": 21,
+				"body": "Strange. It does not seem to work.",
+				"added": 1509116455
+			}
+		],
+		"1_1KppeNmp1RLz7kESnW1qqSeRKj5sBUGRzD": [
+			{
+				"comment_id": 27,
+				"body": "> [marc8888](#comment_1_16zhDYuT8kUjPJh31KfrwcASHCkEov3mD5): aelstrom is Chrome + BitTorrent together, the function is almost similar at Zeronet.\n\nYou may also try out \nhttps://github.com/datproject/dat\nand \nthe TorBrowser",
+				"added": 1509289582
+			},
+			{
+				"comment_id": 28,
+				"body": "You may try to download\nhttp://www.mediafire.com/file/s429bsjf7jofli4/2017_10_23_tor_and_torsocks_from_Europe.tar.xz\nThe SHA256 of the tar.xz file is\n580d581f1a547748795f22948351166f012ccc76ab561f1883d87c8825bf024d",
+				"added": 1509290360
+			},
+			{
+				"comment_id": 29,
+				"body": "Another thing that You may try to do is to drive a drone up to the height of an old-fashioned TV-tower and establish an encrypted radio-link with a similar set-up outside China by using DIRECTED BEAM antennas. The Directed Beam part is to avoid being detected by ground stations near by. The drone can get its power for staying up in the air through a very thin pair of wires that transmit high voltage, like high voltage lines do. At the drone side the high voltage is then converted back to the battery level voltage. A best solution is a combination of a drone and a helium balloon. That way less power is needed for staying afloat. You may try to make the helium balloon a very flat and streamlined one, like zeppeline, and then have the onboard electronics to stear it so that its wind resistance is always minized according to the wind streams at the altitude, where the balloon/zeppelin floats. You can hide the antenna inside the balloon, so that from outer appearance it looks just like an innocent drone project.",
+				"added": 1509290848
+			},
+			{
+				"comment_id": 30,
+				"body": "The best cover might be a legitimate local radio station antenna. If the authorities discover radio equipment, then You can say that the equipment is publicly registered and works for the local radio station, which is public and legitimate according to the Chinese authorities.",
+				"added": 1509291031
+			},
+			{
+				"comment_id": 31,
+				"body": "The zeppelin might be just an innovative solution for the publicly registered, legitimate, local radio station, which may aim to reach \"wider chinese audience\" and it just so happens that the radio waves exit the borders of China \"by accident\".",
+				"added": 1509291107
+			}
+		],
+		"1509129499_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 32,
+				"body": "The main problem is that different people understand the meaning of the like/dislike differently. It's similar to a sitation, where You have to express a whole vector of numbers with a single number. It's just too simple and therefore looses its point and therefore, regardless of what the pointsum is, positive,negative, 0, is just CLUTTER, GARBAGE, information NOISE.\n\nMy suggestion is that You should not try to COPY-Cat anything. You've got brains of Your  own! Do something that the YouTube wants to Copy-Cat from You instead.",
+				"added": 1509291468
+			},
+			{
+				"comment_id": 33,
+				"body": "I suggest that You add a tagging system, where the tags are paired with their creator and with everybody else, who say/click \"I also think that this video deserves this tag\". If some troll puts a nasty tag to a not-so-nasty video, then it's OK, because tags have to be interpreted in conjunction with the users, who added the tags. From that point onwards every person must use their own, personal, trust database. They can then mark the troll to be a troll and that settles it, but the nice thing about that system is that if someone says that the world is round, not flat, then even, when the majority of the users consider the person, who says that the world is round, not flat, to be a troll, the few smarter ones can mar that person to be a smart thinker worth listening.",
+				"added": 1509291817
+			}
+		],
+		"1509756940_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 40,
+				"body": "Amazing. You people at the Russian propaganda department, the \"Russia Today\", the RT, are doing an incredible job. I'm an Estonian, old enough to remember the Soviet Union, but despite not approving what You do, I recognize that You are very good at what You do. Nasty propaganda, but amazingly well don. I admire You. \nOh, I have to admit, I also admire Your amazing way of handling the criticism that You, the Russia Today crew, receive. Really well done :-D\nhttps://www.youtube.com/watch?v=SQQwBfux9i0",
+				"added": 1509830064
+			},
+			{
+				"comment_id": 41,
+				"body": "For the information of the others, the star of the video\nhttps://www.youtube.com/watch?v=SQQwBfux9i0\nis literally making a selfcritical joke by doing that video about herself and her operation.\nShe, \nhttps://en.wikipedia.org/wiki/Margarita_Simonyan\nis/was OFFICIALLY the highest ranking media official at the Putin's Russia. You can find videos of her with puting from Youtube, if You use the YouTube search line. As You know, free press is banned in Putin's russia.",
+				"added": 1509830284
+			}
+		],
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 42,
+				"body": "You can use the solution that the ZeroNet creators, the PirateBay people, developed EXACTLY FOR THAT PURPOSE.\nhttps://flattr.com/",
+				"added": 1509851718
+			}
+		],
+		"5_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 43,
+				"body": "The fish in the sea have war all the time. They eat each other, try to escape from each other. It's called \"the ecosystem\", \"food chain\". The trick is to just get out of the way from the marching Napoleon army or to have sufficiently good enough fishing trailers to kill the dumb armies \"en masse\". \n\nTechnically it is possible for a small group of people to take out whole armies. For example, the whole Napoleon army could have been taken out by a single modern helicopter with machine guns on them. Just fly and mow. The same can be done with the armies of 2017. All it takes is a next step in military technology and given the way the Pentagon and all the rest of the governments fail at their military acquisition programs, specially how they scare all talent away from the Government system, the private sector can take matters into their own hands also in military spheres, just like it has happened in IT, search engines, etc. As a matter of fact, that is precisely what the United States National Intelligence Council self claimed in year 2012, yes, 2012.\nhttp://www.dni.gov/files/documents/GlobalTrends_2030.pdf",
+				"added": 1509853986
+			},
+			{
+				"comment_id": 44,
+				"body": "As a continuation of my previous answer here, I want to point out that just like You can't teach peace and \"democracy\" to the fish in the sea, the idiots will always have war. Except that You are an idiot, if You let Yourself to be eaten by a shark that is intellectually clearly inferior, dumber than You are. Idiots can be deadly and dangerous, just like little cobras can be deadly, despite being stupid. The same with the war mongers.\n\nFor example, the dinosaurs were wiped out by a meteor, yet in stead of developing anti-meteor equipment, the idiots at Pentagon and Washington develop super-expensive fighter jets that have the fundamental speed and agility limit that is set by the fact that even the most skillful pilot will pass out at some G-s. The private sector, the \"venture capitalists\", will rather waste their money on failing \"start-up\" companies than save their soul from meteors. Basically, the world is full of rich idiots, but the smart people, who see the greater picture, including me, should also look into the mirror and ask themselves: \"Am I an idiot that I fail to solve the typical technical task of meeting the technical objectives within the monetary and other constraints that just happen to be part of the task?\" For example, the task might be: solve at least 30% of cancer cases, develop anti-meteor equipment, develop weaponry to take out the idiots, at all sides, when the idiots want to burn down one's home town by having a war at one's home town. (the analogue with the fishing net: if You, hungry fish, come to my town, then I do not care, what color Your uniform is, out You go, dead or alive.)",
+				"added": 1509854560
+			}
+		],
+		"1509329299_184u2io3gh248AJNMdw3V7Ymdc4JwwaQZH": [
+			{
+				"comment_id": 45,
+				"body": "The MaidSafe is a pyramid scheme, where eventually all users will continuously pay taxes to the founders of the network. That's what was the sales pitch was to the investors of the MaidSafe. You know, the venture capitalists will not put their millions in without expecting a gigantic return. The same holds for any P2P-business that has \"venture capitalists\" involved. Also, P2P does not mean that there is lack of centralization. The Skype is essentially a P2P application that is totally centrally controlled and according to the Edward Snowden, even centrally \"wiretapped\" by the NSA.",
+				"added": 1509854933
+			},
+			{
+				"comment_id": 46,
+				"body": "The MaidSafe is a pyramid scheme, where eventually all users will continuously pay taxes to the founders of the network. That's what was the sales pitch was to the investors of the MaidSafe. Venture capitalists will not put their millions in without expecting a gigantic return. The same holds for any P2P-business that has \"venture capitalists\" involved. Also, P2P does not mean that there is lack of centralization. The Skype is essentially a P2P application, centrally controlled, centrally \"wiretapped\" by the NSA.",
+				"added": 1509854977
+			}
+		],
+		"1510393256_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 49,
+				"body": "I don't know about the \"MATE\" part, but I currently run my ZeroNet instance on Raspberry Pi 3 and it works by just starting a python script from console. So creating an \"installer\" is essentially equivalent to creating a ruby script that armors a tar.gz-file\n\nhttps://github.com/martinvahi/mmmv_devel_tools/blob/55680ec14bda1d3f155525bbf088eebd2d10ca9c/src/bonnet/lib/kibuvits_ruby_library/src/include/kibuvits_io.rb#L197\n\nand at installation de-armors and unpacks the tar.gz file.\n\nhttps://github.com/martinvahi/mmmv_devel_tools/blob/55680ec14bda1d3f155525bbf088eebd2d10ca9c/src/bonnet/lib/kibuvits_ruby_library/src/include/kibuvits_io.rb#L257\n\nThere would be one Ruby script that creates the installer ruby script, which is a huge text file with the binary converted to a huge Ruby string literal. The installer would be run like:\n\nruby ./my_installer.rb\n\nor if the \"!#/usr/bin/env ruby\", without the quotes is at the start of the file, just like\n\n./my_installer.rb\n\nand the content of the my_installer.rb would be something in the lines of:\n\n# https://github.com/martinvahi/mmmv_devel_tools/blob/55680ec14bda1d3f155525bbf088eebd2d10ca9c/src/bonnet/lib/kibuvits_ruby_library/src/include/kibuvits_io.rb#L295\nkibuvits_file2str_by_armour_t1(s_file_path)\n\ns_shell_command=\"nice -n10 gunzip \"+s_file_path\"\nht_stdstreams=kibuvits_sh(s_shell_command)\n#some verification checks here\ns_fp_tar=s_file_path[0..(-4)] # cuts the \".gz\" from foo.tar.gz\ns_shell_command=\"nice -n10 tar -xf \"+s_fp_tar\nht_stdstreams=kibuvits_sh(s_shell_command)\nblablabla\n# execute shell command \n# nice -n15 python2 ./zeronet.py --db_mode security --size_limit 20 --ui_ip 127.0.0.1 --ui_port 9999 \n\nThat's the rough outline.\n\nThe most complex part is the various set of integrity tests and checks for failures.\nI've tested it only on Raspbian, which is \"Vanilla Debian 4 Raspberry Pi\". That's what I self use.\nI can provide a whole memory card image, but I'll charge for that then. The same applies for\nthe software development work. I guess that I can do it for 600EUR with 50% downpayment and 2 weeks deadline. \nI'm NOT anonymous here. U can find a free memory card image of Raspberry Pi 1 from \nhttps://technology.softf1.com/mmmv_raspbian_t1/2015/\n\nand the bank account details of my nonprofit from \n\nhttp://intervaarium.softf1.com/lounge/requisites/en/",
+				"added": 1511079234
+			},
+			{
+				"comment_id": 50,
+				"body": "I'll keep the copyrights, but the 2 Ruby scripts will be under the MIT license, available to everybody. I'm just charging for working on open source software.",
+				"added": 1511079369
+			},
+			{
+				"comment_id": 51,
+				"body": "I can not promise the Ubuntu MATE version. I can only offer to try to TEST it on the Ubuntu MATE. I can guarantee it to work on Raspberry Pi 3 with Raspbian, because my deliverables would be just a clone of my own current memory card with some clean-up and with my newest version of the various Bash scripts. \n\nIf You are willing to HOST files, then we may try to create an installer so that I create a Bash script that \"downloads\" the tar.gz, checks its checksum/hash and if the hash matches, then unpacks it, starts the ZeroNet and displays a dialog on the desktop with instructions that tell the user to open a web browser and copy-paste the local server's URL to the web browser. The reason the \"default web browser\" can not be reliably executed automatically is that it might not work. Obviously I'll try to make a call to it, in Ruby\n\n# I just tested it, it worked on my openSUSE Linux. I don't know about Ubuntu & Debian & Raspbian\nsystem(\"xdg-open\", \"http://stackoverflow.com/\")\n\nbut I can not guarantee it to work. It works \"probably\", as I said, it worked in my machine right now.\n\nOf course, one might also try to create an NPM package at or just create a specialized GitHub account and download the tar.gz from there.",
+				"added": 1511080272
+			},
+			{
+				"comment_id": 52,
+				"body": "I mean, the testing deliverables would be the memory card image. The deployment deliverables would be a GitHub repository that is public. The end users would just execute a Bash script that downloads the tar.gz, rather tar.xz, from GitHub. \n\nBut the \"all-in-one\" option, the Ruby script with the gigantic string, is also an option, although I suspect that the tar.gz download is safer and faster and more reliable.",
+				"added": 1511080411
+			},
+			{
+				"comment_id": 53,
+				"body": "I'm just slamming the draft architecture here together, on the fly, only to answer Your question and to hope to earn a few extra money notes for an attractive job.",
+				"added": 1511080484
+			},
+			{
+				"comment_id": 54,
+				"body": "Also, if You accept, then I need testing help from You. There will be multiple rounds, where You have to check, whether things work on Your Raspberry Pi. If things really don't work, then I need the memory card image from You for testing.",
+				"added": 1511080593
+			},
+			{
+				"comment_id": 55,
+				"body": "The best case scenario, which I don't promise, but what MIGHT be considered, is that the end user just \ncopy-pastes one nasty string to console and that string then downloads the Bash script and executes it.\nA bit like:\n\nrm -f ./wget_demo_01.bash.txt; wget https://temporary.softf1.com/2017/wget_demo_01.bash.txt ; bash ./wget_demo_01.bash.txt",
+				"added": 1511081114
+			},
+			{
+				"comment_id": 56,
+				"body": "The bash script would check, whether the command line tools are available and print suggestions, if things are missing. Sometimes conditional execution can be used.  An example of my Bash coding style can be seen from \n\nhttps://github.com/martinvahi/mmmv_devel_tools/blob/master/src/mmmv_devel_tools/silktorrent/src/silktorrent_packager_t1.bash",
+				"added": 1511081602
+			},
+			{
+				"comment_id": 57,
+				"body": "Another packaging form might be to create an ARJ-self-extractor and ask the user to \n\ncd ./ZeroNet_installation_folder\nbash ./run_my_ZeroNet_server.bash\n\nI have NOT tested the arj on Linux, so I can NOT promise it, but the manual is\nhttp://manpages.ubuntu.com/manpages/xenial/man1/arj.1.html#contenttoc12\n\n++++++++coding+++pause++++++\n\nI just tested it. The arj works on Raspbian on Raspberry Pi 3. Here's the demo Bash script:\n\n#----citation---start----\n#!/usr/bin/env bash\n\nrm -f ./foo.arj # clean up for old session\nmkdir -p ./A_Container\necho \"Demo text\" > ./A_Container/a_file.txt\narj -je a ./foo.arj ./A_Container\n\nrm -fr ./A_Container\necho \"\" # just a spacer\nls -l -a\n\n#----citation---end----",
+				"added": 1511082656
+			},
+			{
+				"comment_id": 58,
+				"body": "All in all, if the goal is to make ZeroNet POPULAR, then the Raspberry Pi is not the right platform.\nThen the Windows users should be the target audience and then the task gets really complicated, \nto the point that I am NOT promising that anything works at all. On the other hand, SUPPOSEDLY\nthe new Windows 10 has an Ubuntu Linux userspace layer with Bash available.\n\nhttps://msdn.microsoft.com/en-us/commandline/wsl/about\n\nhttps://www.youtube.com/watch?v=PP_T_m0UV9E",
+				"added": 1511083367
+			},
+			{
+				"comment_id": 59,
+				"body": "Also, the Raspberry Pi users are/should_be/should_be_instructed_to_be skilled enough to use the Linux console, from where they can execute the Python script themselves, without any single-click-installers.",
+				"added": 1511083443
+			},
+			{
+				"comment_id": 61,
+				"body": "For the record, I actually have the following ongoing project\n\nhttps://technology.softf1.com/mmmv_distrocomponents_t1/\n\nwhich is a userspace Linux/BSD distribution, meaning, there is a set of \nBash and Ruby scripts and various reusable template scripts and \n\"standardized\" set of Bash aliases that aim to work on most of the most mature\nLinux and BSD distributions. Currently: Raspbian, openSUSE Linux, FreeBSD.\n\nMay be the way to implement \"one-click-installs\" might be to follow the \nRuby Gem and NodeJS npm and Python Pip models, where a user\nhas \n\n    ~/.some_nice_folder_name\n\nand the one-click install applications would be in a subfolder of one of those home-dot folders.",
+				"added": 1511085251
+			},
+			{
+				"comment_id": 62,
+				"body": "I forgot to mention: ZeroNet can not be installed globally, because there is a need for a user identity. Each operating system user needs its own ZeroNet instance or at least some hack to have personal ZeroNet data set, like user name, keys, etc. The Android-like one-click-apps assume that there is only one application instance, because usually Android phones only have one human-user account, one human-user identity.",
+				"added": 1511085861
+			}
+		],
+		"15912_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 60,
+				"body": "Either they are hopelessly late to the party or TOO EARLY to the party, because the Bitcoin and alike have a nasty performance hit due to the consensus algorithm inefficiencies. \nhttp://fouryears.eu/2017/07/09/the-blockchain-consensus-problem/",
+				"added": 1511084146
+			}
+		],
+		"1511084365_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": [
+			{
+				"comment_id": 63,
+				"body": "Could You please specify, what do You mean by the \"LN\"? \nThank You.",
+				"added": 1511099803
+			},
+			{
+				"comment_id": 64,
+				"body": "I'm not anonymous here, on ZeroNet, because the ZeroNet is not an anonymizing technology, unless it is tunneled over Tor, which will still fail to provide anonymity the moment I cite any of my own sites at any of my comments. So I can say it openly here that I have created a specification, how to use SYMMETRIC KEY cryptography for creating a global signing system. \n\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=Experiment:+mmmv_symsig_t1\n\nI also have one-time-pad inspired symmetric key crypto software to offer, under BSD license, which is optimized to be strong rather than computationally efficient.\n\nhttps://github.com/martinvahi/mmmv_devel_tools/tree/master/src/mmmv_devel_tools/mmmv_crypt_t1\n\nAfter reading the blog post that I cited at the opening post of this thread, I came to realization that the signature system could be slightly modified to form a computationally very efficient consensus system. The set of \"trusted nodes\" could be selected the same way the mmmv_symsig_t1 key exchange service providers(KXS-s) are chosen.",
+				"added": 1511100568
+			}
+		],
+		"1510336683_1HqjpmXRRfMPVUHqZ6vDvotCXpcNXCg5R7": [
+			{
+				"comment_id": 65,
+				"body": "Expect the document set to be tainted with malware that is used for tracking.",
+				"added": 1511150268
+			},
+			{
+				"comment_id": 75,
+				"body": "Please upload them to \nhttp://localhost:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/",
+				"added": 1511179438
+			}
+		],
+		"1_1F8VgytUggkP8kkieK8GcEMVsJTwcoAqdk": [
+			{
+				"comment_id": 66,
+				"body": "ZeroNet by its nature IS NOT ANONYMOUS. The best that You can do is to \ninstall ZeroNet to an USB drive and then use it with the \nTails Linux distribution.\nhttps://tails.boum.org/",
+				"added": 1511150396
+			},
+			{
+				"comment_id": 67,
+				"body": "Also, even if You were to achieve perfect anonymity from technical point of view, You will likely give off clues about Yourself by Your writing style. Software is a huge \"fingerprint\" of its authors, which is why no malware author is able to use its own created malware for hacking in to places without putting the malware to public use first. The various agencies, NSA, FSB, etc. have the same problem, so they never use purely their own malware, but use components of their adversaries team's public malware to mix the malware styles. For example, Americans use Russian and Chinese and American malware and the Russians hide their traces by using American, Chinese, \"Western\", malware as part of their toolkit not to reduce the size of development work, minimize development costs, but to look more \"non-Russian\".",
+				"added": 1511150693
+			}
+		],
+		"1510851511_1KLHEbJJ9iLGBU9EA7jf5AvgFFGSDCEgb4": [
+			{
+				"comment_id": 68,
+				"body": "lol\nloli?\nlolita\nlollita",
+				"added": 1511150826
+			},
+			{
+				"comment_id": 69,
+				"body": "The word \"lollita\" is an imperative form of the expression \"fool around\", \"mock\".",
+				"added": 1511150872
+			},
+			{
+				"comment_id": 70,
+				"body": "I mean, the \"lollita\" is an imperative form of an Estonian expression that translates as \"fool around\", \"mock\".",
+				"added": 1511150925
+			}
+		],
+		"1511163737_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 71,
+				"body": "The other ZeroNet address of the KopyKate seems to be\nhttp://localhost:43110/18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh/",
+				"added": 1511163948
+			}
+		],
+		"1510618291_1CyTL2ry28YCGU9LCBPhXC1ZnKcozuM25Q": [
+			{
+				"comment_id": 72,
+				"body": "If You only want to READ ZerNet, without serving anything, then You may open a ZeroNet proxy site through the TorBrowser.\n\nhttps://proxy.zerocat.eu/\n\nThey finance it through the use of JavaScript based coin-mining program",
+				"added": 1511178610
+			}
+		],
+		"1511133140_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 73,
+				"body": "My suggestion is to swap out the YouTube logo to something ORIGINAL.\nThe practical purpose of TRADEMARKS is to allow the END USERS to \ndistinguish between different merchants and the copying of trademarks\nis NOT IN THE SPIRIT OF THE PIRATE BAY.\n\nEven the PirateBay did not mess with trademarks.\nEven drug lords do not trademarks.\n\nCopying a trademark, a brand insignia, IS LAME!",
+				"added": 1511178985
+			},
+			{
+				"comment_id": 74,
+				"body": "> [kopyjane](#comment_27_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Stick to ZeroTV\n\nWhat's the URL of the ZeroTV?",
+				"added": 1511179112
+			}
+		],
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 76,
+				"body": "I guess that the person, who posted those 2 links here, one to a medically terrible penis and another to a gay threesome of some very old gentlemen, must have spent a lot of time going through the various similar images to make his or her pick for the prank in this ZeroTalk forum thread. He probably finds that sort of porn sites very interesting.",
+				"added": 1511186482
+			}
+		],
+		"1511184809_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 77,
+				"body": "I dare You to look for a video titled\n\"2 girls and a cup\"",
+				"added": 1511186581
+			}
+		],
+		"1511315345_1Ly7Zat64UdKNHWhw5hfac5rsc6rLfYHV1": [
+			{
+				"comment_id": 78,
+				"body": "ZeroNet documentation in ZeroNet\nhttp://localhost:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/",
+				"added": 1511353242
+			}
+		],
+		"1511404042_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 79,
+				"body": "http://localhost:43110/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm",
+				"added": 1511411941
+			}
+		],
+		"1511360238_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 80,
+				"body": "Start from this link:\nhttps://www.ted.com/talks/peter_norvig_the_100_000_student_classroom\n\nHere's a link that has also other topics, lectures, avalable, FOR FREE:\nhttp://mooc.org/\n\nWhat regards to the motivation to learn, then please do notice that even if You had a PhD, You would be RIPPED OFF at a salary based job, unless You are some sort of a \"manager\", somewhere up at the food chain. In stead of drinking You should be WORKING HARD ON DEVELOPING YOUR OWN COMPANY or TEAM OF FREELANCERS with PERSONAL PORTFOLIO that You can show to Your potential clients that You are any good at doing Your job as a freelancer.\n\nPeople are hopelessly crappy, mediocre at best, at things that they do only for money, but the freelancing landscape is GLOBAL, meaning, competition is fierce, and if You want to ask a bigger price than some dirt cheap hindus do, then You have to be THAT MUCH BETTER AT WHAT YOU DO!  Some related portals:\n\nhttps://www.upwork.com/\nhttps://www.freelance.com/en/\nhttps://www.freelancer.com/\nhttps://remoteok.io/\nhttps://www.bountysource.com/\nhttps://www.workshape.io/\nhttps://www.guru.com/\nhttps://stackoverflow.com/jobs/remote-developer-jobs\n\nThe list is not complete.\n\nThe most important things to ask oneself, when becoming a freelancer, is:\n\n===x==============================================\n???? WHAT KIND OF PEOPLE I WANT TO INTERACT WITH ????\n===x==============================================\n\n\nDo not think about \"markets\", when looking 4 an answer to that question, because Your MARKET will be on the World Wide Web, THE WHOLE PLANET, and Your competitors will also be THE WHOLE PLANET. The only way to survive in this market is to be AMONG THE BEST ON THE WHOLE PLANET and the only way to be among the best on the whole planet is to work on things that one feels TRUE PASSION for. What regards to the idea that an average person with an average IQ is \"never\" among the best on the whole planet, then that is FALSE THANKS TO SPECIALIZATION. For example, I'm absolutely certain that most of my group mates from university will beat me at what I do, IF THEY WAN TO WORK ON THE SAME THINGS THAT I WORK ON, but You probably do know enough mathematics, including combinatorics to understand that the moment You start to create a list of requirements like\n\nx) product has blue packaging\nx) product is soft, squiizeable\nx) product is edible\nx) product withstands freezing\nx) product does not contain chemical X\nx) product has a maximum package size of Y\n\nthen You will have HARD TIME FINDING that kind of product even from the biggest of supermarkets, grocery stores. The same idea is applicable on those global freelance markets. A concrete examples of extremely successful freelancers are the SQLite author, Richard Hipp, the various freelance electronics design engineers\n\nhttps://en.wikipedia.org/wiki/David_L._Jones_(video_blogger)\n\n\"Bunnie\"\nhttps://www.youtube.com/watch?v=Zt7WVF5UfnA\n\n\"iantube\" author\nhttps://www.youtube.com/channel/UCLmqkcWEhEQNZy97ETIZn4A\n\nThe Pegasus Mail author:\nhttp://www.pmail.com/\n\nand various others. They are REALLY KNOWN GLOBALLY. \n\nMonetarily speaking, just like with megacorporations, part of the survival strategy is to modularize one's \"production\" side so that the same, tried and tested, components can be used for different products. An example from the megacorporations is the door handles of Toyota cars: they're the same on all models.\n\n\"What we DO versus what we SELL\", \nGeorge Clooney and Anna Kendrick in movie \"Up in the Air\":\nhttp://localhost:43110/18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh/?Video=1511413983_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p\n\nAnd if You have figured that part out, basically, have figured out, how you WANT to live Your life, then You can answer the question, what You have to learn to be one of the best on the planet within Your dream niche. From that perspective THERE ARE NO BORING CLASSES. It's really the question of, why did You take the class anyway, because the old fashioned model that one first learns \"a job\" at a \"university\" and then applies those skills at some \"workplace\" and \"earns a wage\" just does not apply. Justin Bieber earns more than many top CEOs, without much education at all. The Pop Queen Madonna did not have a PhD, when she become rich, but that does not mean that she did not learn or work hard. She just WORKED ON THINGS SHE HAD PASSION FOR AND DID NOT WASTE HER TIME ON WAGE LABOR. \n\nA career example of a success in very late in his/her life is also the singer \"Scatman Joe\", who was basically a drunk person, who earned a living by playing in bars:\nhttps://www.youtube.com/watch?v=Ic2Cjw7kydI\n\nOf course, You may say that the loosing stories are not publicly told, only the winners stories are told, but the winners stories are SUFFICIENT to tell that IT IS THEORETICALLY POSSIBLE to succeed even late in life, PROVIDED THAT ONE WORKS HARD ON THINGS THAT ONE HAS PASSION FOR.\n\nMany my highschool/secondaryschool class mates have got their IT diploma from the university and then, just re-enrolled to the university and got a second Bachelors at some totally different area that they have passion for and then work in other fields. One of them started to take art lessons and built a whole house with the digital design money, despite having an IT diploma. Another one became a civil engineer and now is a partner at a civil engineering firm, despite the fact that formally he has the very same IT diploma that another of our common friend, who is a software architect at the banking sector, has. It's really PASSION COMBINED WITH HARD WORK AND CONSISTENCY, some luck, certainly some money from the parents or from somewhere, but U said that U already have the money part solved. \n\nThank You for reading my comment.",
+				"added": 1511414759
+			},
+			{
+				"comment_id": 82,
+				"body": "> [freedomhuray](#comment_1_1Ke6ak6mpmvEKoVKWthR1tBucRuowq2hTE): Do not get attached too much into people that are not straightforward and truthful \n\nI haven't had that problem myslef or at least I dumped the party/parties that were not straightforward and truthful, but indeed, I have seen others, who have not done the dumping part and by serving the untruthful bastards they have really isolated themselves from those people, who are truthful and non-abusive. So the avoidance of being attached to bastards is indeed a nice wording that I did not come to myself. Really well said. Than You for the clever comment. :-)",
+				"added": 1511575881
+			},
+			{
+				"comment_id": 88,
+				"body": "> [byg8o897y7t68fto](#comment_5_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): excited about doing programming but then I found out I didn't enjoy it very much when it came to it\n\nProgramming, mathematics, generally \"hard sciences\", are a kind of fields, where one has to put one's full attention to one's own thoughts, one's own solutions, for a very long periods of time. Interaction with others is only for getting ideas, learning, comparing results, in the case of clients getting to know their problem, getting data, finding out, whether the solution that one provides them works for them. In the case of programming, generally speaking, \"software development\" \n\n(algorithm and data flows related math + designing the architecture + planning dependencies of one's own components + documenting and coding + testing and debugging & verifying + dumb maintenance work like setting up a code repository at the start of the project, setting up development environment,  surfing the web and reading books and studying to make sure that one always uses the most up to date math and computer science approaches, surfing the web and reading books and studying to get to know some basics of the problem domain of the client's project, etc.) \n\nthe majority of activities are FUNDAMENTALLY SUCH THAT THERE IS NO INTERACTION WITH OTHER PEOPLE. The \"pair programming\" is a pathetic effort to ignore the fact that one is not able to think one's own thoughts and talk with other people at the same time, just like it's pretty futile to think on some mathematical solution and then talk with others, even if the math were just plain adding of positive numbers less than 100. \n\nSo, SOCIAL PEOPLE should really STAY AWAY from math and software development, because otherwise they will be UNHAPPY and if they are unhappy with what they do, then they will be crappy at what they do. Crappy engineers are a misery to everybody, specially the people, who will later need to use, depend on, their work results. \n\nBasically, if You fade on blood or can't stand AT ALL the smell of other people's feces, then STAY AWAY FROM ALL MEDICAL PROFESSIONS. If You are frantically afraid of bugs, DO NOT BECOME A BIOLOGIST. If You tend to vomit on stormy seas, DO NOT ATTEMPT TO BECOME A SEAMAN OR AN AIRCRAFT PILOT. If You are colorblind, then may be becoming a visual artist is not such a good idea. If You are NOT SOCIAL, then see if You can enroll to some \"engineering school\" in stead of trying to become a teacher or a kindergarten nanny. \n\n(Imagine how crappy Your own childhood would have been, if in stead of a social nannies and teachers You had some \"engineer types\" trying to pull it off, yet, it's smart to keep the SOCIAL PEOPLE far away from all engineering tasks, because otherwise the result will be SHODDY AT BEST, probably AN ABSOLUTE CRAP. )",
+				"added": 1511704635
+			}
+		],
+		"1511482022_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": [
+			{
+				"comment_id": 81,
+				"body": "ZeroNet in its nature is NOT ANONYMOUS. What You may do is write a \nhttps://telegram.org/\nbot that sits between the Telegram.org network and Your ZeroNet local server.\nThe Telegram.org is not anonymous either, probably the Putin's FSB reads it all, \nbut it is a competitor to the GMail and NSA ridden systems. The public \nbackground of the Telegram.org is described at:\nhttp://mashable.com/2015/05/18/russias-mark-zuckerberg-pavel-durov/",
+				"added": 1511511564
+			}
+		],
+		"1511539827_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck": [
+			{
+				"comment_id": 83,
+				"body": "All libertarian PARTIES are HYPOCRITES, because they talk about liberty, yet, once they get elected, they finance their operations, the running of supermafia(\"government\") operations, ministries, army, \"social work\", etc. EXACTLY THE SAME WAY THAT THE COMMUNISTS DO: they rob others, apply \"taxation\".\n\nWhat regards to the argument that the robbing(\"taxation\") is justified, because the supermafia(\"government\") offers \"public services\", then that's like a goon saying that You buy my services with MY MONOPOLY PRICE, OR ELSE....\n\nWhat regards to the argument that there is no monopoly price, because people \"can\" elect the top of the supermafia, then as long as the supermafia itself determines the election rules, the elections are FAKE.\n\nThe idea that democracy is not utilitarianism, where the measure of an action is based on comparing, which of the actions benefits the majority of the population, just does not hold, because it leads to the problem of \"who watches the watchdog\". For instance, if terminally ill people were to vote, whether to kill a healthy person and use the healthy person's different organs for saving the lives of the terminally ill (someone gets the heart, someone gets lungs, someone gets the liver, etc.) then if the voting is the ultimate way, how decisions are made, then the DEMOCRACY IS UTILITARIANISM. After all, acting to carry out the decision in this case is the same as standing abainst the will of the DEMOCRATIC majority. (And then You get the various accusations abut elitism, \"illuminati\", etc.) The \"who watches the watchdog\" is not solved by the \"free press\", because, as the Putin's Russia very vividly demonstrates, ultimately the \"free\" press needs to adhere to the will of the party that has the greatest capability to apply violence. That is to say, the \"free\" press is not really \"free\", because its \"freedom\" is determined by the party that they are supposed to oversee. Add to that the set of \"political technology\", \"public relations\", propaganda, and the \"free\" press is not accountable for delivering truth even, when the party that they oversee does not enforce its interests the way the Putin/Kremlin does.\n\nI suugest \nhttps://rationalwiki.org/wiki/Anarcho-capitalism\n(archival copy: https://archive.is/hFZLo )\n\nA truly free market has the problem that the \"economy of scale\" naturally leads to a monopoly. The one, who has a greater market share, can optimize its production and therefore offer the same quality with smaller price, which increases the market share, which .... A positive feedback loop. Monopolies tend to lead to monopoly prices and lack of quality. So, in a sense, a bunch of hired goons to ruffle up businesses by telling that You'd better meet those quality standards and sell Your product with a maximum price of X, is actually keeping the natural monopolies under control. An example of such natural monopolies are city water systems and electrical grids. However, in no instance am I saying that the hired goons, who ruffle up businesses a lot like the European Commission does it in 2017 Europe, have to be financed from the robbing loot(\"tax money.\") Also, the \"hired goons\" MUST NOT be an entity in their own right, because otherwise they might start to think that if they can blackmail businesses to change the behavior of businesses, then they can also blackmail those very same businesses for money, rob them, \"tax\" them. That's how the military dictatorships operate. The solution to that problem might be that the \"hired goons\" are not really hired at all, but are formed from parties that want the change and team up to act as the bunch of \"hired goons\", except that IN STEAD OF PHYSICAL VIOLENCE THE ENFORCEMENT CAN BE IN THE FORM OF DENIAL OF SERVICE.\n\nI mean, what if a hospital says to a pharma industry executive that either You fix Your price to what we want or we will not serve You, we will literally let You bleed out, if You come to our emergency room? Or a hairdresser tells the CEO of some mega-corporation that You'd better stop the practices that You do or I won't serve You? I think it's REALLY TOUGH. That kind of community based enforcement has PROVEN TO WORK VERY EFFECTIVELY. An example of that is, when some businessman has been cheating its business partners and the press documents it in detail. It works. It works REALLY WELL, at least in Estonia.",
+				"added": 1511578302
+			},
+			{
+				"comment_id": 84,
+				"body": "> [piloth](#comment_1_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck): Still working on things :) Getting things set up\n\nPlease, DO NOT ADVERTISE THINGS THAT ARE NOT COMPLETE!!!!!!!!!\n\nI find the publishing of INCOMPLETE things a very American way of doing things, which is kind of lovely and nice from openness point of view, but it has the nasty drawback of being EXTREMELY INEFFICIENT in terms of overall time wasted in the form of life hours of those people, who study and try out the incomplete products. It's OK to fail and have flaws, but they should not be the kind of flaws that the original authors are aware of. \n\nThe same advice in a slightly different wording: whenever You write any kind of documentation, then NEVER PUBLISH IT BEFORE IT IS COMPLETE, because the people, who take the copy and pass it on, do not pass on the statement that the document is \"a proof of concept\", \"incomplete\", \"alpha version\" and then the people, who receive the passed on document believe the incomplete crap to be the \"real thing\" and give the mark to the whole endeavor, including the work quality of the authors of the document, by assessing the incomplete version as if it were the final product. In the current case, the forums were advertised to be ONLINE before they were complete. That's a mistake that will cost You dearly, if You do that anywhere in business, including Your own private, freelancing, business.",
+				"added": 1511626474
+			},
+			{
+				"comment_id": 87,
+				"body": "> [piloth](#comment_2_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck): If, in your rant, you could have provided some constructive criticism or guidance of what I may have done wrong then that might have been more well received\n\nThank You for the answer.\nI was not able to conclude from Your previous posts that the page worked fine in Your setting.\nYou may try to test the availability of Your page by using temporary identity through a ZeroNet proxy.\n\nhttps://zero.acelewis.com/\n\nLink to this very discussion through a Proxy:\nhttps://www.zerogate.tk/Talk.ZeroNetwork.bit/?Topic:1511539827_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck/Libertarian+Discussions",
+				"added": 1511628731
+			}
+		],
+		"1511316400_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": [
+			{
+				"comment_id": 85,
+				"body": "> [kopyjane](#comment_55_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): ZeroNet is just a client, you cannot ban access to a client, that would be like banning web-browsers just because they can be used to access p2p sites.\n\nOh really?\n\nhttps://theintercept.com/2016/10/18/ecuador-cuts-internet-access-julian-assange-preserve-neutrality-us-election/\n\nhttp://motherboard.vice.com/read/gabon-internet-censorship-election-outage\n\nhttps://motherboard.vice.com/read/two-months-of-internet-blackouts-have-taken-a-toll-on-kashmir\n\nhttps://www.accessnow.org/dispatches-internet-shutdown-togo/\n\nhttps://netblocks.org/\n\nThe way I understand, each ISP forms a network with the central point of failure/censorship. Unless You are using some direct links from the network of one ISP to the network of another ISP, may be by using some mesh network, then ISPs can switch off Your internet connection, including ZeroNet. The lack of \"net neutrality\" just allows to switch off the different services selectively.\n\nhttp://www.smesh.org/\n\nhttps://www.open-mesh.org/\n\nAll WiFi and cell traffic will be switched off in war zones AND PRISONS by using JAMMERS.",
+				"added": 1511627449
+			},
+			{
+				"comment_id": 86,
+				"body": "All in all, as long as they do not limit people from creating their own mesh networks and direct links and LANs, the elimination of the Net Neutrality is a fine stress for the ISPs that will put the most restrictive and bastardly ISPs out of business, except in \"black communities\". The \"blacks\" accept any crap that is sent on their way and they lack the calmness and rigor to strategically build something.\n\nI mean, that may sound racist, but it tends to be so that statistically speaking there is much less \"chocolate colored\" scientists and engineers than there are the \"snowflakes\". The \"blacks\" can't organize themselves even that much that in stead of shooting each other they would shoot the murderous police officers that endanger their community. And then they yell somewhere that \"Black lives matter\". The \"black lives\" don't matter even to the \"blacks themselves\". Otherwise the armed gangsters, who kill people anyway, would \"do\" some of those abusive police officers and that would calm the situation down before  any \"protests\"(burning of other \"black\" neighbors' cars) occur.",
+				"added": 1511627819
+			}
+		],
+		"1511643117_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 89,
+				"body": "One of the main reasons, why some kind of a communication network is needed during the war and after nuclear attacks is to communicate with friends and family. ZeroNet depends on the classical Internet, which will not be available, because the mesh networks are prevented by jammers and the electronics(routers, switches, etc.) that keep the optical cable based networks running will probably be fried by EMP-attacks. Even if the routers and switches survive the EMP attacks, including the nuclear detonation related EMP, a WW3 nuclear attack will be PRECEDED by a cyber-attack to make sure that the traditional Internet Service Providers will be out of service. The cyber-attack will probably take place before the nukes go off, because that way the malware can reach its targets before many of the routes to the targets are destroyed by the EMP.\n\nThe only option that I see is offline distribution of files, mail pigeon drones with USB-sticks. BlueTooth will be jammed, except when the drone lands into a shielded area for the data exchange. At least, that's the idea behind my Silktorrent project:\n\nhttps://silktorrent.softf1.com\n\nMeanwhile the ordinary internet can be used in stead of the mail pigeon drones. What regards to ZeroNet, then I think that the ZeroNet might be very well suited as THE SOLUTION for a Silktorrent based \"Web\". The idea of hosting sites locally definitely matches with the whole Silktorrent idea. In my, very subjective, opinion, the HUGE ADVANTAGE that the ZeroNet has over the \n\nhttps://ipfs.io/\n\nand the Dat protocol:\n\nhttps://www.youtube.com/watch?v=pi-kreA52oI\nhttps://beakerbrowser.com/\nhttps://github.com/beakerbrowser/beaker\n\nis its SMART CHOICE OF DEPENDENCIES, its IMPLEMENTATION.  The IPFS depends on the \nhttps://golang.org/\nwhich is truly difficult to port and compile, as it requires an older version of itself to be available to be compiled. The Dat protocol is implemented in JavaScript, which might be tolerated thanks to the NodeJS, but the whole implementation seems to depend a lot on the Google Chrome, which is a difficult thing to port/build and has a huge attack surface. The ZeroNet, on the other hand, does not depend on a specific browser and is therefore much more portable. For the reference, anything written in Java is totally out of the question, because the Java is a terribly hard thing to port, not to mention that its code base is a huge \"corporate pile\" (of shit) that must be heavily refactored/rewritten or can be ported to new hardware and new operating systems only with a huge army of not-so-smart code monkeys. Although, there are people, who have taken on the truly challenging task of fixing the Java implementation, cleaning up the Java implementation mess, and I believe that they deserve only positive recognition for their hard effort:\nhttps://icedtea.classpath.org/\nhttp://openjdk.java.net/\n\nThe Russian IDE company, the \nhttps://www.jetbrains.com/\nalso maintains its own copy/fork of the JDK, \nhttps://github.com/JetBrains/jdk8u_jdk\nbecause their main product, the IDE, is written in Java and they maintain their Java fork to mitigate their business risks. \n\n---sidenot--start---\nThe Putin probably does not even need to break into the Western sites, because the JetBrains IDE is one of the best IDEs on planet Earth and many of the Silicon Valley software developers probably log in to the production servers to use some of the IDE's features. It's kind of funny that probably the whole Silicon Valley depends heavily on the RUSSIAN TECHNOLOGY  :-D\n\nIf U.S. Nukes Saint Petersburg, the Silicon Valley takes a technology availability hit and if the Putin nukes the Silicon Valley, the Russian economy will plummet much further than it currently(2017) has plummeted, because it's the global remote work that feeds many of the people from the various Russian science institutions and institutes.\n---sidenot--end----",
+				"added": 1511768628
+			}
+		],
+		"1511719880_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 90,
+				"body": "In stead of wasting electricity because it's free, You might do something useful. I suggest simulations, calculating game trees for chess and then figuring out, how to compress them for reuse. Another very useful, but calculation heavy, task is training gaming bots. If You want a game bot to be a truly fine adversary in real war robots or in games like the \nhttps://worldoftanks.com/\nor \nhttp://tankionline.com/\nthen training the AI bots makes a lot of sense. I'm pretty sure that the tanionline.com and the \nhttps://www.americasarmy.com/\nuse the data from human players to train their robots and battle estimation systems.\nThere's even a \"SciFy\" movie about it, where war robots are trained on an island by making them play against human soldiers and then the runners of those robots loose control of the robots, become unable to switch the robots off and the robots start to learn by actually killing the opposing team members:\nhttps://www.youtube.com/watch?v=TPLEjs7im9c\n\nYou do not need any 3D games or any of the 3D parts to try out some simpler cases. For example, You may run a 2-dimensional game level that is generated RANDOMLY and put 2 teams of robots/agents in there.  Once You get the software for the agents running and the game level software, their \"matrix\"\nhttps://www.youtube.com/watch?v=m8e-FF8MsqU\nrunning, the adding of the 3. dimention is an appropriate next step.\n\n---sidenote--start----\nYou may also want to look at the 1999 movie, \n\"The Thirteenth Floor\", but make sure that You take a \nlook at the Cardigans music video, \"Erase and Rewind\", \nhttps://www.youtube.com/watch?v=zTM69cXUXUQ\nBEFORE watching the movie\nhttps://www.youtube.com/watch?v=lMQnf0IVcmU\nto get the fun experience that the meanings of the words of the songs\nmean TOTALLY DIFFERENT things before seeing the movie and after seeing the movie.\n---sidenote--end------\n\nIf You want to be really fancy, then You may try to use the GPUs for running the 2D game world simulations.\nI suggest that You store the learning results to tables and then, as a separate effort, USE LOSSY COMPRESSION on the huge tables by training a neural network with the tables. Neural networks are truly nice for storing HUGE AMOUNTS OF DATA in a LOSSY FASHION. The trained neural networks can then later be utilized for building the actual game agents and real life battle robots. Also, please keep in mind that You have to use different data sets, in Your case, randomly generated game levels, for training and for evaluating the level of training.\n\n\nI suggest that You use C++ for implementing simulation part of the system. The LLVM and GCC both support multicore through the \nhttp://www.openmp.org/\nby default. The Microsoft C++ also supports it. The C++ combined with the OpenMP is currently(2017) the most stable and portable way to create high performance applications. Avoid using the C++ built in strings, because C++ is CRAPPY for any kind of applications software level string processing. If You want to do string processing,  use Python or Ruby, but the simulation task does not require strings. For storing the results, I suggest that You use SQLite\n\nhttp://www.sqlite.org/\n\nwhich has fine support by all major programming languages. That way, once You are finished with Your learning/training simulations, You can load the SQLite database with Ruby and gather statistics and logs from there without wasting time writing tedious C++ code. In practice the SQLite can handle multiple GiB of data very efficiently and reliably. The reliability of the SQLite is so good that it has been formally approved for use in avionics, the software that run the control systems of planes.",
+				"added": 1511772873
+			},
+			{
+				"comment_id": 98,
+				"body": "> [akito](#comment_391_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Wow, I'm impressed, that are awesome inspirations. Is any of this doable without a desktop environment? I planned to use CLI only.\n\nThank You for the compliment and I also thank the nofish for increasing my character count at this forum. Without the character limit increase I would not be able to post my answer here, to this forum.\n\nWhat regards to Your question about the availability of desktop environment, then simulation does not need any graphical user interface for displaying the simulated events. The GUI part is only for humans, for feedback, for understanding, what is going on. \n\nI thought about the simulation project that I proposed and I came to a conclusion that it it requires an efficient implementation of an image processing algorithm, where paint is poured to one spot, pixel, and then the paint spot spreads and stops at the edges of something that is in its way, except that the paint flows only to those squares that have a direct line of sight to the pixel, where the flooding started and the spreading of the spot stops either at an edge of something or, if no edge is met, at a defined maximum spreading distance. I've worked for years developing image processing software as my \"day job\", so I know from practice that although it's not a fundamentally complex algorithm, does not require almost any math, but it's nontrivial to make an implementation that is efficient, works fast. So, I think that given that I need to work on similar projects anyway for other needs, it would be easier, if I self wrote the matrix side of the simulation software, as open source software. I DO NOT PROMISE to do it, but I have had a similar project at my private TODO-list for years. Given that Your question about the CLI reveals that You, akito, might not have extensive experience developing software, I suggest that You start learning and experimenting with different machine learning algorithms, WITHOUT IMPLEMENTING THE SIMULATION. MAY BE (NO PROMISES BY ME!) \n\n__M_A_Y_____B_E__\n\nby the time that You have crafted some code for the machine learning part, I, \n\n__M_A_Y_____B_E__ (NO PROMISES BY ME!)\n\nI have the simulator's matrix/game level part done by then. Do not expect it to be ready before 2018 autumn, but I want to complete one of my own, personal, projects that uses that type of image processing, by the autumn 2018. \n\n(I want to automate the cleaning of apples for making apple jam by automatically cutting the apples to small pieces, cube like pieces, and then having a \"machine\" to sort the \"apple cubes\" to 2 groups: jam material and throw-away pieces that have  rotten, brown, parts in them. I mean, if I have to clean the apples manually, then I might as well just spend a similar amount of time on creating a machine that does it for me and have the machine to do the dumb work for me and for my family and friends. May be in stead of cubes the system might use slices that are created by using an ordinary kitchen food processor with a slicing blade. The apple slices are manually rinsed with water before they are placed into the sorting machine.)",
+				"added": 1511962315
+			},
+			{
+				"comment_id": 99,
+				"body": "If You consider chess in stead of the battle simulation, then You may simplify Your task by not using all of the chess buttons. Once You get the engine for the \"simplified chess\" running, You may add the rest of the buttons later. You may even create Your own rules for Your personal version of \"chess\" to simplify Your software development task by reducing the number of game rules that You have to describe in Your software.\n\nSome inspiration:\nhttps://boardgamegeek.com/boardgame/20605/100-other-games-play-chessboard\nhttps://en.wikipedia.org/wiki/List_of_chess_variants\nhttps://en.wikipedia.org/wiki/Dunsany%27s_Chess\n\n\nOr, You may also try to write an engine for those 2 similar games:\nhttps://en.wikipedia.org/wiki/Reversi\nhttps://en.wikipedia.org/wiki/Clobber\n\nThose games look simple at first glance, the amount of rules is pretty small, so unlike chess they are not as laborious to describe, but mathematically those 2 games are truly tough. Again, You really do not need any graphical interface for them. For testing and trying things out, You may just print the board state to console as text. Later You may upgrade Your \"chess playing engine\" by generalizing it and applying it by giving battle bots \"logical thinking\". The Artificial Intelligence camp has multiple branches. One of them is the neural networks, statistics, support vector machines, etc, that are used for recognizing patterns, dividing elements to different groups, etc. \n\nhttps://www.support-vector.net/\nhttps://www.tensorflow.org/\n\n\nAnother one is based on inference, the \"theorem provers\"\n\nhttps://coq.inria.fr/\nhttp://www.spass-prover.org/\nhttp://abella-prover.org/\n\nOften the various approaches are combined to form a mixed system.",
+				"added": 1511964632
+			}
+		],
+		"1_19RUZHcaNj247EGGxFXopJyaLwvcMPsYLZ": [
+			{
+				"comment_id": 91,
+				"body": "May be sometimes the question is not about money, but WHERE TO STORE ALL THOSE PAPER BOOKS after they have been read and how to get an electronic copy in a format that is also readable 10 years from now.",
+				"added": 1511774630
+			}
+		],
+		"1511551884_1PqPgJRxQNDQcWu57czCohVq92DkNytjHN": [
+			{
+				"comment_id": 92,
+				"body": "> [kopyjane](#comment_62_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): If I were in a situation where my home country is no longer an ideal place to live, I'd either try migrating legally, or fight to make my home country a better place.\n\nThe issue with the China is THE CULTURE, which dictates that no matter who is in the top, the top guys are legitimate. That's not only what the lowly educated people in China SINCERELY think, but that's what also many of the Chinese highly educated intellectuals think, even after living in the West. Consequently, if the top dogs in China make a mistake and drive the bus off the cliff, all of the Chinese will sit quietly in the bus, fully knowing what is happening, and thinking that they get a fair treatment. Some of the \"more corrupt\" people try to emigrate and escape the suffering.\n\nFrom that bases, the the best that can be done is to try to change the culture of the Chinese \"general public\" by opening the web up to them, by fighting the Chinese Firewall, and by \"containing\" the mess that is going on in China.\n\nThe more \"corrupt\" part of the Chinese middle class and upper class secretly circulates a joke that a huge war between the China and the Japan would be a very beneficial thing, because no matter, which side wins, the Chinese lay men will win: if the Japanese win, then we get rid of the Communist Party, and if the Chinese win, then we get rid of the Japan.\n\nThe cultural reference is that in the past the Japanese were occupying some of the mainland China and the Japanese regime was very brutal.",
+				"added": 1511775103
+			}
+		],
+		"1511773000_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 93,
+				"body": "If they can't defend themselves militarily, they are doomed. If they have been living under Assad for their whole life, then they do not really have much intellectual skill to suddenly start running their own joint in some \"humain\" and non-repressing fashion. Everything takes learning. Even having sex takes learning.",
+				"added": 1511775782
+			}
+		],
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 94,
+				"body": "The Dat is a copetitor to the ZeroNet and the IPFS.\nhttps://ipfs.io/\n\nIntroduction to Dat:\nhttps://www.youtube.com/watch?v=pi-kreA52oI\n\nDat repository:\nhttps://github.com/beakerbrowser/beaker\n\nIf You are really looking for various similar projects, then there is a whole list of links and references to that kind of projects at the Silktorrent Fossil repository:\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=List+of+Similar+Projects\n\nThe Silktorrent Fossil repository also includes a copy of the Dat protocol specification:\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/raw/Dat_Distributed_Dataset_Synchronization_And_Versioning_by_Maxwell_Ogden_and_Karissa_McKelvey_and_Mathias_Buus_Madsen.pdf?name=d4af904fa57c03cecb17de86770cd26c4f3215ad\n\nIf You are going to invest Your most valuable resource that You will ever have, Your life hours, into using any tool, including software, then it makes sense to pay attention to the LONG TERM AVAILABILITY of the tool, because it is the LONG TERM AVAILABILITY that determines, whether it is possible to RELY ON THAT TOOL. I cover that topic in more depth in one of my blog posts titled \n\"My Technology Stack in 2016_07 and How I Prefer to Choose it\":\nhttps://martin.softf1.com/g/yellow_soap_opera_blog/my-technology-stack-in-2016_07-and-how-i-prefer-to-choose-it\n(archival copy: https://archive.is/HWJje )\n\nBasically, the summary is that no project gets proper funding for a long period of time, which means that only the projects that are run with ZERO BUDGET survive \"financing winters\"\nhttps://en.wikipedia.org/wiki/AI_winter\nSoftware is usable only as long as all of its dependencies are met. A long term availability requires that all of the dependencies are met over the same, long, time period. The components do not need to be the same, if they can be easily swapped out, just like old Ford model T cars\nhttps://en.wikipedia.org/wiki/Ford_Model_T\ncan be run with tires that are made out of perfectly modern rubber and painted with modern paint.\n\nSo, comparing the different products only by looking at GUI and \"features\" is VERY SHORT SIGHTED.",
+				"added": 1511870124
+			},
+			{
+				"comment_id": 95,
+				"body": "> [polar](#comment_77_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): dat-node is distributed file system, at presentation layer\n\nThe \nhttps://tahoe-lafs.org/\nalso aims to use the distributed file system model, but it's not a general, \nopen, P2P network. The Tahoe-LAFS is for setting up private data centers.",
+				"added": 1511882293
+			}
+		],
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 96,
+				"body": "By pushing the database rebuild button in the zite settings panel it showed that the zite had about 17xx ~2k files.\nIt suspect that there might be an architectural flaw that all of the files are part of a single zite in stead of distributing the files between different zites. If the ~2k files are part of some web framework, like the Yahoo YUI\nhttps://yuilibrary.com/\nor some other web framework, then the thing to aim for is JavaScript minimization.\nhttp://yui.github.io/yuicompressor/\nhttps://closure-compiler.appspot.com/home\n\nIf the zite update at the Python side downloads zite files one by one, then even if the files themselves are small, the network latencies will add up and the situation will be the same as it is with the classical FTP: downloading an uncompressed tar-file is much faster than downloading the huge amount of small files in the tar file one by one.",
+				"added": 1511883793
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 97,
+				"body": "test",
+				"added": 1511920719
+			}
+		],
+		"1511946019_18q3WsqR7iwgwRTzsZcqDGf7zmVxCDEWHX": [
+			{
+				"comment_id": 100,
+				"body": "Boooooooooo (not condemning Your question, but trying to make the noise of a ghost or a monster)",
+				"added": 1511965562
+			},
+			{
+				"comment_id": 106,
+				"body": "https://www.youtube.com/watch?v=cU4qbnNmxWA",
+				"added": 1512133601
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 101,
+				"body": "A tagging based \"directory\" would be nice. \nAutomatic thumbnails from videos would also be nice. May be some JavaScript based software can extract a few frames from the video and give the users an option to choose, which frame they want to use for the thumbnail.\nhttps://github.com/mbebenita/Broadway",
+				"added": 1512129794
+			}
+		],
+		"1512061974_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 102,
+				"body": "> [kopyjane](#comment_70_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): we seem to be more focused on [sales] and getting people to artificially [like] your products .. [creating demand] .. getting them to buy crap they don't need.. ... as opposed to creating stuff that is genuinely useful. \n\nFrom a subjective perspective, I kind of agree with the fact that a lot of crap gets sold, but as long as people are FREEMINDED enough to reject a proposal that somebody else decides, what is good for them, the communist like PLANNED ECONOMY will not come to fruition. As someone, who has lived in the Soviet Union I can tell that TOLERATING CRAP is a LOW PRICE for having products that the majority of people considers to be crap, but what from my personal perspective are true CROWN JEWELS. Examples are most laboratory equipment, reagents, anything deep technical that requires deep expertise to understand. Just look how stupid the various \"legislators\" are at their \"laws\" and how little they understand, how things actually work. You do not want those people to start telling You, what is good FOR YOU!!! If You hope that some \"committee of experts\" starts to say, what is right and good for the rest of the population, then You may want to get acquainted with the fact that the 2013. physics Nobel prize was won for a claim that was totally rejected, ridiculed, by the premiere set of nuclear physicists at the CERN.\n\nhttps://www.youtube.com/watch?v=WAQqbhgwcp0&feature=youtu.be&t=31m56s\n\nIn the end, the Higgs boson experiment ended up being the most expensive infrastructure development project in the CERN.\n\nhttps://www.youtube.com/watch?v=yn24jK743gU\n\n> [kopyjane](#comment_70_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Why do you think there's more jobs in sales, and marketing, than in factories?\n\nThe marketing guys are shoddier at automating their tasks than engineers are, but if You compare the amount of extra revenue that human marketers can bring to a company that hires them with the revenue that the engineers bring to Google for automating the marketing, then the human marketers are without a job the moment the CEO-s start to compare their salaries with the cost/benefit ratio that the company gets by paying to Google, Twitter, Facebook.",
+				"added": 1512130537
+			}
+		],
+		"1_1CTSRUgBcYGvfN2Y1ttfcsMCZV5Y8DjVhb": [
+			{
+				"comment_id": 103,
+				"body": "A few links:\n\nStatistics school of thought:\nhttps://www.tensorflow.org/\nhttp://scikit-learn.org/stable/modules/svm.html\nhttps://www.cs.waikato.ac.nz/ml/weka/\n\n\nLogic school of thought:\nhttps://coq.inria.fr/\nhttp://abella-prover.org/\nhttps://www.mpi-inf.mpg.de/departments/automation-of-logic/software/spass-workbench/\n\nLinquistics related links:\nhttps://en.wikipedia.org/wiki/Computational_linguistics\n\n\nTest data:\nhttp://yann.lecun.com/exdb/mnist/\n\n\nVarious links:\nhttps://deeplearning4j.org/data-sets-ml\nhttps://www.degruyter.com/view/j/jagi.2015.6.issue-1/issue-files/jagi.2015.6.issue-1.xml\nhttp://www.jair.org/contents.html\nhttp://jmlr.csail.mit.edu/papers/\nhttps://en.wikibooks.org/wiki/Artificial_Intelligence\nhttps://openai.com/\n\n\nForums:\nhttps://lichess.org/qa/tag/engine\n\n\nImplementations:\nhttps://stockfishchess.org/\nhttps://code.google.com/archive/p/aima-python/\n\nHave fun!",
+				"added": 1512132808
+			},
+			{
+				"comment_id": 104,
+				"body": "This AI construction idea related discussion seems to partly overlap with the discussion at \nhttp://localhost:43110/Talk.ZeroNetwork.bit/?Topic:1511719880_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY/Brainstorm+Assistance+for+IT+project",
+				"added": 1512133108
+			},
+			{
+				"comment_id": 105,
+				"body": "> [kopyjane](#comment_72_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): What will be the purpose of the AI.. assist with what?\n\nhttps://www.youtube.com/watch?v=TPLEjs7im9c\n\n:-D",
+				"added": 1512133283
+			}
+		],
+		"1511892314_1KEYVUe9VwFbDCjZfkAt34SAHpz5Ds5WxQ": [
+			{
+				"comment_id": 107,
+				"body": "Ahah, copyright related business model at ZeroNet, a publishing platform that has been created by the founders of the PirateBay to counter the server take downs. Nice try!",
+				"added": 1512133991
+			},
+			{
+				"comment_id": 111,
+				"body": "> [kopyjane](#comment_74_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Do the ZeroNet creators really have ties to Pirate Bay?\n\nThe user \"nofish\", who is, hopefully, going to increase Your character limits on this very same forum, if You run out  of characters due to the 100K limit, is the Peter Sunde. If I remember it correctly, he describes the history of the PirateBay and the ZeroNet origins at his interview at\nhttps://www.youtube.com/watch?v=3MjCM1e87kA",
+				"added": 1512209904
+			}
+		],
+		"1511471860_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": [
+			{
+				"comment_id": 108,
+				"body": "Linux distributions and the various window managers are so different that it would be foolish to even try to package ZeroNet so that it creates desktop shortcuts, except  may be on Windows and MacOS, where there is no variety.\n\nWhat You should do is study the documentation of Your window manager and then try to create the desktop shortcut Yourself. I suggest that in stead of a desktop shortcut You just add \n\nhttp://localhost:43110/\n\nto the bookmarks of Your browser. If You are using Bash as Your default shell, then You may\nalso launch the web browser with the ZeroNet server GUI URL from console and You have an option to either create a Bash script that executes the command or add an alias to the \n\n    ~/.bashrc\n\nAn example of an alias that launches Kate\n\n    alias my_command_for_running_kate=\"nice -n4 kate \"\n\nIt can be useful to prefix all of Your own aliases with some prefix, like\n\n    alias joe_my_command_for_running_kate=\"nice -n4 kate \"\n    alias joe_my_command_for_opening_ZeroNet_UI=\"nice -n4 chromium      http://localhost:43110/ \"\n\nbecause the Tree ecnoding\nhttps://bitrary.softf1.com/index.php?title=Art_:_Source_Code#Tree_Encoding\nallows You to type \"joe_\" to the console and then hit the tabulation (Tab) key to \nget the list of all of Your aliases. After seeing the list You may type a few more characters\nand hit the tabulation character again to avoid typing in the whole alias name manually.\nTo test the aliases, a new console window has to be opened, a new console session must be started. The ~/.bashrc is read and executed at the start of every terminal window session. The aliases are much more portable and reusable than window manager specific desktop icons would be. Bash documentation:\n\nhttp://tldp.org/LDP/abs/html/\nhttp://www.etalabs.net/sh_tricks.html\n",
+				"added": 1512172188
+			}
+		],
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 109,
+				"body": "SVG support, if it does not yet exist. Tagging. List of blog posts and their tags.",
+				"added": 1512173180
+			}
+		],
+		"1512179082_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 110,
+				"body": "I'm one of those \"textbook programmers\" and one thing out of many things that software development skills have changed my way of doing non-softwar related activities is that I literally try to optimize my daily activities so that delays are minimized, number of my, human, actions is minimized, the cost is minimized. \n\nFor example, in the case of software development, algorithms tend to be optimized so that congestion at the moving of data is avoided and \"bottlenecks\" are handled by distributing the data movement over a wider period of time. I try to do similar thing in my daily activities: I intentionally visit grocery store at a time interval, when others are not there, because then I can move quickly with my shopping cart without having to navigate around other people in the shop and that way I can also avoid a DELAY at the cashier queue. The same with driving: If possible, I pick a time frame when all of the streets are empty.  One of my software developer colleagues even came to work literally by 7.00AM to avoid standing behind traffic lights at the 7.30 traffic, when the majority of people, who started their work day at 8.00, tried to drive to work. And, of course, the classical algorithmic complexity optimization gets used a lot, specially the idea that if I have to go to place X anyway, then I try to plan my other activities, for example, activity at place Y, so that I do not have to dress up and tie my shoe laces just to go to Y, because I have to tie my shoe laces to go to X anyway, so I also visit the place Y with the same run.\n\nAnother example, where I think very algorithmically is that I almost never go out of my flat specially to take out trash. I know that I have to put on my outdoor clothing anyway to go to groceries, so I take the trash out on my way to the groceries. No extra walking around. The same with internet shopping in general: I do not pick the parcels up one by one as they arrive, but I pick them up all at once when there's a small batch of them.",
+				"added": 1512208635
+			}
+		],
+		"1512180872_1NyEgZtMnGchTioUjPQMKGGvi74XSuwcJs": [
+			{
+				"comment_id": 112,
+				"body": "May be he wants to die in the vacuum of space and needs money for a space tourist ticket.\nSorry, but You got to pay for Your own funerals. No free dying.",
+				"added": 1512212298
+			}
+		],
+		"1512178065_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 113,
+				"body": "It took me a while to figure it out over the years, but the answer to that issue is actually very simple: the hard work is ESSENTIAL FOR SUCCESS, but ONLY, IF YOU DO THE HARD WORK FOR YOURSELF in stead of being a hard working slave for others. That explains, why one must STUDY HARD, WORK HARD and to be in as good shape as possible for the hard work, also PLAY HARD!\n\n\nTalking about \"playing hard\", if intercourse or a fine masturbation session takes about 5 minutes, then is it really worth to spend hours on socializing and flying to Paris to get laid? Or, at the socializing front, which is also a natural need of humans, is it really worth \"hanging around\" on multiple days, when one can just have a fine, intellectually engaging party that one remembers for some time? So, working heard does not exclude awesome social experiences and \"everlasting hanging around friends\" does not necessarily offer an awesome social experience that one remembers so well that one's mind can feed off of it for some time, while one WORKS HARD (on one's own projects, not as a slave for others).\n\n\nI always wondered, how can Americans, of all people, be the stupid ones, who accept BAD DEALS in stead of being entrepreneurial? The complaining that \"there is a wolf in the forest that eats me and I can not possibly do anything about it, because there's just one of me and the wolf pack is big and I do not have weapons and nobody ELESE helps  me either\" is absurd. One must ADOPT TO THE NATURE, which is NOT THE SAME AS ACCEPTING THE NATURE'S WILL. If there's rain, then in stead of complaining about it, one should look for shelter or open an umbrella. If there are wolves, bears, sharks, then one develops weapons and watches, where and when and how one goes in stead of complaining and whining about it. And, when there is the \"banksters, Illuminatei, the 1%, the American Corporations, local gang violence, Deep State, Big Brother\" then again, ADOPTION TO THE NATURE IS NOT LETTING THE NATURE GET ITS WILL, but adoption to the nature is PREPARATION, STRATEGIZING, CHOOSING A PLACE AND TIME FOR ONE'S ACTIONS, FURNISHING ONESELF WITH PROPER EQUIPMENT.\n\n\nThe ZeroNet, for example, is an equipment acquisition project for the PirateBay founders. Their servers got taken down, they even sat in prison, but in stead of whining that \"SOMEBODY PLEASE DO SOMETHING\", they ADOPTED TO THE NATURE: \"You took down our servers? Fine. Here's our answer: ZeroNet.\" And the game will go on. The same with the Tor and other privacy enforcement tools. Just imagine, how far would Julian Assange or Edward Snowden get, if they did not do HARD WORK for THEIR OWN INTERESTS? Is it necessary for the Julian Assange to do a lot of HARD STUDYING to keep himself skill wise IN SHAPE to be able to run the WikiLeaks? I believe the answer to be certainly YES, Julian Assange has to learn and work HARD to keep afloat. His work days are probably very intense. At least intellectually and from self discipline point of view.\n\n\nI guess that I pretty much said it all, but You may also want to read the thread titled \n\"I Fucking Hate College\":\nhttp://localhost:43110/Talk.ZeroNetwork.bit/?Topic:1511360238_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE/I+Fucking+Hate+College",
+				"added": 1512225252
+			},
+			{
+				"comment_id": 114,
+				"body": "What regards to the statement that person P1 is AFRAID to do action A1, for example, a person P1 is AFRAID to do something, because he/she is AFRAID to loos his/her job or is AFRAID to loose his/her life, then the \"being afraid\" condition is essentially a calculation result by the person P1 that he/she has more to loose than win, if he/she carries out the action A1, for example, \"blowing a whistle\". \n\nEven linguistically the expression, \"I'm afraid of snakes\", expresses the idea that I do not want to interact with the snakes freely, because according to my estimation I have MORE TO LOOSE THAN TO WIN from the interaction. In the same vain I may say: \"I'm afraid of dictators\". After all, if a dictator orders my assassination, then I loose my life. With the exception of subconscious phobias that take years of psychotherapy to MITIGATE, not eliminate, the question of NOT BEING AFRAID comes down to shifting the cost-benefits comparison.\n\nI'm afraid to do A1:\nmy_winnings_from_A1  <<<  my_losses_from_A1\n\nI'm NOT afraid to do A1:\nmy_losses_from_A1 <<< my_winnings_from_A1\n\nI do not care, whether I do A1 or not:\nmy_losses_from_A1 ===  my_winnings_from_A1\n\nCalculating the losses and winnings is dependent on the persons mental capabilities. If a person is not curious enough for the current \"world order\",  social arrangements, social rules, to be a hindrance to his/her life, then the LOSSES of \"shaking the boat\" are greater than the winnings. For a more curious person the winnings are greater than the losses. So, that explains, why mostly the dumber part of the population CONFORMS to whatever is fed to them and the smarter ones, the \"intellectuals\"(read: IQ wise mentally handicapped by the \"normal\" IQ standards of the people from 1000 years from now) WORK HARD to change the system, despite the hardships and losses. \n\nHumor: the author of the Perl language, the Larry Wall said somewhere at the interview\nhttps://www.youtube.com/watch?v=aNAtbYSxzuA\nsomething like that: \"A rational person does not try to change the world, therefore all world progress is based on the irrational people.\"\n\nI guess that the meaning of the COW-ARDLINESS \nis best explained by the Eurythmics song, \"Sweet Dreams\"\nhttps://www.youtube.com/watch?v=qeMFqkcPYcg\n\"A cow does not care, on which grassland it chews grass or who milks it.\"\n(It's an old song, but please watch the whole video again and please pay attention to the words AND THE VIDEO SCENES)\n\nI think that a relevant observation about social systems is also that one dog drainer, who trains Police and Rescue dogs for a living, said in one podcast that only those dogs are trainable, who have SOME KIND OF A DRIVE. What exactly the drive is, food, playing, petting, does not even matter, all drives will do, but without any kind of a drive the dog is UNTRAINABLE. In the case of humans, people with dementia, which is a different condition than depression, do not learn and they lack incentives to stand for their interests even to the extent that they would take care of their physical needs, even when they have the muscles to do it.",
+				"added": 1512227458
+			}
+		],
+		"1512623414_1HBy99H2dsCwevdYZp8VVC2SVG69DGVyEd": [
+			{
+				"comment_id": 115,
+				"body": "I believe that if the lawyers and loot(\"tax money\") based income dependent crowd(\"government sector\" and its subcontractors) were not aware of the \"clearnet\", then there would not be the various internet censorship cases\n\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/wiki?name=Philosophical+Test+Cases\n(archival copy: https://archive.is/4Oc7B )\n\nIf You look at Twitter and Facebook, then it's kind of easy to get a lot of fame there, but the easily attainable fame, list of followers, tends to be pretty \"low quality crowd\", which is why I enjoy the small group of \"high quality\" followers that I have at Twitter. Just imagine the amount of spam and court cases, if all of the Twitter and Facebook crowd were to start using the ZeroNet? Most likely then some entity, may be a \"government\" sub-department, would create a special version of the ZeroNet client that allows central deletion of locally stored zites and the ZeroNet clients that are \"disobedient\" would be de facto outlawed, just like MP3 decoders were \"outlawed\" once upon a time. That is to say, the fact that the ZeroNet attracts only the most curious and technically capable crowd, is a Good Thing. \n\nSecondly, just like different people divide between different search engines and different social networks, there will be a division within the crowd that uses P2P networks and privacy enforcement tools(Tor, GNUnet, etc.). Even the terribly old and slow Freenet is still \"alive\", so as long as the ZeroNet is INSTALLABLE and RUNNABLE, it will be alive, even, if the number of sites is very low.",
+				"added": 1512683882
+			}
+		],
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 116,
+				"body": "https://www.zerogate.tk/\nseems to work fine. (It is NOT my project.)\n\nWhat regards to the idea that files are classified as \"big files\" and \"not big files\", then in stead of using an arbitrary constant for the file size threshold it would make much more sense that people have a variable at their ZeroNet node settings. The name of the variable should reflect the meaning of it. Some name candidates:\n\ni_max_size_in_bytes_for_autopinnable_files\ni_autopinnable_file_max_size\ni_autopinnable_file_max_size_in_bytes\n\nActually, I think that the UNIT is important in the name. It removes a lot of confusion. The prefix \"i_\" is to indicate that the variable is meant to hold a whole number, which can be greater than the classical 4B C/C++ int. I have found it to be useful to use the same names in configurations and in the implementation source code. Examples of the prefixes that I use are described at:\nhttps://github.com/martinvahi/mmmv_devel_tools/blob/master/src/bonnet/lib/kibuvits_ruby_library/doc/examples/lesson_01_naming_conventions.rb\n\nThe general idea of the naming is based on the \"tree encoding\":\nhttps://bitrary.softf1.com/index.php?title=Art_:_Source_Code#Tree_Encoding\n\nThe default value for the \ni_autopinnable_file_max_size_in_bytes\nmight be 10K.\nThe suffixes K=1024,M=1024^2,k=1000,G=1024^3, etc. might be a fancy improvement, but at first those might be skipped.",
+				"added": 1512738965
+			}
+		],
+		"1512674582_19hoduLR1FWYebZFxdJsgbEYvhrdxN5AP9": [
+			{
+				"comment_id": 117,
+				"body": "The the definition of a \"motherfucker\" already answers Your question. I do not imagine myself ever doing anything like that, but the English language is remarkably flamboyant.",
+				"added": 1512740017
+			}
+		],
+		"1512740015_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 118,
+				"body": "For security reasons tests like that should be carried out in a virtual appliance, may be VirtualBox or something similar. However, VirtualBox based appliances still have access to CPU-level back doors.",
+				"added": 1512755182
+			}
+		],
+		"1512712007_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 119,
+				"body": "You need a contingency plan, if they start to assassinate the \"freedom fighter hackers\". One way that they can do it is to collaborate with the \"authorities\": first get the InterPol or some other scheme to get the person out of the \"civilized\" world and then torture the person to death or to some serious mental and/or physical handicap.\n\nhttps://www.hrw.org/news/2006/11/09/sweden-violated-torture-ban-cia-rendition\n\nhttp://www.cbc.ca/news/politics/canada-accused-of-complicity-in-torture-in-un-report-1.1166597\n\nI'm not anonymous on ZeroNet, because ZeroNet is not anonymous by nature, but the lack of anonymity allows me to openly point You to some of my blog posts:\n\n\"Yet Another view About Organizational Secrets, Episode 1\"\nhttps://martin.softf1.com/g/yellow_soap_opera_blog/yet-another-view-about-organizational-secrets-episode-1\n\n\"The Future of Security Audits, Episode 0\"\nhttps://martin.softf1.com/g/yellow_soap_opera_blog/the-future-of-security-audits-episode-0\n\nI have some hazy lines of thought scattered around the bitrary Wiki:\nhttps://bitrary.softf1.com/index.php?title=Physical_Security\nhttps://bitrary.softf1.com/index.php?title=Software_Development_:_Security\n\nYou may also want to study the various materials at my Silktorrent Fossil repository.\n(A redirecting URL)\nhttps://silktorrent.softf1.com/\n\nspecially the \"The Byzantine Generals Problem\":\nhttps://www.softf1.com/cgi-bin/tree1/technology/flaws/silktorrent.bash/raw/The_Byzantine_Generals_Problem_byLESLIE_LAMPORT_and_ROBERT_SHOSTAK_and_MARSHALL_PEASE.pdf?name=baf15d022e30fd2dfaa7a35f7789d5ed1823413f\n\nIf You are a dissident at Your home region, \"country\", then the local supermafia, \"government\", is happy to hand You over to some nasty torturers in some \"legally correct manner\".",
+				"added": 1512755720
+			},
+			{
+				"comment_id": 120,
+				"body": "> [obiwanzanobi](#comment_70_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): I'm in. What can I do to help?\n\nFirst PLAN for the various options. PLAN FOR MULTIPLE LEVELS IN THE GAME TREE. Plan also, how You are going to protect Your loved ones. \n\nBy the way, I'm not saying that there is no way to be nastily destructive without suffering. The Estonian current supermafia got its \"independence\" from the Moscow supermafia(Soviet Union) by playing within the rules, step by step, undermining the nasty Soviet system. I suggest that You study, how the Soviet collapse was sped up. Also, please bare in mind that the most ELITE part of the Russian mafia is/was ex-KGB combined with people, who have doctoral degrees. Clearly some crooks have brains.\n\nSo, what can You do? YOUR HOMEWORK!",
+				"added": 1512756385
+			}
+		]
+	},
+	"comment_vote": {
+		"18_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": 1,
+		"76_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"1_1Ke6ak6mpmvEKoVKWthR1tBucRuowq2hTE": 1,
+		"54_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"2_12UZAaKqiM7JEV1SbCcTBoQzf75ghNgc8o": 1,
+		"3_1DF8dFxXTxMjyZ9o96iPENud3ihbS95Jwb": 1,
+		"2_1gJPRbL7puiekYd32rYVuCkELC43bCsY9": 1
+	}
+}

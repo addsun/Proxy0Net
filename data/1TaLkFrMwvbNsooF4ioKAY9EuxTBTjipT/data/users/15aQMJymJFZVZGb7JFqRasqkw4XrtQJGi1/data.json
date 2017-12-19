@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"7_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 1,
+				"body": "Out of curiosity, what would be the benefit of using ipfs in conjunction with zeronet?",
+				"added": 1503740855
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_986_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's more focused on storage use case and has big file support (currently wip for zeronet)\n\nThanks! And would files in ipfs be \"hosted\" only by ipfs nodes, or also by zeronet users?",
+				"added": 1503755702
+			}
+		]
+	},
+	"comment_vote": {
+		"986_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

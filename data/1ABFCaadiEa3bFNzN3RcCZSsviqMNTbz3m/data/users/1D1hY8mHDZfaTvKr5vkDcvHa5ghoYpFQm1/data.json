@@ -1,0 +1,42 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Wzw",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1512490512,
+			"body": "你好 ZeroMe!"
+		}
+	],
+	"bgColor": "#D30C37",
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "162KV7WAD67rVpSpWxGLuFhjYAKFPbXGGw",
+			"user_name": "Zerogithub",
+			"date_added": 1512490536
+		},
+		{
+			"follow_id": 2,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y",
+			"user_name": "老司机福利",
+			"date_added": 1512490582
+		},
+		{
+			"follow_id": 3,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "12PJkhsgL3FbJdFuyuBwRNkTgt5CCShWnp",
+			"user_name": "Zeronewspaper",
+			"date_added": 1512490714
+		}
+	]
+}

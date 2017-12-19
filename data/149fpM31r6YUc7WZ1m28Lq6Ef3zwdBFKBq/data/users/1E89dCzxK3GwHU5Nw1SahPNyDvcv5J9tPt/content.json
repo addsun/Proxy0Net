@@ -1,0 +1,17 @@
+{
+ "address": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+ "cert_auth_type": "web",
+ "cert_sign": "HMUT0Uao+AzGdEkLOjYJ4jFkt2pT2tYDJh52NXxjGfR+fPKVOcaHI51JJiE7Af4+bohjih7dFQKccvHwQrlvwWM=",
+ "cert_user_id": "begdi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ba506e7d7e1f2b9a66d94cc07fafa78aeecb01087bdb016a873d311ddc2354e0",
+   "size": 427
+  }
+ },
+ "inner_path": "data/users/1E89dCzxK3GwHU5Nw1SahPNyDvcv5J9tPt/content.json",
+ "modified": 1491566115,
+ "signs": {
+  "1E89dCzxK3GwHU5Nw1SahPNyDvcv5J9tPt": "HNMfwN8YBWk0lpOg0gcEoWSgR9MgEHxXliqfyGoeeUf8ABcD6V1lPCItPRjPRGubP/a0XLyzX836lGpQMKQcduU="
+ }
+}

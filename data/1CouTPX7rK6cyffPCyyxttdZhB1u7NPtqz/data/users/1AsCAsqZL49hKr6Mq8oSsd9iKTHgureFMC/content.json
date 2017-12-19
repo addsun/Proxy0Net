@@ -1,0 +1,21 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "G9rEHLA6nkKdjRVqcZrxt3GgTmxC/2BwBjy/APy//3tsgfHOuMBh4KSk1oSoBq0y2u5j3yXJd9RDDK2wo+cSXx8=",
+ "cert_user_id": "emma1989@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3e61e3b9e06c3d097c2e82f27d2da03bf1ae557342e6f52364b7f16ba563e8ad",
+   "size": 1055
+  },
+  "data.json": {
+   "sha512": "2e7724ee6490a548a3e0e716be4705d25b7e8747f861063c63d12d452635b547",
+   "size": 7206
+  }
+ },
+ "inner_path": "data/users/1AsCAsqZL49hKr6Mq8oSsd9iKTHgureFMC/content.json",
+ "modified": 1507392549,
+ "signs": {
+  "1AsCAsqZL49hKr6Mq8oSsd9iKTHgureFMC": "G8iNv/JW4Ruawf8RZlpceR4Qlt7dBryfcNrssvD9W7QFeKAlB2t6EcluGtTEUVzmUcTOhLahpQ0Pol4Murf8Svw="
+ }
+}

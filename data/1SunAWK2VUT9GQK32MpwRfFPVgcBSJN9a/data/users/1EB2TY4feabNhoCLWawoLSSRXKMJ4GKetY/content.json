@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCM2HiebpKHyp0UfRwetidbWmu9GlC1ehwip8kJaKJJF7Q3v2bt/q7BZyT1Zz8JAtr2ko80+Lk1YWDuXia86rSc=",
+ "cert_user_id": "magentaoarsman@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "510572c728f84af57b852af89eee735a5d627708dc17f86130830c26871f35e5",
+   "size": 1398
+  },
+  "data.json": {
+   "sha512": "631661849765f07420245e9eb0e48f985ec1a0c5760e0cd3df0a33ec4e4e60ca",
+   "size": 236
+  }
+ },
+ "inner_path": "data/users/1EB2TY4feabNhoCLWawoLSSRXKMJ4GKetY/content.json",
+ "modified": 1503940657,
+ "signs": {
+  "1EB2TY4feabNhoCLWawoLSSRXKMJ4GKetY": "HO7PhXwn0B8rnIa20GN+11I0+LWahxZWUN/d4lEf5E4AR2lZZAaAV3bf+9YMqmUoP8UdOdh1I8yQXbsLipN2/Js="
+ }
+}

@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 14,
+	"avatar": "generate",
+	"user_name": "Ethcat",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507986259,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507986435,
+			"body": "So I followed myself.",
+			"date_added": 1507986433
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "166Uvhrh3mUkKev8AkMNZpgmu8mZfMWcTf",
+			"user_name": "Ethcat",
+			"date_added": 1507986384
+		},
+		{
+			"follow_id": 2,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "166Uvhrh3mUkKev8AkMNZpgmu8mZfMWcTf",
+			"user_name": "Ethcat",
+			"date_added": 1507986983
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "166Uvhrh3mUkKev8AkMNZpgmu8mZfMWcTf",
+			"user_name": "Ethcat",
+			"date_added": 1507988102
+		},
+		{
+			"follow_id": 5,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "166Uvhrh3mUkKev8AkMNZpgmu8mZfMWcTf",
+			"user_name": "Ethcat",
+			"date_added": 1507988411
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 1,
+				"body": "Just fixed a big ass bug. Video URL router now uses the [certificate user id] + [video date added] in order to link to a video.\n\nThis should also fix video comments .. because the Json ID fluctuates between ZeroNet instances, whereas the UserID always stays the same in the database.",
+				"added": 1508903337
+			}
+		]
+	},
+	"comment_vote": {}
+}

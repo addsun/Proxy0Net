@@ -1,0 +1,65 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Stolivodka",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504630799,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1505311639,
+			"body": "Does anyone know where I can find some zeroframe API tutorials that use straight Javascript?",
+			"date_added": 1505311637
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ZN is really still at the \"hello world\" stage. Once someone develops a \"killer app\" using the technology, it'll take off imo",
+			"post_uri": "1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ_1504410172",
+			"date_added": 1504632235
+		},
+		{
+			"comment_id": 2,
+			"body": "@Krixano: You seem to know what you're talking about!",
+			"post_uri": "1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ_1504410172",
+			"date_added": 1505311230
+		},
+		{
+			"comment_id": 3,
+			"body": "@Polar: Is Javascript really hard?",
+			"post_uri": "19pe5VR2LxcYpEcY8yFPSUjXo7rTsWxtTY_1505311639",
+			"date_added": 1505338484
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ",
+			"user_name": "Michael",
+			"date_added": 1504632170
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1504632273
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13aB79mzuRLgDYzQthn9wzycjw77WyDXh6",
+			"user_name": "Polar",
+			"date_added": 1505338843
+		}
+	]
+}

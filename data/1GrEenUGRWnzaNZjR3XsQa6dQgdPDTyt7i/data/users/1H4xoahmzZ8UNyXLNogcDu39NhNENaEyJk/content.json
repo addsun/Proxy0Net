@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HIGYnriT9KdX8C20x2beACzZeyhGQaFBZSuBmJWH34eZNSX7+K63jgnmPDntGPqLAeeqWH0hHOCc06cQKHpLu+w=",
+ "cert_user_id": "vanta@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "91f23d1300ae4ee5fc6fd79ab160b93ace936581eea65b1c257b27528f073b63",
+   "size": 2092
+  },
+  "data.json": {
+   "sha512": "cd67720d128cd8702a84a9a89c013191583040b48d2d61adf8d6c15927d0bb76",
+   "size": 4271
+  }
+ },
+ "inner_path": "data/users/1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk/content.json",
+ "modified": 1473972023.97276,
+ "signs": {
+  "1H4xoahmzZ8UNyXLNogcDu39NhNENaEyJk": "HFGIprhnQ9+2FGVIjoz9/fPD4sWvcBXPCDbJIbAKvEwsmhrGIXJbRrw9nW+SOAGK7s5jmoKsQDSqaDO0/8frfxE="
+ }
+}

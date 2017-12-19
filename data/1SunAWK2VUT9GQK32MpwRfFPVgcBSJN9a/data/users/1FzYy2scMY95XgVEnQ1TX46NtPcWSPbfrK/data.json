@@ -1,0 +1,342 @@
+{
+	"next_post_id": 24,
+	"next_comment_id": 44,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "9000",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513325440,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1513326054,
+			"body": "调试了2天zeronet的python2.7源码，所以这两天没有洪水，不好意思，让大家失望了。\n所以只是想让洪水更大一些罢了。😁 😁 😁 \n另外，本项目希望开源，欢迎加入。\n* 推荐大家想进行本项目的用PyCharm断点调试，已测试，很有用，支持不同模块里下断点，不支持中文注释，不然会报错。\n* 目前断点，我设在`core\\plugins`和`src\\User\\`和`src\\Plugin`目录里的`.py`程序里。类定义里也可以下断点。\n* 目前windows可以安装python2.7和3.6两个版本了，可以共存，python官方已解决这个问题。\n* PyCharm的原理是创建一个python虚拟环境，可以选择已安装的python版本，选中下载的第三方库加入虚拟环境，然后建立python项目。",
+			"date_added": 1513326052
+		},
+		{
+			"post_id": 1513335288,
+			"body": "你攻击不破Tor的。楼下。这连美国都攻不破。",
+			"date_added": 1513335285
+		},
+		{
+			"post_id": 1513345003,
+			"body": "你走Tor龟速，别人不龟速。或许是你们，总之我不龟速就是了。我能如何。",
+			"date_added": 1513344999
+		},
+		{
+			"post_id": 1513352217,
+			"body": "大多数书上说，美国籍匈牙利裔科学家冯·诺依曼（John Von Neumann ， 1903-1957）是电子计算机的发明人。匈奴很聪明！？～\n所以说计算机并不是基于在26字母的英语上。",
+			"date_added": 1513352212
+		},
+		{
+			"post_id": 1513419206,
+			"body": "学外语",
+			"date_added": 1513419200
+		},
+		{
+			"post_id": 1513419713,
+			"body": "a b c d e f g h i j k l m n o p q r s t u v w x y z",
+			"date_added": 1513419706
+		},
+		{
+			"post_id": 1513426600,
+			"body": "调试代码真的很枯燥",
+			"date_added": 1513426592
+		},
+		{
+			"post_id": 1513426691,
+			"body": "你们这帮地中海歪果仁，是不是因为你们那潮湿，所以什么都烤啊。",
+			"date_added": 1513426682
+		},
+		{
+			"post_id": 1513428541,
+			"body": "欧亚非大陆是一块大陆，怎么古代只有中国地图，没有欧亚非整块板块的地图呢。\n那美洲古代是不是南美也不知道北美，北美东面也不知道西面呢。",
+			"date_added": 1513428531
+		},
+		{
+			"post_id": 1513433141,
+			"body": "歪果仁好像不用豆油做菜，都用黄油。",
+			"date_added": 1513433130
+		},
+		{
+			"post_id": 1513438711,
+			"body": "北京清外地人口，清没清歪果仁。",
+			"date_added": 1513438699
+		},
+		{
+			"post_id": 1513446108,
+			"body": "楼下的麻瓜，你下个新版本不就行了。再不行重装系统。\n你那zeronet提供的报错，这么不详细，就TMD 2行重复着，然后写到error.log里，再把error.log重命名一下，这能看出个毛问题。",
+			"date_added": 1513446095
+		},
+		{
+			"post_id": 1513448663,
+			"body": "似乎楼下植入广告的饭碗又被抢了。",
+			"date_added": 1513448649
+		},
+		{
+			"post_id": 1513514706,
+			"body": "xxx",
+			"date_added": 1513514683
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Polar: 我不打算用html js代码洪水，准备用python进行zeronet核心代码洪水程序进行。效果应该会更流畅。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513326491
+		},
+		{
+			"comment_id": 2,
+			"body": "@Atheist: 版本号可能记错了，因为我从来没用过python，哈哈，会的语言太多，所以一般不专一某一语言。\n我把3.6和2.7后面的小数记混了。不好意思。谢谢提醒。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513326621
+		},
+		{
+			"comment_id": 3,
+			"body": "@Atheist: 一起来吗？开发zeronet的python2.7洪水项目，欢迎加入。XD",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513327159
+		},
+		{
+			"comment_id": 4,
+			"body": "@12h Study: 目前的项目目标就是突破目前的block插件。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513328386
+		},
+		{
+			"comment_id": 5,
+			"body": "@BTC-E: 算是吧，可以说包括。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513329130
+		},
+		{
+			"comment_id": 6,
+			"body": "@BTC-E: 是的，目前zerome可以试试。这里人比较多些。被测试资源多。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513329290
+		},
+		{
+			"comment_id": 7,
+			"body": "@BTC-E: 这么多用户资源不好找。应该好好利用。我是纯技术，没有寻求刺激的内容。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513329381
+		},
+		{
+			"comment_id": 8,
+			"body": "@BTC-E: 你找刺激就免了",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513329561
+		},
+		{
+			"comment_id": 9,
+			"body": "@Polar: 可不可以支持虚拟电话",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513330493
+		},
+		{
+			"comment_id": 10,
+			"body": "@Mv00: 没这么伟大，只是只会编程罢了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513330676
+		},
+		{
+			"comment_id": 11,
+			"body": "@Mv00: 不缺德，学了一辈子编程，不编程，我只能当植物人了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513330778
+		},
+		{
+			"comment_id": 12,
+			"body": "@Mv00: 不是所有人都可以当总统的殴。但是所有人都可以骂他。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331067
+		},
+		{
+			"comment_id": 13,
+			"body": "@Polar: 盖楼不容易，推楼容易。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331171
+		},
+		{
+			"comment_id": 14,
+			"body": "@Mv00: 你说的有道理",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331239
+		},
+		{
+			"comment_id": 15,
+			"body": "@Mv00: 所以，我想希望点到而至。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331317
+		},
+		{
+			"comment_id": 16,
+			"body": "@Polar: 攻击者应该是暗处。你弄反了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331545
+		},
+		{
+			"comment_id": 17,
+			"body": "@Mv00: 我更喜欢挑别人的错。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331590
+		},
+		{
+			"comment_id": 18,
+			"body": "@Mv00: 死板的报告，我不喜欢。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513331964
+		},
+		{
+			"comment_id": 19,
+			"body": "@BTC-E: 我想到过一个小办法。但是也只能获取到代理ip吧。最最简单的办法是自己写个网站，然后引用www网站代码，让www的服务器来进行分析浏览者的数据就可以了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513335418
+		},
+		{
+			"comment_id": 20,
+			"body": "@Vea: 不是吹牛，我并不想把zerome炸了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513336043
+		},
+		{
+			"comment_id": 21,
+			"body": "@霸王寨第一光头: 这算钓鱼吗？我只是以技术角度上看这个问题。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513336258
+		},
+		{
+			"comment_id": 22,
+			"body": "@霸王寨第一光头: 那如果在hub上加上www服务器内容的引入呢？",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513336424
+		},
+		{
+			"comment_id": 23,
+			"body": "@霸王寨第一光头: 我今天想把头像改成www服务器上的图片，从此知道看到我帖子的是哪个ip下载的www服务器图片，不过没成功。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513336554
+		},
+		{
+			"comment_id": 24,
+			"body": "@霸王寨第一光头: 不过我一些自己做的网站，似乎已经成功了。所以，私人网站，慎重加入。只需要在网站里加一个hide属性的很小的自己www服务器上的图片，就可以在自己服务器上看到哪个ip下了图片。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513336707
+		},
+		{
+			"comment_id": 25,
+			"body": "@霸王寨第一光头: 比如你在你的zeronet博客里加一个hide属性的www服务器上的小图就可以看到哪些ip访问过你的博客了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513337013
+		},
+		{
+			"comment_id": 26,
+			"body": "@霸王寨第一光头: 那就是写一个zeronet插件，给用户用，就可以自己开本地端口把本机数据发给你了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513337405
+		},
+		{
+			"comment_id": 27,
+			"body": "@霸王寨第一光头: 你的意思是要找到zeronet的漏洞才是主动攻击。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513338736
+		},
+		{
+			"comment_id": 28,
+			"body": "@霸王寨第一光头: 找墙上的洞，或把里面的人喊出来。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513335288",
+			"date_added": 1513339612
+		},
+		{
+			"comment_id": 29,
+			"body": "@Atheist: 是，我也看不太好，理念不错，可是以目前的情况来讲，不容乐观。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513340306
+		},
+		{
+			"comment_id": 30,
+			"body": "@Atheist: 呵呵，你说这个，我想起一个，可以把头像png文件弄大。当然png是50X50像素，但是可以变成apng格式，里面加上1亿个50X50的png帧。不知道能不能让zerome用户瞬间都流量卡死。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513341950
+		},
+		{
+			"comment_id": 31,
+			"body": "@Vea: 这个还是算了，就算可以，惹的人也太多了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513342796
+		},
+		{
+			"comment_id": 32,
+			"body": "@Vea: 那要这样，content.json也行不通了。不过这让我想到一个问题，发送如果有限制，接受有没有限制，如果接受没有限制，可以改一下自己客户端python代码，把限制去掉，然后给所有peers主动发大文件。\n接收端，只能根据content.json判断文件大小吧，但实际文件大小它们就没法判断了，就给它们发很多zerome里的大文件就好啦。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513342984
+		},
+		{
+			"comment_id": 33,
+			"body": "@Vea:` [21:12:49] Site:1oranG..4k9v Successfuly data/users/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/content.json published to 3 peers, publishing to 3 more peers in the background`\n`[21:16:37] Site:1SunAW..JN9a [OK] 93.239.152.69:15441: File not changed 7/10`\n`[21:16:42] Site:1SunAW..JN9a [OK] nit75j2tnf6chvhz.onion:15441: File not changed 8/10`\n就是先发content.json，然后接收端根据这个文件与自己的文件对比，看有没有变化，有文件变化就接受，接收应该现在没法判断实际的大小，所以只需要改一下python客户端，然后发假的content.json文件就可以发大文件了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513343677
+		},
+		{
+			"comment_id": 34,
+			"body": "@Vea: 这个参数很简单的，是公共算法。可以自己伪造。 [点击](https://emn178.github.io/online-tools/sha512_file_hash.html)",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513344179
+		},
+		{
+			"comment_id": 35,
+			"body": "@Vea: 这个不是我现在的目标。\n接收端想根据sha512来判断文件接受是否正确，也要接收完才能判断吧。\n所以，你发的大文件，所有客户端一定会接收下来的。\n也就是说网速一定会被影响的。\n还有，每次客户端一般就发5个peers，改一下可以发给所有收集的peers的IP地址。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513344337
+		},
+		{
+			"comment_id": 36,
+			"body": "@Vea: 这个可能没有实现，现在应该没有这样的代码，因为它必须要接受完，不然没法准确判断文件大小，因为socket接受缓冲是固定的。\n初期，代码准没设计这些。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513344655
+		},
+		{
+			"comment_id": 37,
+			"body": "@Vea: 为什么是当官的。初期代码真的没有这么样子。你看看现在的功能就知道了。最开始zerome还用1，2，3索引数字来当帖子的顺序呢。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513344808
+		},
+		{
+			"comment_id": 38,
+			"body": "@Vea: 什么跑火车，这没什么用，就算我现在真的爆了zerome，又能证明什么。这不重要。我又不是搞一天就不编程了。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513344901
+		},
+		{
+			"comment_id": 39,
+			"body": "@Vea: 接收端只能根据content.json文件里的哈希值和文件大小判断，发假的文件，然后客户端就同意接收，然后发不符合实际大小的头像文件就可以了。客户端接收完才能知道上当了。\n怕客户端发现后不发给别人，就主动把大文件发给几千个peers，这只需要改一下python代码去掉只发5个的限制就可以了。\n当然，技术上可以实现，可是我并不想用这办法，这需要有一定的网速和匿名性。我还有别的方法。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513326054",
+			"date_added": 1513345282
+		},
+		{
+			"comment_id": 40,
+			"body": "@Jackyggg: 是啊，你国。;)",
+			"post_uri": "1HJwfoT1ppryxwaDXYaBc85BG7T3K8hiWJ_1513256276",
+			"date_added": 1513354238
+		},
+		{
+			"comment_id": 42,
+			"body": "你确定人们当你是朋友？",
+			"post_uri": "1E1jd68xqgwLQ1Pg3NLJd4HQcgqkt6jirS_1513403605",
+			"date_added": 1513404971
+		},
+		{
+			"comment_id": 43,
+			"body": "@AI大师: 他骂别人。",
+			"post_uri": "1FzYy2scMY95XgVEnQ1TX46NtPcWSPbfrK_1513448663",
+			"date_added": 1513512968
+		}
+	],
+	"follow": []
+}

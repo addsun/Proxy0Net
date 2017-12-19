@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HIgmFA0n4sqQMe8FPAY11IF0PNx9iH4dTzUNyuogS15y4H9eSPj0zIE82xBvyUOu3iE4hD3XTRgArskxmKngIw0=",
+ "cert_user_id": "claudemcfraud@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "db2fc13157c1bdc4633b51cbee8afc112571fccabee5d194a3d457cac742cbd0",
+   "size": 4522
+  }
+ },
+ "inner_path": "data/users/1Geq5B49Mzx1gv2F2BxBCNDscjw9TXhLUH/content.json",
+ "modified": 1503365738,
+ "signs": {
+  "1Geq5B49Mzx1gv2F2BxBCNDscjw9TXhLUH": "HEL1Hh+jYPAkReTZ4SXkk3SLywwxH+sJEIN/DD795M8eDtPqQYbia35rnSuhv3rTMojVFdmRIYIzCVAx0SASpOc="
+ }
+}

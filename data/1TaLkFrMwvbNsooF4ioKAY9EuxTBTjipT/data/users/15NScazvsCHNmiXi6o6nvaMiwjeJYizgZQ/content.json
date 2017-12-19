@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HICdN3KmCsY7ETrzKGpDjdpUeYhxJOVXvm7ECJJaiXytcBXsdOlc4UhgfoyPCHMNABYz8678tIRczuGhGDCgNuQ=",
+ "cert_user_id": "musickiller@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b3c0e3f23ed7a68fa3a207add04a4eaaa16e5c41fbd70e6703c0f7d6309299b4",
+   "size": 539
+  }
+ },
+ "inner_path": "data/users/15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ/content.json",
+ "modified": 1505990384,
+ "signs": {
+  "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ": "HJM9wTLqUP+fcYq3Cg3rj4wEZRwRFK6DRhzah+RdB0KRRvyYpvH2RZFw+3SuL1Cj1Ydy2Xt8rYkK7Q66vOO6hNQ="
+ }
+}

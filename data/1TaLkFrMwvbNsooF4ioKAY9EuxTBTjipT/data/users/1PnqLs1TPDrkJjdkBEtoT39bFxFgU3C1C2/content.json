@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GwYwS2kwYTIsvaonmQCi100YFeOXC8YhprYQLU5IKfHWuHmvgVf24fB7WrJthcEKIHeePuzh2ZU9+KT7yHtE4YI=",
+ "cert_user_id": "xento@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ffb81adb3c4ad12f1ac4da13c7af2d429ba031f6f47692719c93519a21dc1cb0",
+   "size": 303
+  }
+ },
+ "inner_path": "data/users/1PnqLs1TPDrkJjdkBEtoT39bFxFgU3C1C2/content.json",
+ "modified": 1512270287,
+ "signs": {
+  "1PnqLs1TPDrkJjdkBEtoT39bFxFgU3C1C2": "GwOVvVA9kYgi2XkQwGjOUwUYXjn5vzXORVU3vfhdt+01Ml7XhhjpMYhJUJU9FAnJnnPn+1r9pOBivu99DAsXloY="
+ }
+}

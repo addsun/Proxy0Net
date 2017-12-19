@@ -1,0 +1,36 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5pbTCslHeWyKMwIBIFbJpQdO6UvIi1tA5TzeBvwMxDiUFdcJOMr+keJ1X2ap/2Oln1t+UlCFYQzN4lmtzTdB+s=",
+ "cert_user_id": "zanity@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b3aee9fed64d26624c8c52331e35ddb6160d74f7eca2e3e499457b9cf5f4ab5d",
+   "size": 1786
+  },
+  "data.json": {
+   "sha512": "9e05a33efed506a53c02b9c0fd406f492f4f3f10d2879d3d5c334c074d930065",
+   "size": 22821
+  }
+ },
+ "files_optional": {
+  "1478621184.jpg": {
+   "sha512": "e5bba0a4ca6db01f67fbafa7b06c6d9b30ba04c64e29ed334126dcc49713ab00",
+   "size": 79261
+  },
+  "1478780524.jpg": {
+   "sha512": "9206e76a7018c3470f46f819b30b7779d6483b9666cb755f2765407900617e53",
+   "size": 46137
+  },
+  "1482769859.jpg": {
+   "sha512": "ae696d08815c38faebf7bf0fbc670bfa8edb457886ab8f3abe8155960f5d44a6",
+   "size": 97019
+  }
+ },
+ "inner_path": "data/users/1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB/content.json",
+ "modified": 1512826055,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1889tLMuZze7YMshhe8u5h4NT4SSiA4PVB": "HBf+56I8YlcaKYx1+jYAp8LaZEn4XtH6+0z6W0uK35X+cz56ArBf6yTd+RZBaRDnCwo43oQn0zSLtfL3ccOfvGA="
+ }
+}

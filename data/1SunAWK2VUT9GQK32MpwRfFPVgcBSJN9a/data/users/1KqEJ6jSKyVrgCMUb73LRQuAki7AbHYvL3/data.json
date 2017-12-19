@@ -1,0 +1,45 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Lergen",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504033820,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504033875,
+			"body": "BORN TO DIE / WORLD IS A FUCK / Kill Em All 1989 / I am trash man / 410,757,864,530 DEAD COPS",
+			"date_added": 1504033873
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "did you fuck the horse",
+			"post_uri": "1KpjG35tAzKBQZreMqaLpUGgSkvMtwBwfb_1504054469",
+			"date_added": 1504376483
+		},
+		{
+			"comment_id": 2,
+			"body": "because if you didnt why bother doing anything with it",
+			"post_uri": "1KpjG35tAzKBQZreMqaLpUGgSkvMtwBwfb_1504054469",
+			"date_added": 1504376497
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1NvsTii6S6ZgZXRN7KKikaiKMcWAefpLCu",
+			"user_name": "Zerobax",
+			"date_added": 1504376525
+		}
+	]
+}

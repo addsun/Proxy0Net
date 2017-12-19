@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwzK8h6sSvAu0+8m46dPfcpN8jK7OzMUaXVX+imjLqevUjvnhVh1DpEY572QbC+7dt+bbMXMvvBKY4hx4NEvFBY=",
+ "cert_user_id": "theotix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f95fa7ba55f2af2979e69410c16e59f167b3d76542c81affe0fdbe9f5703728e",
+   "size": 783
+  }
+ },
+ "files_optional": {
+  "1502018460.jpg": {
+   "sha512": "fe1e4acb3fb00e048c837b3ae32b4fa5620c760cd40bc88c904a9f5deacc63c7",
+   "size": 93087
+  }
+ },
+ "inner_path": "data/users/1AK8VauDiVPwj8efUWoUzcQxjUujj4N8aB/content.json",
+ "modified": 1502019297,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1AK8VauDiVPwj8efUWoUzcQxjUujj4N8aB": "HJ7mJYkXsAChyOSZoosKATPqcsrh/HbHS8DlkRYrhJimLkm5yIlj3IJ4KHiXgsd1TZHRCJINxA1DCgNA919fegk="
+ }
+}

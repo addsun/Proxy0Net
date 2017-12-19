@@ -1,0 +1,36 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2e0IYTYE5lzKnRLGyxpXjUdoZngAFf0cqHD1BYDG1owz1rnZ/19Ysam2DN2PBvn+/BsSO9P6NU0ArQNrMea9l8=",
+ "cert_user_id": "kerfuffle@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "238ffe73fa0c50d84913f6357b93ab9977b1ae6f983ba63b58ee09a4442af7fc",
+   "size": 1994
+  },
+  "data.json": {
+   "sha512": "36cbcd63dfb88987434b99a129ad1f90524d78439e0cd7050acd2d57bfb522e0",
+   "size": 7876
+  }
+ },
+ "files_optional": {
+  "1503290294.jpg": {
+   "sha512": "2971bb22e60276b89181a73ecfc58d6b23056f46ed19d3b16c2223162117b6cd",
+   "size": 83414
+  },
+  "1503473025.jpg": {
+   "sha512": "5b9b83c8a4d6d2d0053fbaf2eb8e149a4f3035a5455496d2e81f9f65f53b8be2",
+   "size": 56342
+  },
+  "1504455283.jpg": {
+   "sha512": "9a4913e38d2635f67f2afd4d4d5d3bf83c03ec2a1d6d0201233419630432b196",
+   "size": 47060
+  }
+ },
+ "inner_path": "data/users/1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC/content.json",
+ "modified": 1506014957,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC": "G6at4IzU/qfdlSelAcm/w3Gfeyb1EP7+3Mh40m7rkKj5ZHpmg7ZiWGwtUOkkLFwjA5csICxrlBD5KOWz4m1GCso="
+ }
+}

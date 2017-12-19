@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HITBaHVI4UFoToRa+7yeWp97xH3x94qh13Xx5OollpU3of+7S8RgOmmFVCoavmKp7GgUgXIIEHxlQKSNCkz5Y5Q=",
+ "cert_user_id": "lloydharbor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "10677389ee69e0a36d8ed48bca853273700ff5204cbbd4739b9f870ec56c30cc",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/16qM3cRAAQczFR3WWHU9qdBL4kf4C56utM/content.json",
+ "modified": 1508339652,
+ "signs": {
+  "16qM3cRAAQczFR3WWHU9qdBL4kf4C56utM": "HF13zx1RjayKxGzNWc2WT5ITLU1H3959DpcFIYTcmSVPFmSfS4jcWTzZ8/RMYjdhhKNBHVq/Qawb9VmXrBMF8Og="
+ }
+}

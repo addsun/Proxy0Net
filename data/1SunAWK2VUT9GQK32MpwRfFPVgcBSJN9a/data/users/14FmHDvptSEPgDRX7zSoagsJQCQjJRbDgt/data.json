@@ -1,0 +1,53 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Dieudo",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513172665,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1513341193,
+			"body": "Comment inclure une vidéo dans son Zeroblog ? Je n'ai rien vu dans la documentation ZeroNet",
+			"date_added": 1513341191
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB",
+			"user_name": "Missesrobot",
+			"date_added": 1513294364
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1513294366
+		},
+		{
+			"follow_id": 3,
+			"hub": "1MX4wgzSR7nCrFshSbGQjA4ixgxGbzrGSX",
+			"auth_address": "1FvKeyfgJrHfyTB3poKufXdudEVAyYz5Ny",
+			"user_name": "L0ck3d",
+			"date_added": 1513294443
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "16kTteUpdwGCbNpQzcNZvFpEDCdqP41Vne",
+			"user_name": "F1re",
+			"date_added": 1513294537
+		}
+	]
+}

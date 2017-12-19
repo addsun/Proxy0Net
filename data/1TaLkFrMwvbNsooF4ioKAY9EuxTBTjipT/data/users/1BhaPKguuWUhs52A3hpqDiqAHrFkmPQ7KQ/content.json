@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G955o5WJaw8mIzBESESHCng6iXB2tU4WBN8K+KVfumsWmJdzGhGG7Vb3KidpUNH/iX0Afvl9BB7Y9mddZGyRmAw=",
+ "cert_user_id": "sockpuppet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "afcf6e2b8f79ef28641dcad3133efdcefd781f4e3927f5fb450c86f92b34437a",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1BhaPKguuWUhs52A3hpqDiqAHrFkmPQ7KQ/content.json",
+ "modified": 1508893749,
+ "signs": {
+  "1BhaPKguuWUhs52A3hpqDiqAHrFkmPQ7KQ": "G+q5LNI2xf7LLS+uRLlzsOUqXeLmq9L2RfqZkDpy3IQnA62r1545Nwu0IuVt++FdTpPjUrohdutF9Y7DqQ3PPTs="
+ }
+}

@@ -1,0 +1,1681 @@
+{
+	"next_post_id": 77,
+	"next_comment_id": 69,
+	"next_follow_id": 122,
+	"avatar": "jpg",
+	"user_name": "Balancer73",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Moscow, Russia, Earth\n\n- [Blog in English](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/)\n- [Блог на русском](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/)\n- [Wiki со ссылками](/1NbzP9dgYhuY71bde9G1LuVGaCE69venzR/)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475284300,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475285157,
+			"body": "Test from ZeroMe+\n\n[![Su-30SM](https://ipfs.io/ipfs/QmV4Eq8UsKxiwx1cmcC1LN1QmNreyZT9z14Vnu9KY5kG4S)](https://ipfs.io/ipfs/QmTzihEH1tsEe1L3fyjfo8pPugiGErZwAhCxseoGDPfzHb)",
+			"date_added": 1475285155
+		},
+		{
+			"post_id": 1475285864,
+			"body": "Test for direct big image. #Viburnum #Photo #Russia\n\n![](http://ipfs.pics/ipfs/QmctvtMBmPWdAPvN46UgG1YpcrsJ7c9wCwEqR6S4JPsQey)\n",
+			"date_added": 1475285861
+		},
+		{
+			"post_id": 1475344470,
+			"body": "It would be great if someone sold the pictures to add to IPFS directly from ZeroMe. But it is inconvenient to do it manually every time :)\n\n![Moscow winter](http://ipfs.pics/ipfs/QmbWCsUkgiEucxx1KnQP9Rz1SZTe1s9yEp8pLpnD36t9YU)\n\n[Big image](http://ipfs.pics/ipfs/QmV7yHJTQD47yPSvf9i55zWCcLyUsMPPfVcJmeWzxW1ozU)\n",
+			"date_added": 1475344466
+		},
+		{
+			"post_id": 1475354573,
+			"body": "20 new users in ZeroNet for last 24h. Not so many...",
+			"date_added": 1475354568
+		},
+		{
+			"post_id": 1475392990,
+			"body": "How to rename own ZeroWiki and ZeroTalks?\n\nI renamed Wiki manually in data/id/content.json and my Wiki has stop ditribute with error \"Content publish failed\". Log:\n```\n[10:20:52] Site:1NbzP9..enzR Opening site data directory: data/1NbzP9dgYhuY71bde9G1LuVGaCE69venzR/data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/...\n[10:20:52] Site:1NbzP9..enzR - data.json (SHA512: dc944f481b342d95fc3266ca45f8cad8eacb36254bc67024422a74ea1d2441ea)\n[10:20:52] Site:1NbzP9..enzR - [SKIPPED] data.json-old\n[10:20:52] Site:1NbzP9..enzR - [SKIPPED] content.json\n[10:20:52] Site:1NbzP9..enzR Adding timestamp and sha512sums to new content.json...\n[10:20:52] Site:1NbzP9..enzR Verifying private key...\n[10:20:52] Site:1NbzP9..enzR Correct 1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw in valid signers: [u'1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw', u'1NbzP9dgYhuY71bde9G1LuVGaCE69venzR']\n[10:20:52] Site:1NbzP9..enzR Signing data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json...\n[10:20:52] Site:1NbzP9..enzR Saving to data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json...\n[10:20:52] Site:1NbzP9..enzR File data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json signed!\n[10:20:52] Site:1NbzP9..enzR Publishing data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json to 5/1 peers (connected: 1) diffs: [u'data.json'] (0.48k)...\n[10:20:53] Site:1NbzP9..enzR [FAILED] 148.251.51.134:15441: {'to': 166, 'cmd': 'response', 'error': 'File invalid'}\n[10:20:53] Site:1NbzP9..enzR Successfuly data/users/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/content.json published to 0 peers, publishing to 5 more peers in the background\n```",
+			"date_added": 1475392984
+		},
+		{
+			"post_id": 1475393382,
+			"body": "Hi foa! Don't use `127.0.0.1:43110` in addresses! Someone (like me :) ) use external gates with other addresses. Use only relative path in url.",
+			"date_added": 1475393375
+		},
+		{
+			"post_id": 1475410508,
+			"body": "How to enable comments in my blog?",
+			"date_added": 1475410500
+		},
+		{
+			"post_id": 1475474775,
+			"body": "[Кросспостинг](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/?Post/1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i/156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx/1475384108):\n\nВ конце 90-х и начала 00-х годов в IT был высокий входной барьер, что автоматически фильтровало людей косных, упёртых, негибких. Таких, какие чаще подпадают под влияние идеологического воздействия. И это автоматически поднимало культуру сетевого общения.\n\nНо в последние лет 10+ IT стали намного доступнее, что сильно повысило количество неадекватов.\n\nА с приходом p2p ситуация ещё более ухудшилась -- сюда стали приходить те, кому сложно общаться в персонифицированном Интернете. Анонимность и безнаказанность порождают часто настоящих химер :)",
+			"date_added": 1475474766
+		},
+		{
+			"post_id": 1475474876,
+			"body": "When I wrote to #ZeroMe, then I can see my messages in #ZeroMePlus. But if I write in ZeroMePlus, then I can NOT read my messages in ZeroMe...",
+			"date_added": 1475474866
+		},
+		{
+			"post_id": 1475657594,
+			"body": "Somebody knows can I send the message to ZeroTalk through POST/JSON by the curl request? ZeroNet API is unclear to what address to send them.",
+			"date_added": 1475657583
+		},
+		{
+			"post_id": 1475658002,
+			"body": "Our China friends often use the diode character: 体  These are, probably, radio fans :)",
+			"date_added": 1475657990
+		},
+		{
+			"post_id": 1475766922,
+			"body": "Мини-филиал LOR'а: [1BpFtPez7mSiShtXfb4wPfMT1dZTuRybfZ](/1BpFtPez7mSiShtXfb4wPfMT1dZTuRybfZ/)",
+			"date_added": 1475766909
+		},
+		{
+			"post_id": 1476201962,
+			"body": "Nice optical illusion: [/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:6:Great+optical+illusion](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:6:Great+optical+illusion)",
+			"date_added": 1476201948
+		},
+		{
+			"post_id": 1476202117,
+			"body": "When I go on serverfault.com via Opera's VPN, then all pages get a 404 error.",
+			"date_added": 1476202102
+		},
+		{
+			"post_id": 1477328958,
+			"body": "Офигеть. Поставил себе десктопный Facebook Messenger, получил с десяток сообщений и запросов на авторизацию, которые не были видны в браузерном #Facebook. Начиная с 2013 года и кончая позавчерашним днём o_O",
+			"date_added": 1477328942
+		},
+		{
+			"post_id": 1477472719,
+			"body": "#0list have filled with #spam. It is interesting how in ZeroNet to fight against spam?",
+			"date_added": 1477472702
+		},
+		{
+			"post_id": 1477686312,
+			"body": "Продолжая [тему о недостатках Far'а после mc](http://www.balancer.ru/g/p4185757). Ещё бесящая мелочь. Когда ищешь подстроку в массе файлов, то #mc по F3 на найденном файле сразу открывает файл на найденной строке. А #Far — как при обычном открытии, по сохранению старой позиции. И приходится дополнительно переходом/поисков в файле заморачиваться.",
+			"date_added": 1477686294
+		},
+		{
+			"post_id": 1478932448,
+			"body": "Previous #winter night in #Moscow",
+			"date_added": 1478932429,
+			"meta": "{\"img\":\"900,506,645422211432433214434322655667879867445535435,01234311526671889A567721BACD567227147E2D22716176261361723126\"}"
+		},
+		{
+			"post_id": 1479064201,
+			"body": "I wrote this for another forum, but duplicates there can be someone interesting ...\n\n...\n\n**Update**: post with normal photos in [Balancer's Blog](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:13:New+blog+post)\n\n**Balancer** wrote:\n>> Here the photo of winter which at foreigners most often is associated with Russia :) Simply snowfall. Though strong, but habitual. Moscow. Spring (March, 25) of 2013 :)\n\n**Steady Pie** wrote:\n\n> Holy (\\*)(\\*)(\\*)(\\*). Never seen a winter like that. Never seen snow.\n\nBy Russian standards, in Moscow, a temperate climate. The temperature rarely drops below -20 °C (-4 °F). And snow in many places, too, is much more :)\n\nFor example, winter in Norilsk (not my photo):\n\n[...»»»](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:13:New+blog+post)",
+			"date_added": 1479064181
+		},
+		{
+			"post_id": 1479065696,
+			"body": "Somebody knows an way to paste video into the ZeroBlog? Through YouTube or ZeroTube?",
+			"date_added": 1479065675
+		},
+		{
+			"post_id": 1479283150,
+			"body": "#Браузер (англ. browser) — в теории экологии: растительноядное животное, питающееся за счёт верхних ярусов растительного покрова, поедая листву и ветки; классический пример браузера - обыкновенный жираф.",
+			"date_added": 1479283128
+		},
+		{
+			"post_id": 1479538580,
+			"body": "Проблема. Как (для сохранения в p2p) качать wget'ом страницу со всеми ресурсами? Подробнее: [в блоге](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:16)",
+			"date_added": 1479538557
+		},
+		{
+			"post_id": 1480093962,
+			"body": "Is it possible to allow users to write comments in #ZeroBlog with authorizing not through zeroid.bit but locally? Or allow write for guests? There is an option \"Unique to site\", but when it is selected then leave a comments is impossible.",
+			"date_added": 1480093938
+		},
+		{
+			"post_id": 1480352057,
+			"body": "I decided to separate, nevertheless, my blogs in Russian and in English :) English-speaking will be on [144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/)",
+			"date_added": 1480352032,
+			"meta": "{\"img\":\"900,506,000111332542776657553a99cbc997884998aa9874442774,0001100210011211000011345321116478893211ABC79D3111EF6EE22111\"}"
+		},
+		{
+			"post_id": 1482029846,
+			"body": "Moscow Monorail in winter frost.\n\nTook away the daughter from school in the afternoon and has thought that how many I live in the area, but didn't photograph the Moscow monorail in frosts :) And it was the whole problem. At first trains of a monorail have bought in Switzerland, but there were problems with their use in frosts. It was necessary to do the trains later. Now, however, in 15 years of operation, rumors about possible closing of a monorail in favor of the tram go.",
+			"date_added": 1482029820,
+			"meta": "{\"img\":\"900,506,89b8ab78a778666999889655654aaa877544433765766988,0110110000001211103333343563789AB8CD88BCAE88EFAAEE666655633A\"}"
+		},
+		{
+			"post_id": 1482029913,
+			"body": "On Friday morning brought the daughter to school and the eye was fixed for such frosty patterns on bus-stop glass.",
+			"date_added": 1482029886,
+			"meta": "{\"img\":\"900,506,322333443444986ba9655554886776433654665666454,01234546731127849673AA3BCC6B32A1A33C6D73E3A2EDBD72EE33EB3677\"}"
+		},
+		{
+			"post_id": 1482038517,
+			"body": "Another one my winter photo from [Blog (EN)](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/?Post:6:And+some+more+winter+photo)",
+			"date_added": 1482038489,
+			"meta": "{\"img\":\"900,675,47a57a67a67867978a88989a78968b66799977878b,00012134000005673200111277850011115783211919666A159995B77C19999D767529999D757B5D\"}"
+		},
+		{
+			"post_id": 1482047303,
+			"body": "It is interesting why the image was lost in [this record](/Me.ZeroNetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/1480352057)? It was distributed at me from 4 computers :)",
+			"date_added": 1482047274
+		},
+		{
+			"post_id": 1482169841,
+			"body": "# Russian Ambassador to Turkey Shot and Killed by Gunman in Ankara\n\nRussia’s ambassador to Turkey, Andrei Karlov, was assassinated on Monday, while attending an art exhibition in the Turkish capital of Ankara. The Russian Foreign Ministry has confirmed the diplomat's death.\n\nThe shooter, who is believed to have been a radical Islamist, was then killed by special forces, who quickly raided the museum. According to CNN Türk, several other individuals — as many as three people— were also injured in the attack.\n\nRegional expert Orkhan Dzhemal told The Moscow Times that he believes the attacker most likely belonged to the Al-Nusra Front terrorist organization, which has been banned in Russia. Dzhemal says the group is weaker now in Turkey than it was a few years ago, but it remains strong enough to carry out an act like this.\n\nAndrey Chuprygin, a professor of world economy and politics at Moscow's Higher School of Economics, told The Moscow Times that the attack is possibly aimed at both Turkey and Russia, in response to the Turkish establishment's tightening ties with the Kremlin. “This attack can hurt their image,” Chuprygin says. “It makes sense, because Aleppo has been taken, also, thanks to Ankara’s commitment. Turks agreed to stop supporting eastern Aleppo in the last assault.”\n\nThe assassination comes one day before Turkish Foreign Minister Mevlüt Çavuşoğlu planned to visit Moscow, to discuss cooperation on the war in Syria with Russian and Iranian officials. \n\nIn video footage shared on social media, several gunshots rang out, and Karlov collapsed to the ground, apparently killed instantly. He was shot as he addressed a crowd gathered for the opening of the “Russia Through a Turk's Eyes” photo exhibition. \n\nAccording to unconfirmed reports on social media, the attacker was a 22-year-old police officer in Ankara's special operations department. He screamed “Allah Akhbar!” when opening fire. \n\n// <https://themoscowtimes.com/news/russian-ambassador-to-turkey-reportedly-attacked-by-gunman-in-ankara-56583>",
+			"date_added": 1482169811,
+			"meta": "{\"img\":\"900,579,322765443987dcacb9eeeedd554a98ca9876332ba8,00123445673839AB89A3B8B951CA4558A543CAADA89DD3212191BDD31288\"}"
+		},
+		{
+			"post_id": 1482656869,
+			"body": "## Tu-154 Crash in Black Sea\n\nOn December 25, in the early hours of the day, Russian Defense Ministry's Tu-154 aircraft crashed near Sochi coastline. There were 92 people on board.\n\nThe Russian Defense Ministry has released a list of people who were on board the crashed Tu-154. In includes eight crew members, eight military troops, nine journalists, 64 members of the Alexandrov Ensemble, two civilian officials, and an employee from an international humanitarian organization.\n\nProminent Russian humanitarian and charity activist Elizaveta Glinka is on the list of passengers provided by the defense ministry.\n\n- https://sputniknews.com/trend/tu_154_crash/\n- https://www.rt.com/news/371627-russia-military-plane-missing/",
+			"date_added": 1482656838,
+			"meta": "{\"img\":\"900,487,bbceeeddeccdabc9ab78a467cdd9ac89a57879a68a789678,01123045678228009AAB3083305ACD33305EFAAA50004455AC\"}"
+		},
+		{
+			"post_id": 1483361257,
+			"body": "Breaking News! Grigory #Rasputin killed! Frozen body found in Little Nevka last night! // https://twitter.com/RT_1917ru/status/815864969862451201",
+			"date_added": 1483361225
+		},
+		{
+			"post_id": 1483464131,
+			"body": "Before the New Year with my family, we went to the rink. Along the way, I took a picture of the [Ostankino tower](https://en.wikipedia.org/wiki/Ostankino_Tower) in the low clouds :)\n\nYou know, it's 1772-foot structure is not buried like anything special, but just standing, unfastened, posed on the platform? This is called \"free-standing structure\".",
+			"date_added": 1483464098,
+			"meta": "{\"img\":\"900,506,321432555778688689110210667568542553642741851962,0123452000671899A77766711107777601BB07770770AA001ACDDDEEEDFF\"}"
+		},
+		{
+			"post_id": 1483557316,
+			"body": "Added [some more photos to the blog](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/). Here I will already not begin to duplicate :)",
+			"date_added": 1483557282
+		},
+		{
+			"post_id": 1483579805,
+			"body": "Тестовый чат по примеру в ZeroBlog :) — http://127.0.0.1:43110/1E6iPAg5TRRKRKd2sr2fzhuvkH58DXiDeY/",
+			"date_added": 1483579770
+		},
+		{
+			"post_id": 1483609144,
+			"body": "У Хетцнера поменяли посыпавшийся винт на другой (хотя и не новый :D) за 40 минут с момента заявки в 8 утра по МСК. Х.з., нормально это или нет. Один фиг, ещё 150 минут репликации ждать :)",
+			"date_added": 1483609108
+		},
+		{
+			"post_id": 1483794785,
+			"body": "Вчера впервые использовал ZeroNet по «незаконному» варианту :)\n\nС женой досмотрели переведённые 9 серий «Радиоволны», и ей сильно захотелось глянуть, что там дальше :) На английском вышла 10-я серия, но, в отличие от наших торрент-трекеров, я навскидку не знаю зарубежных. Вместо того, чтобы гуглить, тупо ткнулся в [ZeroTV](/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/) — и, опаньки, конечно, там „Frequency” есть :) Не в HD-качестве, но для ознакомления потянет :D За 5 минут всё скачалось по magnet-ссылке прямо на коммуникаторе. Десктоп даже не понадобился...",
+			"date_added": 1483794748
+		},
+		{
+			"post_id": 1484158537,
+			"body": "Опять у #Google паранойя. Каждый второй поисковый запрос требует ввода капчи.",
+			"date_added": 1484158499
+		},
+		{
+			"post_id": 1484667999,
+			"body": "Слепил наскоро на коленке небольшую заметку, что такое ZeroNet и как его ставить: http://zeronet.a0z.ru/\n\nМожете поспособствовать распространению :)",
+			"date_added": 1484667960
+		},
+		{
+			"post_id": 1484676960,
+			"body": "Интересный ресурс подкинули в [чате](http://127.0.0.1:43110/1E6iPAg5TRRKRKd2sr2fzhuvkH58DXiDeY/):\nhttp://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/\n\nЧто-то типа Reddit. Сообщения, комментарии, рейтинги.",
+			"date_added": 1484676920
+		},
+		{
+			"post_id": 1484708438,
+			"body": "Накатал сразу несколько заметок в блог:\n- [ZeroNet: идея дробления информации](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:25)\n- [ZeroNet: нотификации](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:26)\n- [ZeroNet: повторение большого пути](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:27)\n\n",
+			"date_added": 1484708397
+		},
+		{
+			"post_id": 1485332960,
+			"body": "Взял на пробу VPS в [Scaleway](https://www.scaleway.com/)\n\n2Гб оперативки и 50Гб диска за €2.99, что сегодня меньше 200 рублей в месяц. Не ARM («BareMetal»), а x86_64 VPS. На первые критики много за тормоза и не-Intel архитектуру. По вторым вменяемых отзывов нет, но работает шустро. sysbench с многопоточным mysql-тестом на ненастроенном сервере даёт 549 транзакций/с. Для сравнения, на настроенном DigitalOcean за $10 — 599 транзакций, а на Vultr за $7 — 1610. Но если поделить цену в рублях на ёмкость памяти и дисков в гигабайтах, то в Scaleway получается 1.9 против 26 у Vultr и 20 у DO :) В 10 раз дешевле выходит...\n\nНикаких сканов паспортов не просят, но оплата только с карты.\n\nПока задействую под что-нибудь не особо важное, посмотрю, что будет с надёжностью и производительностью.\n\nДобавил в блог [оценки некоторых тарифов хостеров](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/).",
+			"date_added": 1485332918
+		},
+		{
+			"post_id": 1485438944,
+			"body": "У time4vps не работает монтирование squashfs. А я уже губу раскатал :) Придётся отдавать всякую мелочь прямо с раздела...",
+			"date_added": 1485438901
+		},
+		{
+			"post_id": 1485646560,
+			"body": "HipChat сломался. Не позволяет залогиниться, зацикливается редиректами...",
+			"date_added": 1485646516
+		},
+		{
+			"post_id": 1487427697,
+			"body": "The next attempt to look how photos will be long stored in ZeroMe if they are fixed by several notes through \"Help to distribute\".\n\nOn a photo — a levitation lesson from Anatoly Kvochur.\n\nОчередная попытка посмотреть, как долго будут храниться фотографии в ZeroMe, если они фиксируются несколькими нодами через «Help to distribute».\n  \nНа фото — урок левитации от Анатолия Квочура.\n",
+			"date_added": 1487427652,
+			"meta": "{\"img\":\"900,617,9999aaaa99a8998788899786677568778a99689bcb774764,0012222344456122222278985411220ABA9C651D7777443333EE777777EEFFFEEEEEEF\"}"
+		},
+		{
+			"post_id": 1488218240,
+			"body": "Обновил страничку «[Что такое ZeroNet?](http://zeronet.a0z.ru/)»\n\nЕсли кому нужно использовать для того, чтобы кому-то рассказать об этой сети, можно пользоваться :)",
+			"date_added": 1488218194
+		},
+		{
+			"post_id": 1488436522,
+			"body": "Optical illusion. There is no red color! :)\n\nОптическая иллюзия. На этой картинке нет красного цвета! \n\nhttp://www.balancer.ru/g/p4676205 \n",
+			"date_added": 1488436475,
+			"meta": "{\"img\":\"900,592,9cc9dc9cb8bb9bbaccaee7bb6bb5bb4bb8cc8dd9edbfe,0102022200103445320163734253411778988A3BB88889783C1B7877337DEB883777BD\"}"
+		},
+		{
+			"post_id": 1488907709,
+			"body": "Google now began using neural networks for automatic translations into Russian. As far as I can judge, comparing the old and new versions of the translation, the phrases are now grammatically more correct. But now a lot of the original text is thrown out. Whole speech turns are lost.",
+			"date_added": 1488907661
+		},
+		{
+			"post_id": 1492535145,
+			"body": "Сейчас стал просматривать пользователей ZeroMe. Вижу огромное количество тех, кто начал и бросил писать в августе 2016 года. Это была какая-то рекламная кампания? :)\n\n**Now began to view users of ZeroMe. I see a huge number of those who started and stopped writing in August 2016. Was it some kind of advertising campaign?** :)",
+			"date_added": 1492535096
+		},
+		{
+			"post_id": 1492535914,
+			"body": "Ну-с, посмотрим, пощупаем новую ZeroMe Alpha :)\n\n**Well, let's see, we'll feel a new ZeroMe Alpha** :)\n\nhttp://127.0.0.1:43110/me.plasmmer.bit/",
+			"date_added": 1492535864
+		},
+		{
+			"post_id": 1492688557,
+			"body": "Длинный пост о сравнении децентрализованных соц. сетей: http://127.0.0.1:43110/1GQkPB8mFgxH7GQQbkNPJtvRaZZpVi65u1/?Post:12",
+			"date_added": 1492688506
+		},
+		{
+			"post_id": 1494595972,
+			"body": "Создал в Telegram группу по распределённым социальным и файловым системам: https://t.me/decentralized_social",
+			"date_added": 1494595920
+		},
+		{
+			"post_id": 1494816168,
+			"body": "Оказывается, в Steemit нешуточные страсти:\nhttp://127.0.0.1:43110/1F4WVHDpQYxuJL6xEY3EZTYkZds9TTjVHC/?Topic:17_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw\nВот что значит — прямая монетизация в p2p :)",
+			"date_added": 1494816115
+		},
+		{
+			"post_id": 1495610689,
+			"body": "Пришлось отписаться от новых тем в ZeroTalk. Китайцы всю ленту забили. То ли читать не умеют по-английски предупреждение о языке общения, то ли им пофиг на других.\n\n**I had to unsubscribe from new topics in ZeroTalk. The Chinese scored the whole feed. Whether to read do not know how to English warning about the language of communication, whether they do not care for others.**",
+			"date_added": 1495610635
+		},
+		{
+			"post_id": 1497425971,
+			"body": "Пришла китайская microSD-карточка на 64Гб. Воткнул её... нет, не в зеркалку. Там до сих пор 16Гб обычно хватает, а уж 32Гб — всегда. И переткнуть не долго. Воткнул карточку в телефон! А то на телефоне места под фотки/видео вечно не хватает на встроенных 32Гб :D",
+			"date_added": 1497425916
+		},
+		{
+			"post_id": 1497460327,
+			"body": "Всё, капец безлимитке Amazon Cloud drive.\n\n«Amazon no longer offers an unlimited storage plan. You can stay on your existing plan until the end of your subscription, or visit Manage Storage to see the new plan options. New annual storage plans start at 100 GB for $11.99, 1 TB for $59.99, and up to 30 TB for an additional $59.99 per TB. Prime members’ unlimited photo storage benefit is not changing.»\n\nПри чём, сволочи, непонятно, как теперь, после бана rclone и acd_cli, с них быстро забрать мои 2Тб :)",
+			"date_added": 1497460271
+		},
+		{
+			"post_id": 1499428483,
+			"body": "Однако, [Zeronet Central](http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUwtopic3) продолжает развиваться.",
+			"date_added": 1499428426
+		},
+		{
+			"post_id": 1499429672,
+			"body": "Напомню, что в Telegram есть пара чатов, касающихся ZeroNet\n\n*   [@decentralized_social](https://t.me/decentralized_social). Русская группа по децентрализованным соцсистемам.​\n*   ​​[@zeronetchat](https://t.me/zeronetchat). Англоязычная группа по ZeroNet.",
+			"date_added": 1499429614
+		},
+		{
+			"post_id": 1500233309,
+			"body": "Today I threw more photos in the Broken English Blog :)\n\nhttp://127.0.0.1:43110/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/",
+			"date_added": 1500233250
+		},
+		{
+			"post_id": 1500968131,
+			"body": "На Хабре статья про очередной p2p-браузер, Beaker.\n\n- https://habrahabr.ru/company/1cloud/blog/333988/\n\nДал снова наводку на ZeroNet, может кто-то ещё появится :) Можете поддержать лайками :D\n\nДо кучи завёл на зеро-форуме тему по p2p-браузерам:\n\n- [p2p-браузеры (Maelstrom, Beaker и другие)](/1F4WVHDpQYxuJL6xEY3EZTYkZds9TTjVHC/?Topic:25_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw)",
+			"date_added": 1500968071
+		},
+		{
+			"post_id": 1501736748,
+			"body": "\nИз Калининграда автобусы ходят не только по Европе, но даже до Киева и Одессы ! :) До Киева 22 часа, до Одессы 30 часов. До Берлина — 16 часов.",
+			"date_added": 1501736687
+		},
+		{
+			"post_id": 1503214802,
+			"body": "As part of the work on #Infonesy, some of the blogs from #ZeroNet were translated into the regular Internet:\n\nhttp://www.zites.cf/\n\n**В рамках работ по Infonesy оттранслировал некоторые блоги из ZeroNet в обычный Интернет**",
+			"date_added": 1503214740
+		},
+		{
+			"post_id": 1503243117,
+			"body": "#ZeroNet turned out to be less than I expected. After downloading for indexing all the blogs in Russian and English from ZeroSite, such blogs turned out to be 60. And only 2200 messages in two years.",
+			"date_added": 1503243054
+		},
+		{
+			"post_id": 1503276123,
+			"body": "— How much time in a free space can there be a man without a spacesuit?\n— Almost forever ...\n\n**\n— Сколько времени в открытом космосе может находиться человек без скафандра?\n— Да практически вечно...\u0000\n**",
+			"date_added": 1503276059
+		},
+		{
+			"post_id": 1503469895,
+			"body": "Вот она, «работа» федеративных сетей :) Хотел сейчас написать в GNU Social, а сервер, на котором я зарегистрирован (<https://quitter.no/balancer>), недоступен. И только ZeroNet работает независимо от посторонних сервисов :D\n\n**Here it is, \"the work\" of federated networks :) I would now write to GNU Social, and the server on which I registered (<https://quitter.no/balancer>) is not available. And only ZeroNet works independently of extraneous services :D **",
+			"date_added": 1503469830
+		},
+		{
+			"post_id": 1508874555,
+			"body": "У ZeroHello и ZeroMe стал вполне приличный мобильный дизайн :)\n\n**ZeroHello and ZeroMe became quite a decent mobile responsive design** :)",
+			"date_added": 1508874489,
+			"meta": "{\"img\":\"394,700,999aaaeeefeffffededddccc555,000011233442324444255223434444666765432224222224332244888888\"}"
+		},
+		{
+			"post_id": 1508874716,
+			"body": "Кстати, напоминаю, что в Телеграме есть группа по распределенным социальным системам: https://t.me/decentralized_social",
+			"date_added": 1508874649
+		},
+		{
+			"post_id": 1509774838,
+			"body": "[Roskomnadzor](https://en.wikipedia.org/wiki/Federal_Service_for_Supervision_of_Communications,_Information_Technology_and_Mass_Media) accused Google of removing news reports from the Federal News Agency. This is so, Google really deleted and blocks the materials of the FNA and this is obviously another political decision. It's only funny when such an indictment is being handled by an RKN, which itself is the organ of political censorship on the Russian Internet. Absurdity :)\n\nНу а на русском — у нас итак все знают, насколько это смешно :D",
+			"date_added": 1509774770
+		},
+		{
+			"post_id": 1511239470,
+			"body": "I wrote a note in the blog about the perception of the pictures of the Polish painter :) : [Jakub Rozalski — the storm will pass](http://127.0.0.1:43110/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/?Post:51:Jakub+Rozalski+—+the+storm+will+pass).",
+			"date_added": 1511239401,
+			"meta": "{\"img\":\"900,532,9aa9bb899777888556677666433555788667445444abb,0000111111012341100056789A66B9CCD8D9CC9C110020400420200001E0\"}"
+		},
+		{
+			"post_id": 1512182984,
+			"body": "My node now for ZeroHello sees 43567 peers. Very good, considering that I roughly estimated the number of all nodes in ZeroNet in 30-40 thousand. It turns out that there are more of them at times :)\n\n**Моя нода сейчас для ZeroHello  видит 43567 пира. Очень неплохо, учитывая, что я грубо оценивал количество всех нод в ZeroNet в 30-40 тысяч. Получается, что их в разы больше :)\n**",
+			"date_added": 1512182914
+		},
+		{
+			"post_id": 1512183823,
+			"body": "#ZeroNet nodes geography",
+			"date_added": 1512183752,
+			"meta": "{\"img\":\"539,700,aaa888333244222ddd265111000035354bbb999545324442,0123244450442324502678425034779ABC477873504477425044DD4450EEE33350244442BCFFDFA3\"}"
+		},
+		{
+			"post_id": 1512187903,
+			"body": "Continuing the [discussion of the previous message](/Me.Mkg20001.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/1512183823) in ZeroMe. An example is when the number of zite's peers is larger than the number of peers available.",
+			"date_added": 1512187831,
+			"meta": "{\"img\":\"900,330,334667cccacbbcc666333222344777ddddcd111766,0012334567889ABAA9C7809B2AAD77809AAAA966\"}"
+		},
+		{
+			"post_id": 1512280002,
+			"body": "32k peers of ZeroName on the globe\n",
+			"date_added": 1512279929,
+			"meta": "{\"img\":\"503,700,222233443883584243279156111000142872432035146654,01000000000000023452006789ABC89D8E550998050C88C1000F120011111100C00C01\"}"
+		},
+		{
+			"post_id": 1512298373,
+			"body": "Дабы не мусорить в основном блоге всяким флудом и учитывая лёгкость клонирования и подписки в ZeroNet, я завёл отдельный блог [Flood@Balancer](/1GmoFQHVjYj4xDZZ5oMNnkGhvnfY1w3pPM/). В основном блоге буду писать что-то выдержанное и продуманное, а туда кидать всё подряд как в Твиттер, только что без лимита на длину сообщения :) ZeroMe не использую из-за ограничений для гостей на прокси.",
+			"date_added": 1512298299
+		},
+		{
+			"post_id": 1513449633,
+			"body": "I separated the political part from my [main English-speaking ZeroBlog](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/) (\"Broken English Blog\") into a [separate political ZeroBlog](/17ogL1aD6546DYwtb6UnMhF4hETaHBj6yD/).",
+			"date_added": 1513449558
+		},
+		{
+			"post_id": 1513511944,
+			"body": "I'm trying to start using the ZeroUp clone to display videos in my blogs. But I met a serious problem. When a person first opens my blog, a separate site with the video itself does not load. I need to tell the visitor to open and download this site manually. Is there any way to automate this process?",
+			"date_added": 1513511868
+		}
+	],
+	"post_like": {
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475354573": 1475393466,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1475519556": 1475523350,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1500968131": 1500968485,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1492457698": 1500971722
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Oversized under right menu :-/",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
+			"date_added": 1475285917
+		},
+		{
+			"comment_id": 2,
+			"body": "@Talnicrom: Still the picture is located under the right menu. It is necessary to add to CSS:\n```CSS\nimg { max-width: 100%; }\n```\n",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475285864",
+			"date_added": 1475290898
+		},
+		{
+			"comment_id": 3,
+			"body": "@W1n5t0n: ZeroMe supported [Markdown](https://en.wikipedia.org/wiki/Markdown).\n\nTo add image you need add them to another storage. And use this code:\n```markdown\n![Image title](http://image.url)\n```",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475344470",
+			"date_added": 1475392078
+		},
+		{
+			"comment_id": 4,
+			"body": "I got it.After any changes in `data/<id>` it need to command line `siteSign` and `sitePublish` action.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475392990",
+			"date_added": 1475394436
+		},
+		{
+			"comment_id": 5,
+			"body": "@Chipster: I [cloned ZeroBlog](/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/), but I have no comments :-/\n\nWhat I not so do?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475410508",
+			"date_added": 1475432522
+		},
+		{
+			"comment_id": 6,
+			"body": "Oh! Comments works now.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475410508",
+			"date_added": 1475435236
+		},
+		{
+			"comment_id": 7,
+			"body": "@Zerro: Я пишу о собственном опыте. Я вижу, что количество хамов и неадекватов в p2p-сообществах сегодня выше, чем в обычных. При этом раньше, лет 10-20 назад картина была обратной. В более IT-узких сообществах, наоборот, культура общения была выше. Полагаю, что уровень хамства пропорционален уровню анонимности. Очень удобно показывать худшие черты характера зная, что тебе за это ничего не будет. В прежние времена узкие IT-сообщества часто обеспечивали личное знакомство (или даже прямую персонификацию, как в том же FIDO). Это повышало культуру общения. Сегодня персонификация осталась в централизованных системах, а в p2p цветёт абсолютная анонимность. Отсюда и потеря культуры общения.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775",
+			"date_added": 1475498904
+		},
+		{
+			"comment_id": 8,
+			"body": "@Renha: Сорри, ссылку исправил.\n",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475474775",
+			"date_added": 1475503465
+		},
+		{
+			"comment_id": 9,
+			"body": "@Militaryriotlab: Bad decision. Today, for many users in Russia is the only affordable way to get to blocked sites :)\n\nAlthough serverfault.com is not blocked in Russia, but it is inconvenient to switch off every time a VPN to access it.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476202117",
+			"date_added": 1476203112
+		},
+		{
+			"comment_id": 10,
+			"body": "@The33: Как оказалось, во всех ресурсах, кроме Wiki в ZeroNet-ссылках идёт замена хоста на лету на текущий. Т.е. написано 127.0.0.1, а ссылка будет на твой гейт. Вот в Wiki это не работает, там нужно ручками ссылку формировать :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205729
+		},
+		{
+			"comment_id": 11,
+			"body": "Впрочем, исправил ссылку :) Кстати, приятная фишка после juick (или Twitter) — возможность редактировать свои сообщения.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205809
+		},
+		{
+			"comment_id": 12,
+			"body": "@The33: Ага. В вот когда ссылка не локальная, а на гейт, как в твоём сообщении, то ZeroMe про такие ссылки не знает и ничего не подменяет :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476205868
+		},
+		{
+			"comment_id": 13,
+			"body": "@Militaryriotlab: I have no problem with the site blocking, but I more care about the ordinary users :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476202117",
+			"date_added": 1476206039
+		},
+		{
+			"comment_id": 14,
+			"body": "And I so so far also didn't decide, to have to me one blog in the mixed Russian and broken English or to do two different blogs :)",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1476255249",
+			"date_added": 1476258401
+		},
+		{
+			"comment_id": 15,
+			"body": "@FraYoshi:\n\n> What did You choose? :)\n\nYet selected nothing :) The blog isn't untwisted yet therefore the problem isn't really urgent.\n\n> taking care of two blogs is so much more time spending\n\nBut to write to one blog in two languages — to hinder both groups of readers :)",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1476255249",
+			"date_added": 1476281786
+		},
+		{
+			"comment_id": 16,
+			"body": "@Greate Sick:  In the drawing there are 12 black points. At the same time (and without tension) an eye can see only 2-3 of them. In the center of attention. Other points on the periphery of sight. The brain perceives them as garbage (the mistake in a retina — at us such happens much) and interpolates, deleting \"programmatically\". As with a [blind spot](https://en.wikipedia.org/wiki/Blind_spot_%28vision%29) of an eye. When moving a look according to the picture, respectively, a part of points will appear, a part — to disappear.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476347395
+		},
+		{
+			"comment_id": 17,
+			"body": "@Renha:\n\n>неприятная фишка - другие могут редактировать свои сообщения\n\nИ чем это плохо?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476728140
+		},
+		{
+			"comment_id": 18,
+			"body": "@Renha: В подавляющем большинстве случаев редактирование используют для исправления ошибок, а не подчистки информации. Особенно это актуально при наличии разметки — очень легко допустить ошибку. И у тебя есть возможность сохранять информацию самостоятельно, делая бэкапы JSON :)\n\nВ той же RetroShare всё намного хуже. Ни сообщения нельзя исправить, ни хранятся они долго (на форумах автоматически убиваются через год, в других местах ещё быстрее), ни сохранить архив из-за собственного закрытого формата данных.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476857808
+		},
+		{
+			"comment_id": 19,
+			"body": "@Renha: \n>ну я сравниваю с juick\n\nПо надёжности хранения с Жуйком сравнивать нельзя. На Жуйке сообщения хранятся только пока это нужно Угничу. Да и то уже были случаи удаления сообщений без ведома авторов. Впрочем, сами авторы тоже нередко удаляют сообщения...\n\n>Вот я пока не понял куда пропал комментарий в одном из обсуждений - его удалил автор, он перестал храниться у пиров, или как вообще?\n\nЕсли это комментарий в ZeroMe, то его, вроде, автор удалить не может. Фиг знает, куда и почему пропал и пропал ли. Может, где-то в другом месте ты видел его?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476863594
+		},
+		{
+			"comment_id": 20,
+			"body": "@Balancer73: \n> вроде, автор удалить не может. \n\nА, был не прав, можно удалить при редактировании. Ну, значит, удалил автор :)\n\n",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1476201962",
+			"date_added": 1476863645
+		},
+		{
+			"comment_id": 21,
+			"body": "@Bravo: If you can't control spam, then spam will kill any communication. You won't be able just to see useful information behind spam veil.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1477472719",
+			"date_added": 1477653837
+		},
+		{
+			"comment_id": 22,
+			"body": "@Renha: \n> if spam will kill communication, users would go away\n\nThis very frequent phenomenon.\n\n>and spammers would have no profit\n\nSpammers often write even to _already killed_ communities.\n\nYou as though, spammers never in life were seen :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1477472719",
+			"date_added": 1478037032
+		},
+		{
+			"comment_id": 23,
+			"body": "@Eibriel: Thanks! I didn't think that in ZeroBlog Markdown HTML is enabled :) Everything works.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1479065696",
+			"date_added": 1479104256
+		},
+		{
+			"comment_id": 24,
+			"body": "@Flyman: Thanks, I was too lazy to translate :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1479283150",
+			"date_added": 1479290546
+		},
+		{
+			"comment_id": 25,
+			"body": "@Jro:\n>But a \"unique to site\" authorization could be nice as an option. Sometimes you don't need an ID provider ...\n\nIt good option but can't work. I can't write comment in any blogs (include my) while select \"Unique to site\" authorization.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1480093962",
+			"date_added": 1480145172
+		},
+		{
+			"comment_id": 26,
+			"body": "Yes, it is true, the message was gone somewhere :) I didn't delete it...",
+			"post_uri": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC_1480325561",
+			"date_added": 1480353463
+		},
+		{
+			"comment_id": 27,
+			"body": "@火犬:  这不是雪。这是冰上的玻璃。\n\n想,俄语中文自动译者翻译很差:)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029913",
+			"date_added": 1482034200
+		},
+		{
+			"comment_id": 28,
+			"body": "@火犬: 没有。 这不是公共汽车。 这巴士站:)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029913",
+			"date_added": 1482035289
+		},
+		{
+			"comment_id": 29,
+			"body": "If you think that this picture a lot of snow, look here :) - [/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/?Post:5:Winter+in+Russia](/144W6itCd6jUqHDx5SDjbFaRdTnh4gRBBA/?Post:5:Winter+in+Russia)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482029913",
+			"date_added": 1482035779
+		},
+		{
+			"comment_id": 30,
+			"body": "@Awdhax: Yes. Absolutely it is unclear, where the picture was gone. I think, reliability of data storage in ZeroMe low. It seems that all useful should be written itself to ZeroBlog, and in ZeroMe to give only announcements :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482047303",
+			"date_added": 1482083702
+		},
+		{
+			"comment_id": 31,
+			"body": "@Alipay: Idiot.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482656869",
+			"date_added": 1482657512
+		},
+		{
+			"comment_id": 32,
+			"body": "@Flyman: No, it in Russia such project started. Social networks write events of exactly centenary prescription as though they occurred in the same time today :)\n\nI know two such independent projects so far. One — on Twitter (on which gave the reference above). Another — the separate website, as if, social network of 1917: https://project1917.ru/\n\nThe one that on Twitter — much poorer, but it is possible to read habitually, in a tape of Twitter. The second though demands visit of the separate website, but contains much more information. Up to records from diaries of little-known people.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1483361257",
+			"date_added": 1483424886
+		},
+		{
+			"comment_id": 33,
+			"body": "@Shift: У меня на DO VPS-ка ($10 которая) уже года два. Всё собираюсь уйти от них, но всё ломает :) Даже VPS имеет не самые лучшие сегодня цены. А уж dedicated... Мой сервер, за €41/мес. у Хетцнера имеет 32Гб оперативки и 2Тб места в зеркале (при чём и памяти, и места давно сильно не хватает :D Но жаба душит переползать на более дорогие тарифы). Про 2Тб на SSD у DO я не заикаюсь, но хотя бы с 32Гб решение стоит уже S240/мес. Почувствуйте разницу :D",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1483609144",
+			"date_added": 1483729526
+		},
+		{
+			"comment_id": 34,
+			"body": "@Shift: Ну, месяц — не слишком свежий для только что появившегося проекта :)\n\nРусский — это я вчера там на русском оставил сообщение тестовое, вот народ и начал отзываться.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1484676960",
+			"date_added": 1484706600
+		},
+		{
+			"comment_id": 35,
+			"body": "It all working in you ZeroBlog. And you can post announces in ZeroMe :)",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486664022
+		},
+		{
+			"comment_id": 36,
+			"body": "@Sick Kuerana: IPFS is a universal transport protocol + own file stores. Therefore there it is possible to locate any static content. Both video files, and pictures, and books, and music, and HTML pages... In the latter case it is only necessary to provide loading from IPFS of all necessary resources. For example, I for the test save in IPFS some Web pages, downloaded of the Internet:\n\n- https://gateway.ipfs.io/ipfs/QmVQzXn8pNGDMMdFneffktMKfrUFw7txFv6mBTo3SY71NM\n- https://gateway.ipfs.io/ipfs/Qmb1Xxv8FoRhMYyqHWpc2hqiedWcS2sTy9eiwuqM5wFXBs\n",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486896256
+		},
+		{
+			"comment_id": 37,
+			"body": "And here an example of an arrangement in an IPFS series of books (in fb2 a format, however, too in Russian :))\n\nhttps://gateway.ipfs.io/ipfs/QmVcZCm1kDkUnkdpszhAnEWLnqSrLPQKVVkDkbWYgaGLEs",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486896322
+		},
+		{
+			"comment_id": 38,
+			"body": "@Balancer73: By the way, in the latter case — here an example of execution of the page in IPFS:\n\nhttps://gateway.ipfs.io/ipfs/QmVcZCm1kDkUnkdpszhAnEWLnqSrLPQKVVkDkbWYgaGLEs/00.%20README%20%28аннотация%20и%20комментарии%29.html",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486896398
+		},
+		{
+			"comment_id": 39,
+			"body": "@FraYoshi: \n> I add a video_example ;D\n\nI experimented with it too :)\n\nhttp://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:14:Video+embed+test\n\nBut there is one problem. IPFS badly is suitable for storage of large volumes of information because doesn't allow to share already available files without their addition in the storage. Also doesn't allow to use the files which are stored at themselves without download.\n\nThat is, for example, in such a way it is required to distribute terabyte of movies also terabyte in the collection, and terabyte in IPFS.\n\nI had liked Tahoe-LAFS more here. Here example of use:\n\nhttp://127.0.0.1:43110/1MaQ4W5D6G52TpBfPACU9k9QcB1DxvHZ5v/?Post:19:Тест+видео+из+Tahoe-LAFS\n\nThough Tahoe-LAFS demands separate storage in own storage too, but there it is possible to operate more flexibly data, including to modify the stored data.",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486923662
+		},
+		{
+			"comment_id": 40,
+			"body": "18.02.2017 — photo lost",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1482656869",
+			"date_added": 1487427694
+		},
+		{
+			"comment_id": 41,
+			"body": "18.02.2017 — photo still exists",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1483464131",
+			"date_added": 1487427707
+		},
+		{
+			"comment_id": 42,
+			"body": "@Mist: Баг, наверняка. Картинку мою кто мог удалить? Это не одна картинка и все они поддерживаются (точнее, поддерживались) на 4-5 моих нодах :) Плюс все, кому было интересно, так что количество пиров достигало 15-20 штук. Но всё (на данный момент), что было в прошлом году — пропало. Т.е. сейчас фото от 25 декабря и старше — пропали все. От 3 января — ещё живо. Ну да это легко проверить, посмотрев мою ленту :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1487427697",
+			"date_added": 1487429425
+		},
+		{
+			"comment_id": 43,
+			"body": "@Mist: Что интереснее — исчезали они по частям. Сперва самые старые, потом свежее. Это не разовый глюк был :) Но точных меток временных не засекал, только сейчас, вот, сподобился. Посмотрим, как будет в будущем.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1487427697",
+			"date_added": 1487453482
+		},
+		{
+			"comment_id": 44,
+			"body": "@Mist: Ну как же? _До_ пропали все. _После_ — живы. И чем постинги могут отличаться? Все писались одинаково. Настроек никаких нет :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1487427697",
+			"date_added": 1487469018
+		},
+		{
+			"comment_id": 45,
+			"body": "Mastodon is compatible with GNU Social. That is, from Mastodon you can subscribe to users of GNU Social and vice versa. How to search - I do not know. You can ask in other networks, for example, here in ZeroNet :) I'm available there as https://quitter.no/balancer - but while these networks I do not use almost.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1475784449",
+			"date_added": 1492537140
+		},
+		{
+			"comment_id": 46,
+			"body": "@Pozya: На Хабре оно на русском было. А тут — англоязычные. Это, скорее всего, как выше @Rythyrix ответил :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1492535145",
+			"date_added": 1492714602
+		},
+		{
+			"comment_id": 47,
+			"body": "@Atulipki Khumuri: Ну, я эти сообщения оттуда пишу. Как клонировать приложений, клонирование которых запрещено — не разбирался. Наверное, достаточно просто скопировать вручную код в свой пустой зайт.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1492535914",
+			"date_added": 1492794748
+		},
+		{
+			"comment_id": 48,
+			"body": "@Zaa: Можешь показать плюсы Beaker'а хотя бы перед Malestrom? Про ZeroNet  я молчу, так как похоже, у тебя какая-то идиосинкразия. При чём с виктимностью, раз пишешь об этом тут :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1500968131",
+			"date_added": 1501075015
+		},
+		{
+			"comment_id": 49,
+			"body": "@Salitynam: Добро пожаловать :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1500968131",
+			"date_added": 1501736567
+		},
+		{
+			"comment_id": 50,
+			"body": "@ZAlex: Не индекс всего, но индекс всего обновляющегося в последнее время :) А так — да, надо будет сканер сделать и пройти по всему ZeroNet :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503243117",
+			"date_added": 1503287154
+		},
+		{
+			"comment_id": 51,
+			"body": "@GomZik: Ну, я сперва прошёлся по всем блогам, что были открыты на общедоступном прокси, а твой блог давно один из первых попадался :) Потом добавил ещё с десяток блогов из ZeroSites по фильтру EN+RU. Потом подумывал о написании бота-краулера, который пройдёт по всем `*.json`, соберёт все ZeroSiteId и подпишется на эти зайты. Но я сходу не знаю, как в тексте отличить ID зайта от ID юзера, а дёргать зайты по ID юзера — оно очень, очень долго висит потом... Так что пока заглохло. Но тут подсказали, что можно по `*blog*` в 0list посмотреть :) Только хорошо бы китайцев отфильтровать, а то их много, а о чём пишут непонятно :D С другой стороны, надо на объёмы результата смотреть, если будет не много, то можно и их прописать... Сейчас что-то около 12Мб на 60 блогов вышло.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503214802",
+			"date_added": 1503307025
+		},
+		{
+			"comment_id": 52,
+			"body": "@GomZik: Ага, я там ещё много буду дорабатывать. Просто понял давно, что лучше плохо работающая система, чем хорошая не реализованная :) Сколько разных проектов накрывалось так и не родившись от того, что хотел всё сразу по уму и круто сделать. Лучше выложить как есть, на коленке слепленое, а потом уже понемногу доделывать :)\n\nВот только с комментариями не решил, как быть: http://127.0.0.1:43110/1F4WVHDpQYxuJL6xEY3EZTYkZds9TTjVHC/?Topic:28_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/Infonesy",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503214802",
+			"date_added": 1503311578
+		},
+		{
+			"comment_id": 53,
+			"body": "@Radjah: Стороннего готового решения нет. На тех сырых скриптах, что я делаю для Infonesy, можно за вечер-два-три сделать.\n\nСейчас у меня есть транслятор опубликованных записей из Tiny tiny rss (я её использую для чтения после смерти Google Reader) в Infonesy в виде блог-записей и импорт блог-записей на форум в виде лент новостей. Т.е. читаю RSS, что вызывает интерес — тыкаю кнопочку «publish» и оно через какое-то время на форуме: http://forums.balancer.ru/viewforum.php?id=221\n\nВ таком же виде туда идёт избранное из Твиттера (тоже есть скрипты Twitter favorites -> Infonesy).\n\nТакже я делал эксперименты по трансляции Infonesy -> ZeroBlog: http://127.0.0.1:43110/1F3ggqq99yHzra2aEM6uRRbvbDMaj4EdpF/\n\nТолько я тогда не решил проблему переполнения блога. Надо хотя бы раз в месяц заводить новый и делать всё это автоматически. Задача решается, но это надо делать много скучной механической работы, поэтому пока было отложено :)\n\nСоответственно, объединение первого и второго механизмов даст трансляцию RSS в ZeroBlog. Если речь о собственных постах, то их объём небольшой, хватит и одного постоянного блога. Так я планирую допилить трансляции Facebook -> Infonesy -> ZeroBlog.\n\nВообще, с такими обсуждениям лучше на форум, там оно доступнее будет, чем в ZeroMe :) — http://127.0.0.1:43110/1F4WVHDpQYxuJL6xEY3EZTYkZds9TTjVHC/",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503243117",
+			"date_added": 1503336525
+		},
+		{
+			"comment_id": 54,
+			"body": "@GomZik: Добавил ссылки на блоги. Пока на страницах самих блогов, позже и прямые ссылки на сообщения сделаю.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503214802",
+			"date_added": 1503496006
+		},
+		{
+			"comment_id": 55,
+			"body": "@Flyman: As the question, so the answer. Garbage in, garbage out :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503276123",
+			"date_added": 1503853554
+		},
+		{
+			"comment_id": 56,
+			"body": "@Musickiller: Так это и есть калька с «официального» Zite = ZeroSite :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503469895",
+			"date_added": 1503918123
+		},
+		{
+			"comment_id": 57,
+			"body": "@Musickiller: Прикинь как смешно звучали «винчестер» или «блог» :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503469895",
+			"date_added": 1503979455
+		},
+		{
+			"comment_id": 58,
+			"body": "@Musickiller: И Blog, и Zite — это чистой воды неологизмы (от Web-Log и Zero-Site). Блог и Зайт, соответственно, заимствование английского неологизма.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503469895",
+			"date_added": 1504025311
+		},
+		{
+			"comment_id": 59,
+			"body": "@Flyman: «*Where I am? Who am I? Where am I, where to?*» ... Damn, it's impossible to translate this song into English through an automatic translator, that I use! :D",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503276123",
+			"date_added": 1504118079
+		},
+		{
+			"comment_id": 60,
+			"body": "@Binchan: 17724 is the number of peers that my node can connect to. A 43576 is the number of peers on which the ZeroHello page is available. The number that is written to the right of the person icon next to the name of the zite in the left menu.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823",
+			"date_added": 1512186515
+		},
+		{
+			"comment_id": 61,
+			"body": "@Binchan: No, the version is everywhere the same. Unfortunately, I did not guess to take a screenshot of this number, but now the node has rebooted and shows only 449 page sources with 25 available peers.\n\nThe next message in ZeroMe will send an illustration (or else you can not insert a picture into the comment).\n\nReady: http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/1512187903",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823",
+			"date_added": 1512187724
+		},
+		{
+			"comment_id": 62,
+			"body": "@Krixano: Yes, sorry, I got it wrong :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512187903",
+			"date_added": 1512189634
+		},
+		{
+			"comment_id": 63,
+			"body": "@Git Center: Excellent! Almost what I need.\n\nOnly in this case, the request occurs every time the blog is opened, even if the zite with the videos has already been added. How can I find out that such a zite is already loaded in order not to display a request?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513518157
+		},
+		{
+			"comment_id": 64,
+			"body": "@Git Center: \n\n```\nPage.cmd(\"permissionAdd\", [\"1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\"]);\n...\nerror: \"You don't have permission to run permissionAdd\"\n```\n\n```\nPage.cmd(\"wrapperPermissionAdd\", [\"Cors:1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\"]);\n```\n\nThere are no errors, but it is requested every time.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513536482
+		},
+		{
+			"comment_id": 65,
+			"body": "@Git Center: Almost what it turned out to be. But another pitfall. If I delete a zite with a video, the zite that uses it no longer issues an add-on request and can not use it :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513538278
+		},
+		{
+			"comment_id": 66,
+			"body": "@Git Center: Now error in Python backend :)\n```\nInternal error: AttributeError: 'NoneType' object has no attribute 'content_manager'\nUiWebsocket.py line 79 > UiWebsocket.py line 250 > MergerSitePlugin.py line 161 > MergerSitePlugin.py line 143 > CorsPlugin.py line 46 > CorsPlugin.py line 36 > UiWebsocket.py line 619\n```\n\nThe error occurs when the method `Page.cmd(\"fileRules\", [\"cors-1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166/content.json\"], function(rules) {...` is invoked using the `cors-` prefix.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513541953
+		},
+		{
+			"comment_id": 67,
+			"body": "@Nofish: Oh :) Well, then we'll wait for the general update :) Thanks! :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513564199
+		},
+		{
+			"comment_id": 68,
+			"body": "A \"dolgij yashchik\" is, rather, a \"sustained box\" or \"long duration box\" than a \"long box\" ;) So they used to call a will. \"To put into long box\" = \"postpone until the time when your will is required\". Google offers a simple translation of \"Put it back on hold\".",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1513526741",
+			"date_added": 1513565732
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475284663
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475285755
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475291409
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475347037
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475354579
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19JpBg7H6FxuaNYQmW2BDAAo1Yaw5pdY3K",
+			"user_name": "Bal",
+			"date_added": 1475396291
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1475657651
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1476137738
+		},
+		{
+			"follow_id": 9,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476198996
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476199224
+		},
+		{
+			"follow_id": 11,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476202132
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476202161
+		},
+		{
+			"follow_id": 13,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476202554
+		},
+		{
+			"follow_id": 14,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476202655
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476202698
+		},
+		{
+			"follow_id": 16,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476203562
+		},
+		{
+			"follow_id": 17,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476204443
+		},
+		{
+			"follow_id": 18,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JEFK9PSB2KTgS6vAR5u9iuQZ4QiRMp4vw",
+			"user_name": "Alexs",
+			"date_added": 1476205509
+		},
+		{
+			"follow_id": 19,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476206859
+		},
+		{
+			"follow_id": 20,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476252226
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L",
+			"user_name": "01served",
+			"date_added": 1476257678
+		},
+		{
+			"follow_id": 22,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L",
+			"user_name": "01served",
+			"date_added": 1476257699
+		},
+		{
+			"follow_id": 23,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny",
+			"user_name": "Zerogate",
+			"date_added": 1476258658
+		},
+		{
+			"follow_id": 24,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1476258766
+		},
+		{
+			"follow_id": 25,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1476258841
+		},
+		{
+			"follow_id": 26,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1476263691
+		},
+		{
+			"follow_id": 27,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476728163
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1479537982
+		},
+		{
+			"follow_id": 29,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "19JpBg7H6FxuaNYQmW2BDAAo1Yaw5pdY3K",
+			"user_name": "Bal",
+			"date_added": 1481338081
+		},
+		{
+			"follow_id": 30,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1481338097
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482039027
+		},
+		{
+			"follow_id": 32,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1482039082
+		},
+		{
+			"follow_id": 33,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482155794
+		},
+		{
+			"follow_id": 34,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482656980
+		},
+		{
+			"follow_id": 35,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482657394
+		},
+		{
+			"follow_id": 36,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1483947042
+		},
+		{
+			"follow_id": 37,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1484667967
+		},
+		{
+			"follow_id": 38,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1484670401
+		},
+		{
+			"follow_id": 39,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1487219345
+		},
+		{
+			"follow_id": 40,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1487429345
+		},
+		{
+			"follow_id": 41,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1488213453
+		},
+		{
+			"follow_id": 42,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1492491920
+		},
+		{
+			"follow_id": 43,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1492532600
+		},
+		{
+			"follow_id": 44,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492532635
+		},
+		{
+			"follow_id": 45,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "136wmwLTBJoGTjXTAa7sWmXewn9P53EKML",
+			"user_name": "Zero News",
+			"date_added": 1492532691
+		},
+		{
+			"follow_id": 46,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "136wmwLTBJoGTjXTAa7sWmXewn9P53EKML",
+			"user_name": "Zero News",
+			"date_added": 1492532729
+		},
+		{
+			"follow_id": 47,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1492533072
+		},
+		{
+			"follow_id": 48,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Cyborg Warrior",
+			"date_added": 1492533085
+		},
+		{
+			"follow_id": 49,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um",
+			"user_name": "Yurithejewler",
+			"date_added": 1492533277
+		},
+		{
+			"follow_id": 50,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1G93135DKegpzoqyADP2MznzTwSUBLQKnQ",
+			"user_name": "Parigo",
+			"date_added": 1492533280
+		},
+		{
+			"follow_id": 51,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1492533301
+		},
+		{
+			"follow_id": 52,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1492533318
+		},
+		{
+			"follow_id": 53,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492533325
+		},
+		{
+			"follow_id": 54,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1492533375
+		},
+		{
+			"follow_id": 55,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18iELxgQf2hpjFuBofjEJyuvVazJt2ekSp",
+			"user_name": "Wrewolf",
+			"date_added": 1492533434
+		},
+		{
+			"follow_id": 56,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx",
+			"user_name": "rushka life feed",
+			"date_added": 1492533572
+		},
+		{
+			"follow_id": 57,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1492533584
+		},
+		{
+			"follow_id": 58,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CFhytwoGGPNqmueehPqotaf2iG9uxD98e",
+			"user_name": "Method-X",
+			"date_added": 1492533651
+		},
+		{
+			"follow_id": 59,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NZ4LvZqg61LxtRfEr5Y46KRhYCzWRnqck",
+			"user_name": "Gallium",
+			"date_added": 1492533676
+		},
+		{
+			"follow_id": 60,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1492533694
+		},
+		{
+			"follow_id": 61,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1492533826
+		},
+		{
+			"follow_id": 62,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1492533837
+		},
+		{
+			"follow_id": 63,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+			"user_name": "Zerro",
+			"date_added": 1492533846
+		},
+		{
+			"follow_id": 64,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1492533975
+		},
+		{
+			"follow_id": 65,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1492534062
+		},
+		{
+			"follow_id": 66,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1492534113
+		},
+		{
+			"follow_id": 67,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1492534134
+		},
+		{
+			"follow_id": 68,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1492534196
+		},
+		{
+			"follow_id": 69,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1492534235
+		},
+		{
+			"follow_id": 70,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1492534250
+		},
+		{
+			"follow_id": 71,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1492534257
+		},
+		{
+			"follow_id": 72,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87",
+			"user_name": "Brom",
+			"date_added": 1492534275
+		},
+		{
+			"follow_id": 73,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+			"user_name": "Zerro",
+			"date_added": 1492534316
+		},
+		{
+			"follow_id": 74,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19xkVTXjXQR92UG2TyqtXnRRnGjHuKCbpX",
+			"user_name": "Nulc",
+			"date_added": 1492534333
+		},
+		{
+			"follow_id": 75,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492534358
+		},
+		{
+			"follow_id": 76,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492534375
+		},
+		{
+			"follow_id": 77,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492534426
+		},
+		{
+			"follow_id": 78,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1APx2pf1wNGFz4mWCN2sFzrtTGzrLKZUQ2",
+			"user_name": "Dude",
+			"date_added": 1492534671
+		},
+		{
+			"follow_id": 79,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BidCEzNjETypKRCaRFQ6myvDo71o6FDyC",
+			"user_name": "Renha",
+			"date_added": 1492534871
+		},
+		{
+			"follow_id": 80,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16ojERmxhsiYi13evABojDh1JgDNqodpZF",
+			"user_name": "Zentralsonne",
+			"date_added": 1492534904
+		},
+		{
+			"follow_id": 81,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14qbGJTZ1cyF9YcSUVYj73xfxyTJjUEQWY",
+			"user_name": "The33",
+			"date_added": 1492534925
+		},
+		{
+			"follow_id": 82,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "14kxkh1pLNYuCwCZ161HCQkSjvWW29ybNz",
+			"user_name": "Geobor",
+			"date_added": 1492534956
+		},
+		{
+			"follow_id": 83,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1492534972
+		},
+		{
+			"follow_id": 84,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1492535188
+		},
+		{
+			"follow_id": 85,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1492535240
+		},
+		{
+			"follow_id": 86,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18WFCAqYM3Kdhm5qskvR1rS3REQVZGjiHe",
+			"user_name": "Chenyu",
+			"date_added": 1492535266
+		},
+		{
+			"follow_id": 87,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1DB5vzATvqvQykj1zjL2xdMtYSqXc8cmP3",
+			"user_name": "Freedom Belarus",
+			"date_added": 1492535296
+		},
+		{
+			"follow_id": 88,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ",
+			"user_name": "jro",
+			"date_added": 1492535357
+		},
+		{
+			"follow_id": 89,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1492535370
+		},
+		{
+			"follow_id": 90,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1492535435
+		},
+		{
+			"follow_id": 91,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "136wmwLTBJoGTjXTAa7sWmXewn9P53EKML",
+			"user_name": "Zero News",
+			"date_added": 1492535481
+		},
+		{
+			"follow_id": 92,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KBZKMhcAE42J4kbVjCXySKZyqLaxJf5WG",
+			"user_name": "Nicholas_Scourgefury",
+			"date_added": 1492535500
+		},
+		{
+			"follow_id": 93,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1492535545
+		},
+		{
+			"follow_id": 94,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1492535581
+		},
+		{
+			"follow_id": 95,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "17eKk6mdR7bth2Fi8f74P5JV8AfHsERT4F",
+			"user_name": "Zerro",
+			"date_added": 1492535602
+		},
+		{
+			"follow_id": 96,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Nyv5sTPtqCPQmK81bgx3iHWYDQDwLMNZX",
+			"user_name": "gaslimit",
+			"date_added": 1492535663
+		},
+		{
+			"follow_id": 97,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1492535686
+		},
+		{
+			"follow_id": 98,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1492535715
+		},
+		{
+			"follow_id": 99,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1492536026
+		},
+		{
+			"follow_id": 100,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1492536068
+		},
+		{
+			"follow_id": 101,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "Bot",
+			"date_added": 1492536092
+		},
+		{
+			"follow_id": 102,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1492536104
+		},
+		{
+			"follow_id": 103,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1492536115
+		},
+		{
+			"follow_id": 104,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe",
+			"user_name": "Plasmmer",
+			"date_added": 1492536138
+		},
+		{
+			"follow_id": 105,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KBZKMhcAE42J4kbVjCXySKZyqLaxJf5WG",
+			"user_name": "Nicholas_Scourgefury",
+			"date_added": 1492536195
+		},
+		{
+			"follow_id": 106,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KBZKMhcAE42J4kbVjCXySKZyqLaxJf5WG",
+			"user_name": "Nicholas_Scourgefury",
+			"date_added": 1492536223
+		},
+		{
+			"follow_id": 107,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "17tQX9J2fScN9APmweSUnzEU4EfTG1ojYb",
+			"user_name": "Brahman",
+			"date_added": 1492536290
+		},
+		{
+			"follow_id": 108,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1492536316
+		},
+		{
+			"follow_id": 109,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"user_name": "G1tich",
+			"date_added": 1492536357
+		},
+		{
+			"follow_id": 110,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1492536379
+		},
+		{
+			"follow_id": 111,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1KBZKMhcAE42J4kbVjCXySKZyqLaxJf5WG",
+			"user_name": "Nicholas_Scourgefury",
+			"date_added": 1492536421
+		},
+		{
+			"follow_id": 112,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1Jq6z2fdZefKyb3MFWTCPnJqwvmHxfU8Px",
+			"user_name": "Pozya",
+			"date_added": 1492714707
+		},
+		{
+			"follow_id": 113,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1CENXcK8fuLsmsunGyhpiCPJNCEWqYsums",
+			"user_name": "Atulipki Khumuri",
+			"date_added": 1492756271
+		},
+		{
+			"follow_id": 114,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1CENXcK8fuLsmsunGyhpiCPJNCEWqYsums",
+			"user_name": "Atulipki Khumuri",
+			"date_added": 1492795898
+		},
+		{
+			"follow_id": 115,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1492868671
+		},
+		{
+			"follow_id": 116,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1BR2d8kCqCBaFWLQ9KXnNbJzLmcPJ3DdTL",
+			"user_name": "Varakin.0City.Me",
+			"date_added": 1494082477
+		},
+		{
+			"follow_id": 117,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1BR2d8kCqCBaFWLQ9KXnNbJzLmcPJ3DdTL",
+			"user_name": "Varakin.0City.Me",
+			"date_added": 1494082498
+		},
+		{
+			"follow_id": 118,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1CENXcK8fuLsmsunGyhpiCPJNCEWqYsums",
+			"user_name": "Atulipki Khumuri",
+			"date_added": 1494082511
+		},
+		{
+			"follow_id": 119,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1CENXcK8fuLsmsunGyhpiCPJNCEWqYsums",
+			"user_name": "Atulipki Khumuri",
+			"date_added": 1494128335
+		},
+		{
+			"follow_id": 120,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1BR2d8kCqCBaFWLQ9KXnNbJzLmcPJ3DdTL",
+			"user_name": "Varakin.0City.Me",
+			"date_added": 1494128370
+		},
+		{
+			"follow_id": 121,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1499429074
+		}
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [],
+	"flags": {},
+	"comment_like": {},
+	"bgColor": "#0C37D3"
+}

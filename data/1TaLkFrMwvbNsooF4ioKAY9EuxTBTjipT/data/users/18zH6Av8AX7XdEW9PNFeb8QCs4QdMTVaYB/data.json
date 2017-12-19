@@ -1,0 +1,138 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1510158773,
+			"title": "Please help support FREEMLT, Malta's first censorship-proof website after the car bomb assassination of journalist Daphne Caruana Galizia",
+			"body": "We are a group of Maltese activists fighting to ensure freedom of speech in Malta and experimenting with ZeroNet in the aftermath of the car bomb assassination of Malta's leading investigative journalist, Daphne Caruana Galizia, last month. \n\nPlease support us by becoming a FREEMLT peer and helping us host the website: http://127.0.0.1:43110/1FREEMLT3GSta6TynuAC9EWM5mXCnrxkiu\n\nMore info in our first post: http://127.0.0.1:43110/1FREEMLT3GSta6TynuAC9EWM5mXCnrxkiu/?Post:2:Welcome+to+FREEMLT \n\nTHANK YOU!",
+			"added": 1510158772
+		},
+		{
+			"topic_id": 1513544848,
+			"title": "Update on FREEMLT + Question on address_index and vanity addresses...",
+			"body": "Hi! \n\nFREEMLT is the first censorship-proof website on the island of Malta.\n\nWe've been quiet lately, but busy in the background and still unfortunately making no progress on our issues with comments posted on FREEMLT not propagating. We still have not been able to open any ports on our machines and cannot ask for help in real life without compromising our anonymity, so any help we can get here is highly appreciated. However we suspect that closed ports is not the cause of our issues because our site updates do in fact appear to propagate well.\n\nCould the issue with commenting be related to the address_index value in content.json? We did not set that when we changed the site address to our vanity address. Any other ideas or other help with this please? Maybe some ideas for testing?\n\nWe would also like to launch a ZeroTalk site at 1MALTALKxyXgvWSqZkcdjsh4LUqqL2bKFe but we've also had problems with another test site we had tried and with anything related to the ZeroID and user interaction, which is not propagating across machines on our sites. We can interact on other sites though, as with this post, for example. It's strange that this is not working and we're stumped. PLEASE HELP! \n\nFREEMLT: 127.0.0.1:43110/1FREEMLT3GSta6TynuAC9EWM5mXCnrxkiu/",
+			"added": 1513544846
+		}
+	],
+	"topic_vote": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 1,
+				"body": "> [caryoscelus](#comment_1_13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE): \n\nDid you get an actual error saying \"not found\"?  What we get is the occasional time the page seems to get stuck and never loads, but trying again generally fixes it. \n\nDoes anyone know if these are teething troubles that will resolve themselves once more peers are helping us out?",
+				"added": 1510170336
+			},
+			{
+				"comment_id": 2,
+				"body": "Here is Maltese justice minister Owen Bonnici in a Freudian slip where he says Daphne was KILLED BY POLITICIANS. Video in English.\n\nhttp://www.lemonde.fr/paradise-papers/video/2017/11/08/malte-le-lapsus-du-ministre-de-la-justice-sur-le-meurtre-de-daphne-caruana-galizia_5212025_5209585.html",
+				"added": 1510178481
+			},
+			{
+				"comment_id": 3,
+				"body": "And another question: are there ways to use sites like Reddit or Twitter securely over tor or some other anonymising service?",
+				"added": 1510270300
+			}
+		],
+		"1510451464_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": [
+			{
+				"comment_id": 4,
+				"body": "Thanks for the comment. We're aware of the issue with comments but have not managed to figure it out yet. It's probably a 'serverside' issue rather than code because just cloning another test blog without making any modifications to it gives the same problem. We tried out a test installation of ZeroTalk and are having the same issue with posts and comments not propagating. We hope to get that working soon because we already have a cool name for the service: MALTALK and  1MALTALKxyXgvWSqZkcdjsh4LUqqL2bKFe ready to go.\n\nSpecifically, we think it could very well be a ports issue because we are having trouble getting ZeroNet to recognise the port we are trying to open. We need more time to figure that out. Just keeping up with the local news and blogs  is a full-time job. \n\nHere's an idea if you'd like to help us with testing: someone with an open port please clone FREEMLT and let's test if comments work on your clone. That would be tremendously helpful.\n\nFreedom of speech is not completely dead in Malta and some bold writers like those at  http://theshiftnews.com/ and https://manueldelia.com/ have raised up their voices since the assassination. But things are bad enough that we feel the need to be ready and prepared for worse to come with working technology ready to deploy publicly if needed. And so we can prepare calmly for now. We'll be looking at ZeroMail and the rest of the goodies soon. We've just started out and we decided not to give this any publicity locally, at least for the time being, so we're a tiny team.",
+				"added": 1510474656
+			},
+			{
+				"comment_id": 5,
+				"body": "> [barefootwarrior]\n\nCould you share a link to the blog so we can test if the comments propagate to other peers please? We manage to comment locally but get an error saying that the update has failed, which is why it could be a port issue. The strange thing is that site updates work and comment updates don't. Can anyone who knows about the inner workings of ZeroBlog give us any ideas?",
+				"added": 1510507846
+			},
+			{
+				"comment_id": 6,
+				"body": "> [barefootwarrior]\n\nI can see your comment and I posted a comment some 15 hours ago and another one just now. Check if they show up. This last one clearly said \"published to \"2/2\" peers!\" Can't remember the first.",
+				"added": 1510577004
+			}
+		],
+		"1513544848_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 7,
+				"body": "> [gitcenter](#comment_79_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Maybe you did it wrong? [...]\n\n Could be, though we followed those steps except for step 4. We also modified content.json to add the vvanity address:\n\n \"address\": \"1FREEMLT3GSta6TynuAC9EWM5mXCnrxkiu\",\n\nHowever, we did not know how to modify the line below that:\n\n \"address_index\": 75272045,\n\nwhich is auto generated when the site is cloned, according to the docs.",
+				"added": 1513591643
+			},
+			{
+				"comment_id": 8,
+				"body": "> [herp](#comment_52_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): First can you try selecting the three-dot drop-down menu in ZeroHello for FREEMLT and selecting the 'Upgrade Code' button? If you made any changes to JS/CSS files beforehand, be sure to back those up before you do this, and re-apply the changes afterwards.\n\nThanks for your generous offer. A bit address would be neat, but we hope to get the site mechanics functioning first before the next technical steps. We've upgraded the code, though there was no confirmation dialog box that it did in fact upgrade successfully after clicking. Is there any way to find out?",
+				"added": 1513591995
+			},
+			{
+				"comment_id": 9,
+				"body": "> [gitcenter](#comment_81_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Did you clone any site or created new?\n\nCloned. We also did other test clones without changing the vanity address and got the same result.",
+				"added": 1513592099
+			},
+			{
+				"comment_id": 10,
+				"body": "> [gitcenter]\n\nVer 0.6.0",
+				"added": 1513593802
+			},
+			{
+				"comment_id": 11,
+				"body": "Try this: http://127.0.0.1:43110/1testuw8MAzuFjzVo3fwWuTb5etbBzzup/",
+				"added": 1513611373
+			},
+			{
+				"comment_id": 12,
+				"body": "> [gitcenter] Sorry. Forgot to tag you below.",
+				"added": 1513611417
+			},
+			{
+				"comment_id": 13,
+				"body": "Can you try and post a comment on one of the posts please? It's the comments that's not working.",
+				"added": 1513614853
+			},
+			{
+				"comment_id": 14,
+				"body": "> [gitcenter](#comment_89_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Got File write error: [object Object]. Is it that error?\n\nYes, that's typically the error we get. Also, we did use the clone feature for both the original site and this test.\n\nAnd hmm... by 'sign' content.json, do you mean entering the private key when publishing (which is what we have done) or do we need to do something else? \n\nWe don't have a data/users directory, so no content.json file in there to sign. Or did you mean users.json in your last question?",
+				"added": 1513617399
+			},
+			{
+				"comment_id": 15,
+				"body": "> [gitcenter](#comment_95_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): By signing, I mean opening sidebar and pressing Sign and then Publish buttons at the bottom.\n\nThanks. Try this: http://127.0.0.1:43110/13QBmg2cLhKEoGJiV86Wvght4dKq7N2JFj/ \n\nI now see what you meant by the option to sign the data/users/content.json. Should we do that too?",
+				"added": 1513620059
+			},
+			{
+				"comment_id": 16,
+				"body": "> [gitcenter](#comment_102_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Getting no peers found. Could you publish one more time?\n\nDone",
+				"added": 1513621080
+			},
+			{
+				"comment_id": 17,
+				"body": "We can't see it, though. We just published a comment too. Can you see it? \n\nThis is what is happening to  us too, apart from the error. It looks like the comment is published, but it does not show for the other users.",
+				"added": 1513623728
+			},
+			{
+				"comment_id": 18,
+				"body": "> [gitcenter](#comment_105_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Yes, I can see it!\n\nI see your comment too now. Great! This is working.\n\nI moved the blog to the vanity address http://127.0.0.1:43110/1testuw8MAzuFjzVo3fwWuTb5etbBzzup now and added another comment. Can you test again please?",
+				"added": 1513624634
+			},
+			{
+				"comment_id": 19,
+				"body": "> [gitcenter](#comment_107_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): I can see your post. Can you see mine?\n\nI can see the one that says Test again.",
+				"added": 1513625740
+			},
+			{
+				"comment_id": 20,
+				"body": "So was the problem on FREEMLT that we did not sign data/users/content.json? We signed it now, so maybe you can see if you can see our comments and try commenting on FREEMLT.",
+				"added": 1513626073
+			},
+			{
+				"comment_id": 21,
+				"body": "> [gitcenter](#comment_107_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di):\n\nWe've also cloned a ZeroTalk site. Take a look and see if you can post. http://127.0.0.1:43110/1MALTALKxyXgvWSqZkcdjsh4LUqqL2bKFe",
+				"added": 1513626925
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1K2WtdsHZYjArvQBH3amE2AHHRUckS1xoK": 1,
+		"107_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"next_comment_id": 9,
+	"user_name": "Nfiqoifain",
+	"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "不会的。但是你不能再用现在ID发信息了。",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500107765",
+			"date_added": 1500108215
+		},
+		{
+			"comment_id": 3,
+			"body": "@Booma: 怎么看到自己还剩多少容量",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500118597",
+			"date_added": 1500120427
+		},
+		{
+			"comment_id": 4,
+			"body": "@Booma: 恩，看到了。总共48K，也太少了。。",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500118597",
+			"date_added": 1500120845
+		},
+		{
+			"comment_id": 5,
+			"body": "满了之后只能删以前的数据，才能继续发对吧？",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500118597",
+			"date_added": 1500120908
+		},
+		{
+			"comment_id": 6,
+			"body": "@简单翻墙: 发现一个能够快速删除数据的办法。\n\n1. 找到ZeroNet数据文件夹（找不到就全局搜索，关键字1White24UrrwQrD86o6Vrc1apgZ1x1o51）\n2. 找到`data/1White24UrrwQrD86o6Vrc1apgZ1x1o51/data/users/你的身份ID/data.json`\n3. 打开这个文件，里面都是曾经发过的内容\n4. 编辑JSON格式，将过去发布的内容删掉\n5. 在ZeroNet中随便发一条消息，让刚才编辑的内容分发到P2P网络\n6. 再看自己的空间，可以看到体积变小了",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500118597",
+			"date_added": 1500122358
+		},
+		{
+			"comment_id": 7,
+			"body": "关注的人太多也会占空间哦",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1500122747",
+			"date_added": 1500123301
+		},
+		{
+			"comment_id": 8,
+			"body": "这是LXB写的吗？",
+			"post_uri": "1MAvDGLbFjB5HwJ7XsWjudy6xbAJrWsaTV_1500191215",
+			"date_added": 1500193937
+		}
+	]
+}

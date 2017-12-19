@@ -1,0 +1,48 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Blockheadz",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506814383,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1506814527,
+			"body": "*asd*",
+			"date_added": 1506814525
+		}
+	],
+	"post_like": {
+		"1HUgmGAKRpt7EgX6pn2UN2cFcVd7B9DoNt_1": 1506814441
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "asd",
+			"post_uri": "1HUgmGAKRpt7EgX6pn2UN2cFcVd7B9DoNt_1",
+			"date_added": 1506814448
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "13h1NrGy4p8kMTvRNAikCDA5xMsEgKCgFL",
+			"user_name": "Starship",
+			"date_added": 1506814405
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1HUgmGAKRpt7EgX6pn2UN2cFcVd7B9DoNt",
+			"user_name": "Blockheadz",
+			"date_added": 1506814408
+		}
+	]
+}

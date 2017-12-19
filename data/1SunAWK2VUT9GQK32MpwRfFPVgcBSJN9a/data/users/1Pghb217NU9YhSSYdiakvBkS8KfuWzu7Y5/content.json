@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCD69QmWNOT/LPPuihWHjcko/sJus7qLo4VsRyqzjzuZ80LX6kCMpuh/NaAFnmNJ7BYHF3bP9jUpX9v6qCT0Vpc=",
+ "cert_user_id": "lanzallamas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "eddee84ce3ed1c61b25022486a09ad9c721a327a9e09265a3208b7b05b7d99e4",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/1Pghb217NU9YhSSYdiakvBkS8KfuWzu7Y5/content.json",
+ "modified": 1505236373,
+ "signs": {
+  "1Pghb217NU9YhSSYdiakvBkS8KfuWzu7Y5": "G8IjZA6eXFReMUQxDuQwFLsmv27Fnfpz068t5pJvujYyGMrNNixy9uWniEBP919atzmGOkM7EP8LcEcosF03DSA="
+ }
+}

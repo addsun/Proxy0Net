@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1/cMFQFneXk7a6rMEcHfMXBvcUFF2t+OGLjMJ3p+l5zqNPPGhyukfeE2dEs67Z101H0N7u5qMEtlIrniWjdnNk=",
+ "cert_user_id": "twistero@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a98e55b722189ab8f2ecad594eb719d73db05d6add53a08c6dce105eb465a577",
+   "size": 1073
+  }
+ },
+ "inner_path": "data/users/1DvoFfisbGGtX2t6jEiLFgz41JTo8Jf44n/content.json",
+ "modified": 1508644708,
+ "signs": {
+  "1DvoFfisbGGtX2t6jEiLFgz41JTo8Jf44n": "G44PqYVu17DFFXPSc9QSAcjOMVLYsHvI86jf/sXYxiOlZu9uOGCeZhT5U4J+L2Imh86BkWP5A76YcKEYFTr+Ub0="
+ }
+}

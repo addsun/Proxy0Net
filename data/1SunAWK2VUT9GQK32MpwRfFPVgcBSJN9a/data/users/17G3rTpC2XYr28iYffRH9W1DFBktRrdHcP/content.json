@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6PniSlDQ2fZV/KanjJBuW4OhLKzFgKeqcGjKItR4gvNMNgHmKUTy8eBAeeWkPwGRYUVTjynEzrC1y1GhFHokK8=",
+ "cert_user_id": "whoisthere@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5e5a1ac93171e3b116b9ff0d23935ce5cd11a6be5ed7816c42177507a5dc9e97",
+   "size": 1117
+  }
+ },
+ "inner_path": "data/users/17G3rTpC2XYr28iYffRH9W1DFBktRrdHcP/content.json",
+ "modified": 1508530139,
+ "signs": {
+  "17G3rTpC2XYr28iYffRH9W1DFBktRrdHcP": "G2rlfRM+KxykitWodAP/gB7kn0lszLXy23OB0QpmNDl79vl8Jz3a2gYTkOVKqu4KvaZnRdmRXMcXnOfSQ2m55aM="
+ }
+}

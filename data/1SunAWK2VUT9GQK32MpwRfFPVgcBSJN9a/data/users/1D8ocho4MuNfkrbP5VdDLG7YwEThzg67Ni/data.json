@@ -1,0 +1,125 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 4,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "Zerostorm",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1505691751,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1505694564,
+			"body": "Do not churn with non-default ring size!",
+			"date_added": 1505694562
+		},
+		{
+			"post_id": 1505828309,
+			"body": "If you do not want DRM, just do not use it.",
+			"date_added": 1505828306
+		},
+		{
+			"post_id": 1505851454,
+			"body": "Instead of blocking coinhive and js-miners would be better to block recaptcha and adware scripts. ",
+			"date_added": 1505851450
+		},
+		{
+			"post_id": 1506820066,
+			"body": "В общем, я отписываюсь от ZeroMe и отключаюсь от всех хабов. Очень неудачная реализация вышла, там где Merger Sites не только не идет на пользу, но даже идет во вред. Логически пространство неделимое, я не могу быть подписан только на несколько хабов. А при нахождении большого времени офлайн, всё это теперь довольно медленно обновляется.\n\n**UPD: не актуально**",
+			"date_added": 1506820061
+		},
+		{
+			"post_id": 1507252666,
+			"body": "Может быть рано я решил отказаться от ZeroMe. То есть, да, подход ошибочный, но сейчас из замены пока особой нет, кроме форумов, так что пока это время придется пользоваться.",
+			"date_added": 1507252660
+		},
+		{
+			"post_id": 1507320632,
+			"body": "Crowdless crowd.",
+			"date_added": 1507320625
+		},
+		{
+			"post_id": 1507658846,
+			"body": "Конечно, лучшее что мог сделать нофиш, это сделать ZeroUp неклонируемым. Теперь все начали использовать его как файлопомойку, потому что это самый простой способ.",
+			"date_added": 1507658838
+		}
+	],
+	"post_like": {
+		"14XAPkKCh1eCSkerb3Wn44ALov1T5qkHiU_1505374595": 1505691980,
+		"17Zks611RR4oN8USC3RxJzaw94GyPufioG_1505075996": 1505692372,
+		"1FcMuJwqkSPP7C3gnNLugZGwwSGpugX2rA_1505802341": 1505850486,
+		"1Nx8uAJqJgPjzWfGdm17b8P8jppUGAStcT_1505894243": 1505905537,
+		"1KZNoupFBYRjFNUQZbhj8DNCkZg1Q7tzay_1507215677": 1507259936,
+		"1Dmziw61isyMQ8s9V6irfT9cyHiL4G8HFK_1507072613": 1507260317,
+		"17JewVacvqaUynaYh1sup3nWcuKSPzET2Q_1507472921": 1507485513,
+		"1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC_1507583990": 1507587281
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Одно из немногих, что пробивает файрвол, пока.",
+			"post_uri": "1FcMuJwqkSPP7C3gnNLugZGwwSGpugX2rA_1505837162",
+			"date_added": 1505850523
+		},
+		{
+			"comment_id": 2,
+			"body": "Там может быть часть файлов утеряна. Туда накидали около 20 гигов, и не нашлось, кто бы хранил.\n\n>Кстати, как правильно ссылки на зайты указывать, чтобы они правильно парсились?\n\nЕсли я не ошибаюсь, ссылки вида http://127.0.0.1:43110 меняются автоматически при смене порта/шлюза",
+			"post_uri": "1KMBUmz57LumMsDZfoZJkzZhXC6FVcZrik_1507267856",
+			"date_added": 1507267986
+		},
+		{
+			"comment_id": 3,
+			"body": "Сейчас новую фичу из 0.6 обкатают, и скорее лучше будет пилить новый ZeroMusic.",
+			"post_uri": "1KMBUmz57LumMsDZfoZJkzZhXC6FVcZrik_1507267856",
+			"date_added": 1507268865
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1505692577
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1507262041
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1507262187
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1507263388
+		},
+		{
+			"follow_id": 5,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1507263477
+		},
+		{
+			"follow_id": 6,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1KMBUmz57LumMsDZfoZJkzZhXC6FVcZrik",
+			"user_name": "Radjah",
+			"date_added": 1507268184
+		}
+	]
+}

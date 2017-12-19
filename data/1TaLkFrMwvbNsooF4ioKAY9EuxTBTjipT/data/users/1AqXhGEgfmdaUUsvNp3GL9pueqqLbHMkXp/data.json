@@ -1,0 +1,131 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "KODI torrent player",
+			"body": "hi, does anybody knows how to play torrents directly in KODI and integrate KODI with Zeronet Play ?.\nThanks",
+			"added": 1502113718
+		},
+		{
+			"topic_id": 2,
+			"title": "TVaddons",
+			"body": "we are waiting for you !",
+			"added": 1503274933
+		},
+		{
+			"topic_id": 3,
+			"title": "Zeronet + Javascript = nowhere",
+			"body": "please tell me why Javascript knowing the privacy troubles. I jail the execution of Iron or Firefox becuse this but can we expect a Zeronet Javascrip free or this is another NSA honeypot ??",
+			"added": 1503303287
+		},
+		{
+			"topic_id": 4,
+			"title": "Save KODI !",
+			"body": "KODI is dying. I'm a KODI fan since XBMC. I think it went popular when some idiot wanted to get rich selling the boxes preconfigured. Now nothing works or works for a month and stops. I still think we can save this amazing thing combining it with Zeronet PLAY+ good torrent player. If you want to see a match or TV pay for it.",
+			"added": 1505638403
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 16,
+	"comment": {
+		"3_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 1,
+				"body": "try 4chan",
+				"added": 1500290432
+			}
+		],
+		"1_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 2,
+				"body": "no to1, yes to 2. the plugin and bye bye Hollywood.",
+				"added": 1502446573
+			},
+			{
+				"comment_id": 4,
+				"body": "how much $ for the plugin ? this is the future in KODI.\n1) I can see the PLAY films\n2) I click on any, it picks the configured resolution\n3) plays the torrent",
+				"added": 1502720989
+			},
+			{
+				"comment_id": 5,
+				"body": "the otherwise option I'm talking about. zeronet runs in python as well as kodi. I was wondering to just have a plugin to \"parse\" play and show the movies, on click pass the magnet to a torrent player in kodi. I saw everything separated but we need to glue this in one addon and that is it. I think the parse of the play zite is the key.",
+				"added": 1503056256
+			},
+			{
+				"comment_id": 6,
+				"body": "It s viewer/parser for PLAY what is needed. there is one from srp.nu for TPB viewer, I changed the url to http://www.uj3wazyk5u4hnvtk.onion and config KODI to use my privoxy with the line forward-socks5 .onion 127.0.0.1:9050 .\nThe torrent players fail, all of them. YATP, torrenter, Quasar.\nI chequed the logs but starting to think KODI does not want this kind of players working. Therefore, with the addon parser for play I mentioned above and a propoer player working the job is done in KODI. Webtorren is a good option but not in the OSMC on RPI.",
+				"added": 1503222418
+			}
+		],
+		"4_1Jk6iv2QXUgZo4Y4P5ZUKe7SrpMnGs5unL": [
+			{
+				"comment_id": 3,
+				"body": "just die. mirror it to Zeronet to get inmortal.",
+				"added": 1502447289
+			}
+		],
+		"7_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 7,
+				"body": "use this line in rc.local\nsu user -c '/home/user/Programs/ZeroBundle/ZeroNet.sh --ui_ip 192.168.1.100 &'",
+				"added": 1503222621
+			}
+		],
+		"5_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": [
+			{
+				"comment_id": 8,
+				"body": "JAJAJJAJAJAJAJ u use Mac, and you think you are techy JAJAJAJAJJA",
+				"added": 1503222772
+			}
+		],
+		"1_1M5c4n1YevPV4Z3ZVS21BzH7b56qZhcML2": [
+			{
+				"comment_id": 9,
+				"body": "idiot,\nmoney = Jews\nmafia = money\ndo the math in any country.",
+				"added": 1503222923
+			}
+		],
+		"2_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 10,
+				"body": "can someone provide with all torrent sites on .onion .i2p only please ?",
+				"added": 1503222999
+			}
+		],
+		"7_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 11,
+				"body": "get away from that shit, learn Python.",
+				"added": 1503223078
+			}
+		],
+		"2_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 12,
+				"body": "http://www.uj3wazyk5u4hnvtk.onion/",
+				"added": 1503223160
+			}
+		],
+		"3_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 13,
+				"body": "so\n\"what do you have to hide? ;-)\", ???\nnothing. but give me your mail passwords then.\nWe should be private by default, don't you get it ?",
+				"added": 1503319073
+			},
+			{
+				"comment_id": 14,
+				"body": "\"Just disable any clearnet traffic.\"\ncan you teach us ?",
+				"added": 1503319122
+			}
+		],
+		"3_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 15,
+				"body": "look for a public proxy, test it on the web browser first.",
+				"added": 1505638592
+			}
+		]
+	},
+	"comment_vote": {}
+}

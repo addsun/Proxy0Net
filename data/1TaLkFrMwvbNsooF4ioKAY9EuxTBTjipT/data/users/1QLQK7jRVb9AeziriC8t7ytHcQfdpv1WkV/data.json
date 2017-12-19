@@ -1,0 +1,65 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1511141829,
+			"title": "Coinhive.com && Authedmine.com targeted by AdBlock!",
+			"body": "https://github.com/easylist/easylist/issues/710\n&nbsp;\nAn interesting discussion here on GitHub..\n&nbsp;\nAuthedmine.js was supposed to be an opt-in screen that asks the user for permission to perform mining operations on their web browser, so that viewers can support content creators using their CPU, as opposed to showing them advertisement, or requiring a paid subscription.\n&nbsp;\nThis is unlike Coinhive.js, which doesn't ask permission and starts mining the moment you visit the site.\n&nbsp;\nThe reason this is going to be an important issue is because:\n&nbsp;\nOne: Ad revenue is dying as a way of funding 'free' content on the internet (it might not cost anything to write scripts, but it certainly costs money to run servers) and..\nTwo: Donations alone are simply not a reliable way to support content creators in a free market system.\nThree: If we don't deal with this early on, then most of the 'free' content we will see on the internet will become paid services that are subscription-only. i.e. YouTube Red, Netflix, etc.\n&nbsp;\nThere's no denying that Coinhive has been abused, and it's a shame because it was an amazing opportunity to get rid of ads, but fortunately we can still rescue the project by simply following these guidelines:\n&nbsp;\nA: NEVER use Coinhive.js without asking for permission from the user first. After all, websites always request permission to activate Webcam, microphone, etc.\nB: Always run Coinhive with a throttle value of 0.9 if it's gonna be running in the background 100% of the time. This ensures that the increase in CPU usage is no more than 5-10%.\n&nbsp;\nI will release some code on Github soon that basically denies access to the creator's content unless the user enables a throttled miner to run while they have a tab of the site open. It's a simple proposition: You donate 5-10% of your CPU while you browse the site, in exchange for an ad-free and no-fees experience. \n&nbsp;\nProvided that content creators stick to this guideline, it's unlikely that there will be a lot of complaints!",
+			"added": 1511141828
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 8,
+	"comment": {
+		"1510946916_1BrGZNxToC56H726jqXuUNuR6M8nn9kfBN": [
+			{
+				"comment_id": 1,
+				"body": "Link works fine for me.",
+				"added": 1511040496
+			},
+			{
+				"comment_id": 2,
+				"body": "> [p0infl3xter](#comment_5_1BrGZNxToC56H726jqXuUNuR6M8nn9kfBN): Wait, there's an actual website there? Nothing empty?\n\nAh, wait. I think I mistook your site for another one..\n\nYeah, this link shows NO PEERS.",
+				"added": 1511043556
+			}
+		],
+		"1509398486_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 3,
+				"body": "Just go to Coinhive.com, mine Monero for your own account .. then use Shapeshift.io or something to turn it into Namecoins.\n\nThe days of Faucets are gone. Ad revenue is dead.",
+				"added": 1511043719
+			}
+		],
+		"15910_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 4,
+				"body": "I love the idea of bitcoin, although I'd personally never even think of 'investing' in it like others are doing. That's just gambling, in my opinion. Rainy day money? Sure, that's a better idea..\n&nbsp;\nAt the end of the day, however.. the only real currency is the sum of the world's available resources. The matter and energy that goes into producing the things that money buys.",
+				"added": 1511048136
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 5,
+				"body": "speed test",
+				"added": 1511073806
+			},
+			{
+				"comment_id": 6,
+				"body": "speed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed testspeed test",
+				"added": 1511073825
+			}
+		],
+		"1511141829_1QLQK7jRVb9AeziriC8t7ytHcQfdpv1WkV": [
+			{
+				"comment_id": 7,
+				"body": "> [akito](#comment_379_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): @zerocateu \"A: NEVER use Coinhive.js without asking for permission from the user first. After all, websites always request permission to activate Webcam, microphone, etc.\" Does not work in Tor Browser.\n\nI should add that Coinhive should be confined to the Clearnet. I don't recommend running a miner on a Zite .. Zites are more like a fragment of internet history, a way of ensuring the immortality of your content.. but ultimately they will never replace the mainstream clearnet, because blockchains are huge and bulky, and ever-growing.. but blockchains are there to stay nonetheless, and can still have a symbiotic relationship to the clearnet.",
+				"added": 1511142800
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1BrGZNxToC56H726jqXuUNuR6M8nn9kfBN": 1,
+		"378_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"379_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1
+	}
+}

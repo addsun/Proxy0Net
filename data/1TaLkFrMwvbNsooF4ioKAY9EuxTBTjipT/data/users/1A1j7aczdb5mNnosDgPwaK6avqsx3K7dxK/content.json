@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBlVXclGvyt/S0pXefnzUhPpi7rBmvwaVyjEcP3jNudikmnwF/htJqQuzEkueH3GS9qhpOAvKM+RcMcRLVtXiSA=",
+ "cert_user_id": "hossein@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "25f0f016ef96c35a1c2f7bbe9bd4fb3f6429d78a1ed2819fc5d9791e994fdd26",
+   "size": 412
+  }
+ },
+ "inner_path": "data/users/1A1j7aczdb5mNnosDgPwaK6avqsx3K7dxK/content.json",
+ "modified": 1500393704,
+ "signs": {
+  "1A1j7aczdb5mNnosDgPwaK6avqsx3K7dxK": "G1yQCkNLJd9OkvIwdibAAWRCSlrYzKw7ieBzPPlhmoE8J8BbSj1ECG5KGwSiUM2mYaLcdS+Rcsz9+6ceHGaK8Ss="
+ }
+}

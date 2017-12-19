@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HHpABEspMCuHI7bloJfYecEGCIRBni+pO2OXG8XJ3SfBpZJe+0pyyQpQVuerjsQJK+hPEBhWDJZYTKY05CK/MPo=",
+ "cert_user_id": "moeka@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b8a18a5027b3fe9361b85f7c409ced5266a06c323beac921c8b851a790b961c0",
+   "size": 990
+  }
+ },
+ "inner_path": "data/users/1PxJ9mMp9e5wcz7tRyw7VKBi1nSK7Gpk8y/content.json",
+ "modified": 1503667263,
+ "signs": {
+  "1PxJ9mMp9e5wcz7tRyw7VKBi1nSK7Gpk8y": "G0Lxw01WzHNNRYnv0Gy41CgYzwNHqWdEAcI/SsvgZgI6Cxjv03AdNgpLPwZvW1Ag2hlfUhfeaeB9gMJDyjbx8rA="
+ }
+}

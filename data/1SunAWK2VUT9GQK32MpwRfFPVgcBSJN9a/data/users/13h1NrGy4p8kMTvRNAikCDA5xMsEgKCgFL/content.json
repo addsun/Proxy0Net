@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HPkBBHqHEsyLEYoWW/SOmjhJIbThn+BEbVowIdeXNZoeq+NQmHQlncNDUfncZDdAmbtumsCNFdHNJBUrN21jU18=",
+ "cert_user_id": "starship@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "be9d465a8ace5e2d56a7d5d821a72d79692a60e3d53be460ac600713d21193a9",
+   "size": 1526
+  }
+ },
+ "files_optional": {
+  "1506457018.jpg": {
+   "sha512": "0bac3d51a69da055cdfd56bfa1fdad13c559812c96b186a6520bc23c43a983f3",
+   "size": 34352
+  }
+ },
+ "inner_path": "data/users/13h1NrGy4p8kMTvRNAikCDA5xMsEgKCgFL/content.json",
+ "modified": 1506457767,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13h1NrGy4p8kMTvRNAikCDA5xMsEgKCgFL": "HDC43uGCgpsLKoDj0OcBL9QVaiwoAJgD83PElpiafPR/ZvLiCodoRv/gNOhADCAhgcKl59XvgJL2i2Q8nMElUvU="
+ }
+}

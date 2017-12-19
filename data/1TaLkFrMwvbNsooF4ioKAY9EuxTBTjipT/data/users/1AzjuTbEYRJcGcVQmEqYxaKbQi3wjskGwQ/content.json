@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GxfTylXWnPadtxV/gLgfmemM3LcQNhxLTsO69B3BmrR5sACFCI9kCUJdtgLUHOx/fKsd6P7XxXx8Y4iNrW+i5RQ=",
+ "cert_user_id": "tuvieja@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2c89db07cc87f7aff8463902678174b286d4f20d3c394cc4daabf68721614fa6",
+   "size": 255
+  }
+ },
+ "inner_path": "data/users/1AzjuTbEYRJcGcVQmEqYxaKbQi3wjskGwQ/content.json",
+ "modified": 1502655008,
+ "signs": {
+  "1AzjuTbEYRJcGcVQmEqYxaKbQi3wjskGwQ": "HBXZkKbqgj6K5IrwDKTNQJQm0Ujp06/75HUNo/LdSs/nSYwhonIIwMGBNOVY+0jn6ckzHmrEzggt2Dclcf/KOCc="
+ }
+}

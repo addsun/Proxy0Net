@@ -1,0 +1,18 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1510618291_1CyTL2ry28YCGU9LCBPhXC1ZnKcozuM25Q": [
+			{
+				"comment_id": 1,
+				"body": "> [foreve2](#comment_9_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV): 根目录下找到zeronet.conf文件，没有就新建一个，修改tor = alwaystor_controller = 127.0.0.1:9151tor_proxy = 127.0.0.1:9150保存 [...]\n\n试了很久了一直连不上，看了你的教程搞定！感谢！",
+				"added": 1511151660
+			}
+		]
+	},
+	"comment_vote": {
+		"9_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": 1
+	}
+}

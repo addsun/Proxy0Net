@@ -1,0 +1,32 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "HJztF243WI1bzWe8gx1du+389WDW68tBMUZVjW1ZUobxPv6lq3yDXSFvYytg23cnTLxaRUDm56VMsGjOxPw3Lro=",
+ "cert_user_id": "gifleavalls@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "65c21c2e62c1cc0f8fb91dce50ebacb3372d7e448907d6f0b19db2537b5d06bb",
+   "size": 8049
+  }
+ },
+ "files_optional": {
+  "1486168701.jpg": {
+   "sha512": "aa88b8e40e745e9b8b5780075e5a34608000b92997a11eb10fd48e0580b3c732",
+   "size": 60917
+  },
+  "1488407726.jpg": {
+   "sha512": "e3615d363ad8c010c21574e8a4f79dd5dd018285e9a3c730c80f3937c0293f4a",
+   "size": 63843
+  },
+  "1489571866.jpg": {
+   "sha512": "dcb2972b5d3da52dbfda97e920333a0747f4dbdb526db577a2330cfde096ca3f",
+   "size": 34583
+  }
+ },
+ "inner_path": "data/users/1EmgbTgNqoBvawg9kky2TqgCD6dYLjJ81Y/content.json",
+ "modified": 1495027297,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1EmgbTgNqoBvawg9kky2TqgCD6dYLjJ81Y": "HIHyw8W6N92TFg9/HlA3cg7LrsDdRX3IAFTfXC1WebfrbPrLqNWro5X2faSDlDT9EqEnPpcILHt8YG8vRk5Vmo4="
+ }
+}

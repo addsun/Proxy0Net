@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509622092,
+			"title": "What I would like to see",
+			"body": "1. User clicks link to address http://zeronet.io/link.html?link=MYHASH123123123\n2. User clicks \"install browser extension\" and installs a browser extension which will make it REALLY EASY for the user to install zeronet. I mean a 1-click no-questions-asked install.\n3. Magic happens in the background --- extension knows when zeronet is online.\n3. User sees my site, and from now on can magically follow any zeronet link (.bit addresses etc), and will help host zeronet whenever his computer is online.",
+			"added": 1509622091
+		}
+	],
+	"topic_vote": {
+		"1509622092_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Does *markdown* **work**?\n\n* list 1\n* list 2",
+				"added": 1498298459
+			}
+		],
+		"1509622092_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": [
+			{
+				"comment_id": 2,
+				"body": "Writing it as a browser plugin would be difficult since it is written in python.\n\nI think that one day we will have a CPython version compiled for webassembly, and it will be possible to just go to some webpage which downloads a client and just runs it. But not yet.\n\nIn the meantime, the installation process could be made 1-click simple.\n\nI might try to program such a thing eventually if noone picks it up beforehand.",
+				"added": 1509640582
+			}
+		],
+		"1509721890_17Nme2gWN8QqD2APgvXV9vn6jR8VrT6MLK": [
+			{
+				"comment_id": 3,
+				"body": "I have the same problem. Port is open and manually forwarded in the router. I believe this happens because http://portchecker.cc isn't working properly (for me, anyway).",
+				"added": 1509729968
+			}
+		]
+	},
+	"comment_vote": {}
+}

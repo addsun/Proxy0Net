@@ -1,0 +1,48 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G/S50Wl9f3AHvD+xQOzZKaQDOZokABNsZjMCNdbsdowXtCCtEGKFY2xE4mnuh4kwqYJHSElN+BLLPtk9UBWqpfk=",
+ "cert_user_id": "mama21mama@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "eb5459f1333bbf24190cb8f12e0003727ec1406dd75ad36eea857cc836f7ae94",
+   "size": 1609
+  },
+  "data.json": {
+   "sha512": "e2058c6a32852b29e2ff7a15ed754e52ef93e56f5dc8d3e33c68a8b2ccfd72a6",
+   "size": 9128
+  }
+ },
+ "files_optional": {
+  "1480035840.jpg": {
+   "sha512": "073c25a8c89530cdacb1fcf32e8427d96d0bfcbc92d8fc106684f4c979b9f6b6",
+   "size": 34735
+  },
+  "1481335271.jpg": {
+   "sha512": "073c25a8c89530cdacb1fcf32e8427d96d0bfcbc92d8fc106684f4c979b9f6b6",
+   "size": 34735
+  },
+  "1481335322.jpg": {
+   "sha512": "073c25a8c89530cdacb1fcf32e8427d96d0bfcbc92d8fc106684f4c979b9f6b6",
+   "size": 34735
+  },
+  "1487724676.jpg": {
+   "sha512": "6f7f7900fa33b00f98fc46a235fbd9a9aa0c6c8fc33be9aec3461c563b91c378",
+   "size": 40645
+  },
+  "1491773943.jpg": {
+   "sha512": "cb7924f57e4e095b03ef65e9dbb0a4031c480d3e39cc4d1915d94bb164073c74",
+   "size": 98699
+  },
+  "1491773995.jpg": {
+   "sha512": "cb7924f57e4e095b03ef65e9dbb0a4031c480d3e39cc4d1915d94bb164073c74",
+   "size": 98699
+  }
+ },
+ "inner_path": "data/users/1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt/content.json",
+ "modified": 1510797491,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": "HJZUjh13UO/I8ytvvI2TWSnxZOxssg4ASkjEs3lj2VYqNJ3qhTceMWcopRnMS1wCISUuErsUc+wCDw9T8kiO4JM="
+ }
+}

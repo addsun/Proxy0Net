@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G6PHW0g3ICvEt7GjqhceHYSX57saU0wwujJcZS2SaoXagyOIaJhRXzZuYqXOkO1EMZcAuJrUjDI+fkx/QHE+EbE=",
+ "cert_user_id": "2resutenorez@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "991595a5fd46564e7f2109a28ccd50d2ff2d36d0ed1cdc2a68c04573feb77e9e",
+   "size": 289
+  }
+ },
+ "inner_path": "data/users/14xV5j5kMqK7RswxHYUiSnovgATo64VHVs/content.json",
+ "modified": 1503773323,
+ "signs": {
+  "14xV5j5kMqK7RswxHYUiSnovgATo64VHVs": "G0kGmFv1iJsYcWLc+SWjfhuxNWAF/HAT6XuulfPUCTZsP22k6AWFQ3Is2mPMBKegbeBeAtITu1ohH0qLtkFK/DM="
+ }
+}

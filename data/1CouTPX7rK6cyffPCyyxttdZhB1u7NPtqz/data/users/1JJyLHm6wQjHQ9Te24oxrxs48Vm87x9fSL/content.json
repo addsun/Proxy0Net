@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HNBTGpHZZcz2RMIXGhu+axJ5xp9oPZ5EpNCV7D0Xp2y1fVts3jzCJs6w8V2JYlf8vPQ89a0WCSexGIKqMj5cGoA=",
+ "cert_user_id": "blueocean@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0e705c6e1fb2ec29f35631983f1a2552020604db62b411e286787e758dcd8284",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1JJyLHm6wQjHQ9Te24oxrxs48Vm87x9fSL/content.json",
+ "modified": 1484993532,
+ "signs": {
+  "1JJyLHm6wQjHQ9Te24oxrxs48Vm87x9fSL": "HIntf0ZyZm5oK/MLUHFfJYgIApwDhATN/9Gwl+EalQCHQ7pc6EBo3h5WbUtYMWljzOrOuH2lvxz82oHl6mYGQA4="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_16W7DGWDAvsBcc33SGvY63MCT9uZykYve4": [
+			{
+				"comment_id": 1,
+				"body": "> [jlxip](#comment_19_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): Actually, there is a simple solution to the IP leak problem.This is setting in the browser settings a non-working proxy (for example, localhost:8080) to all directions except 127.0.0.1 (and/or localhost).In firefox it's pretty easy. And you can check if it works with this page I made: http://127.0.0.1:43110/1K3cpBdySkLF4qUcfJyN5d5xGDgXgB1wpm/\n\nSite can still get your IP address via WebRTC. See [this internet site](https://browserleaks.com/webrtc#webrtc-disable) for details.",
+				"added": 1507933242
+			}
+		]
+	},
+	"comment_vote": {}
+}

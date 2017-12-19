@@ -1,0 +1,53 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 4,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Helium",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508673707,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "One way to approach those restrictions is to be at a different space than the restriction supporters are. Communication is always a multy-party activity and if the other side is dumb enough to tell that if U say X then we will repress You with Y, then it's morally OK to leave that repressor into darkness and not share one's vision and  thoughts with that party. If that party wants to impose one's will to a \"public space\", like a town square, then fine, there will be no smart talk at the town square, but there will be a different square somewhere else, where this censorship fanatic will not be let in. So, from that perspective it's a good thing that most of the dumb-users use Windows and Mac, which does not have as many anti-censorship tools to choose from. The early WWW was a nice place due to the fact that it was mostly the early adopters, the smartest bunch of the human race, that formed the majority of the users. The moment the masses started to use the WWW, lawyers and \"regulators\" and otherwise censors moved in. So, I hope that the ZeroNet will never get \"too popular\".",
+			"post_uri": "16W7DGWDAvsBcc33SGvY63MCT9uZykYve4_1",
+			"date_added": 1508685466
+		},
+		{
+			"comment_id": 2,
+			"body": "Just testing.  I wonder, how long will it take, till the Twitter is swapped with the ZeroMe by the most innovative bunch of IT people :-/",
+			"post_uri": "1Bna662oFLx3d7hxV326aRtazTttA8shDa_1508189740",
+			"date_added": 1508685763
+		},
+		{
+			"comment_id": 3,
+			"body": "Unless You tunnel ZeroNet through tor, ZeroNet is not anonymous. But it does make it hard for the supermafia(\"government\") to take documents offline, because every client that ever sees a ZeroNet page, has a full copy of the collectively editable document, which is the ZeroNet web page. The problem with tunneling (over Tor, etc.) is that it eliminates the P2P style data transfer efficiency. For example, the P2P allows different pieces of a single downloadable file to be downloaded from multiple different locations, DIRECTLY, but if all of the traffic is tunneled through Tor, the speed advantage of the P2P network is eliminated.",
+			"post_uri": "16W7DGWDAvsBcc33SGvY63MCT9uZykYve4_1",
+			"date_added": 1511083946
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "16W7DGWDAvsBcc33SGvY63MCT9uZykYve4",
+			"user_name": "Zaxerg",
+			"date_added": 1508685486
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p",
+			"user_name": "Helium",
+			"date_added": 1508690398
+		}
+	]
+}

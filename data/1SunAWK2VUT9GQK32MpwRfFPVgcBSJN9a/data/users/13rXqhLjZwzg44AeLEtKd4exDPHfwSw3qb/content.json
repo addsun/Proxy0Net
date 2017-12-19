@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwoeOE61NWOQSgQiVMieStlZ9bjIelkgLezQxDsVWpubw4pckuLMG9LRYVetyAuYsIDmEGlH5HKaG7guqzacqS8=",
+ "cert_user_id": "tapestry@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "31a099c84c958487f80cfafc34a4b7c48ab8b33ac5e701f7fe16a0dd694e522b",
+   "size": 548
+  }
+ },
+ "files_optional": {
+  "1513217000.jpg": {
+   "sha512": "2ea1f96c71da5451c446ecba46c1998a30853b547b4c4211b43dbd885b97a9df",
+   "size": 157317
+  }
+ },
+ "inner_path": "data/users/13rXqhLjZwzg44AeLEtKd4exDPHfwSw3qb/content.json",
+ "modified": 1513216999,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13rXqhLjZwzg44AeLEtKd4exDPHfwSw3qb": "G5eEgCUEfMzbLHK663RlxS59lSDE71c7dUP3CquK6MivVReujy1hZW4A5uUWSnKXxVV+Knvk/hbRKD8U/u5Ljjc="
+ }
+}

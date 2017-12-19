@@ -1,0 +1,62 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Gromov",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1489827565,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1489829499,
+			"body": "forchan?",
+			"date_added": 1489829497
+		}
+	],
+	"post_like": {
+		"1266Hr6Kd2eoa89F6FeAeKu21FZSwYjpPw_1": 1489828317
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1QAPE79JkSKVzRKYEZXpmx2aiitzdEapAk",
+			"user_name": "0list",
+			"date_added": 1489829326
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1QLL6cXP25nm3SZ48At3ogR1HL3xM1CUPp",
+			"user_name": "Tortester",
+			"date_added": 1489829378
+		},
+		{
+			"follow_id": 3,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1H45Xxwf3SJSRtdZPFCT4SLS9wo3fZSHia",
+			"user_name": "Zero proof",
+			"date_added": 1489830157
+		},
+		{
+			"follow_id": 4,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1GzYBJ8fKbt3bE1Wypp38HGpEUNw6arW8p",
+			"user_name": "00man",
+			"date_added": 1489830182
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+			"user_name": "西木野真姬",
+			"date_added": 1489875338
+		}
+	]
+}

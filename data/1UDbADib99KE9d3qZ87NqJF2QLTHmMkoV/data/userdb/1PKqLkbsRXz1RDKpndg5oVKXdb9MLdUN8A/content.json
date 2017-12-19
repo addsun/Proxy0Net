@@ -1,0 +1,21 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "cert_auth_type": "web",
+ "cert_sign": "HOEd0ezCLFM7eDu+CcmAWjfmC4z7bYlWEUlQz8K+LvI4eyLU1CGoqIj+2uvuidppuHP3Dac04DRn5gLwba5Yxpc=",
+ "cert_user_id": "piclock@zeroid.bit",
+ "files": {},
+ "inner_path": "data/userdb/1PKqLkbsRXz1RDKpndg5oVKXdb9MLdUN8A/content.json",
+ "modified": 1507396289,
+ "signs": {
+  "1PKqLkbsRXz1RDKpndg5oVKXdb9MLdUN8A": "HNUbqeZp48zUEc87IUFeA4OfuSm+sQEvF7d4tX86elDJQhEPlH3x1aDOHza50oeZiSRS4ospKTKQr4n2YcEYSPY="
+ },
+ "user": [
+  {
+   "avatar": "generate",
+   "date_added": 1507396244,
+   "hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+   "intro": "Raspberry Pi home automation system.",
+   "user_name": "PiClock"
+  }
+ ]
+}

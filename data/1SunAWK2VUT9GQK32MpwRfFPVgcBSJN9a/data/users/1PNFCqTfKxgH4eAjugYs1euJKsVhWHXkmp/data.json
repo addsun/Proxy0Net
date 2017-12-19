@@ -1,0 +1,50 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Z33dd",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513518586,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1FGHa2jzwt6poFiC3Br6G288ivye9djzj3_1": 1513518736
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "HI!!!",
+			"post_uri": "1FGHa2jzwt6poFiC3Br6G288ivye9djzj3_1",
+			"date_added": 1513518709
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1HK9vqHTnfxJzcSs9w84MktgqfhzmSjEbs",
+			"user_name": "Zerohi",
+			"date_added": 1513518682
+		},
+		{
+			"follow_id": 2,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1DyzY4AKdBBn2s5QBSV7UpQydrq9U7mZgM",
+			"user_name": "Zerobreak",
+			"date_added": 1513518749
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1PNFCqTfKxgH4eAjugYs1euJKsVhWHXkmp",
+			"user_name": "Z33dd",
+			"date_added": 1513518903
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "4nhk4g1b3sh4ck3r",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Utilisateur ZeroNet aléatoire",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504516549,
+			"body": "Bonjour ZeroMe!"
+		},
+		{
+			"post_id": 1512078500,
+			"body": "Funny",
+			"date_added": 1512078498,
+			"meta": "{\"img\":\"178,700,67756668978823333312245522334489a9ab9bb111,012133134115667899003652ABC4D4\"}"
+		}
+	],
+	"post_like": {
+		"1Ak7882dvyntHX4pWcx9FDXkjQXBk38fDD_1510567819": 1512078930,
+		"12A9SCx1Qj9pBbz4PvNJra4Jus7SVAGc1s_1509385787": 1512078931
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Ak7882dvyntHX4pWcx9FDXkjQXBk38fDD",
+			"user_name": "JackXhE",
+			"date_added": 1508767916
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "12A9SCx1Qj9pBbz4PvNJra4Jus7SVAGc1s",
+			"user_name": "Neta",
+			"date_added": 1508767975
+		}
+	]
+}

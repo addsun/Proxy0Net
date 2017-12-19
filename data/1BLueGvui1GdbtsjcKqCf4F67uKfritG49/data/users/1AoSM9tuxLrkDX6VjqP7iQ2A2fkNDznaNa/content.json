@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKseXX8n0yp5zEHZpZDWFo0R5w6qbjVxZmBMpURlECg383zU92Ibues9XjhLrgoIuhqizprrOedgymcsyM5DwYk=",
+ "cert_user_id": "twilightsparkle@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "10d33784e5e5b4fdc404711e062a3d0ff4ad9381e791b64fed8cc035b6fa5a0e",
+   "size": 1676
+  },
+  "data.json": {
+   "sha512": "5ef8613c02f2421a674c0d624332ea25bf22f98fae55f7980703ab937c245a90",
+   "size": 258
+  }
+ },
+ "inner_path": "data/users/1AoSM9tuxLrkDX6VjqP7iQ2A2fkNDznaNa/content.json",
+ "modified": 1502980414,
+ "signs": {
+  "1AoSM9tuxLrkDX6VjqP7iQ2A2fkNDznaNa": "Gw8thztRSiEA3CLCmlBCeM4myU7ONd5M2N/QPAM7FGixfe9tCSMEuKT21pcWhCNWA5WIs4nQDmqFtVZnav/GdNc="
+ }
+}

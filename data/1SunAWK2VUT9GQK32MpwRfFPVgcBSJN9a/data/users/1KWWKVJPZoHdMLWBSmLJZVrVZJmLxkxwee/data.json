@@ -1,0 +1,91 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 6,
+	"next_follow_id": 6,
+	"avatar": "png",
+	"user_name": "Collect",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504520724,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504531810,
+			"body": "В CША финансовый регулятор отреагировал на растущую популярность ICO — аналога IPO в мире криптовалют — тем, что приравнял токены к ценным бумагам. В Китае власти отреагировали радикальнее и вообще запретили компаниям и частным лицам проводить ICO. Соответствующее распоряжение содержится в заявлении китайского центробанка — Народного банка Китая.",
+			"date_added": 1504531808
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Krixano: Why is there no authorization. Does not work",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509565373",
+			"date_added": 1509573285
+		},
+		{
+			"comment_id": 2,
+			"body": "@Krixano: the registry button does not work, I can not register to write content or comments",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509565373",
+			"date_added": 1509574069
+		},
+		{
+			"comment_id": 3,
+			"body": "@Krixano: the Sign in / Sign button does not work I can not register an account. I click on the button and the registration form will not open",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509565373",
+			"date_added": 1509574559
+		},
+		{
+			"comment_id": 4,
+			"body": "@Krixano: Ок",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509565373",
+			"date_added": 1509574688
+		},
+		{
+			"comment_id": 5,
+			"body": "@Krixano: Thank you very much. It all turned out",
+			"post_uri": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD_1509565373",
+			"date_added": 1509575268
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1509567006
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1509573307
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD",
+			"user_name": "Combo",
+			"date_added": 1509577256
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1509577271
+		},
+		{
+			"follow_id": 5,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1509652582
+		}
+	]
+}

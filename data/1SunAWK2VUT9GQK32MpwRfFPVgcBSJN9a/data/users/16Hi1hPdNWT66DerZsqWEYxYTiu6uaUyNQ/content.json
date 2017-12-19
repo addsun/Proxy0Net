@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKSrne1CAM3GYyIRZd5iib1EefDMPBf5yBtm+yE3LJ4s/z5f2LH8ZO7DftMUsO8EMipK8Nh4I4hw/2ZPtbSuUN8=",
+ "cert_user_id": "haneu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f2416f6f1884b18d50a533f231d55ab47f89c75b8c70f90975ee86e855edd79e",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/16Hi1hPdNWT66DerZsqWEYxYTiu6uaUyNQ/content.json",
+ "modified": 1502176876,
+ "signs": {
+  "16Hi1hPdNWT66DerZsqWEYxYTiu6uaUyNQ": "HBlFX+rrpSA7E/eiAfTnUmHZ7fuHzxS3sXBZkalAOs9JMB2DqplHoPZEZg/NkV6WZrMTWwqV04MZQD07Ab2Tv4k="
+ }
+}

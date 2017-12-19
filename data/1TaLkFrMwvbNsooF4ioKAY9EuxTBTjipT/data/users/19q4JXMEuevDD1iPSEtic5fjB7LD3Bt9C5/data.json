@@ -1,0 +1,54 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "What protocols I can use for building an infrastructure like ZeroNET?",
+			"body": "I need a distributed database and notifications. I need authenticity of users who in ZeroNET terminology will be zite and a decentralized search is needed for some properties (strings up to 256 bytes in length), which the zite owns. In principle, I understand that this is enough ZeroNET. That's just the applications should be extensions to chrome and work run as ZeroNET-peer on WebRTC eventually. The main thing is not this, but a problem is to quickly receive notifications and updates on some property. Therefore, I'm looking for some other protocol, although ZeroNET is convenient as a store of static web pages. Probably distributed database is not nessesary",
+			"added": 1508983006
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"2_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 1,
+				"body": "OAuth hides security sensitive tokens from user",
+				"added": 1503951868
+			}
+		],
+		"1_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": [
+			{
+				"comment_id": 2,
+				"body": "> [rrwtbrsyq8wmackv](#comment_37_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): \nhttps://gnunet.org/\nhttps://ipfs.io/\nhttps://datproject.org/\nhttp://orbit.chat/ [...]\n\nI have seen IPFS JavaScript implementation earlier and it has some notification system. As I see current implementation of IPFS (in oribit.chat) uses asm.js, so protocol is too havy I think. IPFS have no version control and implementating it by myself is not good choice for me. As opposite as I see Dat project is control version system but I know nothing about storing and speed of distribution information in it. But I think it an option if protocol for it is not so havy. Or, maybe, IPFS protocol is not so havy but and asm.js uses because of portability of Go code?",
+				"added": 1508987239
+			},
+			{
+				"comment_id": 4,
+				"body": "> [styromaniac](#comment_153_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): \nI have no ideo what ZACK you mean, I cannot Google it. But I will build cross-interface solution, so JavaScript is only an option. But I gonna write prototype of Google Chrome extension in a few months I think",
+				"added": 1508989926
+			},
+			{
+				"comment_id": 5,
+				"body": "ZACK is Android application written in Java so it's not an option I think. I cannot download because of Forbidden error",
+				"added": 1508990125
+			},
+			{
+				"comment_id": 6,
+				"body": "IPFS uses libp2p and libp2p has libp2p-webrtc transport - it may be usefull",
+				"added": 1508994482
+			}
+		],
+		"10_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 3,
+				"body": "With the improvement of public biographical archival systems in democratic countries, there will be no choice but to legalize almost all drugs. People will see that other people use amphetamine with no aftermath for example and will understand that drug prohibition may be more dangeroues than drug usage. With analogy of no alcohol law. And they will understand that alcohol is more dangerous than many other drugs too",
+				"added": 1508989466
+			}
+		]
+	},
+	"comment_vote": {
+		"3_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": 1
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1Mr36Z4TSbWQ236NfvRPeLn3qsAwngBzMd": 1,
+		"1_1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi": 1,
+		"1_1A9y2FBTkXsFVMXWszGNBmDa7ntgmukXVC": 1
+	},
+	"next_comment_id": 13,
+	"comment": {
+		"1_1Mr36Z4TSbWQ236NfvRPeLn3qsAwngBzMd": [
+			{
+				"comment_id": 1,
+				"body": "> [planespherev3](#comment_160_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): https://wiki.freenetproject.org/Web_of_Trust\n\nbingo, any thing short of this is just masturbation. https://vimeo.com/79926908#t=27m32s",
+				"added": 1499816342
+			}
+		],
+		"1_16T4N6STStPEHsPSdKThWcquFK1EqjTKjy": [
+			{
+				"comment_id": 2,
+				"body": "I have no idea what I'm looking at.",
+				"added": 1499867539
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kaffie](#comment_379_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): If you really care. Dig a bit. There's plenty of information listed on the site. If you don't care enough to dig, then fuck off, we're full ;).\n\n... enjoy watching your number counting down.",
+				"added": 1499878752
+			}
+		],
+		"1_1KC2aohuaiYueSGZPheBb4zZaC439d5AL9": [
+			{
+				"comment_id": 3,
+				"body": "don't worry guys. klh5 is only pretending to be retarded.",
+				"added": 1499867671
+			}
+		],
+		"11_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 5,
+				"body": "I have this same issue with ublock in the same role. It's settings are per host, not per URL, because that would be freaking annoying if it was per URL.\n\nBasically. We need this: https://github.com/HelloZeroNet/ZeroNet/issues/83",
+				"added": 1500246892
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 6,
+				"body": "So I gotta know, what kind of propaganda are they kicking out to justify some of this?",
+				"added": 1500610319
+			}
+		],
+		"1_12AMmCZUvspr4iu2oAtW187n1pAbujkRhW": [
+			{
+				"comment_id": 7,
+				"body": "> [reke](#comment_4_1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ): The authentication/mute system on ZeroNet makes my skin crawl.\n\nNo KIDDING. In distributed systems you absolutely have to have a web of trust. Right now we've got some psuedo central registration mechanism. It's brain dead. There's not even a reliable way to identify who to mute, and even if there was, people can just create new identities and it's default trust. There is no such thing as a Mute. \n\nI can understand that stance while zeronet is small and trying to grow. but it's crazy.",
+				"added": 1500770106
+			},
+			{
+				"comment_id": 9,
+				"body": "> [innovation](#comment_2_17z69JHjVuFK4jHTseM4Tg2h4ABVQFiUt8): When use PHP or Ruby (etc) dynamic language  as server backend , there are so many question like version or config. ZeroNet Should choice RIGHT VERSION, some nodes like your machine perhaps does not install php or nginx\n\neh. I think if you're thinking about using ruby or PHP to do anything on zero net, you are thinking in the wrong way. \n\nThere's no \"servers\", there's no central point. If you want to make something on zero net, the point is that you don't have to host a server to run a website. No one's going to universally install a programming language. At best you might hope that ZeroNet will let remote programs use python 2 that it requires, but I would never trust a website with access to that. It would be crazy.",
+				"added": 1500986916
+			}
+		],
+		"2_1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": [
+			{
+				"comment_id": 8,
+				"body": "https://vimeo.com/166807261\n\nhttps://vimeo.com/8569187",
+				"added": 1500930187
+			}
+		],
+		"1_1FoBePyJrNaeE6ik2eukxFHG8MKhGVRAy3": [
+			{
+				"comment_id": 10,
+				"body": "> [planespherev3](#comment_221_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Lol ZeroNet is filled with bluepill guys.\n\nJust to confirm. Bluepill is just someone who is not a redpill?",
+				"added": 1500991996
+			},
+			{
+				"comment_id": 11,
+				"body": "> [planespherev3](#comment_222_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Yes. [...]\n\ncool.\n\nso... like. if you go here: https://www.reddit.com/r/TheRedPill/ and conclude these are a bunch of spurned desperate beta's. Should you conclude you're a bluepiller? lel.",
+				"added": 1501045089
+			}
+		],
+		"1_1Aqzrn9MJnftKMJyU9mVviE5WZdTwJnkFr": [
+			{
+				"comment_id": 12,
+				"body": "cocaine and cocaine accessories.",
+				"added": 1501117215
+			}
+		]
+	},
+	"comment_vote": {
+		"160_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1,
+		"3_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1
+	}
+}

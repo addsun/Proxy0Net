@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G/K7Ydq6BYi4cBAJQxJcI146RTu9SbYVTPKEeURe8sz3csKewQ1hwDw74xVOKM4whxcj4/N3q54nC3iqrVNpO5c=",
+ "cert_user_id": "trevornavarre@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5421d9d6884e4caeb8ab04ba1f788eb6972b230aa9bc10eb080a21e9793b7687",
+   "size": 2514
+  },
+  "data.json": {
+   "sha512": "54381d32005a4e028481efd93995970b6fcc92c1d60dc2c41862ad6eb0b963d8",
+   "size": 1788
+  }
+ },
+ "inner_path": "data/users/1MZTaEKpijeiKJCm2Xiwzvob2Y5vD2XwVc/content.json",
+ "modified": 1511541419,
+ "signs": {
+  "1MZTaEKpijeiKJCm2Xiwzvob2Y5vD2XwVc": "HGQTRYFc6venS8bA+LliMnL7kurWuLlrLDPDWi+BsajgZtbeayaLb5BsIcAWKzUBkA4Vk3Qf73M1Mk5UK1pvOeE="
+ }
+}

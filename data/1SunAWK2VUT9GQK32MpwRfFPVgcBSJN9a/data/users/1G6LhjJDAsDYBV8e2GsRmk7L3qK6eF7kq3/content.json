@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx1TBQblU33/8ad+ClY3hbxhtkbz6oZ2Lc1hOT2dho6C2pgEMt13UJEVeocUPdMeoKjbRfMPrm/CQiavRRoDx2o=",
+ "cert_user_id": "thespanish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e1be25627a27c740eb4594e90210a96fe37e7b2d9802c2390f6a0f3bb8207b89",
+   "size": 448
+  }
+ },
+ "inner_path": "data/users/1G6LhjJDAsDYBV8e2GsRmk7L3qK6eF7kq3/content.json",
+ "modified": 1508578113,
+ "signs": {
+  "1G6LhjJDAsDYBV8e2GsRmk7L3qK6eF7kq3": "HJQu4Ili9PwYUY9KGoauzkIHZ/o489cU95DUokNKrcCmPpEoYer0goeKpiTV7CxK/5iiIwcpEo5ALg4t5f2U6Xo="
+ }
+}

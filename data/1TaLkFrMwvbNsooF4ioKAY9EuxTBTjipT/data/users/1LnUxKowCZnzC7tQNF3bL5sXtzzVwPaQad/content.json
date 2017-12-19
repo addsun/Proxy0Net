@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGiiz0DSRtfFAXsJN5qJBOemFK4VkTf4x9At4tP7V/m9ns5jB3+c9krZZFTkgj7f11jzFDHcGwZqMu0p5czwdXg=",
+ "cert_user_id": "sirridealot@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a86bfdafd47ace3bee2381f6a7f1eb79438aedbc9eb21a5a875390ad4c743c6d",
+   "size": 388
+  }
+ },
+ "inner_path": "data/users/1LnUxKowCZnzC7tQNF3bL5sXtzzVwPaQad/content.json",
+ "modified": 1502399573,
+ "signs": {
+  "1LnUxKowCZnzC7tQNF3bL5sXtzzVwPaQad": "G856dawH3ZZC7dj9mWea0rZMx/yAcikcDBZKk3UO/DtCdOuaFodybtTLRVd8EGTR1c6bHx88LpFfqSEW7hhFnNw="
+ }
+}

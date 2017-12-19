@@ -1,0 +1,36 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Ancapitalist",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Anarcho capitalism HO!",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503877281,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"195JPVPMW7foR7zr4tRi6zTssehDNMGqdi_1503870579": 1503877337
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Dark future, yes... Unless things hopefully change.",
+			"post_uri": "18KYaNfpgZdnDQDbEFDa8Gh8BatT5bnpYR_1503872694",
+			"date_added": 1503877326
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "195JPVPMW7foR7zr4tRi6zTssehDNMGqdi",
+			"user_name": "Kekpharaoh",
+			"date_added": 1503877343
+		}
+	]
+}

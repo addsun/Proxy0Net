@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HDFZbssSYC1kZA+dqfcJoUCuqz385KZtDcOQVUtKTJrucAnTC/inoZh0L3q8jr/Lr3dNhg13Q+XJQfTtAOZXJFo=",
+ "cert_user_id": "cctv1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bf6211f8e3d0dee0a9da15e32a4f584ac15af74a5aabf885b1ca40cdd1da211b",
+   "size": 345
+  }
+ },
+ "inner_path": "data/users/12J1CExcDYs7AApiQBbeDxmHBSCdFyD9zY/content.json",
+ "modified": 1488452311,
+ "signs": {
+  "12J1CExcDYs7AApiQBbeDxmHBSCdFyD9zY": "HBPWXrb9VMHFP22sWyP9BaV2vtEXGAZez+xzQoFuthRNqWewlNhSkYJvlfWCDaOjApR9f0U8tx0yndvafB5ddu0="
+ }
+}

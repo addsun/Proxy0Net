@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G3IqPnzC5F9f1ci7sXTzr0tbzkwPzxN+lPQAYrziZjvreQC9/Z62jIkyb13YYxQBRaifqiLqnHfSmIdWq3Mww5o=",
+ "cert_user_id": "ishland@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6231889a31934c5c9ffadd34c7e8404d53dc8bb221e9cbcf55859031861c56ec",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1NevyDMMGGk8nsLaHC5HihDWPKX32BgDuy/content.json",
+ "modified": 1502627951,
+ "signs": {
+  "1NevyDMMGGk8nsLaHC5HihDWPKX32BgDuy": "HHvBsqSGj2s11NpMyzItBCQV4nwCpBFZCY7HQhawmKPwcD10RsXJh/gZBv55DLd7kCSU/BWkbtrfS29tHIZ3cmw="
+ }
+}

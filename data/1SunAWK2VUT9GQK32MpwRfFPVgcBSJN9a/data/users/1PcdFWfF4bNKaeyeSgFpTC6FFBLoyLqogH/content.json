@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3Eq84xgdfP+4RRCmy9TzU7THCS92w3G3W7Q0xwK2PlEPYSiimiRK7zEUXogqR7LAR2kFktbLZ15BHxkw0Dz/eA=",
+ "cert_user_id": "brockovich@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5854f599fb96e3377ef83584ea8eabecbd6a8cd6bea9a7f95dac19300d03711d",
+   "size": 629
+  }
+ },
+ "inner_path": "data/users/1PcdFWfF4bNKaeyeSgFpTC6FFBLoyLqogH/content.json",
+ "modified": 1512117933,
+ "signs": {
+  "1PcdFWfF4bNKaeyeSgFpTC6FFBLoyLqogH": "G+f8gjPXihnf8kq06WtiHQjzWtbni/uXpX29SBeZ/QgeVKttLr6GZzU59u5qGAhoLXmFUG+2CN6GkBWqKgSy+cM="
+ }
+}

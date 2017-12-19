@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HPYVFEbTiUuLKPCJ0iLyoWYtj/rMrCCg7LRdO1MH8jk7lLLY6kBt6YjcFUop/mY740DsLzMmwhpcT9OevVSrDrY=",
+ "cert_user_id": "helloberniezero@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "6e95e08c9a32ca7b3724aa5fcb65b5ccbb148cf19bc1b6803344793f8decea14",
+   "size": 1594
+  },
+  "data.json": {
+   "sha512": "2721e55faa3fc2817e98c7e46603e519073e581394e71711832c63a814be7dd5",
+   "size": 588
+  }
+ },
+ "files_optional": {
+  "1505456863.jpg": {
+   "sha512": "7b637e06feb71325aa36fabb6db929551aafc54fb0eb2343fea250a4a25f9835",
+   "size": 79005
+  }
+ },
+ "inner_path": "data/users/1GfnrqDEzceVr4JGYHCM1xsbGmc792nzsL/content.json",
+ "modified": 1505456861,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1GfnrqDEzceVr4JGYHCM1xsbGmc792nzsL": "HDEz529xSdE142+eSla9NnCciBGdpAcCkasl3xMgTQjUY6rt1DA3AveQrQMzssIcmUeSfQSmrRv+M9Zsyvrzyho="
+ }
+}

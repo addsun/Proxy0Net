@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyojhRvosWyQLAjP9KoQZnBDf/AjkoZQ0+AiM8XmdAHQsBnG3GEPmgE2llh+No6BvBqbRczR7oKdPioaEvVUjoU=",
+ "cert_user_id": "diabolik@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "348bce0edf2c2d22eac94c5396f6c833731e09f1cf014fedfe5b4ee8a2522f49",
+   "size": 529
+  }
+ },
+ "inner_path": "data/users/1EygQXPEyMyNb4WsdGNdHgWDP2y5NyyXQs/content.json",
+ "modified": 1512040613,
+ "signs": {
+  "1EygQXPEyMyNb4WsdGNdHgWDP2y5NyyXQs": "Gy+dlfVSWcKz8v0Q1vP+AkGHXAqnA8ZqU/9fpDbR8wnDe6ti1e4BEqDNbpn/2fjJAz6l9vmvnqLYNAVwMXaFOKA="
+ }
+}

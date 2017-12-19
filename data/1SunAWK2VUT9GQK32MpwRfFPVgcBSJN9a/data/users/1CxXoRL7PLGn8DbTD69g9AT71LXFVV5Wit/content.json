@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G9N8U4Xtdj5P5Tq5WmY2InfkR4M7/t4TC8/KtVpxUwKseXVmVVgfpNWISlx79heZ/mXSKnWElcufvxTnHhX1BO0=",
+ "cert_user_id": "gekkochen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "893c31d4ca7b061ce68466284af371751dea555446662451730a557c7dcf4d99",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1CxXoRL7PLGn8DbTD69g9AT71LXFVV5Wit/content.json",
+ "modified": 1506412772,
+ "signs": {
+  "1CxXoRL7PLGn8DbTD69g9AT71LXFVV5Wit": "HLnK6cQCQ0mzJPrxxFQzFx5QKrVaCn64E413SZxmhMfTGAC3t2+elNlGTX8/zBs/mIWd4lLGxiPa6M3sskLjSnE="
+ }
+}

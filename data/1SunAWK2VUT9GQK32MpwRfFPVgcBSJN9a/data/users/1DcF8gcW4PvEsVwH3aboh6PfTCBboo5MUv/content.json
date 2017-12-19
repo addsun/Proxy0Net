@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKtcmZcASBpFVscjP5rTRO4vUJU/8rvraeSH9yGG0U1/DCABmHhdy44S6dEhQdxzuUDXCwx4TAk8B4ih5ZEKUM8=",
+ "cert_user_id": "fritzefred@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b0320ad99619b59ce664d38a3d5b658acbb10b0b52b93dab323ce6d6150c6836",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1DcF8gcW4PvEsVwH3aboh6PfTCBboo5MUv/content.json",
+ "modified": 1503572821,
+ "signs": {
+  "1DcF8gcW4PvEsVwH3aboh6PfTCBboo5MUv": "G8CWiwVf5QZpbLH0JjeNM0G7fSxePAxheAHPfG1wFNpxK61QR8Esj5o6Y6INp1SA0sFTT5rrBx2roBPpiH8N9AI="
+ }
+}

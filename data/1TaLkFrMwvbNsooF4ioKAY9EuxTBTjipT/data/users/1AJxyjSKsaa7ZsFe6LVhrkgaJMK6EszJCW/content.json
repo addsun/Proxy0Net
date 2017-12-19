@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFbT8lEGAohOO0RrkbSwPZX3O+dE9NMzKZ64akzqSCtFswCED+hVaZw/bp2wX4d+IuXtHqzJJ+pEeebeU13DqUs=",
+ "cert_user_id": "johntsemin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e5b44465627929765221358dc1370f06de08fd8837191b584c14dd881ea3ef6c",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/1AJxyjSKsaa7ZsFe6LVhrkgaJMK6EszJCW/content.json",
+ "modified": 1508566986,
+ "signs": {
+  "1AJxyjSKsaa7ZsFe6LVhrkgaJMK6EszJCW": "HDR0iXiSe4bBL65iveGsqJh28RSJ8t6njQ8J+Crjl8ujR2CPPe/JSMoE4ecMdNbS2i3q1PybC/YdeSv9NcE/blg="
+ }
+}

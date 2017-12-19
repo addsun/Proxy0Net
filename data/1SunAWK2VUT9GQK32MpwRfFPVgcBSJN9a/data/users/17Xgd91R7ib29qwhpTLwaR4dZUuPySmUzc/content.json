@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G8x9o9qvGH+Pd0QKpHVPb1m8klFHlGP32ZIBW/4jXjiEBwFeE/YGTZuceko2sd28vCSXl+8VZ5XiHZft7tmiw4A=",
+ "cert_user_id": "alknet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "976fcae34437e77cc1d495fc371cf48e84ef8c984556f38fc138bafae57b4d0a",
+   "size": 567
+  }
+ },
+ "files_optional": {
+  "1503658242.jpg": {
+   "sha512": "45d0172bc04d54f3acf5ebce98ae8483a4753f49213a8f14dede880f72253b0c",
+   "size": 60276
+  }
+ },
+ "inner_path": "data/users/17Xgd91R7ib29qwhpTLwaR4dZUuPySmUzc/content.json",
+ "modified": 1503658241,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17Xgd91R7ib29qwhpTLwaR4dZUuPySmUzc": "HDiucBVUM3u+vMOqei2BG/nYOHHQj5XlI/FSsARfU1w1Hjd91HgJEBHvjOINjHB4wZNcTq+cCKyamUZXfwCuvBc="
+ }
+}

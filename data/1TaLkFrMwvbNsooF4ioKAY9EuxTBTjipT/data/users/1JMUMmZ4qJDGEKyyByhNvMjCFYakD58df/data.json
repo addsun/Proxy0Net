@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1511696027,
+			"title": "Help: Optional user data",
+			"body": "Hi zeronet, I know it is possible to set files to be optional, so they are only downloaded when requested. But is it possible to set files uploaded by users as optional?\n\nLet's say I would like to make a video sharing site, and when I upload a video to the site, it would be added to `data/users/[user-id]/movie1.mp4`. How can I make all user uploaded .mp4 files, optional?",
+			"added": 1511696026
+		}
+	],
+	"topic_vote": {
+		"1511696027_1JMUMmZ4qJDGEKyyByhNvMjCFYakD58df": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1511696027_1JMUMmZ4qJDGEKyyByhNvMjCFYakD58df": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_1061_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to modify user's content.json file and add \"optional\": \"(.*mp4)\" to it.Example from ZeroUp: https://github.com/HelloZeroNet/ZeroUp/blob/master/js/Selector.coffee#L15\n\nThank you for the answer",
+				"added": 1511698448
+			}
+		]
+	},
+	"comment_vote": {
+		"1061_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

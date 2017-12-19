@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G+CUJz2MsT5XO06h3ZXbKSRaEdRzTFrvqnYEJcerOtUlb/080nEOuh4BBwtYIe1oQoGOvgV+upFAdt5mw0ah/qo=",
+ "cert_user_id": "lacrimosajie@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c103a89d6e953ee7f2eb174abebd02210d860629493b93f07a2b8e24171a70e1",
+   "size": 352
+  }
+ },
+ "inner_path": "data/users/1FYTQ9JNZkCNwFpLvjFyFve5pHZXquAAdn/content.json",
+ "modified": 1508118249,
+ "signs": {
+  "1FYTQ9JNZkCNwFpLvjFyFve5pHZXquAAdn": "G+WOMK+AvyVgKWj6PIZqtn60Sl5Rgz6wblwOtw2U0dTbeziLmcXlYGmapH2Rj7T5FFDISLn2QwSG8fs8IFqdLTU="
+ }
+}

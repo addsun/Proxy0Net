@@ -1,0 +1,32 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How can i clone a ZeroNet site without a clone funktion?",
+			"body": "As ZeroTorrent or Street Market without cloning funktion how can i clone?I know i must clone manualy,replace files on my ZeroNet site folder.But What I have to change in the original file?",
+			"added": 1505292439
+		}
+	],
+	"topic_vote": {
+		"1512912701_149EPBN4hQRpwj5TcoPETepnoXHCUXzaCN": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"1_14675V7vYqpfKSrPyybCNyAvUNpm7LdaxC": [
+			{
+				"comment_id": 1,
+				"body": "Zeronet can not seed you site through the Tor network!And you can not make changes to your site tourgh Tor.I find the same probleme through a router without port forwarding.If you make changes to your site and you will be behinde a router for example a free public HotSpot the effect will not happend on the network.ZeroNet have a poor port forwarding system so its possible through a public HotsSpot if you try public a site the users can not connect to you.You can seed your site without Tor but this time others can see your real IP.The problem its not possible to seed or make changes a site as publisher (server admin) anonim way through Tor.",
+				"added": 1505290633
+			}
+		],
+		"1512912701_149EPBN4hQRpwj5TcoPETepnoXHCUXzaCN": [
+			{
+				"comment_id": 2,
+				"body": "The monetization problem can be easy fixed.Allow the users to add html codes sripts in their own videos. If they can monitize frealy their videos and the ZeroNet version stays absolute censor free. And the users can monitize their videos using any HTML codes what the are just want.I think its will be the real youtube what the users need. I see a hard work behind this youtube.I think youtube a great name this project. Its show everywan what google,facebook,microsoft doo. They build a dictatorship which serves the worst political interestsat a global level. A project is young but the platform is very good developed.Only problem was the videos front view  images (using another website) are not the best but everything else was fine.Its must be fixed later to upload the video front view pictures without using another sites.The key is the freedom!!! \n\nThe big problem are in the ZeroNet software. Large file transfer are not working correcly. Transmission will often be interrupted and will not be properly restored.This was the big problem yet.And this problem can only fix the ZeroNet developpers.The ZeroNet developpers working hard whit on it.So i think soon this problem will be fixed.",
+				"added": 1513000756
+			}
+		]
+	},
+	"comment_vote": {}
+}

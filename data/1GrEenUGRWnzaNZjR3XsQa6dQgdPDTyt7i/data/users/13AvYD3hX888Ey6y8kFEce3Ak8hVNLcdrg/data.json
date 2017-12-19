@@ -1,0 +1,66 @@
+{
+	"next_comment_id": 10,
+	"user_name": "Dergatt",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "conversations looks nice. Signal encryption with xmpp",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471611743
+		},
+		{
+			"comment_id": 2,
+			"body": "@Drymer: OMEMO is the signal encryption implementation for xmpp. According to their website",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471618244
+		},
+		{
+			"comment_id": 3,
+			"body": "@Zorriko: Yea the axolotl protocol is the old name for the signal protocol, I think they changed the protocol name to signal just recently.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_8",
+			"date_added": 1471634049
+		},
+		{
+			"comment_id": 4,
+			"body": "The 2 doesn't power a HDD, don't know about a hub.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1473443069",
+			"date_added": 1473444286
+		},
+		{
+			"comment_id": 5,
+			"body": "What about the good old xmpp. you can use It on nearly every device and better encryption is under heavy development (Omemo).\nSee:\nhttps://chatsecure.org/blog/chatsecure-v323-xmpp-push/",
+			"post_uri": "156HySyXH37jFXXqKCwVq8HqsrZLZzy8Qx_1474817917",
+			"date_added": 1474829072
+		},
+		{
+			"comment_id": 6,
+			"body": "yes",
+			"post_uri": "1Cr9GMEngZVtcsNwaoHo2XNw1EuMFu8WxF_1475400134",
+			"date_added": 1475404313
+		},
+		{
+			"comment_id": 7,
+			"body": "I run zeronet as user.\nDownload the Bundle and extract it in a folder of your choice in your home folder.\n\nput:\n>[Unit]\n>Description=Zero net Start\n>After=network.target\n>\n>[Service]\n>ExecStart=/home/\"path into the extracted folder\"/ZeroNetnoBrowser.sh\n>Restart=on-failure\n>SuccessExitStatus=3 4\n>RestartForceExitStatus=3 4\n>\n>[Install]\n>WantedBy=default.target\n>\ninto:\n>~/.config/systemd/user/zeronet.service\n\nyou can run it with:\n>systemctl --user start zeronet\n\nThis way I can use the auto update function without any permission problems.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476191438
+		},
+		{
+			"comment_id": 8,
+			"body": "Same problem here in tor only mode after zeronet update 0.5.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478690900
+		},
+		{
+			"comment_id": 9,
+			"body": "@MilitaryRiotLab: Thanks this seems to work",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478691565
+		}
+	],
+	"flags": {},
+	"comment_like": {
+		"": 1476195015
+	}
+}

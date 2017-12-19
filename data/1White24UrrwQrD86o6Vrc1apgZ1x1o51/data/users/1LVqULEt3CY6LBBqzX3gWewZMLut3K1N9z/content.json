@@ -1,0 +1,28 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G/qqDeMRj6qDyCHxftXtATXuob11k4arPfik+2MPZIXrDd0vjUHlwskffYfImMxrNQGEv157aZfkIVWCYFEWmc8=",
+ "cert_user_id": "opensink@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9231ada5cfec7d37c853ae3bc84e856046918a47425d09e5bb6551a3f5804d59",
+   "size": 1824
+  },
+  "data.json": {
+   "sha512": "587588b1399361a51fc0b4115bda6b7e9f11a1711f19507a9b05d98cdb909207",
+   "size": 14241
+  }
+ },
+ "files_optional": {
+  "1500295119.jpg": {
+   "sha512": "6aee850816f2054a9556b3211b9a10b18a0bb240794467371a6db4be2f282525",
+   "size": 72692
+  }
+ },
+ "inner_path": "data/users/1LVqULEt3CY6LBBqzX3gWewZMLut3K1N9z/content.json",
+ "modified": 1503723835,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1LVqULEt3CY6LBBqzX3gWewZMLut3K1N9z": "G4Mzr0REwI3ZzGZoAE9zVciatiepmwkFQ7v572ffbIlTabJIH2+0wVFd2w9NIkpFY/W86AXQ98N7+VHFaWNtj48="
+ }
+}

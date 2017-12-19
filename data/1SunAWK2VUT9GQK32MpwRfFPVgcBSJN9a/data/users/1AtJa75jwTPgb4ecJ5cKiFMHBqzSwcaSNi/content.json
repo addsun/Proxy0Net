@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2IN7KOJtF1yrYTmr98WhS3B2M777xnkl57hfeayht+qsLZX9mbPCsDiPi2pXi9qwJuRv+eWh6jvUfWiZzn7+kc=",
+ "cert_user_id": "teenrock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "753b5d0c6dd3f2bb272294f3982f1fc8e2f96c6fca7cf092ee2770ac4bf5506b",
+   "size": 352
+  }
+ },
+ "inner_path": "data/users/1AtJa75jwTPgb4ecJ5cKiFMHBqzSwcaSNi/content.json",
+ "modified": 1511635146,
+ "signs": {
+  "1AtJa75jwTPgb4ecJ5cKiFMHBqzSwcaSNi": "G8Kow6kv1RDFAq+lioOPrj2GsI3OPg4zpLfydLwNjxmpBPQ9jvD4nDGW2+X7BW3Y3cm7szom/mUa30T4Acgh2vs="
+ }
+}

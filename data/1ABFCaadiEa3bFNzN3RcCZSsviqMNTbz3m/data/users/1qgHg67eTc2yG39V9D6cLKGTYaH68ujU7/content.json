@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HxdR9rzK4//G2w4PtplGdib1Lk4GqWJxVaa9JGL0+8ddS14fpRxTzFYzHSOwFvLQapFm+tXubI0FSNA4dyFvhdw=",
+ "cert_user_id": "love is love@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b4f72c147c303bcec6cb6a68581a4dbd70f023093bfc121b7f5fe051b1a4ef4c",
+   "size": 200
+  }
+ },
+ "inner_path": "data/users/1qgHg67eTc2yG39V9D6cLKGTYaH68ujU7/content.json",
+ "modified": 1509766030,
+ "signs": {
+  "1qgHg67eTc2yG39V9D6cLKGTYaH68ujU7": "HI8mm1rX7F/T0TJpb3bh4uYyOuLzXWa7Bdbb8IjbT4wmIXjlbBNcM+Xy8zPLrYm29pZ67abFM8f2plGacZPKxyQ="
+ }
+}

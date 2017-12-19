@@ -1,0 +1,131 @@
+{
+	"next_comment_id": 21,
+	"user_name": "编程狗的博客",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"post_like": {
+		"1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1480995948": 1482760061
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Lmath: 突然发现不能发新消息了悲催啊",
+			"post_uri": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4_1",
+			"date_added": 1482638170
+		},
+		{
+			"comment_id": 2,
+			"body": "@简单翻墙: hehe",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482574596",
+			"date_added": 1482638675
+		},
+		{
+			"comment_id": 3,
+			"body": "我重复的用户加入hub的那个数据删除了，现在处于既在hub里面又不在hub里面的中间状态...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482680485",
+			"date_added": 1482683555
+		},
+		{
+			"comment_id": 4,
+			"body": "能评论不能发新消息...有时间看源码咋回事...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482680485",
+			"date_added": 1482683604
+		},
+		{
+			"comment_id": 5,
+			"body": "还得开启dehub模式...",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481527750",
+			"date_added": 1482760003
+		},
+		{
+			"comment_id": 6,
+			"body": "未必...zeronet下面有一个加密的插件，把那个插件换成shadowsocks 协议特征一下子就没有了。再说，在国内封杀用户，而且是p2p何等的难...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482291537",
+			"date_added": 1482841607
+		},
+		{
+			"comment_id": 7,
+			"body": "倒是防范跨站攻击...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1482224803",
+			"date_added": 1482841720
+		},
+		{
+			"comment_id": 8,
+			"body": "你可以自己搞一个域名，自己签发用户，那样就和bit分立了...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481626236",
+			"date_added": 1482842346
+		},
+		{
+			"comment_id": 9,
+			"body": "@Firedog: 可以用别的域名",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481605839",
+			"date_added": 1482842401
+		},
+		{
+			"comment_id": 10,
+			"body": "[zero域名解析原理](https://www.reddit.com/r/zeronet/comments/30vgtr/namecoin_bit_domains_support_added_in_latest/)他们只解析ziroid.bit签发的用户。解析方式是本地域名名单。所以，如果你自己的域名签发的用户，你可以自由解析他们的域名，你可以造一个tib的域名出来，或者任何你想要的...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481626236",
+			"date_added": 1482859658
+		},
+		{
+			"comment_id": 11,
+			"body": "貌似这个网站做到了-> http://127.0.0.1:43110/0chan.bit",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481626236",
+			"date_added": 1482860008
+		},
+		{
+			"comment_id": 12,
+			"body": "zero.btnova.org ",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1482908929",
+			"date_added": 1482926299
+		},
+		{
+			"comment_id": 13,
+			"body": "@TCP: 浏览器兼容问题吧？类似的问题还有一大堆，如果你是前端开发人员，会被这些问题烦死。",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1482997316",
+			"date_added": 1483008629
+		},
+		{
+			"comment_id": 14,
+			"body": "@Ysc3839: 如果你们学校dns没有阻止，你可以试试tcp over dns,呵呵，很贱的一招。",
+			"post_uri": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_1479746355",
+			"date_added": 1483722506
+		},
+		{
+			"comment_id": 15,
+			"body": "试试rust吧，个人感觉设计的比go要好很多。",
+			"post_uri": "1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2_1484452469",
+			"date_added": 1484576286
+		},
+		{
+			"comment_id": 16,
+			"body": "这个以来python的sqilite3模块，你报了什么错吗？",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1484660166",
+			"date_added": 1484660549
+		},
+		{
+			"comment_id": 17,
+			"body": "请问你用的是linux系统吗？",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1484660166",
+			"date_added": 1484661236
+		},
+		{
+			"comment_id": 18,
+			"body": "应该是发新数据的时候报的错吧，我修改一下把连带的数据也干掉",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1484660166",
+			"date_added": 1484662046
+		},
+		{
+			"comment_id": 19,
+			"body": "@12hstudyshouji: 已经更新，请看原帖，实在抱歉",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1484660166",
+			"date_added": 1484663900
+		},
+		{
+			"comment_id": 20,
+			"body": "理论上一点问题都没有，需要修改下zeronet源码，有空看",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1486874626",
+			"date_added": 1486881689
+		}
+	],
+	"intro": "Programming Getting Started is easier\n让入门编程更简单\n[@编程狗的博客](http://127.0.0.1:43110/1Ld63vNnfm5SEUTbsYxB7XGo7kHQVUGghU/)\nI have joined 2 hubs,can not add new message again,who can help me ? Or See my blog ."
+}

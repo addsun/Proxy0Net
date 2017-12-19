@@ -1,0 +1,104 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 5,
+	"next_follow_id": 8,
+	"avatar": "jpg",
+	"user_name": "Skwerlman",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "i'll come up with a good meme to put here later",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1497709472,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1497709531,
+			"date_added": 1497709529,
+			"meta": "{\"img\":\"776,700,eeedddcccaaabbb999888666555,011111110001111111111211113411254242542113424332632733646432266352421018536375301310043332\"}"
+		},
+		{
+			"post_id": 1499795063,
+			"body": "where did all these meme accounts come from all of a sudden",
+			"date_added": 1499795060
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "In chromium 60 on arch, the site tries to call `xdg-open`, which results in 2 new windows with only the new tab in each. Going to http://zero/ URLs manually works correctly.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1501485284
+		},
+		{
+			"comment_id": 2,
+			"body": "actually, after i restarted chrome a couple times, I got it to respect the .pac at all times. Now I just gotta get it to respect zero:// links",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1501487708
+		},
+		{
+			"comment_id": 3,
+			"body": "and it's working! the relevant files are here:\nhttp://zero/17iF64gTLycSohUSJsFyq7FMYsQfMqghJa/?1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X_0\nhttp://zero/17iF64gTLycSohUSJsFyq7FMYsQfMqghJa/?1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X_1",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1501490605
+		},
+		{
+			"comment_id": 4,
+			"body": "@Kaffie: yep!\n\nto get it to work with http://zero i used the `--proxy-pac-url` flag with a `file:///` link to your .pac file\n\nfor zero:// i wrote a shell script and a .desktop file which i linked in my last comment",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1501530154
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1497709653
+		},
+		{
+			"follow_id": 2,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1497709656
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1497709658
+		},
+		{
+			"follow_id": 4,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "136wmwLTBJoGTjXTAa7sWmXewn9P53EKML",
+			"user_name": "Zero News",
+			"date_added": 1497709660
+		},
+		{
+			"follow_id": 5,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1DCGj2KSETY8iSiwGFaxBJzEGFKjfBEBXK",
+			"user_name": "U808f",
+			"date_added": 1497709663
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1497846492
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1497846504
+		}
+	]
+}

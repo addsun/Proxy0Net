@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G336O3gJKC9AuHqpsEWyvZujj5PUyy80r5ifq4lZfrxGsczTFF4Gvs/5Z43kBHzAN7yZEqgHOM8oO2/DlB/uJ60=",
+ "cert_user_id": "findone@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "84534d40e25149de73b8e4b9845746c72a36b2cce2ffcdb3026b220fd27611ed",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1M8ebsVzYYRkkTAEzkZ9XbNvg85QksknaA/content.json",
+ "modified": 1508465505,
+ "signs": {
+  "1M8ebsVzYYRkkTAEzkZ9XbNvg85QksknaA": "HPFteAgAr/pOExyWacvzeKBmlwuZsapGv7bp7YLh++c4eL8Em2bUKsKoBrtvdeizZR3rD9vyNaRkf1k8IIid74c="
+ }
+}

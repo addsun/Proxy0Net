@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5PIw+q0lbyjsRS98ViuzT/Lf85+4ExsHYqS3LpOWO1OuUf6wcxMY6Vc+V7n7AcOq53IcGqqzEZkmYW+SfRLaxE=",
+ "cert_user_id": "neuromancer@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "713eff18d82932c3526e2f92ec4f3d171c3d98f2f38db76de49f8f245b394b4d",
+   "size": 1698
+  },
+  "data.json": {
+   "sha512": "ad75b673f9b4beedc105bccc93289e053d47c0de06ab7e1fdf1088043d0e9b49",
+   "size": 1285
+  }
+ },
+ "files_optional": {
+  "1508852055.jpg": {
+   "sha512": "48575a0f38fe3133daaf097733242284ab7f8c18cf89e75d60762504a1e5b42d",
+   "size": 75899
+  },
+  "1509366590.jpg": {
+   "sha512": "dc56421d3c4cc40d274b3f69ff4091d253963ed4dc18e4e772c1943d6e2cfdb1",
+   "size": 76144
+  }
+ },
+ "inner_path": "data/users/1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt/content.json",
+ "modified": 1510650577,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt": "HLblQ6cBqZhAt85hHypRw5Je7wnKLyEbsNs0XRXdKXfbTbCkJKSBK5Mkwlz8j89e9S/HedW9BSIeF5D7+Z/r1DU="
+ }
+}

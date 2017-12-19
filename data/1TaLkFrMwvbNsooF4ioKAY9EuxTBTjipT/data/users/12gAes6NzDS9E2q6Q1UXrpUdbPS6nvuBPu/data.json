@@ -1,0 +1,1790 @@
+{
+	"next_topic_id": 23,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet Dev Center - Questions Update",
+			"body": "A Development Center for the ZeroNet. Tutorials, Questions (similar to StackOverflow), and more coming in the future! I have just released an update to the zite: \n[/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/blog/the-questions-update](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/blog/the-questions-update)\n\nHave any feedback, ideas, etc.?",
+			"added": 1502918045
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroNet Dev Center Blog Post - My Zite Dev Workflow",
+			"body": "A Blog post where I detail my Zite Dev Workflow. http://127.0.0.1:43110/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/blog/my-zite-dev-workflow",
+			"added": 1503019932
+		},
+		{
+			"topic_id": 3,
+			"title": "ZeroNet Dev Center - Creating A Static Zite Tutorial",
+			"body": "In this tutorial, we are going to be making a very simple static zite, go through the different options in the `content.json` file, and talk about the ZeroFrame class that is auto-generated when you create an empty zite, what it is used for, and why it is important. \nhttp://127.0.0.1:43110/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/tutorials/static_zite",
+			"added": 1503253154
+		},
+		{
+			"topic_id": 4,
+			"title": "ZeroMedium is Released!",
+			"body": "Medium for ZeroNet!\nhttp://127.0.0.1:43110/1CVmbCKWtbskK2GAZLM6gnMuiL6Je25Yds/?/",
+			"added": 1506843890
+		},
+		{
+			"topic_id": 5,
+			"title": "What is ZeroMedium?",
+			"body": "Story on ZeroMedium\nhttp://127.0.0.1:43110/1CVmbCKWtbskK2GAZLM6gnMuiL6Je25Yds/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/what-is-zeromedium",
+			"added": 1506899218
+		},
+		{
+			"topic_id": 6,
+			"title": "ZeroMedium.bit",
+			"body": "You can now use ZeroMedium.bit, thanks to lingdu, to access ZeroMedium!\nhttp://127.0.0.1:43110/ZeroMedium.bit/?/",
+			"added": 1506960160
+		},
+		{
+			"topic_id": 7,
+			"title": "ZeroMedium Updates",
+			"body": "* The profile page tabs now work\n* The homepage has changed slightly. It now features a section for top stories (sorted by which stories have the most responses and claps - update below) and recent stories. I actually just had an idea on how to improve these further, so that might come out soon!\n* Fixed how claps show up on your profile on ZeroMedium\n* [UPDATE] Improved the top stories section by only counting the responses and claps published for that day. If an old post has the most claps and responses that were published/done on a certain day, it will be the top story for that day.\n* [UPDATE] Fixed the bug where the topic pages would show stories that didn't belong to the topic.\n\nhttp://127.0.0.1:43110/zeromedium.bit/?/",
+			"added": 1506990373
+		},
+		{
+			"topic_id": 8,
+			"title": "ZeroMedium Details",
+			"body": "Story on ZeroMedium\nhttp://127.0.0.1:43110/ZeroMedium.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/zeromedium-details",
+			"added": 1507005333
+		},
+		{
+			"topic_id": 9,
+			"title": "ZeroMedium: More On Spam and Curation",
+			"body": "http://127.0.0.1:43110/ZeroMedium.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/more-on-spam-and-curation",
+			"added": 1507315722
+		},
+		{
+			"topic_id": 10,
+			"title": "ZeroMedium Update",
+			"body": "Responses on Responses are done *and* you can now follow users!\nhttp://127.0.0.1:43110/ZeroMedium.bit",
+			"added": 1507594811
+		},
+		{
+			"topic_id": 11,
+			"title": "ZeroMedium: Basic Inline Markdown is Here!!!",
+			"body": "http://127.0.0.1:43110/ZeroMedium.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/basic-inline-markdown-is-here",
+			"added": 1507943416
+		},
+		{
+			"topic_id": 12,
+			"title": "New WIP Zite: ZeroDB Helper",
+			"body": "This new zite is a visual editor that helps you create dbschema files to ease ZeroNet zite development. It's still a work-in-progress and there is still *much* to do. here's the link: http://127.0.0.1:43110/0sh.bit/?uZ9h",
+			"added": 1508035846
+		},
+		{
+			"topic_id": 13,
+			"title": "You can now use ZeroDB.bit to access my ZeroDB Helper zite!",
+			"body": "Thanks to Redfish.\nhttp://127.0.0.1:43110/ZeroDB.bit",
+			"added": 1508084957
+		},
+		{
+			"topic_id": 14,
+			"title": "ZeroDB Update",
+			"body": "* You can now save your databases and come back to them later to modify them.\n* Renamed ZeroDB Helper to just ZeroDB\n* Can toggle whether to display the json table\n* Bug fixes\n\nhttp://127.0.0.1:43110/ZeroDB.bit/?/",
+			"added": 1508300711
+		},
+		{
+			"topic_id": 15,
+			"title": "ZeroDB Update",
+			"body": "* Explore page\n* User Profiles\n* Ability to see a user's database\n\nYou can see the database for [ZeroDB here](/ZeroDB.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1).\n\nZeroDB Domain: [/ZeroDB.bit](/ZeroDB.bit)",
+			"added": 1508714284
+		},
+		{
+			"topic_id": 1509585696,
+			"title": "ZeroMedium November Part 1 Update is Out!",
+			"body": "http://127.0.0.1:43110/ZeroMedium.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/zeromedium-update---part-1-11117",
+			"added": 1509585680
+		},
+		{
+			"topic_id": 1509660745,
+			"title": "ZeroMedium Now on GitCenter",
+			"body": "http://127.0.0.1:43110/1BEPbMfV8QtaZCD2cPNbabfDKnmhTAZRPx",
+			"added": 1509660728
+		},
+		{
+			"topic_id": 1509924794,
+			"title": "ZeroGraph Test",
+			"body": "ZeroGraph is a ZeroNet merger-zite and library that zites can use to mimic the functionality of OpenGraph.\nYou can now try out getting an object from ZeroGraph.\nGo to this link: [/1DGu17id1u2iQDNzW5oxvJm8A3nWNka735/](/1DGu17id1u2iQDNzW5oxvJm8A3nWNka735/)\nAccept the permission, wait for a notification that the merger zite has been added. Then, just above the `Get Object` button, type in this link: `zerograph://12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1509922184184` (this is a ZeroGraph Share Link). Then click `Get Object`. The Object information should appear just under the button. Currently only zites and articles are allowed, and not all options are provided for those.",
+			"added": 1509924776
+		},
+		{
+			"topic_id": 1510343838,
+			"title": "New ZeroWiki",
+			"body": "Because I was a little annoyed with how disorganized ZeroWiki was, I cloned it and started adding the information back in with better organization in mind. It doesn't have as much information as ZeroWiki, but it is getting there.\nhttp://127.0.0.1:43110/1LX2wiouHctuUXtu5WkVM9TJJ3YoL6gAfm/",
+			"added": 1510343819
+		},
+		{
+			"topic_id": 1511469595,
+			"title": "ZeroMedium 17-11B Update",
+			"body": "* Fixed the Search Page\n* New All Topics page\n* Majority of Multilanguage support - Interface and topics not given in other languages *yet*\n\nMany of the things that I wanted to get done for this release have been pushed back to the 17-12A Update, which will be released on December 1st (*hopefully*).\nhttp://127.0.0.1:43110/ZeroMedium.bit",
+			"added": 1511469575
+		},
+		{
+			"topic_id": 1512263767,
+			"title": "New ZeroMedium BETA Zite",
+			"body": "You can visit this zite to access the latest beta build. Beta builds are released a few days before they are released to the official zite. It should be noted that you can *not* access any posts from the official ZeroMedium zite on this beta zite. This beta zite provides a means for people to test out the next version and report bugs.\nhttp://127.0.0.1:43110/15HdD8ZwMLjzQhbDQcF8oRtkbxYxVS7JgU/",
+			"added": 1512263746
+		},
+		{
+			"topic_id": 1512275153,
+			"title": "ZeroMedium Update 17.12a",
+			"body": "### New Features\n* You can now use markdown link syntax: `[Link Title](link_address)`\n* You can now put space or punctuation after markdown for it to automatically change to visual version. Punctuation includes: . , ! ? ( ) [ ] { }\n* You can now add images while editing a story\n\n### Bug Fixes\n* Empty responses and stories are *kinda* disallowed (There is still a bug that I'm unsure how to fix)\n* The \"publish\" button is temporarily disabled after clicking it when publishing a response. This prevents people from accidentally clicking it twice, which will post the response twice.\n* Images that are uploaded will have the date uploaded appended to the filename. This ensures that there are no collisions with image names.\n* For images that are uploaded with non-ascii characters in the filename, the non-ascii characters are removed - this is to prevent a ZeroNet bug with non-latin characters. Spaces are also replaced by underscores and quotes (double and single) are removed.\n* The registration will not continue until you select a primary language and enter a username.\n* When posting edited story, if title is same as before, no need to add date to end of it\n* When interests is empty and you click to follow an interest, do not start the interests string with a comma ','. This prevents there from being an empty interest\nhttp://127.0.0.1:43110/ZeroMedium.bit",
+			"added": 1512275131
+		}
+	],
+	"topic_vote": {
+		"36_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1_1AzjuTbEYRJcGcVQmEqYxaKbQi3wjskGwQ": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": 1,
+		"1_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1,
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"19_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"9_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"14_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"39_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"5_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"11_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"15_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"12_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1_1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS": 1,
+		"16_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"3_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"9_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"9_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1509245587_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1509171908_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1509336621_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1509065748_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D": 1,
+		"112_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D": 1,
+		"9_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"5_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"109_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D": 1,
+		"1509585696_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1509624447_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"1509828222_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1509912107_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1510253157_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1510343838_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1511470806_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": 1,
+		"1512159205_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512447633_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1,
+		"1512677933_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1513127681_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": 1,
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1
+	},
+	"next_comment_id": 252,
+	"comment": {
+		"1_1Dceoz8UQk4pxj22JwrfNT3EWiFBmBJZd3": [
+			{
+				"comment_id": 1,
+				"body": "https://www.instagram.com/developer/",
+				"added": 1492660503
+			}
+		],
+		"36_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 2,
+				"body": "Hi. I'm the creator of this Zite. I want to add that this Zite isn't fully complete yet. I still have ideas that I would like to explore. One of these Ideas is the ability to vote up Zite Requests, and once a Zite Request gets enough votes, it will be added to the main list. You can visit the [Github page](https://github.com/krixano/ImportantZites) to see more of my future plans and help out if you like by creating Issues or Pull Requests. All contributions are welcome!",
+				"added": 1493055157
+			}
+		],
+		"1_19ymuf37SDH66VSYwTuDogmjn3PKFDVAYV": [
+			{
+				"comment_id": 3,
+				"body": "Hello!",
+				"added": 1501256772
+			}
+		],
+		"1_1Mpr8B1fRGBctzf7g9a6X1cb4WbQULH92N": [
+			{
+				"comment_id": 4,
+				"body": "I have a basic tutorial on my [ZeroNet Dev Center](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt) zite here: [/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/tutorials/the_basics](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/tutorials/the_basics)\nCurrently, it mostly tells you the very basics *before* you start creating a zite, like how zites are updated and sent to peers, how they are kept secure using Digital Signatures, etc. Although it does cover cloning a zite, and how to create an empty zite. I will eventually have more tutorials on there. There's also a place to ask Development Questions and get answers.",
+				"added": 1501830023
+			}
+		],
+		"1_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 5,
+				"body": "> [antyhrabia](#comment_52_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD): At this moment, look excellent. Good job.\n\nThanks!",
+				"added": 1503002265
+			}
+		],
+		"3_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 6,
+				"body": "> [drone621](#comment_10_1KkYwbYeCF7s17AmUF9Tc7ckzCgt3UoaaC): I'm sorry, I tried to visit that but I got a 403. Using Firefox.\n\nOh sorry, I forgot to add `:43110`. It's fixed now!",
+				"added": 1503258925
+			},
+			{
+				"comment_id": 7,
+				"body": "> [nouts](#comment_5_1NDhNyavxhFyWJHscjPu5qYjMbpfKSDVzt): How did you edit your post ? not by UI ?\n\nWhat do you mean? I just used the pencil button that shows up to the left the the body when you hover over it to edit it.",
+				"added": 1503278987
+			}
+		],
+		"1_18rArpeuGwqDAudCCpghohwutNEexwGMtT": [
+			{
+				"comment_id": 8,
+				"body": "Here are some:\n[ZeroNet Dev Center](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/) (ZeroNet and Zite development tutorials and Q&A System) - This is one of my zites\n[ZeroSites](/Sites.ZeroNetwork.bit/) (Lists people's zites who have added it there by category)\n[ZeroMe](/Me.ZeroNetwork.bit/) - Social Network (like twitter, but with Facebook comments)\n[Get All Hub](/0hub.bit/) (Get *most* hubs for ZeroMe - hasn't been updated with all hubs I don't think - Like the Anonymous Hub)\n[Kaffiene Search Engine](/kaffiene.bit)\n[RVRE Search Engine](/rvre.bit)\n[Zirch Automated Search Engine](/1SearchPd3khzLtsxTxKYhYUohk7c1QYd/)\n[Kopy Kate](/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN) (video sharing zite, like youtube but with no channels)\n[0play](/0play.bit) (Movie Torrents)\n[Thunderwave](/thunderwave.bit/) (Chat with markdown, Emojis, images, and file upload support)",
+				"added": 1503377150
+			},
+			{
+				"comment_id": 9,
+				"body": "> [skwerlman](#comment_29_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X): Just a note: your links don't work for me, since they're relative and my 0net urls aren't prefixed with localhost:43110 (they look like http://talk.zeronetwork.bit/ for me)\n\nSorry about that, I just use relative because it seems like most other people *seem* to since they will work on ZeroNet Proxies, do you want me to make them absolute?",
+				"added": 1503378213
+			}
+		],
+		"3_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 10,
+				"body": "There's also [ZeroPub](/1DYwX4W1qfSaiihfN5gW6ahLp5332TawH5/). Also, I think antilibrary uses ipfs.",
+				"added": 1503381867
+			}
+		],
+		"3_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": [
+			{
+				"comment_id": 11,
+				"body": "I head that this was fake, but I don't know.",
+				"added": 1503523654
+			},
+			{
+				"comment_id": 12,
+				"body": "I am fine with this as long as they don't *censor* things. They have never said anything about *censoring* it as far as I know. According to the article I provided below (*which comes directly from Mozilla*), it just looks like they are investing in creating software to fact check things, teaching people about misinformation, and helping fund other misinformation-combatting projects: https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/\nFurthermore, as far as I can tell, they haven't said they are teaming up with George Soros - this \"fact\" is coming from sources other than Mozilla themselves.\n\nSo, just be careful where you get your information. Like I have said, I don't know if this is true or not, but according to what I have read *directly from Mozilla*, they make no mention of George Soros or of *censoring* things in the future.",
+				"added": 1503528216
+			},
+			{
+				"comment_id": 13,
+				"body": "> [kmueller](#comment_57_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB): ADL\n\nI have search for a bit and so far have found no information (including from Mozilla) stating they have partnered with CTR or ADL. To go a step further, Mozilla promotes *Free Choice*, Open Source and Open Internet, Net Neutrality, and Decentralization (as in spreading the market out) - the first of which seems to conflict with your argument about Mozilla.\n\nYou are also presupposing that CTR and ADL are liars, slanderers, and communists. Obviously I don't know about the first two, however, I don't think that wanting to stop hate speech and terrorism are related to communism - I may be wrong.\n\nIf you are not going to argue using *facts* and *reputable **and direct** sources*, then I am going to be done with this argument. If you are willing to provide these *facts* and *reputable **and direct** sources*, then **I am interested in seeing them.**",
+				"added": 1503536790
+			},
+			{
+				"comment_id": 14,
+				"body": "> [kmueller](#comment_58_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB): They are liars slanderers and commies, well marxists actually. And they have no interest in stopping hate speech and terrorist. They just want to shut down what they think is offensive like calling trannies \"he\" instead of \"she\" or \"xir\", this happened recently with the node.js project. [...]\n\nI just read the article you linked. I do agree that you shouldn't have to think about diversity, you should just have to think about who are good programmers, etc. If they end up being diverse, then so be it - but it isn't necessarily racists when there's a person of color or different sexual orientation that you didn't think did a good job with the code, etc. However, I'm not sure that there are or aren't biased people who hire certain people as programmers over others because of their biases. It'd be something that I'd have to research further.\n\nI've also never heard of anything like what was detailed in the article (with the github message about not accepting pull requests from people of color). I just can't believe that that has actually happened. It's sad that people just automatically jump to conclusions with no substantial proof, just imagining a pattern from something they observed. And the thing is, these patterns that people assume out of observations are often wrong - This is precisely why Scientists don't just look at patterns. They conduct multiple experiments and modify hypotheses and theories until they know for sure. I think many people need to work on this more.",
+				"added": 1503707841
+			},
+			{
+				"comment_id": 15,
+				"body": "> [darkshroud](#comment_7_1BQaDuyXqze4tNXucqvbz3yUVkysxCoeni): https://www.brave.com/ [...]\n\nI am actually using brave for mobile right now. But for my laptop, I use Firefox because of the Nightly version - I don't know if derivatives of Firefox (palemoon, etc) have a nightly version. I use the Nightly version because it has the new parallelized css styling engine that's written in Rust. I'm now just waiting for their new rendering engine to come out - I think it's called Webrender (or Quantum Render).",
+				"added": 1503708190
+			},
+			{
+				"comment_id": 19,
+				"body": "> [kmueller](#comment_61_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB): The people who do not hire certain people despite their qualification are in the absolute minority if they exist at all. CS is not a field where you can be picky with the look of your employees as those are already rare enough as they are. [...]\n\nHow about instead of being rude, you actually read what I said correctly. Looks like I will have to do it for you:\n> I've also never heard of anything like what was detailed in the article (with the github message about not accepting pull requests from people of color). I just can't believe that that has actually happened. It's sad that people just automatically jump to conclusions with no substantial proof, just imagining a pattern from something they observed.\nHere, I was clearly (or at least I thought) talking about what was detailed in the article. The person who made the comment on github \"jump[ed] to conclusions with no substantial proof\". I wasn't talking about you (or the person who wrote the article)! And when I said `I just can't believe that that has actually happened.`, I wasn't being literal. `I just can't believe` is a figure of speech meaning I *was surprised* to hear that something like this happened. It's used all the time like this.\n\nNow, I realize in hindsight that it was a little ambiguous, but guess what? How about you ask what I meant instead of *jumping to the conclusion* that I was talking about you! \n\nAlso, you can be a little bit more polite considering not everyone is going to agree with you, and you have to deal with that. Opinions are what make people different, there isn't necessarily anything wrong with that. Notice how I was much more polite considering I didn't necessarily agree with some of your arguments, etc. Life is too short to be spewing hateful speech about or being rude to other people who may have very good reasons for their opinions. Just think about it. Anyways, hope you have a fine day.",
+				"added": 1503866750
+			},
+			{
+				"comment_id": 20,
+				"body": "> [kmueller](#comment_66_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB): Isnt Palemoon open source?Just fork it and remove the code that causes this. [...]\n\nIt's fine. I realize that people have moods, people misunderstand things, etc. etc.",
+				"added": 1503868705
+			}
+		],
+		"2_1M78zG4cdm2osFEpXApCHxh6bu936kgte6": [
+			{
+				"comment_id": 16,
+				"body": "If you want something that will let other people download your files (like sharing files in dropbox), then there's [IFS](/12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er/).",
+				"added": 1503785371
+			},
+			{
+				"comment_id": 18,
+				"body": "> [akito](#comment_201_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Connecting...No peers foundcontent.json download failed\n\nIt's working for me. I don't know why you can't access any peers.",
+				"added": 1503866488
+			}
+		],
+		"4_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [],
+		"1_1N1bEAsjdqCy5f7SG6jPXUoa1BA2QES8DZ": [
+			{
+				"comment_id": 21,
+				"body": "It's in `device storage/Android/data/net.mkg20001.zeronet/files/zero/data`",
+				"added": 1503882741
+			}
+		],
+		"2_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 22,
+				"body": "If you signup with Microsoft Outlook email, they provide free online versions of Word, Excel, Powerpoint, and OneNote - although they aren't full versions, they pretty much have the essentials. There's also Google Docs.",
+				"added": 1503882963
+			}
+		],
+		"1_18U3XMxdYnD8BFVeY6UCPJvKTLg51n4uBZ": [
+			{
+				"comment_id": 23,
+				"body": "> [kopykitty](#comment_21_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx): Everybody wants to use. Nobody wants to collaborate\n\nWell, not everyone knows how to collaborate. Like I wouldn't know where to begin to collaborate on something like this. Also, I can't find any github page for tvepisodes.bit.\n\nAnyways, I am mainly making this post to tell you I created a pull request on your Kopy Kate github page.",
+				"added": 1504027639
+			}
+		],
+		"4_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 24,
+				"body": "> [mewmewpower](#comment_10_1BXrm8Bwf3e4DPasJ5L3txhjqhmwhcVdtm): What is it?\n\nIt's a clone of [Medium](https://medium.com) (clearnet). Medium is a place where you can publish writings, documents, essays, stories, tutorials, blog posts, etc. It's kinda like a blogging social-network.",
+				"added": 1506849185
+			},
+			{
+				"comment_id": 25,
+				"body": "Just added the ability to delete stories! Also made the response box clear after posting your response.",
+				"added": 1506884681
+			}
+		],
+		"1_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": [
+			{
+				"comment_id": 26,
+				"body": "There are languages that compile to JavaScript (e.g. Typescript), but I agree that I don't really like javascript all that much.",
+				"added": 1506891673
+			},
+			{
+				"comment_id": 27,
+				"body": "> [xianc78](#comment_11_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ): It's not just programming JavaScript; it is also your computer running JavaScript. It's slow and bloated. Using a transcompile language like TypeScript or CoffeeScript will not improve this.\n\nYeah, I know. I was mostly saying because it at the very least will improve the coding experience, less error prone, etc. Also, I meant to say I agree that webassembly support would be useful.\n\nCan't you use webassembly right now if you wanted to? Before, on some site, I think it said it requires a server, but I don't see this requirement listed on other pages about webassembly. Can you run webassembly locally?",
+				"added": 1506892059
+			},
+			{
+				"comment_id": 28,
+				"body": "> [james007](#comment_52_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Just what we all want, random/untrusted low-level machine code running in our browsers. /s\n\nIt's not machine code. It's byte code, like what the jvm uses. And it's sandboxed.",
+				"added": 1506954004
+			}
+		],
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 29,
+				"body": "> [ivanq](#comment_51_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er): Cool! Is it open-source? UPD https://github.com/krixano/ZeroMedium [...]\n\nThat's a problem with bulma and that there are too many topics listed there. I already know about this. I could just add the horizontal scroll bar, but that will make it look ugly and I'd rather just leave it like that (Medium doesn't show all the topics in their top bar) and let you get to the other topics by going to some other page, like search for example (and the 'jump back in' section Medium has on their homepage when your logged in). No use in cluttering the bar more by trying to put another menu or dropdown, but that's just my opinion. However, if you're on mobile, you can scroll horizontally.",
+				"added": 1506954321
+			},
+			{
+				"comment_id": 33,
+				"body": "> [l0bster](#comment_1_1FcMuJwqkSPP7C3gnNLugZGwwSGpugX2rA): Good idea. But cant login. Link to Sing in dont active.\n\nHave you visited the site before. If you clicked the signin before and clicked to login but didn't complete the registration, it will do that. Also, if you're account was already selected but you didn't go through the registration process, it will also do this (I am aware of these particular issues and am still trying to figure out how to fix it - this is also why I haven't added the ability to change user yet). What you could do is, *while on the zite*:\n1. Slide to the left the 0 button in the top right corner\n2. Under identity address, click change\n3. Click \"Unique to site\"\n4. Drag the 0 button back to the right\n5. Click the signin button again. This time you should get a signin box. After you click the signin button and select your account, you will be prompted to type in a name.\n\nIf you are still not being prompted for a name, or the signin box that I mention above doesn't show up, please send me anything that is printed in the console when you click the Signin button (open the \"developer tools\", Ctrl-Shift-I for Firefox, click the 'console' tab).",
+				"added": 1507029003
+			},
+			{
+				"comment_id": 35,
+				"body": "> [l0bster](#comment_2_1FcMuJwqkSPP7C3gnNLugZGwwSGpugX2rA): From console, when two field in profile setup, and press Next button [...]\n\nI just did something that *might* fix it. Can you try again, using the same steps I posted in my previous comment?\n\nIf it still doesn't work: What browser are you using? Which version?",
+				"added": 1507045553
+			},
+			{
+				"comment_id": 42,
+				"body": "> [heyjude](#comment_3_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn): Hello my man, do you think it'll be possible to post articles in other languages than english on ZeroMedium? [...]\n\nCuration will be solely algorithmic based on your interests, what you have clapped, what you have responded to the most, and what/who your following.\n\nYou can post in other languages right now, but I will be adding things in the future that will filter out only the stories for your selected languages (notice the plural, you will be able to select multiple languages to use/see, it will be a profile setting).",
+				"added": 1507243914
+			},
+			{
+				"comment_id": 43,
+				"body": "> [heyjude](#comment_3_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn): Hello my man, do you think it'll be possible to post articles in other languages than english on ZeroMedium? [...]\n\nI also have an idea about how anyone can become *curators* that anyone can follow. This is detailed in my [ZeroMedium Details](/ZeroMedium.bit/?/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/zeromedium-details) story.",
+				"added": 1507244150
+			}
+		],
+		"19_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 30,
+				"body": "> [iyogo887vyg87oy8](#comment_48_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): the\n\nrain",
+				"added": 1506964850
+			},
+			{
+				"comment_id": 31,
+				"body": "quietly",
+				"added": 1506968113
+			},
+			{
+				"comment_id": 34,
+				"body": "powerful",
+				"added": 1507029334
+			},
+			{
+				"comment_id": 37,
+				"body": ", roaring",
+				"added": 1507113389
+			},
+			{
+				"comment_id": 39,
+				"body": "massive",
+				"added": 1507138259
+			},
+			{
+				"comment_id": 40,
+				"body": "of",
+				"added": 1507147241
+			},
+			{
+				"comment_id": 41,
+				"body": "naught,",
+				"added": 1507148248
+			}
+		],
+		"6_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 32,
+				"body": "> [p2p](#comment_311_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): ZeroNet's DNS supports upper-case letter, such as http://127.0.0.1:43110/NewGFWTalk.bitSo it would be nice if you change zeromedium.bit to ZeroMedium.bit in ZeroMedium's content.json\n\nOkay, will do. [Update] Done!",
+				"added": 1506992839
+			}
+		],
+		"27_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 36,
+				"body": "> [iyogo887vyg87oy8](#comment_55_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): if you delete a site and then revisit it the counter steadily climbs as time goes on which makes me think its to do with the amount of peers you connect with to grab new data from the site and i presume they would have had to be online at some point, thats why i though it was an active user count essentially.\n\nBut I don't think you can connect to *every* peer that's currently seeding the site.",
+				"added": 1507062154
+			}
+		],
+		"1_1Rroqm6Dh2AqqmsUfa1EDb4LER3UxKTtT": [
+			{
+				"comment_id": 38,
+				"body": "There are a few tutorials on my [ZeroNet Dev Center](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/) zite that may interest you. There's also a place to ask questions related to ZeroNet Zite Dev.",
+				"added": 1507134616
+			}
+		],
+		"9_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 44,
+				"body": "> [iyogo887vyg87oy8](#comment_23_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Yep I think it's a weird thing with Esperanto that its community is bothered about the language itself, as opposed to say how English speakers think of English. IDK I think maybe we could get over this if we were native Esperantists or maybe it's just a unique thing to Esperanto with it being an invention in of itself, much like an iPhone or a car, which people never shut about. I'd like to see non-esperanto things discussed in esperanto so we can use the language instead of obsessing over it lol.\n\nLearning esperanto isn't really a waste of time. Sure, there may not be as many people speaking it as natural languages. But there are other benefits to learning it other than the ability to converse with people who speak it. This is true for any language.",
+				"added": 1507249859
+			},
+			{
+				"comment_id": 45,
+				"body": "> [rrwtbrsyq8wmackv](#comment_21_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): If it's true for any language, why not learn a language that also lets you speak to millions?  (When I say \"speak\" here and in other posts, of course I really mean \"communicate with\", whether it's out loud or via internet forums or paper mail or whatever.) [...]\n\nThere are many benefits to learning *any* language. However, some languages are easier to learn than others. Some languages have much in common with other languages, therefore making those other languages easier to learn if you wanted to learn a third language. Some languages expand your mental idea's/state by being more different semantically, grammatically, and pragmatically than your native language. There are many others. Esperanto hits many of these.\n\nHere's an experiment that was done with Esperanto. One group took french for 4 years. The other group took Esperanto for the first 2-3 years, then took french for the last year(s). Which one knew more French? The second group.\n\nEsperanto lets you get the benefits of speaking another language in less time. After learning Esperanto, it also allows you to learn other languages that would be more useful (because of their higher numbers in speakers) in less time.\n\nHowever, this is most likely true with languages that are similar to Esperanto: languages that take words from various other languages, that have relatively consistent grammars, and that are easy to remember grammatically, such as Ido and Universal.",
+				"added": 1507254971
+			},
+			{
+				"comment_id": 46,
+				"body": "I'm also of the opinion that you shouldn't learn a language based on how many people speak it, because chances are you aren't going to be speaking to that many people. The amount of people that speak *any* language isn't a detriment to the language, there's always people to talk to.\n\nYou should learn a language based on it's cognitive benefits and your interest in it, including literature, history, grammar (if you are like me and like grammar), etc. You will have a better time learning it.",
+				"added": 1507255351
+			},
+			{
+				"comment_id": 47,
+				"body": "> [heyjude](#comment_6_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn): Bullshit my man, somewhere around to 10 million people talk esperanto. Now let's look at french: 274 millions.Only difference is one group are pseudo-intellectual faggot while the other is an ethno-linguistic group, which pseudo intellectual faggots tend not to like.\n\nHow exactly does that relate to what I said?\n\nbtw, you're using the word \"faggot\" wrong.",
+				"added": 1507255530
+			},
+			{
+				"comment_id": 48,
+				"body": "> [rrwtbrsyq8wmackv](#comment_22_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): That's an interesting study I didn't know about, and I'd be curious to know more about the setting and experiment design.  Can you share a reference?  I'm particularly curious about things like: [...]\n\nAccording to the study described, Esperanto helps you learn many languages faster. Why, because you already learned one language: Esperanto. It is very well know that learning a third language is faster than learning the second because you have already learned a language before (the second). This, in fact, extends to many other things besides languages.\n\nNext, Esperanto borrows *many* words from European and slavic, languages as well as Greek and Latin, meaning words are very similar (libro in Esperanto is book, libro in Spanish is book). You can then more easily learn these words in Esperanto if the language in which the word was borrowed from is your native language, or a language you learned previously. These are called *cognates*. Esperanto has many with many other languages, including English (). Again, very well know as this exists in other languages, but I would say less so in languages that come from different language families (English as an exception because a lot of Latin came into English around the time of Middle English, and then again after that - I haven't read on this for a while, so I may be wrong about the *times* that latin came into English).\n\nEsperanto has a pretty consistent grammar. This means there are less exceptions, decreasing the time you must take to learn these exceptions, and the ease in which you can learn and remember the grammar of the language. Languages, including Esperanto, that have pretty consistens grammars take less time to learn and are generally (at least slightly) easier to learn because of less exceptions and \"weirdness\" within the language.\n\nWhat I was mainly saying was that the amount of speakers isn't a limiting factor because even the amount of Esperanto speakers is enough to be able to read a lot of material and speak to a lot of people. You aren't going to speak to more than 10 million people in your lifetime. Same goes to literature but less so, of course (also dependent on how much you read).\n\nLearning Esperanto is also useful for people who want to study constructed languages, their cultures, their people, beliefs. It's also might be useful for Linguists and conlangers (me being one myself).\n\nLanguages have many cognitive benefits, yes. Not necessarily with the vocab. They strengthen your brain. They allow you to more easily learn another language. They allow you to learn how to learn a language more effectively, which will improve how you learn your third language. They let you become more exposed to a more variety of cultures, ideas, etc. It improves memory, your native-language skills, etc. It makes you more aware about the specifics of languages (grammar - all languages more or less have very similar things within them, there's also different types of languages, for example inflectional, isolating - each having similar things when looking at morphology and syntax - you should look more into linguistics if you're interested in languages).\n\nBut also, there are different Semantics and Pragmatics in different langauges. Different languages categorize or differentiate between things differently. In English there is here, there, and afar - they distinguish between distance (here is closer than there). But in other languages, there may be more words with more differences in distances. Look into Semantics and Pragmatics if you want.\n\nFor the study, there were many studies done: [https://en.wikipedia.org/wiki/Esperanto#Third-language_acquisition](https://en.wikipedia.org/wiki/Esperanto#Third-language_acquisition). I know that people don't trust Wikipedia, but it does give sources. Here's an exerpt:\n\n> Studies have been conducted in New Zealand,[75] United States,[76][77][78] Germany,[79] Italy[80] and Australia.[81] The results of these studies were favorable and demonstrated that studying Esperanto before another foreign language expedites the acquisition of the other, natural language. This appears to be because learning subsequent foreign languages is easier than learning one's first foreign language, whereas the use of a grammatically simple and culturally flexible auxiliary language like Esperanto lessens the first-language learning hurdle. In one study,[82] a group of European secondary school students studied Esperanto for one year, then French for three years, and ended up with a significantly better command of French than a control group, who studied French for all four years.\n\nThis also talks about the study I just mentioned to you in the previous post, here's the reference: \n> Williams, N. (1965) 'A language teaching experiment', Canadian Modern Language Review 22.1: 26–28",
+				"added": 1507257392
+			},
+			{
+				"comment_id": 49,
+				"body": "> [rrwtbrsyq8wmackv](#comment_23_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): I guess everyone has different goals when learning a language, but I suspect most people either want to communicate with others in the foreign language or else access the literature and other cultural materials in that language.  The number of people that speak it (and for how long it's been spoken) are pretty directly related to these goals.  Esperanto is a bad bet on both counts.  If you know of any actual data on why people learn the foreign languages they do, I'd be interested to read it. [...]\n\nNow for what I like about Esperanto:\n* Very easy to learn\n* Learn more in a week than in 1 year of Spanish (based on experience, I took 3 years of Spanish in school, but only after a few weeks a learning Esperanto, I could speak more than in Spanish after 1 year)\n* Less exceptions to remember (especially compared to all those root-changing rules in Spanish, ex: o->ue; dormir -> duermo)\n* Constructed\n* Interesting way it handles grammar in a simplified way\n* Its correlatives system\n* Takes words from many languages\n* and more that I don't want to take the time to write out\n\n> [heyjude](#comment_7_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn): I already learned english, my mother tongue is french. SO why would I want to learn esperanto? If it's to learn more languages, I'll learn Lojban, not esperanto. All you're doing is shill a shitty language hoping people will give a shit about it.\n\nNotice how I said languages like Esperanto, I would put lojban somewhat close to Esperanto, even though it's probably much harder since the grammar is very different from natural languages. But for its vocab, it is much better than Esperanto since I believe it takes words from more languages. Btw, I very much like lojban also.\n\nThe reason to learn Esperanto over Lojban - its probably easier because of the more naturalistic grammar.\nHowever, a reason to learn Esperanto over languages very similar to it (Ido, etc.), *none*.\n\nAlso remember, I didn't say before that you should learn Esperanto before natural languages, I was saying you should learn *Esperanto-like* languages first - **but only if your interested in it**.",
+				"added": 1507258773
+			},
+			{
+				"comment_id": 51,
+				"body": "> [rrwtbrsyq8wmackv](#comment_25_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): Thanks for the sources.  I don't consider Wikipedia particularly untrustworthy. [...]\n\nI got the 10 million from heyjude. I was meaning to put `(according to heyjude)` in what I wrote. Regardless, I understand what you're saying about there being more opportunities to use languages with a higher amount of speakers. However, I think if you're interested in Esperanto, then learn it. If you're not, don't. But you should also consider that it may help you learn your next language quicker. I say Esperanto is a good second language choice because it's quicker to learn and makes your next language quicker to learn. Why spend 4 years learning French when 1 year of Esperanto and 3 years of French *will get you further* than that 4 years of French (this being based on many studies done)?\n\nAlso, I was saying another reason to learn Esperanto is to get those cognitive benefits more quickly - if you didn't want to learn a third language.\n\nAnd, Sorry about the assumption that you didn't know linguistics - not many people do in my experience.",
+				"added": 1507260940
+			},
+			{
+				"comment_id": 52,
+				"body": "> [krixano](#comment_51_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I got the 10 million from heyjude. I was meaning to put (according to heyjude) in what I wrote. Regardless, I understand what you're saying about there being more opportunities to use languages with a higher amount of speakers. However, I think if you're interested in Esperanto, then learn it. If you're not, don't. But you should also consider that it may help you learn your next language quicker. I say Esperanto is a good second language choice because it's quicker to learn and makes your next language quicker to learn. Why spend 4 years learning French when 1 year of Esperanto and 3 years of French will get you further than that 4 years of French (this being based on many studies done)?\n\nAlso, why did you put \"native\" in quotes. There are actual native speakers of Esperanto - it's their first language.",
+				"added": 1507261096
+			},
+			{
+				"comment_id": 53,
+				"body": "> [rrwtbrsyq8wmackv](#comment_28_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): This is unlikely to be true unless your next language is French, and perhaps Spanish, Italian and Polish.  Unfortunately I haven't been able to find a copy of the studies linked in the Wikipedia article, so I don't have a firm opinion on the claims of accelerated learning yet and am not convinced.  But the fact that you've brought it up convinces me it might be the case. [...]\n\nAccording to the study, it *does* get you faster. People who spend 1 year with esperanto then 3 with french knew more than people with 4 years of french. This also means that you would have learned what the people with 4 years of french learned in less than 3 years. That's mathematics - simple. This also means you can explore the literature sooner since you would be knowing more sooner.\n\nI started learning Esperanto *before* Spanish. I could read and speak *way* more in Esperanto than in Spanish. In spanish, you don't even learn past verbs till 2nd year. Esperanto, you can learn them very quickly within a few weeks.\n\nYou don't think that a grammar that has consistent endings like what esperanto has (o for noun, a for adjective, etc.) is easier than trying to learn all the different conjugates of other languages, especially Spanish and Latin? Esperanto verbs don't conjugate based on person or number, but Spanish ones do, which means there are more endings for Spanish. You don't think that because of this Esperanto verbs would be easier to learn and remember?\n\nAlso, I'm pretty sure Esperanto takes from Latin and Greek too.",
+				"added": 1507261711
+			},
+			{
+				"comment_id": 54,
+				"body": "I didn't say that Esperanto itself was easier because of those particular ending, only that those ending would be easier to remember than a ton of different endings used in Spanish, Latin, and other similar languages. Also, `you better not be spending all that time on Esperanto` makes no sense because I have already stated that it's only 1 year of Esperanto. You're not spending 4 years on Esperanto, only 1, then 3 on French.\n\nNow, technically neither of us have proved that it is/isn't worth it. I think it is, you don't. Let's just leave it at that. I'm not going to try to convince you when there are studies you can look at for yourself.",
+				"added": 1507263277
+			},
+			{
+				"comment_id": 55,
+				"body": "> [rrwtbrsyq8wmackv](#comment_31_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): I totally agree it's easier to remember fewer endings; I just don't know whether that means anything significant when it comes to actually learning the whole language. [...]\n\nI didn't mean to be rude with that last paragraph. I now realize how that might have sounded. This was an interesting discussion and its good to talk to someone who knows quite a bit about linguistics. I'm not exactly sure where you can look at the research for free.\n\nOne of the things that I dislike about arguments online is that you get people who don't really care about what you said to them, they don't look at your comments, they use overly aggressive language, etc. So thanks for actually conversing with me in a manner unlike those above.",
+				"added": 1507264296
+			}
+		],
+		"9_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 56,
+				"body": "> [redfish](#comment_21_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): This problem has a very large scope. To really solve it, you'd need to implement a distributed reputation system, analogous to a distributed page rank (page rank is a search engine algorithm for ranking web pages based on links between them). Every user's reputation will need to be determined solely by other users that observe him. One you have a sufficiently resilient reputation measure, you can start weighing posts/articles accordingly. [...]\n\nCan you give me more information about the login. What exactly isn't working (is the dialog not showing up, are you trying to register or do you already have an account - is it your first time logging in, etc.)",
+				"added": 1507423788
+			},
+			{
+				"comment_id": 57,
+				"body": "> [redfish](#comment_22_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): The popup showed up once. I selected ZeroID. Selected my account. Now clicking on Sign in does nothing, and I'm not logged in either.\n\nHave you registered before because I'm assuming you haven't considering your not already logged in? Did you get a prompt to put in your name and about me? Also, after that it should have allowed you to pick interests (after clicking next), did you do/get that? If you got all the way through and clicked finish, did you refresh as prompted?",
+				"added": 1507424112
+			},
+			{
+				"comment_id": 58,
+				"body": "> [redfish](#comment_22_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): The popup showed up once. I selected ZeroID. Selected my account. Now clicking on Sign in does nothing, and I'm not logged in either.\n\nIt would also be helpful if you can respond as quick as you can so I can get this fixed as fast as possible - that is if your not too busy.",
+				"added": 1507424917
+			},
+			{
+				"comment_id": 66,
+				"body": "> [redfish](#comment_24_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): krixano: I did not get that far. And, the Sigin/Signup button still doesn not do anything for me =(\n\nOkay, follow these steps on the zite:\n1. Slide to the left the 0 button in the top right corner\n2. Under identity address, click change\n3. Click \"Unique to site\"\n4. Drag the 0 button back to the right\n5. Make sure Dev tools console is open (Ctrl-Shift-I for Firefox)\n6. Click the signin button again. You should get a signin box. After you click the signin button and select your account, you will be prompted to type in a name.\n\n**If you are not being prompted for a name, or the signin box that I mention above doesn't show up, please send me anything that is printed in the console when you click the Signin button (open the \"developer tools\", Ctrl-Shift-I for Firefox, click the 'console' tab).**\n\nAlso, what browser and version?",
+				"added": 1508085351
+			}
+		],
+		"14_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 59,
+				"body": "I'm *planning* on adding Big File support to [ZeroMedium](/ZeroMedium.bit), but knowing how quickly I get these type of things done, it won't be done for quite a while.",
+				"added": 1507586515
+			}
+		],
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 60,
+				"body": "jlxip: What do you think about adding QR codes to this? Then you can have a scanner on the zite that will be able to scan QR codes and direct to the corresponding URL.",
+				"added": 1508043053
+			},
+			{
+				"comment_id": 61,
+				"body": "> [jlxip](#comment_30_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): Do you mean by drag-and-drop?I mean, yeah, sure, I could, but that might obfuscate the main purpose of the page: easy to access and easy to remember. Wouldn't it?\n\nI'm not saying remove what you have. Just add a way to use your camera to scan (this is what I meant by scanner) QR codes that are generated by your zite to redirect to the url. This way people can use the QR codes instead of the urls on, for example, printed stuff. Also, I'm not sure how this would obfuscate the page, not when you clearly put right on *a* page that you can \"scan\" (with camera) a QR code to access a zite (it doesn't have to be the homepage). Also, when someone creates a url, generate and provide a QR code with it that they can download/copy and use elsewhere. It's just an idea.",
+				"added": 1508078431
+			},
+			{
+				"comment_id": 62,
+				"body": "> [jlxip](#comment_31_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): Ah, okay, good explanation. But how would an user scan the QR code? With his phone? I don't know if I can access the camera on a phone that runs ZeroNet.\n\nJust do it like file upload, but instead force a camera capture. Apparently you can do that like this: `<input type=\"file\" name=\"image\" accept=\"image/*\" capture>`. I'm not sure if that will work, but it's worth a try. I got this from: https://addpipe.com/blog/correct-syntax-html-media-capture/\n\nOr just have them upload a photo, but don't actually store it on the site. Just store it in like a hidden canvas or something so you can analyze it, etc. I believe, for Android phones at least, uploading files will also have an option to take a picture.",
+				"added": 1508079947
+			},
+			{
+				"comment_id": 63,
+				"body": "> [krixano](#comment_62_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Just do it like file upload, but instead force a camera capture. Apparently you can do that like this: <input type=\"file\" name=\"image\" accept=\"image/*\" capture>. I'm not sure if that will work, but it's worth a try. I got this from: https://addpipe.com/blog/correct-syntax-html-media-capture/ [...]\n\nIt actually looks like not everything supports the capture attribute on file input, namely ios. However, I think just uploading files will be good enough because phones will have an option, when clicking to upload the file, to take a picture to upload. And I just found out this is also is how it works on ios.",
+				"added": 1508080348
+			},
+			{
+				"comment_id": 65,
+				"body": "> [krixano](#comment_63_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): It actually looks like not everything supports the capture attribute on file input, namely ios. However, I think just uploading files will be good enough because phones will have an option, when clicking to upload the file, to take a picture to upload. And I just found out this is also is how it works on ios.\n\nActually, ios 10 *does* support the `capture` attribute! But previous versions don't. However, I think they might still provide the option to capture a picture for upload. Also, someone also says to use `capture=\"environment\"`, but other people say to just put `capture`.",
+				"added": 1508084082
+			}
+		],
+		"3_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": [
+			{
+				"comment_id": 64,
+				"body": "> [gyrix](#comment_6_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH): i use zeroup upload, so you can't see it?\n\nThe shortener link is wrong. It says it's invalid.",
+				"added": 1508083146
+			}
+		],
+		"4_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 67,
+				"body": "Did you download all the hubs you had on your desktop? Perhaps that is the reason.",
+				"added": 1508095271
+			}
+		],
+		"15_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 68,
+				"body": "I thought instant apps were completely different from progressive web apps. I think what your talking about is PWAs (the \"Add to Homescreen\" functionality), not Instant Apps.",
+				"added": 1508110468
+			},
+			{
+				"comment_id": 69,
+				"body": "> [obiwanzanobi](#comment_55_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): sounds more like glorified bookmarks.\n\nKinda. PWAs, which I'm pretty sure is what he is talking about, run in a separate window without any bars at the top and so far, Opera and Chrome work with them. However, Microsoft has already started work on integrating them with their Windows Store, and firefox is also working on implementing them. The also are designed so the web app shows a screen as soon as possible, then download everything else when needed.\n\nHowever, Instant Apps are completely different. They are a refactoring of Android Apps into modules. Then, the minimum required modules to make the app work and as light as possible are downloaded quickly to make the app appear \"instantly\". Hence, *Instant* Apps because you don't have to download them, you can try a lightweight version before you do.",
+				"added": 1508111319
+			},
+			{
+				"comment_id": 71,
+				"body": "> [styromaniac](#comment_129_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): The behavior is identical for shortcuts made with Chromium. [...]\n\nHold on, I think I know what your saying. Your saying Instant Apps are like PWAs, but for android apps right? I guess that comparison makes sense, but there's pretty big differences under the hood, PWAs being web apps while Instant Apps being modulated Android Apps. I originally thought you were saying that Instant Apps is the \"Add to Homescreen\" stuff. Then I noticed the \"It's identical if ...\" part, which suggests analogy.",
+				"added": 1508114037
+			},
+			{
+				"comment_id": 72,
+				"body": "> [styromaniac](#comment_130_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I don't really know what PWAs are. What I know is these instant apps show no difference to Chromium shortcuts. [...]\n\nPWAs are the web apps that can be added to your homescreen. They also load progressively, meaning they show a screen instantly, then load things when needed rather than trying to load it all at startup/pageload.\n\nInstant Apps, like I said before, are Android Apps. This means they don't use web technologies, they use Java and the Android Development Kit, etc. They are also contained in APKs, just like normal Android apps. The difference between android apps and instant apps are that instant apps are android apps that have been refactored into modules. This allows google to download only the modules that are needed for the app to run in a *lightweight* mode before you need to install them. You then install them to get the full functionality.\n\nBiggest difference, PWAs use a browser and use web technologies and can be available for all platforms (Microsoft is working to get them into their store, Firefox is working on implementing them, I'm not sure what Apple is going to do with them), Instant Apps don't and are only for Android because they are Android Apps.",
+				"added": 1508118574
+			},
+			{
+				"comment_id": 73,
+				"body": "> [styromaniac](#comment_131_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Instant apps I've used behave and look exactly like PWAs.\n\nYes they behave similarly. But they are not the same. They are **android apps**. PWAs are **Web Apps**. You can also *install* Instant apps, you can't with PWAs. And Instant Apps are only for Android, pwas will be available soon for more platforms than just Android.\n\nZeroNet zites would work with PWAs, but not with Instant Apps because that would require they become android apps. The only thing we need to make zites into PWAs is service worker support. I actually made an issue on ZeroNet's github about this: https://github.com/HelloZeroNet/ZeroNet/issues/1065",
+				"added": 1508118815
+			},
+			{
+				"comment_id": 74,
+				"body": "Twitter Lite is a PWA, not an Instant App. The websites that act as apps and allow you to add them to the homescreen are PWAs. \n\nBut yes, we can use PWAs for Zites, but we need service worker support. However, I don't know how it would work when zites are put into iframes.",
+				"added": 1508119505
+			},
+			{
+				"comment_id": 75,
+				"body": "The thing I said about the modules doesn't apply to Twitter Lite, because the modules are only for Instant Apps, and Twitter Lite is a PWA.",
+				"added": 1508119806
+			},
+			{
+				"comment_id": 76,
+				"body": "> [styromaniac](#comment_133_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Understood. Now let's address whether we can do this with zites.\n\nI edited my comment from before you posted this. Here's what I said:\n\nBut yes, we can use PWAs for Zites, but we need service worker support. However, I don't know how it would work when zites are put into iframes.",
+				"added": 1508119870
+			},
+			{
+				"comment_id": 77,
+				"body": "I made an issue on ZeroNet's github about this: https://github.com/HelloZeroNet/ZeroNet/issues/1065",
+				"added": 1508119907
+			},
+			{
+				"comment_id": 78,
+				"body": "> [styromaniac](#comment_134_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I believe I've heard from nofish that putting zites into iframes isn't possible.\n\nThat's how it works now doesn't it? He puts zites into iframes so he can get the sidebar thing, and so the zite can't do anything outside of the iframe.",
+				"added": 1508120038
+			},
+			{
+				"comment_id": 79,
+				"body": "If you view the page source, it shows an iframe:\n\n```\n<!-- Site Iframe -->\n<iframe src='about:blank' id='inner-iframe' sandbox=\"allow-forms allow-scripts allow-top-navigation allow-popups \"></iframe>\n```",
+				"added": 1508120099
+			},
+			{
+				"comment_id": 80,
+				"body": "The problem is the zite inside the iframe needs to talk to a service worker in order to do certain things. Also, I believe service workers are required for PWAs.",
+				"added": 1508120167
+			},
+			{
+				"comment_id": 81,
+				"body": "In the github issue, I say that if he can't make the zite in the iframe talk to the service worker, he might just be able to add an empty service worker that way we can at the very least add the zite to the homescreen (he'd also need to add settings in the content.json file for the other PWA options).",
+				"added": 1508120328
+			}
+		],
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 82,
+				"body": "This looks really cool!",
+				"added": 1508159503
+			},
+			{
+				"comment_id": 83,
+				"body": "> [styromaniac](#comment_136_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): \"Show data directory\" doesn't work on Android, and I don't want to delete a whole zite just to clear space.\n\nYou don't have to show the data directory. Each big file that is downloaded is listed in the files menu; you can delete them individually from there without deleting the whole zite. However, I do think it would be a bit better if there was a delete option on the zite.",
+				"added": 1508249147
+			},
+			{
+				"comment_id": 87,
+				"body": "> [kopyjane](#comment_15_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): I guess it would be a matter of emulating the code on the ZeroHello site.. haha\n\nThere was an update to ZeroUp that added a delete option for files your seeding. It's commit f7393e5.\n\nCode for menu:https://github.com/HelloZeroNet/ZeroUp/commit/f7393e532c0cbc1327447681fe8edd9e39de8249#diff-1b5a0d5270cc9f2e4686d70ed109d13eR84\nCode for deletion: https://github.com/HelloZeroNet/ZeroUp/commit/f7393e532c0cbc1327447681fe8edd9e39de8249#diff-1b5a0d5270cc9f2e4686d70ed109d13eR30",
+				"added": 1508290763
+			},
+			{
+				"comment_id": 91,
+				"body": "> [realkittykate](#comment_13_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): guys. are you able to see the site at all? what's going on at this proxy.. can somebody please test: https://fuckcf.cf/big.kopykate.bit/\n\nI can see the zite using the client running on my computer, but not on that particular proxy (only the video listing part doesn't show). Also, before, I got an error about loading some fonts (sorry, I can't quite remember the error message), but now I don't.",
+				"added": 1508445237
+			},
+			{
+				"comment_id": 98,
+				"body": "There seems to be a small bug with the zite. When you click on \"My Channel\", it underlines \"Airing Now\" instead, but it does show the correct videos in the videos list.",
+				"added": 1508690219
+			},
+			{
+				"comment_id": 101,
+				"body": "> [schoolkopykate](#comment_1_15ubGEWWQSXH6Xp1Lg5JcTqMrKVm51BVkg): Just fixed a big ass bug. Video URL router now uses the [certificate user id] + [video date added] in order to link to a video. [...]\n\nThat's an interesting way to handle that. What I do with my zites is to have the id's unique, but only for that user (so many users could have something with an id of 1, but we can still refer to it by using both the auth_address and the id) and remove the \"PRIMARY KEY AUTOINCREMENT\" so the id's aren't unique globally and so they don't change per client. Then, the only thing to solve is to have the id's increment, which can be done by storing the next_id in the json file and incrementing that whenever you add a new field to the json file. Then, you just use it as the id when the user posts the next item.\n\nYour way is quicker (and perhaps better) because you don't have to mess with trying to find the next id and storing that (which involves either another table or the keyvalue table).",
+				"added": 1508904445
+			},
+			{
+				"comment_id": 102,
+				"body": "> [schoolkopykate](#comment_1_15ubGEWWQSXH6Xp1Lg5JcTqMrKVm51BVkg): Just fixed a big ass bug. Video URL router now uses the [certificate user id] + [video date added] in order to link to a video. [...]\n\nbtw, if you accept KaffieId, I think you should use auth_address instead of cert_user_id for the routing because multiple people can have the same cert_user_id for KaffieId.",
+				"added": 1508904940
+			}
+		],
+		"13_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 84,
+				"body": "> [kopyjane](#comment_14_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Looking good! ZeroNet's database system still has me scratching my head sometimes.. but I'm getting the hang of it. lol\n\nYeah, that's why I really want to make a database tutorial that explains, for example, what the json table is and what it does, what \"to_keyvalue\" does, how the mappings work, etc. because these are all things that weren't really explained in any documentation, I had to find out about the json and keyvalue tables by looking at the database file with an sqlite database browser.",
+				"added": 1508249385
+			}
+		],
+		"1_1Gm5FtbBbUT16ri2AKwR6equ7pmrDAsX4b": [
+			{
+				"comment_id": 85,
+				"body": "> [james007](#comment_80_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): 0TVMirror for Series [...]\n\n0TV Mirror isn't updated.",
+				"added": 1508273486
+			},
+			{
+				"comment_id": 86,
+				"body": "> [james007](#comment_82_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Hmm. Someone should Mirror the Mirror and get a fresh one going.\n\nThe original person, I think anyways, who created ZeroTV, Sirenyc, is uploading stuff again, but on a different zite. Here: http://127.0.0.1:43110/194jYPbSYXLvJLk6QTS13nEMRs2M6xcdHp/",
+				"added": 1508273595
+			}
+		],
+		"14_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 88,
+				"body": "> [naeui7tycw9p35y9](#comment_9_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep): it is cool, sad i figured how to use the databases already haha.\n\nYou can still use it so you don't have to type a bunch of quotes and brackets, etc. I find it easier than typing out all the json. It also automatically creates the json table and json_id fields for all tables, so you don't have to type that stuff too. You also have less chance of making syntax mistakes using this than if you just typed the json. And in the future I *might* add an option to automatically change the schema_changed fields when you change a database, which reduces another mistake that seems to be common for me at least.\n\nIt also provides a central place to look at all your databases instead of trying to find the right directory of your zite based on it's address in order to open the dbschema file. And in the future I will be adding an option to look at other people's databases.",
+				"added": 1508313474
+			},
+			{
+				"comment_id": 89,
+				"body": "> [naeui7tycw9p35y9](#comment_11_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep): If i start a site from scratch sure. at the moment i just copy paste parts i need. takes only 15 seconds max. [...]\n\nIt'd take longer than 15 seconds if you have to find the database your copying from, at least for me it does. Anyways, I'm also planning on adding a way to clone databases and a way to generate static JSON files if you just want to statically create rows in a table or tables. So there are going to be other reasons to use this beside just creating the dbschema files.\n\nWhat do you mean by add documentation of all fields on the fly? Do you mean say what each field option does/means, or do you mean the ability to add comments on fields (btw, I think you get errors when you try to put comments in your dbschema file).",
+				"added": 1508316502
+			}
+		],
+		"3_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": [
+			{
+				"comment_id": 90,
+				"body": "I don't have any of these problems on my computer either.",
+				"added": 1508382445
+			},
+			{
+				"comment_id": 92,
+				"body": "> [barefootwarrior](#comment_3_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): Reluctantly changing to the Chromium browser seems to have fixed the issue for me too. I can now see what I type and also see the various buttons like edit etc. [...]\n\nWhat browser were you using before? ZeroTalk works fine for me on Firefox (including beta and nightly), Firefox mobile, Microsoft Edge, Chrome, and Chrome mobile.",
+				"added": 1508461319
+			}
+		],
+		"2_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": [
+			{
+				"comment_id": 93,
+				"body": "> [kaffie](#comment_526_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): This is wrong. KopyKate uses webtorrent, so the torrents themselves can be seeded by anyone; whether it's through a zeronet site, through a torrent app, a clearnet site, etc.\n\nKopykate big doesn't use webtorrent. The link given is a clone of Kopykate big, not kopykate.",
+				"added": 1508515925
+			}
+		],
+		"7_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": [
+			{
+				"comment_id": 94,
+				"body": "ZeroTube has never worked for me, which is why I don't use or seed it.",
+				"added": 1508614609
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 95,
+				"body": "If you can only use it with LAN, How would you connect the various LAN networks then? I don't know much about networking.",
+				"added": 1508687854
+			}
+		],
+		"3_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": [
+			{
+				"comment_id": 96,
+				"body": "This is very cool!",
+				"added": 1508688191
+			},
+			{
+				"comment_id": 97,
+				"body": "> [ivanq](#comment_66_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er): Proxies don't work at all usually, at least bit.surf. [...]\n\n[https://fuckcf.cf](https://fuckcf.cf) usually works for me when I can't get bit.surf to work (which is *very* often). Kind of a weird name though.",
+				"added": 1508688278
+			},
+			{
+				"comment_id": 100,
+				"body": "> [binchan2](#comment_24_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h): @ivanq Thx for making such a useful site!I try to run a basic Vue.js example, but the library is not loaded, same with the small coffeescript example.BTW, Nofish's particletrain works for me, but only for Iridium (Chrome) and not for Icecat (Firefox).\n\nAll seem to work with Firefox nightly for me.",
+				"added": 1508899722
+			}
+		],
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 99,
+				"body": "How about we just start posting English on the Chinese forum and see how they like it. Sorry, but to dismiss the fact that it is very annoying to have to scroll through tons of chinese just to find something in English is kinda crap. And why would Chinese people wan't to post on an English form where they have to scroll though tons of English to get to chinese posts? \n\nIf your chinese and want to type in English, type in the English form. But don't type chinese in the English form. Same goes for all other languages, *including English*. It's polite and respectful.",
+				"added": 1508781318
+			}
+		],
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 103,
+				"body": "The problem is the zites have to be able to access the files in order to show them on the zite. Can zites access your computer from outside their own directories?",
+				"added": 1508914938
+			},
+			{
+				"comment_id": 104,
+				"body": "> [realkittykate](#comment_40_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): well.. considering how the client is running on your computer, I would assume it should be able to access files outside of zeronet.. i.e. ../../../My_Custom_Big_Files_Folder/data/users/xxxxxxxxxxxxx/this.mp4\n\nNot the client, the zite. Also, the user's content.json needs to be able to know which files are optional so that other clients know this (and so it can get the hash of the files).",
+				"added": 1508915161
+			},
+			{
+				"comment_id": 105,
+				"body": "> [realkittykate](#comment_40_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): well.. considering how the client is running on your computer, I would assume it should be able to access files outside of zeronet masterseed folder.. i.e. ../../../My_Custom_Big_Files_Folder/xxxxx/data/users/xxxxxxxxxxxxx/this.mp4\n\nCurrently, zites can simply link to the file based on a relative link going into the user's folder. But if we move the files, it will no longer work, which means we need to be able to ask ZeroNet for the directory path of the file, which would mean yet another command. And that's assuming zites are allowed to access anything on the computer, which I don't know if ZeroNet has protections against this.",
+				"added": 1508915273
+			},
+			{
+				"comment_id": 106,
+				"body": "> [realkittykate](#comment_41_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): Couldn't this be relative to each individual user's client, though?\n\nOkay, so for example, I have an optional file stored in my user's directory. The zite can access it by going to `data/users/[my auth address]/file.ext`. When someone download's the optional file, the zite will just use this url because it's relative to the zite and it's always located in the same place. But if we start moving files around, we instead have to ask the ZeroNet client where the file was moved to because everyone could move it to different places.",
+				"added": 1508915505
+			},
+			{
+				"comment_id": 107,
+				"body": "> [krixano](#comment_106_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Okay, so for example, I have an optional file stored in my user's directory. The zite can access it by going to data/users/[my auth address]/file.ext. When someone download's the optional file, the zite will just use this url because it's relative to the zite and it's always located in the same place. But if we start moving files around, we instead have to ask the ZeroNet client where the file was moved to because everyone could move it to different places.\n\nWe also have to be able to write to the correct/desired directory upon upload of a file. And, when the user's content.json file is signed, we have to check that desired directory for files that the user uploaded to their data directory so we can get the file listing and hashes.",
+				"added": 1508915666
+			},
+			{
+				"comment_id": 108,
+				"body": "> [realkittykate](#comment_42_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I suppose there should be a way to set up some automatic symbolic linking system.\n\nI didn't think of that. That would probably be the easiest solution without having to require a lot of changes in ZeroNet client, including potentially breaking changes for zites. You can probably write a plugin for this.",
+				"added": 1508915747
+			},
+			{
+				"comment_id": 109,
+				"body": "> [realkittykate](#comment_43_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I'm also a big confused as to how the Optional big file settings work.. seeding part of the file. [...]\n\nIt streams them for me, so I'm not sure what is going on.",
+				"added": 1508923639
+			},
+			{
+				"comment_id": 110,
+				"body": "> [akito](#comment_292_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Actually I think that making big file seeding or any torrent-like file distribution a real part of the ZeroNet application structure is the wrong way. Why? Because every step in this direction makes ZeroNet less and less mobile. I prefer having a super slim ZeroNet with only the necessary files, so I can use it basically everywhere without having to manage missing big files I store only at one computer, for example.Therefore I would suggest that any file sharing implementation is managed as separate as possible from the actual ZeroNet app. E.g. in this case I would totally recommend against putting anything like that into /data/user/ or any similar location. [...]\n\nWhy would you have to manage the missing big files? You don't need those big files on *every* device you use. If you want just necessary files, then don't use big files. It doesn't make it more complicated, it's literally the same as it was before big file support as long as you don't use the big files. \n\nAnd I also don't know why it would matter whether the big files are in your users directory if their optional. Putting them there allows the sites to actually show/use the files relative to their root, and in the same place.",
+				"added": 1508924068
+			},
+			{
+				"comment_id": 111,
+				"body": "> [akito](#comment_296_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Thanks for ignoring that I already addressed your complaint in the post you respond to. Read my post again, to the END.\n\nActually, I DID read the whole thing. My statements stand. Also, read my edited post.",
+				"added": 1508924325
+			},
+			{
+				"comment_id": 112,
+				"body": "> [akito](#comment_297_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Because this way ZeroNet will always assume on each other device that something is \"missing\" even though it is actually just a optional only thing that of course is not put on every device. It's about keeping clean structures, since this directory way of doing it is not really natively modular.\n\nHow does it assume it's missing?",
+				"added": 1508924586
+			},
+			{
+				"comment_id": 113,
+				"body": "> [akito](#comment_298_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): How does it not?\n\nIf you don't have the file on your device, the client will obviously know that. And it doesn't prompt you that files are missing when their optional because optional files are listed with hashes in content.json files, so it knows which ones are optional. Also, `how does it not?` is not a very strong argument.",
+				"added": 1508924943
+			},
+			{
+				"comment_id": 114,
+				"body": "> [akito](#comment_298_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): How does it not?\n\nHowever, if you are talking about the fact that it assumes that the file will be the same name in the same location, then that is the *real* problem you should be talking about, and can be fixed.",
+				"added": 1508925024
+			},
+			{
+				"comment_id": 115,
+				"body": "Here's the thing:\nYou say you want a slim ZeroNet where you don't have to have big files\n\n - Don't use big files on devices that you don't need them on\n\nYou want big files stored elsewhere where you can manage them more easily\n\n - This can be fixed in various ways - in fact we were just talking about those ways\n\nThe files are automatically assumed to have the same name and be in the same location\n\n - This can also be fixed, I don't see why it can't\n\nYou say that Big File Support shouldn't be a part of ZeroNet because it's harder to manage the big files and because of the previous 2 problems\n\n - So instead of making the whole thing much better and usable and fixing these problems, you would rather make the client *less* portable (because it would require extra software to get big file support/streaming) and limit the ability of the zites to transfer big files and stream (because they can't just assume everyone has the software they need), plus making it harder for newcomers because now they have to download/install yet another thing\n\nAnd it was an argument, considering you were using it to argue your point of view by (from what I assume) trying to make me aware of how it *doesn't* assume. How exactly is that *not* an argument, considering you were using it to argue your point of view?",
+				"added": 1508925628
+			},
+			{
+				"comment_id": 116,
+				"body": "> [akito](#comment_303_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I was responding to your simple question with a mirror.I agree with everything except \"Don't use big files on devices that you don't need them on\".It maybe \"works\" same as communism \"worked\". It is possible, but it's not clean, at all. That's my problem. I want ZeroNet to stay like a fresh baby butt after bathing.\n\nHow exactly is it not clean? Those files aren't getting downloaded, obviously.",
+				"added": 1508926060
+			},
+			{
+				"comment_id": 117,
+				"body": "Also, I asked the question based on what you said because I didn't understand what you were meaning. Typically, when someone responds with the opposite of the question as a question (like you did), it means that they think it's obvious that it is not worth explaining, and try to use it as an argument by prompting the other person to think about what they think is obvious - otherwise they would have just answered the question in the first place.",
+				"added": 1508926249
+			},
+			{
+				"comment_id": 118,
+				"body": "> [akito](#comment_303_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I was responding to your simple question with a mirror.I agree with everything except \"Don't use big files on devices that you don't need them on\".It maybe \"works\" same as communism \"worked\". It is possible, but it's not clean, at all. That's my problem. I want ZeroNet to stay like a fresh baby butt after bathing.\n\nUnless your meaning the fact that we have the directories organized in the way we do - in which case your really questioning something completely separate from big file support. Those directories also hold the database data, so they still have a purpose even without optional/big files.\n\nIt would be helpful if you explained more on what you mean by wanting to keep ZeroNet clean and slim.",
+				"added": 1508926764
+			}
+		],
+		"12_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 119,
+				"body": "> [erneraude](#comment_25_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6): Wait, a phone number is now mandatory to register a Google account? oOThat wasn't the case a few years ago. [...]\n\nWhat you say at the end is an interesting idea. It also wouldn't be hard to make a zite like that.",
+				"added": 1508927473
+			}
+		],
+		"1509163683_1AjaDfZzV84HSzPaTfR8dqUGF3XFRDLKqf": [
+			{
+				"comment_id": 120,
+				"body": "https://eztvtorrent.com/",
+				"added": 1509357731
+			}
+		],
+		"1509479387_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 121,
+				"body": "Yep, same here. Lot's of redirects, which usually means adware, etc.",
+				"added": 1509482239
+			},
+			{
+				"comment_id": 122,
+				"body": "> [realkittykate](#comment_61_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): As with Kittyseedbox redirecting to sketchy places, I think my free domain subscription ran out. lol\n\nIf your domain service has it do that when your subscription runs out, then I wouldn't trust your domain service.",
+				"added": 1509482498
+			},
+			{
+				"comment_id": 126,
+				"body": "> [mari0](#comment_20_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC): I didn't experience this. There's a chance you have some MITM on your network.\n\nActually, I'm getting something too, but not quite as severe. When I first visit the zite (www.bigcat.tk - which then opens zerohello) and click anywhere, a new tab opens for a second then closes. Then I am able to click stuff again. This is the type of thing done by popups, but my browser is smart enough to close it because it knows it's not good. Another way you can tell is if clickable items don't have the pointer cursor until after you click once and that new tab opens.\n\nThis is something done quite a bit on websites that aren't so good (especially illegal streaming website)",
+				"added": 1509720831
+			},
+			{
+				"comment_id": 130,
+				"body": "> [krixano](#comment_126_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Actually, I'm getting something too, but not quite as severe. When I first visit the zite (www.bigcat.tk - which then opens zerohello) and click anywhere, a new tab opens for a second then closes. Then I am able to click stuff again. This is the type of thing done by popups, but my browser is smart enough to close it because it knows it's not good. Another way you can tell is if clickable items don't have the pointer cursor until after you click once and that new tab opens. [...]\n\nActually, I forgot. The reason why mine instantly closes the tab is because I have ublock origin. Without that, it will go to a page that auto download's something that they are trying to pass off as flash player.",
+				"added": 1509734026
+			},
+			{
+				"comment_id": 143,
+				"body": "> [realkittykate](#comment_63_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): That was me. I just signed up to AdMaven to monetize the proxy. [...]\n\nSo your monetizing service brings up ads that auto download stuff that looks like Flash Player, but really isn't? Sorry, I won't be using bigcat.tk anymore.",
+				"added": 1509740121
+			},
+			{
+				"comment_id": 144,
+				"body": "> [realkittykate](#comment_64_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I'm actually keeping an eye on the links that pop up, but I haven't encountered the fake Flash Player yet. Are you able to show me a screenshot? I'll be trying out many networks but if one ad network does that to you, then I'll switch to another one.\n\nI don't care what ad network your using - I'm not gonna use a site with popup, newtab, or popunder ads. Sorry.",
+				"added": 1509740718
+			}
+		],
+		"16_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 123,
+				"body": "I tested out the browser in this zip file and found out that apparently my zite, ZeroMedium, doesn't work with it - I just get a blank screen. :(",
+				"added": 1509593996
+			},
+			{
+				"comment_id": 124,
+				"body": "> [styromaniac](#comment_179_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Works for me.\n\nWell, thank God it's not my zite then! I wonder why it's not working for me though.",
+				"added": 1509594258
+			}
+		],
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 125,
+				"body": "> [styromaniac](#comment_183_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Content.json download failed.\n\nI get the same thing for all other repositories on GitCenter (that are listed in the repo index). I wonder if it's a GitCenter bug.",
+				"added": 1509660917
+			},
+			{
+				"comment_id": 127,
+				"body": "My repo should be fixed now, but you might have to wait for more peers because not everyone can download from *every* peer of the zite, meaning you may not be able to access/connect to the peers of the zite.",
+				"added": 1509724766
+			},
+			{
+				"comment_id": 129,
+				"body": "> [qubesi2p](#comment_5_17wjH4ZhSZ23kjERdp1GnnTuc92kKUQgm4): It works (package-lock.json 204.4 kB (204,398 bytes) sha256sum package-lock.json28db954bb196e4e9396f09c4e139b272b3f473b07c2d7211acce5c5ca5e1af29  package-lock.json)  I noticed they are not signed (big fucking mistake)!  There is also no info on SUMs!  Were you born yesterday or something?  Do we help by downloading the files!  Should we establish mirrors?  It will be a great help if you had some instructions.  I already saved your page and you can expect about 16 hours a week uptime (this is no guarantee!)\n\nYou obviously don't know the purpose of a repo then! A repo allows people to look at and collaborate on the code, OBVIOUSLY.\n\nNow about the signing stuff. I don't know what you mean. Do you mean have those package.json files signed by ZeroNet - because that's dumb as the file isn't used by the zite, only when building. If you mean something else, *how about instead of being a worthless better-than-everyone asshole*, you try teaching people what they are doing wrong. I have never learned *anything* about signing anything dealing with the package-lock.json file.\n\nBTW, I'm muting you.",
+				"added": 1509729899
+			},
+			{
+				"comment_id": 149,
+				"body": "> [sirenyc](#comment_164_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): CONNECTING...\n\nCan you try again. It should work (it worked for some other people, and for bigcat.tk). Other repos won't work (unless  they are mine) because you have to sign them a certain way - and the creator hasn't provided instructions on this yet - the blue sign and publish button isn't working correctly (it technically is, but how it signs the content doesn't work for security reasons).",
+				"added": 1509863247
+			}
+		],
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": [
+			{
+				"comment_id": 128,
+				"body": "> [voland](#comment_4_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn): How to create branches?\n\nuse git from command line. You create a branch like this: `git checkout -b [branchName]`",
+				"added": 1509724831
+			},
+			{
+				"comment_id": 155,
+				"body": "> [james007](#comment_103_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Still getting \"content.json download failed\" for the git center source repo. Anyone else have any luck?\n\nTry ZeroMedium, that one should work. The creator hasn't fixed the bug with the \"sign and publish\" blue button, so you have to manually sign on the actual merger site. However, he wasn't able to do this for his repos yet.",
+				"added": 1509976543
+			},
+			{
+				"comment_id": 156,
+				"body": "> [erneraude](#comment_27_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6): If iI understand it correctly, when I access a repo on GitCenter, I download the zite where it is hosted.But, if I want to clone it (let's say in my ~/projects directory), I'll need to use the git clone command, and will have two versions of the repo on my computer at the same time?\n\nI don't think they are the same *completely*, because, afaik, the git repo stored in the merger zite is the server version. It doesn't store all the files of the repo seperately. Instead, it stores all the git objects, info, etc. When you clone, your recreating the actual files from this stored information. I don't completely know how git works, but I believe this is a very simplified way of explaining what the difference between what's on the server and what's in a clone is. However, don't take my work for it, I don't know how git works under the hood.",
+				"added": 1510161135
+			},
+			{
+				"comment_id": 246,
+				"body": "> [tau0](#comment_1_19b8dupChmu8SXVT7GbHU4gQN8qaH34d25): How i set up the git remote ?\n\n`git remote add [name] [link]`",
+				"added": 1513390443
+			}
+		],
+		"1509624447_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 131,
+				"body": "> [axeltherabbit](#comment_11_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): the file not appear, now please stop spam\n\nUh, how is he spamming?!?",
+				"added": 1509735821
+			},
+			{
+				"comment_id": 132,
+				"body": "> [axeltherabbit](#comment_12_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): flood*\n\nOk, I don't know what the heck that means. But asking questions is *not* spamming. If you had described your problems better, he wouldn't have to ask so many questions.",
+				"added": 1509736107
+			},
+			{
+				"comment_id": 133,
+				"body": "> [axeltherabbit](#comment_12_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): flood*\n\nAnd regardless, why report bugs if your not going to follow up on questions to help fix the bug?",
+				"added": 1509736138
+			},
+			{
+				"comment_id": 134,
+				"body": "> [axeltherabbit](#comment_13_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): yes, but not here, simple.\n\nYour the one who reported the bug, so...",
+				"added": 1509736531
+			},
+			{
+				"comment_id": 135,
+				"body": "> [krixano](#comment_134_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Your the one who reported the bug, so...\n\nAnd the purpose of ZeroTalk is communication, so I think your being really illogical right now. Sorry, I call it like I see it.",
+				"added": 1509736570
+			},
+			{
+				"comment_id": 136,
+				"body": "Electronic spamming is the use of electronic messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same site\nUnsolicited - not asked for, given, done voluntarilly\n\nSo what has he done that matches these descriptions. Literally the only thing I can think of is when he asked you to put EulerFinder on his zite.\n*You* initiated the (sub-)conversation on fixing the bug by telling him it's not working. **Why didn't *you* put that in a new topic?** Don't put the blame on other people when you are equally to blame.",
+				"added": 1509736856
+			},
+			{
+				"comment_id": 137,
+				"body": "And I don't actually agree with that definition of spamming - it shouldn't matter whether the message is unsolicited or not. This is a slippery slope because then technically anyone can say they didn't want anyone else to say something that they may not have liked, and they'd be able to qualify it as spam. Pretty dumb in my opinion.",
+				"added": 1509737157
+			},
+			{
+				"comment_id": 138,
+				"body": "> [axeltherabbit](#comment_15_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): blame? wtf, i asked to stop the discussion becaouse it's become very long, he can create a new talk about Git-Center and i will help him, i wasn't thinking , I did not think that needed any explanation.\n\nThis isn't considered blame?:\n> now please stop spam\nbecause it looks like to me, by saying this statement, you were blaming him for spamming. Why didn't you say something like this instead: `we should move this to a new topic`. That would have been much more polite.",
+				"added": 1509737328
+			},
+			{
+				"comment_id": 139,
+				"body": "> [axeltherabbit](#comment_15_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): blame? wtf, i asked to stop the discussion because it's become very long, he can create a new talk about Git-Center and i will help him, I did not think that needed any explanation.\n\nNot only that, but you could have created a new topic when *you* reported the bug, but instead you said this in this topic:\n`seem not working, i can select the file, but don't seem upload it, maybe I'm wrong something`\n\nBy saying this, you basically granted him permission to talk about this in this topic, otherwise why would you say this if you weren't expecting some type of response.",
+				"added": 1509737436
+			},
+			{
+				"comment_id": 140,
+				"body": "> [axeltherabbit](#comment_15_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): blame? wtf, i asked to stop the discussion because it's become very long, he can create a new talk about Git-Center and i will help him, I did not think that needed any explanation.\n\nI better watch out, you might consider what I'm saying spam now too. btw, do you see what I'm getting at?",
+				"added": 1509737640
+			},
+			{
+				"comment_id": 141,
+				"body": "> [axeltherabbit](#comment_16_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Krixano now same, ok my answer was not be the best and i want not blame anyone, now we can stop this discussion? Please i wanna take this talk for feedback.\n\nSorry, but when I see something like this, I just have to say something because I think the way people qualify stuff as spam is a bit illogical imo. Okay I'm done now.",
+				"added": 1509737809
+			},
+			{
+				"comment_id": 142,
+				"body": "> [axeltherabbit](#comment_16_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Krixano now same, ok my answer was not be the best and i want not blame anyone, now we can stop this discussion? Please i wanna take this talk for feedback.\n\nBTW, it looks like you have some duplicates in your search engine. When typing in ZeroMedium, I get 4 different addresses, 3 of which are essentially the same.",
+				"added": 1509737922
+			},
+			{
+				"comment_id": 148,
+				"body": "> [axeltherabbit](#comment_21_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Update: http://127.0.0.1:43110/13eFkhbXXQcJqd729zRLL9tMxxhz9d4UA6/CpuContribute.html\n\nI can't find a website for what your using for Cpu Contribute (is that the name of what your using?). Can you link it?",
+				"added": 1509862271
+			},
+			{
+				"comment_id": 150,
+				"body": "> [axeltherabbit](#comment_25_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): What is cpu contribute? Cpu contribute is your contribute for the site maintenance and updates, [...]\n\nNotice how I didn't ask `What is Cpu contribute?` You should probably read my actual question: `can't find a website for **what you are using** for cpu contribute`. I also said if that was the *name* for what you are using (because as previously mentioned, *I can't find a website*). Meaning - are you using a library that runs a script in the background, are you linking to something else on the internet that runs? I'm asking what is the website where you can get this library/script/whatever. for example bigcat.tk uses CoinHive. Is that what you are using? Are you using something else?",
+				"added": 1509901992
+			},
+			{
+				"comment_id": 151,
+				"body": "> [axeltherabbit](#comment_28_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): ohw sorry, yes i'm using coinhive.\n\nThanks!",
+				"added": 1509903141
+			},
+			{
+				"comment_id": 161,
+				"body": "> [axeltherabbit](#comment_37_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Update: EulerFinder update sites list each hour.\n\nI noticed something. When I type ZeroMedium, I get two results. Are these being counted as two seperate zites for the zite counter? If it is, I feel like it shouldn't do that because then your counter's incorrect. Also, I think it would be better to just show 1 result with both links.",
+				"added": 1512172650
+			},
+			{
+				"comment_id": 162,
+				"body": "> [axeltherabbit](#comment_40_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): because .bit sites should have expiration date, yes maybe I should get them together but i'm working to another update now (store number of peers for each site, to put the best sites on the top results)\n\nI don't know how I feel about sorting by peer number. If you were to add this, can you give a sorting option that we can set to either peer number or relevance? Or you can also sort by both relevance and peer number.",
+				"added": 1512174078
+			},
+			{
+				"comment_id": 163,
+				"body": "> [axeltherabbit](#comment_41_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): what type of relevance?\n\nUh... relevance to your search query. You can do it based on how many words from your search query match the zite info. This is how I do it with ZeroMedium.",
+				"added": 1512174604
+			},
+			{
+				"comment_id": 164,
+				"body": "> [axeltherabbit](#comment_42_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Yes, but i can't update a file for each click, you know how 0net work\n\nYou don't need to update any file. Just sort the results based on how many words from the query match.",
+				"added": 1512174756
+			},
+			{
+				"comment_id": 165,
+				"body": "> [axeltherabbit](#comment_43_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): then this, yes it's possible\n\nThanks. Sorry for the confusion. BTW, [here's the code](https://github.com/krixano/ZeroMedium/blob/master/src/router_pages/search.js#L40) for how I do this in ZeroMedium. Maybe it will be useful to you.",
+				"added": 1512174818
+			},
+			{
+				"comment_id": 167,
+				"body": "> [axeltherabbit](#comment_47_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): gitcenter repo: http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?1MnH9K7GnHpyhNwYRVMWAwkTmKfhQCpfvN\n\nYour repo is still bugged. You need to completely redo it. I'm not sure how, but you can ask gitcenter: or glightstar:",
+				"added": 1512237896
+			},
+			{
+				"comment_id": 168,
+				"body": "> [axeltherabbit](#comment_48_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): you can't see files?\n\nI see a directory with no name, which isn't supposed to be allowed I believe. If you're getting something different, could you try clicking the \"sign and publish\" button (again)?",
+				"added": 1512238230
+			},
+			{
+				"comment_id": 169,
+				"body": "> [axeltherabbit](#comment_49_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): ohw i've never click there lol\n\nYeah, you have to click that every time you change something in the repo (including all commits). If you're using git from the command line, gitcenter: did create a git hook thing that will automatically do this for you, but I don't know if he updated it to only use private key at the same time he updated that blue \"sign and publish\" button to only use the private key.\nAnyways, I see more files now, but there is still that directory with no name.",
+				"added": 1512238604
+			},
+			{
+				"comment_id": 170,
+				"body": "> [axeltherabbit](#comment_51_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): me too, idk what is it.\n\nIt happens when you go to upload a file and start the path with a \"/\". gitcenter: fixed this recently I believe.",
+				"added": 1512239045
+			},
+			{
+				"comment_id": 171,
+				"body": "> [axeltherabbit](#comment_52_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): i can't remove it\n\nYeah, that's why I suggested to try to redo the repo. Perhaps gitcenter: can add a feature to delete stuff. (Do mentions work like this on ZeroTalk? Will gitcenter: get this in his feed, do you know?)",
+				"added": 1512239286
+			},
+			{
+				"comment_id": 172,
+				"body": "> [axeltherabbit](#comment_52_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): i can't remove it\n\nYou said your search engine is automated, like Zirch, right? Does your search engine fetch from ZeroSites also or does it only do 0list?",
+				"added": 1512239535
+			}
+		],
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 145,
+				"body": "> [bigcattk](#comment_4_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA): okie dokie.I'm gonna be trialling CoinHive for about a month. The way it works is - users have the option to either view the proxy ad-free by donating a small amount of CPU resources for the purpose of mining Monero.. or they can disable the miner and instead enable the native ad-banners. Having a high-throttle (very low CPU usage) as well as a user consent notifications allows us to strike the right balance between monetization and quality of user experience. I'm actually gonna make a tutorial on this, so that anyone can do this with their own site. We need to make money, man.. enough with this starving artist bullshit. Stay tuned!\n\nI think I'll consider using bigcat.tk again. I just really don't like ads - they slow down machines, install malware, fake the user into clicking their ad because it looks like a download button, popup so I'm taken out of what I'm doing and have to click off the ad, and many ads don't let you close the window by doing alerts everytime you go to try to close it (thankfully browsers have fixed this by allowing you to prevent further alerts from a site).\n\nI think I will be fine with using my computer to mine, but you should be aware of computers that may have very low resources (I'm thinking like 5 year old computers, which I had to use a couple of months ago before I got a new computer with student loan money).\n\nAlso, you may want to check whether the user is using an ad blocker.",
+				"added": 1509809442
+			}
+		],
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 146,
+				"body": "> [bigcattk](#comment_5_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA): I've just tested watching videos while the site is open on my PC, works fine, no spikes in frame rate. So this is at the absolute lowest setting, so you should barely notice anything at all.\n\nYeah, but take into account that phones have less resources than PCs. Not saying to make the mining lower, just saying that phones are more likely to lag than PCs.",
+				"added": 1509824791
+			}
+		],
+		"1509828222_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 147,
+				"body": "That's one of the main reasons I created ZeroMedium - So people can create more original content (stories, tutorials, essays, etc.) on ZeroNet. I think it'd be really cool to have more original content on ZeroNet. It'd also be cool from a community and on-boarding standpoint.",
+				"added": 1509862102
+			}
+		],
+		"1509925800_1LNgjjTDHxcJdXrep4NdFciM9NT9HStHhA": [
+			{
+				"comment_id": 152,
+				"body": "Sometimes this happens to me. I just refresh a couple of times until I see it again.",
+				"added": 1509925883
+			},
+			{
+				"comment_id": 153,
+				"body": "This is the error I get:\n> TypeError: Page.local_storage is null [Learn More]\n> [Wrapper] Setting title to ZeroMe\n> [ZeroMe] Loaded localstorage (Done in 231ms)\nWhen I have the dev tools open and keep on refreshing, it remains blank. *It should be noted that I set the option to disable HTTP cache when dev tools are open.*\nAfter closing the dev tools and refreshing a couple of times, it works.\n\nI'm on Firefox Nightly.",
+				"added": 1509930387
+			}
+		],
+		"1509888348_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 154,
+				"body": "> [styromaniac](#comment_195_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I have 0.00 KB optional files. There's no list to expand under them. [...]\n\nThe list of failed files would be under the site update button. If it's an optional file, it means your client is trying to download this file, but can't find any seeders for the file. This could mean all of the seeders are offline.",
+				"added": 1509975753
+			}
+		],
+		"1511404042_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 157,
+				"body": "I would use it, but it doesn't have any of the frameworks/libraries I use. Also, it hasn't been updated since 2015. Someone should make a clone of it and add more libraries and keep it updated.",
+				"added": 1511482278
+			}
+		],
+		"1512159205_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": [
+			{
+				"comment_id": 158,
+				"body": "[Zirch](/zirch.bit) has the most up to date zite list because it is completely automated and updates every hour. [Kaffiene](/kaffiene.bit) and (I believe) [Snifferdog](/snifferdog.bit) are very out of date, and [RVRE](/rvre.bit) I think is less so, but still out of date. [EulerFinder](/13eFkhbXXQcJqd729zRLL9tMxxhz9d4UA6/) is similar to Zirch in that it is one of the most up to date ones and updates every hour, but it has slightly less zites than zirch.\n\nSnifferdog was cloned from Kaffiene (but it might have some differences in what zites it has).\n\nRVRE seems to look the best. Kaffiene, Snifferdog, and EulerFinder look decent/okay. Zirch looks pretty terrible.\n\nRVRE, Kaffiene, and Snifferdog all use hand-written tags I believe, so the search function might be a bit better than Zirch, which doesn't have this, but instead just takes a portion of the index.html file and searches through that (as well as the zite's title *and description*). EulerFinder's searching is very similar to Zirch's.\n\nI don't know very much about Zoogle Zearch since, like EulerFinder, it is pretty new. However, when I originally looked at it, it didn't seem like it had that many zites, but I'm very unsure about this so take this with a grain of salt.\n\nFinally, [ZeroSites](/Sites.ZeroNetwork.bit) has a list of zites, but people have to manually add their zites to it. it also has no search feature. It seems to be pretty up to date for zites that people are adding, but perhaps there are still sites that haven't been added, I don't know. Also, in my opinion the categories could be expanded and the interface is a little annoying, but try it out and see for yourself whether you like it.",
+				"added": 1512161044
+			},
+			{
+				"comment_id": 160,
+				"body": "> [axeltherabbit](#comment_38_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): but I'm unsure on how many zites it actually has. it is write, in this moment: 3892EulerFinder look decent/okay i know ahahaI'm not a good graphic :DI'm unsure about the searching of EulerFinder but it seems similar to zirch yep similar, it use an automate script but i can edit site description and name, for requests: http://127.0.0.1:43110/13eFkhbXXQcJqd729zRLL9tMxxhz9d4UA6/EditSite.html\n\nI actually updated my comment a little bit ago to be more accurate:\n> EulerFinder is similar to Zirch in that it is one of the most up to date ones and updates every hour, but it has slightly less zites than zirch.\n> I'm unsure about the searching of EulerFinder but it seems similar to zirch (although I'm not sure if it searching the descriptions of zites)",
+				"added": 1512172422
+			},
+			{
+				"comment_id": 173,
+				"body": "> [gitcenter](#comment_50_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Which bug? :) I don't recall. [...]\n\nI think he talking about when he first put EulerFinder on gitcenter. There was a bug with uploading files I think. There is also that bug with directory with no name too. Perhaps those were the same bug, but it wasn't known at the time (because axeltherabbit could have started the file paths with a \"/\" when he uploaded, but he could have thought that it just wasn't uploading the files or something).",
+				"added": 1512240781
+			}
+		],
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 159,
+				"body": "> [caden](#comment_1_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8): Is there a development page on Zeronet where people can request features? I'd like for one of the developers here on Zeronet to integrate grapes.js into Zeroblog. I hate coding and really don't want to get into the CSS or HTML to do any coding. Grapes is for people who don't want to code. http://grapesjs.com\n\nYou shouldn't have to code for ZeroBlog if you just want to make posts, unless your saying grapes.js will make it easier to customize the zite (aside from just making posts).",
+				"added": 1512164405
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 166,
+				"body": "That bug where clicking \"My Channel\" will highlight \"Airing Now\" is still in there.",
+				"added": 1512175905
+			},
+			{
+				"comment_id": 185,
+				"body": "> [herp](#comment_18_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Lots more peers today on some videos! I'm afraid three digits or more makes the peer image overflow however :) http://127.0.0.1:43110/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe/1512759928.jpg\n\nInteresting. The maximum amount of peers I get on a video is 22.",
+				"added": 1512761891
+			},
+			{
+				"comment_id": 192,
+				"body": "> [kopyjane](#comment_110_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Tried it, although I'm not sure if its working..\n\nYes, it's working.",
+				"added": 1512967390
+			},
+			{
+				"comment_id": 193,
+				"body": "> [kopyjane](#comment_111_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Gonna be adding a file uploader that automatically converts your selected image into base64, so that it can be displayed on the video thumbnail. It'll have a size limit of about 2kb. The question here is - should we allow external images to be displayed at all? If so, then users will have to re-upload thumbnails to every video they'd uploaded before the upcoming update.\n\nWhat you could do is have something run once upon update that will automatically convert a user's images from their external sources into base64. You could also just do this on your own computer and sign everyone's data.json with the zite's private key. Not sure how hard this is though.",
+				"added": 1512975877
+			},
+			{
+				"comment_id": 194,
+				"body": "> [kopyjane](#comment_112_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): hmm. That sounds a bit forced... Well. There's only about 400 videos on the site anyway. Better do this early than late. :)\n\nI don't see much of a problem with it. All you'd be doing is moving the images over, it's not like you're removing or changing them.",
+				"added": 1512976504
+			},
+			{
+				"comment_id": 203,
+				"body": "> [missesrobot](#comment_4_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Can people create their own hubs on ZeroMe, or just the site owners?\n\nPeople can make their own hubs because you're essentially making your own zite when you do so (but allowing KopyKate to read the data of it). However, other people would need to download the hub to see the posts on it, of course. Imo, hubs in ZeroMe aren't that well done. But, that is not to say that a hub system for KopyKate wouldn't be good, because I think that it could if done right.",
+				"added": 1513123170
+			},
+			{
+				"comment_id": 204,
+				"body": "> [missesrobot](#comment_5_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): So you just basically clone a hub..\n\nYes. However, you need to move your profile to the hub, too.",
+				"added": 1513123617
+			},
+			{
+				"comment_id": 205,
+				"body": "> [missesrobot](#comment_6_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Seems like I'd have to turn the current site into a hub (call in King Hub), and then create a central site.I'd have to experiment with clones for now though... Should KopyKate become a merger site? That's the question now. They say that it's the only way to allow embedding videos. It should also help with splitting large amounts of data, apparently.\n\nKopyKate itself won't become a merger zite. But it will use merger zites to store the data for it.\n\nThe reason why merger zites will allow embedding videos into other zites is because zites can ask permission from the user to be able to read the files/information from the merger zite (in fact, this is also how the main zite works too. ZeroMe asks for permission to read from ZeroMe hubs. KopyKate would also have to do this). As far as I know, I don't know if this is possible without merger zites. Although, there is a [CORS plugin](https://zeronet.readthedocs.io/en/latest/site_development/zeroframe_api_reference/#corspermission-address) (clearnet), I'm not sure if you could use that instead of (or with) merger zites.",
+				"added": 1513126121
+			},
+			{
+				"comment_id": 231,
+				"body": "> [styromaniac](#comment_292_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I'm thinking the same. Between KopyKate BIG and ZeroUp, it's annoying.\n\nThe videos are sorted by the amount of seeders and leechers (peers) for a video. When you click seed, the peer count goes up by one, which makes the video jump up in the list.",
+				"added": 1513138851
+			},
+			{
+				"comment_id": 242,
+				"body": "I see you fixed the bug with the \"My Channel\" link. There's another bug that I found. When clicking on \"My Channel\" first, then clicking on \"Airing Now\", the content doesn't switch (it stays at what My Channel was displaying). However, if you go from any other page to \"Airing Now\", it works.",
+				"added": 1513212122
+			}
+		],
+		"1512263767_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 174,
+				"body": "> [sirenyc](#comment_216_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): Great Work!\n\n> [mcloud](#comment_1_1975Z5g8hZhSj8sco2sp5yz8gTV1NDRc4G): Congratulatons! Keep up the great work. :D\n\nThanks!",
+				"added": 1512267996
+			},
+			{
+				"comment_id": 176,
+				"body": "> [mpalol](#comment_1_1Py2rimLx1veGchzP1MG7e3mR3hVoZZ2Tg): Thanks krixano for this beautiful site and your other ZeroNet development education work. It's really helped clear up the gaps in the currently very limited ZeroNet documentation space. Huge kudos!\n\nThanks! I plan on starting up writing more tutorials. I'm currently stuck on the tutorial to explain how Users and Id providers (aka Certificate Authorities) work within ZeroNet *in detail*, but I'm getting closer to finishing it.",
+				"added": 1512292083
+			},
+			{
+				"comment_id": 177,
+				"body": "> [kopyjane](#comment_80_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): We should have like a Wiki or something. Zite building is surprisingly addictive.. and I could probably write paragraphs about the Page.cmd commands. And the beauty is that it's all Javascript. No PHP. I don't care what the snobs say about Javascript.. but I love it, same reason I love Ubuntu ........ and Android .... and instant noodles .. and pizza.. and coffee. And beer. Python's pretty good too. And Actionscript. I've yet to get the hang of Coffeescript though.... ...... I know it's javascript, but. uh\n\nI think it's a bit unfair to call people who don't like Javascript snobs. I don't like javascript, and I have very good reasons for it. Regardless, people have their own tastes for which languages they like/don't like.\n\nAnyways, I do think having a wiki would be very beneficial. We technically already have one (ZeroWiki), but I think a better one is needed.",
+				"added": 1512301334
+			},
+			{
+				"comment_id": 178,
+				"body": "### ZeroMedium Update 17.12b Has Been Release to [BETA](/15HdD8ZwMLjzQhbDQcF8oRtkbxYxVS7JgU).",
+				"added": 1512352374
+			}
+		],
+		"1512275153_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 175,
+				"body": "## Concerning ZeroMedium Release Dates\nI have decided to do a very small change with how versions are released for [ZeroMedium](/ZeroMedium.bit). The final release date for new versions will *not* change. What *will* change is when versions are released to [ZeroMedium BETA](/15HdD8ZwMLjzQhbDQcF8oRtkbxYxVS7JgU/). Upon the final release of a new version to the official zite, the next version after will also be released to ZeroMedium BETA. *This will give beta versions at least 2 weeks for bug fixes* before being released to the official zite. This also means that I will be working two versions ahead of the official zite.\n\nSo what does this mean now? It means that later today (it just turned 12:00am as I am writing this) I will release the next version (17.12b) to ZeroMedium BETA. However, because I did not have much time to get this version out, this version will not have very many changes.",
+				"added": 1512281022
+			}
+		],
+		"1512483351_1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg": [
+			{
+				"comment_id": 179,
+				"body": "> [kopyjane](#comment_87_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Do we really need two? Seems like a waste of storage, considering how a lot of the videos on my zite get added on there. Unless there was a language difference, or performance advantage, or different content type, probably not. If I clone ZeroSites or Kaffiene and then add the Google logo to it, does that make it a better zite?\n\nI completely agree with this. If someone's going to create a clone of another zite, at least do something to it to make it better/different *functionally*.",
+				"added": 1512520902
+			}
+		],
+		"1512266574_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 180,
+				"body": "> [defalt](#comment_4_1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg): It's a good idea. I'll see how I can do this. Thanks :)\n\nBoth Zirch and EulerFinder have use scripts that automatically get zites from 0list and ZeroName (and maybe some others). I don't know if the scripts are in EulerFInder's repos, but Zirch's are. Here's zirch's GitLab repo: https://gitlab.com/zvory/zirch",
+				"added": 1512615297
+			},
+			{
+				"comment_id": 181,
+				"body": "defalt: Btw, your zite is one of the best designed search engines for ZeroNet (the other being RVRE).",
+				"added": 1512615497
+			}
+		],
+		"1512623414_1HBy99H2dsCwevdYZp8VVC2SVG69DGVyEd": [
+			{
+				"comment_id": 182,
+				"body": "I think one of the main problems is that people aren't posting much stuff. A reason for why this is, which applies to me (but less so I think, since I do post original stuff sometimes) is that developers are too busy with their projects on here. I'm busy with ZeroMedium, ZeroNet Dev Center, ZeroDb, etc. so I can't post much stuff. Ivanq is busy with Git Center and I'm sure some other things. axeltherabbit is busy doing EulerFinder. KopyJane has her own projects (KopyKate/KopyKate Big, and ZeroCat ZeroNet Proxy, as well as other new projects she's working on). And Nofish is of course working on ZeroNet itself (and doing a pretty good job, ZeroNet gets a new revision multiple times a week to fix bugs, etc.). *Along with that, these people probably aren't developing for ZeroNet full-time, either.*\n\nWith that said, what might be making ZeroNet appear dead is *not the zite development, but the content of the zites.* Perhaps this could be because we don't have enough people who are *not* working on a zite that would actually have time to post more content.\nOne other thing that can be paired with this is the exposure ZeroNet is getting and the amount of people joining the network, which both *seem* to be pretty low.",
+				"added": 1512655631
+			},
+			{
+				"comment_id": 183,
+				"body": "> [james007](#comment_126_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): ZeroNet is still more heavily populated than I2P from my view. Certainly not dead.\n\nI'm not saying there's no content, but there isn't very much. I'm definitely not saying ZeroNet is dead, I'm saying it may **appear** dead, and I give *possible* reasons for why it would *appear* this way.",
+				"added": 1512657598
+			},
+			{
+				"comment_id": 184,
+				"body": "> [dis8002](#comment_3_1HBy99H2dsCwevdYZp8VVC2SVG69DGVyEd): Sorry that I called  it \"dead\" actually i did't want to injure someone with this word , just wanted to know more about it. I just surfed through internet  and  found  key word \"ZeroNet\" and decided to know more about it.  So I start my search from google and found that all articles finished at 2016 . Then I went  GitHub and also found that  almost all related  commits ended at 2016. So I decided to try go to inside ZerroNet and found more information here. Idea is good but from out of ZeroNet it's really looks like it is not developing any more. Also just want to notice that it is really hard to find some information inside it.So i really happy that it is not dead and it still developed.Free internet is a dream that could  become true again!\n\nNofish does commits all the time, actually. He just released a new revision today. What repo are you looking at?\nHere's the proper repo: [https://github.com/HelloZeroNet/ZeroNet/commits/master](https://github.com/HelloZeroNet/ZeroNet/commits/master)\nAlso, make sure you're on the master branch, not \"testing\".",
+				"added": 1512668251
+			}
+		],
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": [
+			{
+				"comment_id": 186,
+				"body": "I posted a comment about this on your question on the [ZeroNet Dev Center](/DevCenter.bit/?/questions/14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv/1). I wasn't sure if I should have made it an Answer instead of a comment, though, So I just did it as a comment.",
+				"added": 1512863044
+			}
+		],
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 187,
+				"body": "> [salvotnt](#comment_10_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS): what about https://www.alwaysdata.com/en/ ? [...]\n\nI probably wouldn't recommend it because the free tier only has 100 MB and has a bandwidth limit.",
+				"added": 1512864638
+			},
+			{
+				"comment_id": 188,
+				"body": "> [helium](#comment_116_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): https://www.zerogate.tk/seems to work fine. (It is NOT my project.) [...]\n\nzerogate.tk doesn't let you add new zites, which is my main problem with it.",
+				"added": 1512864670
+			},
+			{
+				"comment_id": 189,
+				"body": "> [tuckerb](#comment_18_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG): I just set one up myself http://zero.heyitswither.tech\n\nI think if you can get ssl, you should use it (even if it's from LetsEncrypt. If you don't know, Let's Encrypt lets you get free ssl certificates, but you have to be on non-shared service, unless they use this other thing (I forgot what it's called) that does allow individual ssl certificates on shared hosting).",
+				"added": 1512864728
+			}
+		],
+		"1512900119_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 190,
+				"body": "It shouldn't take 10 minutes. It takes a minute or two for me. I guess it would depend on how fast your computer is and how many zites you have downloaded (and followed) too (the News Feed just does database queries given from the zite owners, when you click the follow button).",
+				"added": 1512904396
+			},
+			{
+				"comment_id": 191,
+				"body": "> [buizel](#comment_7_1NVRQ533fwKrZaRyP8joH2kk6gis2G7PVp): You don't by chance have slow internet speed\n\nInternet speed only affects the downloading of zites, not the news feed itself (but only if the news feed is loading after the zites have already been downloaded).",
+				"added": 1512906203
+			},
+			{
+				"comment_id": 196,
+				"body": "> [nofish](#comment_1074_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Thats looks fine, I have added detailed, per-site stats to latest Rev3163.Please update then click on \"from xx sites in x.xxs\" to see which site takes the most of the time.\n\nI got this error on startup just after updating to latest revision:\n> Internal error: AttributeError: 'NoneType' object has no attribute 'address'\n> UiWebsocket.py line 79 > UiWebsocket.py line 255 > NewsfeedPlugin.py line 73\n\nFurthermore, I also get the error every time I go to the ZeroHello page. Also, after waiting a couple of minutes, nothing is showing up in the news feed (it's blank).",
+				"added": 1513017060
+			},
+			{
+				"comment_id": 197,
+				"body": "> [nofish](#comment_1075_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Looks like for some reasons you have a site in users.json that is not in sites.json anymore. I have added a fix for this in Rev3164\n\nI updated and it works now. However, the revision still says Rev3163 rather than Rev3164.",
+				"added": 1513017610
+			},
+			{
+				"comment_id": 198,
+				"body": "For me, mentions on ZeroTalk and ZeroMe take the longest, along with comment on your posts from ZeroMe. However, they each take less than .1 seconds.",
+				"added": 1513022077
+			},
+			{
+				"comment_id": 199,
+				"body": "> [nofish](#comment_1077_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Thanks for the feedback, I have just added an index by comment post time to ZeroMe, so if you rebuild it, then it should be around 1ms now. (also added a UI blocking fix when rebuilding merger sites in Rev3165)ZeroTalk has a more complicated db structure and I was unable to make it faster, but I will do it with the upcoming checkpoint feature that require some db changes.\n\nI haven't got an update for ZeroMe yet. I noticed in the latest commit, that I don't think you changed the `schema_changed` field.",
+				"added": 1513089214
+			},
+			{
+				"comment_id": 200,
+				"body": "> [nofish](#comment_1078_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You are right, I forgot to publish it. (just did)\n\nI got this error when rebuilding the database for ZeroMe. Right when is started saying \"imported 0000 of 46879 files...\" it appeared. Also, that message above isn't changing from 0000.\n> Internal error: ProgrammingError: Cannot operate on a closed database.\n> UiWebsocket.py line 79 > UiWebsocket.py line 255 > SidebarPlugin.py line 619 > SiteStorage.py line 155 > DbCursor.py line 59",
+				"added": 1513091980
+			},
+			{
+				"comment_id": 201,
+				"body": "> [krixano](#comment_200_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I got this error when rebuilding the database for ZeroMe. Right when is started saying \"imported 0000 of 46879 files...\" it appeared. Also, that message above isn't changing from 0000.\n\nI restarted ZeroNet, then clicked rebuild again, and it worked.",
+				"added": 1513092843
+			},
+			{
+				"comment_id": 202,
+				"body": "> [nofish](#comment_1078_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You are right, I forgot to publish it. (just did)\n\nThanks. The time for ZeroMe related queries went down to less than .004 sec, with exception to \"New Followers\", which is still at around .06 sec for me. However, that's not that bad (I don't think, idk).",
+				"added": 1513093116
+			}
+		],
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 195,
+				"body": "> [acabin](#comment_11_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b): Point me to a course on Udemy and I will download it for you.\n\nI have taken you up on your offer. If you can't get any of these, it's fine.\n\n* [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)\n* [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/)\n* [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)\n* [C Programming for Beginners](https://www.udemy.com/c-programming-for-beginners/)\n* [Learn Ethical Hacking From Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/)\n* [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)\n* [The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/)\n* [The Rust Programming Language](https://www.udemy.com/rust-lang/)\n* [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/)\n* [Learn C# Code by Making Games - Complete Unity Developer 2.0](https://www.udemy.com/unitycourse2/)\n* [The Unreal Engine Developer Course - Learn C++ & Make Games](https://www.udemy.com/unrealcourse/)\n* [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/php-for-complete-beginners-includes-msql-object-oriented/)\n* [PHP with PDO: Build a Basic Task List with PHP, PDO & MySQL](https://www.udemy.com/php-with-pdo-build-a-basic-task-list-with-php-pdo-mysql-ajax/)\n* [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/)\n* [Functional Programming with F#](https://www.udemy.com/fsharp-programming/)\n* [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/artificial-intelligence-az/)\n\n\n* [Writing With Flair: How To Become An Exceptional Writer](https://www.udemy.com/writing-with-flair-how-to-become-an-exceptional-writer/)\n* [An Introduction to Classical Latin](https://www.udemy.com/an-introduction-to-classical-latin/)",
+				"added": 1513010467
+			}
+		],
+		"1513126557_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 206,
+				"body": "You need to firstly make sure the hub is downloaded. Then, wait till ZeroMe and SunHub fully download. Sorry I can't be of more help, I don't know the full situation.",
+				"added": 1513126969
+			},
+			{
+				"comment_id": 207,
+				"body": "> [missesrobot](#comment_8_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): This can be replicated by deleting ZeroMe (while being logged in with your ID) .. downloading it again, then trying to re-join the hub you were previously in. Bug!\n\nYou shouldn't be rejoining anything. If your user already exists, then you should have just needed to wait for your previous posts to download.",
+				"added": 1513127362
+			},
+			{
+				"comment_id": 208,
+				"body": "> [missesrobot](#comment_8_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): This can be replicated by deleting ZeroMe (while being logged in with your ID) .. downloading it again, then trying to re-join the hub you were previously in. Bug!\n\nUnless you're trying to switch your hub. You have to do that a different way, otherwise you'll have problems. ZeroMe doesn't have a function to switch hubs. There's a tutorial on how to switch hubs manually, but I don't have the link.",
+				"added": 1513127471
+			},
+			{
+				"comment_id": 209,
+				"body": "> [missesrobot](#comment_10_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Everything's updated. It's asking me to re-create my profile, and I can't join Sun Hub.\n\nWhat exactly did you do? I need to know every single thing that you did and that happened and what you wanted to do in the first place in order to help you. This is a major reason why messing with ZeroMe hubs is bad - especially if you're trying to switch hubs without knowing how to do it. Because if you do something wrong, you could accidentally delete all your previous posts.",
+				"added": 1513127743
+			},
+			{
+				"comment_id": 210,
+				"body": "> [missesrobot](#comment_12_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I just created this account today, all I've posted so far is Hello ZeroMe... so no panic .. lol I just deleted ZeroMe (not the hubs), in order to download it again and see what happens. During the process of re-downloading, my client froze.. and I had to shut down zeronet and start it up again. I then logged onto ZeroMe, and it asked me to create my profile again. All I did\n\nOkay, so next time, you should wait for ZeroMe to finish downloading *and rebuilding the database*. This is something that has been a problem for other people. They didn't wait for ZeroMe to download all the way and decided to post something, and all their previous posts got deleted.\n\nNext, make sure your client is all the way updated, because Nofish, *I think*, fixed the freezing thing (it was because rebuilding the database was synchronous instead of asynchronous). Click the three dots, at the bottom, it should have a button telling you that it's up to date with the revision number. *Even if it says it's up to date*, click it anyways. ZeroNet will restart. It may take a bit, but just wait it out.",
+				"added": 1513128050
+			},
+			{
+				"comment_id": 211,
+				"body": "> [missesrobot](#comment_12_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I just created this account today, all I've posted so far is Hello ZeroMe... so no panic .. lol I just deleted ZeroMe (not the hubs), in order to download it again and see what happens. During the process of re-downloading, my client froze.. and I had to shut down zeronet and start it up again. I then logged onto ZeroMe, and it asked me to create my profile again. All I did\n\nAlso, I'm not sure why SunHub wasn't letting you create your profile on there.",
+				"added": 1513128143
+			},
+			{
+				"comment_id": 212,
+				"body": "The reason why it was telling you your user already exists, yet didn't show your posts I think is because you stopped the database from rebuilding. A simple fix for this in the future is to drag the circular 0 button in the top left to the right, and scroll down and click the Rebuild button under Database.\n\n> [missesrobot](#comment_13_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I already have a profile on there, I just couldn't re-join the hub\n\nIf you already had a profile, then you didn't need to join anything is what I'm saying. You didn't let the database rebuild, which I think is why it wasn't showing your posts and was telling you to create a profile (even though you already had one).\n\nBtw, *I think* you just screwed up your ZeroMe profile. I'll try to help you fix it though.",
+				"added": 1513128386
+			},
+			{
+				"comment_id": 213,
+				"body": "The reason why I think you just screwed up your ZeroMe profiles is because now you technically have two profiles on two different hubs. I'm not sure on this though. I'm gonna check the ZeroMe files to see for sure.\n\nbtw, a similar thing happened to me and was the cause of what I thought was a bug where following people wasn't working correctly.",
+				"added": 1513128459
+			},
+			{
+				"comment_id": 214,
+				"body": "> [missesrobot](#comment_14_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): This is likely to be the case.. There needs to be a Loading Database warning message, or at least a way to detatch from hubs.\n\nFirst things first, update ZeroNet like I said. Then, go to ZeroMe and do the database rebuild that I told you how to do previously. Wait for it to finish.\n\nAnd yeah, I do agree that there does need to be a warning. ",
+				"added": 1513128689
+			},
+			{
+				"comment_id": 215,
+				"body": "> [missesrobot](#comment_14_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): This is likely to be the case.. There needs to be a Loading Database warning message, or at least a way to detatch from hubs.\n\nOkay, yes, you do have two profiles (as in two different hubs think that your profile is in two different places) and I'm gonna help you fix that, because if you don't, you'll have a problem with following people (I had this problem also). I need to know which hub you want to be in, KaffieHub or SunHub?",
+				"added": 1513128959
+			},
+			{
+				"comment_id": 216,
+				"body": "> [missesrobot](#comment_15_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Subhub i guess\n\nOkay, did you update and rebuild the database? If so, you'll also need a text editor for what you need to do next.",
+				"added": 1513129333
+			},
+			{
+				"comment_id": 217,
+				"body": "> [missesrobot](#comment_16_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I can see that I'm following two clones of my profile..Yes, update is complete.\n\nDid you do the database rebuild?\n> A simple fix for this in the future is to drag the circular 0 button in the top right to the left, and scroll down and click the Rebuild button under Database.",
+				"added": 1513129496
+			},
+			{
+				"comment_id": 218,
+				"body": "> [missesrobot](#comment_17_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): yes\n\nOkay, so now, goto ZeroHello, click the three dots, and click \"Show data directory\". Next, go to the `12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv` directory. Then, go to `data/users`, and go to `19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB`. This is your user directory where your posts on KaffieHub are stored.\n\nOpen the `data.json` file, and change the string next to \"hub\" from `12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv` to `1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a` (this is the address for sunhub).\n\nNext, delete these two whole lines:\n> \"avatar\": \"generate\",\nand\n> \"intro\": \"Random ZeroNet user\",\n\nAlso, delete these lines:\n> {\n>    \"post_id\": 1,\n>    \"date_added\": 1513127721,\n>    \"body\": \"Hello ZeroMe!\"\n> }\n\nThen, change the number next to `next_post_id` from 2 to 1.",
+				"added": 1513129927
+			},
+			{
+				"comment_id": 219,
+				"body": "Next, go [here](/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv) and drag the circular button in the top right to the left. Scroll all the way down, and click on the button next to `This is my site`. Then, go to the textbox under `content publishing` and delete everything and type in this: `data/users/19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB/content.json` and click `Sign`. Then click `Publish`.\n\nAnd that should be it.",
+				"added": 1513130265
+			},
+			{
+				"comment_id": 220,
+				"body": "> [missesrobot](#comment_20_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): thanks.\n\nNo problem, I just had to do something similar with my account because something like this happened with me too. This is one thing that is a downside to the hubs on ZeroMe - they are so easy to mess up.",
+				"added": 1513130576
+			},
+			{
+				"comment_id": 221,
+				"body": "> [styromaniac](#comment_285_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): If you have all hubs downloaded and then download ZeroMe, this causes the problem. [...]\n\nI see problems with your profile too. different hubs show your profile as being on different hubs. Most of them think your profile is on orange hub, KaffieHub thinks it's on kaffiehub, and orangehub and ZeroHub both think it's on ZeroHub.\n\n[/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1513132061](/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1513132061)",
+				"added": 1513131637
+			},
+			{
+				"comment_id": 222,
+				"body": "> [styromaniac](#comment_287_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): On kaffiehub it's my kaffieid if I remember correctly, but the rest is a correct observation.\n\nPerhaps, because of this, *you* only see the posts by your hub (which ZeroNet thinks is ZeroHub I think), but everyone else see's your posts on *all* the hubs. This would explain why we can see all your posts, but you can't.",
+				"added": 1513131986
+			},
+			{
+				"comment_id": 223,
+				"body": "> [styromaniac](#comment_288_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): No, I can see them. The problem is I can't even get on the last hub I was on.\n\nOh, I thought you said you couldn't see your old posts. \n\nI check and actually you said you couldn't see your profile when you didn't create the new account I think. Did creating the new account let you see your old posts made on your previous profile?",
+				"added": 1513132263
+			},
+			{
+				"comment_id": 224,
+				"body": "> [styromaniac](#comment_289_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I said that because all I could get was a prompt to create a profile, but links to my profile work to present my posts, but I can't access them as my own. To ZeroMe I'm a new person.\n\nI actually have an idea of a new system, for a new Social Network, that I think would be much better. I'm planning on completely disconnecting profiles from Hubs, because that is the cause for not only [the following bug that I had](https://github.com/HelloZeroNet/ZeroMe/issues/99), but also the bug where people have different usernames on different hubs (because each hub stores your username, which I think was a bad choice for ZeroMe's design, but I understand why he did it in the first place - so people can use ZeroMe without having to have an id provider supported by a userdb as long as one hub supports that id provider).",
+				"added": 1513132734
+			},
+			{
+				"comment_id": 225,
+				"body": "> [styromaniac](#comment_290_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Sounds good. I'm glad we've exposed ZeroMe's major flaw. Hopefully something can be done about it, but at least we've given you a better design idea. [...]\n\nYes, but I'm not going to make it until I'm done with ZeroExchange. Good thing I have a half a month break for christmas that's starting at the end of this week!",
+				"added": 1513133630
+			},
+			{
+				"comment_id": 226,
+				"body": "> [styromaniac](#comment_290_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Sounds good. I'm glad we've exposed ZeroMe's major flaw. Hopefully something can be done about it, but at least we've given you a better design idea. [...]\n\nThe other idea I had was that people choose the hub they want to post in for a particular post. And hubs would be like content categories: Developers hub, Politics hub, etc. That way, a person who is a developer *and* writes about politics can post in the developers hub when writing about development and post in the politics hub when writing about politics. Then, there'd be a way to see *all* posts from all hubs you've downloaded too. I'm not completely sure on this idea though.\n\nThen there's also the idea of everyone having their own merger zite. The only problem with this is you have to download a person's merger zite to see their posts. This makes it harder to explore different people and their opinions, etc.",
+				"added": 1513133729
+			},
+			{
+				"comment_id": 228,
+				"body": "> [styromaniac](#comment_293_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I like the first idea. Say there was a sportshub. It would help to customize what I see that I actually care about (everything but sports).\n\nYeah, that's the one that I think I like the most too. Much better than what ZeroMe currently has imo (yet not *too* different either, if you think about it). I also have some ideas on an interface that I think could work very well with this system. It'd actually be similar to how I'm making ZeroExchange, I think.",
+				"added": 1513134308
+			},
+			{
+				"comment_id": 229,
+				"body": "> [styromaniac](#comment_294_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Now I want to draw an interface mockup with my thumbs. This should be both hilarious and helpful.\n\nOne other thing that I've been thinking about is usernames - whether I should just use your name from your user id, or if I should let people choose a name seperate from that. I'm leaning towards the first because it's easier and the original idea behind id's was to provide a name (as well as associate it with an id provider), but now ZeroMe and ZeroMedium (and probably a few others) are implementing names for names for user addresses, which makes no sense.\n\nAlso, if I do the second, then if I want to let people post on hubs when their id provider isn't supported by the user db, but is supported by the hub, I'd have to store the name in the hub rather than the user db (because they can't use the user db). This would have the same problem as ZeroMe with potentially having different hubs have different names for the same id.\n\nAlthough, I'm probably gonna have this same problem when I go to do profile information (like \"about me\", etc). So I don't really know how to sort that out.",
+				"added": 1513134931
+			},
+			{
+				"comment_id": 230,
+				"body": "> [styromaniac](#comment_294_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Now I want to draw an interface mockup with my thumbs. This should be both hilarious and helpful.\n\nAnd I also have one other idea, not only having hubs, but also having merger zites for each user (like a Facebook wall/timeline kinda thing). With this, people can post directly to a person's profile, kinda like how Facebook allows this. I'm not so sure on this idea though.",
+				"added": 1513135378
+			},
+			{
+				"comment_id": 238,
+				"body": "> [styromaniac](#comment_296_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I think the username system on ZeroMedium is better than ZeroMe's since I've had no problem with it. I have no technical input, only user experience. [...]\n\nWhat I meant was whether I should use user id's from your id provider (`krixano@zeroid.bit`, I could also just delete everything after @, kinda like what zerotalk does) or allow people to pick a username for the zite (like ZeroMe and ZeroMedium).\n\nZeroMe and ZeroMedium's username systems are functionally the same.",
+				"added": 1513187111
+			}
+		],
+		"1513127681_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 227,
+				"body": "You should submit this as a pull request to the [ZeroHello repo](https://github.com/HelloZeroNet/ZeroHello).",
+				"added": 1513134190
+			}
+		],
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 232,
+				"body": "This is good! The only thing though is, do you have to have kopykate downloaded before viewing a video from it, not the video but the zite itself? I think you do. With the CORS plugin though, you don't need to have kopykate downloaded because the plugin will automatically download it. I think the main reason to use merger zites (or CORS) is for accessing the database for a zite, not user files (because you could easily reference the file like you have done so).",
+				"added": 1513140418
+			},
+			{
+				"comment_id": 233,
+				"body": "> [missesrobot](#comment_33_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): yes you would, by the looks of it. You'd have to navigate to the direct link of the file.. then confirm that you want to download the zite. One could easily write a script that would automatically do that for you, though.\n\nYes you would for what? if you're talking about the CORS plugin - the zeronet docs state that the CORS plugin automatically downloads the zite if it isn't downloaded. The same goes for merger zites. It might not matter anyways because...\n> I think the main reason to use merger zites (or CORS) is for accessing the database for a zite, not user files (because you could easily reference the file like you have done so).",
+				"added": 1513141758
+			},
+			{
+				"comment_id": 234,
+				"body": "> [missesrobot](#comment_34_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Pretty sure I have the CORS plugin installed, and I just did a test by deleting ZeroUp and trying to play the embedded link .. which didn't work.. until I copied/pasted the actual file address into my url. In other words, it'll play the video/prompt zite download if you click on the file link .. but not if you press play on the embedded video player.\n\nYou can't just use the CORS plugin by having it installed, the zite needs to call a command for it. It's right in the docs.\n\n[https://zeronet.readthedocs.io/en/latest/site_development/zeroframe_api_reference/#corspermission-address](https://zeronet.readthedocs.io/en/latest/site_development/zeroframe_api_reference/#corspermission-address)",
+				"added": 1513143093
+			},
+			{
+				"comment_id": 235,
+				"body": "> [missesrobot](#comment_35_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): My mistakes.\n\nIt's fine. Now that I know that you can do this - I'm gonna allow putting KopyKate and ZeroUp videos in ZeroMedium, I think that'll be much better than people uploading videos in multiple places.\n\n> [missesrobot](#comment_36_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): It would be great to see corspermission in action, or have an example code snipplet. I must admit, I haven't explored many of the other ZeroNet features beyond bigfiles. It takes a lot of time to figure stuff out!\n\nYeah, ZeroNet docs could be much better, tbh.",
+				"added": 1513143568
+			},
+			{
+				"comment_id": 236,
+				"body": "> [missesrobot](#comment_37_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): but then, if you're gonna turn ZeroMedium into a video sharing platform - wouldn't that defeat the purpose of having KopyKate and zeroup to begin with? I'm all for focusing on a single project, having said that.\n\nI'm not turning ZeroMedium into a video sharing platform at all. It's still a place to write stuff, but it's useful to be able to link to videos that are related to your writing. Same with audio, images, and other files. In fact, Medium.com has this feature as well. People who don't want to write about a video won't use ZeroMedium, they'd use KopyKate.\n\nHowever, being able to link to KopyKate won't remove kopykate's purpose at all. It'd just allow people to reference a video from KopyKate. Note that I'm not talking about uploading the video again to ZeroMedium, I'm talking about linking to KopyKate using CORS. Without KopyKate, this wouldn't be possible, so it doesn't quite remove KopyKate's purpose. KopyKate is for videos, ZeroMedium is for writing, including writing about videos.",
+				"added": 1513144347
+			},
+			{
+				"comment_id": 240,
+				"body": "> [styromaniac](#comment_297_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): So the problem I have with both sites is if the download is interrupted, they don't automatically resume, meaning I have to go to the sites they're from and manually click on them to continue downloading. [...]\n\nI would have though refreshing would have told ZeroNet to start downloading it again. I guess it doesn't?",
+				"added": 1513189813
+			},
+			{
+				"comment_id": 241,
+				"body": "> [styromaniac](#comment_298_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): You're right. It works if you refresh, but it's still a manual resume.\n\nI wonder if there is a way to make like a custom html5 video interface that will try to start the download again via a button (or maybe pausing and replaying)? I guess this might require actually being able to tell that a download stopped, though.",
+				"added": 1513190664
+			}
+		],
+		"1513230190_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 243,
+				"body": "> [polar](#comment_79_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): What the difference between Facebook and ZeroMe?\n\nI think the main difference right now is that on Facebook, you have walls/timelines for each user's profile and you can post to their wall/timeline (it used to be called a wall, then they changed it). You can also put posts that other people have tagged you in on your timeline. Otherwise, there isn't that much different, except I guess it also kinda prioritizes friends rather than everything being public (but you can make everything on your profile public if you want to. You can also make only a few posts public and some not, etc). And there's no following people, either you're friends (in which case both people have to agree on this) or you're not.\n\nI was thinking about putting in a wall/timeline thing (as a merger zite for each profile) for a new social network I'm thinking about and am going to make after I finish ZeroExchange. But the whole posts shown only to friends thing might be a little hard to do, I'm not sure yet because I haven't actually thought about that particular feature/design.",
+				"added": 1513265387
+			},
+			{
+				"comment_id": 244,
+				"body": "> [polar](#comment_81_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): Query:the post that: [the post author is target user's followee] AND [the post @mention target user] [...]\n\nOkay, seriously. Firstly, you asked what the different between *ZeroMe* and *Facebook* is, not Facebook and various ZeroNet zites. With that said...\n\n> @mention is enough do this.\nThe posts of the mentions do not show up on a person's profile. Also, the profile owner cannot choose whether to show it or not. With Facebook, you can.\n\n> the post that: [the post author is target user's followee] AND [the post @mention target user]\nI don't know what you're talking about here. But Facebook's wall/timeline feature isn't quite the same as showing all posts from a person, because the profile owner has full control over what gets put on their timeline.\n\n> http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er/Private+sites\nThis is a private site. This doesn't work for ZeroMe, unless you want a whole hub private. This isn't quite the same as making individual posts private - private meaning only friends get to see it.\n\n> http://127.0.0.1:43110/0gallery.bit\nThis is 0Gallery, not ZeroMe.\n\nNow, if none of this was an argument against my claims, but instead to help me with my social network project, then maybe you should be clearer about that.",
+				"added": 1513267433
+			},
+			{
+				"comment_id": 249,
+				"body": "> [missesrobot](#comment_42_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): zeroMe is good enough as it is. It's also way cooler because you get to interact with people with similar interests.. thanks in part to the hub system. We really don't need a Facebook. Facebook is just a low-self-esteem factory.\n\nFacebook and ZeroMe have different purposes. So trying to put them into the same category doesn't work. I like to think of Facebook more for friends and family while Twitter is more for public stuff. For this reason, people can obviously use both for different purposes and, in my opinion, they are pretty much equal in their respective categories/fields.",
+				"added": 1513558117
+			}
+		],
+		"1512976214_18fU1ZPrTrUXVCYG4wDvk6fTB5ok4p8QV1": [
+			{
+				"comment_id": 245,
+				"body": "> [flappyearz](#comment_104_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): And it's even worse, as I heard, since plenty of people with english as mother tongue haven't learnt grammar, they just try to get along mimicking what others do.\n\nThis is very wrong. Everyone learns grammar in school in the US and I'm pretty sure they do in Britain too.\n\n>  I've learnt some grammar most of the US people can't even reproduce.\n\nIf you're talking about English grammar, I seriously doubt that. The only thing that other speakers learn that people who speak English as first language don't are the technical words for certain grammatical constructs (perfect, imperfect, infinitive, etc.), however, they still learn some (subject, object, etc). But people who speak English who have learned another language do learn these words as long as they apply to the language they are learning. Btw, it's a requirement for many (I would say majority, but I'm not totally sure about that) colleges to take 2 years of a foreign language.\n\n\nFinally, it's very well known in Linguistics that speech evolves faster than writing. This is one of the main causes for why spelling doesn't evolve with changes in speech. Another reason is that when new words are brought into English, they are either not changed or barely changed. So, it isn't necessarily completely the fault of the English speakers for why the spelling is messed up. There was already one time where we tried to change the spelling for English to make it more consistent, it was somewhat successful (I believe one of the changes was using er instead of re?). I believe this was when English was standardized. What I'm mainly saying is that written language evolves slower than spoken language, and for this reason, there really isn't a way to completely get around the fact that spelling is going to either remain or become inconsistent with what is spoken. And trying to change it has it's own problems because not everyone will agree on the changes and a lot of people will forget them or just not obey them.\n\nAlso, something to note, the English spelling rules are more consistent than what people think.",
+				"added": 1513372534
+			},
+			{
+				"comment_id": 247,
+				"body": "> [tombombadildo](#comment_8_16AACVBLhoSY2jjGMtP7VKAEbjJUcKgQ1y): Perhaps you can say that everyone is taught grammar in school in the US (though even that is likely an exaggeration), but it is certainly not the case that everyone learns it.\n\nNo need to get pedantic, you knew what I meant.",
+				"added": 1513391595
+			},
+			{
+				"comment_id": 248,
+				"body": "And everyone learns grammar, whether it be direct or indirect or whether it be from listening to other people. If you haven't learned the grammar of a language, you would be misunderstood, you wouldn't be able to speak it, etc. Being taught by example is still being taught. Being taught by listening, speaking, and correction is still being taught.\n\nSo, *yes*, everyone *is* **taught** and learns grammar.\n\nThat is not to say everyone is taught *well* or that grammar instruction is even needed or effective in schools, those are whole different debates.",
+				"added": 1513391846
+			}
+		],
+		"1513321800_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 250,
+				"body": "> [missesrobot](#comment_44_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): btw - does this work on any zeroframe, or only the zeroframes used in e.g. zeroup, zerome, etc?\n\nNot completely sure what you mean exactly. Do you mean all zeroframe versions? As long as it can access the instance of your ZeroFrame class so it can call a few of the ZeroNet API commands, then it will work. It calls the wrapperPushState, so make sure you have the latest version (you can get that js file [here](https://github.com/HelloZeroNet/ZeroHello/blob/master/template-new/js/ZeroFrame.js), as posted by Nofish). You should look at the [GitHub](https://github.com/krixano/ZeroFrame-Router) I posted, because there is one thing you need to do to get it to work (make sure your zeroframe instance is called `page`, or do `page = zeroframeVariable` as a workaround):\n\n> To navigate to a route, use the Router.navigate('/route') function. *You must also make sure your ZeroFrame instance is called page. (you can get around this by doing something as simple as page = zeroframe;).*\n> \n> \n> The order in which you add routes matters. The URL which is added earlier and matches will be the one that is called.\n> \n> \n> Note: You must call Router.listenForBack() in the OnRequest() function of your ZeroFrame class in order to detect when the user hits the back button and navigate to the correct route.\n\nAlso, this [GitHub page](https://github.com/krixano/ZeroFrame-Router) has much more information than the zite. The zite is a little outdated, but I think there weren't any breaking changes in newer versions released after the zite was last updated, so it still works with the latest version *I believe*.",
+				"added": 1513558516
+			}
+		],
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 251,
+				"body": "> [nekololi](#comment_89_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB): i'm very confused by this topic. [...]\n\nIt says `Proxy` in the title. Proxy owners should be able to manage the zites that are on their server. Currently they can block all new zites, but that is not friendly to the users. Proxy owners can get into serious trouble from their hosting provider or government for having illegal content. If you want to view illegal content, use your own client instead of potentially getting someone else into trouble because of it.",
+				"added": 1513559011
+			}
+		]
+	},
+	"comment_vote": {
+		"69_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"5_1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x": 1,
+		"5_1Aqzrn9MJnftKMJyU9mVviE5WZdTwJnkFr": 1,
+		"417_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"10_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"442_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"269_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"52_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": 1,
+		"15_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": 1,
+		"440_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"10_1KkYwbYeCF7s17AmUF9Tc7ckzCgt3UoaaC": 1,
+		"6_1NDhNyavxhFyWJHscjPu5qYjMbpfKSDVzt": 1,
+		"6_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"451_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"454_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"458_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": 1,
+		"1_16HSZpQsJrnXJ6KwukKPAWpY3hTCEDigjx": 1,
+		"3_173bxmLC8QA16cwrt2Z5SpYpijLHC2LtLR": 1,
+		"1_1L6RzCHN6Uv2GMrJQhafSypAWPWywiXCsA": 1,
+		"1_18U3XMxdYnD8BFVeY6UCPJvKTLg51n4uBZ": 1,
+		"2_16HSZpQsJrnXJ6KwukKPAWpY3hTCEDigjx": 1,
+		"5_1DV1kbtG2Gqjp4WayjTjLmuf4gMF4zDvzc": 1,
+		"1_17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth": 1,
+		"6_1DV1kbtG2Gqjp4WayjTjLmuf4gMF4zDvzc": 1,
+		"11_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1,
+		"44_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"51_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"511_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"311_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"1_18D4VdqDgiiykHZFvSRT1EtZ18pbHeYfMx": 1,
+		"1015_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1017_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1FcMuJwqkSPP7C3gnNLugZGwwSGpugX2rA": 1,
+		"3_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn": 1,
+		"4_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn": 1,
+		"32_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"21_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"16_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"162_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"25_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"26_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"23_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"31_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"24_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"5_1DrBS2sTD3BX5BBxG8eqYsxXSvGt9kc5HE": 1,
+		"133_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"5_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"3_1QKALTkDmKyTC5L7mZZu6R8ARLmrRfiAhL": 1,
+		"131_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"13_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"4_1Q5PL1shtKnkuTUgB8bUonaXFUPH51zj3k": 1,
+		"14_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"76_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"15_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1_1H2stvnD8p5DZHVZBikfX7ErTgKnw53D7c": 1,
+		"9_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"1_1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS": 1,
+		"1034_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1DMbBh3c4jvrGNycqXj6X2vsDuoSkvynKe": 1,
+		"144_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"29_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1036_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"151_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"30_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"242_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_12FrtgS7ynd9U4F2MHQFeDmyqUVWQtXmSS": 1,
+		"1_18pmyRozBzTRrTgHmmBuEaLtzi4nwfbYSe": 1,
+		"35_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1_15ubGEWWQSXH6Xp1Lg5JcTqMrKVm51BVkg": 1,
+		"37_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"38_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"42_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"25_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"306_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"4_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"60_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"62_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"178_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"156_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"179_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"180_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"182_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"183_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"347_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1_1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ": 1,
+		"350_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"2_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"9_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"129_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB": 1,
+		"16_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"186_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"17_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"19_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"191_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"5_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"354_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"6_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"24_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"21_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"7_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"28_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"165_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1053_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1052_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"103_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"167_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"19_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"47_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"20_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1_17GRft8EiGc8hMAqzFAoj9chBpSkFA8g82": 1,
+		"21_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"24_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"210_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"20_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": 1,
+		"1056_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"29_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"6_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1,
+		"10_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"11_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"38_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"25_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"5_12UZAaKqiM7JEV1SbCcTBoQzf75ghNgc8o": 1,
+		"8_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": 1,
+		"11_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"39_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"42_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"46_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"44_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"42_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"60_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"59_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"36_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"38_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"37_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"40_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"158_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"4_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": 1,
+		"49_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"50_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"44_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"51_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"101_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"73_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"260_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"10_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"71_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1_1975Z5g8hZhSj8sco2sp5yz8gTV1NDRc4G": 1,
+		"216_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"79_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1_1Py2rimLx1veGchzP1MG7e3mR3hVoZZ2Tg": 1,
+		"81_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"30_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"85_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"87_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"83_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"31_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"53_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"34_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"1_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": 1,
+		"115_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"1070_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"61_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"6_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"20_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"2_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"281_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"282_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"103_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"105_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"106_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"111_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"114_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"11_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1074_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1075_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"65_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"29_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"32_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"12_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"30_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"118_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"3_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1077_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1076_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"33_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"11_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"20_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"19_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"6_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": 1,
+		"293_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"294_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"290_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"27_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"36_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"35_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"38_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"39_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"295_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"298_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"297_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"299_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"66_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1079_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"83_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1081_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": 1,
+		"77_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"306_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"44_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"57_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"47_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"321_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	}
+}

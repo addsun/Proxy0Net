@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HBkZ08yZeOV3/Uc+D3g/iB5TbgyGFxH3dT900wM6moWB0gO4mW7RHPayCnjXOMfV50X2iSBQ2JFVUOSwVXuocng=",
+ "cert_user_id": "chem@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "714a8536b9c607833d3423686e4c26735f73c76c0645b2422f22c693efabea89",
+   "size": 520
+  }
+ },
+ "inner_path": "data/users/1PQG5DUa8kszSFwHTAies39SR3u7GGRaZo/content.json",
+ "modified": 1503325583,
+ "signs": {
+  "1PQG5DUa8kszSFwHTAies39SR3u7GGRaZo": "G0cVjZ4pMzTJUnhTh0l5kv8k5y8NUVbPm7vXbRIUYNYbeVspDD6bruWIIQ2Uf3r2dz8YdlKQTEFpb5RqOzSpWck="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HBy08gjqQS+Gi47fVNNoQQwxqY3L/SltBKE2txhao5inMdPzMzBF9ZEq77DOyeri1OR1sBpJAM0Sw/4h2/5cNzw=",
+ "cert_user_id": "tenelims@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9de7744150838331d8ca4049bd8b3cf950f2f9339c6012018ebe41e1b4b450eb",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/15iuFsSUGKeCjsYwGncPwvcp2zQgmTn5mb/content.json",
+ "modified": 1502982076,
+ "signs": {
+  "15iuFsSUGKeCjsYwGncPwvcp2zQgmTn5mb": "HM4sBkB+cAnVCLNQINMUXYvzlmQOcyYv6eMIgR2cnJr6OXRfW8dOSFgQI8w2QZLZVX55CeYqczjOqwSN/S0awJM="
+ }
+}

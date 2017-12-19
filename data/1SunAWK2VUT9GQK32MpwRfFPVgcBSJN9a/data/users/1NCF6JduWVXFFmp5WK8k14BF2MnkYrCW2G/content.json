@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7FZiWm40LDu9myWTD0ENk4w6F46svr4C6mfdBX7Y+eDsD/Kr2ZVjhs1DTWk2JDpdeQZiAqHiEiS7P8mkb1SpL8=",
+ "cert_user_id": "capitoljay@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "8f5dac1e8cb7da25e882df01c9b4994b93eef43e2d60484c59e7a7b8cdb2e438",
+   "size": 1616
+  },
+  "data.json": {
+   "sha512": "b057ce3a4818672b3a7f1eaab7e9773b24d87aa8ad8f592ec8e9353d437b1200",
+   "size": 897
+  }
+ },
+ "inner_path": "data/users/1NCF6JduWVXFFmp5WK8k14BF2MnkYrCW2G/content.json",
+ "modified": 1503498925,
+ "signs": {
+  "1NCF6JduWVXFFmp5WK8k14BF2MnkYrCW2G": "HCRB0S2Cfv3+Nr4JxHle4Ok6f4akVJWEGxhqop37HWOmaTE3G3FsdSFM/KEfun3us0Ly4a85fGQd3D6lXG+jyyw="
+ }
+}

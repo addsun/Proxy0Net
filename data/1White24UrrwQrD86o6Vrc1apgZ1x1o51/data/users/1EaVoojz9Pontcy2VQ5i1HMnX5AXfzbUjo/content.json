@@ -1,0 +1,24 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G+Pegouq1090KlAgqDDYZTDLkGyOLqNj/6wiTC4ta2DrtcTnaQ/c5eHn59wungNSzGN96LwWoH3fimAfJUe1SwI=",
+ "cert_user_id": "ott@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7d198dcbfbf5659b8fa24a155bafd8871a0f039e596ad20924db6d0450161759",
+   "size": 1539
+  }
+ },
+ "files_optional": {
+  "1507884187.jpg": {
+   "sha512": "bf384f573cbc7b4f8c81e3fbb79cddf05617da14edf506801241c919e4c262a9",
+   "size": 51509
+  }
+ },
+ "inner_path": "data/users/1EaVoojz9Pontcy2VQ5i1HMnX5AXfzbUjo/content.json",
+ "modified": 1508387353,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1EaVoojz9Pontcy2VQ5i1HMnX5AXfzbUjo": "HPP+7fBEF0Pdt7NTd7Jyb3vNAiqtfjS2o3gNl0AByOOMeOleIxBePhm3XSaShadY60Mv0SuTLFwhVdW7n1qOSys="
+ }
+}

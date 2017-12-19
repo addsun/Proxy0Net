@@ -1,0 +1,46 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "png",
+	"user_name": "Magicman",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506564397,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1506564439,
+			"body": "Hello, some people call me anon_lulz. But most call me πagic man",
+			"date_added": 1506564437
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Jxbf29fkr1tzP9MiKqgqYDrAPVuGK2pns",
+			"user_name": "Magicman",
+			"date_added": 1506564508
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "12to3y91xRkrf9czaEBz2Pc9kXzEcfoGSz",
+			"user_name": "Editicalu",
+			"date_added": 1506564511
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1ChWBhTziupy46rdTKFe3Cc3sDvqpUVerx",
+			"user_name": "Vrillmar",
+			"date_added": 1506564860
+		}
+	]
+}

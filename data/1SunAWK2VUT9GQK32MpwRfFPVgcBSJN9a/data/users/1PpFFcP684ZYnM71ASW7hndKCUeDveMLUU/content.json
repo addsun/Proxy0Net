@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GzlqibS06SWdlfMp3Z6NkUzVZ4M3BcaZDTJoIDkzf6jQXVLmxv8bUQzv8GK+yYhQL413eXzD9EH2BgGR1Ppa66I=",
+ "cert_user_id": "terry39@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "484ab4ed21591e6c12124472c434488eeb30159a51034c17bf4b90ac8fb9d651",
+   "size": 1392
+  },
+  "data.json": {
+   "sha512": "55590e3ec3e1244c4281c7b4800fdeb0bc3c37833b2359d003aa4528f051b8c4",
+   "size": 1501
+  }
+ },
+ "inner_path": "data/users/1PpFFcP684ZYnM71ASW7hndKCUeDveMLUU/content.json",
+ "modified": 1504450274,
+ "signs": {
+  "1PpFFcP684ZYnM71ASW7hndKCUeDveMLUU": "GyFXeCvBIdjHdiw6OeAqgAy60TCHEDnwDDzFxpYeSYeOADMoxpRbGhrs5qK39moLCEt1OJbI7cu92r7pI0Yh8Zc="
+ }
+}

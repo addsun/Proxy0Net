@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509177955,
+			"title": "Peer Exchange: Does it request via existing connections when connecting to new Zite?",
+			"body": "I was playing with ZeroNet's tracker and PEX (Peer Exchange) for the whole day, and I noticed the initial issue for adding support of PEX\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/79\n\nAs is described in the issue, ZeroNet should request for peers from existing connections while connecting to a new site. However, after looking into the source code\n\nhttps://github.com/HelloZeroNet/ZeroNet/blob/master/src/Site/Site.py#L790\n\nIt appears that, if no peer is available to a given site, it will not even be attempted to gather peers from currently known peers. After actually trying with a trackerless ZeroNet instance (with known connections established before), it turns out to be true that no new site can be reached with PEX. Is this intented behavior (which is not discribed in the original issue) or does this feature lie in some disabled plugin?",
+			"added": 1509177954
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Test from shouko",
+				"added": 1508917113
+			},
+			{
+				"comment_id": 2,
+				"body": "test",
+				"added": 1508942164
+			}
+		],
+		"13_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 3,
+				"body": "Will they even read it or just keep flooding......",
+				"added": 1509061975
+			}
+		],
+		"1509177955_1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY": [
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_1043_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): PEX only works for already connected sites, since you don't know which peer has the site you looking for. So the \"Also requests peers from existing connections when connecting to a new site.\" part is not implemented, because it's high possibility that it would not work.\n\nIt seems the only solution to this will be DHT anyways.. Another question, does ZeroNet require special extenstion to the BitTorrent trackers or it is compatible with the standard tracker protocol?",
+				"added": 1509188457
+			}
+		],
+		"1509180149_12a6CEoGaQn9rHsDaYDwRxfZbAXiMoKpiS": [
+			{
+				"comment_id": 5,
+				"body": "@nofish well, this Japanese topic is also considered as Chinese :)",
+				"added": 1509191319
+			}
+		],
+		"1509355895_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2": [
+			{
+				"comment_id": 6,
+				"body": "Try to connect to your site from another machine and then try click publish for your site",
+				"added": 1509361617
+			}
+		]
+	},
+	"comment_vote": {}
+}

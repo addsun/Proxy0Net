@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1511129087,
+			"title": "Problem language/de.json could not initialize...",
+			"body": "`UiWSGIHandler error: ValueError: Expecting property name: line 59 column 1 (char 1958) in UiServer.py line 40 > pywsgi.py line 909 > pywsgi.py line 893 > TranslateSitePlugin.py line 64 > SiteStorage.py line 266 > __init__.py line 291 > __init__.py line 339 > decoder.py line 364 > decoder.py line 380´\n\nCan anyone help?",
+			"added": 1511129086
+		},
+		{
+			"topic_id": 1511152066,
+			"title": "problem: ZeroBlog with large video files",
+			"body": "So how can i use files at about 100mb? I want to link the videos in a HTML5 Videotag. Like this:\n~~~\n<video controls=\"\" width=\"100%\" height=\"auto\" src=\"path/to/video.webm\" type=\"video/webm\"></video>\n~~~\n\nBut every time i get the message: \n\n\n>Signierung des Inhalts fehlgeschlagen\n>Content too large 131865586B > 10485760B, aborting task...\n\nPlease help. Any Idea?",
+			"added": 1511152064
+		}
+	],
+	"topic_vote": {
+		"1511469595_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1511470806_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"1511129087_19czZMtAoro4WBfRHtjRrSLosuwRnfFt4r": [
+			{
+				"comment_id": 1,
+				"body": "This Problem allmost appear when i modify the \"de.json\" file in \"ZeroBlog\"... Deleting solve the Problem, but i want to read my blog in my native language.",
+				"added": 1511129285
+			},
+			{
+				"comment_id": 2,
+				"body": "I cloned a fresh zeroblog. From here: Blog.ZeroNetwork.bit . \nI copied my \"de.json\" into the language directory.\nSo it seems to work. And it works perfectly.\nNow i modify or overwrite the \"de.json\" and and i can not run my new zeroblog.\nI rename it to de1.json and it works. I delete it and it works.\nWhats going wrong here? Any tips?",
+				"added": 1511130752
+			},
+			{
+				"comment_id": 3,
+				"body": "here is my de.json file... now there is a problem after copying, not only modifying or overwriting.\n\n~~~~\n{\n    \"Add new post\": \"Einen Beitrag hinzufügen\",\n    \"Follow in Newsfeed\": \"Folge diesen Neuigkeiten\",\n    \"Username mentions\": \"Erwähnungen von anderen Teilnehmer\",\n    \"Posts\": \"Beiträge\",\n    \"0 Comments:\": \"0 Kommentare:\",\n    \"Comments\": \"Kommentare\",\n    \"Following\": \"Folgen\",\n\n    \"Like this post\": \"Gefällt mir\",\n    \"Latest comments:\": \"Neueste Kommentare:\",\n    \"Reply\": \"Antworten\",\n\n    \"Bold\": \"Fett\",\n    \"Italic\": \"Kursiv\",\n    \"Strikethrough\": \"Durchgestrichen\",\n    \"Code\": \"Code\",\n    \"Link\": \"Link\",\n    \"Type or paste link here\": \"Tippe oder füge einen Link hier ein\",\n\n    \"**bold**\": \"**fett**\",\n    \"_italic_\": \"_kursiv_\",\n    \"strikethrough\": \"durchgestrichen\",\n    \"- Lists\": \"- Listen\",\n    \"1. Numbered lists\": \"Erste Liste\",\n    \"[Links](http://www.zeronet.io)\": \"[Links](http://www.zeronet.io)\",\n    \"[References][1]<br>[1]: Can be used\": \"[Referenz][1]<br>[1]: Kann benutzt werden\",\n    \"&gt; Quotes\": \"&gt; Ziate\",\n    \"--- Horizontal rule\": \"--- Horizontale Linie\",\n\n    \"More comments\": \"Mehr Kommentare...\",\n    \"Sign in as...\": \"Anmelden als...\",\n    \"Submit comment\": \"Kommentieren\",\n    \"Please sign in\": \"Bitte anmelden\",\n    \"new comment\": \"Neuer Kommentar\",\n    \"used: \": \"Benutzt: \",\n\n    \" minutes ago\": \" Minuten vergangen\",\n    \" hours ago\": \" Stunden vergangen\",\n    \" days ago\": \" Tage vergangen\",\n    \"on \": \"den \",\n    \"Just now\": \"Gerade\",\n    \"less than 1 min read\": \"Unter einer Minute zu lesen\",\n    \" min read\": \" Minuten zu lesen\",\n\n    \"Content changed\": \"Inhalt wurde verändert\",\n    \"Sign &amp; Publish new content\": \"Anmelden und veröffentliche neuen Inhalt\",\n\n    \" Editing: \": \" Bearbeiten: \",\n    \"Save\": \"Speichern\",\n    \"Cancel\": \"Abbrechen\",\n    \"Delete \": \"Löschen\",\n\n    \"Prev page\": \"Vorherige Seite\",\n    \"Next page\": \"Nächste Seite\",\n\n    \"Not found\": \"Nicht gefunden\",\n    \"Content changed\": \"Inhalt wurde verändert\",\n}\n~~~~",
+				"added": 1511131709
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_1057_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You have to remove the last , character.You can check it by using https://jsonlint.com/\n\nThank you!!! So easy... if you know what to do.",
+				"added": 1511132518
+			},
+			{
+				"comment_id": 5,
+				"body": "Problem solved....",
+				"added": 1511132541
+			}
+		],
+		"1511152066_19czZMtAoro4WBfRHtjRrSLosuwRnfFt4r": [
+			{
+				"comment_id": 6,
+				"body": "> [bayw4oq7wx5pbgb5](#comment_1_16adTqUqDgQ9FvXMtskaN8v2XjvFgYKfJd): you have to make the video optional [...]\n\nHave you an example how to implement the \"optional\"-feature? So step by step. Thanks.",
+				"added": 1511192075
+			}
+		],
+		"1511191408_19czZMtAoro4WBfRHtjRrSLosuwRnfFt4r": []
+	},
+	"comment_vote": {
+		"1057_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_16adTqUqDgQ9FvXMtskaN8v2XjvFgYKfJd": 1
+	}
+}

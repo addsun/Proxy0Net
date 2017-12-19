@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx2fReJbRbvHTCCZjJ3gxycVJFF0c4Jpub29otGADPz1AjrbUtN9Fbafhhulv8aFmi0pTgNiT93MENK/K+klKOY=",
+ "cert_user_id": "antilopa@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "bb63fde178069d263390864f3bf1370df4472e31a9ffa477d6a428680226ec67",
+   "size": 1480
+  },
+  "data.json": {
+   "sha512": "e1879688a560b62c1c516cb895fa2d1aee6a89457329f3e19745ecd973b7f805",
+   "size": 1150
+  }
+ },
+ "inner_path": "data/users/1B5fkUarCwBByKhX6gQvawLQQtu5jaKknT/content.json",
+ "modified": 1486047749,
+ "signs": {
+  "1B5fkUarCwBByKhX6gQvawLQQtu5jaKknT": "HN0NcBu20dBRUW6RkPHlycxCgtNS0oFBYEG4hYpmARS2go1t21HFc9RJ1JM8s52pUzu9XqL2XrwDM8LF/Ev8jtA="
+ }
+}

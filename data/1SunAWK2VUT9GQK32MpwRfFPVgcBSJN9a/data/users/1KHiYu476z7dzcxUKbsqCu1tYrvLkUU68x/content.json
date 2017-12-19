@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HFzEcRJDiEhhNRj9TTrtPqAuGkBw+7zRm+ssV4v5owFzSAUK/KeKQu844XuMSokU44WMaLmjr6cxE3swIJ64PlY=",
+ "cert_user_id": "cnhacker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0395706553c3e8d7f553dde172fd228e041fd67054839414dc4ae66024cfc5f2",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1KHiYu476z7dzcxUKbsqCu1tYrvLkUU68x/content.json",
+ "modified": 1503312482,
+ "signs": {
+  "1KHiYu476z7dzcxUKbsqCu1tYrvLkUU68x": "HOioGKiKiKJ9pt/p95Qt5hOxO/aC90lOvxJkM1RZswsreIQpGtnj9anwjhzvV7Dpe2IbExoYO8t3dHqeYv1aq2g="
+ }
+}

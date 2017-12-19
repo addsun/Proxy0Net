@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HIHgn4Q9yk64KOWG7/63AEr9QC1SFoXYCtUombNR0qRMfb3APc7X3pDDNzDHDGTfbDf8/Y6rzOkMj9uiR+G3EcI=",
+ "cert_user_id": "12hlearn@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bb0554b3a31b08b4dba000f6627cbe876ca9fb0b96ad276d6c98d6a399c54272",
+   "size": 34255
+  }
+ },
+ "inner_path": "data/users/1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE/content.json",
+ "modified": 1508648338,
+ "signs": {
+  "1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE": "G53aiW0zEG5CzQUiPdug6SHfj85hNsMb4BEBLEGh9YtHUOIDYpsKkaW3windHBD7vYPJ9DiBtzzS8s2x1hc4uMk="
+ }
+}

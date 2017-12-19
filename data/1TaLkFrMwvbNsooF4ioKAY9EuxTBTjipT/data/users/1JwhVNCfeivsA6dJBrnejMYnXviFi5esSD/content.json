@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMQFXQpLDF1dX8p2WcFglAuSUkaFzX7MoHVcb5jSBCxXdFCMCUziN/Ro/qgZtOFvwV1M7ifVxqXaDKj5lHsuCYw=",
+ "cert_user_id": "elliotaldersson@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d4d8766e8d787ea049e8989f1dc0f3c6da07c8426d44db5a43032295f65a8d9",
+   "size": 412
+  }
+ },
+ "inner_path": "data/users/1JwhVNCfeivsA6dJBrnejMYnXviFi5esSD/content.json",
+ "modified": 1506939175,
+ "signs": {
+  "1JwhVNCfeivsA6dJBrnejMYnXviFi5esSD": "HB2+i9xgD3mln+827hxMlqm7r1SWB0bLHni0HhlM1JsAeRTEWMKVhWJst6OoC2eLjIp/5fsKVbk4XopODPV/ru4="
+ }
+}

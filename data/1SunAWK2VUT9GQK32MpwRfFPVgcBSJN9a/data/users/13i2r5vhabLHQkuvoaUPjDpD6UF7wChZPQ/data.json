@@ -1,0 +1,27 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Coinbroker",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Átlagos ZeroNet felhasználó",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1510609267,
+			"body": "Szia ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "13i2r5vhabLHQkuvoaUPjDpD6UF7wChZPQ",
+			"user_name": "Coinbroker",
+			"date_added": 1510609282
+		}
+	]
+}

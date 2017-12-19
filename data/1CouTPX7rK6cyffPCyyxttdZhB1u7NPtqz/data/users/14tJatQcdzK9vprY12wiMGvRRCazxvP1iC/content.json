@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "G6MJRiWeG/+AC4Euh6bGtFqh8M/G6DKWmJwarffrXmqMTgrFnNs5hogY6WmG+l5/CBiQH6ngnsVy79wzbAq5E/A=",
+ "cert_user_id": "johnsonsid@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "06c90a3765c1422b741cf6d544fd28e4d3783775a454a9092f0afb1d7c2d0798",
+   "size": 195
+  }
+ },
+ "inner_path": "data/users/14tJatQcdzK9vprY12wiMGvRRCazxvP1iC/content.json",
+ "modified": 1486546417,
+ "signs": {
+  "14tJatQcdzK9vprY12wiMGvRRCazxvP1iC": "GzVfSIlXFk/Kf9aOdA5NWYQjPmZMyN+SCXhsKwQxTx3n1SqxtLaj/mJacWDTsm23Nce9bMNCqNNafpRS03Mb438="
+ }
+}

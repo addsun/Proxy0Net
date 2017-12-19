@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "[search] End-to-end encryption project (chats, others...)",
+			"body": "Hello,\nSome body here work on a end-to-end encryption project ? Hosted on github, gitltab, or wathever.\nI would like know (and learn) how it works with asymmetric encryption.\nThx.",
+			"added": 1501514341
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1ChnrTG81t6NbinCLMuar7hSCMDypnK1Tt": [
+			{
+				"comment_id": 1,
+				"body": "It's just for information/knowledge purpose, in fact I already search on github but I've not found really good content too learn from scratch.\nBut thank you and I will continue to search :)",
+				"added": 1501521679
+			},
+			{
+				"comment_id": 2,
+				"body": "@peeper of course I can find it.\nex : Readme of zeronet's mail project.\n```\nZeroMail\nEnd-to-end encrypted, P2P messaging site.\n```\nI need documentation, explanation of encryption algorithm etc etc... \nBecause agree me it's poorly documented.",
+				"added": 1501524227
+			},
+			{
+				"comment_id": 3,
+				"body": "> [glightstar](#comment_12_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): ThunderWave's private chat has End2End-Encryption!\n> (I'm the maker ;))\n> \n> It uses the default crypto-function provided with the ZeroNet-API.\n>\n> PS.: ThunderWave uses both, ecies and aes for private chats.\n\nHo... How I missed this doc... Shame on me, thanks for the sharing. Now I should learn more about the implementation :)",
+				"added": 1501530500
+			}
+		]
+	},
+	"comment_vote": {
+		"92_1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": 1
+	}
+}

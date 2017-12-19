@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HCz331lC7R47ky2JV2/1JZ9ugYHUfdOIcnQypm11burAm4JHHLOk+/UKZhVp767QsD93X1HWpEIdfU4ioY0emHY=",
+ "cert_user_id": "citadell@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e990cf3377ba845d8115eaf1235c227aa9bb0fb713524b21b2bd07c3226c60c2",
+   "size": 2026
+  }
+ },
+ "inner_path": "data/users/1GE4QKLQM3L6r1NngDQEuEzwNBqHoBiXtL/content.json",
+ "modified": 1513113298,
+ "signs": {
+  "1GE4QKLQM3L6r1NngDQEuEzwNBqHoBiXtL": "HAAYgZYeHTIzul+c/jUOoexprtlIRheFlXmKCA7szd6pQW+XPqfP9Is9VKbdWHgzokF/XZdM49fARa+oRKGDrN4="
+ }
+}

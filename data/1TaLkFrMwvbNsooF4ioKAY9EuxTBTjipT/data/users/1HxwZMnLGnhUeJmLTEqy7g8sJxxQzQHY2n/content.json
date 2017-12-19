@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G+i2O/mdcTQ3smA/c6MkApFw60qCh0S1UVNoqm07nNXK7WtgyHezFCUJ47tgs8zY3cCN11G5r7fcQJLT4JiMeas=",
+ "cert_user_id": "johndoehere@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1557996975835dbad1dff8c0099433d9ce7521704159e9db57403d597f49365b",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/1HxwZMnLGnhUeJmLTEqy7g8sJxxQzQHY2n/content.json",
+ "modified": 1509958474,
+ "signs": {
+  "1HxwZMnLGnhUeJmLTEqy7g8sJxxQzQHY2n": "HNYYyXyKOivNiu1JsFuJG3ElxAgmI1+pRXU/XsqQPUEzfVlR3R3LfR5WCUi9lj+ATEpOqi+5fbMaYA+Y7SOITlo="
+ }
+}

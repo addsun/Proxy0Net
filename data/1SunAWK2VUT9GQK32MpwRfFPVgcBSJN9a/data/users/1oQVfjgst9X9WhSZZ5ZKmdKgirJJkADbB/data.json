@@ -1,0 +1,43 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Tofunetwork",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508924927,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1508946867": 1508965499
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Afg1rf238znuYSE7Lbvd5bXdBh35iWGQX",
+			"user_name": "FiveYellowMice",
+			"date_added": 1508924951
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1AJbVCzQvJCiBMcdeQpZCKbyHdRxKYW7Jf",
+			"user_name": "Camnter",
+			"date_added": 1508924955
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY",
+			"user_name": "Shouko",
+			"date_added": 1508924956
+		}
+	]
+}

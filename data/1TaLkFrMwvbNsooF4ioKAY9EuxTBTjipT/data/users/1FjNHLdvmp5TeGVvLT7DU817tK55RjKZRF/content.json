@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGPbmCBVCcRtM7yMS3NOEZnTkIQyqLTwwOIv6xLf1R1xXkJouHDN4eb3he5zdiWF+NTlohXLmyDCQmGlK+K8S0Q=",
+ "cert_user_id": "redhat@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6d1ecfbe555fe956e5ee626f3fd0e309ea20ec054a35611f4d7ebf3cdf92c099",
+   "size": 450
+  }
+ },
+ "inner_path": "data/users/1FjNHLdvmp5TeGVvLT7DU817tK55RjKZRF/content.json",
+ "modified": 1500546051,
+ "signs": {
+  "1FjNHLdvmp5TeGVvLT7DU817tK55RjKZRF": "G/hg4ZAXPbXqz1eZTlGe+0LvB4QoaHv7qynMPvVf0bTIHCQ4saDpFb2ZDh1++E6ezU3QkmG4nCun0IDdP89qNkQ="
+ }
+}

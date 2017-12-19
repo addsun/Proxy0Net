@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7vsBKOOkZkz/KAJMG+oaCLb2Uk2WBFyS9MfuS9MRl9u56QKT8eAOhjagYMpGlsHFRV9oARUTmwWyPJD1HcCLA0=",
+ "cert_user_id": "happyrabbit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e62e0c35d9731c9fd4c87670dd1266cd3d153a182628129ef65c7e95f0e08aa4",
+   "size": 617
+  }
+ },
+ "inner_path": "data/users/1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT/content.json",
+ "modified": 1510788137,
+ "signs": {
+  "1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT": "G2zU7Z88QWTDSBi7TAOTFlPRy2mCDa7s6sKE/c8bmiVsbbXKfL6nWhc2fZ81mP3boqlm3UdlS6kvcbXvhUmD3Uc="
+ }
+}

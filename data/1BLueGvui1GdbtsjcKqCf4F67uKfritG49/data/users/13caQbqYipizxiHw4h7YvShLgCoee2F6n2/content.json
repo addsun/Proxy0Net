@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G4tGVIYe1PrrZ4RgHHdgTSH6Oc0bd4blV1sqo59yPMjDcUCRmJ40yBWRg0I2ufFRKEVgpwbidpf4gF2El8wxLFo=",
+ "cert_user_id": "monsanto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1434f8dfc2ed096a0e9e20ae05f1ef9c9f468f90eb95a9f599ebe076e43e09c0",
+   "size": 130
+  }
+ },
+ "inner_path": "data/users/13caQbqYipizxiHw4h7YvShLgCoee2F6n2/content.json",
+ "modified": 1495797703,
+ "signs": {
+  "13caQbqYipizxiHw4h7YvShLgCoee2F6n2": "G6c079WSl5alSJGEL3daOpucYHDlNDXXbx1O0MnsQI9kQ1bMiMr4BHNdGe7GuQ0OU+/o2ogx5R0vWMkBoqllv4M="
+ }
+}

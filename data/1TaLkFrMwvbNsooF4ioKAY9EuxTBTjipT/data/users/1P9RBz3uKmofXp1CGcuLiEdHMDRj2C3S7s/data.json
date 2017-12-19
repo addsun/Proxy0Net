@@ -1,0 +1,58 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "PSA For Russian Users",
+			"body": "Learn how to configure ZeroNet to use Tor if you haven't yet, and on top of that learn how to configure Tor to use bridges such as obfs4 and Meek.\n\nDon't let your government take your right to censorship-free and anonymous communication away from you, get as many of your friends as possible to use Tor and ZeroNet.\n\nhttps://www.torproject.org/docs/bridges.html\nhttps://zeronet.readthedocs.io/en/latest/faq/#how-to-use-zeronet-with-tor",
+			"added": 1502170286
+		},
+		{
+			"topic_id": 2,
+			"title": "Xinjiang Province in China Forcing People to Install Spyware",
+			"body": "https://www.theregister.co.uk/2017/07/24/china_installing_mobile_spyware/\n\nPrivacy is dead",
+			"added": 1502681088
+		}
+	],
+	"topic_vote": {
+		"1_1P9RBz3uKmofXp1CGcuLiEdHMDRj2C3S7s": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"2_14ciQjA3TAFm1Sju8F3wDXRKgYvqoJ5w3B": [
+			{
+				"comment_id": 1,
+				"body": "I wish them luck defeating bridges (especially domain fronting ones)",
+				"added": 1500680776
+			}
+		],
+		"1_164LcDqc1cft4e73Cdm3jeDA1rHcftyr7Z": [
+			{
+				"comment_id": 2,
+				"body": "Yes, but post to clearnet and elsewhere too for maximum visibility.",
+				"added": 1501009675
+			}
+		],
+		"1_1Hv2qHowmG8sURX51L4zXQDDxakF6XgEvB": [
+			{
+				"comment_id": 3,
+				"body": "Learn as much as you can about evading censorship. Write it down and distribute to your friends. Don't let fellow Russians forget what the open internet is like.",
+				"added": 1502169199
+			}
+		],
+		"1_1FhAYRUS5wgHGeZHtergg1rWU4diKnKuuU": [
+			{
+				"comment_id": 4,
+				"body": "Don't reuse bitcoin addresses, generate a fresh one for your site and don't withdraw coins sent to it in a way that leaks your real identity. Problem solved. Not a problem with ZeroNet.",
+				"added": 1503026934
+			}
+		]
+	},
+	"comment_vote": {
+		"9_163qySY2DPqhhxhinT9SAF5D4BXzoZvp6z": 1,
+		"14_1HGr5q2yEov55cZf7NE5qBkJvTVSJZVM6g": 1,
+		"42_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"434_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"455_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

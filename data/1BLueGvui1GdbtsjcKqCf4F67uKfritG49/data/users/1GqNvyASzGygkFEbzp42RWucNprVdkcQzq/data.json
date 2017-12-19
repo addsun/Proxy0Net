@@ -1,0 +1,140 @@
+{
+	"next_post_id": 10,
+	"next_comment_id": 10,
+	"next_follow_id": 5,
+	"avatar": "jpg",
+	"user_name": "Chenshaoju",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Twitter@chenshaoju\nBitmessage:BM-2cV1rZjBXRjALksWPT7Pv4dCb2C6We1XdA",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472007973,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1472008040,
+			"body": "这是一个测试，用于测试 Me.Zero 工作是否正常。",
+			"date_added": 1472008038
+		},
+		{
+			"post_id": 1478934952,
+			"date_added": 1478934949,
+			"meta": "{\"img\":\"700,700,fffbaaa878b94863655b8174876899555a9b142011153435,00000010000012345111001464781000319A3400008B589400006C88D500024644CE8008FE775D8000AFF5DA100001110000\"}"
+		},
+		{
+			"post_id": 1479644169,
+			"body": "打得不错～ ",
+			"date_added": 1479644165,
+			"meta": "{\"img\":\"900,675,543532521853742862752973a74553764663aa9a98777547,0011221111134111144014333553401677788756169ABACA60004435D5406010600001101EAB0FF1\"}"
+		},
+		{
+			"post_id": 1482910396,
+			"body": "Test2",
+			"date_added": 1482910391
+		},
+		{
+			"post_id": 1485428727,
+			"body": "Test3",
+			"date_added": 1485428721
+		},
+		{
+			"post_id": 1493716514,
+			"body": "发图测试2",
+			"date_added": 1493716507,
+			"meta": "{\"img\":\"900,506,4565777899aa99977867866688879933489a688455677,012333345306434347830233948A73093B9C7D7302B4322E8801C4328255\"}"
+		},
+		{
+			"post_id": 1494470186,
+			"body": "研究了一下 ZeroNet 的参数，所有参数都可以在 src/config.py 文件中找到，只需要创建 zeronet.cmd 快捷方式，并在快捷方式中的目标参数中的末尾加上想要设置的参数即可，比如：\nzeronet.cmd --tor_proxy 127.0.0.1:1080\n备注：通常，不建议直接修改 config.py 文件，因为每次升级会覆盖掉该文件。\n更新：现在的ZeroNet是按系统封装，可能不是 zeronet.cmd ，而是 zeronet.exe ，参数获取和使用方法不变。",
+			"date_added": 1494470178,
+			"meta": "{\"img\":\"900,517,cccddcdddccdbccbcdeeeeedfffded,012133435526666766888866677688882229226888629776688862992688\"}"
+		},
+		{
+			"post_id": 1496037771,
+			"body": "如果不希望在ZeroNet启动后自动打开浏览器（通常用于服务器环境），可创建一个快捷方式，并在快捷方式末尾加上参数： --open_browser \"\" ，即可。",
+			"date_added": 1496037762,
+			"meta": "{\"img\":\"900,522,dcddddeeedcccaacccedefeffff,012222113400100051511627777772228888888210716288826671622222\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Booma: ....",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1485428727",
+			"date_added": 1485428799
+		},
+		{
+			"comment_id": 2,
+			"body": "@Booma: OK，我研究研究，感谢。",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1485428727",
+			"date_added": 1485429910
+		},
+		{
+			"comment_id": 3,
+			"body": "@P2P: 好久没更新ZeroNet了，正在测试内容分发机制有无变化）",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1493716514",
+			"date_added": 1493718687
+		},
+		{
+			"comment_id": 4,
+			"body": "@P2P: Hmmmm....可以缩小点数据传输量，也不错了。",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1493716514",
+			"date_added": 1493718855
+		},
+		{
+			"comment_id": 5,
+			"body": "@P2P: interesting,再观察观察。 :P",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1493716514",
+			"date_added": 1493719251
+		},
+		{
+			"comment_id": 6,
+			"body": "@P2P: 感谢点拨，原来这个论坛搬了，才知道。",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1494470186",
+			"date_added": 1494560672
+		},
+		{
+			"comment_id": 7,
+			"body": "@公共: 我这儿没找到这个文件，我研究一下，感谢。",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1494470186",
+			"date_added": 1494560840
+		},
+		{
+			"comment_id": 8,
+			"body": "@公共: 人比较懒，还是先用快捷方式把，等参数多了再用 zeronet.conf ）",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1494470186",
+			"date_added": 1494658862
+		},
+		{
+			"comment_id": 9,
+			"body": "@自由之潮 P2pwave: 我没有Linux服务器……不知道）",
+			"post_uri": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq_1496037771",
+			"date_added": 1497623118
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq",
+			"user_name": "Chenshaoju",
+			"date_added": 1482907722
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq",
+			"user_name": "Chenshaoju",
+			"date_added": 1493718655
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GqNvyASzGygkFEbzp42RWucNprVdkcQzq",
+			"user_name": "Chenshaoju",
+			"date_added": 1493738088
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HK5d7ayFFcihsXq2TEt0rfFsQ5uulmGk4CR4ycIfO9BjXgYUPxgHl7g57VaMNSBw8VWivseLlBwnnAq/hwp7CPM=",
+ "cert_user_id": "perpipon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7530d9b22787a85464bb65eb4f4cefd8e871dcbc6cd4a002a2c9b6b0f01da9ad",
+   "size": 975
+  }
+ },
+ "files_optional": {
+  "1504528806.jpg": {
+   "sha512": "bc1c4229f16d6ecedf1d5da66258ba0094daf79ae594b7fe76853925542069e8",
+   "size": 56825
+  }
+ },
+ "inner_path": "data/users/1DBXmZu8Mf15ruTetN6FgWMkNaTFzqzdZB/content.json",
+ "modified": 1504538227,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1DBXmZu8Mf15ruTetN6FgWMkNaTFzqzdZB": "G5UQKryivDLFsJlcs/jVallW1Xj8b9WdWl+4CDeiCExYOjf7qmQS0YbEUo2fgk4pntfKxZFDePamWZRpeGcvS9A="
+ }
+}

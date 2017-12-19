@@ -1,0 +1,41 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_1BuwB8WTT7SfiTncivoMudckGtswexyP5E": 1,
+		"2_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": 1,
+		"4_1BuwB8WTT7SfiTncivoMudckGtswexyP5E": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1GJoeXr9e2nr5qEWVv6XqLEqHTvwF2a1Hx": [
+			{
+				"comment_id": 1,
+				"body": "hey guys\n\nthe thing is like, how would you \"steal\" a file that is one level up from the published stuff?\nI mean, this is NOT distributed - only websites folders are distributed, which is public data:\n\n○ → docker exec -ti zeronet ls data/\n\n12X2uhMurZVC2Z1ZdFFxUot5fNPeJMVApP  1XdLr61DgYL2RLFzb6aDMxhbzHSP5sbrx\n1FiSxj2yDPeGuuf6iBwRAXvEMQJATAZNt6  1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\n1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D     content.db\n1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH       lock.pid\n1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F  mutes.json\n1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB          sites.json\n1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT           users.json\n1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV\n\nthese files are NOT propagated:\ncontent.db\nlock.pid\nmutes.json\nsites.json\nusers.json\n\nif anyone wants to try steal my identity, which is a good try game, here is my zeronet address: 12X2uhMurZVC2Z1ZdFFxUot5fNPeJMVApP\n\nGreat point BTW. Thinking in advance and wondering about stuff like this keeps we ahead for changes when needed.\n\ncheers,\nM4rc0",
+				"added": 1507113129
+			},
+			{
+				"comment_id": 2,
+				"body": "forgot to mention, as the original question was \"how do you protect your identity\" i assume you meant only in this zeronet network, within json files. I use docker with volumes, and have backup for the volumes, this is my approach on it. cheers",
+				"added": 1507114305
+			}
+		],
+		"2_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 3,
+				"body": "the goatse almost killed me man hahahaha",
+				"added": 1507481408
+			}
+		]
+	},
+	"comment_vote": {
+		"10_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq": 1,
+		"2_16eaG7Jf6Z3WSBaQakZrmYf35A4JSZnMth": 1,
+		"1_16eaG7Jf6Z3WSBaQakZrmYf35A4JSZnMth": 1,
+		"2_1GpmErjpZ5pWPRVEhnTeDK6PoFKzQNDSV3": 1,
+		"1_1GpmErjpZ5pWPRVEhnTeDK6PoFKzQNDSV3": 1,
+		"2_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"56_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1
+	}
+}

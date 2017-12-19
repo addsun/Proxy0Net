@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GylPmNt0AGczSlR9ujUakRxDdwmSOtHuh9m2C/4UdtjdGbdmS5hrIlVHQqsTte9A5NE1txLrojYM18c5dtYv1pU=",
+ "cert_user_id": "zling@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8cd092457c226f455257ff40f573200443b0643ec768ff69585299c74b8d4aa3",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/12gdFUazg15n68AHcpemBVjWz7XXroaiR6/content.json",
+ "modified": 1510542423,
+ "signs": {
+  "12gdFUazg15n68AHcpemBVjWz7XXroaiR6": "HKnG0OrDGLpbJX64/r0o4mz2VrIlsovUR6f/zRrbzS2uG7guD8ar3JT8RrNJg2FmgdYXS0zP/tRe/suocF88uO0="
+ }
+}

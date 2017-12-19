@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G6DAR22Z7psFO0xqHfmbL9dqNVsOaCM6u56JmsAA65DEV/XHL32Rb9SrUyufPL+hendhb5vRgJSf9KarP8lCik8=",
+ "cert_user_id": "zeratax@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "bf59650e99207e047d38ecae00da4d8ef323cafb20b80603dd60e8e40c2a9411",
+   "size": 1139
+  },
+  "data.json": {
+   "sha512": "ae8456e64903a20a31c079052150392550e699941580a80664b10b5cad51e7e6",
+   "size": 2649
+  }
+ },
+ "inner_path": "data/users/1KWfi9GbSvnLzLM3QbLSBhvRRiB2aq5rjH/content.json",
+ "modified": 1480511355.314381,
+ "signs": {
+  "1KWfi9GbSvnLzLM3QbLSBhvRRiB2aq5rjH": "HHTqyoEtan8217vFOuyjpOojkpScOWDq5J+LlLUJhLuCULshyd6rXMorN0muz/RKOBRb5cS4VHnoWJ1F/DsJCS4="
+ }
+}

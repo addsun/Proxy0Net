@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HP0hjN01JGK7yiOK9Mw+Tbq1lTENg2evIBlmxjhOfPXRGAC7c3zwjgRLBe8AB5IfmKFkVeqHr+3NWQNWkQTen8Q=",
+ "cert_user_id": "redeauxtech@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "69ff3bddfe27b6ad48840479178c1d5e000ded9dd95d4dc9c4de04023a8a25ca",
+   "size": 437
+  }
+ },
+ "inner_path": "data/users/1JWy1JCSqPkQ7sLhb32FwJnHGeGPssrzNx/content.json",
+ "modified": 1510944828,
+ "signs": {
+  "1JWy1JCSqPkQ7sLhb32FwJnHGeGPssrzNx": "GxBECP1zYC5UFSAfjWQUNb6E2Ik/djOWafUo27GmTurYEYehmJoKP1oDD3h37TYB32o+dBgYUw/pgBVIv8WufXk="
+ }
+}

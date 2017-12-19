@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HEUdvMtc1kCaWlMIhBpC4eUoO6X/Hw/5UO/gCx53USSawtuXjD5FiPLTq2rgmfQdCib4sL0BpIBd8T5GgEGtdOs=",
+ "cert_user_id": "avynet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "36b0d38100a5e89511b952af42cc5059031d769b44c2c12ff324e9e2f3db3710",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/1GrXVaQodGPCff1ZQAKcWm4pa7i9nsLkPR/content.json",
+ "modified": 1505385431,
+ "signs": {
+  "1GrXVaQodGPCff1ZQAKcWm4pa7i9nsLkPR": "HIusUUDXTx9yDtqiq9kkIUoW4tIWWAfGd5yMDfv9GgJXPaZiKkozwxLTWnv5i+pdjq8jGJvoufVoJTiCxKxeaNU="
+ }
+}

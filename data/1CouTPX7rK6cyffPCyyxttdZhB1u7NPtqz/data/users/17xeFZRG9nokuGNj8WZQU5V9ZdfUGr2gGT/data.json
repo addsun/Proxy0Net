@@ -1,0 +1,44 @@
+{
+	"next_comment_id": 7,
+	"user_name": "Testapp",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Dukeduan: 我刚来 ZeroNet 的时候内容还不算多，第一次启动不算慢。再配合我在渣网络下养成的异步浏览法，体验并不算太差。但是目前我在新设备上开一个节点的时候就可以感受到一些用户数多的站点，比如 ZeroTalk 和一些热门的 ZeroMe Hub 同步完需要很长时间。",
+			"post_uri": "1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A_1485088536",
+			"date_added": 1485137784
+		},
+		{
+			"comment_id": 2,
+			"body": "首先，他发的是链接而不是正文，图片由于是可选文件不占空间，应该还好。再说理论上还可以提升限额。",
+			"post_uri": "1Eb5t7dUbRC2STfwf9iPeEYkPmX2tmLUds_1485136688",
+			"date_added": 1485144370
+		},
+		{
+			"comment_id": 3,
+			"body": "@12hlearn: 不安全。建议用小号或者自己开个节点连上去。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1485234695",
+			"date_added": 1485252055
+		},
+		{
+			"comment_id": 4,
+			"body": "这玩意儿还有帐号密码？",
+			"post_uri": "17ufYJKgjNPmkTDEbXVQJE2whMbpawMK4K_1485663834",
+			"date_added": 1485683998
+		},
+		{
+			"comment_id": 5,
+			"body": "@P2P: \n```\n>>> import locale\n>>> print(locale.getdefaultlocale())\n(None, None)\n```\n手机上用这个方法获取不到默认语言，可能要考虑其他方法或者直接射入 kivy 。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486353683",
+			"date_added": 1486390727
+		},
+		{
+			"comment_id": 6,
+			"body": "为什么不单独给自己提高用户内容限额呢？",
+			"post_uri": "1BA2fUtT5cqyWHx4p3caoEYo2YFGU5dnn4_1486804467",
+			"date_added": 1486810065
+		}
+	]
+}

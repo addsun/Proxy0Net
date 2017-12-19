@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HHU23k/RegaAsU5wXGUcFcDS2Std0b/xQf4FgxNhyDF2Ioi3rhHGSJROWcF8tljl1EtL7Sp06GnWzn/hXYV0MS8=",
+ "cert_user_id": "vipor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3dd51998c2ea2aaab58cbd2dceaae5c15eb28448a4ced23cd1ff080537b257b5",
+   "size": 1514
+  }
+ },
+ "files_optional": {
+  "1511070279.jpg": {
+   "sha512": "bad9178f353486ad3cd416ba0f07e60b4aae21bd28482a88a3dac865552d6963",
+   "size": 52122
+  },
+  "1511070314.jpg": {
+   "sha512": "b154e52ddd47e8e5dd418c61df16babdfd3209c88c51cc8736fc155d0bd6b8f2",
+   "size": 124248
+  },
+  "1511070391.jpg": {
+   "sha512": "90b37a6dba9ae82cc2b44167d4dfc9552d11400c14c6f9f0faa6d7eafcbd7210",
+   "size": 119031
+  }
+ },
+ "inner_path": "data/users/12MxK9TrswQgtBoQRpFpRrvGeA2i1wyPQr/content.json",
+ "modified": 1512376827,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12MxK9TrswQgtBoQRpFpRrvGeA2i1wyPQr": "GzK+FhO9Jd3amlWKBfVSWHw0ESAxe+MRNU0ksKlOrpy1V75Y3n58iWaK9XivkyijAHg3NvLEB/6CTorUoQRLN+o="
+ }
+}

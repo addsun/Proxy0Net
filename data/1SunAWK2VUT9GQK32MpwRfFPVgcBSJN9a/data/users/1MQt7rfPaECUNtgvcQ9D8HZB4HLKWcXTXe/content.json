@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5PZk0O1LpZHbE5KpbzZMHxB3Se9ywUEyF+d4Z6H/D1Ajw1+j6/j2AVJRKeZPdM/BIlhPazPjfKalBeytCs/4wQ=",
+ "cert_user_id": "porschede@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "909f1b2c4c7326bb4bedaf16b9bddf4b14b05130d355f7b9aab52c46dee20f0d",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1MQt7rfPaECUNtgvcQ9D8HZB4HLKWcXTXe/content.json",
+ "modified": 1508163961,
+ "signs": {
+  "1MQt7rfPaECUNtgvcQ9D8HZB4HLKWcXTXe": "G9KYVXSGfYU82pbg+5zt6B39s149v7hbLKY99MiJGjfgLNrXvQGOJKHaCgadsL1cO/88Ld80q/Sm8LQc1rO91ao="
+ }
+}

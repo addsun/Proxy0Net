@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCk30QMN4s59h3C34CPla7iFdSyUXeGFdPHv/4aAMYMyZ7HogtPOYVWCIH7QOOEMAn864TpmZwuJ/FDtfhVbP8g=",
+ "cert_user_id": "newsmth@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50159ab52bf75cd81f1714bfc3f62795e30b801b8f7a1b381f905e2ca6c7b5d3",
+   "size": 360
+  }
+ },
+ "inner_path": "data/users/1FvnsJWRafUBWfdGpLm9DbtMQwFTaGjQBD/content.json",
+ "modified": 1507988036,
+ "signs": {
+  "1FvnsJWRafUBWfdGpLm9DbtMQwFTaGjQBD": "G9uymepRbg4P9l3KAqa7K+QQmRhgzP+mqXG+BkoY5Zz7ZXeUZechjXXkVepu91J7Z6GY7cl0JKOmjtycTUIUmL4="
+ }
+}

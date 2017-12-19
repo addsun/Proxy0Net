@@ -1,0 +1,39 @@
+{
+	"next_comment_id": 14,
+	"user_name": "Chickenman",
+	"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+	"post_like": {
+		"1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1507119841": 1507120386,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1507295772": 1507297478,
+		"1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt_1507489231": 1507507984,
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1507485519": 1507508003,
+		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508198409": 1508207515,
+		"16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508289034": 1508291522
+	},
+	"comment": [
+		{
+			"comment_id": 5,
+			"body": "呼叫 @P2P 大神，这个可以翻译后作为储备",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508198409",
+			"date_added": 1508203635
+		},
+		{
+			"comment_id": 7,
+			"body": "@猫叉酱（小号）: 具体详细的操作，否则真的模仿不来。",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508198409",
+			"date_added": 1508204152
+		},
+		{
+			"comment_id": 10,
+			"body": "@43110: 修改成这样\n[global]\nlanguage = zh\noptional_limit = 10%\ntrackers = zero://192.168.1.1:15441\n\n然后把这个/Android/data/net.mkg20001.zeronet/files/zero/plugins/disabled-Bootstrapper文件夹的名字disabled-Bootstrapper修改成Bootstrapper。是吧？",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508198409",
+			"date_added": 1508206378
+		},
+		{
+			"comment_id": 12,
+			"body": "把zeronet.conf 里的内容修改成以下这样：\n[global]\nlanguage = zh\noptional_limit = 10%\ntrackers = zero://xxx.xxx.xxx.xxx:15441\n\n然后把这个.../zero/plugins/disabled-Bootstrapper文件夹名“disabled-Bootstrapper”修改成“Bootstrapper”。\n操作准确吗？\nipconfig -all，回车，xxx.xxx.xxx.xxx是我的IPV4地址，我在想IPV6支持不",
+			"post_uri": "16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T_1508198409",
+			"date_added": 1508207033
+		}
+	]
+}

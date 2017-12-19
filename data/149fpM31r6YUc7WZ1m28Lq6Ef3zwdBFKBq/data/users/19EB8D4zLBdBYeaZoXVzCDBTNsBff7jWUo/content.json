@@ -1,0 +1,24 @@
+{
+ "address": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+ "cert_auth_type": "web",
+ "cert_sign": "IGMihgIp/N1pjNX+iUFKXqOOTNh7lsrWgCtuQpy/OWuKU+K3Og5NPL3cKq2JW4HHW+VgvLckmED+GAgUB64H4qk=",
+ "cert_user_id": "kszys@zeropolska.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ea13b2587c69adede05f42dd0a02f6a6e751b3f97d2c786184a4fde040fdf4ae",
+   "size": 556
+  }
+ },
+ "files_optional": {
+  "1493959968.jpg": {
+   "sha512": "016224dfc4c1f8100a858fce27337d37c7cdba39369988a862af57017ea6bdce",
+   "size": 108188
+  }
+ },
+ "inner_path": "data/users/19EB8D4zLBdBYeaZoXVzCDBTNsBff7jWUo/content.json",
+ "modified": 1493959966,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19EB8D4zLBdBYeaZoXVzCDBTNsBff7jWUo": "G1p3sCwj8Q3cnPHeh00Sqy+5KFJBjG6ezT6cJl28hnVmE1rvqaa6qfDqwZ4JY0SwDPs9fILT8mP2fagGBDswyQc="
+ }
+}

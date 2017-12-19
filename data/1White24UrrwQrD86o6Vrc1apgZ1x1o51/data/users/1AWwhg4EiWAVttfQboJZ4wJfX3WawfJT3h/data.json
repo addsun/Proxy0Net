@@ -1,0 +1,125 @@
+{
+	"next_comment_id": 18,
+	"user_name": "Binchan",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1495216291": 1495367738,
+		"1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1496083557": 1496119777,
+		"1AABRF6MEZpwihXdJSPNdygREjis6LzD2w_1498131278": 1498148170,
+		"1AABRF6MEZpwihXdJSPNdygREjis6LzD2w_1498481353": 1498483414,
+		"15RjhDcq8atUmPHEH9w6nUmWeHDYniyzpT_1498646420": 1498684848,
+		"1PUwRK6yhb3KGGYCwpZzGBSMaZ4Ap54DJP_1500818794": 1500884576,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1501608870": 1501630712,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1501969900": 1502038726,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1502618087": 1502850226,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1507741525": 1507752849,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1507929418": 1507947465,
+		"1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1507936156": 1507959689,
+		"1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1511871712": 1511920850,
+		"1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1512223859": 1512276709
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "One of my best game memory in childhood :D",
+			"post_uri": "1eQKH8VcGoV17tUEfCHad8pMix9qR8aVu_1492945793",
+			"date_added": 1493097476
+		},
+		{
+			"comment_id": 2,
+			"body": "Welcome to ZeroNet! The rhythm is a bit slow here, but still you can find many interesting things. Besides the default sites you are visiting, you can discover some interesting stuff on [ZeroWiki](/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/) and from search engine [Kaffiene](/kaffiene.bit/). Also check the official [Help & FAQ thread](/Talk.ZeroNetwork.bit/?Topic:8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj) if you have any question. Hope you have a good time here :)",
+			"post_uri": "14J1BJYEpzk48EE1zXX7MzUiZwYsqbGwBQ_1496488984",
+			"date_added": 1496576932
+		},
+		{
+			"comment_id": 3,
+			"body": "My pleasure :D Also the theme on userstyles.org has been unmaintained for some time, check [this post on ZeroTalk](/Talk.ZeroNetwork.bit/?Topic:1_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/A+ZeroNet+Dark+Theme) for the sources of new version. `ZeroSites` is included ;)",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1497042260",
+			"date_added": 1497060978
+		},
+		{
+			"comment_id": 4,
+			"body": "@Grimsdottir: The link for git.gnu.io doesn't link to the updated version, try [this one](https://git.gnu.io/chbinnc/Userscripts/raw/master/Userstyles/zeronet-dark-theme.userstyle.css). Thx :)",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1497042260",
+			"date_added": 1497082671
+		},
+		{
+			"comment_id": 5,
+			"body": "@Grimsdottir: It sounds like you are using ZeroNet on a different server instead of 127.0.0.1. In the bottom of the css there are quite some addresses for special sites, so you need to replace all of them.",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1497042260",
+			"date_added": 1497083904
+		},
+		{
+			"comment_id": 6,
+			"body": "@Grimsdottir: Hey, I replace those domains in the bottom with regular expression. Could you just try again and tell me if it works? :)",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1497042260",
+			"date_added": 1497086952
+		},
+		{
+			"comment_id": 7,
+			"body": "@Grimsdottir: That is weird. There isn't any fundamental difference (if I didn't make some mistakes...) between the version on userstyles.org and the newest one. I'm quite sure it's because of the code in the bottom for specific sites.\nLike for latest comments on ZeroBlog\n```\n/* ZeroTalk */\n@-moz-document regexp(\"^https?://.*/Talk.ZeroNetwork.bit/.*\"),\nregexp(\"^https?://.*/0list.bit/.*\")\n{\n.comment {\nbackground-color: #242424 !important;\n}\n}\n```\nSorry I can't think of any possible cause. If you have time and interest, you can experiment it and find out the culprit by yourself :3",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1497042260",
+			"date_added": 1497200969
+		},
+		{
+			"comment_id": 8,
+			"body": "Here is a ZeroWiki of [un index pour répertorier les torrents français](/122nvvhftBeZq9a47WAdg9RpkzLeWTJuw5/)",
+			"post_uri": "1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn_1498589986",
+			"date_added": 1498606233
+		},
+		{
+			"comment_id": 9,
+			"body": "There is no diff and file change log, only the newest files signed by owner are served and updated. But you can git one by yourself.",
+			"post_uri": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj_1501637894",
+			"date_added": 1501638394
+		},
+		{
+			"comment_id": 10,
+			"body": "@Martinv: Yes. Except in some cases like asking your friend whose zeronet is still offline for it. From my experience the new file can spread very fast.",
+			"post_uri": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj_1501637894",
+			"date_added": 1501639934
+		},
+		{
+			"comment_id": 11,
+			"body": "@Martinv: As there is no git log, they can't get the old versions of their files. I don't know what non-official way will be.",
+			"post_uri": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj_1501637894",
+			"date_added": 1501741404
+		},
+		{
+			"comment_id": 12,
+			"body": "What about [multiple citizenship](https://en.wikipedia.org/wiki/Multiple_citizenship)? ;)",
+			"post_uri": "1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1510356938",
+			"date_added": 1510360219
+		},
+		{
+			"comment_id": 13,
+			"body": "I have this in the console: `GET \nhttp://192.168.1.110:43110/images/logo0.jpg     [HTTP/1.1 404 Not Found 21ms]` Do you have the file in the folder? Also svg files are not allowed to display to avoid wrapper escape [[ref]](https://github.com/HelloZeroNet/ZeroNet/search?utf8=%E2%9C%93&q=svg&type=)\n> Download directly accessed Pdf/Svg/Swf files instead of displaying them to avoid wrapper escape using in JS in SVG file. [Reported by Beardog108]",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1511871712",
+			"date_added": 1511921311
+		},
+		{
+			"comment_id": 14,
+			"body": "@Tdd: \n>I can click links and image shows up. \n\nMe too. If that is the problem, change \n`<img src=\"/images/logo0.jpg\" alt=\"sculpture\" data-action=\"zoom\" width=\"100%\">` to `<img src=\"../../images/logo0.jpg\" alt=\"sculpture\" data-action=\"zoom\" width=\"100%\">` works for me.",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1511871712",
+			"date_added": 1511973757
+		},
+		{
+			"comment_id": 15,
+			"body": "@Tdd: Also here is the reason I found from [imachug (GitCenter)'s tutorial](https://github.com/krixano/ZeroNet-Dev-Center/issues/28)\n> Because of zite address: `http://127.0.0.1:43110/1CyNApZ4zp7k3SSXsrW54vEFMHHBpDy3nm/`. So `/css/index.css` gets calculated as `http://127.0.0.1:43110/css/index.css`. So, using absolute paths is not allowed in ZeroNet.",
+			"post_uri": "1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ_1511871712",
+			"date_added": 1512040444
+		},
+		{
+			"comment_id": 16,
+			"body": "Cool project!",
+			"post_uri": "1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1512110231",
+			"date_added": 1512120740
+		},
+		{
+			"comment_id": 17,
+			"body": "Nice post! Btw, you need to add `\\` before your link or it becomes a sub-link of ZeroMe [@TomasCW](?Profile/1White24UrrwQrD86o6Vrc1apgZ1x1o51/1A6rok3j9w6paahtGoxrePy7SSkMz5A48s/zc456@zeroid.bit \"mention:1A6rok3j9w6paahtGoxrePy7SSkMz5A48s\") ",
+			"date_added": 1513469318,
+			"post_uri": "1A6rok3j9w6paahtGoxrePy7SSkMz5A48s_1513396992"
+		}
+	]
+}

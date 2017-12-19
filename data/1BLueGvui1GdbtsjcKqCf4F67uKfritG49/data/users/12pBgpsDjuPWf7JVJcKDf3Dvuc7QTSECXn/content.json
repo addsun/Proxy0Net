@@ -1,0 +1,28 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HLshlTjfMCav4gpz+rjNb7mdHOcoSLvTay65Gcj2w0BZlPOVUiGqF+OI+zRZVoRo/FdeoTrvpa/kAw6+lu71D3A=",
+ "cert_user_id": "muerdo@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "aebdc3675d4b09be0898db350ec1f48bbb60875cd9498ba7ae2f718899a5fe23",
+   "size": 1604
+  },
+  "data.json": {
+   "sha512": "5b6774407063a714459b479c38f1f8a5641511ab0f78b98e246fb8e6078c8e75",
+   "size": 42712
+  }
+ },
+ "files_optional": {
+  "1505129312.jpg": {
+   "sha512": "e7f4948ca15727557e073687edbca9012821c39259267d57b359ae4a81202912",
+   "size": 49496
+  }
+ },
+ "inner_path": "data/users/12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn/content.json",
+ "modified": 1505649530,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": "HBByn1HiFI/yHTTRUsZuX+aZ5PDrkPXURv+2u11y13CaJNAq3MtfVVMSQAZMGctXMv6lLYzLh2j5J2FjfByKspI="
+ }
+}

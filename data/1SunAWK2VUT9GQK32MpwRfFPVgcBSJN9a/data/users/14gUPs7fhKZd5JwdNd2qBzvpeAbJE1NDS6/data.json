@@ -1,0 +1,55 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "Shadowofwind",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1512888160,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1CACQQBbo53kLjY9quuUXLtLUGPR8gN9HU",
+			"user_name": "Akiel",
+			"date_added": 1512888632
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1512888635
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1512931818
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1512948779
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1512949461
+		}
+	]
+}

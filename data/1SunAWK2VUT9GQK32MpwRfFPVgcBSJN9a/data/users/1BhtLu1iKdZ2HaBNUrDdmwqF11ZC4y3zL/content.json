@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G+oIBga70L4qk0mRnx8NW67RyQOBLeJVFhmqAbInOweA321KGTZTfXxMLR8T97YSpygZEy3UQyVha/IVUfSKwJo=",
+ "cert_user_id": "thatlurker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8a7acf61a5c0d185ad1f49c907e02fc1b9e1b6897c15a4ec33a56b22c330801f",
+   "size": 197
+  }
+ },
+ "inner_path": "data/users/1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL/content.json",
+ "modified": 1505243882,
+ "signs": {
+  "1BhtLu1iKdZ2HaBNUrDdmwqF11ZC4y3zL": "G6BMVfLUM1rJfAN17twB79gMRH8xUvPitv0gKSazkaf1aer+MkcesOOdSvXgwEd71zJs+JHRwMU/hKRb4kpafPQ="
+ }
+}

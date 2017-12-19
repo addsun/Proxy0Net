@@ -1,0 +1,17 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Python Hack - Severity: Medium (fake software packages, code execution of benign malware)",
+			"body": "Check your Python libraries for fake packages with:\n\n    pip list –format=legacy | egrep \"^(acqusition|apidev-coop|bzip|crypt|django-server|pwd|setup-tools|telnet|urlib3|urllib)\"\n\nRemove and reinstall found packages.\n\nMore: http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/",
+			"added": 1505617092
+		}
+	],
+	"topic_vote": {
+		"1_1DgRMcgsHLQfLfsXGKkFVnSoFtEYPpnkeb": 1
+	},
+	"next_comment_id": 1,
+	"comment": {},
+	"comment_vote": {}
+}

@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1500128693
+			},
+			{
+				"comment_id": 2,
+				"body": "hello 456",
+				"added": 1500203419
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "I am using zeronet on Tor browser (ubuntu linux) and TOR:ERROR on ZeroHello page. \n\"Permission denied ... /control.authcookie\". I gave permission debian-tor groop to read. Who should be control.authcookie file owner and what group what rights should have? I have modified /etc/tor/torrc as told in FAQ.",
+				"added": 1500206237
+			},
+			{
+				"comment_id": 4,
+				"body": "> [gnumb](#comment_3_16edBgV1G9fYMMeE84WSRG6Fji42hY1cMY): I am using zeronet on Tor browser (ubuntu linux) and TOR:ERROR on ZeroHello page.\"Permission denied ... /control.authcookie\". I gave permission debian-tor groop to read. Who should be control.authcookie file owner and what group what rights should have? I have modified /etc/tor/torrc as told in FAQ.\n\nSolved. Reinstaling zeronet from original site helped. https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join",
+				"added": 1500797798
+			}
+		]
+	},
+	"comment_vote": {}
+}

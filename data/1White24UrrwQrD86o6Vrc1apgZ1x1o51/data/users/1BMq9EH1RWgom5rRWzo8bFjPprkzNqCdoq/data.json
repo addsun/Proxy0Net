@@ -1,0 +1,43 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Bm",
+	"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506214063,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1506214120,
+			"body": "还有以下双字母ID未被注册，需要的同学可以去注册：\nhttp://127.0.0.1:43110/ZeroBBS.bit/?Topic:1_1BMq9EH1RWgom5rRWzo8bFjPprkzNqCdoq/+ID",
+			"date_added": 1506214118
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@43110: 有可能随手注册了，然后删了user.json文件，这个id就永远消失了",
+			"post_uri": "1BMq9EH1RWgom5rRWzo8bFjPprkzNqCdoq_1506214120",
+			"date_added": 1506224100
+		},
+		{
+			"comment_id": 2,
+			"body": "http://127.0.0.1:43110/ZeroBBS.bit/?Topic:1_1NVS5efhaHc2gCETnyXCJiwc1vVvgBvCE9/",
+			"post_uri": "1DpakEL2eeAsrXKTxNzavjT9HQUK9kywcj_1506736359",
+			"date_added": 1506839367
+		},
+		{
+			"comment_id": 3,
+			"body": "@Rollout: 并不是，只要站点拥有者设置接受kaffie的ID就可以，目前接受的不多，[ZeroBBS](http://127.0.0.1:43110/ZeroBBS.bit/) 就接受kaffie的ID，可以试一下用kaffie的ID发帖",
+			"post_uri": "1Jfsqd4RzqpMmnWze4WfWKTbJiDk9xagUj_1507865033",
+			"date_added": 1507883728
+		}
+	],
+	"follow": []
+}

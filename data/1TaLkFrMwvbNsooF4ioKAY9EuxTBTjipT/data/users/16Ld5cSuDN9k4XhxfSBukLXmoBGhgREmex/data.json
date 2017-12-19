@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509105148,
+			"title": "Byzantine fault tolerance",
+			"body": "Does ZeroNet survive if a wave of misbehaving nodes join the network? How does ZeroNet work? Is it a DHT? How does it make sure to be tolerant against misbehaving nodes?",
+			"added": 1509105147,
+			"parent_topic_uri": "9_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": [
+			{
+				"comment_id": 1,
+				"body": "You mean, the thing that were shared on some FTP few months ago? It was not complete source code, just what Microsoft had already shared to partners under their shared source program.",
+				"added": 1509104588
+			}
+		],
+		"6_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 2,
+				"body": "I feel the same, all I can dream of is a nice place to live in and then spend the rest of my time researching about our beloved world, I feel like changing things is a lost game already..",
+				"added": 1509105442
+			}
+		],
+		"1509120997_14WzUeT5gCwX3s6AvbxksZ2PVorUk9BtNt": [
+			{
+				"comment_id": 3,
+				"body": "What exactly differs from a regular forum where you can lookup posts and threads made by a user?\nIf the concern is cross linking posts between different sites, you can use one identity for each, connect to ZeroNet using Tor and be careful of not posting what you don't want to post. That comment is for sure, some meaningless spreading of FUD (Fear, Uncertainty and Doubt).",
+				"added": 1509123195
+			}
+		],
+		"1509105148_16Ld5cSuDN9k4XhxfSBukLXmoBGhgREmex": [
+			{
+				"comment_id": 4,
+				"body": "Sorry but what are you talking about? RSA or EC public key cryptography is very secure if you use appropriate key size and renew the keys every few years with bigger key sizes and sign the new key with the old key. Your comment has no relation with the initial question, that's spreading FUD about public key cryptography! It is what's used in TLS, the protocol behind https, come on!",
+				"added": 1509123779
+			}
+		],
+		"15482_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 5,
+				"body": "How do they even know? Is Whatsapp not intended to be end to end encrypted? It's proprietary software anyway, better use XMPP with OMEMO/OTR or Matrix and enable end to end encryption.",
+				"added": 1509123990
+			}
+		]
+	},
+	"comment_vote": {}
+}

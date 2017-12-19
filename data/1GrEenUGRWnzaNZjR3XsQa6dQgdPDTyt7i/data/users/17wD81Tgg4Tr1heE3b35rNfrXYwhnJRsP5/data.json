@@ -1,0 +1,38 @@
+{
+	"next_comment_id": 6,
+	"user_name": "Alien",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "不需要双开啊，直接multiuser就行了",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479201830
+		},
+		{
+			"comment_id": 2,
+			"body": "plugins文件夹下面的disabled-Multiuser，把前面的disabled-去掉，然后启动的时候加上--multiuser参数",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479201910
+		},
+		{
+			"comment_id": 3,
+			"body": "@gfwbot79: 晕，你要保存你自己的private key啊，不是有提示的嘛，下次进入直接点login输入private key，再去访问下zeroid就好了",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1479192670",
+			"date_added": 1479217160
+		},
+		{
+			"comment_id": 4,
+			"body": "谁更能闹就更照顾谁咯",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479875484",
+			"date_added": 1479875947
+		},
+		{
+			"comment_id": 5,
+			"body": "连上了但是没有节点",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481159403",
+			"date_added": 1481161050
+		}
+	]
+}

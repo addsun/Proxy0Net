@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GxAWbqjBm4LGmCRgc1sF2XZy5jFWoig0Wt/ipXqaWrOtGgxH35R9C8ErW7VOU1Eu8FwFOQEoAAN+76D81Q1EJSE=",
+ "cert_user_id": "exerpa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ab9f25dfb88d2732be92c4ad7c5df835d9f37524aa4d77fa32b971fecd637b52",
+   "size": 419
+  }
+ },
+ "inner_path": "data/users/1C2zTYbGSjT9dhfobg8BphFo72KQSm9UAm/content.json",
+ "modified": 1512568280,
+ "signs": {
+  "1C2zTYbGSjT9dhfobg8BphFo72KQSm9UAm": "HJXMfR0JLSMYdb5xt9+4bxg5WfQpcen9yHuqYV+7P/MNC5G14oH35+A2LXIuiiNcsWkss9gJAByM6N51HRfvikM="
+ }
+}

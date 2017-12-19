@@ -1,0 +1,48 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HNCOS3D+lAiGNQEna8mVOSdbDQcLhDOQe8ZOScVdTqyMHL8AmhXvB5wBwar+uSGf6ZSFmYppus5dzW8lsbqYTpc=",
+ "cert_user_id": "pineapple@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "42350be0ca730ec7326e1a72f065daa31d3bd549d76f207e5b22dc2b17cb3adb",
+   "size": 1425
+  },
+  "data.json": {
+   "sha512": "b2f6577041af79a2f006cd5cbccf84f6d73136784429f8948fd44a256dbac109",
+   "size": 23705
+  }
+ },
+ "files_optional": {
+  "1478907921.jpg": {
+   "sha512": "cf52ba956fc85beea55f72557b89c939f5cf7549290b2c47e1a607e9ec4e23a7",
+   "size": 107734
+  },
+  "1479211057.jpg": {
+   "sha512": "3c2d0712755902c891c458a3991c3a93ead56c7574d75151a7b560422303c6a9",
+   "size": 56101
+  },
+  "1479211058.jpg": {
+   "sha512": "3c2d0712755902c891c458a3991c3a93ead56c7574d75151a7b560422303c6a9",
+   "size": 56101
+  },
+  "1489226735.jpg": {
+   "sha512": "476e3425ef9b41dc79365f4c9871228dd222c3b7949915db372d5b082d490a34",
+   "size": 50628
+  },
+  "1492912298.jpg": {
+   "sha512": "189c717ab2939908dbcaff2e5f77ad866f34ab02058f2e7ee8eb6809d8133114",
+   "size": 21275
+  },
+  "1493551237.jpg": {
+   "sha512": "f0af324a2a22ef17ce5db28356e605069595fbc53c3eaf9f97b755f75ef38870",
+   "size": 44734
+  }
+ },
+ "inner_path": "data/users/19ayk8E29EihqeEqZCXFpanBQm9Z63USEB/content.json",
+ "modified": 1494983895,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19ayk8E29EihqeEqZCXFpanBQm9Z63USEB": "HN3saNFWjL/xy5gUiZK6bv1IQrndKt1axaiTuDaT+jSceixK8vhOOb7PIHE7Q36iuVWntNTkUrLNf7+9qihKmH4="
+ }
+}

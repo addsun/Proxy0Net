@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9DyiUh0sb19wBQ68DGzP/gno1sjxzsrAj2JnXFKBMfe7zVoXb2VctopgrMZW4L6XHsUItJrGTEDDUR1e6UBHZQ=",
+ "cert_user_id": "bystandersyndrom@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e82cc0c8972a497d7531f1540ea664fca66d81c1d617457eabede548c653ae8a",
+   "size": 1222
+  }
+ },
+ "inner_path": "data/users/1AL38EAgLwyjF7jP1jDQ4cT1qu3cJCasAU/content.json",
+ "modified": 1507256754,
+ "signs": {
+  "1AL38EAgLwyjF7jP1jDQ4cT1qu3cJCasAU": "G2ldV0m0/WsPStiO7ofRPoqi8A1ym0JCzDDIx1l4QVy3HfhmMXAzyXsX0Ome6g8D6JQeqsv0zt/Wfaw/BHpbVfk="
+ }
+}

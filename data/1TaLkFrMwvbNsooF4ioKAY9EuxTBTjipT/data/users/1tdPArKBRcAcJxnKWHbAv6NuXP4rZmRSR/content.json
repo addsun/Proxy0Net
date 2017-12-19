@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GyA0eWHROzqHkPs/kKM09b/9EiY2d8V/cr2P5Vd3Yia23n6Gdssgn1mGUPVejiExRpTQxk29ATmmIf0jlnwmTjI=",
+ "cert_user_id": "aotearoa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e3bf2c37a2f2bf2198a79d5d51dc176fd4fc43a386528eaa5df27ce2ad68ef56",
+   "size": 3599
+  }
+ },
+ "inner_path": "data/users/1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR/content.json",
+ "modified": 1512548448,
+ "signs": {
+  "1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": "HIp7ElCYvAuxqKgyTjrk7qcoqJIYVIUXdZw+UV/D9MTJMD0E9KwIv2msPTicB3H/RqfEXiJ5xDOpNQ2wHaSaWaI="
+ }
+}

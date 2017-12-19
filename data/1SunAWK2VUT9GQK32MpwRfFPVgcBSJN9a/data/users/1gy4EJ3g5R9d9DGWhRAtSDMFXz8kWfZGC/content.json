@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4v7EaAzQeDo3G1kfFid1mDejEMs45WZouVIVMwSVTfvTW2Nx1fyRWRVYE+R3Fb9jj1oDRCsiBlR8OBS5ieSVSo=",
+ "cert_user_id": "trafitto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "24c24d09f2cf9a74e2ec8594f9bbd3bb80bbfdd460dcedf3430723f4ccbd4e29",
+   "size": 396
+  }
+ },
+ "inner_path": "data/users/1gy4EJ3g5R9d9DGWhRAtSDMFXz8kWfZGC/content.json",
+ "modified": 1512475269,
+ "signs": {
+  "1gy4EJ3g5R9d9DGWhRAtSDMFXz8kWfZGC": "GzXtQea6N12YeiIBQKBJkhDiZuoTW3phMEM18Sjrk3nUcf6NG0XkzM7q7uwj7jrBLafvuGVEuTznYXeSWoaa428="
+ }
+}

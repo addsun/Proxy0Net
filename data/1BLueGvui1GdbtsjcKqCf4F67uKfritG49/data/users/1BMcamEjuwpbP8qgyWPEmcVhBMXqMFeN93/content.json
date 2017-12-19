@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "GxnCF5G+rohtnC4jdV2T78yv0ccxDJf1sQzq5J6aZGloLIaf5oIwsvOnAqrZ6p9l9bOHtEb+Vlky9DhwD33yknk=",
+ "cert_user_id": "lanping@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a692b50df39c15703278a2cff99857e4dc22c152a98e08d5076ad75d8f728373",
+   "size": 529
+  }
+ },
+ "inner_path": "data/users/1BMcamEjuwpbP8qgyWPEmcVhBMXqMFeN93/content.json",
+ "modified": 1509084171,
+ "signs": {
+  "1BMcamEjuwpbP8qgyWPEmcVhBMXqMFeN93": "GxFnm5KLfcrnv6tSF+m/3UcEJm9yDIIie8+XVDKYr9teEmRZ2ngE0kfsAH9a+PDfFAK+4YrQviQq+H5i2ita9aw="
+ }
+}

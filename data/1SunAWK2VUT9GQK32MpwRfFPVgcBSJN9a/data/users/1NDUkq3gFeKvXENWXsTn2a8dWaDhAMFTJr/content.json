@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw0zBprwrBQSliiH4UkrMifMQslUklCgL4nX8uvf+SgsgmCGKaDeCgViMePdU4QfM5XArEDFSgX7PoGBqzK6MrU=",
+ "cert_user_id": "leontang@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "654162fcbf686b2fc08a3249ac3d05e613b9fe00a97d7ea253a4199cd264e65f",
+   "size": 1023
+  },
+  "data.json": {
+   "sha512": "60a9c5217322f3e2665cf5596fcb4df2ec1c0bbfadd71aeb2572801b187c6b9a",
+   "size": 9185
+  }
+ },
+ "files_optional": {
+  "1509468840.jpg": {
+   "sha512": "d0a1a3d084e831d7d85a989ead2651d52812983b5f46acd352fa3c6879d66a1d",
+   "size": 25074
+  },
+  "1509468854.jpg": {
+   "sha512": "d0a1a3d084e831d7d85a989ead2651d52812983b5f46acd352fa3c6879d66a1d",
+   "size": 25074
+  }
+ },
+ "inner_path": "data/users/1NDUkq3gFeKvXENWXsTn2a8dWaDhAMFTJr/content.json",
+ "modified": 1509469146,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1NDUkq3gFeKvXENWXsTn2a8dWaDhAMFTJr": "HBzt2y8lbDhc2omnKMXxrS3PJ/aUWpAjC/d8dLF8afiRXpC0c0nCH4GyimjFhehgKjaiKL37nrQpZac4VwQM7aE="
+ }
+}

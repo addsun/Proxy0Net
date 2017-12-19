@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0gIBSLwdyNaOdKiroEsOIk2K6SdVVUg4eI12Ig/CMsZORNlUrAyAgWznOHHXJb0/XiN9PpInE/HVlDVXLfMrj4=",
+ "cert_user_id": "kapokcloud@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "41a61e6b942feb0bf6448efc2473d23c49bcf05d19a4b08a105e6664fac942bd",
+   "size": 353
+  }
+ },
+ "inner_path": "data/users/12BNgVSvS5Hjb1QLas7SNfTEGCvw7ZggeZ/content.json",
+ "modified": 1505896201,
+ "signs": {
+  "12BNgVSvS5Hjb1QLas7SNfTEGCvw7ZggeZ": "HGdHuR6Y3yJ2wIzi6a0Ne/6rSUpf14ev4RTqXyxjQcTfQHga/0G1UWlKMqhX9Ce1mNnKusyUprYilBbXll26i2g="
+ }
+}

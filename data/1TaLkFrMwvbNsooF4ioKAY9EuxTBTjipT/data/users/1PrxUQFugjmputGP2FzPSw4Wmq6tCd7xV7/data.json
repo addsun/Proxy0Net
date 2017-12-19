@@ -1,0 +1,286 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 48,
+	"comment": {
+		"1_1K94YiuAXaLsup6mn1FPMCxZanFt7CBjAT": [
+			{
+				"comment_id": 1,
+				"body": "I used Ruby for an internship once . . . never again.  That shit is terrible.",
+				"added": 1500447139
+			},
+			{
+				"comment_id": 2,
+				"body": "> eelelo: Python for prototyping. \n\nPython for anything less than 100 lines of code that you don't have to maintain and which needs to call multiple C/C++ libraries.  Otherwise the maintenance burden is too high.\n\n> eelelo: Go for micro services. \n\nIf you enjoy using 1970s technology in 2017, who are we to stop you?  But the whole point of \"microservices\" (or what we used to call \"modular design\") is that it doesn't matter as much whether you choose Rob Pike's blast-from-the-past or anything else.\n\n> eelelo: Java for larger projects. \n\nWell, your memory footprint alone will guarantee it's a \"larger project\" if you use the JVM.  Personally I'd lean towards something with a more useful type system like OCaml or Haskell.  \n\nThe JVM's garbage collector is a work of art, though, and the debugging tools are great, but that doesn't outweigh the pain of writing enough Java to need either of those features in my experience.\n\n> eelelo: C for embedded.\n\nFor now.  Hopefully things like Rust and ATS are the future in the embedded space.",
+				"added": 1500520773
+			}
+		],
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": [
+			{
+				"comment_id": 3,
+				"body": "> @hexkey: Muricans gave congress a pretty strong message, and the momentum is still going--but there is still more to do.\n\nIs your Congress accepting messages (of any strength) from the population?  Reading the news suggests they principally accept corporate dollars at the moment -- doubly so the FCC.\n\n> @jdslimz: Or pull our own fiber and make our own internet!\n\nMaybe radio links are more practical -- you don't need to dig any trenches, point-to-point links can still be reasonably performance and there is already plenty of technology for creating local meshes.  Software-defined radio and antenna equipment is not cheap, but it's much cheaper than the optical equipment needed to set up a fibre link.",
+				"added": 1500521681
+			}
+		],
+		"2_15f49K29bmmEMu3FNtR3cbT3Wb28Hrsf9D": [
+			{
+				"comment_id": 4,
+				"body": "因为有其他中文页，首页是英文网站。并且《联合国语言》，谁在乎？（没人在乎。）\nBecause there are other pages in Chinese; the homepage is an English site.  Furthermore, who cares about the United Nations languages?  (Nobody.)\n\n中文论坛/Chinese forums：NewGFWTalk.bit",
+				"added": 1501057138
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 5,
+				"body": "How to submit a post in ZeroVoat?  I can fill the title, write the post and attach the image, but the button to submit the post publicly is missing.  I visited in Tor Browser with Javascript enabled.",
+				"added": 1501298213
+			}
+		],
+		"1_1555aunP8Y72sW1sssJRtNEXM3TVY3zGfv": [
+			{
+				"comment_id": 6,
+				"body": "http://127.0.0.1:43110/1NzWeweqJ32aRVdM5UzFnYCszuvG5xV3vS\n\nuse the search functionality",
+				"added": 1501362563
+			},
+			{
+				"comment_id": 7,
+				"body": "> [rainbowasteroids](#comment_1_1555aunP8Y72sW1sssJRtNEXM3TVY3zGfv): Where? Sorry, new to ZeroNet...\n\nAt the top of the \"Hello\" page, there is a box that says something like \"Search connected sites\".",
+				"added": 1501366946
+			}
+		],
+		"1_1BdPbL5AsPNX8UXzWAKn4gjKtyUhFJyrgb": [
+			{
+				"comment_id": 8,
+				"body": "If you're going to post a link to a darknet forum that leads to a clearnet site that has to run heaps of javascript from a survey site whose job is to keep track of different respondents, it might be nice to give some context -- as-is, your post comes off at best as quite gauche.  Could you perhaps explain a little bit about your project and why your average paranoid zeronet user might be interested in taking the survey?",
+				"added": 1505269184
+			}
+		],
+		"1_14qkCANgpwdN9rLmjeEWyyxEzAjmwFVkom": [
+			{
+				"comment_id": 9,
+				"body": "I think it's a good idea.  I'm not a European resident or citizen, so I won't sign it.  But I doubt governments will start releasing this stuff just because you asked.  There's overhead involved with trying to make sure all the appropriate code actually gets released, and where I live at least, the government has been reluctant to take on that overhead.",
+				"added": 1505719100
+			}
+		],
+		"7_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 10,
+				"body": "Well, the original poster was talking about polyamoury, not polygamy, but if you insist:\n\n> [james007](#comment_37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Due to the “one flesh” aspect of marriage, \n\n\"Citation needed,\" as they say on the internet.  What is the \"one flesh\" aspect of marriage?  It sounds suspiciously specific to one major religion, and therefore irrelevant to most people in the world; it's also irrelevant to us when reasoning about the issues the original poster brought up.\n\n> [james007](#comment_37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): the need for oneness and harmony in marriage, and the lack of any real need for polygamy, it's better to remain monogamous.  In view of the problems it causes (jealousy, strife, contention, broken families, etc.), it is no wonder that polygamy was unknown among the Jews after the Babylonian exile, and monogamy was the rule even among the Greeks and Romans by New Testament times. [...]\n\nAre you claiming there's a causal relationship here, in three particular societies out of thousands?  I'd be very interested to see the evidence that suggests that \"the problems it causes\" that you listed are the reasons polygamy disappeared completely.  I'm particularly interested because in reality, it doesn't seem to have disappeared.  From Wikipedia's article on polygamy:\n\n> The monogamy of the Roman Empire was the cause of two explanatory notes in the writings of Josephus describing how the polygamous marriages of Herod the Great were permitted under Jewish custom.[57][58]\n\n> The Rabbinical era that began with the destruction of the second temple in Jerusalem in 70 CE saw a continuation of some degree of legal acceptance for polygamy. In the Babylonian Talmud (BT), Kiddushin 7a, its states, \"Raba said: [If a man declares,] 'Be thou betrothed to half of me,' she is betrothed: 'half of thee be betrothed to me,' she is not betrothed.\"[59] The BT during a discussion of Levirate marriage in Yevamot 65a appears to repeat the precedent found in Exodus 21:10: \"Raba said: a man may marry wives in addition to the first wife; provided only that he possesses the means to maintain them\".[60]\n\nFrom the same article, in 1563, we have \"the most widely accepted compilation of Jewish law ever written:\"\n\n> The Shulchan Aruch, builds on all of the previous works by adding further nuances: \"...but in any event, our sages have advised well not to marry more than four wives, in order that he can meet their conjugal needs at least once a month. And in a place where it is customary to marry only one wife, he is not permitted to take another wife on top of his present wife.\"[63]\n\nSo polygamy, enshrined in law for over two millennia after the Babylonian exile, hardly seems \"unknown\" among the Jews.\n\n> [james007](#comment_37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): There’s a reason why the government has never permitted relatives to marry, nor upheld the legality of polygamy\n\nWhich government is this, exactly?  Could it perhaps be your government but not mine?  I direct your attention to https://upload.wikimedia.org/wikipedia/commons/6/63/Legality_of_polygamy.svg, which shows that there are in fact many governments that continue to uphold the legality of polygamy.\n\n> [james007](#comment_37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Traditional marriage is the naturally and scientifically verifiable familial foundation\n\nI think the naturally and scientifically verifiable foundation of families is heterosexual intercourse -- what scientific evidence do you have to the contrary?  Or do you have some ill-defined notion of \"family\" that you're projecting onto everyone else here?\n\n>  [james007](#comment_37_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): government has a compelling interest in a legal record of procreation (this is further indicated by the doctrine of presumed paternity), and in creating a lasting environment where children will thrive. The fact that one must obtain a court order to divorce and the existence of tax-based incentives for marriage are other effects of the government’s interest in marriage.\n\nDid you just quote this without citation from a National Review article by an American politician who is a blatant racist and science denier?  I wish I'd noticed this earlier, so I'd have known not to waste my time on a serious response to someone who's either misguided beyond the zeronet's ability to help (I pity you!) or a troll (nicely done, I fell for it!).",
+				"added": 1506476449
+			},
+			{
+				"comment_id": 11,
+				"body": "> [james007](#comment_38_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): How well did that work in the 1960's? Not very well health wise...\n\nStatistically speaking, thousands of years of civilisation don't seem to have been nearly enough time to develop any reliable way to prevent premarital sex, adultery or fooling around, but a few hundred years of materials engineering have been enough for us to develop some reliable ways to avoid STIs.  Happily today it's much easier to educate people about STI prevention than it was in the 1960s.",
+				"added": 1506476792
+			}
+		],
+		"9_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 12,
+				"body": "Perfect -- now you just need to come up with a good reason to learn a hilariously useless and poorly designed invented language instead of heaps of perfectly good normal ones.  (Good luck.)",
+				"added": 1506553219
+			},
+			{
+				"comment_id": 14,
+				"body": "> [iyogo887vyg87oy8](#comment_18_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): If it's so bad why did I pick it up so easily? \n\nI didn't say it was hard to learn, just that it was a waste of time :)\n\n> [iyogo887vyg87oy8](#comment_18_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Try something before you knock it.\n\nHow would I know how Eurocentric and haphazard the design was unless I had, in fact, tried it?  How would I know how hard it is to find actual people that can communicate in this language beyond a trivial level unless I had tried it?\n\nI'm speaking from experience, friend.",
+				"added": 1506593478
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nickfischer](#comment_1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX): wich language is perfectly? or normal? \n\nNo language is \"perfect\" (well, maybe Lojban, for some value of \"perfect\" that nobody cares about).  But I'd argue that it makes more sense to learn almost any natural language than almost any constructed or designed one.  \n\n> [nickfischer](#comment_1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX): to lear esperanto makes a lot of sense if enough people speak it. \n\nProbably, but that's nothing like the current situation, and it is difficult to imagine that that could ever be the case.  Esperanto has ~2000 native speakers, according to Wikipedia.  This puts it well below hundreds of languages you've never heard of by the numbers.  If we don't count by native speakers, optimistic Esperanto scholars estimate that there \"could be up to two million speakers,\" which leaves it (let's see) still edged out by Omani Spoken Arabic, Pu-Xian Chinese and Kedah Malay, but slightly in front of Northern Hindko, even if this best-case estimate of two million is correct.  Do you still think it makes sense?\n\n> [nickfischer](#comment_1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX): Same reason why USA americans should  learn spanish or nearly every europeans learns at least a little bit of english. No one learns english because it is beautiflul or easy to learn (still easier than german or french), people learn it because a lot of people speak it. But for europe or EU members to learn esperanto would make much more sense to learn esperanto as second language and english as third or fourth. From esperanto you can build up diffrent Language and you need less time to understand it and to communicate.\n\nWhy would it make more sense to learn Esperanto as a second language instead of any of the many lovely natural languages endemic to Europe?  Europeans learn English because it's extremely useful, not because they're stupid or misguided or don't know about Esperanto.  It's the international lingua franca, as well as the foremost scientific and academic language.  Why not instead learn German, with >80M speakers in Europe?  Or French, with >65M?  Or Spanish, which gives you access to the culture and beauty of most countries in South and Central america?  If you move beyond European languages, the same goes for Arabic and the middle east.\n\n> [nickfischer](#comment_1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX): From esperanto you can build up diffrent Language and you need less time to understand it and to communicate.\n\nI can't totally understand your English here (sorry; try another language?), but in response to what I can understand: \n\nTo begin with, I've seen no actual objective evidence suggesting that to communicate at any useful level, Esperanto is any faster to learn than a natural language.  (I have heard many Esperanto speakers state it without evidence, and I have in the past misguidedly repeated this claim to many people.)  I suspect a native Chinese speaker would find the grammar of English, for example, more familiar than that of Esperanto, and she would probably find the pronunciation of both equally foreign.  Esperanto, in spite of its purported universal nature, is thoroughly eurocentric in its design and therefore potentially more familiar for only a minority of the world's population.  In spite of its eurocentrism, though, it's such an ad-hoc mismatch of features that fluency in Esperanto doesn't transfer to other European languages as well as it does between natural languages that are related through natural linguistic processes.\n\nEven if I grant, for the sake of argument, that basic Esperanto can be learned faster than, say, basic Spanish, for many Europeans, it's still vastly easier to find learning materials for and fluent speakers of widely spoken natural languages, which is what you need when you want to progress beyond the first month or two of online lessons.\n\n> [nickfischer](#comment_1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX): And could you tell me why it is poorly designed? Irregular verbs is a example of poorly design, and don't let me start about german or french a lot of there rules in grammer make no sense at all. And I know these languages are grown and not designed, but still it is much easier to learn esperanto first and the unlogical languages second.\n\nI'll let this classic of amateur linguistics explain in far more precision than I could hope to in a short forum post: http://jbr.me.uk/ranto/  I've never made the claim that any other language is perfect or logical, but since you'll have to learn heaps of bullshit, why not study a real foreign language?",
+				"added": 1506604543
+			},
+			{
+				"comment_id": 16,
+				"body": "> [iyogo887vyg87oy8](#comment_20_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Have you tried learning Russian? It's far harder.\n\nI have, in fact, among several others which you can find me posting in under this same identity.  It was fun.  Your claim remains beside the point; even if it's harder . . . I can speak Russian with 267 million people and have access to the rich culture and fascinating geopolitics associated with it.  I can't get that with Esperanto.  If I believe what you say, I'll end up talking to more people who thought Russian was too hard ;)\n\n> [iyogo887vyg87oy8](#comment_20_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): And I don't like the Eurocentric criticism. Yes it uses Latin alphabet, but so do the Americas, some of Africa, and some of Asia. \n\nI'm definitely not talking about the alphabet.  That's the least interesting aspect of language.\n\n> [iyogo887vyg87oy8](#comment_20_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): It takes words from Romance languages but Romance languages are spoken all over the world, not just Europe\n\nThat's a good point, and I should have chosen a better word.\n\n> [iyogo887vyg87oy8](#comment_20_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): as everyone likes to point out, \"everyone speaks english now\" in that case Esperanto shouldn't be too hard to pick up even if it's not neutral in terms of its heritage.\n\nBut again, why would you?  \"Everyone speaks English now\" isn't true because English is easy to learn; it's true for complex historical reasons that make English useful and a valuable medium of communication.  There are hundreds of languages that are more valuable media of communication than Esperanto, and I see no reason to choose this one, which, as you say, is not neutral in its heritage, in place of any of these natural languages, which have similar biases but are more economically valuable, have large populations of fluent speakers and are the only gateway to a huge breadth of historical and cultural experience.",
+				"added": 1506605107
+			},
+			{
+				"comment_id": 17,
+				"body": "> [iyogo887vyg87oy8](#comment_22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Why do people always get this urge to parrot out the same lines: oh nobody speak EO blah blah over and over? \n\nWell, it's not untrue . . .\n\n> [iyogo887vyg87oy8](#comment_22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Nobody is asking you to learn it, im just telling people how they can. \n\nFair enough!  I just think it's a waste of time.\n\n> [iyogo887vyg87oy8](#comment_22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): Why do we never hear people rant on about some other small language is pointless?\n\nMaybe I came on too strong here.  But there's a lot of (misguided, in my opinion) Esperanto evangelism, and one tires of it.  You don't get strangers on the internet that tell you it's a great idea to learn Northern Hindko.",
+				"added": 1506609954
+			},
+			{
+				"comment_id": 21,
+				"body": "> [krixano](#comment_44_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Learning esperanto isn't really a waste of time. Sure, there may not be as many people speaking it as natural languages. But there are other benefits to learning it other than the ability to converse with people who speak it. This is true for any language.\n\nIf it's true for any language, why not learn a language that also lets you speak to millions?  (When I say \"speak\" here and in other posts, of course I really mean \"communicate with\", whether it's out loud or via internet forums or paper mail or whatever.)\n\nAnother way to ask this is: what benefits do you expect from learning Esperanto that are specific to Esperanto, meaning that learning a natural language with millions of speakers wouldn't give these same benefits?  I'm genuinely curious what you think, because I can't think of a single one.",
+				"added": 1507252025
+			},
+			{
+				"comment_id": 22,
+				"body": "> [krixano](#comment_45_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Here's an experiment that was done with Esperanto. One group took french for 4 years. The other group took Esperanto for the first 2-3 years, then took french for the last year(s). Which one knew more French? The second group.\n\nThat's an interesting study I didn't know about, and I'd be curious to know more about the setting and experiment design.  Can you share a reference?  I'm particularly curious about things like:\n\n - What was the native language of the students?\n - How many students were involved?\n - How was fluency (\"more French\") measured?\n - Was this the first foreign language for all the students?\n - How big was the performance difference at the end of the day (compared to the natural variation in foreign language learning performance among students)?\n - Did the performance difference persist into later years of study, or was it transient (i.e. you're only faster at getting to the lower intermediate level, after which there's no difference anymore)?\n\n> [krixano](#comment_45_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Esperanto lets you get the benefits of speaking another language in less time. After learning Esperanto, it also allows you to learn other languages that would be more useful (because of their higher numbers in speakers) in less time.\n\nI think you're overreaching a lot here.  Did you mean to claim \"Esperanto likely helps you learn French faster?\"  I'm pretty sure it won't help me much with languages that aren't French, Spanish, Italian or Polish.  Most of the languages that are \"more useful\" by the metric of \"higher numbers in speakers [sic]\" you cited have no relation to Esperanto, so learning it won't be useful.\n\n> [krixano](#comment_45_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): However, this is most likely true with languages that are similar to Esperanto: languages that take words from various other languages, that have relatively consistent grammars, and that are easy to remember grammatically, such as Ido and Universal.\n\nI'm afraid I didn't follow this part.  Are you just saying that these languages help you build your vocabulary, so you can tackle it separately from the grammar?  It seems like speculation to me.",
+				"added": 1507255642
+			},
+			{
+				"comment_id": 23,
+				"body": "> [krixano](#comment_46_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I'm also of the opinion that you shouldn't learn a language based on how many people speak it, because chances are you aren't going to be speaking to that many people. \n\nI guess everyone has different goals when learning a language, but I suspect most people either want to communicate with others in the foreign language or else access the literature and other cultural materials in that language.  The number of people that speak it (and for how long it's been spoken) are pretty directly related to these goals.  Esperanto is a bad bet on both counts.  If you know of any actual data on why people learn the foreign languages they do, I'd be interested to read it.\n\n> [krixano](#comment_46_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You should learn a language based on it's cognitive benefits and your interest in it, including literature, history, grammar (if you are like me and like grammar), etc. You will have a better time learning it.\n\nIf you like grammar, why do you think Esperanto is interesting?\n\nDo different languages lead to any meaningful differences in cognitive anything?  I thought Sapir-Whorf had pretty much been dead for a few decades.  Or by \"cognitive benefits\" are you referring to the ability to access information in foreign languages, e.g. being able to read mathematics and physics articles in Russian?",
+				"added": 1507255987
+			},
+			{
+				"comment_id": 24,
+				"body": "> [drone621](#comment_11_1KkYwbYeCF7s17AmUF9Tc7ckzCgt3UoaaC): On a slightly unrelated note\n\nHa!  This may be the only on-topic post in the whole thread ;)",
+				"added": 1507256330
+			},
+			{
+				"comment_id": 25,
+				"body": "Thanks for the sources.  I don't consider Wikipedia particularly untrustworthy.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): According to the study described, Esperanto helps you learn many languages faster. Why, because you already learned one language: Esperanto. It is very well know that learning a third language is faster than learning the second because you have already learned a language before (the second). This, in fact, extends to many other things besides languages.\n\nIf that's really the \"why,\" this has nothing to do with Esperanto -- any second language will do.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Next, Esperanto borrows many words from European languages, meaning words are very similar (libro in Esperanto is book, libro in Spanish is book). \n\nI apologize if I've given the impression that I don't know what a cognate is, but I've learned basic Esperanto years ago and am familiar with the oft-touted vocabulary overlaps.  As we both mentioned before, this is fine for a select few European languages.  But if you want to learn something that will teach you Spanish words while you're at it, why not learn Italian?  There are heaps of cognates.  (I'm not saying anyone should do this; I'm just pointing out again that this is not really specific to Esperanto.)\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Esperanto has a pretty consistent grammar. This means there are less exceptions, decreasing the time you must take to learn these exceptions, and the ease in which you can learn the grammar of the language. Languages, including Esperanto, that have pretty consistens grammars take less time to learn and are generally (at least slightly) easier to learn because of less exceptions and \"weirdness\" within the language.\n\nAt last, we get to the heart of the matter.  But does this actually get you anywhere?  You have learned a simplified grammar, and now you must learn \"exceptions\" and \"weirdness\" to speak a natural language either way.  Is the claim that it separates vocabulary learning to grammar learning?  There may be something to that.  But I'm having trouble understanding precisely what the benefit you're thinking of is.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): What I was mainly saying was that the amount of speakers isn't a limiting factor because even the amount of Esperanto speakers is enough to be able to read a lot of material and speak to a lot of people. You aren't going to speak to more than 10 million people in your lifetime. Same goes to literature but less so, of course (also dependent on how much you read).\n\nFirst, I hope you're not deluded enough to think there are 10 million Esperanto speakers.  Wikipedia puts the most optimistic estimates around 2 million.  There are a few thousand \"native\" speakers of Esperanto.\n\nSecond, the goal of learning a language with more speakers isn't to try to speak to everyone who also knows that language.  Languages with many speakers can be used in more situations, and often in more interesting situations.  This applies to speaking (e.g. travel) as well as to literature and culture (e.g. reading books or news sites or watching movies) situations.  You don't learn Mandarin or English to try to speak to a few hundred million people before you die; you learn them because the number of speakers means you can benefit from your knowledge more often and in more situations where a lack of understanding would cut you off from something you want, whether it's making friends, getting a job, watching a TV show or whatever.  The large number of speakers means there's more interesting and useful things you can do with your language skill.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Learning Esperanto is also useful for people who want to study constructed languages, their cultures, their people, beliefs. It's also might be useful for Linguists and conlangers (me being one myself).\n\nI agree; in fact, I think this nearly the only reason to learn Esperanto.  The fact that it's a bit of a niche situation is my point.  Thanks to your mention of studies, I'm now open to the idea that it may also be useful for accelerating the initial stage of learning a few specific European languages.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Languages have many cognitive benefits, yes. Not necessarily with the vocab. They strengthen your brain. They allow you to more easily learn another language. They allow you to learn how to learn a language more effectively, which will improve how you learn your third language. \n\nAs a matter of fact, I'm aware of these benefits.  I enjoy them every day, and without remembering any Esperanto whatsoever, because they apply to any language.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): They let you become more exposed to a more variety of cultures, ideas, etc. \n\nThis is dramatically more true of natural languages than of constructed ones, including Esperanto.\n\nI think you might want to read the thread prior to when you joined.  These things you're talking about were discussed.  My claim all along hasn't been that people shouldn't learn languages but that they should spend that time on learning a language other than Esperanto.\n\n> [krixano](#comment_48_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): It improves memory, your native-language skills, etc. It makes you more aware about the specifics of languages (grammar - all languages more or less have very similar things within them, there's also different types of languages, for example inflectional, isolating - each having similar things when looking at morphology and syntax - you should look more into linguistics if you're interested in languages).\n\nI'm not sure whether I've said something to suggest I'm totally ignorant of linguistics.  I'm not an expert, but I'm pretty well educated in this area and am familiar with the aspects of grammar and language you've mentioned.  Thanks for the suggestions nonetheless.",
+				"added": 1507260183
+			},
+			{
+				"comment_id": 26,
+				"body": "> [heyjude](#comment_6_1Ka5KfU2RbHEMTkHPPjAuiYCPbbxAtcoSn): Bullshit my man, somewhere around to 10 million people talk esperanto. Now let's look at french: 274 millions.Only difference is one group are pseudo-intellectual faggot while the other is an ethno-linguistic group, which pseudo intellectual faggots tend not to like.\n\nIf your intimidating command of English insults wasn't enough of a clue that you don't have anything to contribute in this message, then the 10 million figure would remove all doubt.  Try 2 million at the most optimistic.",
+				"added": 1507260293
+			},
+			{
+				"comment_id": 27,
+				"body": "> [krixano](#comment_49_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Now for what I like about Esperanto: [...]\n\nI'm happy for you that you progressed quickly in Esperanto, and more quickly than in Spanish, but I still think you're missing my point.  I've never claimed Esperanto is hard to learn; I just think that even if it's much easier to get to the level of basic proficiency in Esperanto than in any natural language (of which I'm not yet convinced), it's still better to spend that time on learning any of the many natural languages with millions (or billions!) of speakers, millions of pages of literature and centuries of history and culture.\n\nAt this point in the discussion, I feel like I'm just repeating everything I said to the original poster to you.",
+				"added": 1507260551
+			},
+			{
+				"comment_id": 28,
+				"body": "> [krixano](#comment_50_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I got the 10 million from heyjude. I was meaning to put (according to heyjude) in what I wrote. Regardless, I understand what you're saying about there being more opportunities to use languages with a higher amount of speakers. I say Esperanto is a good second language choice because it's quicker to learn and makes your next language quicker to learn. \n\nThis is unlikely to be true unless your next language is French, and perhaps Spanish, Italian and Polish.  Unfortunately I haven't been able to find a copy of the studies linked in the Wikipedia article, so I don't have a firm opinion on the claims of accelerated learning yet and am not convinced.  But the fact that you've brought it up convinces me it might be the case.\n\n> [krixano](#comment_50_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Why spend 4 years learning French when 1 year of Esperanto and 3 years of French will get you further than that 4 years of French?\n\nI can think of a few reasons: \n\n - Your goal is to achieve basic fluency in French, in which case it's not clear that starting with Esperanto will get you there any faster. \n - You would like to travel to a French-speaking area or communicate with a Francophone less than 4 years from now\n - You would like to begin exploring hundreds of years of French culture and literature sooner rather than later (for many people, this exploration makes learning the language more rewarding).\n\nBy the way, how did you quantitatively measure your Esperanto fluency and your Spanish fluency for comparison?  And how can you know that learning Esperanto wasn't much easier for you exactly because you'd already sunk 3 years into Spanish study (i.e. the effect you've been talking about, but in reverse)?",
+				"added": 1507261182
+			},
+			{
+				"comment_id": 29,
+				"body": "> [krixano](#comment_52_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Also, why did you put \"native\" in quotes. There are actual native speakers of Esperanto - it's their first language.\n\nFirst, let's look at some qualifiers -- not the reason I put it in quotes, but informative context (from Wikipedia):\n\n> In all known cases, speakers are natively bilingual, or multilingual, raised in both Esperanto and either the local national language or the native language of their parents. In all but a handful of cases, it was the father who used Esperanto with the child. In the majority of such families, the parents had the same native language, though in many the parents had different native languages, and only Esperanto in common.\n\nSo for all of these speakers, it's _one_ of multiple first languages.\n\nBut actually, I put it in quotes for a more subtle reason I should have explained.  Typically when the children of pidgin-speakers learn language, they speak differently from their parents.  The saying is that \"adults create pidgins, and children create creoles.\"  I hadn't found documentation on this when I wrote my other message, but I strongly suspected that true native speakers of constructed languages perform the same creolization process and \"normalize\" the constructed language into a natural one.  Now that you brought it up, I looked into it, and behold (again, from Wikipedia):\n\n> The Esperanto of native-speaking children differs from the standard Esperanto spoken by their parents. In some cases this is due to interference from their other native language (the adstrate), but in others it appears to be an effect of acquisition.\n\nThe article goes on with some specific examples.  Constructed languages present a bit of a conundrum in this case: who is speaking the \"real\" Esperanto?  Constructed languages are, in theory, explicitly defined (not all that explicitly, in some parts of Esperanto), so if the children deviate from this definition, they're speaking something slightly different to Esperanto.  But the parents aren't native speakers, so aren't children speaking \"true\" Esperanto?\n\nThis ambiguity is what I was trying to capture with the quotes.",
+				"added": 1507261785
+			},
+			{
+				"comment_id": 30,
+				"body": "> [krixano](#comment_53_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): According to the study, it does get you faster. People who spend 1 year with esperanto then 3 with french knew more than people with 4 years of french. This also means that you would have learned what the people with 4 years of french learned in less than 3 years. That's mathematics - simple. \n\nIf only language learning were that simple!  If the study's results hold generally, it means you got to the \"4 years of French\" proficiency level faster; it doesn't show that you get to fluency any faster.  Language learning is, sadly, not a simple linear process.  In other domains of learning, these sorts of transient effects show up at certain stages and then disappear when long-term outcomes are measured.\n\nBut I'm also skeptical because I don't know how much stock to put in your and Wikipedia's summary of the results of the study.  I'd feel more certain if I could read the study and see exactly what they claim and what their data show.  There are several studies linked in the article, but I don't know how to get articles from those journals and books for free, and I'm not going to pay through the nose to justify myself in an internet forum :)\n\n> [krixano](#comment_53_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): This also means you can explore the literature sooner since you would be knowing more sooner.\n\nIt's unfortunate again, but this does not mean you can explore the literature sooner; let's say you want to watch a French movie after two years of study.  If you have been studying French, you can probably understand a lot of it and follow what's going on.  If you've been studying Esperanto, you'll get very little out of it.  The two-year figure is arbitrary; the point is that if you want to use French any time in the first 3 years of study for something you find cool or rewarding or useful, you'd better not have been spending all of that time on Esperanto.\n\n> [krixano](#comment_53_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You don't think that a grammar that has consistent endings like what esperanto has (o for noun, a for adjective, etc.) is easier than trying to learn all the different conjugates of other languages, especially Spanish and Latin? Esperanto verbs don't conjugate based on person or number, but Spanish ones do, which means there are more endings for Spanish. You don't think that because of this Esperanto verbs would be easier to learn and remember?\n\nI've said nothing of the sort!  Counting noun and verb endings is a crude measure of how easy it is to learn a language, and for this, like probably any specific feature of a language you can think of, the \"difficulty\" depends on which languages the learner is already familiar with (by way of example, Mandarin has no noun or pronoun declensions or verb conjugations).  I suppose I'll just have to start repeating what I've already said several times in the thread: even if it's easier, it doesn't mean learning it is time well spent.\n\nBy the way, I'm curious to know your opinion of this (hilarious if a bit overstated) site: http://jbr.me.uk/ranto/",
+				"added": 1507262577
+			},
+			{
+				"comment_id": 31,
+				"body": "> [krixano](#comment_54_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I didn't say that Esperanto itself was easier because of those particular ending, only that those ending would be easier to remember than a ton of different endings used in Spanish, Latin, and other similar languages. \n\nI totally agree it's easier to remember fewer endings; I just don't know whether that means anything significant when it comes to actually learning the whole language.\n\n> [krixano](#comment_54_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Also, you better not be spending all that time on Esperanto makes no sense because I have already stated that it's only 1 year of Esperanto. You're not spending 4 years on Esperanto, only 1, then 3 on French.\n\nThanks for the correction -- I repeatedly misread your message as \"3 of Esperanto followed by 1 of French.\"  We still don't know whether you're ahead or behind at the 2-year mark.\n\n> [krixano](#comment_54_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Now, technically neither of us have proved that it is/isn't worth it. I think it is, you don't. Let's just leave it at that. I'm not going to try to convince you when there are studies you can look at for yourself.\n\nI guess I mentioned that I can't currently find a way to look at them, which makes me sad.  But in any case, if you're done, I want to thank you for an interesting discussion.  I learned some things and had a good time, which is better than I can say about 99% of zeronet discussions!  XD",
+				"added": 1507263642
+			},
+			{
+				"comment_id": 32,
+				"body": "[krixano](#comment_55_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I didn't mean to be rude with that last paragraph. I now realize how that might have sounded. \n\nNo harm done; it's an internet forum . . .\n\nhttps://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto  describes several studies.  The summaries there are generally encouraging, and several studies indicate that people can generally learn Esperanto faster than natural languages, but there's not too much specific information about the question we were discussing (the degree to which Esperanto preparation accelerates learning of other languages), and it seems like some of the studies may not be very well conducted.  I'll try to summarize a bit:\n\n>  after having compared the French exercises of those children who had previously studied Esperanto with those who had not received such preliminary preparation, indications as to the introductory value of the International Language were reached.\n\nSeems like they found that learning Esperanto before French helped, but they didn't compare to learning any other language first, so it's more of a comparison of second- to third-language learning.\n\n> the unchallenged superiority in the ability to use German achieved by the students who had studied Esperanto was observed;\n\nSame problem, as far as I can make out -- they only compared it to not studying anything first.\n\n>  In summary, it was concluded that, among the less intelligent students, those who devoted a year to Esperanto succeeded better in French after four years, without additional study time for that language in the three years spent studying it.  In any case, among the more intelligent students, the best success in French was among those who began it immediately. Those who began with Esperanto achieved a better \"passive knowledge\" and those who began with French acquired better \"active use.\"\n\nThis study seems similar to those above and the one you mentioned, but they find an effect that depends on \"intelligence.\"  Without more detail, it's hard to see how they measured this (many classic pitfalls there, obviously), but if we accept it, it's still only comparing second-language learning to third-language learning.\n\nThere are some non-quantitative comments I found interesting:\n\n> the rapid results achieved in Esperanto instruction raised the students' courage and their faith in themselves; the capacity to accept new ways in which to express themselves already constitutes a help, at the subconscious level, in assimilating a new foreign language.\n\nThis alone seems potentially valuable, especially for students who are unmotivated, reluctant or otherwise not inclined to apply themselves to their studies.\n\n> contribute to a European childhood education and a humanistic internationalism.\n> very quickly creates the possibility of interethnic communication perfect for children, without limiting it to the territory of a specific privileged language. In such a way it opens the way to better comprehension between people, without language discrimination.\n> The Esperanto-pupils rated LOTE-learning and also rated Esperanto one of their favourite subjects [if I read into it that other pupils were surveyed and did not do so]\n\nThese are all interesting effects.  But what I'd really like to see is an experiment that compares preparatory study in Esperanto to preparatory study in other languages, ideally several so there's some idea of how much variation to expect and possibly some information on how linguistic distance plays into things.  For example, you could have English-speaking students do preparatory study in French, Esperanto, Latin, Russian or nothing, and then measure how it affects their performance at learning Spanish and Arabic later on.  It seems like right now we just don't have enough evidence to say anything conclusive about this question.",
+				"added": 1507265269
+			}
+		],
+		"8_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 13,
+				"body": "The internet is always slow where I live, but zeronet works like a champ.",
+				"added": 1506554600
+			}
+		],
+		"1_13A7H5dbgDCGA8KaFSptPkvVNULYP6yERR": [
+			{
+				"comment_id": 18,
+				"body": "Has anyone really been far even as decided to use even go want to do look more like?",
+				"added": 1506991555
+			}
+		],
+		"1_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": [
+			{
+				"comment_id": 19,
+				"body": "> [james007](#comment_52_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Just what we all want, random/untrusted low-level machine code running in our browsers. /s\n\nAs opposed to javascript, with its decades of hilarious semantics?  Hard to imagine webassembly being any worse in terms of correctness, safety or performance.  What are you worried about?",
+				"added": 1506996299
+			}
+		],
+		"19_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 20,
+				"body": "trickle",
+				"added": 1507010584
+			}
+		],
+		"1_1cVZvPSZJpUptxyCqWePm4JKhxM77NNV4": [
+			{
+				"comment_id": 33,
+				"body": "What is the advantage to sharing a peer ID directly?  Are you running a different IPFS network to the main one?  If you have content I want, won't I be able to get it from you just by connecting to _anyone_ who's a part of the IPFS network?\n\nSorry if these are dumb questions; I am a noob at IPFS as well.",
+				"added": 1507508644
+			},
+			{
+				"comment_id": 34,
+				"body": "I'm afraid I'm such a noob I wasn't able to follow your explanation -- do you mind being a bit more explicit?  I wrote more detailed questions below.\n\n> [godfather1434](#comment_3_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6): By sharing you are letting them access the file you are sharing \n\nIf you want to share a file with someone, can you not simply share the file's hash?  Why share your peer ID directly?  Isn't the whole point of IPFS that it is content-addressed, and the system will find the file for you if you know its hash, no matter what node is hosting it?\n\n> [godfather1434](#comment_3_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6): and also if they pin it now they will start serving your content and network effect.. So even if you are not hosting the file it is available and shared by someone.. \n\nAm I misunderstanding something, or is pinning the file a completely different operation to peering and file lookup, for which you _also_ only need to know the hash of the file you want to share rather than any particular peer ID?",
+				"added": 1507524393
+			}
+		],
+		"92_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 35,
+				"body": "Eloquent and to-the-point.",
+				"added": 1508381253
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 36,
+				"body": "It sounds like you are describing some kind of built-in sneakernet mode, wherein your device will store and forward as much information as it can, and the underlying technology (zeronet or whatever it may be) is designed so that sites are \"eventually consistent.\"  Then information could spread locally between devices on a LAN and propagate globally as devices move around or otherwise communicate outside their usual LAN neighborhoods.\n\nYou could be syncing up with others everywhere you go -- at a mate's place, at the coffee shop, at the office (if it's not locked down for the same reasons no WAN access exists), and even on the bus if you configure your device to act as a wifi access point or put it in ad-hoc mode.\n\nI'm not sure what this has to do with the DHT you mentioned, but I don't have much information about how zeronet works under the hood.",
+				"added": 1508703883
+			}
+		],
+		"1_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": [
+			{
+				"comment_id": 37,
+				"body": "If I understand your question correctly, maybe GNUnet has some of the features you're looking for (decentralized text search and fast updates).  But I doubt it has the ability to run in the browser or as a chrome extension.  You could also check out IPFS or the Dat project and see whether they are closer to what you want.  I think both have javascript-only implementations, which probably means that they can run in the browser (but are also guaranteed to be hilariously buggy).  In particular, I have seen a browser-only chat client based on IPFS called Orbit.\n\nhttps://gnunet.org/\nhttps://ipfs.io/\nhttps://datproject.org/\nhttp://orbit.chat/",
+				"added": 1508984350
+			}
+		],
+		"1509056504_1AL7MPy6rvULDRvLbmsxttSQALdYFy6GbM": [
+			{
+				"comment_id": 38,
+				"body": "Tens of thousands of free programs!  No ads, no captchas and no malware.  Not sure exactly what you mean by \"true\" software, but I can confirm that this software is indeed real software, which executes on computers, and not fake software, which presumably does not (?).  Some of the code is not that clean (e.g. GNOME shell), but a lot of it is pretty nicely written.\n\nhttps://www.gnu.org/\nhttps://www.freebsd.org/\nhttps://www.openbsd.org/\nhttps://packages.debian.org/index\nhttps://www.archlinux.org/packages/\nhttps://hackage.haskell.org/\nhttps://github.com/fffaraz/awesome-cpp\nhttps://pypi.python.org/pypi\n\nNo need to re-upload anything to \"clean hosting services;\" these come with their own.  But you can donate to help them defray the costs of hosting.",
+				"added": 1509059983
+			}
+		],
+		"1509028020_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": [
+			{
+				"comment_id": 39,
+				"body": "In what way is matrix.org analogous?  You say yourself it is for a \"todally [sic]\" different use case.  I agree -- matrix.org is federated, not truly decentralized like Zeronet, so calling it \"P2P\" feels a bit disingenuous.  Don't get me wrong; I use matrix all the time to chat (text).  But it's a different type of system; federation means it's not nearly as immune to censorship, for example, as mari0 observed.\n\nTox (https://tox.chat/) offers peer-to-peer VOIP calling and video and is actually decentralized, not just federated like Matrix and Mastodon.  I haven't used it, but it exists.\n\nSomeone developed a truly decentralized real-time chat app built on IPFS at https://orbit.chat -- I haven't tried this one, either.",
+				"added": 1509061937
+			},
+			{
+				"comment_id": 40,
+				"body": "> [akito](#comment_325_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): You think you are really smart. You are not.\n\nOK, not sure where that came from, but would you care to respond to my actual message?  If I'm wrong about any of this, I'd be happy to be shown why.",
+				"added": 1509062049
+			},
+			{
+				"comment_id": 41,
+				"body": "> [akito](#comment_326_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): That's exactly proving my point, thanks.\n\nI guess this is what I get for trying to have an actual discussion on a darknet forum.  If you don't have anything useful to say, why are you chatting here?  If you just want to insult people, there are plenty of less interesting threads you can play on.",
+				"added": 1509062170
+			},
+			{
+				"comment_id": 42,
+				"body": "> [akito](#comment_327_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): And btw. you are not wrong. You just think you are smart, that's all. You are not. You are just a human as everyone else here, too. Accept that.\n\nOK, you think I'm dumb, but not because I said anything dumb.  I'm glad we cleared that up.  Can we talk about matrix.org and decentralized chat instead, now, please?",
+				"added": 1509062264
+			},
+			{
+				"comment_id": 43,
+				"body": "> [akito](#comment_328_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): You don't even know what darknet is but still try to be a wannabe professor. I tell you the same, that I tell every single moron that behaves like you: just pretending to express yourself like an actually smart person doesn't make you a smart person. You are on the internet. Understand that and stop crying about it.\n\nWhere is all this coming from?  Who is crying?  Why do you think I don't know \"what darknet is\"?  I just wanted to share some relevant links and provide some context . . .",
+				"added": 1509062484
+			},
+			{
+				"comment_id": 44,
+				"body": "By the way, anyone unfortunate enough to read the preceding exchange can at least look at the timestamps and take heart that apparently zerotalk isn't far off from offering decentralized real-time text chat, either :)",
+				"added": 1509063232
+			},
+			{
+				"comment_id": 45,
+				"body": "Here is another totally decentralized (uses a DHT; not federated) VOIP (with video) system called Ring: https://ring.cx/en",
+				"added": 1509064554
+			},
+			{
+				"comment_id": 46,
+				"body": "> [helium](#comment_12_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): I find the matrix.org to be analogous to the ZeroNet in at least 2 ways: [...]\n\nThanks for your thoughtful reply.\n\nI fully agree about similarity number one.  Sadly, this also means matrix.org struggles to make ends meet.  I haven't tried Diaspora, but I'm more than willing to believe that it's difficult for your average user to set up.\n\nRegarding similarity #2, for matrix, there is actually no strict requirement at the moment; it's actually possible to chat/VOIP/etc. using matrix.org as your homeserver via the riot.im web client, with no node setup yourself.  Your preferences, history etc. are all stored on matrix.org at no charge (maybe this is why they are having financial difficulty . . . ;); end-to-end encryption works as well as possible in your browser.  But yes, the intended use case is for you to run your own homeserver.\n\nI think you're dead-on regarding software quality and deadlines.  A lot of these projects, even if they begin with a good technical idea, don't seem to have looked around at prior or contemporary work and carefully thought through the design at all levels, even if they're working at their own pace.  Again I agree that this is doubly true when VCs are cracking the whip and demanding users or ad revenue by last Wednesday.  The Matrix crew seem to be doing better than most.  Hopefully they can withstand their current financial hardship long enough for their attention to detail and sound design sense to win out in this space.\n\nEven if they do succeed in obsoleting a host of technically inferior networks, the question remains whether any such open protocol, developed by a small not-for-profit organization, will remain dominant when companies like Google or Facebook can pour money into embracing and extending it like Google did with XMPP.  When the protocol is open, there are always lots of implementations of servers and clients, and big organizations with other sources of funding (hard to make money from ads by hosting services for a federated network with an open protocol!) can typically make sure their implementations work correctly with cutting-edge features much faster than small organizations like matrix.org or random developers of other popular implementations.  The upshot is then that the majority of users stay within the walls laid out by the big organizations when told to do so, and their new features work.  At this point, most of them will not care whether the protocol is open or well-designed, and the trap is sprung.  Fingers crossed that this doesn't happen!",
+				"added": 1509067989
+			}
+		],
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": [
+			{
+				"comment_id": 47,
+				"body": "This is fantastic -- keep up the good work!",
+				"added": 1510103750
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1KkYwbYeCF7s17AmUF9Tc7ckzCgt3UoaaC": 1
+	}
+}

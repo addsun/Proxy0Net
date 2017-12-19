@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwS8qhtLHUZV1uujebeYm0KxXIZWhQHIIP2801C8TLUKi1eySEuBJBPW0RUxt/Hjpe+G9j5qKoLhNRfXNRb5FwQ=",
+ "cert_user_id": "darknessenvelop@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "9fb96c8bcb560b9c0942b8b304365b652e92a35b7901a6105f6aea500eb53d74",
+   "size": 658
+  }
+ },
+ "files_optional": {
+  "1513095414.jpg": {
+   "sha512": "c1dd5c76c700b52e5fb135e6212a4d61789b812a6f17a392a4f84c3a86065bb2",
+   "size": 8371
+  }
+ },
+ "inner_path": "data/users/1H3eeviXx9FVkFKhBF2S2ed8fHkoxg9CwL/content.json",
+ "modified": 1513095412,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1H3eeviXx9FVkFKhBF2S2ed8fHkoxg9CwL": "GwfrXnQZWIveS9i4+U5n4+TVYLxhKI2DIqjJlg1mhnqHeMZKZGNcotYTsFv8A+CPQqrhSzPQiFaDFgXPrkgIibY="
+ }
+}

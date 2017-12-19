@@ -1,0 +1,40 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Samantha5047",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509551052,
+			"body": "你好 ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "这种信用系统一定会受到人工干预，对政府不喜欢的人大加惩罚。维权人士、访民和良心犯们将受到更多角度的排挤，政府的目的就是让这类人维持在一个很低的生活水准，每天除了维持生活外没有精力做其他事。",
+			"post_uri": "1aMDPbnfXb34rceadvMSYtJBJ3FsbVjNt_1509623934",
+			"date_added": 1509630384
+		},
+		{
+			"comment_id": 2,
+			"body": "如果其他人通过银行或支付平台对反政府人士提供经济支持，就会被系统视为 “与信用低劣者关系密切的人”，从而降低信用分。这是一种变相的株连惩罚。",
+			"post_uri": "1aMDPbnfXb34rceadvMSYtJBJ3FsbVjNt_1509623934",
+			"date_added": 1509630496
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "188Uit7FJJgyMWE3yh6934fKSucopDHgDz",
+			"user_name": "Samantha5047",
+			"date_added": 1509551065
+		}
+	]
+}

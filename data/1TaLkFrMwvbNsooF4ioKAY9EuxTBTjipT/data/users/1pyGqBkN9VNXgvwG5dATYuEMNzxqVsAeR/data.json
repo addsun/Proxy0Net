@@ -1,0 +1,55 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"13434_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"2_1C4Bu4hhk5Mqh3bSE6hnLWuX16bU6nFUit": 1,
+		"2_123rY6a7W3RMmgFHrTdMR1NwGfciuKwsV4": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"2_1C4Bu4hhk5Mqh3bSE6hnLWuX16bU6nFUit": [
+			{
+				"comment_id": 1,
+				"body": "You can delete the whole site's cache by deleting them from the ZeroHello page (the one with the address that starts with 1Hello) on the left bar.  When you hover over a site name you've connected to, you can see 3 vertical dots appear. Click those 3 dots and then select \"delete\"",
+				"added": 1500017970
+			}
+		],
+		"1_1FkqmG26cFm92Vu1Mr84kVwk2kHFz9cehs": [
+			{
+				"comment_id": 2,
+				"body": "you view through 127.0.0.1 because the ZeroNet application is creating a local webserver. That webserver then syncs files in the background to the swarm and serves them back to you.",
+				"added": 1500105124
+			}
+		],
+		"1_1AtCywgFGJZpdfygQ3MsSBf9S1uuvZC8Ys": [
+			{
+				"comment_id": 3,
+				"body": "It might be helpful if you start the list of pros/cons with your own list first.",
+				"added": 1500190218
+			},
+			{
+				"comment_id": 5,
+				"body": "you may be confusing decentralized administration vs decentralized storage. Zites are stored in a decentralized manner when they are seeded. Administration of those sites is reserved to those who are authorized in the config, and is not decentralized unless specifically built that way. Zites can be configured to allow any user to sign changes in a subfolder which would be decentralized administration.",
+				"added": 1500217902
+			}
+		],
+		"1_123rY6a7W3RMmgFHrTdMR1NwGfciuKwsV4": [
+			{
+				"comment_id": 4,
+				"body": "> [annadane](#comment_1_1FAfaKkWD65QXcY7Ng6B7XU14fh8qi1myP): As far as I can see, the biggest issue with things like this is always ease of use. People use Reddit because it comes with a simple GUI, it's easy to navigate etc etc. The problem with certain free software or for example things like Diaspora, is they can't hope to compete with the privacy violating/closed source/whatever alternatives because they've worked on their outreach to the average idiot. If Zeronet or anything else wants to become popular it has to be understandable to the non-computer savvy, as far as possible. Obviously with some things that's not really possible but that's what's going to need to happen to have real impact.\n\nAbsolutely! But to take it further, it probably needs to actually be transparent to the user. The reason I say this is because users already have the internet and they don't really care about privacy (that's why they all have facebook) and they don't care about governments or corporate overlords deleting messages to ensure that only certain messages get out. They probably don't understand what net neutrality is or how a decentralized network would work around those issues.",
+				"added": 1500190815
+			}
+		],
+		"1_1DUaKLHJXts5raAp4q76mQzGDTbnmG2gZf": [
+			{
+				"comment_id": 6,
+				"body": "I hear that leveraging margins in day trading is a great way to earn $2000 in a month. Good luck.",
+				"added": 1500217984
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1FAfaKkWD65QXcY7Ng6B7XU14fh8qi1myP": 1
+	}
+}

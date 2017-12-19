@@ -1,0 +1,110 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Anonymous > NoTav",
+			"body": "tango down per il sito del tribunale di Torino",
+			"added": 1478194503
+		},
+		{
+			"topic_id": 2,
+			"title": "errors on SiteSign after update to ZeroNet 0.5.0",
+			"body": "",
+			"added": 1478859506
+		},
+		{
+			"topic_id": 3,
+			"title": "ZeroProxies",
+			"body": "http://127.0.0.1:43110/zeroproxies.bit/\nall proxies on this list are offline!\nand from this post\nhttp://127.0.0.1:43110/zeroblog.bit/?Post:53:we+need+more+proxies#Comments\nonly https://onlyzero.net/ is up",
+			"added": 1483966389
+		},
+		{
+			"topic_id": 1512560923,
+			"title": "Get paid to watch porn ®",
+			"body": "... how exactly do you get paid? The Steem blockchain has a standard known as SMT (Smart Media Token), which Vice’s proprietary cryptocurrency is built on. It enables all forms of engagement and participation to be rewarded, to include content producers who upload videos, content curators who find the best videos, and viewers like you who enjoy the videos. As you build up Vice tokens, you can do as you please with them. They can be converted to other cryptocurrencies, or fiat currencies...\n\nhttps://blog.vice.org/getting-paid-to-watch-videos-how-does-that-work/\n\nVICE.ORG announces the release of VICE Smart Media Token \n\nhttps://blog.vice.org/44-2/",
+			"added": 1512560919
+		}
+	],
+	"topic_vote": {
+		"1_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": 1,
+		"1_1PvP6Vjh8q44LhyXTiBZc4APMtyzwyttbL": 1,
+		"1_19M1DT5vruSATEcbEczYRwCk2uPuLcATBa": 1,
+		"15_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"1_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"14_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"9_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"6_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1
+	},
+	"next_comment_id": 10,
+	"comment": {
+		"1_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": [
+			{
+				"comment_id": 1,
+				"body": "Anonymous con Nicoletta: tango down per il sito del tribunale di Torino http://www.notav.info/post/anonymous-con-nicoletta-tango-down-per-il-sito-del-tribunale-di-torino/",
+				"added": 1478194567
+			},
+			{
+				"comment_id": 2,
+				"body": "Video dell’arresto di Nicoletta Dosio al Tribunale di Torino http://www.notav.info/post/video-dellarresto-di-nicoletta-dosio-al-tribunale-di-torino/",
+				"added": 1478194594
+			}
+		],
+		"2_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": [
+			{
+				"comment_id": 3,
+				"body": "Error in atexit._run_exitfuncs:\nTraceback (most recent call last):\n  File \"/usr/lib/python2.7/atexit.py\", line 24, in _run_exitfuncs\n    func(*targs, **kargs)\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 325, in save\n    self.updateMergerSites()\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 290, in updateMergerSites\n    for site in self.sites.itervalues():\nAttributeError: 'NoneType' object has no attribute 'itervalues'\nError in sys.exitfunc:\n- Unhandled exception\nNone\nTraceback (most recent call last):\n  File \"/usr/lib/python2.7/atexit.py\", line 24, in _run_exitfuncs\n    func(*targs, **kargs)\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 325, in save\n    self.updateMergerSites()\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 290, in updateMergerSites\n    for site in self.sites.itervalues():\nAttributeError: 'NoneType' object has no attribute 'itervalues'",
+				"added": 1478859540
+			}
+		],
+		"3_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": [
+			{
+				"comment_id": 4,
+				"body": "http://127.0.0.1:43110/zeroproxies.bit/ \nis outdated,\nsee\nhttp://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:proxies\ninstead",
+				"added": 1484038058
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 5,
+				"body": "> [thefuzzstone](#comment_3_13XkcrXX32AftHLaersVLMJjLyWcT4244D): Ciao cornuto ;)\n\nche bello,\nun po' di ruspantismo italico\n:)",
+				"added": 1486201318
+			}
+		],
+		"3_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": [
+			{
+				"comment_id": 6,
+				"body": "> [waterrabbit](#comment_134_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): I'll write about the glitches discovered and some ways to reduce logging noise.\n\neven more strange... after a wool fuzzification I've recently weaved a [Fuzzy textile module](/15Aj7PkCPHfCHqNFUnEMoKBDwqHAJ7b9Q6/Schize.html?VIEW=showall#outline-container-org3e6e771) :)",
+				"added": 1491737931
+			}
+		],
+		"14_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 7,
+				"body": "> [kaffie](#comment_289_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Wonderful. I felt the same... for now I've decided to make ZeroNet my home...\n\nme too",
+				"added": 1493560777
+			}
+		],
+		"1512560923_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": [
+			{
+				"comment_id": 8,
+				"body": "we need to implement this mechanism in ZeroNet, Open... for each Zite",
+				"added": 1512563911
+			},
+			{
+				"comment_id": 9,
+				"body": "> [kopyjane](#comment_96_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): ..Seriously though. You shouldn't have to be 'paid to watch content'. The concept in and of itself speaks volumes about the state of our modern world...\n\nI'm agree with you, but I think that if it was possible to implement such a technology in each zite we'll don't need to think about paid content, it would be a kind of horizontal and open \"protocol\"; in this case there will not be an attractive content creator, anyone will be, so none will be preoccupied of it",
+				"added": 1512837449
+			}
+		]
+	},
+	"comment_vote": {
+		"289_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"36_1HiyP7AD74uGuGBZLqhcmfQgwu5VC8nnYY": 1,
+		"291_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"14_1AZG3avnpwcn37q9eeCEjXKFBye81eAxg5": 1,
+		"30_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"96_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"95_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1
+	}
+}

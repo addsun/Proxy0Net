@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy260HgxTCZIRTSZxomEatjLK0JvoPoZIfe0zGg8M0HJJeEqbZWL2FHXz+QztQ6LZ+73iK5HU+RzkF4Dy4Jzm/g=",
+ "cert_user_id": "felixfoertsch@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "75b286eeb30fd6d0c7e409489afab87c9fb226c4702b8f2252fe6fcd2986428d",
+   "size": 344
+  }
+ },
+ "inner_path": "data/users/17QEvEWi9oZwv8aCS56bAmfxtvZZR32KJW/content.json",
+ "modified": 1508192599,
+ "signs": {
+  "17QEvEWi9oZwv8aCS56bAmfxtvZZR32KJW": "GyQr6W6/Xsk8K9n9rN3J6XkN51zitIjeyGiRqlD73EU6HaMFAud02bR/FNrNsoHHTVoyETUK1S94utaTR5t+RHc="
+ }
+}

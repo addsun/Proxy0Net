@@ -1,0 +1,60 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HOTd75pr/OxdDuDpA+2LypuVca/2Pzz8AJqjpF7nZ/or6PD99Xhhn39XWko9df+wlLogZU8bV2rQmxb7h7W46xw=",
+ "cert_user_id": "ekaterina@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e541bb1efd0601a8e1fb67acb53357548f3c73e45c4509ffdde2eae2a92196f5",
+   "size": 1543
+  },
+  "data.json": {
+   "sha512": "feacc1d4a0d4aa1dabd003bdc15e53868a830a832fecf7ed172f5ed800877e00",
+   "size": 38380
+  }
+ },
+ "files_optional": {
+  "1507497775.jpg": {
+   "sha512": "f7d1834a4b150068a08e1a2483b21d6613da63caf5e0f11b438b46cf487ff5f3",
+   "size": 68408
+  },
+  "1507761837.jpg": {
+   "sha512": "acc4267734e1bdd5047ea4708c623dec4cf21fb42bfb91593e1d290a7b136aa9",
+   "size": 67628
+  },
+  "1507887298.jpg": {
+   "sha512": "74d48a0ec80cad9e7b704e4e2e4742f52d6534f81d677db2fb0e6cf8614e9f6f",
+   "size": 54801
+  },
+  "1507905837.jpg": {
+   "sha512": "26a3b907724514ea20e700ab8a833a74bea88e6ffb39adb46d78e1caae33f540",
+   "size": 58052
+  },
+  "1508141650.jpg": {
+   "sha512": "f7de30dda8cf7649b171d951b61dc1f11989dbc7ac94fa98f0ec1d7b05e5d208",
+   "size": 31528
+  },
+  "1508314774.jpg": {
+   "sha512": "0568a75d13e4bc43718ff2130f483e500a8596add71fcb109ef795d57c5dad92",
+   "size": 35079
+  },
+  "1508407419.jpg": {
+   "sha512": "3a7a2f16dee0e39f21d79282dc612403cc1cfa6ce68d738960e10c3f8758b365",
+   "size": 48854
+  },
+  "1508967183.jpg": {
+   "sha512": "537f40a4197239409dd54538d311689f95facfee1ffef92a6475da1565da36fb",
+   "size": 79717
+  },
+  "1509109544.jpg": {
+   "sha512": "f548e34bf8149af15b659dccce0ab0b62a94b5356b14458fc7d14cc2044ea1fd",
+   "size": 47174
+  }
+ },
+ "inner_path": "data/users/1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD/content.json",
+ "modified": 1511777866,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": "G/jc3fY2c9YkvU/81dqdEaL1D2KGe7dsznBEsFVl2PJdDkLbJBLmS1+VH7LcTL89l0JmusCmhkgBTwKe0gtGaMY="
+ }
+}

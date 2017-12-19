@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy8NwMWCxyQ8K5lE2uv3Lb7faQBDftLWOymsdtt6hJaaIvbeqFFSXkMlL8Q/OljqfxuLvUm4PfdbQjQrGmMjRuk=",
+ "cert_user_id": "defalt@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "91d9f52987fcf77b750ac4b8a9106cc32a4489a8f1451b112d01cd4fb4f32fc8",
+   "size": 1313
+  },
+  "data.json": {
+   "sha512": "dff41c5db475c026243b6f9b7df7f31b29d8c9da42bf39a478c9be1ca0832fd8",
+   "size": 3226
+  }
+ },
+ "files_optional": {
+  "1512608602.jpg": {
+   "sha512": "512515f484dce28736f3b09afa1d3ecc68c8dbe59754ca1058aad12fad5f0be8",
+   "size": 21356
+  },
+  "bg.jpg": {
+   "sha512": "278fb999cbeeec8cab10cf991033b9469d45becfdab9271ab5e46350559bbeac",
+   "size": 14145
+  }
+ },
+ "inner_path": "data/users/1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg/content.json",
+ "modified": 1512609246,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg": "G6pyiJmhTgmm6pXniZMub9pxy+qxf+ZTwnqvaX1pNTg5SEAcCZXxiK5ONfpdOy4ltmRbp5bLDgaXKn7GkGWxSog="
+ }
+}

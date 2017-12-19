@@ -1,0 +1,28 @@
+{
+ "address": "1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh",
+ "cert_auth_type": "web",
+ "cert_sign": "HLGaqYWjCEsCnJ9Kpx7n1QLwZzaH7bNO5b01yQWtOMxHdfiGn671DCdHflFRpOHz2XcUw3AcoA5IwoNXFqWgnB4=",
+ "cert_user_id": "leonsareh@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "241c6eb756a748115afce9f3846ddd898a55a385d696225c1bcd78e080bea7e8",
+   "size": 2068
+  },
+  "data.json": {
+   "sha512": "57cda6a47a1a8b6e53bc60619d92cd25aaf732da97ad6bbc3e4f777497a4a491",
+   "size": 1641
+  }
+ },
+ "files_optional": {
+  "1504996767.jpg": {
+   "sha512": "23a53506936bb3184e00e7e7a0116a4bc0ad06b1cd909cccb7509311e9c5b9a7",
+   "size": 86743
+  }
+ },
+ "inner_path": "data/users/1MVDHMNUeS1fcXD4xSKcopauuG73ae2gR2/content.json",
+ "modified": 1504997120,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1MVDHMNUeS1fcXD4xSKcopauuG73ae2gR2": "HNXDb7Y0o39m5pyFMLbSVyz/D0tbr/RCzc1bhE4khRQpMB7UI9pkofGMR9ZCKxDxcYhvN8VZzEZoieQS1TuqLXY="
+ }
+}

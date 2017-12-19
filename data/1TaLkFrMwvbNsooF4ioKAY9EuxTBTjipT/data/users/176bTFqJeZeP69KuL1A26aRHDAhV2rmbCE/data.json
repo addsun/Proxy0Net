@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"9_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"10_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 1,
+				"body": "My guess is to avoid expertsexchange problem.\n\nI'd totally get the printable ASCII-only requirement (because of Unicode homoglyphs, invisible characters etc), but just /a-z0-9/ looks overly restrictive. An minus-dash, underscore or a dot (just one of those) shouldn't be an issue.",
+				"added": 1508183957
+			}
+		]
+	},
+	"comment_vote": {
+		"46_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1
+	}
+}

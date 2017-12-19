@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Bandicot",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Utente ZeroNet casuale",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1512042779,
+			"body": "Ciao ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Dj6jkLbK1R5q4QA5v7EWPwRZYLDnWiwus",
+			"user_name": "Phantoman",
+			"date_added": 1512042788
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1EygQXPEyMyNb4WsdGNdHgWDP2y5NyyXQs",
+			"user_name": "Diabolik",
+			"date_added": 1512042790
+		}
+	]
+}

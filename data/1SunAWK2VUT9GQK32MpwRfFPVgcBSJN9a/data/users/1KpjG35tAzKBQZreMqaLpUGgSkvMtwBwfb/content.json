@@ -1,0 +1,25 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HMF2TKdC/g1qFqlgjTuB8Y04aTFblV4id2x+mRLrp+hBnmxN5PgKvy9lLdJ5EH4RZMDIZPAMG08fujUj3EVV9n8=",
+ "cert_user_id": "cloud69heartless@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f63e52cbd767819f38b101f6f433cf3c6a7092db5a5d6ef7b5b573e095092b3b",
+   "size": 1698
+  },
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "55f4c03696129cfd820c53fa5b89aed8bd4c63947d31a29662ddc7df130689f1",
+   "size": 18328
+  }
+ },
+ "inner_path": "data/users/1KpjG35tAzKBQZreMqaLpUGgSkvMtwBwfb/content.json",
+ "modified": 1504576644,
+ "signs": {
+  "1KpjG35tAzKBQZreMqaLpUGgSkvMtwBwfb": "HOGZm7FajrQ68waQV5FA9V9JeilxLSzQhv8kBrxvNtPhM4qysvTAIlogHRPZOT7OLyHe3zs8iMef45oJ2SQuPkk="
+ }
+}

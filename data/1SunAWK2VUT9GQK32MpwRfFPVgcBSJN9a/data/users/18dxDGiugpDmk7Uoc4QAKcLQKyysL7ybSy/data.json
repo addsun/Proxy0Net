@@ -1,0 +1,44 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Deu",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508842946,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1508843105,
+			"date_added": 1508843103,
+			"meta": "{\"img\":\"900,503,532665654776765554332baa221998887ccc433bbb999aaa,01223456510200755851499ABA1C5197DE33E551A9F7329114AAEA413144\"}"
+		},
+		{
+			"post_id": 1508848685,
+			"body": "https://www.youtube.com/watch?v=Zv_eOMyhtms",
+			"date_added": 1508848682
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "sieht nicht so aus :-)",
+			"post_uri": "1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt_1508852055",
+			"date_added": 1508852503
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt",
+			"user_name": "Neuromancer",
+			"date_added": 1508852461
+		}
+	]
+}

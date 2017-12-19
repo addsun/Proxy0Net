@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HOq4Yra8G4Ei46Xw5yrFHg0nF8VC5tch2R+g6MzTge7SbfmjAt3h2aKbvFK4efYPV58XkgfRhsamAuFsWu0Hysw=",
+ "cert_user_id": "0debian@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e5bb419a7c7ad5ba2dd7d5f9e888bb8c5c1ce67ea7320ec6e6778e52ee577608",
+   "size": 852
+  }
+ },
+ "inner_path": "data/users/1M3NRUFiyVxoc2CYEJEbVhTZ2RmWmunB2Q/content.json",
+ "modified": 1513220720,
+ "signs": {
+  "1M3NRUFiyVxoc2CYEJEbVhTZ2RmWmunB2Q": "G1efbS87baFfhiaO/IPdM3SqsPjduPW9tcIZpS6e92ZOaIoVCeyoPYQLDn8FVB3B4bSwEdcZaMnjtbB1qiqZmQ8="
+ }
+}

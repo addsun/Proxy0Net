@@ -1,0 +1,65 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1510753547,
+			"title": "Good learning resources to zeronet web development",
+			"body": "I am trying to learn how to make websites for Zeronet, it's easy to get started with a site, and to serve static content. But I found the ZeroFrame documentation hard to use, if you are completely new.\n\nI have completed the ZeroChat tutorial, but is there any place I can find further information. I have started to look at some of the sample sites, to get a better understanding of the structure of a bigger zites, but it's a lot to take in, if you are new.\n\nZeroFrame doc: http://127.0.0.1:43110/17Kom2G5qNDc6NaQwv445h1gFzxkY3ZtZe/\nZeroChat tutorial: http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial",
+			"added": 1510753546
+		},
+		{
+			"topic_id": 1511097948,
+			"title": "Torrent Share",
+			"body": "http://127.0.0.1:43110/1ShArE1dJFcHFgTEEAUMXksDZuRckzd3Y/",
+			"added": 1511097946
+		}
+	],
+	"topic_vote": {
+		"1510753547_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"1511404042_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1511696027_1JMUMmZ4qJDGEKyyByhNvMjCFYakD58df": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": [
+			{
+				"comment_id": 1,
+				"body": "> [parkour86](#comment_8_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M): Under \"My Repos\" it lists all the repos I have visited. How do I remove the ones I don't want to see in the list? [...]\n\nYou can remove them from ZeroHello (the start page), in the sidebar there's a section called 'merged: gitcenter'. From the dropdown (3 dots) there is an option to delete the repo/site",
+				"added": 1510753900
+			}
+		],
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": [
+			{
+				"comment_id": 2,
+				"body": "> [naeui7tycw9p35y9](#comment_20_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep): i submitted a torrent file [...]\n\nThe file is different, because it is parsed using [torrent-parser](https://www.npmjs.com/package/torrent-parser), and then saved to a json file. When you download the torrent file, it is getting reassembled using the information in the `data.json` file",
+				"added": 1511384739
+			},
+			{
+				"comment_id": 3,
+				"body": "> [sirenyc](#comment_203_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): Increase the limit for all users to upload more on the site!\n\nI have updated the max upload size from 1mb to 25mb.",
+				"added": 1511385466
+			},
+			{
+				"comment_id": 4,
+				"body": "> [sirenyc](#comment_204_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): Thx!Put more!Create a zerome or place your contacts on the site in case you need to contact.\n\nI have bumped the max upload to 40 MB, this should be sufficient, otherwise send me a message if you run out of space. I have also added my contact information to the site. :)",
+				"added": 1511386612
+			}
+		],
+		"1511866479_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": [
+			{
+				"comment_id": 5,
+				"body": "I think transmission is able to run a script on completion. I have never tried it thought",
+				"added": 1511872646
+			}
+		]
+	},
+	"comment_vote": {
+		"39_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"6_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1,
+		"2_16adTqUqDgQ9FvXMtskaN8v2XjvFgYKfJd": 1,
+		"227_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1061_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1
+	}
+}

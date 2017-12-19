@@ -1,0 +1,21 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "HOMB8lGQ2n+OfcGvDEVeh8Nuq/WF3j6CLUf6gki73uClWdMgARNfLc21DEg7zza3K/Ubg9mi5zB2KUPsGEcsSLc=",
+ "cert_user_id": "redstoneb@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4c95bcfb7e0de36829aa0bcdb4d8cc69c5ebaef8e7ea54e90d40137818758270",
+   "size": 1513
+  },
+  "data.json": {
+   "sha512": "39ccac3f5de4e7d92baee60243ae78d7c4aed20d245bf210a47ce80bfc77df91",
+   "size": 1967
+  }
+ },
+ "inner_path": "data/users/15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG/content.json",
+ "modified": 1513078114,
+ "signs": {
+  "15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": "GyBJ2rWPF2m3efx+uWX/Q7XipNrXEiFmsNAhs+XhTBMncU8LLEfa4DBEHmh3MsgNsNnW7k23hUUFSlUwdnSceDI="
+ }
+}

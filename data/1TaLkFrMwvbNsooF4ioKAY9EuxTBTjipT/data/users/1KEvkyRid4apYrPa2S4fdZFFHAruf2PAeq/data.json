@@ -1,0 +1,51 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1510983074,
+			"title": "Proxy.Zerocat.Eu - New Zeronet Proxy!",
+			"body": "Features:\n- ClouDNS.net registered domain (paid).\n- Hosted on a VPS (paid).\n- Optimized for big files, although currently there's only a 19gb optional files limit (vps size is 20gb). \n&nbsp;\n- DNS points to CloudFlare, which will (hopefully) help with performance and hiding the host location.\n- Optimized for Kopykate BIG (big.kopykate.bit).. the proxy allows fullscreen, and videos play almost instantly, provided there's enough seeders.\n- We hope to become the official gateway to ZeroNet, in order to reach as many users as possible. \n- We will not use any ads, unlike The Pirate Bay, but users need to allow CoinHive. It will run at low speed so as to have minimal impact on user performance. If your AdBlock  blocks the miner, make sure it is disabled for proxy.zerocat.eu. Remember, this is real money we are putting on the server, and we will continue to make improvements..\n&nbsp;\nThis will take the load off of my home PC... yahoo!\n&nbsp;\n..Long story short, my friend from college still hasn't finished building his VPS service. Hopefully by Christmas I'll be able to switch to his server and then see the difference. Then I can use Zerocat.eu and not have to hide anything from the admins.. lol",
+			"added": 1510983073
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1510983074_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq": [
+			{
+				"comment_id": 1,
+				"body": "Just had 2 hours downtime.. my ssh accidentally crapped out and destroyed my Zeronet process, due to cloudflare dns transfer.. so I had to use a screen instance to keep everything running again..\n&nbsp;\nTomorrow I'll have to have a look at the NGINX reverse proxy and see if I can optimize the performance, cause I'm noticing some minor lag and interruptions when loading pages. Somehow using a reverse proxy causes it to slow down, compared to using the :43110 port directly.",
+				"added": 1510997804
+			},
+			{
+				"comment_id": 2,
+				"body": "> [bbtuxi2](#comment_1_14tkD6qqifoVQs5aKacz9vQJSME92za5cw): AdGuard has detected that this website is trying to use your browser as a blockchain currency miner. It can create significant CPU load.....................\n\nIt's throttled. Read the topic",
+				"added": 1511089953
+			}
+		],
+		"1_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": [
+			{
+				"comment_id": 3,
+				"body": "It won't work. It's like trying to DoS a torrent file.. ... everyone who downloads the files, is both client and server.\n\nYour best bet is trying to hack the computer and steal the private key.",
+				"added": 1511090390
+			}
+		],
+		"1_1ApJ2dibcJbE8cvEeo3Db75cwkRArD2XjA": [
+			{
+				"comment_id": 4,
+				"body": "You know .. It could theoretically be possible to establish a long-range wifi connection using two parabolic antennae close to the North Korea / South Korea border.. provided that whoever built themselves a home-made parabolic dish up in the mountains keeps it hidden from plain sight. Both dishes would have to be facing each other and perfectly aligned.. at the top of a mountain, with no obstructions ahead.\n&nbsp;\nYou'd need high power output, too. Apparently, standard WiFi devices come with a legally-enforced power limit (watts)... but that could easily be hacked / modified. (not that you would really care about the law in such a situation, either way!) \n&nbsp;\nhttps://www.air802.com/fcc-rules-and-regulations.html\n&nbsp;\nCurrent Wifi world record (237 miles):\nhttps://www.wired.com/2007/06/w_wifi_record_2/",
+				"added": 1511090964
+			}
+		],
+		"1511133140_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 5,
+				"body": "It's basically a copy of http://127.0.0.1:43110/big.kopykate.bit, but with the YouTube logo.\nKopykate BIG was copied from ZeroUp, but I created the search functionality, user video list and video player. (Wasn't meant to compete with ZeroUp, anyway.. as ZeroUp is for sharing files, Kopykate is for video.)",
+				"added": 1511134312
+			}
+		]
+	},
+	"comment_vote": {
+		"30_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1
+	}
+}

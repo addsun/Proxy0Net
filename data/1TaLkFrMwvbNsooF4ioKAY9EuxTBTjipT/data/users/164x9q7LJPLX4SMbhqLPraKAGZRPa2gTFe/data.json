@@ -1,0 +1,375 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to create Merger Sites?",
+			"body": "Is there a guide or tutorial somewhere on how to set up a merger site like ZeroMe?\n\nOr even just a description of how Merger Sites work?\n\nCan't find anything at the moment...",
+			"added": 1498391032
+		},
+		{
+			"topic_id": 2,
+			"title": "Can't get ZeroID",
+			"body": "On another instance of ZeroNet, I don't seem to be able to retrieve a ZeroID.\n\nI get the incredibly useful message of `Error while during request: error undefined`\n\nI've tried deleting the entry in data/users.json, as well as inserting an old entry. Neither seems to work.\n\nI can get one from KaffieID, but it's not as popular... I tried BitMessage before which also didn't work. May have caused the issue...\n\nThanks!",
+			"added": 1498555441
+		}
+	],
+	"topic_vote": {
+		"1_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512740015_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1513402503_18aZuViC7uWA6UMdsz6p3WV5wBpuCP4yWm": 1,
+		"1513544848_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 60,
+	"comment": {
+		"1_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": [
+			{
+				"comment_id": 1,
+				"body": "> [nofish](#comment_931_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is not much yet. I'm planning to do a tutorial on it. Any ideas what kind of site you want to see in it?\n\nI think a basic version of something like ZeroMe is perfect - where multiple users can post content such as text and images, on multiple merger sites, but it can all be viewed from just one of them.\n\nI know ZeroMe doesn't even have it yet, but is it possible for such sites to have multiple levels of permissions for users? Such as a general user, moderator, admin etc?",
+				"added": 1498480475
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_931_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is not much yet. I'm planning to do a tutorial on it. Any ideas what kind of site you want to see in it?\n\nAdditionally, the real concept of a merger site is a bit confusing, would be a good idea to explain what exactly a merger site is and how they interact with each other.",
+				"added": 1498483399
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_932_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Basically when you grant a merger permission to a site it basically mounts all connected merged sites data under the sites's merged-[mergedtype] directory and able to modify/read them like they were normal files on the site.\n\nHuh, are all available variations of the site mounted, or just those specified by the local site somehow?\n\nBasically what does 'all connected merged sites' mean?",
+				"added": 1498484197
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_933_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ZeroNet only holds the latest version of the site. [...]\n\nAh ok, makes sense. I'll try to piece together how it all works from existing sites in the interim. Looking forward to seeing the tutorial as well, thanks for everything you do!",
+				"added": 1498484733
+			}
+		],
+		"1_1Bz3UqKY3RHF4ZyMqatwTBUGwDNahmU5SS": [
+			{
+				"comment_id": 5,
+				"body": "Is the multiuser plugin enabled? I would get problems with it enabled sometimes.\n\nI personally have no issues with ZeroNet 0.5.6 on Qubes with Debian Stretch VM.",
+				"added": 1498487258
+			}
+		],
+		"1_1AepKbDW5mFGtdtGp1czb9kRiCrjNgHF99": [
+			{
+				"comment_id": 6,
+				"body": "Some uh... details would be good.",
+				"added": 1498526678
+			}
+		],
+		"1_1DSTC4b9sByPY7GMpZWxKwfQFq6zc8qtjy": [
+			{
+				"comment_id": 7,
+				"body": "> [sternezelt](#comment_3_1EAmcsGXT9NYGUdR7azGgSkMUdvmYgpi5Q): In China，now we can talk about sex or homosexual, can you believe?Homosexuality is considered a diseaseand now we cannot use VPN to vist such as Twitter ins,it's illegal.In this land , I think we now live a world of 1984(I'm not good at English:)\n\nThat's terrible, but your English is pretty good! \n\nHave you heard about the \"social credit\" system being set up in Beijing? What do you think about that?",
+				"added": 1498891447
+			},
+			{
+				"comment_id": 8,
+				"body": "> [redmyname](#comment_2_18GVhFq7iTRQHqqVRT5CipRkhWFoc4Tahi): I think he  meant \"we cannot talk...\". Recently a association of televison and media made a policy about what we cannot talk about publicly in media，and homosexual was one of these forbidden things. Unbelievable！Maybe they want to be the big brothers of 1984, but we people will not be the servile lot of Oceania.One day we will fix our problems, and the world will be a better place.\n\nI hope that day comes soon my friend.",
+				"added": 1498925652
+			}
+		],
+		"1512509353_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 9,
+				"body": "Looking awesome, but needs to not be requesting a bunch of clearnet sites in the background. Also should change the logo from YouTube to something less copyright-infringing :P",
+				"added": 1512533418
+			}
+		],
+		"1512534533_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 10,
+				"body": "Oh dang, I think so. Never noticed that...",
+				"added": 1512536134
+			}
+		],
+		"1512556927_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": [
+			{
+				"comment_id": 11,
+				"body": "The link works but it stays on the current site for a few seconds before directing to your link, which is not the best UX.\n\nPerhaps linking to a video page on KopyKate would be a nicer user experience? [Link](http://127.0.0.1:43110/18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh/?Video=1511178584_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu)",
+				"added": 1512591972
+			}
+		],
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": [
+			{
+				"comment_id": 12,
+				"body": "All good stuff. Do you have a project name in mind?",
+				"added": 1512592070
+			}
+		],
+		"1512651955_1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj": [
+			{
+				"comment_id": 13,
+				"body": "Find a public proxy and load your site through it. The proxy (which should have it's port open) will be able to download and seed it with hopefully high bandwidth.",
+				"added": 1512669150
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 14,
+				"body": ">Automatic thumbnails from videos would also be nice. May be some JavaScript based software can extract a few frames from the video and give the users an option to choose, which frame they want to use for the thumbnail.\n\nYeah video thumbnails served as optional files would be nice. Having them hosted externally on the clearnet doesn't feel right to me.",
+				"added": 1512669458
+			},
+			{
+				"comment_id": 18,
+				"body": "Lots more peers today on some videos! I'm afraid three digits or more makes the peer image overflow however :) http://127.0.0.1:43110/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe/1512759928.jpg",
+				"added": 1512760088
+			},
+			{
+				"comment_id": 19,
+				"body": "> [james007](#comment_130_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): I'd post some more stuff, but ran out of disk space. Some of the HD vids take up a ton of space.\n\nHopefully as more people seed your stuff, you can delete those from your HDD and upload the rest :)",
+				"added": 1512760677
+			},
+			{
+				"comment_id": 20,
+				"body": "As of [this ZeroNet commit](https://github.com/HelloZeroNet/ZeroNet/commit/0009b1b7d1d3fc62a0b126b8ed1d66730e75242b) we no longer need a separate \"Fullscreen!\" button!",
+				"added": 1512761564
+			},
+			{
+				"comment_id": 21,
+				"body": "> [salvotnt](#comment_11_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS): what about embedding code like youtube? It's a huge enhancement , for me....\n\nIIRC [IFS](http://127.0.0.1:43110/12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er/) already tackled this and got it working. Essentially all one would need is access to the DB of KopyKate. I'm unsure of whether KK is a merger site, but if not @kopyjane may consider making it one if this functionality is not possible without it. (Also making the standard, embeddable merged-CDN of videos for ZeroNet would be pretty cool to say the least).\n\nThere is a tutorial for Merger sites in [this zip](https://github.com/krixano/ZeroNet-Dev-Center/issues/28) [clearnet] if necessary :)",
+				"added": 1512763099
+			},
+			{
+				"comment_id": 27,
+				"body": "kopyjane: Please check your ZeroMail asap.",
+				"added": 1512964250
+			},
+			{
+				"comment_id": 28,
+				"body": "> [kopyjane](#comment_114_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Now that I think about it .. ZeroTalk uses bots to post news...\n\nCan you not simply reference the selected video file on the client's computer, compute the frame from that, convert to base64 and include it in the video posting? Aka do this all client-side?",
+				"added": 1512986886
+			},
+			{
+				"comment_id": 29,
+				"body": "Also another thought, do you have plans to make this a merger site at all?\n\nWithout storing the video data in a separate site in a way that's importable into other sites, I'm not sure how other sites could use the BigFile plugin to load your videos. Thus you wouldn't be able to embed not-downloaded videos from your site on others, which seems like a big limitation.\n\nTo resolve this would require the video index/metadata in a separate site a la. [Git Center](http://127.0.0.1:43110/GitCenter.bit) and its \"Git Center Index\" merger site, at least to the best of my understanding. Is that right @krixano @gitcenter?",
+				"added": 1512987057
+			},
+			{
+				"comment_id": 31,
+				"body": "You're also aware of the bug with seeders/leechers where mousing over them sometimes shows something like:\n\n\"Seeder: 1000003, Leecher: 2\"\n\nThat video also apparently has 12 peers, so I'm not sure how those numbers add up :)",
+				"added": 1513023946
+			},
+			{
+				"comment_id": 32,
+				"body": "Also an interesting quip from the original [ZeroTube Readme](https://github.com/rllola/zeroTube):\n\n>I am thinking of using the merger site feature so one hub would be a channel. It would allow people to create a channel and allow everyone to add videos to it or only some selected people. Everyone could follow a channel. It would make the search only effective in the channel that we are already following but it would allow to split database and ignore thing that we are not interested in.\n\n>I also like the idea to have several account being able to publish on a channel instead of youtube way of doing 1 username = 1 channel.",
+				"added": 1513025621
+			},
+			{
+				"comment_id": 33,
+				"body": "> [krixano](#comment_205_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Although, there is a CORS plugin (clearnet), I'm not sure if you could use that instead of merger zites.\n\n@nofish Do you know if BigFile is able to work across CORS or does it require pointing to a relative resource a la merger zites?\n\nOf course merger zites have other benefits, but you could implement this relatively quickly if it does work.",
+				"added": 1513126687
+			},
+			{
+				"comment_id": 34,
+				"body": "> [missesrobot](#comment_25_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Should KopyKate have merger zites? If so, I'll start working on the feature right away.. :)\n\nAnother reason is that you could technically be forced to remove any copyrighted content that was on a zite you control. If the data is stored on merger zites then you decentralize control of that data to the users who created those zites.\n\nIt would also allow people to post all videos on their/someone else's channel on their own zite, while if you're going over CORS then you'll need to specifically embed each video ahead of time, rather than just running a query over a shared database.\n\n(Out of curiosity did you make another account to get around the ZeroTalk size limit? Because I'm getting close to hitting that myself)",
+				"added": 1513136045
+			},
+			{
+				"comment_id": 35,
+				"body": "> [missesrobot](#comment_27_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): haha.. nah, I just want a better username. In the past I've generally just created user ID's in a hurry.. or just to get around the limits, as you said.. as was the case with Kopyjane. This will be my final username ;)\n\nCool, loving the parallel to a certain show ;)",
+				"added": 1513136252
+			},
+			{
+				"comment_id": 38,
+				"body": "> [missesrobot](#comment_28_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): You mean somebody could force you to sign your site?\n\nExactly, yes.",
+				"added": 1513137223
+			},
+			{
+				"comment_id": 39,
+				"body": "> [missesrobot](#comment_30_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I could actually post videos that belong to another zite.. on KopyKate. It just isn't a user-enabled option right now.. but if I make the file address editable, then you could. The zite is also clonable as we speak.. \n\nThe problem with this is fragmented content. You have to go to different zites to get the content you want. Though if all zites had a merger zite index that they contribute to, then you could just use that and grab the content from other zites still...\n\n> My aspirations lie more in media, film .. music.. robotics.. animation. I plan on walking away and going white-hat.. as soon as I feel that I've successfully played my part in fucking over the corporate world. I don't have much to hide, or much to lose. If I ever ended up government watch-list, I'd very much take that as a compliment!\n\nThat's awesome :)",
+				"added": 1513138607
+			},
+			{
+				"comment_id": 40,
+				"body": "> [missesrobot](#comment_31_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): hmm.. I'll probably have to wait and see before I make any drastic decisions with the zite. Worst case scenario? If merger zites became an absolute necessity, we'd just have to start over. No biggie - if we did, then we can always just embed the old videos from the old zite, into the new zite.\n\nOr just turn the old zite into a merger and have the new zite pull the content from it :D",
+				"added": 1513139542
+			},
+			{
+				"comment_id": 41,
+				"body": "> [missesrobot](#comment_32_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Yes, that's the one. Just use the old zite as an archived-videos merger zite. Do it every XX mb. IMO, seems less troublesome than having a separate zite for every individual user channel or something. That would probably overload people's ZeroHello homepages.. and make loading videos slow.\n\nYes, at this point it's probably best to get the other important bits of the zite up and running and let merger features mature a little bit before deciding to switch over :) Thanks for the great discussion and embed testing!",
+				"added": 1513140880
+			},
+			{
+				"comment_id": 44,
+				"body": "missesrobot: new mail for you on kopyjane acc.",
+				"added": 1513465127
+			},
+			{
+				"comment_id": 45,
+				"body": "> [mrsrobotzerocat](#comment_1_1DpN91N84piuzYn2iJKM9RK3Ek8JVNjewa): Hey. Could you please resend it to this user name if it is urgent? Im in a car. Thanks\n\nResent, thanks!",
+				"added": 1513474489
+			},
+			{
+				"comment_id": 47,
+				"body": "When uploading a video series one ends up using the same image for all of them, which can quickly fill up space in the index.\n\nIdeally once the only option for images is to upload them, we would be able to select from our already-uploaded images and choose that for our new vid.\n\nThus when uploading a new image, that goes into our data.json under \"images\" or something with an id number, and the video object would reference the image via its id.",
+				"added": 1513485166
+			},
+			{
+				"comment_id": 48,
+				"body": "> [missesrobot](#comment_45_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Good point! [...]\n\nNice battle plan.\n\nAlthough I run a proxy myself I doubt it could take much more load than 10-20 people watching videos at a time. If we detect someone's running through a proxy (URL doesn't start with 127.0.0.1) then we should prompt them to download the client for faster speeds and helping out others :)",
+				"added": 1513496719
+			},
+			{
+				"comment_id": 53,
+				"body": "One minor issue is that uploading a video with the same filename as one of your past videos actually overwrites the past one! Might be good to append a unique-id to the file name upon upload to avoid that? :)",
+				"added": 1513577859
+			},
+			{
+				"comment_id": 54,
+				"body": "> [missesrobot](#comment_48_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): I've noticed this too. This seems to have caused a visible CSS glitch in my new site version - in which video information is appended twice into the same DIV, thus causing distortion and overflow in the video list. But I fixed it by adding a random number to the dynamically generated divs.\n\nNot just that, it actually overrides the metadata in my case and deletes the old video. Aka it copies the new video over the old video and piece file. Seems like actually renaming the file may be necessary, but can one do that in JS?",
+				"added": 1513581530
+			},
+			{
+				"comment_id": 55,
+				"body": "> [missesrobot](#comment_49_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Yes, this should be easily fixed. Currently, the ZeroUp javascript adds a time-stamp to the filename, only if its really short. [...]\n\nAwesome, thanks. Currently piecing together overwritten russian and english episodes lol.",
+				"added": 1513581991
+			},
+			{
+				"comment_id": 57,
+				"body": "Also adding a playlists feature so that we can organize our video pages would be cool too :)",
+				"added": 1513582552
+			},
+			{
+				"comment_id": 58,
+				"body": "One more thing: Being able to send someone a KopyKate link with the search terms included would be very handy. Thus the search terms would need to be included in the URL upon search.",
+				"added": 1513586539
+			}
+		],
+		"1512740015_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 15,
+				"body": "Checking...",
+				"added": 1512758377
+			},
+			{
+				"comment_id": 16,
+				"body": "Working, downloading directly from you :)\n\nI'll download the whole Android torrent and seed it once it's done.",
+				"added": 1512758665
+			},
+			{
+				"comment_id": 17,
+				"body": "Cool, thanks for taking the time to do this!",
+				"added": 1512758820
+			},
+			{
+				"comment_id": 22,
+				"body": "Let us know when it's back up and we'll seed once again :P",
+				"added": 1512765159
+			},
+			{
+				"comment_id": 23,
+				"body": "Seems like it's back up.",
+				"added": 1512777188
+			},
+			{
+				"comment_id": 24,
+				"body": "Fully downloaded and seeding :)",
+				"added": 1512785558
+			}
+		],
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 25,
+				"body": "> [obiwanzanobi](#comment_73_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): what's udemy?\n\nCourse-hosting website. www.udemy.com",
+				"added": 1512895305
+			},
+			{
+				"comment_id": 26,
+				"body": "> [acabin](#comment_8_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b): I'm done for today. Still have about 17 courses to add.\n\nThank you for your preservation and knowledge-spreading efforts!",
+				"added": 1512895319
+			},
+			{
+				"comment_id": 30,
+				"body": "I'll be seeding these with a 1gbps connection in a few days. I only have ~120GB of storage though.",
+				"added": 1513023702
+			},
+			{
+				"comment_id": 43,
+				"body": "Seeding is a go with 1TB of storage!",
+				"added": 1513295034
+			}
+		],
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 36,
+				"body": "Looking pretty good! Seems like BigFile works cross-site! The ZeroUp video did work while the KopyKate one did not. Try deleting the KopyKate video from your site files and see if it still loads. \n\nThe ZeroUp one I definitely have not downloaded or viewed before, so that's promising!\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/merged-ZeroMe/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/data/users/164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe/1513136300.jpg",
+				"added": 1513136436
+			},
+			{
+				"comment_id": 37,
+				"body": "> [missesrobot](#comment_29_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): It's just to do with the amount of peers. The star trek video is relatively old, while the Kopykate video I posted today. What I've noticed is that, it tends to often crap out if there's not enough peers .. thus producing the MIME type error\n\nIt seems to be working now after I reloaded a few times :)",
+				"added": 1513136562
+			},
+			{
+				"comment_id": 42,
+				"body": "> [missesrobot](#comment_36_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): It would be great to see corspermission in action, or have an example code snipplet. I must admit, I haven't explored many of the other ZeroNet features beyond bigfiles. It takes a lot of time to figure stuff out!\n\nGood question for [ZeroNet Dev Center Questions](http://127.0.0.1:43110/DevCenter.bit/?/questions)!",
+				"added": 1513144130
+			}
+		],
+		"1513455571_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 46,
+				"body": "Check out this tutorial on how to use a bitcoin vanity address generator and how to use the resulting priv/pub key combo as your site address: http://127.0.0.1:43110/big.kopykate.bit/?Video=1513474096_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe",
+				"added": 1513474494
+			},
+			{
+				"comment_id": 50,
+				"body": "> [jlxip](#comment_48_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): 0sh.bit\n\nUseful for sharing long links quickly, not so much for an official site URL :)",
+				"added": 1513543980
+			}
+		],
+		"1513402503_18aZuViC7uWA6UMdsz6p3WV5wBpuCP4yWm": [
+			{
+				"comment_id": 49,
+				"body": "Good to have you!",
+				"added": 1513497842
+			}
+		],
+		"1513544848_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 51,
+				"body": "I'd just like to say that it's very commendable what you're doing and that you have an excellent cadence with your writing.\n\nI'll look into the site and try to figure out what's going on.\n\nIf you want a .bit address just ask, I have enough namecoin myself.",
+				"added": 1513566972
+			},
+			{
+				"comment_id": 52,
+				"body": "First can you try selecting the three-dot drop-down menu in ZeroHello for FREEMLT and selecting the 'Upgrade Code' button? If you made any changes to JS/CSS files beforehand, be sure to back those up before you do this, and re-apply the changes afterwards.",
+				"added": 1513567320
+			}
+		],
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 56,
+				"body": "> [missesrobot](#comment_47_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Well. I don't wanna be sentenced to life in prison just because some douchebag uploads kiddy porn to my server. [...]\n\nWhat would be your action on cp or similar on KopyKate? Obviously it should be removed, but technically you're not liable as it wouldn't be hosted on your server.",
+				"added": 1513582161
+			}
+		]
+	},
+	"comment_vote": {
+		"931_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"932_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"112_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"5_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"102_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"6_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"27_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"192_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"110_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"12_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"96_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"205_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"43_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"4_1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": 1,
+		"318_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"3_1DpN91N84piuzYn2iJKM9RK3Ek8JVNjewa": 1,
+		"79_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1
+	}
+}

@@ -1,0 +1,174 @@
+{
+	"next_comment_id": 27,
+	"user_name": "Talnicrom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_2": 1471482758,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_7": 1471799443,
+		"1bVk3cNLfbg3zLF7pS55NW69XMKgGWSsT_1472210935": 1472220635,
+		"1DRGcXbDWjecjtj7cgLUqiyPDTiepVYn8k_1472233858": 1472239967,
+		"1LioorsH1XNAMTpN1VbMpmpjJWUoUHLqni_1473457191": 1473460353,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474187738": 1474211053,
+		"16w7UuJAHbt8YBa8zxHS7UFk9mq8Q5DpE4_1474452579": 1474467655,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474474382": 1474478657,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474308964": 1474487127,
+		"13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy_1475187744": 1475208478
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Gandleblix is my alter ego.",
+			"post_uri": "1QFkQRk1ziRkRhmp6UZTSAqF1DkfAVLK3T_1",
+			"date_added": 1471462598
+		},
+		{
+			"comment_id": 2,
+			"body": "By the way, hello @uptown",
+			"post_uri": "1QFkQRk1ziRkRhmp6UZTSAqF1DkfAVLK3T_1",
+			"date_added": 1471462844
+		},
+		{
+			"comment_id": 3,
+			"body": "Really you just need to get a few people to visit your site and seed it.  If the set of people who seed your site and are online is essentially always nonempty then you don't have to worry about people being able to access it.  FWIW, I have been spamming my own little project quite a bit lately!",
+			"post_uri": "1PoiRFseXaeGhnj2mpwS3xiXVrUd8noRLW_3",
+			"date_added": 1471464981
+		},
+		{
+			"comment_id": 4,
+			"body": "@Icf20: This kind of thing is something the community has yet to explore, as far as I know.  In the wikipedia use case, the merger sites feature makes it possible to organize data by topic and then seed each topic in its own hub.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471799432
+		},
+		{
+			"comment_id": 5,
+			"body": "@Icf20:  No, only two levels are needed.  Each hub contains data which has a certain property like \"relevant to Gardening\".  Then one builds a merger site that provides an interface for the whole package.  The first time you visit a page in the Gardening section, you will download (and seed) the Gardening hub.  Whoever runs the interface would decide which hubs will be supported and how to display their data.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471801936
+		},
+		{
+			"comment_id": 6,
+			"body": "@Icf20: Oh, okay, gotcha!  In your terminology Me.ZeroNetwork.bit (this site) would be an example of a super hub.  It seems I was using 'merger site' to mean the same thing.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471802716
+		},
+		{
+			"comment_id": 7,
+			"body": "@Icf20: I think that cloning would not play such a big role in the wikipedia use case.  Presumably, the creation of new topic hubs would become rare after a brief while.  ",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471802835
+		},
+		{
+			"comment_id": 8,
+			"body": "@Icf20: Each article probably wouldn't be its own page.  Rather the discussion about a given page would be stored as data on the same hub where the page is stored.  To clarify further, a page would be made by the merger site from some data stored on the appropriate topic hub.",
+			"post_uri": "1JARuoKjvXanUeKyPTXU9cus2jRzi4DZU5_1",
+			"date_added": 1471803341
+		},
+		{
+			"comment_id": 9,
+			"body": "@Jayofthezero: Remember when people used to respond with \"Hi!\" or \"Welcome!\"?  Those were the days...",
+			"post_uri": "1FS2NkaN4g8HvYZkkRCVY1iWmV71tJU6n2_1",
+			"date_added": 1472059814
+		},
+		{
+			"comment_id": 11,
+			"body": "You click on the 'Hashtags' tab to the right of 'Followed users'.  Then you click on 'Search hashtags...' and enter the tags (with #) that you want to see.  Finally, click 'Search'.  If you want to change the displayed tags, click the 'New search' link.  At the moment, people are not using hashtags much.  However, I think that people are going to want to filter the feed by topic and hashtags are a good way to do that.",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1473864250",
+			"date_added": 1473864478
+		},
+		{
+			"comment_id": 12,
+			"body": "@علي محمد: Hey, it's a little project of mine to add some features to ZeroMe.  It currently (1) hides 'Hello ZeroMe!\" posts and (2) has a hashtag tab where you can show only posts with a given set of hashtags.  I'm almost done making hashtags that appear in posts clickable, so that when you click, it shows all the other posts with the same hashtag. #ZeroMePlus",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1473864106",
+			"date_added": 1473871144
+		},
+		{
+			"comment_id": 13,
+			"body": "Posts can be formatted with markdown so starting a post with a hashtag gets interpreted as a heading.  You can end with hashtags all you want.  If you want to search hashtags use [ZeroMe \"Plus\"](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/) instead of ZeroMe.  Not many people are using them though.  #help #hashtags",
+			"post_uri": "1LVjUtcsrqQcsCqdmCnZu2RRYrWtzG7vPG_1474308442",
+			"date_added": 1474314982
+		},
+		{
+			"comment_id": 14,
+			"body": "@Shellbound: Good to know.",
+			"post_uri": "1LVjUtcsrqQcsCqdmCnZu2RRYrWtzG7vPG_1474308442",
+			"date_added": 1474322793
+		},
+		{
+			"comment_id": 15,
+			"body": "I wrote a simple bot a while back (and ran some characters on ZeroMe for a while).  You might be able to optimize it a bit and adapt it to your purposes.  The code is available at [ZeroMods](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).  Note: it requires my SimpleAPI plugin, also available at ZeroMods. #ZeroMods #bots",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1474372907",
+			"date_added": 1474380246
+		},
+		{
+			"comment_id": 16,
+			"body": "You will need to have multiple hubs downloaded at any given time.  Each user registers a profile on a hub.  Their posts are stored on that hub.  However, their comments on a given post are stored on the same hub as the post.  So for each hub you download, you will be able to see: (i) the user profiles of users on that hub, (ii) the posts by users with profiles on that hub, and (iii) comments to posts by users on that hub.  #zerome #help",
+			"post_uri": "15Hi7MDddHwzTZmmcsj8MWLpZaDz6mLPXg_1",
+			"date_added": 1474471935
+		},
+		{
+			"comment_id": 17,
+			"body": "If you don't care about being visible to the clearnet (except through a proxy service), one solution would be to use the merger site feature.  Set up a merger type such as \"CommentLayer\".  (You could probably even use \"ZeroMe\" if you want.)  Then write a code snippet that asks for permission to merge with CommentLayer, then displays existing comments, a box for a new comment, etc.  Users can include this code snippet on their ZeroNet site.  I guess you could even run a clearnet site with the express purpose of displaying the comments in CommentLayer. ",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474472316
+		},
+		{
+			"comment_id": 18,
+			"body": "I hope you have an exchange in mind.  The last thing the world needs is another altcoin!",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474308964",
+			"date_added": 1474479426
+		},
+		{
+			"comment_id": 19,
+			"body": "@Alex: Awesome. Can't wait to see it!",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474308964",
+			"date_added": 1474487122
+		},
+		{
+			"comment_id": 20,
+			"body": "I just published an update which does what you suggest.  If you prefer to use #ZeroMePlus, you can get the best results by turning off the mention notifications in ZeroMe, then turning them on in ZeroMe \"Plus\".  Thanks for the suggestion!",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474535699",
+			"date_added": 1474552932
+		},
+		{
+			"comment_id": 21,
+			"body": "@Durand: Yeah, toggling notifications is the only way to refresh the SQL queries passed to the NewsFeed plugin.  Anyway, the solid engineering of ZeroMe makes it easy to hack in new features. @nofish #props",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474535699",
+			"date_added": 1474637488
+		},
+		{
+			"comment_id": 22,
+			"body": "What do you mean exactly?  If you mean that you want to have a way to define a set of posts and then have the ZeroMe (or #ZeroMePlus) UI hide them, then the task is relatively easy.  On the other hand, if you want to have some kind of private posts, where some users can see the post and others can't, then more thought is required.  Since it is (essentially) the case that all ZeroMe users get all data, private posting would mean encrypting posts and then using a key-sharing scheme so that some set of users would be able to decrypt them.  I believe that we would be much better off if functionality like that were implemented in the backend.  @nofish: any opinion?",
+			"post_uri": "16dVbybDseQBQnxdJDuQhCzYAij8iR8YEc_1474633058",
+			"date_added": 1474640646
+		},
+		{
+			"comment_id": 23,
+			"body": "I wrote some code that you might be able to adapt.  Check out the SimpleAPI ZeroNet plugin and the Robot Pack [here](http://127.0.0.1:43110/1JjHyLeEDidHyyN33Y8f8cQKVEzWCEPnW7/).  If you do wind up building something cool, please post about it!",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474810657",
+			"date_added": 1474813158
+		},
+		{
+			"comment_id": 24,
+			"body": "@Balancer73: You can view images in [ZeroMe+](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6).",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475281007",
+			"date_added": 1475283221
+		},
+		{
+			"comment_id": 25,
+			"body": "I can add keyword searching without much trouble.  Stay tuned (:^D)",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475188757",
+			"date_added": 1475343565
+		},
+		{
+			"comment_id": 26,
+			"body": "I agree, but I don't know the best way to go about it.",
+			"post_uri": "15ANYSsjScSzTqt4L6WreCyr3SBvQ15xc4_1475342238",
+			"date_added": 1475344384
+		}
+	],
+	"flags": {
+		"post-16ojERmxhsiYi13evABojDh1JgDNqodpZF_1475681496": 4,
+		"post-1NHR4Gdv1dVLZS5HRwY6aJWfngk9jCLF87_1475674638": 4
+	},
+	"comment_like": {}
+}

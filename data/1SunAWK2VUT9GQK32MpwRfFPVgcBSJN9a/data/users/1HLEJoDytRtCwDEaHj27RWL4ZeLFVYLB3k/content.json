@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HMXX4hHeWqDNDHVK4/htDcqkEFv59Uxd77BoPkc80DXNHeFXvmiLMuqBfDDaacDYZEk5vYeom0J/ddDRzQxAmFA=",
+ "cert_user_id": "kannnibal@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "e0487b183309daa6863a84ec9e76c0af4db9e7666f8e576deddae3f63b2f3300",
+   "size": 606
+  }
+ },
+ "inner_path": "data/users/1HLEJoDytRtCwDEaHj27RWL4ZeLFVYLB3k/content.json",
+ "modified": 1504859104,
+ "signs": {
+  "1HLEJoDytRtCwDEaHj27RWL4ZeLFVYLB3k": "HONHS17a/nuxRCsIC1Q281j0O9wMDUiX7Ikr/E8cM0+SOsyyhCGexIwwVVeHFq3KJLVe+cVMXTpzpiyUZy4faDc="
+ }
+}

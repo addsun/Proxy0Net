@@ -1,0 +1,49 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Alex25",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14FsAuxtf6J1HffCR7M9yLHUqWJwP1BD1e",
+			"user_name": "Alex25",
+			"date_added": 1478295213
+		},
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13LHVHqyvYBwDNWXaNvEtdEwCqAPyDvrgD",
+			"user_name": "Cappoz",
+			"date_added": 1479230540
+		},
+		{
+			"follow_id": 3,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1L8ziRZRLnBGAST1PgziYd26NQ7VqexGVk",
+			"user_name": "S4muele",
+			"date_added": 1479230548
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1Aev5nuuw72hcbgdnVzxpGwHsSE3gKzNRM",
+			"user_name": "Dan1m0",
+			"date_added": 1479254197
+		},
+		{
+			"follow_id": 5,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1EpY11syeaKbwRSNqv9tU1ZxoU1moJA9Bp",
+			"user_name": "Loligod",
+			"date_added": 1484144658
+		}
+	]
+}

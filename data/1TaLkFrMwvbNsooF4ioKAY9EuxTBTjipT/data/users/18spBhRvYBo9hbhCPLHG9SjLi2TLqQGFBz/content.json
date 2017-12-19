@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HML2dTSkTlL67oDl9nJXaKrpq6Uu7hEBqQXJE0O9GY+hqvVraKnPaM6mRTPUdr9Jy0hMekADdj1dS05MxYDO780=",
+ "cert_user_id": "patrickwong@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "09219478ee1eae3a4c20957af8347ec660b617b07a270932a98b4ba9f9e275b6",
+   "size": 289
+  }
+ },
+ "inner_path": "data/users/18spBhRvYBo9hbhCPLHG9SjLi2TLqQGFBz/content.json",
+ "modified": 1501064213,
+ "signs": {
+  "18spBhRvYBo9hbhCPLHG9SjLi2TLqQGFBz": "HHZ1YBwzgVYdkkyCLsFExjyEQr8UI77AZbP+Luru1chfZMf+MteHF3HLvGj4cHjCeRGs4nbJeIMLBw0gMim3H1k="
+ }
+}

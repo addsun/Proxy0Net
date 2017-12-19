@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G07qEa7KIiGcSuME9+YCBqkzD/3mSp4g3mjjOvIZP3UkrSP/bRrYZTmBO5FWgI1xt1jYn5EvXKbUVWh+uOdr/24=",
+ "cert_user_id": "strictrope@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2a24347ef44a7c3515216b76e3c5c6d52d6edbfc8c193273452012822c33bad6",
+   "size": 889
+  }
+ },
+ "inner_path": "data/users/17ZQwcv193aTtdWivcHZEcZJEYimxK9c4n/content.json",
+ "modified": 1508155670,
+ "signs": {
+  "17ZQwcv193aTtdWivcHZEcZJEYimxK9c4n": "GwFI5k6SU9I/ZR/+nkRvJcCeZ/EeUsiNGRHwrfxQJZaME901XyGYrlrj9iKQQ0Rlc0XCw34aBFogF21jyWu5lik="
+ }
+}

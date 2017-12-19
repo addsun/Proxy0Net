@@ -1,0 +1,21 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "G1nLVSxZ/6rrISIScQOEmqCXYvY1vx2nwux+5ItqWYcjzUljFPZlORTvsVKVrqYW+ftznRzzORxQS4tnKsacrKM=",
+ "cert_user_id": "nishikinomaki@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4f8708efb46556de400d521b08f3bde79bb9ab407ea30235b6e5c9ef00118a92",
+   "size": 1564
+  },
+  "data.json": {
+   "sha512": "10b6b3a61e4085e0aa88550ce904ba1ed2e9d736fdb345af3adc6789198ccaba",
+   "size": 6426
+  }
+ },
+ "inner_path": "data/users/1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj/content.json",
+ "modified": 1499266657,
+ "signs": {
+  "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj": "HFezGnG2v06l9jp1p26neM5NxRvgqueoDxrJYkyRoVO2E21SWfDh7z/R/wJ9hMyVSdz8So6c0fbob/jPq0B7RR4="
+ }
+}

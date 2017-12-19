@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G0A5fd09Om9SZ1hvp7JkNaeEgJnMS5OWC5O1vRvq4GMgzjKWzeiR5xLDVuDWExJ3BHYycf+JfPMpmA8iyWzp3fw=",
+ "cert_user_id": "neutitan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4a140db09ec9e60a36a976135351c2515ea5ff12b1be8f7d7d5509214fd0f651",
+   "size": 251
+  }
+ },
+ "inner_path": "data/users/1JTMmVwLgvjLi1e4VYhKZTi8EqWZQGfT4Z/content.json",
+ "modified": 1502870893,
+ "signs": {
+  "1JTMmVwLgvjLi1e4VYhKZTi8EqWZQGfT4Z": "HFzZKD7ZCgUS5PUn3dDTLM26ainII1v+ewSjDLk+H/YUAMDKw1G0C+Sg0d0K57RE9QVt1EUPvjxLgRKnSN5vemM="
+ }
+}

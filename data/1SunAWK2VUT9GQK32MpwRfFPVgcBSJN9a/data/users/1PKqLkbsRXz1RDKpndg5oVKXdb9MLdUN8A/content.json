@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HOEd0ezCLFM7eDu+CcmAWjfmC4z7bYlWEUlQz8K+LvI4eyLU1CGoqIj+2uvuidppuHP3Dac04DRn5gLwba5Yxpc=",
+ "cert_user_id": "piclock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "32b00d6748dc87c155755341d66a66928b097e671623179ed48acd36128afed4",
+   "size": 355
+  }
+ },
+ "inner_path": "data/users/1PKqLkbsRXz1RDKpndg5oVKXdb9MLdUN8A/content.json",
+ "modified": 1507396283,
+ "signs": {
+  "1PKqLkbsRXz1RDKpndg5oVKXdb9MLdUN8A": "G+eu2Aitt9YSW35u04JiwvE49VGguBRN065ekVrO1JhVLFZoj+boACaSp/GS3ziK/+Pe7GS6qZi74g0N789SfXI="
+ }
+}

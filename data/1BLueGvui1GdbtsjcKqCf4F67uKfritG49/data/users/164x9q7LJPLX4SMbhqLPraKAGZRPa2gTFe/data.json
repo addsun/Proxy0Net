@@ -1,0 +1,24 @@
+{
+	"next_comment_id": 3,
+	"user_name": "Herp",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1PJm5juxa6AxizD2KeBGRxwNHfLd5vBSzD_1512354047": 1512372010,
+		"1PJm5juxa6AxizD2KeBGRxwNHfLd5vBSzD_1511542005": 1512372015,
+		"1PJm5juxa6AxizD2KeBGRxwNHfLd5vBSzD_1509795935": 1512372019
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hey nofish, commenting on the blog gives me an `[object Object]` error, so posting this here.\n\n\n\nI've been following ZeroNet for a long time but only recently starting getting into developing zites.\n\nFirst what I can say from a new developer's perspective is that the [ZeroNet docs](http://zeronet.readthedocs.io) are quite difficult for a new user to parse. While coffeescript does make Javascript development simpler, it is not a very far-spread language compared to Javascript. Ideally there would be the ability to select between JS/CS on every code example, but I do not know if ReadTheDocs allows you to do this. Running a cs2js converter on all the code examples would work (as long as it knew how to parse things such as `@cmd`).\n\nSpeaking of ReadTheDocs, the search function they have is absolutely atrocious :) Unless I'm missing something, I'm not able to find anything remotely relevant using it, and often have to resort to search with DuckDuckGo instead, which is a sub-par experience. I'm not entirely sure what good alternatives there are, but something with a better search is sorely needed.\n\nThat said, I've managed to pick up quite a bit with the information provided by the [ZeroWiki Dev Page](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:devresources), [ZeroNet Dev Center](http://127.0.0.1:43110/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/) and most notably [this zip file of great tutorial content](https://github.com/krixano/ZeroNet-Dev-Center/issues/28) [clearnet] by imachug. Seriously that last one is great. Also adding a 'Developer Resources' section to ZeroSites to highlight sites like this would be very helpful for new developers.\n\nAs far as donations go, as Bitcoin has gone up way too much for its own good, people have stopped considering Bitcoin as a currency and more as an investment. For instance, a while ago I donated ~$100 or so in Bitcoin to ZeroNet. That's now probably worth 10x or more. I definitely don't regret it though :) Consider accepting other cryptocurrencies such as Ethereum, Litecoin, Monero, Zcash etc. which do not rise so incredibly high, and that people would be more willing to send over. You can use sites such as [shapeshift](https://shapeshift.io) [clearnet] to accept any cryptocurrency and have it converted and deposited as Bitcoin.\n\nTo help support ZeroNet, I've set up https://zeronet.mpa.today [clearnet] as a public proxy. I will also be hosting an Introduction to ZeroNet workshop at my local University for people interested in the technology, as well as an Introduction to ZeroNet Development workshop for those wanting to try their hand at making new zites.\n\nAgain, thank you for this awesome software, nofish. Especially with net neutrality law slowly coming to an end in the USA, it can't be understated how important an easy-to-use, p2p technology like ZeroNet is. \n\nKeep on rockin' it :)",
+			"post_uri": "1PJm5juxa6AxizD2KeBGRxwNHfLd5vBSzD_1512354047",
+			"date_added": 1512371768
+		},
+		{
+			"comment_id": 2,
+			"body": "Thinkpads make wonderful Linux machines :)",
+			"post_uri": "1PJm5juxa6AxizD2KeBGRxwNHfLd5vBSzD_1511542005",
+			"date_added": 1512371937
+		}
+	]
+}

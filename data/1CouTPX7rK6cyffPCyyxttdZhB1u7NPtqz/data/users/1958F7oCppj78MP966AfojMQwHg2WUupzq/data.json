@@ -1,0 +1,88 @@
+{
+	"next_comment_id": 15,
+	"user_name": "Lmath",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491012896": 1491014787
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "虽然翻墙的手段很多，但是墙外也不是绝对自由的。",
+			"post_uri": "1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A_1485088536",
+			"date_added": 1485093107
+		},
+		{
+			"comment_id": 2,
+			"body": "不是浏览器的问题，而是 ZeroNet 的问题。看起来语言检测遇到了问题。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486353683",
+			"date_added": 1486365827
+		},
+		{
+			"comment_id": 3,
+			"body": "@12hlearn: Translate 模块用于翻译 ZeroNet 本身，不是插件。\n用于翻译站点的 TranslateSite 才是插件。\n站点本身应该通过浏览器语言来判定默认语言，并与 ZeroNet 的语言配置分开并记录在浏览器。这个问题影响最大的是公共代理，目前公共代理用户只能使用公共代理管理者指定的语言。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486353683",
+			"date_added": 1486387832
+		},
+		{
+			"comment_id": 4,
+			"body": "@12hlearn: 这 issue 我在好久以前已经提过了：https://github.com/HelloZeroNet/ZeroNet/issues/688\n现在都被挤出第一页了。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486353683",
+			"date_added": 1486390143
+		},
+		{
+			"comment_id": 5,
+			"body": "1. 能。\n2. 不能，但是计划实现。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1484071585",
+			"date_added": 1486448997
+		},
+		{
+			"comment_id": 6,
+			"body": "@P2P: 默认语言是 `Config.py` 使用 `locale.getdefaultlocale()` 设置的，但是在手机上获取不到值。可能的解决方案：\n- 在 python-for-android 提 issue 请求解决获取不到默认语言的情况。\n- 找一个其他方法检测默认语言。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486353683",
+			"date_added": 1486469482
+		},
+		{
+			"comment_id": 7,
+			"body": "@Booma: 被墙了还是可以通过比特币注册的，真到发生被墙事件的时候应该加一条请使用比特币注册的通知。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486944019",
+			"date_added": 1487143906
+		},
+		{
+			"comment_id": 8,
+			"body": "@公共: 应该检测到浏览器有兼容性问题的时候直接提示换浏览器的，要不然很快用户就会发现在其他页面也有兼容性问题（特别是 ZeroMux），并认为是 ZeroNet 本身的 Bug 了。甚至以后 ZeroNet 被引起注意后，国产浏览器分分钟故意不兼容或者给个危险网站的提示来恶心你。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1486944019",
+			"date_added": 1487144106
+		},
+		{
+			"comment_id": 9,
+			"body": "请使用 [ZeroMe Beta](/Me.Mkg20001.bit/) ，并在设置中打开“自动载入图片”。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491882002",
+			"date_added": 1491882400
+		},
+		{
+			"comment_id": 10,
+			"body": "[ZeroNet Central](/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/) 可以建立 Channel 。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491881087",
+			"date_added": 1491882520
+		},
+		{
+			"comment_id": 11,
+			"body": "@Begdi: @Yinyue: @公共: 两个方法是有区别的，在 Hub 中打开下载并帮助分发是你看不看都会下载，而 ZeroMe Beta 中的设置是当你翻到那张图的时候才开始自动下载。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491882002",
+			"date_added": 1491891420
+		},
+		{
+			"comment_id": 13,
+			"body": "@Yinyue: 然而这个设置保存在 localStorage 。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491882002",
+			"date_added": 1491892232
+		},
+		{
+			"comment_id": 14,
+			"body": "@Yinyue: 你不是设置里退出时自动清理么？那么设置当然没了。",
+			"post_uri": "15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5_1491882002",
+			"date_added": 1491892282
+		}
+	]
+}

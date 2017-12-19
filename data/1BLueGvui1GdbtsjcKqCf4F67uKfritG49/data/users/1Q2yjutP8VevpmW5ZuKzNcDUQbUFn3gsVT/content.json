@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HMtYPgqmmqtT0iyJa0TJBvujd4+fOZUn+YN/1oLY0GnoogbEaXAAwa0kEtGVh7CI8HmyqbMHWG4TUInoi4KjneI=",
+ "cert_user_id": "leaflet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe0d83b90edd646f4bcb7eb28b3033c2bcfba2dd84d28afdfa328bdc60523713",
+   "size": 1224
+  }
+ },
+ "inner_path": "data/users/1Q2yjutP8VevpmW5ZuKzNcDUQbUFn3gsVT/content.json",
+ "modified": 1512902168,
+ "signs": {
+  "1Q2yjutP8VevpmW5ZuKzNcDUQbUFn3gsVT": "G1y2QnK1W6Y7uNizoL4UbdHavj0iUSfVXcDoiTELtNTdKF3e5A5VyA56JsDlGogeALEtWxbBU4bsA9i7PNRGRGU="
+ }
+}

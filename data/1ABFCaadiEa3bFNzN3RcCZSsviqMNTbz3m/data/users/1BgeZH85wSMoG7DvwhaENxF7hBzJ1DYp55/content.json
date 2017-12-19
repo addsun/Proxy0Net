@@ -1,0 +1,24 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HGoFfXRTB751TdjuN8vnIJTmYjSyCUfQ2LthY5OGozmJMgDi/y2MPGLinCxPPTkj4wi5kZfVQUSXeKiDqbAqzas=",
+ "cert_user_id": "kansate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "33d262bfc8a99bea4a24fe7104223d983cffdbf6905a2612edcd487dad7d9fe9",
+   "size": 2458
+  }
+ },
+ "files_optional": {
+  "1501052968.jpg": {
+   "sha512": "c716b64d3c758d7c6c1e68f3a5cbd5aa5fbeda8bc15b2938559f78a03dd58a2f",
+   "size": 81435
+  }
+ },
+ "inner_path": "data/users/1BgeZH85wSMoG7DvwhaENxF7hBzJ1DYp55/content.json",
+ "modified": 1501053154,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1BgeZH85wSMoG7DvwhaENxF7hBzJ1DYp55": "HBZfdVEszAwF/eABR8iNn2wHXJXsJUUMYS575oRMZjAaATVYrkrOYAOXSLTb6v8dkHSa0xvsdtdLUEBHr/6kbYw="
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GxqIRNQx+cKQnlExRprOYta5ZAJlQKCwS7LIEqrtBXM872cl2abJiQxM91fmgZwQLTgCaWVLVMC32QMu2wh/uFo=",
+ "cert_user_id": "bbcall@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "55a2da8816762adcb398bca5b7c35356c6f5e39f3b2076bd2969a605216b6091",
+   "size": 1663
+  },
+  "data.json": {
+   "sha512": "2a1950f30a45768203874ac1db68172f015acadf4db8feb990e3c25596bf11d5",
+   "size": 6094
+  }
+ },
+ "files_optional": {
+  "1502814661.jpg": {
+   "sha512": "9747093f95dafc4460948817800c51626bba6a89258ba737f7c6c9b01ff31deb",
+   "size": 80805
+  },
+  "1505292150.jpg": {
+   "sha512": "c87ce6d7db2f24f7b65f918831f3e1706e6921175efa34ea5ae95c081d6adc71",
+   "size": 123181
+  },
+  "weijuchiluntu.jpg": {
+   "sha512": "2140a350b3914560f4de9b0c27c5845d7cfd50f0ed29c9fb72164a4f4bc18644",
+   "size": 8023
+  }
+ },
+ "inner_path": "data/users/18srV9XsF3r19LuP8fWyBcJMH7mSr2LXf2/content.json",
+ "modified": 1508384183,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "18srV9XsF3r19LuP8fWyBcJMH7mSr2LXf2": "HNuoJUNPf6vLgvauaxjJ5Q6E8QdA3524XjytR0UUUdh8WJe7CJ3ksGFzXYPaRXeJwDAy7xYuMjNq6RJ4D+bGa6A="
+ }
+}

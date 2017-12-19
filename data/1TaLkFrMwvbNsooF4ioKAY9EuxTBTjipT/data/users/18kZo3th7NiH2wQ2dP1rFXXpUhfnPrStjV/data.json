@@ -1,0 +1,80 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1509723698,
+			"title": "Where is the windows zeronet open source?",
+			"body": "",
+			"added": 1509723697
+		},
+		{
+			"topic_id": 1511539851,
+			"title": "test",
+			"body": "test",
+			"added": 1511539847
+		}
+	],
+	"topic_vote": {
+		"1509723698_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": 1,
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"1509582983_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [],
+		"1509721890_17Nme2gWN8QqD2APgvXV9vn6jR8VrT6MLK": [
+			{
+				"comment_id": 2,
+				"body": "我就知道，在打开代理的时候，不行。",
+				"added": 1509723499
+			},
+			{
+				"comment_id": 5,
+				"body": "> [akito](#comment_353_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Except your ISP does not allow you to port forward... Which ISP do you use?\n\n是啊，没有公网ip，在一个局域网里的ip，可能是打不开的。",
+				"added": 1509763492
+			}
+		],
+		"1509723698_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": [
+			{
+				"comment_id": 3,
+				"body": "> [gitcenter](#comment_13_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): https://github.com/HelloZeroNet/ZeroNet\n\nThanks, but this is not for windows source. It's \".py\", not \".exe\".",
+				"added": 1509724567
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_1049_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Python is a multi-platform language, it means the source code is the same in all platform.You can generate .exe from .py using this command: https://github.com/HelloZeroNet/ZeroBundle/blob/master/compile/compile_win.cmd\n\nVery nice. Thank you.",
+				"added": 1509725316
+			}
+		],
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 6,
+				"body": "好像很不错的样子",
+				"added": 1509814646
+			}
+		],
+		"1_1F8VgytUggkP8kkieK8GcEMVsJTwcoAqdk": [
+			{
+				"comment_id": 7,
+				"body": "大家猜猜楼主的ip是多少，猜对的说明zeronet可以查到ip，用事实说话。",
+				"added": 1509947634
+			}
+		],
+		"1510252302_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf": [
+			{
+				"comment_id": 8,
+				"body": "Zerohello has a search bar for public",
+				"added": 1510480097
+			}
+		],
+		"1510618291_1CyTL2ry28YCGU9LCBPhXC1ZnKcozuM25Q": [
+			{
+				"comment_id": 9,
+				"body": "根目录下找到zeronet.conf文件，没有就新建一个，\n修改\n`tor = always`\n`tor_controller = 127.0.0.1:9151`\n`tor_proxy = 127.0.0.1:9150`\n保存\n* 先打开Tor\n* 再打开Zeronet",
+				"added": 1510721953
+			}
+		]
+	},
+	"comment_vote": {
+		"11_12WSTdqNMmtLct48peM9QFDZEojTm9c3g3": 1
+	}
+}

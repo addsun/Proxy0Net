@@ -1,0 +1,17 @@
+{
+ "address": "1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB",
+ "cert_auth_type": "web",
+ "cert_sign": "HK5UybiWyzf6QRtW0MexXCATir2kp+SS9r0TD9sEO06TOuPX1EVzhC0loKbcWTWCtOKA2mbhjJSjBqQLJ2D7lqE=",
+ "cert_user_id": "pervert@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f210ac74a0a159569e2724c18fe970f6ca3e817b8cf8ed99a9fd1b09f20f8bf2",
+   "size": 217
+  }
+ },
+ "inner_path": "data/users/1AENc75S4mCHQQZnvCmeg2gidsywPV6HFF/content.json",
+ "modified": 1501234401,
+ "signs": {
+  "1AENc75S4mCHQQZnvCmeg2gidsywPV6HFF": "GzX2tIu1Gn9F8oy9JzwHmwYCgwVNHXourr6uM667S/2xcGsqDfitFwExeqckznCICEnLU870mmWl8pn9HrrA7rs="
+ }
+}

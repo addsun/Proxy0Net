@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3+ZAQIB9RiTg6HsYXPFNrVaXOitlOabqkcEAgcyky9ETfw3d7KtsSXnlv/E88Z8jOIa7fTUFfZwyuP/0BqJc5k=",
+ "cert_user_id": "vpn3@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2c6cda179f003a81e1c04c3fb54b320b1a20f75880f37312edc44d4a88bc441a",
+   "size": 964
+  }
+ },
+ "files_optional": {
+  "1510483489.jpg": {
+   "sha512": "e94be5a0a710a84380dcff10b2033ae261ec3cd217d8b21701e8b17702234310",
+   "size": 98672
+  }
+ },
+ "inner_path": "data/users/1NPsKW2LNqU9qcoi5QjX2Up1cmS3do5ZZg/content.json",
+ "modified": 1510483487,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1NPsKW2LNqU9qcoi5QjX2Up1cmS3do5ZZg": "GwxV2v2lzyiGlX4TXCQ9ydg/pivO82QiAZinFlNRu4hcLnbgtFUR7Y2q3+pewJNeNw9XUQUTByU1pFUf00XXwps="
+ }
+}

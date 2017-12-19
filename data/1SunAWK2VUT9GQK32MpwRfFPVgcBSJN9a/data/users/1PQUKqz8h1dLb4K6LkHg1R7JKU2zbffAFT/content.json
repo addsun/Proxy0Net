@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGZsg5Nn/ymcqJskqmfwuCF1SU7RH2SRvz9Wii73DFdkfLN7rpfwICixcI6CDThMonjJJ5ANaXUQziwpYL6pyjk=",
+ "cert_user_id": "renegad3@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "29a7718311fd1e738f0be0f85bcbc679e6fe98ce7186edf062578161bcff4d14",
+   "size": 1240
+  },
+  "data.json": {
+   "sha512": "51aa37066f0544dcb7e4d82b54d4516f7920bf348bf5a8c2c05ba0cc8f5ff63f",
+   "size": 325
+  }
+ },
+ "inner_path": "data/users/1PQUKqz8h1dLb4K6LkHg1R7JKU2zbffAFT/content.json",
+ "modified": 1512792399,
+ "signs": {
+  "1PQUKqz8h1dLb4K6LkHg1R7JKU2zbffAFT": "HMLWljDtIU15ExSICpuNSM4PLKzuEssh5pqPqmxvQslWT++UU+uSS9F7Tmz610oCYtVqu9vTKBTndMIaWXijNmA="
+ }
+}

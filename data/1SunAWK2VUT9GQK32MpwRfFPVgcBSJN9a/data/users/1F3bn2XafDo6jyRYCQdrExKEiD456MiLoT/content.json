@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIT8ktfMJcoUsgkuR6hV4v9TKRIdeDFTaTVbmouCudXIQwY6hZgN6zPYv9ENGqYRI7dx43ojKno0B0aqsKcHUJQ=",
+ "cert_user_id": "asurada@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8a029573e15e9a14501b6af3eea10cec9d340253f4267b388e9b81815a66e98e",
+   "size": 326
+  }
+ },
+ "inner_path": "data/users/1F3bn2XafDo6jyRYCQdrExKEiD456MiLoT/content.json",
+ "modified": 1506075676,
+ "signs": {
+  "1F3bn2XafDo6jyRYCQdrExKEiD456MiLoT": "HMfqbir5BAVQ1/hMPytAH9Ve7/98keIb1HjfNhx4GKdMU5W6z0Rv9Ts6Vhvxhw6WykVgAoc9F0Sz5YxuyOTQyKY="
+ }
+}

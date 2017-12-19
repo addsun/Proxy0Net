@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G9iL1votKBigjgH2EbxFwUz3z+T06x68J9h+QzZtrqL5p0FeyYQQLY+PUItbWKeinsh4nl7us2/2TiRlgtj5yqA=",
+ "cert_user_id": "danielhuo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5068f37518a599c6c5d9d97e375ae269404d25d28a3327175c286b9a183e8e3c",
+   "size": 1533
+  }
+ },
+ "inner_path": "data/users/1KZM4Jyphcs28aEma3VVQBb4GQKFw1w99w/content.json",
+ "modified": 1485995305.603,
+ "signs": {
+  "1KZM4Jyphcs28aEma3VVQBb4GQKFw1w99w": "GyfecQ7pMDWV4VNkykjT4ygFhPeZkDSnHJYfHl5BUFXcqCoXNXczywCn46g9ps79FFGGMFACxaUwptccYMbGkAs="
+ }
+}

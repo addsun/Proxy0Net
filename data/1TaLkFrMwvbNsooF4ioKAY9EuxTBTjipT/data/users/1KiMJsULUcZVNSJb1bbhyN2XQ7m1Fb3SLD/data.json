@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1511315345_1Ly7Zat64UdKNHWhw5hfac5rsc6rLfYHV1": [
+			{
+				"comment_id": 1,
+				"body": "1. Create a copy of users.json in the zeronet folder\n2. Delete the original (but KEEP THE COPY for later use)\n3. Restart ZeroNet\n\nNow you should have no ZeroID, and can create a new one.",
+				"added": 1511327770
+			}
+		]
+	},
+	"comment_vote": {}
+}

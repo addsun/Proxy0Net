@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Dev: Does anyone know how two people could work on the same zite?",
+			"body": "Signing wise. If I want to work on the same zite with one other person, but I also want them to be able to change stuff, how exactly would that work? We would both each have a different ZeroID.\n\nWould it be as simple as adding another row to:\n\n```\n\"signs\": {\n \"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\": \"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\"\n}\n```\n\nin content.json?",
+			"added": 1512860874
+		}
+	],
+	"topic_vote": {
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1512701903_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512830174_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": [
+			{
+				"comment_id": 1,
+				"body": "> [krixano](#comment_186_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I posted a comment about this on your question on the ZeroNet Dev Center. I wasn't sure if I should have made it an Answer instead of a comment, though, So I just did it as a comment.\n\nThanks! For anyone wondering we ended up just sharing the private key of the production zite between each of us, but devving on separate copies of the zite each. We'll probably keep the main zite on its own git branch as well.",
+				"added": 1512875192
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 2,
+				"body": "You should also add the following to your content.json so that users will see \"big.kopykate.bit\" in their address bar when navigating to your site:\n\n```\n...\n\"domain\": \"big.kopykate.bit\",\n...\n```",
+				"added": 1512944515
+			},
+			{
+				"comment_id": 3,
+				"body": "> [kopyjane](#comment_117_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): You mean kind of like ZeroMe hubs, as opposed to user channels?\n\nExactly, and you can get around the issue of search being incomplete by using the method that Git Center employs where one of the merger sites is just an index of all available videos (even these could be split up into different genres if it starts getting too large, though that will take a lot of videos to get there :).\n\nSo yes, this would allow for many benefits including video embedding!\n\nBy the way, if you need help with obscure dev questions, the [ZeroNet Dev Center](http://127.0.0.1:43110/DevCenter.bit/?/questions) is an excellent resource by Krixano.",
+				"added": 1513064354
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kopyjane](#comment_121_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Never really experimented with merger sites before, though I can figure it out. I'm just scratching my head wondering if this will require a re-write of the entire thing .. lol \n\nThe UI would be the same, and files would still be accessed via Big Files. Saving video data, loading video metadata and the locations of the videos would need to be reworked in a merger sense. \n\nThis would definitely be one of those features to get done early though, as the current set of videos would need to be split up into merger sites (by channel), then that metadata would be placed into its own merger site. As multiple sites can use merger sites as a backend, you could simply fork the current site, work on merger functionality separately, then when it's all ready to go, merge it into the main site and it should be able to access everything and post new content.\n\nA nice introduction to working with merger sites can be found inside imachug's [Truth About ZeroNet](https://github.com/krixano/ZeroNet-Dev-Center/issues/28) (clearnet) tutorial series.\n\n> Now that I think about it, I'm also really glad I used Base64 instead of a folder/file upload. Base64 fits nicely into user/data.json .. and you can edit/delete it as many times as you like without adding/removing any additional files.\n\nA much cleaner solution than having thumbnails cast across the site files. Good idea :)",
+				"added": 1513069980
+			}
+		],
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 5,
+				"body": "Btw, if you want multiple paragraphs on ZeroTalk (or any site using markdown), put **two** newlines after each paragraph ending.\n\nLike so.",
+				"added": 1513075939
+			}
+		]
+	},
+	"comment_vote": {
+		"91_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"103_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"118_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"3_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"4_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1076_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"306_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	}
+}

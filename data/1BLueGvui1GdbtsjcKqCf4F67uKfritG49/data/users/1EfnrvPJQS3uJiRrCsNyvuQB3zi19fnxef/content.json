@@ -1,0 +1,28 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "GyhKl40n3vTBKO2xynTkRj9lefM5Eu72oh+zOy1QUIkJlRHaH1x9uJIOaQI7kbxhXHJ4CF7WX34jg6Pgel1DAcg=",
+ "cert_user_id": "erqan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "cca2c945cce84fca3b92474b897799290277cec294db14f2fdf065015212a93f",
+   "size": 1201
+  },
+  "data.json": {
+   "sha512": "4648c5f239ec90b1cf6aa70d2fb7f57e8fa7b4c4e4b2b0844910f6d2878320c7",
+   "size": 5228
+  }
+ },
+ "files_optional": {
+  "1481809477.jpg": {
+   "sha512": "d05e06599ace857d3524acf35897baacf4a94e29fd104725c7e22ceac7b87a71",
+   "size": 33969
+  }
+ },
+ "inner_path": "data/users/1EfnrvPJQS3uJiRrCsNyvuQB3zi19fnxef/content.json",
+ "modified": 1486032337,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1EfnrvPJQS3uJiRrCsNyvuQB3zi19fnxef": "HOoU1Kqtu4AfXgEVAEo8oZ1XJ3VDAV3HxQzCSLq3eqG03gjP8+BOBUzrcDC7X8blIV9gxRm9ZH9DZFUuTqRrNOI="
+ }
+}

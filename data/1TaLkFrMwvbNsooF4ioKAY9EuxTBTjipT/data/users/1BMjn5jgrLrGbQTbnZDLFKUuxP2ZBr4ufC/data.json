@@ -1,0 +1,138 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Using ZeroNet with non-browser apps.",
+			"body": "Is there any possibility to use ZeroNet with apps it wasn't designed to work with?\nFor example, mail clients, video games, software distribution.\nIt'd be really cool to be able to use apt ,pacman or Chocolatey (apt-inspired windows package manager) with ZeroNet or create a video game which uses ZeroNet to be server-less (real-time or semi-realtime).",
+			"added": 1507476317
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 21,
+	"comment": {
+		"3_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 1,
+				"body": "but... wait...\nI2P can't be used to access jewtube and jewgle, wtf?",
+				"added": 1507305757
+			},
+			{
+				"comment_id": 3,
+				"body": "> [7c4](#comment_6_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq): I2P can... it just doesn't have that many \"exit nodes\" like Tor does and you have to specify your exit node.\n\nUsing different exits in any such network would cause websites to go crazy (also, I2P has 1 exit iirc).\nJust think about how would server react to 10 IPs connecting and presenting the same auth cookies.\nand yeah... actually I2P has bigger potential for bandwidth, but only by design. In practice, installing it on a dedicated server is PITA compared to Tor.",
+				"added": 1507309071
+			},
+			{
+				"comment_id": 4,
+				"body": "it'd be cool if Tor's hidden services supported some kind of multi-tunnel stuff (just like i2p does).\nIt'd make it possible to achieve more speed to HS than to clearnet site through Tor.\nThis way, there would be another advantage to using clearnet site's HS than just connecting to it using an exit node.\n\nalso, it'd be cool if Tor project stopped giving a public list of non-exit nodes, because some website admins block all nodes instead of just exits, which is annoying af.",
+				"added": 1507314776
+			},
+			{
+				"comment_id": 5,
+				"body": "> [7c4](#comment_7_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq): That's fucking retarded... which blacklists include relays?\n\nthe popular lists of exit nodes include relays and entry guards as well.\nFor completely unknown reason. My IP at previous ISP (about 5 years ago) was being blocked even tho it wasn't exit node but only a relay.\nAnd... yeah, there's no separate exit-only list at Tor Project.\n\nNot really a list, but a table on their website, which contains IPs, nicknames, countries and types of nodes.\nLazy sysadmin won't care about node type and will just copy all IPs from all pages.",
+				"added": 1507372816
+			},
+			{
+				"comment_id": 7,
+				"body": "> [wvvw](#comment_7_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3): false.i2p was so slowany others outproxys for i2p ?\n\n> [polar](#comment_37_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): I2P is a private overlay network, have no many exit-nodes to clearnet. Use TOR instead.\n\nit'd be more useful to have some kind of Tor bridges in I2P than more I2P exits.\nI2P can't be blocked by Chinko Gabumento (chinese gov), but public entry points to Tor get into a blacklist every day.",
+				"added": 1507454064
+			}
+		],
+		"8_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 2,
+				"body": "meh, just take some VPN.\nOr a VPN with access through hidden service if you're feeling up to the task of configuring the hell outta your openvpn.",
+				"added": 1507305955
+			}
+		],
+		"7_1D9w8AJTfqmn26iT2kF81B8HxXFfycXuXM": [
+			{
+				"comment_id": 6,
+				"body": "1. DMCA is a US-only thing.\n2. using VPN is like getting a carrier-grade NAT\n3. trying to log UDP traffic is SO expensive you'll be bankrupt before you log half of it (tfw spent too much on drives).",
+				"added": 1507453613
+			}
+		],
+		"1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": [
+			{
+				"comment_id": 8,
+				"body": "> [xianc78](#comment_12_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ): So, while you could say make a game that posts your high score to a zite, a real-time online game using ZeroNet's protocol wouldn't be efficient. [...]\n\nYeah, such a game would probably need to use some other protocol for P2P. Of course, there's no need for reinventing the wheel when some libraries for P2P communication exist.\nZeroNet seemed like something that'd open more possibilities, since it has distributed databases while IPFS has not (IPFS has own RTC tho)",
+				"added": 1507482736
+			},
+			{
+				"comment_id": 9,
+				"body": "> [ivesen](#comment_30_1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp): software distribution can also be done, I wouldn't recommend it though. It would take up a lot of excess space on everyone's hdd) [...]\n\nI was hoping that recently added big file support would work well here, loading ZeroUp didn't eat my HDD, so I guessed it'd work somehow.",
+				"added": 1507482988
+			}
+		],
+		"8_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 10,
+				"body": "You chinese will better off if someone starts hosting Tor bridges in I2P.\nThink about it, being able to connect to Tor using I2P. I know it'll lengthen the route, but it will make Tor unblockable in China, as it's routed through unblockable I2P (unblockable for now).",
+				"added": 1507796687
+			}
+		],
+		"1509028020_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": [
+			{
+				"comment_id": 11,
+				"body": "The question is... is ZeroNet as decentralized as Mastodon... or is it as decentralized as IPFS and ZeroNet?",
+				"added": 1509037585
+			},
+			{
+				"comment_id": 12,
+				"body": "I remember my channel getting removed when I was using Matrix, so that's why I'm asking.\nI'm asking because of possible corporate censorship.\nIf it's as decentralized as Mastodon (needs a hosted server) then I guess it won't do without renting a VPS.",
+				"added": 1509038411
+			},
+			{
+				"comment_id": 14,
+				"body": "Oh, there was some storm in here. At least, helium and rrwtbr... (your nick is so frickin long) are civilized about stuff.\nBiggest advantage of Matrix I've seen so far is that it can be made into something like a self-hosted Discord.\nIt has (even now) most of the functionality, but I don't think Tox would be able to catch up to this level.\nIt often looks like Tox is alternative to Skype while Matrix is to Discord.\n\nThere is a possibility of making Matrix P2P, without servers and stuff. There's an old trick of creating a P2P-based service for something and then creating a gateway to it. Users can run the gateway locally and access it.\n(it's a lot like how Zites work, you're really just accessing a local web server which serves client based on stuff it finds using P2P)",
+				"added": 1509192609
+			}
+		],
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": [
+			{
+				"comment_id": 13,
+				"body": "Who would even need this crap?\nThe only thing people would be good off if they had it would be documentation for undocumented public functions in Microsoft's libraries and good test cases.\nAlso, people donating to Wine project.\nIf we ever want to ditch Windows we gotta have Wine working even better, the only way non-coders can help is by donating or buying Crossover Linux. Programmers can help by contributing code to the project or making extensions\nAnd... yeah, Wine has tools which allow to make extensions for it, but loading these extensions is a bit difficult without changing either the windows program or environment variables.\n\nSo, why would someone need leaked Windows source code?",
+				"added": 1509192150
+			},
+			{
+				"comment_id": 15,
+				"body": "> [err0i](#comment_2_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE): for research some windows x64 structs,did you heard about there has a  career called Reverse Engineer\nA Wine developer would be more useful to humanity than someone who just reads some leaked source in hope of being able to write better malware.",
+				"added": 1509303413
+			},
+			{
+				"comment_id": 16,
+				"body": "> [helium](#comment_34_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): Wine isn't the only option to run Windows binaries without paying to Microsoft. There's also the http://www.reactos.com/\n\nWine addresses userland compatibility and does a pretty good job.\nReactOS is here to be just another operating system. ReactOS is much less capable than Windows and its only advantage is being able to run Windows kernel drivers.\nEven then, ReactOS uses Wine libraries for its userland compatibility with Windows.\nTo use ReactOS to launch a Windows app you have to make sure that all your hardware that application is gonna use has Windows XP drivers.\nIf your GPU doesn't have Windows XP drivers for example, you just can't run vidyas made for Windows in ReactOS, while you probably can do it with Linux and Wine.",
+				"added": 1509355572
+			}
+		],
+		"1509329299_184u2io3gh248AJNMdw3V7Ymdc4JwwaQZH": [
+			{
+				"comment_id": 17,
+				"body": "tried it, it asked me to register on some shady website.\n\nuninstalled it.",
+				"added": 1509719115
+			}
+		],
+		"5_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 18,
+				"body": "> [realkittykate](#comment_49_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): [...] So much money went to waste on pointless wars.. money that could have been funneled into education, health, fighting poverty, etc... not to mention the recent tax cuts to scientific research [...]\n\nYou don't really understand. There is not enough money to do this, but enough to have a war.\nHaving a slow war overseas (they say they help people and the world) is a good excuse.\n\nAs one mad and wise man said, if we can't feed our people, if we can't educate them properly, if we can't repair our countries, it's war! If not for war, we would need to be responsible for our sins, but we don't, as long as we have a war.",
+				"added": 1509719360
+			}
+		],
+		"1509377783_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 19,
+				"body": "I used to have a phone with Cyanogenmod (now it has some other name) and every Google Play factory app uninstalled.\nIt just meant that I didn't have so much space wasted on stuff I probably will never use, like Google Chrome or Google Search. I had just Play Store and Play Services, I was free to have whatever I like on my phone.",
+				"added": 1509719509
+			}
+		],
+		"1509479387_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 20,
+				"body": "> [styromaniac](#comment_186_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Bigcat.tk is attempting to install malware. (Slow clap)\n\nI didn't experience this. There's a chance you have some MITM on your network.",
+				"added": 1509719769
+			}
+		]
+	},
+	"comment_vote": {}
+}

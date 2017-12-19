@@ -1,0 +1,19 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"7_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 1,
+				"body": "You can use docker container:\ndocker run --restart=always -d -v <local_data_folder>:/root/data -p 15441:15441 -p 127.0.0.1:43110:43110 nofish/zeronet",
+				"added": 1503250532
+			}
+		]
+	},
+	"comment_vote": {
+		"168_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"1_1Ltdxm8kbLhUAGdfn6nbjGoJZdGpMLSa67": 1
+	}
+}

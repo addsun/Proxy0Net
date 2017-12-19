@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1F/ejGDfGR5s2d2a3lBKm6VaJSWxHiKNm05P5gDJ0K3KucOw3TvYa8A5nU4T4Hv03vjL8GdXYaoEjGHaWHmDGc=",
+ "cert_user_id": "cars@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6c48e527a8c650335e8a013d736cafa72cc0bf601bd1464021213b1b30adff27",
+   "size": 260
+  }
+ },
+ "inner_path": "data/users/1Ke334qWRavQEdPCokzpnUTLQ28VnfDpog/content.json",
+ "modified": 1512723779,
+ "signs": {
+  "1Ke334qWRavQEdPCokzpnUTLQ28VnfDpog": "HJGhqej+e/mkj48dt+QBJq+velJ4ZSj6Xe4iCfLUuqxmNg0T4171mTVRMNLZy6ConjcxMbGbz2P5FmA+gbpdHms="
+ }
+}

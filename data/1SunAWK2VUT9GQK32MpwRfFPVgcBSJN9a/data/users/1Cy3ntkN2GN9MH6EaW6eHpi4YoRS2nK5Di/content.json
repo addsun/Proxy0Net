@@ -1,0 +1,76 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G0Edfrk9307N1U2i1GF5sv3AWx3HnGp6qtMYjRzOgsF2wha0d1xOEGC15Kmvg3PKeHs9az2HQOs9PC/pSO5G9qM=",
+ "cert_user_id": "gitcenter@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "16ad2b09f809dae4d43acf93211f53b66f85ea1fdd1782b0dc4511bb80f36065",
+   "size": 1263
+  },
+  "data.json": {
+   "sha512": "a9d4d9d9131e6b67d248c2870e527b8a80c7f3c6d4db31d92ea51e7ba747a817",
+   "size": 65529
+  }
+ },
+ "files_optional": {
+  "1509637699.jpg": {
+   "sha512": "a6bcee29d7e4095631fa991bce0e071815146595014f5440f446d95ac919df5b",
+   "size": 23388
+  },
+  "1509720532.jpg": {
+   "sha512": "bd6d98edd42efd3cc17d674d213391bc512e2bbfbdae4979c18cc1209dff590f",
+   "size": 44695
+  },
+  "1509723199.jpg": {
+   "sha512": "511c5ec2e2a3c5bc7257e440d12bf52535c6f201cbbc912084986e511bd27192",
+   "size": 28053
+  },
+  "1511452936.jpg": {
+   "sha512": "7a69982d9920d816a4e418ce075ce4eeddabc71836c523511c8df00e62b65754",
+   "size": 48324
+  },
+  "1512206954.jpg": {
+   "sha512": "a3f4e8fe45de99c50f75eb097ae50f3deb24519275840a3f41d92e8917d8b142",
+   "size": 34777
+  },
+  "1512647595.jpg": {
+   "sha512": "69c821b7d42585b89af02eebcb81ef08cfb2314525c55f7af83dde5a75c6b35f",
+   "size": 49816
+  },
+  "1512654350.jpg": {
+   "sha512": "ac617e4301e6628b42b82e9316b642167be675c3309f1cab37138fcd88687b99",
+   "size": 48755
+  },
+  "1512831957.jpg": {
+   "sha512": "5bc03a645c06da1cdad09fad5e38f5f51bbaf865ba47fbe4b7ade0a519a3c424",
+   "size": 80195
+  },
+  "1513005011.jpg": {
+   "sha512": "5eee8023b0235eb00f608a6555e976096f97159f8b73f2e858ff94b8aa360ff5",
+   "size": 47154
+  },
+  "1513516312.jpg": {
+   "sha512": "f53b4d7e11c99286e1316e20d99d348e7a1a3a8f0d2e1ddd9315fdd90561c5ed",
+   "size": 51684
+  },
+  "darktheme-issues.jpg": {
+   "sha512": "12daeed34ce39ea2646eb35092b1d6244e96d83224241578392bd6ca182ecb9e",
+   "size": 22205
+  },
+  "darktheme.jpg": {
+   "sha512": "072d52206615963d95de217c94e3da697a80dc60826df55c2c16b9a9df916bfe",
+   "size": 16823
+  },
+  "zeromessage-dark.jpg": {
+   "sha512": "c4d2e367f2b53fee37f60f15bab061a0f1f6ae1b18d617cd6fecde251b03a47b",
+   "size": 31267
+  }
+ },
+ "inner_path": "data/users/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/content.json",
+ "modified": 1513624205,
+ "optional": "(?!data.json|avatar.jpg|avatar.png).*",
+ "signs": {
+  "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": "HMurWkUX32cZoq7MHKmpw3fEtbygKMg8zIaAXHuhTBLwItR1FMApDqmXcJhZPOcRJzLVmNMFVYlKM1jL9AUrysg="
+ }
+}

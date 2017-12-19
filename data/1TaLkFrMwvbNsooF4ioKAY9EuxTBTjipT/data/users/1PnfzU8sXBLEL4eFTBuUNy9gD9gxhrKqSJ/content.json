@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HON1Su9rj/2oqF+Vtkas8ysTdlcIKZJznPWBR/bwlKunjYbOl45nkYqLvqA/EfJW+VtVcIYuigRWuSqFwY9U/+I=",
+ "cert_user_id": "hospital@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "19fe0ee18b61a2e7bf43ab1a7b21de5209de99d29591f345cc4f91a306bd9152",
+   "size": 161
+  }
+ },
+ "inner_path": "data/users/1PnfzU8sXBLEL4eFTBuUNy9gD9gxhrKqSJ/content.json",
+ "modified": 1504734996,
+ "signs": {
+  "1PnfzU8sXBLEL4eFTBuUNy9gD9gxhrKqSJ": "HMUSOr3QlK/3unkiGifwrZjyew0/ZLVbp+NRphmcGZHPdTYCpof0OIywA1TFHtgCw3Yk8GXproZFy/C9t5gVddA="
+ }
+}

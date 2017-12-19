@@ -1,0 +1,24 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HAoqAWA2A2fhan3x7TF5DWLibeSCM/7ELIUtzR54zShEfVky/71DD7RRq8QxpurkQxfR2joSPepi7ofUlogW30k=",
+ "cert_user_id": "goodman1305@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e660eb0b848244dcffc3ad8d8431ed45d2b9e24a3cc8518826f63cfaa555699d",
+   "size": 576
+  }
+ },
+ "files_optional": {
+  "1491620154.jpg": {
+   "sha512": "620f7272adfd93b38cf8992925edd47c1ff42f84a0ba711adf0fa4346eb7e67d",
+   "size": 34954
+  }
+ },
+ "inner_path": "data/users/1HCVLnxkkNzUx9LfWQ7g1rAVcueeXxwAtw/content.json",
+ "modified": 1491620152,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1HCVLnxkkNzUx9LfWQ7g1rAVcueeXxwAtw": "G0hCFOew4PY/Mea+57ut+0G3izD4ODLthzaRq7UtVC5yBiiOUAo5miA3btJzMUAuwgbKJB9OLLlHr/TxCTdw94w="
+ }
+}

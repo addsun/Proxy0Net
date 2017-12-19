@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G1jAe6Qm4nI78MBzn/copgHeN6xVzEbWsI2h4UwVkr7TLlb5Yvq+Wl/eycKiZqHe7o1WZMg0i0jS108x26OASVw=",
+ "cert_user_id": "kylinmid@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3bfdb7ef71eaf12644aad161c7bdd6b91cac4b8be119dc11b3640b2c1000be9e",
+   "size": 899
+  },
+  "data.json": {
+   "sha512": "fb173e0d954a9b1ef00aac3381c74792ed1a5c3c6732484a33cd4c377ca897f0",
+   "size": 328
+  }
+ },
+ "inner_path": "data/users/1GJ1KLDZwVPeXpFL95mMr5VgCdKZ1gRBuf/content.json",
+ "modified": 1509815743,
+ "signs": {
+  "1GJ1KLDZwVPeXpFL95mMr5VgCdKZ1gRBuf": "HDbvkJUBHmDgsQ2XhQhrdzToxlpJUKXp9NSK70pCkUj7OKowKxXTUwsdGRP6jjk/FtzITQHsAmJTk/SQdJlAFCc="
+ }
+}

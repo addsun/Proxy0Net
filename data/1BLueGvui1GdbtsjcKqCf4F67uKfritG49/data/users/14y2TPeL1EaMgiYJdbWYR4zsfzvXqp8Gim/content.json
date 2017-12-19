@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HDnQVcCck+2hpvklJUvIk0gFoduJ6nRzGoOjUU/yaAF3/GdYstNYi4OpY0UvqQQHR0wIkFgEKdkQfQl1KHpyzbk=",
+ "cert_user_id": "lumberjack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e84ee39f7a2b86437cc0ec30e397facf96ce76ded3fcaba9e9827afe92327bba",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/14y2TPeL1EaMgiYJdbWYR4zsfzvXqp8Gim/content.json",
+ "modified": 1470945525.241349,
+ "signs": {
+  "14y2TPeL1EaMgiYJdbWYR4zsfzvXqp8Gim": "HH0Gg5tuvG0l0FDcHczOOGjdpBWMBeBTD/gMcwlVUIXIJfRNANa++ERi2sxPPz5qViXe5blMWkyMlPHNq95JKKg="
+ }
+}

@@ -1,0 +1,39 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"3_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"12_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"5_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 1,
+				"body": "ZeroNet sites have a data usage limit, a user gets only a very limited amount of KB he can use to post things, it's different for every site but usually it's less than 100 KB, so a spammer will have to keep creating new accounts which can be easily banned by site owners or muted by users. An accound provider like ZeroID.bit could start taking a small fee for account creation if spam becomes too much of a problem, could be done via an anonymous crypto currency.\n\nThe spammer could make his own account provider to still keep creating as many accounts as he wants for free since ZeroNet is decentralized, but a site owner has to add this new account provider to their site for it to work so they could just decide not to support the spammer's account provider and then he has no other choice but to pay to spam which means he won't.\n\nNormal users run into trouble with the data usage limit too, so this might go away at some point in the future, but it doesn't have to, it could just be improved so that it works better for users but not for spammers. Like resetting the limit once a month. The original reason for the limit was a technical limitation, ZeroNet didn't support transferring files in small chunks, it could only transfer the full file in one go so it had to be small or the transfer would timeout, which is why big files weren't supported until ZeroNet 0.6 came out a few days ago.",
+				"added": 1507452813
+			}
+		],
+		"3_1Cy1dDBGdk9AE6c2HbU97yXpxB29t1D16j": [
+			{
+				"comment_id": 2,
+				"body": "Just copy your `data/users.json` file to the other device (and make a backup of it while you are at it, that file holds all your private keys, so don't show it to anyone and don't lose it). There shouldn't be any problems, [it is the official way to do it](https://zeronet.readthedocs.io/en/latest/faq/#can-i-use-the-same-username-on-multiple-machine).\n\nIf you don't know where the file is stored, just go to [ZeroHello](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/) (the overview site you get to when you click on the round Zero button that is in the top right corner of every ZeroNet site) and click on the three dots menu in the top left, right next to \"Hello ZeroNet_\" and then click on \"Show data directory\".\n\nIn the folder that opens is the users.json file you need to copy to the other device.",
+				"added": 1507683837
+			}
+		],
+		"1510856783_17ychMBS8Vq1mXtRgteUBcLSTuVGzcBLQQ": [
+			{
+				"comment_id": 3,
+				"body": "> [xianc78](#comment_15_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ): Most imageboard users like the ones on 4chan and 8chan are for free speech so I don't think that this is a problem.\n\nDidn't the exodus from 4chan to 8chan happen because 4chan was against free speech and started to censor a bunch of topics, so people moved to 8chan to speek freely there instead? But I might be wrong, I know very little about these image boards, I used to be more at home on Reddit before switching to decentralized tech. On Reddit, the big exodus to Voat happened because they censored a subreddit hating on fat people. Which sounds really absurd. Of all the things to get upset about... :D\n\n> [vizy93](#comment_3_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o): We ought to try to spread the word on reddit. 4chan bans Tor exit nodes so a lot of the people here can't even participate there, and like @akito said - are 4chan users really the type of people we want here anyway?\n\nIdeally, everyone is welcome here. There are already some communists and anti-semites here, so it's not as if 4chan is going to make it worse. Pretty sure a bunch of them have been on ZeroNet for a long time already anyhow, otherwise there wouldn't be a 0chan site. While I might not like what some people have to say, I still want them to be able to say it, I see that as a basic human right even if my well meaning but intellectually challenged government disagrees. Especially on a decentralized network everyone being welcome should be the case. You can always mute people on ZeroNet whose personality you don't like. And they'll come here sooner or later anyhow, because censorship is on the rise around the world and a site like 4chan won't be allowed on the normal internet much longer it seems, unless it's going to be tolerated because isolating \"the wrong kind of people\" in their own small corner of the internet where they don't interfere with the rest of the world turns out to be much easier than getting rid of them completely.",
+				"added": 1510917040
+			}
+		]
+	},
+	"comment_vote": {
+		"14_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1034_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"15_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"97_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1
+	}
+}

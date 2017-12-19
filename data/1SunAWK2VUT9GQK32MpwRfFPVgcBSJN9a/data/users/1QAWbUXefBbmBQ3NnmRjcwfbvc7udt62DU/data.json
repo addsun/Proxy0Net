@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Ephemeral",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Secretly a Panda",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513191744,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1513191789,
+			"body": "This is pretty cool. Everything seems to be going smoothly.",
+			"date_added": 1513191787
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1QAWbUXefBbmBQ3NnmRjcwfbvc7udt62DU",
+			"user_name": "Ephemeral",
+			"date_added": 1513191816
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1513192002
+		}
+	]
+}

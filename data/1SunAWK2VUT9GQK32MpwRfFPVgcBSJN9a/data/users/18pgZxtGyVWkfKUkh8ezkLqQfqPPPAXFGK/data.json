@@ -1,0 +1,37 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Capt",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Crawling through the distributed internets.\n",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1505763427,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1505763477,
+			"body": "HE yoyo HE HE",
+			"date_added": 1505763475
+		},
+		{
+			"post_id": 1505835000,
+			"body": "Yo les bougnoules\n",
+			"date_added": 1505834996
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "18pgZxtGyVWkfKUkh8ezkLqQfqPPPAXFGK",
+			"user_name": "Capt",
+			"date_added": 1505763498
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HFaRfvh/R5LOKXtjxmXt9RN+sgD8S1Oet8JiNi09xpFQ2u5Z5wWXK6yihiMRVreDcYblT9dlDwCORp5fTriRqj0=",
+ "cert_user_id": "babydriver@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "00187571504cdabc786062ea3ac6b2c1a5d1c5093f2ddcc70d932a339ab669b4",
+   "size": 1542
+  },
+  "data.json": {
+   "sha512": "00f896f6340ef10476736f346b043a4bc9bda6d4b44727619c565d6bc051146c",
+   "size": 438
+  }
+ },
+ "inner_path": "data/users/1CndMyHEChSan5FWEVL5xiBJNuv9cd3ai9/content.json",
+ "modified": 1512383665,
+ "signs": {
+  "1CndMyHEChSan5FWEVL5xiBJNuv9cd3ai9": "G4MPP9DDzbc6XOKsRHOuDlBd3beZXdcP7cdLPTFsCjzfNkwWJzTaquZWRkVWpg4PkCMZ4Gf7wNrja4lcyqvUxF4="
+ }
+}

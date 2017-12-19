@@ -1,0 +1,317 @@
+{
+	"next_topic_id": 16,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "来用zn的时光倒流bug测试一发",
+			"body": "http://localhost:43110/Talk.ZeroNetwork.bit/?Topic:1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1/What+happens+if+you+set+back+your+system+clock",
+			"added": 956758684,
+			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 2,
+			"title": "春晚那首不忘初心的歌我也是醉了...",
+			"body": "这拍马拍的,貌似席包子再不露馅也要被拍露馅了",
+			"added": 1485535095,
+			"parent_topic_uri": "11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 3,
+			"title": "ZeroNet目前缺少垃圾回收机制",
+			"body": "现在ZN上死掉的站/废站/旧站太多,严重浪费客户端硬盘和带宽.\n\n我的一种解决方案:一个快速删除插件\n\n插件功能:通过勾选要删除的站一键删除,同时允许废站/旧站的站长向客户端表明此网站可以删除\n\nTODO:\n1. 显示站点最后活动时间,帮助客户端判断站点是否为废站\n2. 建立一个平台,允许用户在上面发表自己认为那个站点毫无价值,可以删除,当作客户端删除站点的依据\n\n快速删除插件下载(目前尚未完全完成,有效但不保证一定有效)\nhttps://github.com/2047/someZeroNetPlugins/tree/master/QuickDeletionPlugin",
+			"added": 1485574098,
+			"parent_topic_uri": "57_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ"
+		},
+		{
+			"topic_id": 4,
+			"title": "插件形式的ZeroNet域名解析",
+			"body": "https://github.com/2047/someZeroNetPlugins/tree/master/AddressBookPlugin\n1. 使用次插件之前请先禁用ZeroName插件和ZeroName-local两个插件\n2. 使用插件之前请先在ZeroNet安装根目录中添加一个内容为`{}`的文件,名为`address.json.txt`\n3. 提供了一个图形化的地址簿管理界面在http://localhost:43110/AddressBook",
+			"added": 1486123268,
+			"parent_topic_uri": "57_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ"
+		},
+		{
+			"topic_id": 5,
+			"title": "新加的ZeroNet开发板块应该置顶啊...",
+			"body": "RT",
+			"added": 1486123853,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 7,
+			"title": "貌似我在ZeroMe上什么也发不了了",
+			"body": "点Submit new post之后一直是上面的输入框灰的然后卡住不动",
+			"added": 1486170847,
+			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 8,
+			"title": "感觉成人内容应当单独分出去一个论坛或者把这个板块设置成可选文件(但好像不可行)",
+			"body": "主要目的是为了让【不】想看的人电脑上【不】出现成人内容\n1. ZeroNet是一次性把站点所有非可选文件的内容一次性缓存到本地,也就是说,就算不想看成人内容(比如说我),我的电脑上依然【会】出现成人内容(吓的我都把ZN安装目录用veracrypt加密了)但大多数人都没有加密意识,可能被党国以传播色情内容为接口定罪\n2. 搭代理的人会被发现代理服务器上存储有成人内容,而可能因此被定罪(因为公共代理的站长很容易被警方追查到)\n3. 党国容易以ZN上成人内容为借口封杀ZN\n4. (个人观点而已)本人极厌恶色情内容\n综上,把成人内容分出去一可以让像我一样的厌恶成人内容的人眼不见心不烦,二来可以保护【不】看成人内容的人不因传播成人内容被定罪,三可以减少党国封杀ZN的借口.",
+			"added": 1486221432,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 9,
+			"title": "ZeroNet本地同步插件【目前仅是设想,代码并未打完】",
+			"body": "通常情况下,ZN会寻找能连的上的节点更新,但如果以后朝廷把大家搞成在一个局域网中或者丧病地关闭互联网(并不是空穴来风,听说新疆好像关过),那么或许唯一的办法就算通过从边境线上传u盘组成人肉互联网,所以可以开发一个本地同步插件,只要插上ZNu盘之后就把U盘中新内容同步到本地,把post同步到u盘,然后继续传(不要说现在做这样的插件太早,假设今天下午朝廷就借口网络故障关闭互联网会怎样?)",
+			"added": 1486256589,
+			"parent_topic_uri": "57_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ"
+		},
+		{
+			"topic_id": 10,
+			"title": "论全面封墙的可能性",
+			"body": "假设朝廷把全网用户都整成没有公网ip,天朝网络就成了一个大型局域网(目前朝鲜网络就是),这是只需要把局域网与外网连接断开就可全面封墙",
+			"added": 1486601133,
+			"parent_topic_uri": "11_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 11,
+			"title": "已用???k/200k的显示貌似有点问题",
+			"body": "发的图我先删了,比较占空间",
+			"added": 1486602442,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 12,
+			"title": "ghcxx5nbyczzxt2q.onion 自建的一个ZN代理服务器,只有洋葱访问,服务器也被我设成了tor always,可能每天中午会下线一段时间",
+			"body": "http://ghcxx5nbyczzxt2q.onion",
+			"added": 1487155930,
+			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 13,
+			"title": "七律 蛤",
+			"body": "美国有个华莱士,不知高到哪里去.\n港媒还要多学习,暴力膜蛤必被续.\n今天得罪你一下,将来宣传有偏差.\n你们全都要负责,按照香港基本法.\n水载舟亦可赛艇,从来没有要钦定.\n图样森破乃义务,你们还是太年轻.\n苟利国家生死以,岂因祸福避趋之.\n记者还是太年轻,有时甚至很幼稚.\n你们倒有一个好,跑的比谁都要快.\n弹曲夏威夷吉他,真的是亦可赛艇.\n蛤若有情蛤亦老,人生经验还太少.\n弄出一个大新闻,来为长者续一秒.",
+			"added": 1488602805,
+			"parent_topic_uri": "12_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 14,
+			"title": "准备开发第三方zeronet客户端+服务器",
+			"body": "https://github.com/Antimoney/3.git\n可能会有的功能:\n1. php支持\n2. 通过允许连接的节点翻墙\n3. 自定义地址簿(即域名解析)\n4. 图形化设置界面\n5. 私钥密码保护\n6. 数据打包及密码保护(计划是将data文件夹变成一个单文件的文件容器,方便数据转移(由于在windows操作系统中移动很多小文件是需要花很长时间的))\n7. i2p支持\n\n打算使用PHP语言开发,应该会用[workerman框架](http://www.workerman.net/)\n\n\nreadme.md:\n\n# 3rd Party ZeroNet Client (3PZNC)\n\n```\nwork progress\n[                                                  ] 0%\n```\n\nwork plan:\n- [ ] web ui server\n  - [ ] read data folder and display contents in it\n  - [ ] put pages in a frame\n  - [ ] 3rd party ZeroFrame for the page to call\n  - [ ] settings ui\n  - [ ] php support\n- [ ] file server\n  - [ ] put data folder into vhd\n  - [ ] connector to the network\n- [ ] proxy server\n  - [ ] set proxy to browse ZeroNet sites\n  - [ ] proxy server to break through the infamous GFW\n- [ ] tor and i2p\n  - [ ] tor support\n  - [ ] i2p support\n- [ ] plugins\n  - [ ] mute\n  - [ ] custom location for data\n  - [ ] custom address book\n  - [ ] mutli-user plugin\n- [ ] other\n  - [ ] build a website for this project on clear net\n  - [ ] build a website for this project on ZeroNet\n- [x] license and readme\n  - [x] license.php\n  - [x] readme.md\n\nproject homepage: https://github.com/Antimoney/3.git\n\npull requests are very welcomed.\n",
+			"added": 1494507778,
+			"parent_topic_uri": "57_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ"
+		},
+		{
+			"topic_id": 15,
+			"title": "建议向talk.zeronetwork.bit一样在顶端加上其他几个语言的链接",
+			"body": "RT\n这样从英文论坛点进来之后还能点回去",
+			"added": 1494673989,
+			"parent_topic_uri": "14_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		}
+	],
+	"topic_vote": {
+		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"60_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"4_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"2_18Qs7fci1Znc9TPxWjcHfTiKLAubR6yTcq": 1,
+		"3_1PBMVMMVVtSK6FmMbfz4fhEw5fv6eZs5Dn": 1
+	},
+	"next_comment_id": 34,
+	"comment": {
+		"1_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 1,
+				"body": "再来条评论把它提到前面...",
+				"added": 1485268702
+			},
+			{
+				"comment_id": 8,
+				"body": "> [mbp374](#comment_22_1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J): 不用区块链，可以用一种投票机制，只要大家都投票质疑一个帖子，那么这个帖子就可以自动被隐藏。\n\n投票容易有人恶意的不断换号去spam啊",
+				"added": 1486170133
+			}
+		],
+		"60_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 2,
+				"body": "不用杀毒软件,在虚拟机里安装一遍,再把安装好的文件从虚拟机提取出来,再把虚拟机用快照还原,可以防捆绑安装或污染注册表等",
+				"added": 1485572931
+			}
+		],
+		"37_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 3,
+				"body": "用tor browser,普通浏览器可能暴露ip\nlocalhost:43110/1Ey8WR7e3quTdPTMZZKDdqw2U6JG3zvkHe/",
+				"added": 1485573167
+			}
+		],
+		"3_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 4,
+				"body": "> [p2p](#comment_1069_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 确实有废站/旧站存在，但是如果建立一个平台,允许用户在上面发表自己认为那个站点毫无价值,可以删除，要考虑到如何证明这个用户是这个网站的真正所有者，而不是盗号者（毕竟有网站的私钥和身份私钥不同时泄露的情况）\n\n证明是网站所以者是通过在网站根目录添加deletion.htm或deletion.html或deletion.txt或deletion.json并签署,发布",
+				"added": 1485614497
+			}
+		],
+		"4_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 5,
+				"body": "贴代码`https://raw.githubusercontent.com/2047/someZeroNetPlugins/master/AddressBookPlugin/AddressBookPlugin.py`\n```python\nimport re\nimport time\nimport json\nfrom Plugin import PluginManager\nfrom Config import config\n#-----------------------------------------------------------------------------------\ndef jsonStore(data, fileName):\n    with open(fileName, 'w') as json_file:\n        json_file.write(json.dumps(data))\ndef jsonLoad(fileName):\n    with open(fileName) as json_file:\n        data = json.load(json_file)\n        return data\n#-----------------------------------------------------------------------------------\n@PluginManager.registerTo(\"SiteManager\")\nclass SiteManagerPlugin(object):\n    site_zeroname = None\n    local_address = None\n    db_domains = None\n    db_domains_modified = None\n#-----------------------------------------------------------------------------------\n    def isDomain(self, address):\n        return re.match(\"(.*?)([A-Za-z0-9_-]+\\.[A-Za-z0-9]+)$\", address)\n    def isAddress(self, address):\n        if self.isDomain(address):\n            return True\n        else:\n            return super(SiteManagerPlugin, self).isAddress(address)\n#-----------------------------------------------------------------------------------\n    def need(self, address, all_file=True):\n        if self.isDomain(address):\n            if self.resolveDomain(address):\n                address = self.resolveDomain(address)\n            else:\n                return None\n        return super(SiteManagerPlugin, self).need(address, all_file)\n#-----------------------------------------------------------------------------------\n    def get(self, address):\n        if self.sites is None:\n            self.load()\n        if self.isDomain(address):\n            if self.resolveDomain(address):\n                site = self.sites.get(self.resolveDomain(address))\n                if site:\n                    site_domain = site.settings.get(\"domain\")\n                    if site_domain != address:\n                        site.settings[\"domain\"] = address\n            else:\n                site = self.sites.get(address)\n        else:\n            site = self.sites.get(address)\n        return site\n#-----------------------------------------------------------------------------------\n    def load(self, *args, **kwargs):\n        super(SiteManagerPlugin, self).load(*args, **kwargs)\n        if not self.get(config.bit_resolver):\n            self.need(config.bit_resolver)\n#-----------------------------------------------------------------------------------\n    def resolveDomain(self, domain):\n        domain = domain.lower()\n        if not self.site_zeroname:\n            self.site_zeroname = self.need(config.bit_resolver)\n        site_zeroname_modified = self.site_zeroname.content_manager.contents.get(\"content.json\", {}).get(\"modified\", 0)\n        if not self.db_domains or self.db_domains_modified != site_zeroname_modified:\n            self.site_zeroname.needFile(\"data/names.json\", priority=10)\n            s = time.time()\n            self.db_domains = self.site_zeroname.storage.loadJson(\"data/names.json\")\n            self.db_domains_modified = site_zeroname_modified\n        self.local_address = jsonLoad(config.addressbook_name)\n        if self.db_domains.get(domain):\n            return self.db_domains.get(domain)\n        else:\n            return self.local_address.get(domain)\n#-----------------------------------------------------------------------------------\n@PluginManager.registerTo(\"UiRequest\")\nclass UiRequestPlugin(object):\n    address_book = None\n    def __init__(self, *args, **kwargs):\n        from Site import SiteManager\n        self.site_manager = SiteManager.site_manager\n        super(UiRequestPlugin, self).__init__(*args, **kwargs)\n#-----------------------------------------------------------------------------------\n    def actionSiteMedia(self, path, header_length=True):\n        match = re.match(\"/media/(?P<address>[A-Za-z0-9-]+\\.[A-Za-z0-9\\.-]+)(?P<inner_path>/.*|$)\", path)\n        if match:\n            domain = match.group(\"address\")\n            address = self.site_manager.resolveDomain(domain)\n            if address:\n                path = \"/media/\" + address + match.group(\"inner_path\")\n        return super(UiRequestPlugin, self).actionSiteMedia(path, header_length=header_length)\n#-----------------------------------------------------------------------------------\n    def isMediaRequestAllowed(self, site_address, referer):\n        referer_path = re.sub(\"http[s]{0,1}://.*?/\", \"/\", referer).replace(\"/media\", \"\")\n        referer_path = re.sub(\"\\?.*\", \"\", referer_path)\n        if not re.sub(\"^http[s]{0,1}://\", \"\", referer).startswith(self.env[\"HTTP_HOST\"]):\n            return False\n        if self.isProxyRequest():\n            referer = re.sub(\"^http://zero[/]+\", \"http://\", referer)\n            referer_site_address = re.match(\"http[s]{0,1}://(.*?)(/|$)\", referer).group(1)\n        else:\n            referer_site_address = re.match(\"/(?P<address>[A-Za-z0-9\\.-]+)(?P<inner_path>/.*|$)\", referer_path).group(\"address\")\n        if referer_site_address == site_address:\n            return True\n        elif self.site_manager.resolveDomain(referer_site_address) == site_address:\n            return True\n        else:\n            return False\n#-----------------------------------------------------------------------------------\n    def actionAddressBook(self):\n        self.sendHeader()\n        posted = self.getPosted()\n        address_book = jsonLoad(config.addressbook_name)\n        yield \"\"\"<tt><form method=\"post\"><h1>Address Book</h1><h2>Site list:</h2><ol>\"\"\"\n        for Domain in address_book.keys():\n            yield \"<li><input type=\\\"checkbox\\\" name=\\\"delete-\" + Domain + \"\\\"/><a href=\\\"/\" + Domain + \"\\\"><tt>\" + Domain + \"</tt></a> -&gt; <a href=\\\"/\" + str(address_book[Domain]) + \"\\\"><tt>\" + str(address_book[Domain]) + \"</tt></a></li>\"\n        yield \"\"\"</ol><h2>ZeroNet site to resolve domains:</h2>\"\"\"\n        yield \"<ol><li><a href=\\\"/\" + config.bit_resolver + \"\\\"><tt>\" + config.bit_resolver + \"</tt></a></li></ol>\"\n        yield \"\"\"<h2>Add new record:</h2><ol><li><input type=\"text\" placeholder=\"example.domain.bit\" name=\"addDomain\"/> -&gt; <input type=\"text\" placeholder=\"1ExampleAddress1111111111111111111\" size=\"40\" name=\"addAddress\"></li></ol><input type=\"submit\" value=\"Add record and delete selected records\"/>\"\"\"\n        if posted:\n            yield \"<ol>\"\n            for Domain in address_book.keys():\n                if posted.get(\"delete-\" + Domain):\n                    yield \"<li>Deleted \" + Domain + \" -&gt; \" + str(address_book[Domain]) + \"</li>\"\n                    address_book.pop(Domain)\n            if posted.get(\"addDomain\") == \"\":\n                yield \"\"\n            elif posted.get(\"addAddress\") == \"\":\n                yield \"\"\n            else:\n                address_book[posted.get(\"addDomain\")] = posted.get(\"addAddress\")\n                yield \"<li>Added \" + str(posted.get(\"addDomain\")) + \" -&gt; \" + str(posted.get(\"addAddress\")) + \"</li>\"\n            yield \"</ol>\"\n            jsonStore(address_book, config.addressbook_name)\n        else:\n            yield \"<br/>\"\n        yield \"\"\"<a href=\"https://github.com/2047/someZeroNetPlugins/tree/master/AddressBookPlugin\"><tt>GitHub</tt></a></form></tt>\"\"\"\n#-----------------------------------------------------------------------------------\n@PluginManager.registerTo(\"ConfigPlugin\")\nclass ConfigPlugin(object):\n    def createArguments(self):\n        group = self.parser.add_argument_group(\"Address book plugin\")\n        group.add_argument('--bit_resolver', help='ZeroNet site to resolve .bit domains', default=\"1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F\", metavar=\"address\")\n        group.add_argument('--addressbook_name', help='Address book file name', default=\"address.json.txt\", metavar=\"fileName\")\n        return super(ConfigPlugin, self).createArguments()\n\n```",
+				"added": 1486123418
+			},
+			{
+				"comment_id": 6,
+				"body": "> [p2p](#comment_1081_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 看上去不错！多谢分享！终于有一个国人开发的插件了，开了个好头啊！\n\n多谢夸奖,我还打算建一个站汇总一下插件(我原先见过一个挺好的插件叫LocalStorage,可惜后来找不到下载地址了,觉得挺可惜)",
+				"added": 1486133958
+			},
+			{
+				"comment_id": 7,
+				"body": "> [p2p](#comment_1084_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 在zerohello搜索框搜LocalStorage plugin，秒出结果http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19M1DT5vruSATEcbEczYRwCk2uPuLcATBa/talnicrom@zeroid.bit\n太感谢了",
+				"added": 1486169529
+			}
+		],
+		"7_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 9,
+				"body": "有没有一样情况的?我在ZeroMe+上也是这种情况",
+				"added": 1486170934
+			},
+			{
+				"comment_id": 10,
+				"body": "> [p2p](#comment_1085_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 还没听说过这么奇葩的。换个浏览器试试\n\n~~火狐和chrome和ie上都是~~\n\n我刚才从bluehub的自己的data.json中把自己的第一条评论删掉之后就可以再ZeroMe里发了,不会再卡死",
+				"added": 1486185991
+			},
+			{
+				"comment_id": 12,
+				"body": "> [p2p](#comment_1086_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): 第一条评论发了什么鬼？触发了bug?\n\n第一条评论是发给我自己的Hello ZeroMe的,内容是\"Test\"",
+				"added": 1486272517
+			}
+		],
+		"60_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 11,
+				"body": "> 最后一步把论坛用户的文件一一（one by one）签名，也是inner_path签名方式，因为文件数量太多，不可能手动完成，感谢 @12hlearn 提供了自动脚本。此时虽然留的是我的签名（最高权限），但是这些数据的性质变成了各个用户自己的数据。为了提高签名发布效率，可以先不带--publish参数全部签名好，开一个节点做种。同时另一个节点一一（one by one）签名发布，可以把ZeroNet的源码改一下，里面的超时时间改小。最后再开一个节点把数据下载下来，用文件夹对比工具来对比看看有没有数据缺失，缺失的手动签名发布。\n\n请问如果之后用户要改旧帖内容怎么办,因为签名是你的?",
+				"added": 1486219642
+			}
+		],
+		"2_18Qs7fci1Znc9TPxWjcHfTiKLAubR6yTcq": [
+			{
+				"comment_id": 13,
+				"body": "> [zerocatty](#comment_243_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW): ZeroMux是什么？表示没用过\n\nhttps://github.com/MuxZeroNet/ZeroMux",
+				"added": 1486514902
+			}
+		],
+		"1_1PBMVMMVVtSK6FmMbfz4fhEw5fv6eZs5Dn": [
+			{
+				"comment_id": 14,
+				"body": "一种效率不高的解决方案是从边境地区通过u盘把跟外界同步过的0net中data文件夹向内部地区传递,组建人肉互联网",
+				"added": 1486600755
+			}
+		],
+		"1_1PK7r15RmMdmdnUCYeQEwuydfediNVDtt2": [
+			{
+				"comment_id": 15,
+				"body": "或许可以所有人都用tor always模式?",
+				"added": 1486600913
+			}
+		],
+		"1_1DE6m8gyMFnKeK8LUWwL67CYvVAiYS46G5": [
+			{
+				"comment_id": 16,
+				"body": "有些底线是不能跨过的,有些东西是必须禁止的,不是法律层面,而是道德尺度",
+				"added": 1486601378
+			},
+			{
+				"comment_id": 17,
+				"body": "> [cu29](#comment_3_17zFzZvX7WKMRLzfv8stnAJxEnMY9qfEio): 不同的人有不同的选择，一味批评和谴责也未必有用。就像小偷，每个地方都有，不论每个国家的法律如何惩罚。我们不能要求每个人有基本的道德，但能要求自我做一个有基本道德的人。\n\n我同意你的观点,但是我只是希望所有人都能有道德的底线(虽然实际上这不可能)然而我虽智这不可能实现但我还是呼吁大家遵守道德的底线(当然,只是呼吁而已,我不强求每个人都有道德底线),只是抱着一种\"知其不可而为之\"的想法吧",
+				"added": 1486640847
+			}
+		],
+		"12_1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE": [
+			{
+				"comment_id": 18,
+				"body": "> [lmath](#comment_533_1958F7oCppj78MP966AfojMQwHg2WUupzq): 感谢！不过这个方法对用户似乎不是很友好，因为需要同时提供证书的比特币地址与全称，还需要输入命令。Nofish 似乎已经开始打算给屏蔽功能做个用户界面了？\n\nZeroMePlus中是有这个用户界面的,可惜ZeroMePlus不能发图",
+				"added": 1486687418
+			}
+		],
+		"11_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 19,
+				"body": "> [lmath](#comment_534_1958F7oCppj78MP966AfojMQwHg2WUupzq): \n> 计算出需要覆盖的宽度然后又盖了一层文字上去。这是何等奇葩的方法啊！关键是这本来在英文里面工作正常，换成中文后文字宽度不同，但是宽度算法没改，就变成这样了。\n\n是这个问题,或许减小字体就能覆盖了",
+				"added": 1486712030
+			}
+		],
+		"1_12ULL9ktLcmzYQtuMhZF95v6cjf1Qqtcxu": [
+			{
+				"comment_id": 20,
+				"body": "明确回答一下楼主:没有",
+				"added": 1486713547
+			}
+		],
+		"91_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 21,
+				"body": "其实可以用威信或者疼逊OO加上GPG(但能想到用GPG的人就不会再用威信了...)",
+				"added": 1487155763
+			}
+		],
+		"1_13XLBAQjKBQzDnmuYdhNnwRGYe5XdPsXLQ": [
+			{
+				"comment_id": 22,
+				"body": "这种情况应该是可以挽救的,具体看这里\nhttp://127.0.0.1:43110/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/?Post:25:How+to+change+your+ZeroMe+Hub",
+				"added": 1487247277
+			}
+		],
+		"3_1PBMVMMVVtSK6FmMbfz4fhEw5fv6eZs5Dn": [
+			{
+				"comment_id": 23,
+				"body": "是啊,有的人直接把轮子和自由斗士画了等号,把反对轮子的观点和党国走狗画了等号",
+				"added": 1487247848
+			}
+		],
+		"14_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": [
+			{
+				"comment_id": 24,
+				"body": "> [p2p](#comment_1199_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): Excited!有些功能貌似可以通过插件实现，这样官方客户端也能用这部分功能。i2p支持在ZeroNet 的github issues里有深入讨论和代码实现php支持？难道不是用python而是用php来从头写个客户端？\n\n是用php。\n而且的确得从头来\n所以请不要期望它在短期内(即18个月)完成",
+				"added": 1494524038
+			},
+			{
+				"comment_id": 25,
+				"body": "> [gonggong](#comment_4_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): 我觉得 PHP 支持是不现实的，难道要允许客户端执行 PHP 代码？PHP 可不像 JavaScript 那样在受限的环境中运行，允许运行的话很危险。\n\n对危险操作加限制",
+				"added": 1494524255
+			},
+			{
+				"comment_id": 26,
+				"body": "> [gonggong](#comment_5_15DiwKXyByVUtW7hWvTSuTa7FM2uLM7UV5): 加限制的话更麻烦。我觉得不修改 PHP 源代码的情况下难以实现，修改 PHP 源代码的话又失去了直接跨平台的优势。\n\n__不用__修改php源码\n要执行的php文件---------->过滤器-----安全的函数------>执行\n...............................................|\n...............................................v\n..........................................不安全------->替换成类似于危险内容警告---->执行",
+				"added": 1494645669
+			},
+			{
+				"comment_id": 27,
+				"body": "> [mbp374](#comment_50_1FzCyv6ibgoShdXjQu7CCLiNTWhWhj5E6J): 可以用定制的PHP虚拟机。\n\nHHVM? 对windows不兹磁啊",
+				"added": 1494647895
+			},
+			{
+				"comment_id": 28,
+				"body": "> [nekocross](#comment_259_1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz): 支持一下\n\n谢谢",
+				"added": 1494647938
+			},
+			{
+				"comment_id": 29,
+				"body": "> [12hlearn](#comment_68_1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE): 先创项目吧，上github开坑，然后大家一起填会快很多\n\n你说得对",
+				"added": 1494647989
+			},
+			{
+				"comment_id": 30,
+				"body": "> [12hlearn](#comment_68_1CwbqLCD6TdkinNNNb4GneZxbsoJ6Mw6oE): 先创项目吧，上github开坑，然后大家一起填会快很多\n\nhttps://github.com/Antimoney/3.git",
+				"added": 1495087856
+			},
+			{
+				"comment_id": 31,
+				"body": "> [jacksoul](#comment_1_1NaXuPXcTuQa668Kt9FKqKTH1dbWHnaeC6): 支持一下\n\n谢谢",
+				"added": 1495088186
+			}
+		],
+		"340_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 32,
+				"body": "有人有下载吗?",
+				"added": 1498539235
+			},
+			{
+				"comment_id": 33,
+				"body": "如果能拿到changepk.exe的源码,就可以生成大量windows激活码了",
+				"added": 1498539276
+			}
+		]
+	},
+	"comment_vote": {}
+}

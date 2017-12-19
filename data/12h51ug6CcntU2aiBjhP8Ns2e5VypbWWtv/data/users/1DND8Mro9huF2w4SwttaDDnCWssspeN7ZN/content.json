@@ -1,0 +1,28 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "H0jpX7xX1+G0xwocwHEer0FjngOmcfKQwHraw5bUdPFTTaNnzWAhPWFcFW8h8LycmSPTmI61DfZp1ZVtLePyHc0=",
+ "cert_user_id": "nishikinomaki@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3ec864b28bce254aedc87db69e97ef29536f53cbe032a6768a66cdaad8f279db",
+   "size": 1579
+  },
+  "data.json": {
+   "sha512": "3149d399afe059f9eb87bb52cfd7e3e9e7e6d434c0fc18a6e69d2a03428f6852",
+   "size": 3386
+  }
+ },
+ "files_optional": {
+  "bg.jpg": {
+   "sha512": "872799420b5c4582473a7128745291e2a45874300f1b5179fdace33ad58c326c",
+   "size": 57378
+  }
+ },
+ "inner_path": "data/users/1DND8Mro9huF2w4SwttaDDnCWssspeN7ZN/content.json",
+ "modified": 1512738102,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1DND8Mro9huF2w4SwttaDDnCWssspeN7ZN": "HKj5RIDCybRNVFGKIVXrCrYs29Dp/uGA5cCYsTFV0iwTadT0lh1TsdGBZVcoxvTDdJQ1nvKGXL8pzrgoD0pdvV4="
+ }
+}

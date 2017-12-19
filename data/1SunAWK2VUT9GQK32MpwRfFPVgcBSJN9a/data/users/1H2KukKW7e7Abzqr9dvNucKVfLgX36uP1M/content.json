@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HA0RbNnqxryTTejTGGXCMeV8zpySVvxJjI6TfN7fkzKFxoYdDJheAdHa9IbCkGIiPJUZptbiVoFoQVSHqGzBwpI=",
+ "cert_user_id": "afrozilla3000@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "2dab6bf8a712360c5a8c26f57c023c77a58818e24c207bba96c5572f70811405",
+   "size": 1229
+  },
+  "data.json": {
+   "sha512": "e4d30e65e9f2e161258fcf0d150298556f9b14f88e18b0dbc71243384d171cdb",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1H2KukKW7e7Abzqr9dvNucKVfLgX36uP1M/content.json",
+ "modified": 1511934841,
+ "signs": {
+  "1H2KukKW7e7Abzqr9dvNucKVfLgX36uP1M": "G/+ye1sN5wn3Vmb8+bv+aDDwSIJ6JE3rtlTG+Aw2e8ZvM638oaxHrnwSmv+MDVvDseoIC6RyJL5vExyYOzVfo5E="
+ }
+}

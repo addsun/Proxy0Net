@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G1/zmMd1u5FNFJJYW81S/biX8AEXJwFdCNuM7vU+ETOt2ql3aWjgC8FhocSDuvYIkU9YglaoiYl4bNQXmIth2KU=",
+ "cert_user_id": "gusriber@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "65ce6c2ab0280e5083653c700092c1e9d8bb4c5cb691ce1e1f09100a0eca6435",
+   "size": 1688
+  },
+  "data.json": {
+   "sha512": "6ee16a68dd0e4d6f72454db91c28af4be4d9ef386831eef010076ac665463a07",
+   "size": 1431
+  }
+ },
+ "inner_path": "data/users/1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS/content.json",
+ "modified": 1476833479.046,
+ "signs": {
+  "1NPPtBk83wWgrf34KZA4SfN9XpMGzd3rtS": "G4lwreQuVC72LQ4XnGraUt0esL5/oa7dmgVQLdl23huwX20J08py+tc3N2D3t5/Lv3HaWhuluFkIydKOueObB1M="
+ }
+}

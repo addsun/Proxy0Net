@@ -1,0 +1,57 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Sickfer",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509948173,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1NzStAUQxpajofpes44xM5HAGBso2EG2XJ_1": 1510027113
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1M7iioViVvF5g4PTk6au1NPpb6xVj9wkfe",
+			"user_name": "Alexavier",
+			"date_added": 1510235494
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Mc1WfvJdL7SDCFdzqydvMK4EaAkWZtNoa",
+			"user_name": "Kappanosanpei",
+			"date_added": 1510235512
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1510235620
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex",
+			"date_added": 1510235686
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1510285711
+		}
+	]
+}

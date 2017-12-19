@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2U4MnBAziy2xQWpx8ot9pJoyT4B+Go8Vowz+Q27nz5oTotGXWjOfyLWvSHphYU1gxJWO39XYvvFpowAFuiQ7N8=",
+ "cert_user_id": "reddening@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5c752f7113e9d990d09ce31e245da29c3245636ee0b3d3967414d8c40d495724",
+   "size": 962
+  },
+  "data.json": {
+   "sha512": "a559a00d2815d323dfa98c9f8172d3467bfff5d52e7badd8e7875cad8b750e5d",
+   "size": 528
+  }
+ },
+ "inner_path": "data/users/19UTWwiVGyPciHHTsFyXBF6dMRDiqM1U1U/content.json",
+ "modified": 1511854882,
+ "signs": {
+  "19UTWwiVGyPciHHTsFyXBF6dMRDiqM1U1U": "G6m9VBWsvGY6HDBIGoXRsv7UeNcfg1KH9Jlon3lj18AkNGUaorPAbW4nqEnshhoey33wwK1O743ctwnpL5P9aSQ="
+ }
+}

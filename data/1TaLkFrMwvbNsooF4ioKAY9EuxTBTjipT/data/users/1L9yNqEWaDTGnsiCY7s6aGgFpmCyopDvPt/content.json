@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLRRRUrGDTUfIVxXs6rgQwRGyAhtWCwQN0+ONaR7OhOy0EZCgjudGj4upFSbjIuQJcbZDIr24CAD8rDTRqUiteU=",
+ "cert_user_id": "polices@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4d0cf4a2bf53cf3a2b482071e6d94498af5b4f5c15188d28db5c7cb978413f84",
+   "size": 1762
+  }
+ },
+ "inner_path": "data/users/1L9yNqEWaDTGnsiCY7s6aGgFpmCyopDvPt/content.json",
+ "modified": 1503583993,
+ "signs": {
+  "1L9yNqEWaDTGnsiCY7s6aGgFpmCyopDvPt": "Gyx25ES/nZHVJGIQF1PlRtI1FLUGGCmlS+1vP959ypjNPuB3flZPVWvI++EDBQYRacBlHayIubSQhQg3eXCcFd4="
+ }
+}

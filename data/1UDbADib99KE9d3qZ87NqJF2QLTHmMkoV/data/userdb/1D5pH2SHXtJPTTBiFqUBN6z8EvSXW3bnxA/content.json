@@ -1,0 +1,21 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "cert_auth_type": "web",
+ "cert_sign": "G5n8mAmcbsDyy5VNhzZ3dZgnN+17mqGmLAdOlsJ2kwg8khjMU6E/4uuo5uh6N2tzJahMuNPP2tak4OB0UUQXR1g=",
+ "cert_user_id": "malicious@zeroid.bit",
+ "files": {},
+ "inner_path": "data/userdb/1D5pH2SHXtJPTTBiFqUBN6z8EvSXW3bnxA/content.json",
+ "modified": 1496046837,
+ "signs": {
+  "1D5pH2SHXtJPTTBiFqUBN6z8EvSXW3bnxA": "G6R+RaGNQQzmgsEVffN2haPEHN6hf8fetNw7hODTsV+xHxx12hT42D816r5sQYWVOc5eGdQ4YNEZ4c3lj5EiJPA="
+ },
+ "user": [
+  {
+   "avatar": "generate",
+   "date_added": 1496046837,
+   "hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+   "intro": "Random ZeroNet user",
+   "user_name": "Malicious"
+  }
+ ]
+}

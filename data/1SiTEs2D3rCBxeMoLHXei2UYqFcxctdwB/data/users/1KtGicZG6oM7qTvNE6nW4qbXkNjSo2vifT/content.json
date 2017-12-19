@@ -1,0 +1,17 @@
+{
+ "address": "1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB",
+ "cert_auth_type": "web",
+ "cert_sign": "G337i4jfczEaWCelFP5G8dtQm9EMvN268tS/oS+Jg6rsLNMRXMCo7NOfvevngurmWGoKI2HjjxmxOgQi445C928=",
+ "cert_user_id": "wrench@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "280a5e406c1a356faacd1d03534c26f3b7abb9becdfaa0f6019fcb52a6268e39",
+   "size": 401
+  }
+ },
+ "inner_path": "data/users/1KtGicZG6oM7qTvNE6nW4qbXkNjSo2vifT/content.json",
+ "modified": 1503407254,
+ "signs": {
+  "1KtGicZG6oM7qTvNE6nW4qbXkNjSo2vifT": "G40x6w1VmAKNRQpc4nL4HAM0EE6GG4IYvthEshIttoePOBgbB8vjYojzgMBXXmsLwIp2swcF6PIFKsWzWh93tos="
+ }
+}

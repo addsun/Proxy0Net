@@ -1,0 +1,81 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_12ECCQvpMwvrfnW7HPBJvvR4RA3STet2Ec": 1,
+		"2_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"1_1DUEy9M3M2e6Wzqd2FFacXaaWmfk58YFK5": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"3_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 1,
+				"body": "> [iyogo887vyg87oy8](#comment_7_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): I often do OS reinstalls and I love being able to make a new ID every time I start a new zeronet install, feels like freedom!\n\nYou can also delete your `users.json` file in the `ZeroNet/data/` folder.",
+				"added": 1506603144
+			},
+			{
+				"comment_id": 13,
+				"body": "> [flappyearz](#comment_65_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): Or in fact switch on multiuser plugin and login-logout however you like.\n\nYes. You can rename the `disabled-Multiuser` folder to `Multiuser`. It is in the `plugins` folder within in the ZeroNet directory.",
+				"added": 1506614014
+			}
+		],
+		"1_1C95bWEPdpFKgoZjPLxF9NKFVj8Fvw8u2z": [
+			{
+				"comment_id": 2,
+				"body": "In the `ZeroNet/data` folder",
+				"added": 1506608039
+			}
+		],
+		"9_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 3,
+				"body": "You can get all Anki decks (not only Esperanto) here: https://ankiweb.net/shared/decks/",
+				"added": 1506608229
+			}
+		],
+		"1_1NzLP67Nx3NAsBVYTjYyYgy8HXiez4muf8": [],
+		"1_12ECCQvpMwvrfnW7HPBJvvR4RA3STet2Ec": [
+			{
+				"comment_id": 5,
+				"body": "> [usuarioingles](#comment_2_16VFv9Lt6KYyaeF9D5pGvXqp4hktB28qya):\n+1 It's good to see some people besides me have escaped the emotional prison of political correctness.",
+				"added": 1506608744
+			}
+		],
+		"4_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 6,
+				"body": "I think he was accepting of pedophilia. And he spreads quite a lot of disinformation.",
+				"added": 1506608941
+			},
+			{
+				"comment_id": 8,
+				"body": "> [redfish](#comment_19_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): @anonymoo: you are the one spreading disinformation. You care to give a source for the pedophilia claim?\n\nHere's something at least: https://www.youtube.com/watch?v=wm8LgCloKVM",
+				"added": 1506610510
+			}
+		],
+		"2_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": [
+			{
+				"comment_id": 9,
+				"body": "I think you can use `signers_sign` and `signs_required` in `content.json` for that.\n```\n    \"signers\": [\n        \"<your public key>\",\n        \"<friend's public key>\"\n    ],\n   \"signers_required\": 1\n```\nSee http://127.0.0.1:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/site_development/content_json/index.html",
+				"added": 1506610842
+			},
+			{
+				"comment_id": 10,
+				"body": "> [peter0](#comment_14_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o): Also I guess it's not possible to manage comments?\n\nWell if you want to do everything under a single identity (private key) you have to share the private key with your friend.\n\nYou have two options:\n- You can edit `users.json` manually to add the user + the private key.\n- Or secondly you can give the whole ZeroNet folder to your friend. Maybe you can create a new ZeroNet instance with only your blog and share that with your friend, make sure you have the user to edit your blog added as well.",
+				"added": 1506611546
+			}
+		],
+		"1_1DUEy9M3M2e6Wzqd2FFacXaaWmfk58YFK5": [
+			{
+				"comment_id": 12,
+				"body": "> [gerda](#comment_1_15s1mv8DCNaVeraHQYyiQAVn1tm9iPGjVx): I think most of the Jews don't take part on such rites.\n\nYou're right, most Jews consider themselves Jewish because their mother considered herself Jewish.\nBut the Jewish religion (Torah, Zohar, Talmud) isn't particularly nice to non-Jews (goyim), I think I'm safe to say that the Jewish religion teaches to hate and take advantage of the non-Jewish people.",
+				"added": 1506612043
+			}
+		]
+	},
+	"comment_vote": {
+		"2_16VFv9Lt6KYyaeF9D5pGvXqp4hktB28qya": 1,
+		"509_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

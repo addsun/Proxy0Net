@@ -1,0 +1,60 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Boot13",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507988192,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507988495,
+			"body": "This looks promising: http://www.telegraph.co.uk/science/2017/01/09/end-fillings-sight-scientists-find-alzheimers-drug-makes-teeth/",
+			"date_added": 1507988493
+		},
+		{
+			"post_id": 1509193744,
+			"body": "Required reading: https://medium.com/basic-income/if-you-think-basic-income-is-free-money-or-socialism-think-again-4a17e8d15b1",
+			"date_added": 1509193741
+		}
+	],
+	"post_like": {
+		"1Hd4X8FNiTzfRataE3qj75ysDeobMEgWhs_1508504125": 1508505282
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1508171271
+		},
+		{
+			"follow_id": 2,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1508171291
+		},
+		{
+			"follow_id": 3,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1A6rok3j9w6paahtGoxrePy7SSkMz5A48s",
+			"user_name": "TomasCW",
+			"date_added": 1508171298
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L",
+			"user_name": "Bluishcoder",
+			"date_added": 1508171300
+		}
+	]
+}

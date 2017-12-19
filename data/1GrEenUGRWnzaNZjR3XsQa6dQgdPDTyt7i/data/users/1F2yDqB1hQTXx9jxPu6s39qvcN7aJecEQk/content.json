@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GxhNDygXxn0LicTxYG7EqLHBIIIstBTlHFH96ZNhhmUI8LwrEVvcFt3eidfH9hHYF3IfsqXHWexN/hO2NGzk8kk=",
+ "cert_user_id": "sicktab@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "13a86660e2d02c24aa341fc32115fd5f246f98245a44e0eae188d6485653acb7",
+   "size": 9095
+  }
+ },
+ "files_optional": {
+  "1478781227.jpg": {
+   "sha512": "7a9c7be70afc96db2bae7418d1b8d028b70715ba9271e3b1acd7840b3ef2a506",
+   "size": 57988
+  },
+  "1479400566.jpg": {
+   "sha512": "28cb4a065a285494796a63fa6199b5d22e30d1e3438da0ee46582d3784338c86",
+   "size": 16952
+  }
+ },
+ "inner_path": "data/users/1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk/content.json",
+ "modified": 1479402541.58,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1F2yDqB1hQTXx9jxPu6s39qvcN7aJecEQk": "G44e8/1gS+lC/BsTOhB9d8lMQuLzLNE54gF6UH5JMk2FKMLhqD4MTU0JvXmEcJU4TmwCNfX4vLXEA34vxq+EgFA="
+ }
+}

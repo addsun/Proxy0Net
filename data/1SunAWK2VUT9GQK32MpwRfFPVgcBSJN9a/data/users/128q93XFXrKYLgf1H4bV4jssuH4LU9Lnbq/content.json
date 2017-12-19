@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx/lc6ESWbKyPTBuHi2l1L9ZUaqAef81aJvD8DR/0PFrnVKzAYJOE+xCwdNZf24BL8Y1shzZxOqBy/+I6rh85ls=",
+ "cert_user_id": "reggie@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f0d2363e9c4aeb43f0f454826d5387b492460d124af5ec9cfdf827f072be0c3c",
+   "size": 1213
+  },
+  "data.json": {
+   "sha512": "81d46b9c4d91ec2067af3a13b62e9f476b3c24d7f6acfdd497e95b0c11dbd450",
+   "size": 4983
+  }
+ },
+ "files_optional": {
+  "1503304608.jpg": {
+   "sha512": "05c225db719a7b931a6f5418c22f1e8fa9d99dd98b813b3fa8a2e7b32947bd74",
+   "size": 31503
+  },
+  "1503481602.jpg": {
+   "sha512": "dd79441bb7353b987afdb23064ccda33342920e2283cdde2c5a9e0fd60dd3257",
+   "size": 39139
+  }
+ },
+ "inner_path": "data/users/128q93XFXrKYLgf1H4bV4jssuH4LU9Lnbq/content.json",
+ "modified": 1507786004,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "128q93XFXrKYLgf1H4bV4jssuH4LU9Lnbq": "HHxrMNC98DwsZpspVmnfhzgjGK5LRa10z6RJVPYgYXrASUptMUFNwxWd8hsYo7ru43dzOzjIIEPVZfmjMW1IwUI="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLxKGHNnRSANRWCqLluug6i8KBBtH6ujIhLyNYDaM6NBYFI12KpdJvJZcoE199tZLNwY7OX++yqJ0Jt+oj28gaY=",
+ "cert_user_id": "fanshuhq@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8ffc114b9dba249ee4c31a4f913450655cd7b383a300c0b3c644cbaafa864919",
+   "size": 1499
+  },
+  "data.json": {
+   "sha512": "e2f09ee9b1c16671d539abf7024b3d60c6a4798be0a3a68b7e1e5987ac62a8b3",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1MgCNzGNwEDWaJhKQ8eooGgyprv5mSU2WC/content.json",
+ "modified": 1508858478,
+ "signs": {
+  "1MgCNzGNwEDWaJhKQ8eooGgyprv5mSU2WC": "HIK5O33hT+WWwtlcqaOIAgXZtMuC/iAIMOYqos4B7xlbEF+0Wnu95sio23SENBqZantkBzP/9WP5aAu0jKIbu7A="
+ }
+}

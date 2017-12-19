@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLW8pbqYRbf83tNvpXRJ8zzfwWDzZugJlZZeUEIYk8/+gCG1zCRTVsymUWEA0tsRaMtWEtCcNofiO97I8eV1rHw=",
+ "cert_user_id": "tianta@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1c01a0e7abb30cff0fe426d064329ef5adc9c950ad4475b8a987263c0bef684c",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/13BJGY9zSXm8sGGpgWkZVBsrFweGuTmv3M/content.json",
+ "modified": 1504603475,
+ "signs": {
+  "13BJGY9zSXm8sGGpgWkZVBsrFweGuTmv3M": "G9XKOaf93/IQZNiUnlZGoY0Y6/Q0NpaWvzE8qxdg5P+oFVqaOIppVBvOeh25zPZjYog0esRHQ2kF7kEtqf1RmIg="
+ }
+}

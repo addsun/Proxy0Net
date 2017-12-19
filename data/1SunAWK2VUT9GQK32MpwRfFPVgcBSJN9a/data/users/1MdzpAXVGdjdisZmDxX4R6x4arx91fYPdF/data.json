@@ -1,0 +1,27 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Spixz",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "French student in Computing School.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1505517853,
+			"body": "Bonjour ZeroMe! Voici un petit test :)"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17Zks611RR4oN8USC3RxJzaw94GyPufioG",
+			"user_name": "U53r",
+			"date_added": 1505518082
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "files": {},
+ "ignore": ".*",
+ "inner_path": "data/users/content.json",
+ "modified": 1512580712,
+ "signs": {
+  "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a": "G74SG08xKNGjX2rUK8WWswiUOuvCw8b/kWauk8k0VWyHJ7SjhWvu89B0jeN0eknyatfEOiPh4dSXCdSWmi1ktlE="
+ },
+ "user_contents": {
+  "archived": {
+   "12TpLpL8Z1pAV3yWdGgMAHFTXa8Xngxi2E": 999999999999,
+   "14UEoj1suWuwanzFVRbVhiw9HYeCetrrtV": 999999999999,
+   "15BvXBNU7i6Cwoio21kt7kWmmxMbeqpStj": 999999999999,
+   "15uTaWLRcCakZZVMP1yM1dp6bGePvFVqqZ": 999999999999,
+   "15wFMbXR2cXncB6hjzRzFxdSj3bQPaJLBA": 999999999999,
+   "162mCuCQRfbYsxMfheZoWSQx29rjznsEJe": 999999999999,
+   "16YT3mEVaFfpeZEhpys1Dw5tBkfV7dtUpT": 999999999999,
+   "16iLUVSBxsDbot1fNYbcdNYyZeoW35DaiP": 999999999999,
+   "177WYf7ExRvqFaxzxQVZuh8615SiVcP3Zx": 999999999999,
+   "17K8P7EZG2KTsL7KYJVbbGSWBwdPJT2UcA": 999999999999,
+   "17pBq2pKHj1CQuiZ9B8xq7QBFtvcsnbKng": 999999999999,
+   "18wfecSjB9Dz7rDVNgoTsfUTAdGcbWCsRY": 999999999999,
+   "19FQTMkZc2m23iZ2D1Fn6EeEXGNawe2ThF": 999999999999,
+   "1B6UDTzCeni1f2tpBD753BZ4n79KrzU2Hb": 999999999999,
+   "1CDpAcEWUYQEtNiXuea92wiiNg4AUagv9b": 999999999999,
+   "1DGx7DQ6i2KujNRHtTaTqi3tDopmxxFqWp": 999999999999,
+   "1H64QVcsUeDHk7VZQVbKnjwaBbvM9Ff4T7": 999999999999,
+   "1HZ3zJnUumLq9XYhfWo9EVgEoH3nVVELJF": 999999999999,
+   "1HgexZ3qdaxzj2scDcBEpMHfS454pLydgy": 999999999999,
+   "1Hk7HeYUM9SDrCS4EfooMSyzTnghFwRwG1": 999999999999,
+   "1Jp1jhrq83DZEhVtXiNMy6PGTvAWUfw1jY": 999999999999,
+   "1K8et9SPKrGEhRadXSbuGFyvSjRSVRHWrv": 999999999999,
+   "1KCCBtdGCzCYwGe4y15M6Rgd2ewUroSVBD": 999999999999,
+   "1KJ5x6qUhKMFN54fPZ8Hhw6BrxEhpURv9j": 999999999999,
+   "1L9gXgFSarhgB9LeU8DUMyQrhPuwNHH4fV": 999999999999,
+   "1PAkatZQUhW3SMBar8CUQuWLb8LweuhhDD": 999999999999,
+   "1PGr6D7A7CAJF56HDKTxFnxkq4vTYVkpgD": 999999999999
+  },
+  "cert_signers": {
+   "zeroid.bit": ["1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz"]
+  },
+  "permission_rules": {
+   ".*": {
+    "files_allowed": "(data.json|avatar.jpg|avatar.png)",
+    "max_size": 50000,
+    "max_size_optional": 10000000
+   },
+   "bitid/.*@zeroid.bit": {"max_size": 60000},
+   "bitmsg/.*@zeroid.bit": {"max_size": 60000}
+  },
+  "permissions": {
+   "alataraji@zeroid.bit": {"max_size": 100000},
+   "bsdzeroidbit@zeroid.bit": {"max_size": 100000},
+   "ekaterina@zeroid.bit": {"max_size": 100000},
+   "fengyun999@zeroid.bit": {"max_size": 100000},
+   "gitcenter@zeroid.bit": {"max_size": 100000},
+   "jackyggg@zeroid.bit": {"max_size": 100000},
+   "jdfq2@zeroid.bit": {"max_size": 100000},
+   "johnbyte@zeroid.bit": {"max_size": 100000},
+   "koukou2017@zeroid.bit": {"max_size": 100000},
+   "krixano@zeroid.bit": {"max_size": 100000},
+   "muerdo@zeroid.bit": {"max_size": 100000},
+   "omaidb@zeroid.bit": {"max_size": 100000}
+  }
+ }
+}

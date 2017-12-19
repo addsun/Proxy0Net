@@ -1,0 +1,176 @@
+{
+	"next_comment_id": 25,
+	"user_name": "Binchan",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1_1486186983": 1486348353,
+		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1488602931": 1488817849,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1491402276": 1491475224,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1491340537": 1491475489,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491588058": 1491626627,
+		"1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1493087974": 1493127917,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1493401444": 1493422694,
+		"1PGFKCfMSL1QdudndfYCo4mGM8E8XKzMMG_1495666687": 1495757413,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1497041028": 1497062690,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1498331325": 1498462098,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1498756631": 1498769543,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1499613384": 1499669107,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1499549215": 1499690996,
+		"1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u_1501460280": 1501462678,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1504166735": 1504172298,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1504202461": 1504323144,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1504821257": 1504877876,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1505034677": 1505058171,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1506442319": 1506475964,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1510765585": 1510800523,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512182984": 1512183617,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823": 1512185080,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512280002": 1512294718
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> where is the javascript/css for the slight blue glow when you select the comment textbox\n\n  .comment-create textarea:focus {\n    border-color: #000 !important;\n  }",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488836366",
+			"date_added": 1488904288
+		},
+		{
+			"comment_id": 2,
+			"body": "There is not any retweet or like to any recent @wikileaks tweet ... I can still search #Vault7 for some results though.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1488999609",
+			"date_added": 1489026179
+		},
+		{
+			"comment_id": 3,
+			"body": "Twitter Company still tried something good, like iirc before they wanted to localize their data center. If no better choice I still hope Twitter survives because it will be more awful if the Mass (who are not interested in alternatives) can only choose Facebook (Twitter has already lost to FB in business). It may be better that community can take over the Twitter Company.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1488999609",
+			"date_added": 1489029286
+		},
+		{
+			"comment_id": 4,
+			"body": "@ks: It seems '\\N{NO-BREAK SPACE}' ('\\xa0') represents space in HTML file which is encoded in Latin1. http://stackoverflow.com/questions/10993612/python-removing-xa0-from-string",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1490084168",
+			"date_added": 1490098568
+		},
+		{
+			"comment_id": 5,
+			"body": "@ks: Thx for the puzzle (I treat your post as a puzzle :P) and the tips.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1490084168",
+			"date_added": 1490099866
+		},
+		{
+			"comment_id": 6,
+			"body": "@ks: A little extension: Besides what you want to achieve, I guess that your post also presents a question: **Is it suitable to treat ‘\\xa0’ as a common delimiter?**\n\nFrom my first comment, there are people that want to directly convert it to space, so it's suitable to treat it as a delimiter. But some people like you want to keep it when splitting text. And it looks like that ‘\\xa0’ has different use in different cases.\n\nAlso I have no answer :P",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1490084168",
+			"date_added": 1490102106
+		},
+		{
+			"comment_id": 7,
+			"body": "Thx for the awesome work! When uploading background image, the width of the image will be compressed to 900px, and it may become ugly. I'm able to directly add the image to my account folder and sign it. Maybe you would like to set the compress threshold a little higher, like 1280px.\nEdit: The quality problem of background image is also caused by that `background-size` is set to 150%.  Forcing `.loaded {background-size: cover !important;} fixes this problem.",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491588058",
+			"date_added": 1491657476
+		},
+		{
+			"comment_id": 8,
+			"body": "Also I find you set `.light-bg {background: rgba(255, 255, 255, 0.3);}` Maybe it's better to set the alpha value a bit higher (I recommend more than 0.8), or text is too hard to read when setting a dark background. You can also add transparency to `.post` and `.comment-list`.",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491588058",
+			"date_added": 1491658715
+		},
+		{
+			"comment_id": 9,
+			"body": "@Plasmmer: But without some transparency, it is almost unable to enjoy background image. In the other hand I use the third option `Don't show background on the feed/timeline and other pages` in the Setting, so I agree with you on the fact of distracting",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491671146",
+			"date_added": 1491674411
+		},
+		{
+			"comment_id": 10,
+			"body": "@Plasmmer: No objection. Compare to forcing users new feature, to make feature optional (and discoverable) is gold, though developer will need some extra efforts to implement it.",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1491671146",
+			"date_added": 1491680937
+		},
+		{
+			"comment_id": 11,
+			"body": "@Nofish: What about my suggestion [here](/Talk.ZeroNetwork.bit/?Topic:2_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw/Dear+Chinese+friends) :) Create another Talk forum specific for English, and leave the main forum multi-lingual. Guess that is more open-minded. Also the main forum is going to exceed 20MB. And like mario seems to delete all his posts (because reaches content limit?) and [cause some weird problems](/Talk.ZeroNetwork.bit/?Topic:2_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947/how+are+you+managing+bit+domains)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1495610689",
+			"date_added": 1495633677
+		},
+		{
+			"comment_id": 12,
+			"body": "@Nofish: I add a new topic [Language Sorting for ZeroTalk](/Talk.ZeroNetwork.bit/?Topic:5_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/Language+Sorting+for+ZeroTalk), hope it'll be helpful. Also thx for working on the new features.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1495610689",
+			"date_added": 1495701571
+		},
+		{
+			"comment_id": 13,
+			"body": "The mainpage also has a link to Linguee! Awesome tool for learning and using many languages",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1504166735",
+			"date_added": 1504172475
+		},
+		{
+			"comment_id": 14,
+			"body": "@Musickiller: [Coming soon](https://www.deepl.com/press.html)\n> The neural networks are already training to master more languages like Mandarin, Japanese, and Russian. DeepL also intends to release an API in the coming months, allowing its superior translations to enhance other products such as digital assistants, dictionaries, language learning apps, and professional translation programs.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1504166735",
+			"date_added": 1504198268
+		},
+		{
+			"comment_id": 15,
+			"body": "@Musickiller: @Jayofthezero: [Hunter - Milhaven.mp3](/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/1507332778-08%20-%20Hunter%20-%20Milhaven.mp3), hope that @Nofish won't be mad at me :P -> Just need to edit the js file",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1507328653",
+			"date_added": 1507333167
+		},
+		{
+			"comment_id": 16,
+			"body": "@Flyman: You can use the method in \"Keeping Your Zite Online\" section, [ZeroNet Dev Center](/14pM9huTYzJdyQyHRj6v2kfhMe8DrxwpGt/?/tutorials/the_basics#h7), while refreshing your new site from clearnet proxy, at the same time keep trying publishing your site from config panel, after some try your site will be downloaded to the proxy and so have a initial peer. Works for me with port closed ",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1507405163",
+			"date_added": 1507430107
+		},
+		{
+			"comment_id": 17,
+			"body": "Happened to me too, looks like it only accept ASCII (English latin character...)",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1509291417",
+			"date_added": 1509333821
+		},
+		{
+			"comment_id": 18,
+			"body": "Yizhachok is quite good, like it, the same with Karawan. The translations are easy to understand, haven't looked into details. Also I don't need to rename the file and can directly unpack it with 7z.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1510408542",
+			"date_added": 1510461047
+		},
+		{
+			"comment_id": 19,
+			"body": "I'm too slow...  go somewhere else to post XD\nBtw, I check my screenshots, 1000$ is Jan-02-2017.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1511868298",
+			"date_added": 1511868993
+		},
+		{
+			"comment_id": 20,
+			"body": "@Vpe: You can check https://coinmap.org/ for how it's widely used.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1511868298",
+			"date_added": 1511880210
+		},
+		{
+			"comment_id": 21,
+			"body": "There is also [an enhanced version with diff feature](/17iT2yckAbVjrdmJf1VmbfWMNR2uqkYSej/) by Affeali [[related topic link]](/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1510339773)",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1511925455",
+			"date_added": 1511926463
+		},
+		{
+			"comment_id": 22,
+			"body": "Then the total of your peers is about 17724. Guess 43567 is by suming up all four numbers above. Is it mistranslated?",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823",
+			"date_added": 1512185354
+		},
+		{
+			"comment_id": 23,
+			"body": "@Balancer73: That's weird. From my node the number in the page is the same with the bottom-right number in the config panel. Are you using an old version of ZeroNet? Probably Nofish changed the counting algorithm later.",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823",
+			"date_added": 1512187099
+		},
+		{
+			"comment_id": 24,
+			"body": "@Balancer73: So you are using HelloZeroProxy, then I think the problem is from that site. It hasn't been updated [for a long time](https://github.com/ZeroNerds/HelloZeroProxy/commits/master).",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1512183823",
+			"date_added": 1512188302
+		}
+	]
+}

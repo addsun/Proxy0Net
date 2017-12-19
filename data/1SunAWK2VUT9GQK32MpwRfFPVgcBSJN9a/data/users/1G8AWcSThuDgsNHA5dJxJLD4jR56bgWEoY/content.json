@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G8++Hy3iwdbbFZbp1xwcDcFOBUSdpfIbduw9ThJhMfmZouvyQRi9rP2f67eaFSM9Q0GL/znzQvR5+60faYcvRnE=",
+ "cert_user_id": "kascorp@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f0e1f92d31b3572f0d7e45f7588cfb878d29ecae18bf48cf6702da67544d78e2",
+   "size": 929
+  },
+  "data.json": {
+   "sha512": "e56906d9bed5b73098d200781fae7bab257352205558cc3988592481d4be6335",
+   "size": 392
+  }
+ },
+ "inner_path": "data/users/1G8AWcSThuDgsNHA5dJxJLD4jR56bgWEoY/content.json",
+ "modified": 1502047163,
+ "signs": {
+  "1G8AWcSThuDgsNHA5dJxJLD4jR56bgWEoY": "HP5BM5l/OWQyTgOSjquzk6/eYFfUgwG8XHCP10H7DGTSezXbJnD3LriZfCDcoWFRarfUoyX1oEa1qU4LuAMKVFI="
+ }
+}

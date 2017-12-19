@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIgmLTdu2ORM95vZ0gXWdB8NwtpAR9NzAVHnEGVoRuUaLCP3GvBK4jTvPyBJG1u/og/MOg8zblYHMV8U8Gqb0MM=",
+ "cert_user_id": "esxi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7f758ced4784d217fd20677b84092731ad1dc98a70cd6ffd1f0b94c73f89713f",
+   "size": 652
+  }
+ },
+ "inner_path": "data/users/13RrZ5RUAcngoNZcKG7w2CT8DGjRkT9WiM/content.json",
+ "modified": 1512792004,
+ "signs": {
+  "13RrZ5RUAcngoNZcKG7w2CT8DGjRkT9WiM": "HICs3+HswTS83yP5oxEM1t4o5BgDR2sdMGYMOeZBGikaBjTB2lUGjOwZm3L32/TgkOLM0OqxIVLTU3lSl8NBzJc="
+ }
+}

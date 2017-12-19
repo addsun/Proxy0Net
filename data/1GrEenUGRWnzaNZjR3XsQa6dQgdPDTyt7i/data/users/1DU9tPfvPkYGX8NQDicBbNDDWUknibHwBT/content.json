@@ -1,0 +1,96 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HIoNUVna3dgD7p9rLC0Ssfc6gOW4oRnVBrirE5X8DaPWTJiliE1/0/zQ7vkzwfBu/DeKMSuasIObmAEFkyfxehs=",
+ "cert_user_id": "mobile@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "489949bb9f24ddfbc97b5f21851a018e58914706bc288341e9f42e3ec8c48acb",
+   "size": 1783
+  },
+  "data.json": {
+   "sha512": "aae96f710ba5e7c8c22d53623bf9cf8e915157fe345ee15480bad1559e9477ef",
+   "size": 15191
+  }
+ },
+ "files_optional": {
+  "1492140081.jpg": {
+   "sha512": "2a86d26cc8d56c8a3cc7acc79134c14f1a735bdc7c666c6d191e4d6998cb0e86",
+   "size": 50696
+  },
+  "1497197910.jpg": {
+   "sha512": "e45dc6aa845d8b79e3230517eae2830029fe128dcaaf94c14694df077ba1b347",
+   "size": 56234
+  },
+  "1497748446.jpg": {
+   "sha512": "c6c8d08164df910bec77ba47725ffb3a51837c989386647841f6d42ab94e5bec",
+   "size": 56329
+  },
+  "1497797113.jpg": {
+   "sha512": "91085df7af36fac279999ae0d755d5f59915f30bfb2f9691be917e4fb27d7e4f",
+   "size": 46843
+  },
+  "1497797383.jpg": {
+   "sha512": "049832840c2e127ffceb037c70701d7225876fdb028ef9045f20441d3a5b2145",
+   "size": 24202
+  },
+  "1497797492.jpg": {
+   "sha512": "5a0607762998a6dbaca4dcc77d347a4b346c4c8a52eb3769a8f6de82cc4dd69d",
+   "size": 43738
+  },
+  "1497797787.jpg": {
+   "sha512": "85f69eff7c06706311f34400d4c0b0d23580f9cbd4a5556d28c7b0f31e7b8a98",
+   "size": 41305
+  },
+  "1497850876.jpg": {
+   "sha512": "eada5b8e4086d65bebc27ee7c4eb85981a2ef9e2d989ec2dd3e5c19b501e1979",
+   "size": 35366
+  },
+  "1497875747.jpg": {
+   "sha512": "4cca10176112931c04d0032ec94b9582e63e6a56d203f11df8c988e21ee7a887",
+   "size": 70807
+  },
+  "1497950992.jpg": {
+   "sha512": "c9e8738cf8eda2ee35d6a2a45f5cff2e58280bb4ec4826b6c3a33110cd55ff70",
+   "size": 35816
+  },
+  "1498469943.jpg": {
+   "sha512": "b53903ee3d4882e12a6c761219892a1256c6d10985b43d9df0d51fe302fc64bf",
+   "size": 62248
+  },
+  "1498477000.jpg": {
+   "sha512": "5c5ab7f4ac268af1f74432d1af95631cc29a2c3fd73c215cc697c8e7fc22dedb",
+   "size": 51635
+  },
+  "1498477343.jpg": {
+   "sha512": "c2fb613b9039d9624ba09fad1ea5316983cabf580eae2fde84b1a6e92cd1ce4a",
+   "size": 92778
+  },
+  "1498477728.jpg": {
+   "sha512": "6b6191be1f96fada5e5cb1ebfe7078fbd414ee4a836a525878366e697a418a9d",
+   "size": 68033
+  },
+  "1498477881.jpg": {
+   "sha512": "562a120db150d8e4672363f9c589f6a8ea78bd2c923b5efea368c740c67ace9a",
+   "size": 53982
+  },
+  "1498478073.jpg": {
+   "sha512": "bc4fbd2b37aa53c2136f8c5c8fb6b83246c5641839bbb497ea364bce2c177766",
+   "size": 105088
+  },
+  "1510915731.jpg": {
+   "sha512": "5f5f6a4e7e913f7e3c7600ec270cd4b2f4178cd829a455121e042f3a6e6e6c62",
+   "size": 43595
+  },
+  "1510929501.jpg": {
+   "sha512": "2e8322a6cda2c222ae32e2b2b1aefd61b0ade8e702026fcf13b22da1bf4ae2ba",
+   "size": 35122
+  }
+ },
+ "inner_path": "data/users/1DU9tPfvPkYGX8NQDicBbNDDWUknibHwBT/content.json",
+ "modified": 1510929511,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1DU9tPfvPkYGX8NQDicBbNDDWUknibHwBT": "HO67MeJOiNvLGP0I6qyRy+zAiiW5p5ceGdE8Cr/xAHy1RyQGZD45HCz66iygIB/PRxSMwEmrF8/7hQ2CXTlGi1k="
+ }
+}

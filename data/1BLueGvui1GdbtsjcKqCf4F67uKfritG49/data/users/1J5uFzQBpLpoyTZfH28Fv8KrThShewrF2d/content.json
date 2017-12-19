@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5zhRKU2o5+Yh2fKRIS70aD/kUsUvNW3WooFCP7CEDcMrKXda8mCkHtuQZfVTjbQBdGnHXp2q/ePDkFJ1M9bBT4=",
+ "cert_user_id": "lululatortue@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8dc715b84ffc423944d0240c211e531de713286a67c80e0a57834f235c3b94b8",
+   "size": 1554
+  },
+  "data.json": {
+   "sha512": "8932918b3494324172db7b0919af5af0f7f5a3a3388e1ac7d623d779e7a491c8",
+   "size": 2205
+  }
+ },
+ "inner_path": "data/users/1J5uFzQBpLpoyTZfH28Fv8KrThShewrF2d/content.json",
+ "modified": 1483806198.482,
+ "signs": {
+  "1J5uFzQBpLpoyTZfH28Fv8KrThShewrF2d": "HOI9c3Ya46/7ZlCxY1+rPCVVLwIiDOoajKiyF1OWlRpkp1EDrS/4bZL5VXj7VqHniwnyTqzL/2NV+J2BOH+hUlg="
+ }
+}

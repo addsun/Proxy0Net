@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HP+IFybfsECYHoyWoDDV/RnF5M3GnrQfZxJCqqQI72AwoTFIVFNC9pNgnBoAtpq2yCDkVgLAg7JUsye2jgiPt70=",
+ "cert_user_id": "fiveyellowmice@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "407ee34d0f63056f3982c7796d517928f053c0ce663c3886d0b9b47cb8597c15",
+   "size": 1272
+  },
+  "data.json": {
+   "sha512": "1dacc391e990a0a200b3053ac308230279ec78cf33457d0b6c9a5dcb6470fc19",
+   "size": 3922
+  }
+ },
+ "inner_path": "data/users/1Afg1rf238znuYSE7Lbvd5bXdBh35iWGQX/content.json",
+ "modified": 1509367159,
+ "signs": {
+  "1Afg1rf238znuYSE7Lbvd5bXdBh35iWGQX": "G/mQ+VUWYfh8ECjwWmg0O3JdQ04mHcZEZyOYaN4kzRlGQJ1eDW3+SGCPXQFpep06jeCJvLgphInFXS/V7+ig3FY="
+ }
+}

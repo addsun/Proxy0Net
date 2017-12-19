@@ -1,0 +1,44 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G2JUKBzp4M5x8fpAVS/36Zh1o4sMm2PbbDHyOqPva/ONvzV8ULwyTWe6Z4cKIRbGKobsA2u1qKF6NNajoXT2HHI=",
+ "cert_user_id": "lukipuki@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "0341cb443c47e8e46226bea0b1d6ec75a6276ebf5401bbb6fbacf7cb40112949",
+   "size": 1552
+  },
+  "data.json": {
+   "sha512": "7438e8a6009426a85c8d479b862273aff6d64a4c25a607ada5f6cf3dd48dd898",
+   "size": 4556
+  }
+ },
+ "files_optional": {
+  "1492809305.jpg": {
+   "sha512": "573f45fc614aab6c584ca5cd923b58a573ff62158f60340a8cc8044ace724573",
+   "size": 223808
+  },
+  "1492857460.jpg": {
+   "sha512": "a45c35d467fd2c8150e57fecc1b3342bff0c1114b225e2b50a56da5c0d558306",
+   "size": 168085
+  },
+  "1492953784.jpg": {
+   "sha512": "978a5d760cdfe8e36ab6c205c060cda9260633d6e550e7823869397d679dd93f",
+   "size": 177169
+  },
+  "1493044018.jpg": {
+   "sha512": "7893e45ed53909a09928f2ebb60513f1858c2ea6a8b06100711f4cc89a3d667c",
+   "size": 68017
+  },
+  "bg.jpg": {
+   "sha512": "2014f0ff688d47fe38a731cdf02df78a2e6d8ab84a384ae67a879dcbbcf2f4db",
+   "size": 28117
+  }
+ },
+ "inner_path": "data/users/1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8/content.json",
+ "modified": 1493044759,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": "HO68ky1wCuN83eMNCfWLwOwftmLLYOYoqt6bK/AL6vTaMzJRvSHdjnCuXm1sIBAKsVSK8WmowiXHldRqs/g3rBA="
+ }
+}

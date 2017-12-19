@@ -1,0 +1,32 @@
+{
+	"next_comment_id": 5,
+	"user_name": "Cablecat",
+	"hub": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "我去看看，现在我的zeronet非常慢，要缓存半天。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1495106943",
+			"date_added": 1495107793
+		},
+		{
+			"comment_id": 2,
+			"body": "大男子主义。",
+			"post_uri": "1F4opZHZXwZwTWPZPSEDtFD24a6Dow3xE3_1502266071",
+			"date_added": 1502268107
+		},
+		{
+			"comment_id": 3,
+			"body": "你需要给你的i2p补个种。在首次运行时，如果连不到活动节点，那就必须补种，以便和其他节点连接上。下载补种文件，地址：https://my.pcloud.com/publink/show?code=XZoSz77Zq5Qrbu0YYDRjAdAJHR6QJJfgJzUk",
+			"post_uri": "12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn_1505295888",
+			"date_added": 1505312281
+		},
+		{
+			"comment_id": 4,
+			"body": "@嗨！看小龙吃毒菜:首先补种成功，就建立起了i2p的网路环。可能显示的是firewalled，我的i2p也显示firewalled，但只要BANDWITH / IN OUT 显示有数据，就说明网路是通的。至于你说的无法打开网页，这个要说明一下。首先，i2p并不是用来访问普通互联网的，代理出口可能已经炸掉了。它本来的设计初衷也不是用来作为代理访问互联网，它只是提供一个链路层这样的一个网路，所以用它访问日常访问的互联网不是明智的选择。如果访问.i2后缀的i2p网址，要在浏览器的代理设置处设置代理地址和端口，没记错的话，应该是http那一项127.0.0.1 端口：4444，socks那一项127.0.0.1 端口：4445。建议用tor浏览器来访问互联网，tor的设计理念比较适合你的需求，不过tor基本上被封的很死，需要一个前置代理来为其开路。",
+			"post_uri": "12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn_1505295888",
+			"date_added": 1505398007
+		}
+	]
+}

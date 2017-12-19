@@ -1,0 +1,97 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Solutions for the English-Chinese language barrier",
+			"body": "Since there are so many Chinese users I thought it would be a cool idea to set up a Zerotalk-like forum that uses software translation to bridge the English-Chinese language gap and open up more collaboration (even if the translations aren't perfect). I.e. if you're Chinese, every English post gets translated into simplified/traditional characters or vice versa. Maybe using something like http://opennmt.net/\n\nDoes anything like this exist?",
+			"added": 1501363090
+		}
+	],
+	"topic_vote": {
+		"1_13FDDAx9qYQHYgjiDYjUimK4sMFwNENhGu": 1,
+		"1_1MbML7iwm3KXWRS16y3jkfCrXuUXDD6pd7": 1,
+		"1_1EpNwdEMbP86KsM7ByMWknNGkjBmDp2D94": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"2_1Kx8TxxmTBzb1BUGmJe2eVLFJVxBx6czBd": 1,
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"1_1CgJUqxQJEHM47hRvboY8cL65GqtWWWf9": [
+			{
+				"comment_id": 1,
+				"body": "Same here",
+				"added": 1494796390
+			}
+		],
+		"11_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 2,
+				"body": "You would need to manually whitelist ZeroNet (or deactivate NoScript while using it) since unfortunately it's not going to work without Javascript. It would be great to see some kind of solution to this so you don't need to trust JS from so many unknown sources",
+				"added": 1500236743
+			},
+			{
+				"comment_id": 4,
+				"body": "> [antyhrabia](#comment_42_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD): Deactivation of Noscript does not work, it only works to turn it off in about: addons. But why the same profile on Windows running Noscript with ZeroNet, and on Linux no longer? And why it worked in Linux before I updated Firefox to 54 version?\n\nOh that's strange, I'm not too sure why that would happen (I'm also using ZeroNet with Arch Linux). Until that's fixed it might help to use a separate browser for ZeroNet so you don't need to turn it on and off repeatedly-- I would suggest trying it out with the Tor Browser if you haven't already",
+				"added": 1500305876
+			}
+		],
+		"1_1BtkvGpvmTqNaGrUFYFP1ot3KKJRiYStSo": [
+			{
+				"comment_id": 5,
+				"body": "I found out through some Linux/FOSS blogs and forums. I think they share a lot of the same goals and you'd find a very receptive group of people that way, who are also the most likely to develop more sites for the platform",
+				"added": 1500308095
+			}
+		],
+		"1_1Geq5B49Mzx1gv2F2BxBCNDscjw9TXhLUH": [
+			{
+				"comment_id": 6,
+				"body": "And of course you could extend this idea to include every other language that has decent translation tools",
+				"added": 1501363171
+			},
+			{
+				"comment_id": 7,
+				"body": "I found this list of translation APIs, maybe someone can vouch for one of them\nhttps://www.programmableweb.com/news/63-translation-apis-bing-google-translate-and-google-ajax-language/2013/01/15",
+				"added": 1501547198
+			}
+		],
+		"4_1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL": [
+			{
+				"comment_id": 8,
+				"body": "ZeroNet works with Tor- so the best idea I can think of would be to get ZeroNet integrated with Tails OS (or something like it), localize it for China and distribute it preinstalled on USB sticks.",
+				"added": 1501866508
+			},
+			{
+				"comment_id": 9,
+				"body": "> [antyhrabia](#comment_50_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD): Can anyone say what Lantern is?\n\nAn app to get around the great firewall, faster than a vpn. Might be partially blocked by now?\nhttps://getlantern.org\n\nMight also be interested in Freebrowser\nhttps://freebrowser.org/en/",
+				"added": 1501901764
+			}
+		],
+		"1_1NgtYwuvjdzBhq5pCg9mTzo63APBBS6V46": [
+			{
+				"comment_id": 10,
+				"body": "No",
+				"added": 1502652417
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1QK6JBPQ4JmWUWUccc9afzUcCYHXm6k6VF": 1,
+		"1_1MRoJ4bco5SwBjeXHfVudgB3F52fDpSGqi": 1,
+		"2_12DEk8Hpu867JEtKbhRquega9GNUg3mAm9": 1,
+		"3_16UaF2mYg79TtamgJSTFRKSeNdAiRbMFgx": 1,
+		"51_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": 1,
+		"1_1NJjPuH8WdcF8bYsnDLwZTSHVBJPuTC6re": 1,
+		"4_1BpNbHgqwXTmdgJar9TbkFpNrD43ztsKWy": 1,
+		"2_175TGzkmprRWLr8PiChVGjJg2MJaTYyupi": 1,
+		"2_1MVGeztRHXx3PFzRYL7E41mop1SeRkdrxb": 1,
+		"10_16mtXSvjVc32hJMHM4fdxaY6Lkeip3vesA": 1,
+		"22_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1,
+		"13_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": 1,
+		"449_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1Mw31fVLTfjT69GbyUTUHKB9sGMicgSoAY": 1,
+		"448_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"185_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1
+	}
+}

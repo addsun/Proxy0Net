@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HISBHq490wZ6tLd+P/Iw2xHn88mwX7KIr7kk3l1kBoQ7TL5RmevCMnjpF+dzLegDKmcxep6+cXbjzr6XEHh/5W4=",
+ "cert_user_id": "satoshigrip@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0a339342f22ee0ff8ce122d098e2fcd043ea1613224cb16cf2b12ff497e50cbd",
+   "size": 1044
+  },
+  "data.json": {
+   "sha512": "0f26305eaae084bfa6d02caa36fcf16ec56b725771c598c05bcd88c8c233c088",
+   "size": 1190
+  }
+ },
+ "inner_path": "data/users/1CvGS5AjUnW7vaUP1DZvDaNYYpfJnQ8eot/content.json",
+ "modified": 1506840501,
+ "signs": {
+  "1CvGS5AjUnW7vaUP1DZvDaNYYpfJnQ8eot": "HEvSgXwZ7Qj2sLXQ07zu130MeeFvHHc2O5mBFb902J9hIdo7iSMLKo+LJt7+z3mhjm3z462kSVECAHPD0wO+zOc="
+ }
+}

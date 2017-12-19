@@ -1,0 +1,24 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HDeLitLUChs9geCpNL0/7yITCqCiTWGXaIWGhQeO1Hfanv9zHtQ15p4LeoTK2vkmtNqKUgmf7ihNSr335fZ7PYs=",
+ "cert_user_id": "fatherofgfw@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f00036bfb82d753aa47f9b25450c4b42d5d32100e1b4faae652111d04a562361",
+   "size": 16560
+  }
+ },
+ "files_optional": {
+  "1508157546.jpg": {
+   "sha512": "80fffbf4165f6640fb34a58be1f880d8f0f9a809ffddfeacd7fd123874d3fde8",
+   "size": 49388
+  }
+ },
+ "inner_path": "data/users/133isGmcrRR5LNGVmCPrEWjWC287AWDQb2/content.json",
+ "modified": 1509205791,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "133isGmcrRR5LNGVmCPrEWjWC287AWDQb2": "HPB1Nr0luI3e+g6FfBr+zm+eBwUj/4+tb8RwrQs9LYYiKuM8yy+iuACbspYRBQfoy20oWKo7h1ARI4nHzB6KgrY="
+ }
+}

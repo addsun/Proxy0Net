@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "怎么加载一个站点的同时，加载另外一个网站?How to load two sites  at same time？",
+			"body": "怎么加载一个站点的同时，加载另外一个网站?\n比如加载http://127.0.0.1:43110/lingdu.bit/ 的同时，\n加载另外一个网站（比如http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/）的文件内容到用户硬盘。 ifame 不管用的。\n--------------------------------------------------------------------------------------------------------------------------------------\nexample：\nwhen i open  http://127.0.0.1:43110/lingdu.bit/ , how load http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F  's contens to user's disk at the same time？",
+			"added": 1505989718
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"2_1K3XuSDK5W2S6kXq2jVBVi42Kvp7o59rC9": [
+			{
+				"comment_id": 1,
+				"body": "他妈这个里谁留QQ。。。。？",
+				"added": 1505805843
+			}
+		],
+		"1_1L6Gmgy4Lo4Z5jXqB6tnjr3jdPKFhfTSCz": [
+			{
+				"comment_id": 2,
+				"body": "iframe is not work",
+				"added": 1505989752
+			}
+		]
+	},
+	"comment_vote": {}
+}

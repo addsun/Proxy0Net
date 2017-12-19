@@ -1,0 +1,2274 @@
+{
+	"next_post_id": 103,
+	"next_comment_id": 238,
+	"next_follow_id": 52,
+	"avatar": "jpg",
+	"user_name": "Kaffie",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"intro": "24/Female - Kaffiene Developer\n\n---\n\n[My Blog](http://127.0.0.1:43110/kaffie.bit)\n\n[My Github](https://github.com/April93)\n\n[Kaffiene Search](http://127.0.0.1:43110/kaffiene.bit)",
+	"post": [
+		{
+			"post_id": 1,
+			"body": "This is a post on my new hub. ~~None of you should be able to see this yet (hopefully).~~",
+			"date_added": 1470970599
+		},
+		{
+			"post_id": 2,
+			"body": "Alright, so everything seems to be in order for my new awesome hub and cleanly migrating hubs for those of you who want to switch to my hub, or the infinity one (or even Red->Blue/Blue->Red for you color traitors).\n\nFirst things first is to seed the new hub you want to switch to. You're likely already seeding Red and Blue, but you'll need to seed the [Kaffie hub](http://127.0.0.1:43110/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv) or the infinity hub, if you want to switch to those. If you're seeing this post, you should already have the Kaffie hub.\n\nDon't bother going to the 'create profile' page. That's for suckers. It's nice to check which subs you're seeding, but the 'create profile' button just messes things up. Instead, go to your home sub (you can figure out what this is by hovering over your name and looking at the URL) and go into the /data/users/[your id]/ folder. You'll want to copy over this whole folder into the new hub's equivalent.\n\nIn the destination hub, open up content.json in a text editor (like sublime, so formatting doesn't get messed up). All you want to do is edit 'address' to point to the new hub, instead of your old one.\n\nNext, open up data.json in the destination hub. You'll see all your original hub data. Here's what we're going to do. Delete all of the entries under 'comments'. These are comments relating to the hub they're in, so you don't need them migrated. You should still keep the array though, since that's where all your new hub comments will go.\n\nChange the 'hub' to the new hub you're migrating to. Just like you did in the content.json. This is a reference to say what your 'home hub' is. We'll eventually edit this in EVERY hub you're seeding or posted in, but one step at a time.\n\nChange 'next_comment_id' to 1. Since we deleted the comments, we need to reset the counter.\n\nHere's where you get a choice. There's two options for your posts. Either you can migrate the data, which switches the name link on those posts (and hosts it in the new hub) but also unlink everyone's comments, or you can leave the posts in the old hub, and start fresh. If you start fresh, your old posts will still appear, but they'll link back to your old hub profile. So keep that in mind. I personally started fresh.\n\nTo start fresh, do the same thing to your posts as you did your comments. Delete all the entries and change the 'next_post_id' to 1.\n\nLastly, delete everything under 'post_like'. Keep the array though.\n\nThat should set up your new hub account. Now we need to repoint your data on the other hubs. For each hub you've posted in, go into that hub's folder and find your user folder, like we did before.\n\nOn each one, open the data.json and simply edit the 'hub' variable to point to your home hub. This is probably optional (as it repoints the comment links), but I went ahead and did it to reduce the amount of problems.\n\nOn your original sub, a couple more things need to be tweaked. Delete everything under 'follows'. Remove the variable entirely. Delete 'next_follow_id' as well. Change 'hub' to your new hub, as usual. And if you opted to migrate your posts, delete the entire 'posts' section along with the 'next_post_id' variable. If not, leave it. I didn't migrate, so I left the posts there.\n\nChange the intro to something to notify people to switch the profile they follow. This is technically optional, and you can just delete it if you feel like it. Delete the 'avatar' if you migrated posts (it's unneeded), but if you kept your posts there, then you'll want to keep it, as otherwise your old posts won't have an avatar (perhaps this is preferred?)\n\nFinally, we save up and go to sign/publish our changes. Visit each hub site (the actual site down at the bottom of zerohello, not zerome). Then drag the sidebar open and select 'i own this site'. Put your user content.json in the bottom box (should look something like: data/users/[yourid]/content.json) and hit sign. It'll prompt for a privatekey. Use your ZeroID private key (found at the top of your zeronet's user.json file) and then click publish. Do this for every hub you've edited.\n\n---\n\nSo now all of the changes are made and published. Everyone else should see everything just fine. But you might still be stuck logged into your old hub. So delete every hub but your destination hub. Then go into zerome and ensure you're logged in properly. Finally, redownload each hub and everything should be good to go!",
+			"date_added": 1470973771
+		},
+		{
+			"post_id": 3,
+			"body": "Configuring my hub to be wonderful. Already got a .bit at [hub.kaffie.bit](http://127.0.0.1:43110/hub.kaffie.bit/) and gave it a nice little splash page. Perhaps next I'll clone ZeroMe and blend the Kaffiene and ZeroMe styles together into a cohesive whole?",
+			"date_added": 1470989521
+		},
+		{
+			"post_id": 4,
+			"body": "[Sneak preview at the new Kaffiene UI](https://ipfs.pics/ipfs/QmSDbcCkEYv36NoJz3b25ZbBogiSJ4z1HD2mpwHnnuaHsG) coming soon. Will be posted soon (maybe tomorrow?). I need sleep first.",
+			"date_added": 1471007260
+		},
+		{
+			"post_id": 5,
+			"body": "Curious... I went ahead and looked on some proxies and there appears to be some more hubs tucked away. They didn't appear on Bot's list, nor on ZeroMe's create profile page (unless they're seeded, obviously). And they don't look like they've been posted anywhere. So here they are for those interested:\n\nBitcoin - 12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S\n\nHub Espanol - 15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn\n\nAnarcho-Capitalism - 1CiGGh6RrTtaTJfutVKUrfURsP5J4stJDk\n\nGFW Hub - 1Gb25pK7XqrgnBYjhHLGBjEYURg2MhbJCq\n\nTrump 2016 - 16bNGdxFkGWGnCEfVue3w4CSp3Ew2hcyBB\n\nOrange is the new Black - 1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh",
+			"date_added": 1471039763
+		},
+		{
+			"post_id": 6,
+			"body": "Kaffiene just got a new UI, along with other neat changes. Go check it out! I detailed it on my blog.",
+			"date_added": 1471054399
+		},
+		{
+			"post_id": 7,
+			"body": "Testing a ZeroMe clone. Should show up properly...",
+			"date_added": 1471069289
+		},
+		{
+			"post_id": 13,
+			"body": "I just noticed that likes on my posts show up on both my redhub and kaffie hub posts, if they share a post number. So if someone liked 'kaffie hub post 1' then it'd show up as a like for both kaffie hub post 1, as well as red hub post 1. AFAIK, comments don't do this, because they were originally designed to be spread across hubs.\n\nSo I upped my kaffie hub post number, so that I should be past my redhub post count. That way the likes aren't duplicated any more. Hopefully once the multi-hub thing gets fixed, the likes will be properly displayed.",
+			"date_added": 1471071033
+		},
+		{
+			"post_id": 14,
+			"body": "KaffieID test was a success! [Check it out.](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f/kaffie@kaffie.bit)",
+			"date_added": 1471090500
+		},
+		{
+			"post_id": 15,
+			"body": "Still having issues logging in... What exactly determines whether 'create profile' appears?\n\nhttps://ipfs.pics/ipfs/QmU4sb95w7ZqXPphLxomU8vynr9gtcKEkRxidmfGEhga5a",
+			"date_added": 1471128495
+		},
+		{
+			"post_id": 16,
+			"body": "Update on the login issue for KaffieID. The login code detects your cert name, which is the little `name@zeroid.bit` and then compares it to the one in your `content.json` file. If they match, it sets that as your user. If not, then it doesn't. So username switching systems, or people with matching names/providers (such as nanasi/kaffie that don't guarantee name uniqueness) you get login issues. And switching an id (even with the same auth keys and such) makes a login issue, despite signing working correctly anyway.\n\nApparently the only think you need to change is the content.json in your home hub, to fix this. just change `\"cert_user_id\": \"name@provider.bit\",` to whatever it is that is in the top right (your cert name). If this field is missing, there'll be issues. And if it doesn't match, there'll be issues.\n\nThe fix I posted below (changing the detection in all.js) to be based on auth_address) works as well, and lets you log in regardless (so if your signing is good, you're all set). Though amusingly, the little `name@provider.bit` that appears everywhere *is* based on that field in the content.json. Interesting...\n\nI'd still like the change to all.js to be made though, so that this issue doesn't occur. Having broken logins is never good.",
+			"date_added": 1471135484
+		},
+		{
+			"post_id": 17,
+			"body": "Despite me being a developer, and having actually released stuff that people use, I never actually pushed to github before. Nor have I ever done a pull request. Up until now, I've always used group repositories on SVN, and a couple group repositories on google's git thing. I gotta say, github is actually kinda cool.\n\nEither way, I just submitted a pull request for the fix I was talking about earlier. So hopefully this fix can come sooner than later.",
+			"date_added": 1471144687
+		},
+		{
+			"post_id": 18,
+			"body": "Just finished putting the last bits of polish on the KaffieID site. It's more or less ready to go. I just need to configure a subdomain for it (likely id.kaffie.bit) and then launch it with the big redesign I'm working on. Here's a sneak peek!\n\nhttps://ipfs.pics/ipfs/QmQ72gotbzLURYuapgLoJx8hRjXcdmA9D1gxubQ6nMrDFi",
+			"date_added": 1471158336
+		},
+		{
+			"post_id": 19,
+			"body": "Every time I pick up my prescription I wonder if people know what it's for, or if it's just some mystery drugs they have no idea what I'm doing with them. No one's said anything, so I dunno if it's just that they're polite, or they legit don't know.",
+			"date_added": 1471317768
+		},
+		{
+			"post_id": 20,
+			"body": "I'm being so lazy right now. I'm literally just clicking refresh on ZeroNet and Reddit, waiting for stuff to pop up. #lazy #f5",
+			"date_added": 1471485210
+		},
+		{
+			"post_id": 21,
+			"body": "Added tags [to my blog.](http://127.0.0.1:43110/kaffie.bit/?Post:27:Tagging+My+Blog) Now things can be neatly categorized.",
+			"date_added": 1471488885
+		},
+		{
+			"post_id": 22,
+			"body": ":( Night is the worst. All my dysphoria and depression comes at this time for whatever reason. You know, I'm not sure which is worse, feeling empty or feeling down. It's awful because I'm a night owl, but I'm miserable all night. Ugh. Anyone else like this? A slave to your destructive habits, and medical issues that flare up at night?\n\nTime to drown myself in a bunch of episodes of Mr Robot...",
+			"date_added": 1471507710
+		},
+		{
+			"post_id": 23,
+			"body": "As part of my rebranding/overhaul thing, I'm migrating my blog over to a subdomain, and creating a new Kaffie.bit homepage. However, I realize that there are many links back to my blog, which really point to kaffie.bit. So to resolve that, I'm having the main kaffie.bit page redirect blog post urls to the appropriate post. Here's the snippet of code that does that.\n\n```\nvar x = location.search.replace(/wrapper_nonce=.+/g,'');\nif(x != \"?\" && x != null)\n{\nwindow.top.location.replace(\"/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8/\"+x);\n}\n```\n\nI might have to end up changing it if the new homepage uses get values. But that's what I'm using for the time being. Short, sweet, and to the point.",
+			"date_added": 1471598879
+		},
+		{
+			"post_id": 24,
+			"body": "Hey, I just noticed that I can submit new posts from my profile page :D",
+			"date_added": 1471643293
+		},
+		{
+			"post_id": 25,
+			"body": "Things are going along nicely. My test page for http://zero/ and zero:// protocol handling is detecting both perfectly. Results:\n\n**Firefox:**  \nWith pac proxy + custom protocol: both pass.  \nWith pac proxy only: Only http://zero/ pass.  \n\n**Chrome:**  \nWith extension: Only http://zero/ pass.\n\n**Opera:**  \nStandalone: Neither pass.  \nWith pac proxy only: Only http://zero/ pass.\n\n**Safari:**  \nStandalone: Neither pass.  \nWith pac proxy only: Only http://zero/ pass.\n\nI'm curious on how to get the other browsers working with the custom protocol. It's the cleanest way to handle urls and linking (no interfering with regular web browsing), but my current method of resolving them Results in pointing the user to a redirect page, which then navigates them to the appropriate site. Making a bit of a jarring transition, and a reliance on the redirect server. It also doesn't beautify the URL in any other case. So it's pretty much only good for linking.",
+			"date_added": 1471656036
+		},
+		{
+			"post_id": 26,
+			"body": "All sites are a go. I've signed/published the unreleased ones, and I've prepped the changes to the existing ones. Now all I have to do is configure the namecoin entry, and sign/publish the existing sites. Hopefully everything goes smoothly. There might be some messy outcomes in the next few hours, so be warned.",
+			"date_added": 1471678211
+		},
+		{
+			"post_id": 27,
+			"body": "Everything is up! Go check out [Kaffie.bit](http://127.0.0.1:43110/kaffie.bit) and the related network of sites! I did a write up over on [my blog.](http://127.0.0.1:43110/blog.kaffie.bit) Lots of new stuff released. Have at it.",
+			"date_added": 1471680003
+		},
+		{
+			"post_id": 28,
+			"body": "Does anyone know how [this feature](https://github.com/HelloZeroNet/ZeroMe/commit/f17a187dac8ebdf62a80b6332a1bd9e061bea168) works? From the sound of it, it makes shorter urls for profiles possible. But I can't get it to work.",
+			"date_added": 1471745968
+		},
+		{
+			"post_id": 29,
+			"body": "So there's been signing/publishing issues issues with KaffieID and I seem to have found out why. When there's a cert_sign in the content.json, ZeroNet attempts to create a new cert to recreate the cert_sign to verify.\n\nHere's the relevant code:\n\n```\ndef verifyCert(self, inner_path, content):\n        from Crypt import CryptBitcoin\n\n        rules = self.getRules(inner_path, content)\n        if not rules.get(\"cert_signers\"):\n            return True  # Does not need cert\n\n        name, domain = content[\"cert_user_id\"].split(\"@\")\n        cert_address = rules[\"cert_signers\"].get(domain)\n        if not cert_address:  # Cert signer not allowed\n            self.log.error(\"Invalid cert signer: %s\" % domain)\n            return False\n        return CryptBitcoin.verify(\n            \"%s#%s/%s\" % (rules[\"user_address\"], content[\"cert_auth_type\"], name), cert_address, content[\"cert_sign\"]\n)\n```\n\nThis means that only certs that have signed using `useraddress#authtype/name` are valid. Which eliminates the ability to change names but keep the same cert. This verification requiring the name is entirely useless, and you can get around the entire issue by modifying the content.json to simply not have a cert_sign.\n\nSo... what should we do? Just force everyone to use the `useraddress#authtype/name` and hope that no one pushes out a cert that uses something different? KaffieID uses `useraddress#authtype/kaffie.bit` so that names can freely change. However, that seems to mess up the python verification. The cert works, it's just unexpected due to not using the name. Should I just change KaffieID to mess up certs when you change names? Seems kind of dumb that changing a name for an ID service would mess up your cert. I mean, we already have public/private keys. Is a specialized cert_sign in a particular format that breaks if you change names necessary?\n\nAlternatively we can look a bit further on what's actually going on behind the scenes, and perhaps fix it entirely? Perhaps certs should have a 'format' for the verification to take place?\n\n@nofish: I'm interested to see what you have to say. At the moment the cert_sign appears to me as a redundant check that breaks certs that use different formatting. Why not simply change the check to `useraddress#authtype/signersite`? Is there even a way to change this now that people have been using ZeroIDs? Would the 'format' option I described work?",
+			"date_added": 1471820210
+		},
+		{
+			"post_id": 30,
+			"body": "```\nInternal error: TypeError: 'unicode' object does not support item assignment\nUiWebsocket.py line 98 > UiWebsocket.py line 177 > SidebarPlugin.py line 602 > SiteStorage.py line 121 > Db.py line 316\n```\n\nI get this error whenever I try to rebuild the ZeroMe Database. Ends up breaking everything, since some hubs aren't merged. How do I fix this?\n\n\\#bug @nofish:",
+			"date_added": 1472262008
+		},
+		{
+			"post_id": 1472384311,
+			"body": "I just got back into Kerbal Space Program. Last time I played it, there was only sandbox mode. Now there's a whole career mode. Neat. I also installed some mods that someone suggested. Haven't gotten to use them yet though. Still can't even get my damn rocket into orbit (well, I have, but I want to dispatch a satellite, rather than have a kerbal go into orbit and just come back doing nothing).\n\nI remember last time I played (on sandbox/creative) I managed to get a Kerbal stuck on the moon with me being unable to send a rescue crew :P.\n\nWith the career mode, and the realism/exploration mods I got, KSP has turned from just a fun toy into an actual game. Definitely having a blast with it.",
+			"date_added": 1472384280
+		},
+		{
+			"post_id": 1472425756,
+			"body": "Well that's a shame. Apparently my past 2-3 posts weren't visible by anyone using the new client, due to a typo in my content.json. I was completely unaware of the problem, as it signed/published just fine due to the presence of older clients accepting it (like the kindlyfire proxy).\n\nIf you messed with your content.json, now might be a good time to check it, to be sure it's in proper working order. For my issue, I had `auth_type` instead of `cert_auth_type`.",
+			"date_added": 1472425724
+		},
+		{
+			"post_id": 1472430212,
+			"body": "I wanted to share [this Kaffiene search](http://127.0.0.1:43110/kaffiene.bit/?q=15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h&i=ZeroName) because I was shocked that Erkan had registered nearly 25% of all ZeroNet domain names.\n\nHowever, I realized that Kaffiene's share links didn't specify an index, which means the search would've pointed back to the Kaffiene Index and the point would've been lost. So I did a Kaffiene update to include the index in the share link, so that searches may be properly shared.\n\nThough, that makes me think: Page number isn't share either. I was told by friends/family that there's no need to share the page, but I keep thinking otherwise. Should I include it anyway? It would make it easy to keep searches going over longer periods of time, or to continue a search that you stopped looking through.",
+			"date_added": 1472430179
+		},
+		{
+			"post_id": 1472440913,
+			"body": "I really want [ZeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) to be a success, but no one cares to seed anything... The big issue seems to be that there's no way to get the magnet link/torrent file from a video, meaning you can only ever seed it when you're on the page. And uploading is really glitchy, so if you use the direct thing, you're shit outta luck.\n\nI went ahead and mirrored some videos (Cosmos Laundromat, Fastcast vids, etc) as well as uploaded a new one of my own (Deadpool movie). For those who want to just manually upload stuff, here's my process:\n\n1. Drag/drop the movie into webtorrent. This is to start the seeding process. Don't include anything besides the mp4. Webms don't work, and I'm guessing stuff like AVIs don't work either.\n\n2. Right click on the newly seeded torrent and hit 'copy magnet link'. You'll paste this in the 'magnet' field on your data.json.\n\n3. Add a new video in your data.json. Here's the format:\n\n```\n{\n\"video_id\": \"\",\n\"title\": \"\",\n\"description\": \"\",\n\"magnet\": \"\",\n\"date_added\": \"\"\n}\n```\n\nFor 'video_id', it's expecting the bittorrent hash listed under 'bith'. It's in the magnet link near the beginning. For date_added, my new entries have the format `2016-08-29T02:12:14.588Z`. (Edit: You can use [this site](http://www.unixtimestamp.com/) to generate a timestamp. Use the 'ISO 8601' one.)\n\nHave fun. Still no way to increase the seeds besides manually sharing the magnet link and downloading through webtorrent (or staying on the page). You can grab a video's magnet link in the same manner. Alternatively you can grab the bith from the end of the watching URL, and paste that right into webtorrent desktop.\n\nAnd remember, the more support ZeroTube gets, the more webtorrents are seeded for *any* webtorrent video service. So let's work together to kickstart a solid video streaming platform for ZeroNet :D\n\nEdit: Help mirror youtube videos by pasting the url into this site http://keepvid.com/ and then hitting the 'Download MP4 - 720p' option.",
+			"date_added": 1472440879
+		},
+		{
+			"post_id": 1472455810,
+			"body": "Uploaded a quick walkthrough on how I upload videos to ZeroTube. Hopefully it helps out people who were confused about how to do it.",
+			"date_added": 1472455775
+		},
+		{
+			"post_id": 1472480321,
+			"body": "I can't lie. I'm addicted to denpa.",
+			"date_added": 1472480285
+		},
+		{
+			"post_id": 1472524500,
+			"body": "Can someone with a more reliable up-time and connection speed start hosting stuff and dl+seed existing stuff on ZeroTube? Sirenyc seems to have HDD and content, but lacks connection speed. I have a good connection speed, but awful up-time and HDD. Things are going well though, there's finally stuff to watch on there.",
+			"date_added": 1472524463
+		},
+		{
+			"post_id": 1472600640,
+			"body": "Word of warning: If you plan to clone ZeroMe+Hubs to make a new style of merger site. Be sure to copy over the userdb hub as well, with all that goes with it. Figured I didn't need it, and ran into a whole bunch of problems. Then spent the next hour or so reintegrating it.",
+			"date_added": 1472600602
+		},
+		{
+			"post_id": 1472600993,
+			"body": "Sneak Peek at what I'm working on:\nhttps://ipfs.pics/ipfs/Qmea4DMUMmkDP762xngr6tpM2HkW6LipmuBLcSTAJsSqh3\n\nhttps://ipfs.pics/ipfs/QmV5E8cPnimfLkhpZycnDFhk3yrX4K9yZ2MtYUTvmi6Qt2",
+			"date_added": 1472600954
+		},
+		{
+			"post_id": 1472698422,
+			"body": "God damn do people piss me off. And here I was thinking ZeroNet would be a place safe from idiocy.",
+			"date_added": 1472698382
+		},
+		{
+			"post_id": 1472888474,
+			"body": "I'm pretty close to saying fuck it all. Why bother? Everything's fucked. Why pretend it's not?",
+			"date_added": 1472888433
+		},
+		{
+			"post_id": 1473736063,
+			"body": "Every time I go digging into music software and databases, I always start off forgetting that they all suck, and always end up working on my python music app because I'm so frustrated with them all. No good players, no good taggers, no good dbs. It's just frustrating.\n\nCompare that to something like TV shows, which have huge databases, solid software to tag/id/play/etc, and tons of other stuff. How come music stuff has to suck so much?",
+			"date_added": 1473736021
+		},
+		{
+			"post_id": 1473940856,
+			"body": "Why does Apple consistently make iTunes *worse*? They've gone and removed all the aesthetic things that kept me using iTunes in the first place. At this rate, I'll probably switch players (if I can find one).",
+			"date_added": 1473940813
+		},
+		{
+			"post_id": 1474786070,
+			"body": "Sorry for the lack of posts. I haven't forgotten about ZeroNet. I've just been absorbed by some other stuff. I'm finally digging into discord and seeing what it's all about. Apparently it's pretty popular, but I'd never used it before last night.",
+			"date_added": 1474786026
+		},
+		{
+			"post_id": 1481874072,
+			"body": "I noticed the ZeroSearch domain had expired and bought up by dotbit.me and was listed for sale. So I spent the 10 namecoin to snatch it. It'll soon be pointing to Kaffiene, the proper ZeroNet search engine :P. Perhaps I should pick up other search-related domains?",
+			"date_added": 1481874027
+		},
+		{
+			"post_id": 1481885651,
+			"body": "ZeroSearch.bit is now safely a part of my namecoin wallet. It *should* be pointing to Kaffiene (and does in my tests). Hopefully this will help make it a bit easier to find Kaffiene for the ZeroNet newbies. Any existing links pointing to ZeroSearch (even the actual address itself, which simply redirects to ZeroSearch.bit as of now) will now point to Kaffiene.\n\nI also went ahead and threw my blog onto blog.zerosearch.bit, because why not?",
+			"date_added": 1481885605,
+			"meta": "{\"img\":\"900,173,bcccccabbbbbbbcddcddddeeeeeddefff,0111231415678988AA88\"}"
+		},
+		{
+			"post_id": 1482038462,
+			"body": "Looks like the Erkan domains just expired. Now's a great time to pick up some good domain names. See the list [here.](http://127.0.0.1:43110/kaffiene.bit/?q=15GAu5QYg34TLzD4b2WMpZSid9S2K6M54h&i=ZeroName)\n\nI'm looking forward to seeing what people register and create.",
+			"date_added": 1482038415
+		},
+		{
+			"post_id": 1482102099,
+			"body": "Added the shadow brokers to Kaffiene. I haven't really focused on updating the index (making it hard to find new sites), but I figured this one's important, since it's been driving a bit of traffic to ZeroNet, due to being in the news. I had a bit of trouble finding it myself, so now it should be really easy to find using Kaffiene.",
+			"date_added": 1482102051
+		},
+		{
+			"post_id": 1482463645,
+			"body": "Looks like the free phone thing went through. Finally gonna have a smartphone with data. Definitely excited :D",
+			"date_added": 1482463596
+		},
+		{
+			"post_id": 1482992008,
+			"body": "Finally got an android phone. Still no sim in it yet, since it's in the mail. Hopefully I should have it by sometime next week. I ended up getting the Moto G4 Play, but the budget/cheap amazon version with ads. The ads were easily removable through a quick app install/run. I'm thinking of rooting it soon, but it sounds like such a hassle since I'm on mac, lol.\n\nI'm finally almost a modern citizen in *current year*!\n\nAlso: keyboard swiping rather than typing is a godsend that I don't know how I lived without.",
+			"date_added": 1482991958
+		},
+		{
+			"post_id": 1483319238,
+			"body": "Something something Happy New Year!",
+			"date_added": 1483319187
+		},
+		{
+			"post_id": 1483837706,
+			"body": ":O Package waiting in the mail. I think my sim+smartphone has finally arrived! Gotta wait until monday to pick it up though.",
+			"date_added": 1483837654
+		},
+		{
+			"post_id": 1484020819,
+			"body": "Obamaphone finally came. Immediately put the sim into my Moto G4 and it worked out of the box for talk/text. Data took some messing about and worked after rebooting the phone.\n\nThe provided smart phone is a Fuego 4.0D by \"Sky Devices'. Box says it has a 2.0mp camera on both front and back, 512mb storage, 256mb ram. Stuck on Android 4.4 Kitkat. I personally like the light blue accents on the phone, makes it look cute :3.\n\nFor data, it's displaying LTE and speed test resulted in 1mbps down, 4mbps up. Though that might just be because I'm in a crappy area. It's apparently using T-Mobile network, which has never worked great where I live.\n\nContrary to the advertisement on the front page of the tag mobile site, the account info is showing limited talk/text/data, that *did* decrease after using. I dunno if it was a fluke, or if that's honestly how much I get. Lists 2gb 'data' (whether it's 3g or lte who knows), ~135 minutes, and ~8000 sms for the month.\n\nSo yeah... I'm in the smartphone club now :P. Talk/text/data are all working fine on my Moto phone. The obamaphone itself boots and runs. Has the play store and works fine.\n\nOh, if you note the picture, you can see the card that had the sim in it. It's a *full sized* sim card, and was already removed and stuck in the obamaphone itself. My Moto required the one size smaller version of the sim, so I merely popped out the sim and it worked fine.",
+			"date_added": 1484020766,
+			"meta": "{\"img\":\"900,506,887665766876567988777444555776aaa677,001200000003425030000678178300009199730000A98B81000006883300\"}"
+		},
+		{
+			"post_id": 1489371455,
+			"body": "People should start uploading dropbox-webseeded video torrents onto KopyKate. It's definitely possible. There's a tutorial written up somewhere, but perhaps I'll just upload a video to show it like I did with ZeroTube that one time. It's not *really* decentralized (it's more like a dropbox video streaming site lol), but it's what's needed to get things kickstarted. I wonder what a better way of having decentralized webseeds would be?",
+			"date_added": 1489371401
+		},
+		{
+			"post_id": 1490340442,
+			"body": "Went ahead and uploaded [another video on KopyKate.](http://127.0.0.1:43110/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/?Topic:8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Yosuga+no+Sora+OP) This time I wanted to try a new webseed method, [Peerify](https://peerify.btorrent.xyz/). With dropbox gone, we really need a reliable webseed if we want P2P video sharing to take off. I'm not sure how long Peerify hosts videos for, so that's the point of this test. I've moved all my videos over for now, instead of just having me seed them 24/7. Hopefully this works better.\n\nI've also been trying to figure out how to rip video from [Bitchute](https://www.bitchute.com/) which relies on webtorrent and uses it's own webseeding server. However, there seems to be a CORS restriction or something that messes up the webseeding for anyone else. Kind of defeats the purpose of having it a torrent if no one else can help share the video. Amusingly, popping in the link into webtorrent desktop lets it stream just fine. So maybe it's a ZeroNet issue?\n\nEither way, I hope people *finally* start uploading some videos. The process is *real* simple now. Just upload your video on Peerify, copy the link, and paste that in KopyKate, being sure that the uploaded link is the .torrent, rather than the converted magnet link. From there, you can personally help seed by copying the KopyKate magnet into your own webtorrent desktop app.\n\nAlso, if anyone knows about other places that are big users of webtorrent, please mention where you saw it, as we can piggyback off their content.",
+			"date_added": 1490340387
+		},
+		{
+			"post_id": 1490684327,
+			"body": "Now that the login is working, [ZeroNet Central](http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb) seems like a pretty good site. Gives a really close feel to reddit/voat, which is nice. Just needs more users. Now that we don't need a site per channel, we can finally move more non-zeronet discussion over to ZN Central and hopefully get a community going.",
+			"date_added": 1490684271
+		},
+		{
+			"post_id": 1490850290,
+			"body": "Didn't expect it to end like this. /r/anarchism on reddit is ran by a bunch of fascists and not actual anarchists. Fun. Avoid that place.",
+			"date_added": 1490850233
+		},
+		{
+			"post_id": 1492777144,
+			"body": "Sorry single guys, I'm no longer available and my boyfriend is amazing 💕",
+			"date_added": 1492777086
+		},
+		{
+			"post_id": 1492842067,
+			"body": "Embarrassingly, I have no idea how to use git, let alone in the terminal. So to fix that, I'm gonna read up on everything and hopefully push my projects to github. How's that sound? This has been on the to-do for a while, but it's finally in progress.",
+			"date_added": 1492842008
+		},
+		{
+			"post_id": 1492935081,
+			"body": "Kaffiene is finally on Github. Bear with me while I deal with this. I've got no idea what I'm doing haha.\nhttps://github.com/April93/Kaffiene\n\nAnd yes, my name is April.",
+			"date_added": 1492935021
+		},
+		{
+			"post_id": 1493110279,
+			"body": "Sneak peak at a WIP Kaffiene feature. I think you guys will like this one.",
+			"date_added": 1493110218,
+			"meta": "{\"img\":\"512,700,eeeeefffffeeffebbccccdddedddcd,0100010211110345667892111144277222222242222111412241442426667672111111\"}"
+		},
+		{
+			"post_id": 1493182100,
+			"body": "I'm a little lost as to what the current recommended proxies are. The ones I used for Kaffiene are mostly down by now, which is sad since I liked them. So I need suggestions on which ones to use. I figured for Proxy 1 I should set it to the [AceLewis meta proxy.](https://zero.acelewis.com/) As that'd fix the issue of it ever going down, but I only ever see it return a single proxy service which is a bit worrying. Maybe that's not the best?\n\nBit.no has been a wonderful proxy that I've relied on during my entire ZeroNet experience, and I'm glad it's sticking around. I'll be updating Kaffiene to point to the new Bit.surf domain to prevent any downtime.\n\nSo that leaves the third proxy. I *had* onlyzero as the proxy, but I'm not sure what to replace it with. I saw a list of working proxies posted around, but I can't seem to recall where I saw it. If anyone has advice, that'd be great 😃",
+			"date_added": 1493182038
+		},
+		{
+			"post_id": 1493185456,
+			"body": "New Kaffiene update! User searching is now possible. Go read about it on [my blog](http://127.0.0.1:43110/blog.kaffie.bit/?Post:36:New+Kaffiene+Feature+-+User+Search!) or just go try it yourself on [Kaffiene.](http://127.0.0.1:43110/kaffiene.bit/?q=&i=ZeroMe%20Users) Also went ahead and fixed proxies. Sorry for the inconvenience.\n\nOh right, I also added some more hubs into the hub search, but I doubt anyone cares haha.",
+			"date_added": 1493185393
+		},
+		{
+			"post_id": 1493221483,
+			"body": "What's this? Maybe a new Kaffiene feature?",
+			"date_added": 1493221419,
+			"meta": "{\"img\":\"899,700,effeeeeefdddcccfffbbbddeccd,01111112111111111110344444444111111111105111111161517311155007883310005131005555\"}"
+		},
+		{
+			"post_id": 1493275077,
+			"body": "Another new Kaffiene feature :D. Automatically pulls from your local ZeroWiki database to provide little info blips. Real cool. Read about it on [my blog](http://127.0.0.1:43110/blog.kaffie.bit/?Post:37:ZeroWiki+Info+Cards+in+Kaffiene) and go check it out yourself on [Kaffiene.](http://127.0.0.1:43110/kaffiene.bit/?q=zerowiki&i=Kaffiene)",
+			"date_added": 1493275012
+		},
+		{
+			"post_id": 1493355911,
+			"body": "[Quick new blog post](http://127.0.0.1:43110/blog.kaffie.bit/?Post:38:) on my panel de pon tools. Or cut to the chase and find them [here.](https://github.com/April93/PDPTools)",
+			"date_added": 1493355845
+		},
+		{
+			"post_id": 1493473388,
+			"body": "Oh hey look at that, I'm on the most active list! Surprising, since I feel like I never post haha.",
+			"date_added": 1493473321,
+			"meta": "{\"img\":\"900,291,edeeeefeffeedddcdd,012332122301111111114115411333\"}"
+		},
+		{
+			"post_id": 1493531672,
+			"body": "Doing some more experiments with the ZeroMe database. Turns out I've got 629 followers! Thanks a lot guys :D. @Nofish, in comparison, has 899. These values are filtered so it should be the 'true' amount. Whereas the attached pic is the raw counts, which may contain duplicates (due to people following the same person multiple times). Nofish and I make up the first and second most followed users. The user who has *followed* the most people is @SuperKitty with a whopping 772 people followed. Their profile can be found [here](./?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/13Wb4Pr6nDfaixL38Zmh2Gfi1iNASDC2Nc). With the new list, I just realized I can merge this and the existing user index, to be able to sort by follows! Expect this feature soon in Kaffiene :)\n\nI also managed to grab *who* these followers are, but only on a per user basis. I'll include the code to look up your followers, but don't expect that functionality in Kaffiene. Maybe I'll write up a separate site to do it. To do it quickly you basically need up-to-date and direct access to the db, not through my index lists I've been doing.",
+			"date_added": 1493531604,
+			"meta": "{\"img\":\"336,700,333444232555443222554565666,01022034050110003605036250374548455040550310506055\"}"
+		},
+		{
+			"post_id": 1493651665,
+			"body": "Today I finally learned my boyfriend's name :D",
+			"date_added": 1493651596
+		},
+		{
+			"post_id": 1493706704,
+			"body": "Added follower counts, and a way to look at your followers into Kaffiene. Read about it [on my blog.](http://127.0.0.1:43110/blog.kaffie.bit/?Post:39:Kaffiene+ZeroMe+Search+Update) The rank values aren't completely accurate, but they're close enough. Looking at the list of your followers is 100% accurate though, but requires a little bit of command line knowledge.",
+			"date_added": 1493706634
+		},
+		{
+			"post_id": 1493750998,
+			"body": "I'm finally on hyperboria!.... I think? Uppit and other sites don't seem to work, firefox has domain name issues, but hyperboria.name and map.fc00.li both work, as do quite a few hyperboria sites. Anyone have suggestions for forums/social networks that are currently up on the network? or is it as dead as it appears?",
+			"date_added": 1493750927
+		},
+		{
+			"post_id": 1493880347,
+			"body": "Test post helping @ivesen:",
+			"date_added": 1493880275
+		},
+		{
+			"post_id": 1493953894,
+			"body": "Been experimenting with [0Git](http://127.0.0.1:43110/1xxooZ7s8iDz3u56i5mNQ1XGmwF8Zvnw9) to try and host the Kaffiene git repo on ZeroNet. How cool would that be? I've successfully managed to push and clone/pull it, but not when I'm working directly in the Kaffiene files. So I still need to experiment more. But at the very least I'll be able to put a repo up.",
+			"date_added": 1493953821
+		},
+		{
+			"post_id": 1493962017,
+			"body": "Hah! Success. Kaffiene's should now be available on ZeroNet. Just [setup 0Git](http://127.0.0.1:43110/1xxooZ7s8iDz3u56i5mNQ1XGmwF8Zvnw9), visit the [Kaffiene repo](http://127.0.0.1:43110/1DUP5JRszgVVZbc2nq4B57qB6ZXk4sStKD), and then run `git clone zeronet::1DUP5JRszgVVZbc2nq4B57qB6ZXk4sStKD`. Please let me know if this ends up working for you guys. My internal tests of pushing/pulling/cloning etc all work fine now after messing with it a bit. So hopefully this works out well.",
+			"date_added": 1493961943,
+			"meta": "{\"img\":\"900,108,566667556455445,0112233444\"}"
+		},
+		{
+			"post_id": 1493990589,
+			"body": "Fixed some bugs with Kaffiene's ZeroWiki cards. Also added [this.](http://127.0.0.1:43110/kaffiene.bit/?q=proxy&i=Kaffiene) Might make it a bit easier to find a working proxy ;). Let's try to keep the ZeroWiki page up to date, shall we?",
+			"date_added": 1493990514,
+			"meta": "{\"img\":\"900,458,eeeeeffffdde,00000000001120022220133222222203312222220111222222\"}"
+		},
+		{
+			"post_id": 1494314717,
+			"body": "Converted my add-on heavy theme over to mostly css. You can find  the userchrome.css [here.](http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_11) Still requires VivaldiFox though, unfortunately. But my browser is a lot faster without all the add-on bloat :D",
+			"date_added": 1494314641,
+			"meta": "{\"img\":\"900,630,eeeededdeeffeefdddfff,0102212120033404333003305103300333663330033333333003333333300555555550\"}"
+		},
+		{
+			"post_id": 1494325157,
+			"body": "Sirenyc's ZeroTV site went down for some reason, but I've managed to put up a functional mirror [here.](http://127.0.0.1:43110/1HwH4hfRhohJGVtZMBYprYKyHcuJNwL4sZ) Please help seed the optional files. Thanks :)",
+			"date_added": 1494325080
+		},
+		{
+			"post_id": 1494465119,
+			"body": "Is there any way to easily convert a server-based nodejs app to be ZeroNet compatible? Or am I looking at more or less a whole re-write?",
+			"date_added": 1494465041
+		},
+		{
+			"post_id": 1494493495,
+			"body": "Just updated my [ZeroTV mirror](http://127.0.0.1:43110/1HwH4hfRhohJGVtZMBYprYKyHcuJNwL4sZ) with the more recent files found on the korso.win proxy. Please help seed!",
+			"date_added": 1494493416
+		},
+		{
+			"post_id": 1494562647,
+			"body": "I'm convinced Ethereum will never *not* be absolute shit.",
+			"date_added": 1494562567
+		},
+		{
+			"post_id": 1494909694,
+			"body": "Just got this beautiful watch from my bf ❤️\n@zhongzhen93:",
+			"date_added": 1494909613,
+			"meta": "{\"img\":\"394,700,777899666433443544554776665322bb9aa9cba222988,012333456783464439346599390A5933BCB339800333993499D99E99DD93\"}"
+		},
+		{
+			"post_id": 1495422315,
+			"body": "I just realized that my [zero:// and http://zero/ protocol test page](http://127.0.0.1:43110/kaffie.bit/test.html) was broken, so I (hopefully) fixed it up so it should be working again. I wanted to redirect back to the method that the person is using, but unfortunately that gives cross-origin errors. So hopefully the test page works for all of you. It's a bit of a hacky solution, but it works for reporting what your browser is/isn't capable of, as well as provide useful links for setting both features up.",
+			"date_added": 1495422233
+		},
+		{
+			"post_id": 1495776266,
+			"body": "More procrastination >_<",
+			"date_added": 1495776183,
+			"meta": "{\"img\":\"900,598,233343444111666455322332643543554442422875776,000012033000004506000021112060067829A630772982B04027ABC9DA42726068ED91\"}"
+		},
+		{
+			"post_id": 1495780182,
+			"body": "Reposting the ZeroMovies link as a main thread so it has more visibility:\n\n[Have Fun!](http://127.0.0.1:43110/1HPrKB12wPjtqKkLJtq8ZX8u43coBaDugu) Just got all the bugs and such worked out. It ain't perfect, but it works real well if all you want is some simple movie lookup/browser streaming. Let me know if there's any issues. The site uses a hack to escape ZeroNet's iframe, and exposes your browser to clearnet servers, so there's a disclaimer and a 'launch' button on the main page. Hopefully that's not an issue for anyone but it *does* make the site a bit more clunky.\n\nMovie lookup pulls from IMDB, posters/backdrop from themoviedb.org and the streams themselves from vodlocker.to (mostly hosted on google it seems). I've been playing around with it for a while and it works great. Full screen works fine, movies load quick, and there's a huge selection (though the site will still display movies that are unavailable). Vodlocker advertises chromecast support, but I've never seen the option.",
+			"date_added": 1495780098
+		},
+		{
+			"post_id": 1495801042,
+			"body": "I'm usually the girl who goes \"aww, google isn't that bad!\" But Google just creeped me out big time, so it's time to start hating on them. Saw something about voice tracking, and went into some account config stuff I've never seen before. Had all of my voice clips saved, which I deleted. I don't use it so w/e. No big deal that there's a couple there. What freaked me out was seeing my app usage. Every app I used, when I used it, how many time throughout the day, etc. Along with search history, google now/news history, among other things. I thought I was fairly unreliant on google. A news reader, sometimes using google search, and that's it, right? Nope. Fucking app history. Wtf. Literally every google thing I even remotely touch, all tracked on their servers.\n\nSo with that, I'm noping out big time. I thought my current use was fine. Nothing really tracked at all besides maybe a handful of things. But it turned out to be a lot more than I thought. Google does not need to know when I look at my period tracker app. Sorry. Fucking creepy as hell.",
+			"date_added": 1495800957
+		},
+		{
+			"post_id": 1496889844,
+			"body": "Been getting a weird error related to stuff on redhub:\n\n`UiWebsocket.py line 78 > UiWebsocket.py line 249 > MergerSitePlugin.py line 148 > MergerSitePlugin.py line 137 > UiWebsocketPlugin.py line 22 > UiWebsocket.py line 475 > ContentManager.py line 636 > ContentManager.py line 351 > ContentManager.py line 310 > ContentDbDict.py line 105 > ContentDbDict.py line 55 > ContentDbDict.py line 23 > SiteStorage.py line 254 > __init__.py line 290 > __init__.py line 338 > decoder.py line 365 > decoder.py line 383`\n\nOut of space maybe?",
+			"date_added": 1496889758
+		},
+		{
+			"post_id": 1498612158,
+			"body": "Does anyone use mastodon? Which instance is the best? I'm just curious about the competition. Maybe there's some cool people on there.",
+			"date_added": 1498612071
+		},
+		{
+			"post_id": 1499289177,
+			"body": "Found 'iota' which is a new vaporware cryptocurrency that claims to solve a lot of problems with the blockchain (namely by not having one). I wondered what the catch was, and it turns out there's no currency generation, and 100% of the 'pre-mined' tokens are owned by the developers. So much for that. #AllCryptoCurrenciesAreScams",
+			"date_added": 1499289089
+		},
+		{
+			"post_id": 1499381991,
+			"body": "I just realized that namecoin is actually at $2.77 per coin. Which puts my stash somewhere at about $60, and my zerosearch.bit purchase at $30. Damn. Now I'm kinda wishing I didn't and just cash out haha. Namecoin to the moon? Imagine if nmc hit the same level as bitcoin. I'd be one happy camper :3",
+			"date_added": 1499381902
+		},
+		{
+			"post_id": 1499912393,
+			"body": "Updated [systemspace.bit](http://127.0.0.1:43110/systemspace.bit) to have a calculator, and fixed a few bugs. Not sure what else to do with it at this point. Maybe fix up the links between the stats and calculator pages.",
+			"date_added": 1499912303
+		},
+		{
+			"post_id": 1500184076,
+			"body": "Already not a fan of the new ZeroNet updates. Completely kills some Kaffiene features.",
+			"date_added": 1500183985
+		},
+		{
+			"post_id": 1500204302,
+			"body": "'Fixed' Kaffiene after the disastrous result of cross-site requests being blocked. Had to remove ZeroName, CensoredSearch, and ZeroWiki stuff. Hopefully there'll be a way to access other sites' content in the future.  Of course, changing your browser to ignore CORS will bring back the ZeroWiki cards. You can do that in chrome by launching with ` --args --disable-web-security --user-data-dir`",
+			"date_added": 1500204210
+		},
+		{
+			"post_id": 1500249166,
+			"body": "The [ZeroMovies](http://127.0.0.1:43110/1HPrKB12wPjtqKkLJtq8ZX8u43coBaDugu) launcher should be fixed now. Working perfectly on my end.\n\nMissed some stuff. Sorry.\n\nEdit: Turns out the dereferrer broke. Gotta use an extension to get around CORS if you want searching haha. Or disable it in your browser. Other than that, things should be working.",
+			"date_added": 1500249073
+		},
+		{
+			"post_id": 1500274650,
+			"body": "Kaffie.bit's [protocol testing page](http://127.0.0.1:43110/kaffie.bit/test.html) should be working again. Though if you fail the http://zero/ test, it'll leave a dead popup, but still provide an accurate result. Let me know if there's any issues.",
+			"date_added": 1500274556
+		},
+		{
+			"post_id": 1500518512,
+			"body": "Cross-site file requests are now officially available in ZeroNet. Which means the ZeroWiki info box in Kaffiene has returned! And there's no risk of it going away again either. No more CORS worries. Yay ❤️",
+			"date_added": 1500518417,
+			"meta": "{\"img\":\"900,354,eeeeffedaeedeecbcddccdcb,0012300043111111111100000111115667411111\"}"
+		},
+		{
+			"post_id": 1501156682,
+			"body": "I wanted to try out one of the BSDs, so I did. Took me a bit to actually get it all set up, but was an interesting experience nonetheless. Pretty cool :). Though it all feels remarkably similar to my experiences with Linux. So all in all this *didn't* help with figuring out what I should end up switching too. I'm a bit surprised I got it up and working, given how many times I messed things up lol. Is there any difference at all to the casual user? I couldn't tell, other than the package manager being a bit more lacking than what I'm used to.",
+			"date_added": 1501156586,
+			"meta": "{\"img\":\"900,675,999dddeee777666767656747646444545555adc23379b223,0000000000122222222112212222212234455554226789AB992C9999999921999D9BB9EEDD99DFFF\"}"
+		},
+		{
+			"post_id": 1502872441,
+			"body": "I feel like an expert on emoji now, with all the digging I've been doing. Who knew there were over 20 emoji fonts? Or that there's a shibuya emoji? Cool stuff.",
+			"date_added": 1502872344
+		},
+		{
+			"post_id": 1503104213,
+			"body": "Turns out something fucked up and my zerotalk data got deleted D: Fortunately fuck.cf was a bit behind so I managed to grab a fairly recent backup, but I missed all of last night's posts (and maybe the day before).\n\nDoes anyone have a backup from last night? If not, nbd as I got most of the data back.",
+			"date_added": 1503104115
+		},
+		{
+			"post_id": 1503893581,
+			"body": "Just went ahead and uploaded the entirety of Honobono Log (with hard subs) onto KopyKate. It's a fantastic little series and it's only 20 minutes total in length (10 eps at 2min/ep). Definitely go check it out. [Link here.](http://127.0.0.1:43110/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/?Topic:13_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/Honobono+Log+Episode+1)",
+			"date_added": 1503893482
+		},
+		{
+			"post_id": 1507507481,
+			"body": "ZeroUp is finally.... well... up. And with that comes big file support. I haven't tried uploading myself, but every file I've tried to download went through fine without any issues with lack of seeds/hosts. There were a few hiccups on video streaming though.\n\nHow's the upload process? Set and forget? Or do you need to stay online? I suppose some people click \"help download/seed all files\"?\n\nPretty neat either way.",
+			"date_added": 1507507381
+		},
+		{
+			"post_id": 1510237134,
+			"body": "In order to keep science and knowledge free, here's some nice tools/browser mods to access fulltext versions of scientific studies:\n\n[Firefox addon to turn DOI and Pubmed addresses into sci-hub links](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-links/)\n[userscript to escape sci-hub iframe](https://greasyfork.org/en/scripts/29777-sci-hub-out)\n[Firefox addon to find openaccess pdfs for studies](http://unpaywall.org/)",
+			"date_added": 1510237033
+		},
+		{
+			"post_id": 1512981269,
+			"body": "Today I was reminded of CVDazzle, a project focused on designing hairstyles and makeup to avoid facial recognition software. Found some other things used to avoid recognition as well. I'd suggest people start adopting these as new fashion. Looks cyberpunk too which is cool.\n\nhttps://cvdazzle.com/\n\nFacial detection camouflage. Creates multiple fake faces to trick software: https://ahprojects.com/projects/hyperface/\n\nHighly reflective hoodie to ruin flash photography: https://www.betabrand.com/mens/jackets/mens-reflective-flashback-hoodie-jacket",
+			"date_added": 1512981167
+		}
+	],
+	"post_like": {
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1": 1470971628,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_4": 1471007289,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_7": 1471070061,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_2": 1471090514,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14": 1471090529,
+		"1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f_4": 1471133282,
+		"16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_6": 1471242004,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_19": 1471318268,
+		"1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR_4": 1471556449,
+		"164W1rFVD9Bm7poGJWvjVUjvkbhhFC5nnt_2": 1471903087,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212": 1472430594,
+		"1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472600640": 1472600695,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1472675882": 1472702109,
+		"1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369": 1473373672,
+		"12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1492753147": 1492842029,
+		"1HopvBKMYQDswMo6mzpPWKAacRM3GYv1xj_1": 1493652985,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493988793": 1493990369,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1494248867": 1494260255,
+		"1Nf7y77nKezA8BveiFhirUuS6kg66doRUY_1495238778": 1495366647,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1495872467": 1495937272,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1496075576": 1496132233,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1496948399": 1496985974,
+		"1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1497727241": 1498102587,
+		"1AKkccczQm6CbsjiKZAaFpx21i3AU3Kmgp_1499728162": 1499730633,
+		"18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626577": 1500642714,
+		"18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626896": 1500642719,
+		"13aB79mzuRLgDYzQthn9wzycjw77WyDXh6_1502125392": 1502163945,
+		"13aB79mzuRLgDYzQthn9wzycjw77WyDXh6_1502126929": 1502167791,
+		"12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1513049503": 1513071097
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "So hopefully everything worked out correctly. Please confirm. All my posts should be visible on a new  '12h' address. The profile link on this post should like to the '12h' address, but the older posts should link back to my red page. Comments everywhere should link to '12h'. Please unfollow my red page and follow my new Kaffie Hub page, if everything's going well. Thanks :)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470971704
+		},
+		{
+			"comment_id": 2,
+			"body": "Yea, someone made a ridiculously long name. That's not me :P. But are the links all working? And the content merging correctly?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1470972059
+		},
+		{
+			"comment_id": 3,
+			"body": "Update: You may also have to edit and sign the content.json located in the 1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV site in order to change your hub in the 'all users' listing.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_2",
+			"date_added": 1470976441
+		},
+		{
+			"comment_id": 4,
+			"body": "It's definitely up. Check the proxy: https://proxy1.zn.kindlyfire.me/kaffiene.bit",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_6",
+			"date_added": 1471055556
+		},
+		{
+			"comment_id": 5,
+			"body": "@Bot: On the 'post on my hub', that's because you clicked 'join hub' without migrating your user data. So you have two profiles. One of which is on my hub. Namely we need a way to easily manage the 'hub' variable, as well as use that solely for identifying which hub you're on. At the moment, it doesn't seem to work like that, and causes problems.\n\nCross-hub posting works fine, the comments are placed in the hub you're commenting in like they should. If your comments on my hub were placed in a different hub, I wouldn't be able to see them.\n\nIn reality, what we need is a profile page being determined solely by the 'hub' variable, and the posts to be fetched from a 'posted hubs' list (like a new variable listing the hubs you've posted in. This list would be fetched from the home hub.). I think that'd solve all the problems.\n\nEdit: As it is now, the URL defines which hub to load for your profile. That's a huge mistake, as going to the wrong hub would cause problems.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1",
+			"date_added": 1471060106
+		},
+		{
+			"comment_id": 6,
+			"body": "@P2P: Actually, likes are properly sorted by their hub, and correctly refer to the post_id. The issue is that the likes don't mention a hub at all, and the software ignores which hub they came from, and apply it to any post with the same post_id. Likes don't need an id, because you can't like a like. Meaning that you don't actually need to find one.\n\nComments are the same way, but since comments can be on multiple hubs (posts are only ever on your home hub), the comments are correctly placed under the appropriate hub/post_id",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471071486
+		},
+		{
+			"comment_id": 7,
+			"body": "@P2P: The backend supports it cleanly. All the data is properly structured to make it a simple swap. I more or less migrated perfectly by hand. It's the ZeroMe frontend that causes the issues. Since it glitches with posts from multiple hubs (easy fix is to just check the hubs). And it also relies on the url to determine which hub your login/posts are in, which causes glitches (again, easy fix, just use the 'hub' variable in literally every hub data folder). That, and there's no 'migrate hub' button. Instead there's just a 'join hub', which deletes some data and such, and obviously that messes things up. It also doesn't switch the hub variable, or fix other things that could cause glitches.\n\nAfter those two things are fixed (in the ZeroMe site itself), then it should work fine. A ZeroMe clone could certainly be used for clean migrations. Amusingly, the old zerome would still support the migrated account, due to how things work. But it'd still run into the same glitches as it is now (duplicate likes, login issues, following old profiles, etc.).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471074702
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: Yea, I wrote out what happens. People's comments/likes are posted in the hub they're connected to. So if you 'migrate posts', the comments no longer properly link. A proper account migration would leave the comments there, and correctly distinguish between posts made on different hubs. If you're censored on a hub, you can only migrate *your* content (comments and posts). Not anyone else's.\n\n>\"IMO, comments (posted by others) and likes should be in the sub folder of the user, which makes the user can control all of the comments and likes,\"\n\nComments and likes are posted on the appropriate hub that they refer to. I imagine that was by design, so that red hub users can see posts made on the red hub. Otherwise, you'd have to have every hub to see people's comments. Unless you meant comments posted by others going into your (OP) folder. Which is impossible, due to the way that ZeroNet authentication works. There's no way to touch another user's content. Period.\n\nAt best we keep it how it is, but correct the posts linkage issue (by relating comments/likes to same hub posts, and make a user's profile only ever link back to what's listed in the 'hub' entry).\n\n>\"All my comments posted to sub folder of an user in other hubs should be also backuped to my profile's hub and backup hubs in case of something unexpected happen.\"\n\nI wasn't even aware this was a possibility. The only issue I can see here is that other people's comments would increase your folder size and more quickly reach your cap. But it *is* a good solution for migrating comments as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_13",
+			"date_added": 1471079517
+		},
+		{
+			"comment_id": 9,
+			"body": "Should be working now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14",
+			"date_added": 1471097405
+		},
+		{
+			"comment_id": 10,
+			"body": "@Adam The Victini: Once it's working smoothly, and not having login errors, I'll open it up.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_14",
+			"date_added": 1471128452
+		},
+		{
+			"comment_id": 11,
+			"body": "On the bright side, my regular account seems to have been fixed.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_15",
+			"date_added": 1471128519
+		},
+		{
+			"comment_id": 12,
+			"body": "Copy+pasting the fix for attention:\n\non line 4842 (in the 'checkuser' function) there's an SQL query. I changed it *from*\n\n` \"SELECT * FROM json WHERE cert_user_id = :cert_user_id AND user_name IS NOT NULL AND file_name = 'data.json'\"`\n\nand changed it *to*\n\n`\"SELECT * FROM json WHERE directory='data/users/\"+this.site_info.auth_address+\"' AND user_name IS NOT NULL AND file_name = 'data.json'\"`\n\nThe issue was that it wasn't ever picking up my kaffieid account, because there was some cert_user_id problems. I changed it to instead point to the directory entry to determine user login. Since that's how it assumes it works anyway. Basing it on a mystical cert_user_id (essentially your cert username) is a bad idea, since it might not always be in the database (like mine wasn't).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_15",
+			"date_added": 1471133241
+		},
+		{
+			"comment_id": 13,
+			"body": "KaffieID is just added to the drop down selector thing when you log in. You can easily switch between the two by clicking the 'yourname@zeroid.bit' in the top-right and then selecting which you want to use.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_18",
+			"date_added": 1471172003
+		},
+		{
+			"comment_id": 14,
+			"body": "That happens because you migrated hubs. One hub has a 'post 3', and your new hub also has a 'post 3', so when you request post 3, both come up.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_6",
+			"date_added": 1471241963
+		},
+		{
+			"comment_id": 15,
+			"body": "Looks like 14 characters.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_3",
+			"date_added": 1471312258
+		},
+		{
+			"comment_id": 16,
+			"body": "@Gallium: Both? The people waiting around AFAIK don't know what I'm picking up though. So maybe not them. Though, I usually am the youngest person doing this kinda thing. At my doc, it's all old people. And the pharmacy usually has older people as well. CVS people didn't even bat an eye. Are they robots?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_19",
+			"date_added": 1471318428
+		},
+		{
+			"comment_id": 17,
+			"body": "@Mcgoo: No, and at the moment, clicking 'join' on multiple hubs is buggy. ZeroMe expects your 'posts' (from data.json) to only be on one hub. When you 'join' a hub, it creates the default data in the hub you joined. There's also a 'hub' marker that points back to your home hub (the one you joined). And joining a hub makes that hub's marker point to itself, messing up some links.\n\nRefer to my guide on how to manually (and properly) change hubs: http://127.0.0.1:43110/kaffie.bit/?Post:25:How+to+change+your+ZeroMe+Hub",
+			"post_uri": "15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_1",
+			"date_added": 1471484351
+		},
+		{
+			"comment_id": 18,
+			"body": "@Mcgoo: Yea, to fix, just make your data.json in the kaffie hub folder (/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/data/users/15tCjXFHLNtBi9fb799hjd9VcUfTybimE4/data.json) the same as the ones from other hubs you're not a part of. That should fix everything. It'll also make this post disappear.\n\nEdit: You might need to make the userdb site (1udb...blahblahblah) edited to have it point back to the right hub if it's changed.",
+			"post_uri": "15tCjXFHLNtBi9fb799hjd9VcUfTybimE4_1",
+			"date_added": 1471486557
+		},
+		{
+			"comment_id": 19,
+			"body": "@Klaus Jónsson Zimmermann: Yea, that's always a nice surprise.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_20",
+			"date_added": 1471489606
+		},
+		{
+			"comment_id": 20,
+			"body": "@Bobnoise: Not that I'm aware of, no. ZeroNet as a whole has an issue with large files.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_21",
+			"date_added": 1471493975
+		},
+		{
+			"comment_id": 21,
+			"body": "Are you starting zeronet with `--debug`?",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_12",
+			"date_added": 1471507222
+		},
+		{
+			"comment_id": 22,
+			"body": "@Katyab: I actually have used music in the past. Sometimes it just backfires and I just make things worse :\\. I'm feeling better now though, and hopefully with my meds instances like last night will be less of an occurance. Mr. Robot's definitely great though :D",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22",
+			"date_added": 1471598446
+		},
+		{
+			"comment_id": 23,
+			"body": "@Method-X: Nah, I'm pretty anti-meds as it is. I don't really like stuff messing with my brain. I'm off caffiene, off alcohol, off nicotine, etc. I wouldn't touch SSRIs with a 10-foot pole. A lot of my depression in the past has just been existential. So working through it went fine. The more recent stuff I think is a combo between mood swings due to my estrogen pills, a body dysmorphia/dysphoria that comes and goes. It's just hormone stuff :\\.\n\n@megfault: I've never really been big on sports. Though what has helped me a lot in the past is getting into early-hours running.\n\nEither way, I was being a drama queen when I posted this thread :P. It's certainly not every night. Last night, for example, I was pretty okay.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_22",
+			"date_added": 1471643239
+		},
+		{
+			"comment_id": 24,
+			"body": "Hmm... It looks like you either didn't follow my switching hubs guides completely/correctly. Or you you clicked 'join hub' when you weren't supposed to. So now you have two duplicate sets of data on infinity hub and kaffie hub.\n\nTo fix this, just take either one (whichever one you don't want to be on) and then remove these fields from your data.json:\n\n\"next_post_id\": #,\n\n\"next_follow_id\": #,\n\n\"avatar\": \"generate\",\n\n\"intro\": \"description\",\n\n\"post\": [ {some posts} ]\n\n\"follow\": [ {some follows} ]\n\nAnd then change this field to match the hub you didn't remove/edit:\n\n\"hub\": \"hubaddress you want to stay on\",\n\nAfter that, just sign/publish, or make a comment/like on the hub you erased.\n\t\n\t",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_8",
+			"date_added": 1471656617
+		},
+		{
+			"comment_id": 25,
+			"body": "@ZAlex: Good to hear. I'll have to set it up on my opera browser and ensure the test works properly. It didn't pass because I obviously didn't have it set up :P.\n\n@<tkarita/>: The port is ignored during the test. It literally tests the ability to navigate to sites using the zero://siteaddress and http://zero/siteaddress methods. So if you have it configured with 53110, you have to configure your browser to handle the zero:// and http://zero/ methods to go through 53110 instead. My 1-click install for the zero:// protocol only seems to work on firefox, and indeed defaults to the 43110 port.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_25",
+			"date_added": 1471656878
+		},
+		{
+			"comment_id": 26,
+			"body": "@ZAlex: I just set my pac proxy to be system-wide (instead of just firefox). Both Safari and Opera are passing the http://zero/ test now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_25",
+			"date_added": 1471657490
+		},
+		{
+			"comment_id": 27,
+			"body": "@Shellbound: Unfortunately that doesn't help resolve glitches. It just fixes problems on your own end. The data is still mixed up until you sign/publish everything. Did you start on Kaffie Hub and then try to migrate to infinity hub? Either way, as of the time that I wrote my previous comment, your stuff was still mixed up. I mean, nothing wrong will happen if you leave it like that, but obviously the older stuff will remain glitchy until you fix it.",
+			"post_uri": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9_8",
+			"date_added": 1471657744
+		},
+		{
+			"comment_id": 28,
+			"body": "Coffeescript is literally just a different syntax for javascript. Basically the same thing.\n\nPHP is technically possible to get working with a zeronet site, as ZeroBoard does this (sends requests to a server with PHP). However, the PHP backend would be entirely centralized and not technically a part of zeronet.",
+			"post_uri": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331_13",
+			"date_added": 1471667080
+		},
+		{
+			"comment_id": 29,
+			"body": "@<tkarita/>: I'm not familiar with what noscript restricts. But I went ahead and installed it. It started blocking the entire page and prompted to allow `http://zero` so I did, and the page loaded fine. The test then displayed pass for http://zero/, but fail for zero://. I can't seem to modify the script in such a way that makes http://zero/ fail with no script but pass without.\n\nCould you clarify what the problem is, exactly? The .pac should override `http://zero/[address]` and it should work fine. Are you resolving those addresses in a different manner?\n\nThe test by default displays 'fail' until it can run the two tests. The http://zero/ test involves a jquery ajax request to fetch a page from `http://zero/kaffie.bit/test.txt`. The zero:// test involves loading an iframe with the url `zero://1A83ijw3boqTtqdLz8me7AqeK1nEK8yxeu/test.html?zp&prtl=[origin]` and ZeroNet forcefully moves the iframe content to the main page (by reloading). This leads to the success of the second test.\n\nIf the first one isn't working, it sounds like either the jquery isn't being ran, or it's not grabbing the file. Perhaps check the console and let me know if there's an error?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471682616
+		},
+		{
+			"comment_id": 30,
+			"body": "@<tkarita/>: Alright. As for the zero:// test, noscript seems to hate it :P. Try clicking on the 'Test zero:// links' link. It should bring you to Kaffiene. If not, then it's actually broken. If it does, then it's the test that's broken with noscript.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471683959
+		},
+		{
+			"comment_id": 31,
+			"body": "@<tkarita/>: Huh. Noscript blocks the iframe if it's pointing to a zero:// url. But if it's a http://zero/ iframe the test works as normal. I'm wondering if there's something wrong with the whitelist.\n\nThe protocol works by assigning 127.0.0.1:43110/kaffie.bit/?u=[address] as what to go to when you enter something in the zero://[address] protocol. So on everything but the initial type/click, it's being read as local host (rather than the protocol). So I'm completely baffled at why the test doesn't work.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_27",
+			"date_added": 1471684848
+		},
+		{
+			"comment_id": 32,
+			"body": "@ZAlex: Ah, I wasn't capitalizing the first letter. And I kept trying to add '@zeroid.bit' as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_28",
+			"date_added": 1471746320
+		},
+		{
+			"comment_id": 33,
+			"body": "Upon further thinking, the hardcoded format was likely an oversight by nofish in an attempt to keep usernames unique. Only give out certs with a unique name on the backend. And on the front end have verification that includes the name in the cert. It'd prevent people from just manually changing their ZeroID name as it'd fail to sign.\n\nSo perhaps just eliminating it is not the best way to go about things. I still personally think the format option is best. As some users may want to change their username but still retain access to their content. At the moment, this requires using a name-agnostic signer like Kaffiene, and then deleting the 'cert_sign' and 'cert_auth' fields in the content.json manually. This seems particularly non userfriendly for no real reason.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471820560
+		},
+		{
+			"comment_id": 34,
+			"body": "Umm... Yea, the cert_sign with the name is entirely useless, given I was able to do this: http://127.0.0.1:43110/talk.zeronetwork.bit/?Topic:11_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh\n\nWhy bother with cert_sign if we can just delete it and move on without it? I was able to spoof nofish@zeroid.bit on ZeroTalk. So clearly names are guaranteed not unique. All one has to do is change the name and delete cert_sign.\n\nThis is a huge flaw for anything that expects unique usernames. Seems like a waste of time to have something that limits user-ability when you can manually work around it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471821848
+		},
+		{
+			"comment_id": 35,
+			"body": "@Talnicrom: Your zeronet isn't rejecting it, because I removed the cert_sign. See the code above. It just returns true if it's missing. It's definitely a bug. Either the cert_sign is needed, and the skip needs to be removed. Or it isn't and it shouldn't be there.\n\nAs for the 'useraddress#authtype/useraddress' that won't work. It explicitly has to be 'useraddress#authtype/name' otherwise zeronet will reject it. Technically I didn't have to include anything. I could've easily signed with just 'useraddress#authtype'. I simply added the singersite to make it distinguishably different from KaffieID clones.\n\nI'm unsure of which way we should proceed. Forcing users to keep the same name to ensure the cert_sign is the same is dumb. It's not required at all (signs can be verified with just authaddress and authtype). I'm still entirely unsure of the purpose of including it. Why not just remove it from the content.json?\n\nThe files won't be accepted anyway if you don't have the user's private key. So ensuring that the authtype/authaddress/name is the same seems pointless.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471831000
+		},
+		{
+			"comment_id": 36,
+			"body": "@Talnicrom: Sorry, to clarify: The name itself is indeed useful for displaying a name of some sort. The original implementation was an attempt to keep this unique (hence ZeroID). Everything is signed according to auth_address and your private key.\n\nCertificates have a few things to distinguish them: the site it's issued from, the user's public and private key. The type of authentication. The username, and the cert_sign. The cert_sign is reconstructed on each users' machine following the formula given. And then compared to the one included in content.json (which is a copy of the one that the site provides). However, there's no guarantee the site will use said formula, and thus the publish is rejected despite having the private key correct.\n\nTo bypass this, you remove the auth_type and cert_sign provided in the content.json. Now that these are lacking, the cert_sign check is skipped and it just verifies that the private key was used and signed the stuff correctly.\n\nSo the cert_sign is entirely unneeded. It can be removed manually, and doesn't help authenticate anything. So I'm wondering why bother having it? And if it remains, why not allow a formula config, so that non-unique name services can exist?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471833512
+		},
+		{
+			"comment_id": 37,
+			"body": "@P2P: Not that serious of a bug, tbh. AFAIK there's no way to abuse this to compromise security. It just bypasses the unique name thing. Users are still uniquely identifiable with their auth_address. If you hover over the nofish spoof, you'll see my auth_address, which has remained the same this entire time. So you can tell who the 'real' nofish is by that. It's just a serious bug for username uniqueness since it completely bypasses the backend stuff to guarantee unique names. I can't actually edit/change/be nofish with this :P.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471858957
+		},
+		{
+			"comment_id": 38,
+			"body": "@P2P: I've been spending the past while now trying to fix. I dun goof'd some stuff and the new update makes it difficult to change/fix. Hopefully everything should have returned to normal now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471868865
+		},
+		{
+			"comment_id": 39,
+			"body": "@P2P: Hmm... Could you give details on the systems that they aren't visible on? I have a feeling it's likely on zeronet revisions below v1425.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_29",
+			"date_added": 1471902915
+		},
+		{
+			"comment_id": 40,
+			"body": "@Talnicrom: :P I didn't actually go anywhere. My posts just weren't visible, haha.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756",
+			"date_added": 1472429429
+		},
+		{
+			"comment_id": 41,
+			"body": "@<tkarita/>: Seems like it. Though, if he's not active and not renewing them on namecoin, they should expire ~6 months after he registered them. And in the long-term 200 names isn't really that big of a deal.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212",
+			"date_added": 1472433721
+		},
+		{
+			"comment_id": 42,
+			"body": "@Deadjoker: I don't have a spider/crawler just yet. But if you take a peak in the Kaffiene folder you can find some python tools I use to manage the index.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472430212",
+			"date_added": 1472436003
+		},
+		{
+			"comment_id": 43,
+			"body": "@Sirenyc: I was actually thinking of making something similar, but this site beat me. I might still go ahead and make one, since the progress here seems pretty slow, and there's tons of glitches. Makes it hard to manage.\n\nI just really want there to be a popular webtorrent video streaming site.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472441884
+		},
+		{
+			"comment_id": 44,
+			"body": "@Sirenyc: I saw your video uploads. Pretty sweet. I'm downloading one now to try and help seed. But your upload is pretty slow (50kb/s?). My videos should all be properly seeded and watchable. I tested with the proxies and such (obviously connecting to myself, but you know :P).\n\nIt's not my site, so I can't help with bugs. As I said, I manually upload and sign/publish using the sidebar (with some tweaks to point to my user content.json).\n\n@Edantes: Yea, if the site owner doesn't fix it up, I'll definitely look into making a fork and fixing it up. Webtorrent is pretty usable, so all it really needs is a nice front end for uploading/watching.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472445267
+		},
+		{
+			"comment_id": 45,
+			"body": "@Sirenyc: Are you uploading them using the 'upload' page on the site? Or are you manually editing the data.json? If you're manually editing it, what I do is I drag the sidebar open, make sure I'm logged in, then copy and paste my id into the 'content.json' field so that it looks like this: data/userid/content.json. Then I sign, and it asks for the private key, at which point I enter my Id's private key. Should work.\n\nI see your vids, so you're doing something right. Though, you might've hit the quota, as I almost have. Not sure if it'd give you a private key error for that though...",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472445934
+		},
+		{
+			"comment_id": 46,
+			"body": "@Sirenyc: Should be in your data.json file: zeronetfolder/data/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/data/[youruserid]/data.json\n\n\n@Edantes: Yea, I'm not interested in building/maintaining a huge torrent indexer site. I just want a P2P video and music streaming site. If it can be done for video, why not music? Music's probably easier too, given the smaller file size.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472446753
+		},
+		{
+			"comment_id": 47,
+			"body": "@<tkarita/>: Link? The big issue with video sites is that the file sizes can be huge. Which is a no-go for embedded content. That's why IPFS and Webtorrent are used. IPFS doesn't have a zeronet-friendly solution. Which just leaves webtorrent :\\. Having a 200gb music site would be awful.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472447324
+		},
+		{
+			"comment_id": 48,
+			"body": "@Sirenyc: Looks like you hit your quota for the site. You either have to remove some text/links/etc. or ask @lola for a higher limit.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472447770
+		},
+		{
+			"comment_id": 49,
+			"body": "@狗蛋: You need to seed it using webtorrent desktop: https://webtorrent.io/desktop/ or some other webtorrent-compatible client. Simply staying on the video page should work as well, but I personally have issues with the zerotube uploader, which is why I described my manual process.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472440913",
+			"date_added": 1472449192
+		},
+		{
+			"comment_id": 50,
+			"body": "@狗蛋: Sorry about that. My webtorrent app was fritzing and shooting up to 300% cpu. Should be fixed in a moment.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472455810",
+			"date_added": 1472457771
+		},
+		{
+			"comment_id": 51,
+			"body": "I mean the music genre :P. Some samples of the genre, for those unfamiliar: [1](https://www.youtube.com/watch?v=bXk0tn0V-6k) [2](https://www.youtube.com/watch?v=gggq0Siqf2E) [3](https://www.youtube.com/watch?v=PsbDJJnxliM) [4](https://www.youtube.com/watch?v=w5EqmsygaDI) [5](https://www.youtube.com/watch?v=h2I8T_k3UQA)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472507905
+		},
+		{
+			"comment_id": 52,
+			"body": "@Jayofthezero: I get that. I'm that way for a lot of music. To the point of almost having wrote of music as a thing in general. Denpa was one of the few genres to change that for me. I realized I didn't have much downloaded, so I went on a downloading spree last night, lol.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472508710
+		},
+		{
+			"comment_id": 53,
+			"body": "@Jayofthezero: I've known about denpa for a few years now. I just had it on the back burner as I was exploring a different genre of music. But yea, the first time I stumbled upon music I actually enjoyed, I was thrilled. Like, oh shit, this is why people like music so much.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472480321",
+			"date_added": 1472516112
+		},
+		{
+			"comment_id": 54,
+			"body": "@Sirenyc: The torrent works, but the speed I get from you is too slow to properly stream anything (50kb/s). At that speed, mr robot would take well over an hour or two to properly download and watch. Any way to get a faster upload? I have a 1gig connection, so I'm trying to help seed some of your videos. But my HDD isn't that much, and webtorrent-desktop doesn't seem to like having a lot of stuff seeding.\n\nEdit: Hmm.. After an initial wait of a few seconds (maybe 30?) I got it to start playing and have watched for about 2 minutes now with no buffer. Nice.",
+			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1472521631",
+			"date_added": 1472523595
+		},
+		{
+			"comment_id": 55,
+			"body": "@Sirenyc: My hard drive can't take it! Lol. I have like 2gb free. And downloading the eps at a painstaking 50kb/s would take forever. Need to find a better solution than me just hosting everything from my laptop >_<",
+			"post_uri": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx_1472521631",
+			"date_added": 1472524332
+		},
+		{
+			"comment_id": 56,
+			"body": "@P2P: Thanks. I must've missed that one. Same issue: My Kaffie@kaffie.bit had 'auth_type' instead of 'cert_auth_type'. Should be corrected now.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472425756",
+			"date_added": 1472528292
+		},
+		{
+			"comment_id": 57,
+			"body": "@Sirenyc: I'm still trying to seed the first episode :P. As I mentioned, I won't be able to seed them all, as I don't have the HDD space for it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472528346
+		},
+		{
+			"comment_id": 58,
+			"body": "@Sirenyc: At this rate it'd honestly be faster for me to download the episodes myself, and then upload them and seed. Since torrents for me go up to several megabytes per second, whereas dling from you is pretty slow :\\\\. No HDD space though, so I'm not gonna be able to seed the whole season. I'll try to keep episode 1 seeded though.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472528880
+		},
+		{
+			"comment_id": 59,
+			"body": "@Sirenyc: Depends on how you uploaded it. If you aren't using an external client, like webtorrent-desktop, then yes, you need to keep the ZeroTube site open in order to seed the videos. If you are using the external client, then you don't need to keep the site open.\n\nEdit: See [here.](https://ipfs.pics/ipfs/QmWxSVuajmNmhZtcaMSZ4ZMWkEX7CaX91aQ43ycCkfkovL)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472531658
+		},
+		{
+			"comment_id": 60,
+			"body": "@Shellbound: Shouldn't be. Try Sintel (always seeded). A lot of videos only have 1 seed, and as such may not be seeded very well. Other times the site might just have difficulties picking up the seeders. All of my videos should be seeded.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472524500",
+			"date_added": 1472535779
+		},
+		{
+			"comment_id": 61,
+			"body": "The obvious difference was that the 'users' page doesn't work. Which was expected, given that it pulls the list of users from the userdb site. What I didn't expect to break was the listing of followers. I'm still unsure of how the list is displayed, and it continued to refuse to work until I reverted everything back to having the userdb. I think there's an SQL query somewhere that's used to fetch followed users, but includes userdb directory/listings. The site functioned normally otherwise: you could still follow people (just not see the list), the activity feed still worked fine, profiles worked, etc.\n\nI didn't want to fuss around with getting it to work, since I just wanted a quick zerome clone with a video focus. All in all, you could probably have a ZeroMe clone without that centralized list. Following would have to be reworked a bit, and obviously there wouldn't be a centralized list of users. But it'd work for having separate content channels and such. Definitely something to look into. The requirement of such a list is a bit ridiculous.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472600640",
+			"date_added": 1472632465
+		},
+		{
+			"comment_id": 62,
+			"body": "@weakish: True. I just figured more niche and specialized stuff would lack it.\n\n@Beelzebub: Lol no. Reddit's going to shit, and SJWs are unbearable.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472698422",
+			"date_added": 1472768908
+		},
+		{
+			"comment_id": 63,
+			"body": "FML. The only thing keeping me going is the same bullshit lie I've been telling myself since I was 10.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
+			"date_added": 1472888526
+		},
+		{
+			"comment_id": 64,
+			"body": "@ulrichard: Everything. Everything's fucked. You can point at literally anything. The futility of fighting against physical determinism, the inevitability of watching biology do it's stupid ass shit. Watching helplessly as society unanimously shits itself without even an attempt at actually fixing problems. Trying to dig a way out of the problems only to find the digging just made more problems and didn't give any headway on the thing you started digging for. Dumb ass people who just shout random nonsensical things thinking they're right for some fucking reason, when you can easily tell they haven't even spent 5 minutes thinking about what they're saying. \n\nJust... why bother? No one even seems to care. They just run along like ants, not even paying attention to what they're doing, and upon reflection it becomes pretty fucking obvious there's no point in anything. Just fucking pain and struggling, lies about things getting better, and then death. Except you can't even take solace in that. The religious nuts are wrong, obviously, but at least they have something keeping them sane. The atheists are wrong and don't even know it. And the actual reality is that death, like fucking everything else, doesn't solve any problems. It just exists to make everything worse.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1472888474",
+			"date_added": 1472890268
+		},
+		{
+			"comment_id": 65,
+			"body": "Any chance of getting ZeroNet on it?",
+			"post_uri": "1P7F9po18mshkbRG5zEVV47vHtLEX19QJa_1473329369",
+			"date_added": 1473373714
+		},
+		{
+			"comment_id": 66,
+			"body": "@Sirenyc: Haven't updated the index for a while. Sorry.\n\n@Shellbound: Unfortunately most of the music I listen to isn't available for streaming on 'normal' services (spotify/google/tidal/etc). A few borderline illegal chinese services have some though :P.\n\n@TeddyDD: MusicBrainz is one of those things that I like (it's a pretty solid system/software) but it's incredibly lacking in info and has no easy way of submitting my hundreds of tagged songs that aren't in the DB.\n\n@Lain: It's already *technically* usable. It's pretty slow though, and lacks a lot of features I want to put in it. Right now it's a streamer/downloader for two popular chinese music sites: Xiami and Netease Music. Here's some screenshots:\n\n[artist page](https://ipfs.pics/ipfs/QmWDSYSh2cEzUpnyLD4cPSWHcrVbNyg398JgbySeirb72x) - Grabs all the albums available, along with last.fm and musicbrainz data. Similar artists shown at the top there.\n\n[search results](https://ipfs.pics/ipfs/QmaM7XN67F2kpzRaveyKTQ7hqGXPRySacoPGKoE5nsKGJ5) - Pretty straight forward. Shows the search results of whatever you're looking for.\n\n[Album page+playing queued songs](https://ipfs.pics/ipfs/QmaicZJuVkMJgqQEZseVJY8uVp7kjKutqeUqMiQNrtSSF4) - Shows the tracks from both services, along with a variety of play/queue/download buttons. Has options to directly download a track or to download the whole album. The app automatically tags mp3s, and sorts into `artist/album/track.mp3`. Lyrics are obtained if available.\n\nI keep feeling like I should shift it over to QT or something, rather than have it a webapp. Since managing the queue and such is getting clunky (I redirect to a new player page, with an iframe of the viewed page, and then manage URL state directly). I use flask at the moment, which is why I'm getting a bit of lag between pages switches (has to load content from two different chinese sites, then manage the data, maybe grab more content, etc.). The downloading isn't perfect yet (no downloads from netease), the merging is still a mess. And there's no easy way to manage your catalogue. No importing/uploads/whatever, as it's just a stream+download tool at the moment. I want to throw in a thing to log the data viewed into a database of some sort. Initially I thought maybe sending that to a hosted DB somewhere would work, but I want users to have access to it, and to not have the DB swarmed. I made a crawler for Xiami, but I haven't written stuff for logging just yet. I've mostly just worked on it off/on for the past while now. Xiami changed things up mid-dev, so I had to spend a lot of time fixing it. And netease seems to constantly shift their cdn stuff, which makes it keep breaking.\n\n@Icf20: Looks like that's just ripping from youtube. Won't work for my purposes.\n\n@Johnhamelink: I've seen beets, and it seems like it grabs from the usual sources :\\\\. I haven't seen the mopidy stuff though. I'll have to look into it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473831418
+		},
+		{
+			"comment_id": 67,
+			"body": "@Yggdrasil: I don't like vlc or spotify. The only other player I've remotely liked is MediaMonkey when I was back on windows. Oh well. Such is life.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1473943952
+		},
+		{
+			"comment_id": 68,
+			"body": "@Lain: There's no reason why you wouldn't be able to grab mp3s/track info from ZeroNet. As I said, right now it's a bit messy. I haven't standardized a 'source plugin' thing yet, so I'm just coding it by hand. Once that's done, I should be able to write a plugin for *any* music source that provides a few basic features (search, grab albums by artist, grab tracks by album, etc.) I was actually wondering if I could implement it with IPFS/ZeroNet, so that when people listen to tracks and dl info, it automatically adds it to zn/ipfs so that it's accessible even without the 3rd party sites. But as I said, I don't really have a plan yet for migrating away from these sites (and they've screwed things up in the past).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1473975113
+		},
+		{
+			"comment_id": 69,
+			"body": "@Yggdrasil: Nope. I just tried it. Drives me absolutely insane. No art for 99% of the views, the artist names don't show properly and just results in garbage text, no way to properly sort genre->album or artist->album. Tracks aren't numbered. Has obnoxious list views. Most of the app is whitespace.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1474005707
+		},
+		{
+			"comment_id": 70,
+			"body": "@Gallium: Mostly I want something clean, and that I can visually distinguish between albums/artists/genres. I need to be able to group by album-artist/artist, genre, and album. I want something that lets me use my own folder structure. Something that can clearly display id3 tag info, and add new ones if need be (this one is hard to do, as the only site I've seen that has info on my music is last.fm, which doesn't provide clean tagging info). And that's pretty much it. Itunes has worked great for this, up until the latest update. It still *works*, but it's become a bit more clunky as they remove the aesthetics.\n\nA dream feature would be a built in streamer for xiami, netease, or other music services that have doujin music on them, as well as a way to easily download and tag these tracks in a high quality (320k).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473940856",
+			"date_added": 1474248794
+		},
+		{
+			"comment_id": 71,
+			"body": "@Lain: Kaffiene is/was my first and only attempt at a search engine. I've always shy'd away from content sites, as I find it a pain to keep info updated, and to collect a bunch. But I guess I'm starting to dig into that more and more.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474248851
+		},
+		{
+			"comment_id": 72,
+			"body": "@Sirenyc: Right now they need to be added manually. I've been incredibly lazy on that at the moment, and there's a huge backlog of several hundred sites. Really not sure what I'm going to do about that. I guess I'm gonna have to buckle down and finish my auto-tagger.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474249017
+		},
+		{
+			"comment_id": 73,
+			"body": "@Sirenyc: Yea, but that leads to a bloated site size, lack of quality control, etc. It'd also require a whole overhaul from what I'm doing now. I've considered it though. Might eventually add it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1473736063",
+			"date_added": 1474257964
+		},
+		{
+			"comment_id": 74,
+			"body": "@Elspru: Wasn't my choice. I was invited and accepted the invite. I'm just trying to sort out some stuff in my life, and the people helping me do that are using discord. I'm also a bit curious since I've seen it around.\n\nIn terms of libre software, I'm well aware discord doesn't follow suit. A lot of communication software I use unfortunately is not. And it can't be, unless I drag everyone I know into using stuff they'd almost certainly not be willing to use.\n\n@Bbxxx: Fuck off. What the fuck is the point of posting that over and over? It's nonsensical english, isn't a link or advert for anything, and ultimately just acts as spam. Why do it? What motivation do you have?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1474786070",
+			"date_added": 1474969565
+		},
+		{
+			"comment_id": 75,
+			"body": "Well I've always kinda been around. I've poked my head in a few times these past few months. Still not sure how much time I can invest, but hopefully we can get this show on the road again :).\n\nI did a dumb and changed the address for the domain through dotbit.me, so now I have to wait for the 'pending' thing to go away before I can rightfully swap it over to my namecoin wallet. Ugh.\n\nAs I've mentioned a few times, I really like ZeroNet and want to see it thrive. So I'm trying to stick around to make that happen.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1481876199
+		},
+		{
+			"comment_id": 76,
+			"body": "@ks: Don't worry. I picked up ZeroSearch.bit because I *want* the domain. It'll point to Kaffiene, which is (IMO) *the* ZeroNet search engine. My goal is to make ZeroNet accessible. I'd only buy relevant domains to help people arrive at my search engine, and thus ZeroNet in general. Lots of newbies are confused because they don't know about Kaffiene. ZeroSearch has been recommended many times and is an intuitive domain name (I'd have also taken search.bit, but that's already registered by some non-zeronet thing). I'm not going to squat domains like dotbit.me or Erkan have done.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1481877208
+		},
+		{
+			"comment_id": 77,
+			"body": "@西木野真姬: This is a bit irrelevant to my post. If you want to simply download a new hub, visit a user page using that hub, or visit the hub address directly. If you want to *switch* hubs, follow the guide listed on my blog.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1481877289
+		},
+		{
+			"comment_id": 78,
+			"body": "@西木野真姬: Correct. The person who previously owned the ZeroSearch.bit domain let it expire and seemingly abandoned their search site. I bought up the domain and it now points to Kaffiene.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481885651",
+			"date_added": 1481888640
+		},
+		{
+			"comment_id": 79,
+			"body": "@ks: Yes. I really paid 10 namecoin for the domain. I wanted to ensure I owned it. The name ended up on some .bit domain sales site, which is why I just went ahead and paid the amount. If it was unregistered, I'd obviously have just registered it myself. And yeah, most namecoin domains are real cheap. Both to register and maintain. As I said, I really wanted the domain, and was cool with paying 10 namecoin for it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1481933993
+		},
+		{
+			"comment_id": 80,
+			"body": "@weakish: I just registered 0search.bit as well. Are people really using this one? I know zerosearch.bit has been shared around a lot, which is why I snagged that one.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482048927
+		},
+		{
+			"comment_id": 81,
+			"body": "@ks: Well if that's the specification, it isn't enforced. 0search.bit points to Kaffiene just fine.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482105658
+		},
+		{
+			"comment_id": 82,
+			"body": "@Elspru: I want to avoid spam and duplicate submissions. 0list has both of those problems. I know ZeroSearch had a thing where you could submit it for review, but that still clogs up site space. I've been striving to keep Kaffiene as small as possible so that it can quickly load. I'm not sure what the proper solution is yet. But pulling from the new site seed list and 0list are definitely on the agenda. I already have a script that fetches new sites from the seed list.\n\nI also feel like the current search method (just looking at tags) isn't really all that great. It's excellent when there's only a few sites, and they're easily categorizeable. But when searching for particular information or quotes it doesn't work that great. But perhaps it's the best solution we have, since we very well can't just store every page like google does.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
+			"date_added": 1482131208
+		},
+		{
+			"comment_id": 83,
+			"body": "@ks: ZeroName doesn't have a bug though. It's working exactly as expected. I [literally have the 0search domain registered on namecoin.](https://namecha.in/name/d/0search) The quoted section is for regular DNSs, which I suppose namecoin tries to emulate. But the bug would be with namecoin, not ZeroNet.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482131552
+		},
+		{
+			"comment_id": 84,
+			"body": "@ks: So then I don't see the issue. If it works, why limit it?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482137171
+		},
+		{
+			"comment_id": 85,
+			"body": "@Arkre: I'm not sure what you're asking for. It sounds like you're just describing Kaffiene, but with a full-text index (instead of tags), and using a bot to build it. If you were going to do full caching/indexing, you'd want to use actual search algorithms, rather than just a raw text search. The issue with that is filesize. [OneSearch](http://127.0.0.1:43110/17SyG68UgnCATwbmnmf7pvRmQVej8ZnWUe/) has already tried this method.\n\nAs for the bot... Hopefully I can write one soon and have it run for Kaffiene. But we'll see.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482102099",
+			"date_added": 1482209417
+		},
+		{
+			"comment_id": 86,
+			"body": "@ulrichard: [Tag Mobile](https://tagmobile.com/) works with the US phone lifeline thing. So basically if you have one of the many government handouts, you can snag a free phone. For most states it's just a dumb phone with limited talk and no data. But california is awesome and has a free smartphone and free data.\n\nFrom the looks of it, the actual phone itself they're sending is garbage ($30 blu phone). So instead I'm gonna be getting an unlocked Moto G4 to use with the free plan.\n\nThe plan itself goes through T-Mobile's network. Good shit. I don't know why no one's talking about this stuff.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482463645",
+			"date_added": 1482495538
+		},
+		{
+			"comment_id": 87,
+			"body": "Yeah, I'm gonna get unlimited 3g with 500mb lte. Which is pretty damn good for free. Other providers/states/etc. have worse offers (a competing one I saw here in CA offered 500mb of 3g)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482463645",
+			"date_added": 1482503338
+		},
+		{
+			"comment_id": 88,
+			"body": "@ulrichard: I honestly have no idea, sorry. Looks like T-Mobile offers unlimited talk/text/lte for $70/month. And has one with 2gb lte for $50/month. And it looks like verizon has an unlimited talk/text/2gb lte for $35/month. If I had to guess, the actual price of the plan is likely something like $15/month. The Tag Mobile site has 500mb lte for $12/month, And 500mins/unlimited text for $18/month. It obviously depends on your budget, but T-Mobile's $70/month plan looks like what you'd want to get (for unlimited lte).\n\nI'm just a poor bum, so I'm going through the government lifeline thing, which is why I get the plan free. It's way better than what I have now (unlimited talk/text but no data, and on a dumb phone, under parents' phone plan). And obviously this just applies to the US.\n\nKeep in mind that when most advertisers now-a-days say 'unlimited data' they're talking about lte, not 3g. I don't know what the plans in Switzerland are like, but that's likely what you're seeing if it costs $60/month. you probably already get unlimited 3g.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482463645",
+			"date_added": 1482505288
+		},
+		{
+			"comment_id": 89,
+			"body": "@sthetz: Close. Up until now I've carried an iPod touch 4g along with a regular dumb phone. Ditching both for the android smartphone I mentioned with a free unlimited everything plan.\n\n@Alex (Bwoi): I honestly haven't done much digging, and this is my first foray into android stuff besides a couple of crappy tablets (modded Nook/Kindle/etc.) that I played around with once. But I'm pretty certain I saw people specifically talking about unlocking/rooting the Moto G4 *specifically* to remove the amazon ads. I realize the G4 *Play* is a different device, but from a glance it looks like people have gotten that one to work too.\n\nI'll have to do further digging though. But if it *does* turn out I can't root, then that's fine. I'm pretty happy as it is, though I'm slightly bummed about the emoji (android ones suck) :P.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482992008",
+			"date_added": 1483090563
+		},
+		{
+			"comment_id": 90,
+			"body": "@0ivy: Have you unlocked/rooted this particular device, or another one with amazon ads that's similar? Looks like there's windows-specific software involved.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1482992008",
+			"date_added": 1483315653
+		},
+		{
+			"comment_id": 91,
+			"body": "@Shellbound: Well I got a Moto G4 Play phone a while ago in preparation for my new sim/plan. The plan is unlimited talk/text/3g +500mb lte. No idea what the smartphone is. Kind of irrelevant though unless it's really good (unlikely). We'll see tomorrow though.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1483837706",
+			"date_added": 1483941051
+		},
+		{
+			"comment_id": 92,
+			"body": "@Shellbound: I'm enjoying it so far, even without the sim. Much better than the dumbphone+ipod combo I was carrying around before.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1483837706",
+			"date_added": 1483953539
+		},
+		{
+			"comment_id": 93,
+			"body": "@Kaizure: Ironically, despite the fact that people call it an obamaphone, Obama didn't have any part in the program. Lifeline has been a thing well before Obama came to office. And the big benefits I got were actually due to local California laws, rather than federal ones.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1484020819",
+			"date_added": 1484029463
+		},
+		{
+			"comment_id": 94,
+			"body": "@Kaizure: It's nice for free, but garbage if you can spare $100 to pick up an unlocked phone from amazon. The plan/sim is nice for absolutely free. I'm surprised this stuff isn't more well known or popular. You'd think people would be all over it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1484020819",
+			"date_added": 1484031511
+		},
+		{
+			"comment_id": 95,
+			"body": "@ks: Everything should work. I had a similar issue. What I did to fix it was to copy this bit from another zite I comment on:\n\n\"cert_auth_type\": \"web\",\n \"cert_sign\": \"HJbtfswrDHV5u9iNnkFz+vU/UXqJkDEpEdYMEgb/90lnq7tMC8zCt/aItH21ffAFLG7GRUGmtWg2VtTDp997dXo=\",\n \"cert_user_id\": \"kaffie@zeroid.bit\",\n\nAnd then the rest of the content.json file from another user on ZeroNet Central, deleting the 'sign' bit relating to the user. From there, just comment/upvote/etc. like usual and it should fix the issue (hopefully). If you visted the site before and tried to log in, that might be why it's broken.\n\n@cyberslave: Yeah, I was thinking how making it a merger would be better, but it's not my site. Personally I think we need more devs taking advantage of this stuff.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490684327",
+			"date_added": 1490691123
+		},
+		{
+			"comment_id": 96,
+			"body": "@Jayofthezero: It's a huge pain at the moment. My big problem with webtorrent is that seeding a lot of stuff on the desktop app kills CPU/ram. So you can realistically only seed a couple before your computer gets bogged down. I know vuze has support, but it still just opens a chrome window in order to seed. Kinda bad.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490340442",
+			"date_added": 1490760034
+		},
+		{
+			"comment_id": 97,
+			"body": "@Schiz0: Channel creation works fine for me. Did you make sure that you can post and such okay? There was an issue with the content.json a while back that messed up logins and such.\n\n@Jayofthezero: Click on 'all channels' and then 'create new channel'. Type in a name/description and you're good to go.\n\nAnd yeah, having each subreddit be a hub would probably be a better solution. The only issue I see is that it'd be more difficult to easily create and find subreddits. But it'd work better than how it does now, with people hosting all of the channels' content. It'd be a huge overhaul to ZeroNet Central, so it might just have to be a new site altogether.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490684327",
+			"date_added": 1490760415
+		},
+		{
+			"comment_id": 98,
+			"body": "@Jayofthezero: Yeah, that might work well. I'm not sure what would work well. Either way, merger sites need documentation.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490684327",
+			"date_added": 1490763129
+		},
+		{
+			"comment_id": 99,
+			"body": "Did it all work out alright for you? I haven't really tested it with two ZeroIDs, but it works fine with my KaffieIDs so in theory it should work with any provider.",
+			"post_uri": "17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X_1490831087",
+			"date_added": 1490834229
+		},
+		{
+			"comment_id": 100,
+			"body": "I went ahead and made a group for actual anarchists over on zeronet central, for anyone interested. I've been spreading the link around on /r/anarchism, hopefully that'll attract some real anarchists to zeronet so they can avoid that shithole of a subreddit.\n\n@Plasmmer: Yeah, it's unfortunate. I found that lots of people who opt into the term are indeed true anarchists. But unfortunately it appears the mods are not. And many users on /r/anarchism are not either. I'm at a bit of a loss to find a place to talk with *real* anarchists. So if anyone knows, I'm all ears.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490850290",
+			"date_added": 1490853190
+		},
+		{
+			"comment_id": 101,
+			"body": "@Plasmmer: Democracy is okay, but still lends itself to oppressing people. Just look at how the US operates today. We're technically a democratic republic, meaning we elect officials, who then vote on our behalf. The fact is that these people, no matter how democratic it is, still vote for oppression and a police state. They still vote to strip away rights and to let people starve. The only way to counteract this is to resist, and thus anarchism.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1490850290",
+			"date_added": 1490854265
+		},
+		{
+			"comment_id": 102,
+			"body": "@Tsetair: They said ZeroMePlus, you linked to ZeroMe. Two different things lol.",
+			"post_uri": "142h1gPZmsUM8oWvMQFYxjTVpQo4dwSvXZ_1491661714",
+			"date_added": 1491697022
+		},
+		{
+			"comment_id": 103,
+			"body": "For youtube there's [KopyKate](http://127.0.0.1:43110/kopykate.bit) and ZeroTube.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1492093371",
+			"date_added": 1492096850
+		},
+		{
+			"comment_id": 104,
+			"body": "@Mobile: You'll find someone eventually. Don't worry!",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492777144",
+			"date_added": 1492778804
+		},
+		{
+			"comment_id": 105,
+			"body": "Thanks everyone :D\n\n@西木野真姬: My ZeroMe profile clearly states I'm female. Perhaps I have to write that a bit more clearly for my foreign audience.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492777144",
+			"date_added": 1492833068
+		},
+		{
+			"comment_id": 106,
+			"body": "@12hlearn: Yeah, I've used it before just mindlessly following commands and/or a gui. But I wanna make sure I understand everything it's doing and how it functions.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492842067",
+			"date_added": 1492850934
+		},
+		{
+			"comment_id": 107,
+			"body": "@ZAlex: I wanna understand it. The less software I'm reliant on the better.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492842067",
+			"date_added": 1492851130
+		},
+		{
+			"comment_id": 108,
+			"body": "@Ivesen: As much as I like the name, I hate the association. It's all anyone brings up when they meet me Dx.\n\n@Plasmmer: It's probably best to keep doing what you want. I don't have any plans to implement some of the things you plan on. As it has always been with kaffiene, my only intent is to help encourage development of a useful way to find zeronet sites. It's why I make all my code freely available, and have enabled cloning on Kaffiene.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492935081",
+			"date_added": 1492991418
+		},
+		{
+			"comment_id": 109,
+			"body": "@Plasmmer: Certainly. Feel free to continue taking later code from Kaffiene. And I'll certainly do the same. But I have a particular vision in mind for the site and don't want too much feature creep.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492935081",
+			"date_added": 1493003775
+		},
+		{
+			"comment_id": 110,
+			"body": "Beautiful. I didn't even know I *had* a fan club. If that fan club could help extend that trans flag that'd be wonderful. :3",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493010597",
+			"date_added": 1493016301
+		},
+		{
+			"comment_id": 111,
+			"body": "I follow you :)",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493071312",
+			"date_added": 1493091399
+		},
+		{
+			"comment_id": 112,
+			"body": "@猫叉酱: Close. I'm pulling a list of users, their profiles, and their ID/hub from ZeroMe and putting it into a searchable kaffiene index. So basically you can search for people on ZeroMe, do reverse lookups (find a user by their auth_address), see all the people in a particular hub, and other fun stuff. The links go to their ZeroMe page. The data (which spans every ZeroMe user) is currently about 700kb, but I'm trying to trim it down since that's 7x larger than the sites index! 7285 users were pulled.\n\nI'm wondering if there's a way to just do this live in the browser, rather than use python tools like I'm doing now. That'd save on file size limits, and also keep it always up to date. But for now I wanna get this feature developed because it's pretty neat.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493110279",
+			"date_added": 1493120150
+		},
+		{
+			"comment_id": 113,
+			"body": "@Seequ: For the sites, initially I entered them all by hand. However, Kaffiene has a set of python tools I developed to help pull sites from around ZeroNet. Those can be found if you click on 'scripts' or check out the Kaffiene github repo. For the ZeroMe profiles, it's a new script I wrote (not pushed yet), that once again fetches them and compiles them into a document for searching.\n\nI'm wondering if there's a way to do the ZeroMe profiles with just javascript, so I don't have to focus on updating, like how the various off-site indexes work. I'd need access to the merged-zerome/zerome.db database to do so. But that's pretty big at 30mb for mine (with all the hubs) whereas the profile index is at only 700kb.\n\nThe \"backend\" is just me haha. No fancy bots/crawlers/taggers/whatever yet. That's on the agenda and why Kaffiene's index hasn't been updated in months. If you check the dropdown menu you can look at the untagged sites the scripts found. I don't have a way of automatically tagging them yet. That's a WIP. Once I get that done though it'll be smooth sailing.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493110279",
+			"date_added": 1493124702
+		},
+		{
+			"comment_id": 114,
+			"body": "@Jayofthezero: I *could* set Kaffiene to a ZeroMe merger site, but that'd cause people to recompile the huge db of stuff for basically nothing but a simple search. The problem is that the profile info is right along side the tons of posts/comments from the user. It's not a separate file or anything, and thus when compiled will still result in filesize bloat.\n\nWhat I'd *like* to do is be able to simply read another site's merged db. That'd make it real easy. The other problem with making it a zerome merger site is that part of my future plans for Kaffiene involve moving the search indexes over to a hub system so that people can merely download and contribute to different hubs to get a more personalized search. I'd like to experiment with that type of thing before I dedicate Kaffiene's merger option to a simple profile search.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493110279",
+			"date_added": 1493170279
+		},
+		{
+			"comment_id": 115,
+			"body": "@Rythyrix: \"#Find all ZeroMe users, list their hubs:pubkeys:username@certissuer\" I already have all this information. It'll be searchable in Kaffiene soon, as I've mentioned. If you can get me javascript that runs on ZeroNet that does the same thing without lag/long waits, then that'd be much more useful to me.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493110279",
+			"date_added": 1493172424
+		},
+		{
+			"comment_id": 116,
+			"body": "@ZeroNet: Thanks :). I'm using it as my third proxy.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493182100",
+			"date_added": 1493185272
+		},
+		{
+			"comment_id": 117,
+			"body": "@P2P: That's actually where I ended up looking.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493182100",
+			"date_added": 1493254179
+		},
+		{
+			"comment_id": 118,
+			"body": "@Peponi: Sorry >_<. I know I'll have to write it up.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1492935081",
+			"date_added": 1493294855
+		},
+		{
+			"comment_id": 119,
+			"body": "@Styromaniac: Well you could always search through users using [ZeroMe's search.](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Users) But yeah Kaffiene will let you search by auth_address, hub, and profile text too. Neat way of quickly searching through users to find someone interested in something you like :)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493275077",
+			"date_added": 1493394051
+		},
+		{
+			"comment_id": 120,
+			"body": "@Ivesen: Haha, very true. Still, the most active of like 2000 people. The Kaffiene index says there's about 7000 actually. But yeah, I think most are just people who checked it out once and left.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493473388",
+			"date_added": 1493483211
+		},
+		{
+			"comment_id": 121,
+			"body": "@Ivesen: Python is ❤️. Best language. Worst would have to be functional languages (sorry fans of those). Or an esoteric language like brainfuck or malbolge.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493457025",
+			"date_added": 1493483397
+		},
+		{
+			"comment_id": 122,
+			"body": "@Ivesen: Procedural languages (those which most people use) are what I think are better. As for 'paradigms' I don't really like that way of thinking about code. I just use the tools available to make things do what I want them to do. Though I guess that makes my code end up as a mess a lot of the time. Trying to structure your code in a particular way is a recipe for disaster. Every time I've tried it it has ended up horribly. By 'functional languages' I don't mean that I hate functions haha. There's a particular categories of languages called that. As I said, I enjoy python. The python way of doing things is personally what I see as best. It's almost always really clean.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493457025",
+			"date_added": 1493514838
+		},
+		{
+			"comment_id": 123,
+			"body": "@Ivesen: I'm bad with terms/words, sorry. I meant functional languages like lisp or scheme. As opposed to procedural/oop languages C++/C/Fortran/Python/Javascript/etc.\n\nPerhaps I'm just using the wrong words haha. That's what happens when you sleep in your CS classes. I avoided saying OOP because that just gives me mental images of classes upon classes and polymorphism and all that shit. People go way overboard with it and it's honestly not that great when you do that.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493457025",
+			"date_added": 1493551971
+		},
+		{
+			"comment_id": 124,
+			"body": "@Zaira: I'm just reading from the merged zerome db using a quick python script I wrote up. The tools I used to do this will be put on my github once I commit/push. This is the SQL I used to generate the list in the picture: `SELECT user_name, count(user_name) FROM follow GROUP by user_name ORDER BY count(user_name) desc` Reading from the database found at `/1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH/merged-ZeroMe/ZeroMe.db` in your data folder.\n\nAs for the total number of *active* users, that's impossible to say. How do you define 'active'. As for the total, I think I saw that there's somewhere around 6-7000 zerome users, and probably more zeronet users.\n\n@Flyman: That was originally what I was working on. I wanted to come up with a list of people who followed me. Then once I realized I could get this list and thus number easily, I went ahead and tried to get a list of who the most followed user is (who happens to be nofish, with me in second). Both scripts will be available soon. If there's enough demand to see followers, I'll go ahead and make a new Zite dedicated for it, since the javascript side of things will need to be a merger site. As for Kaffiene, the plan is to sort ZeroMe users by number of followers so you can find the most popular users quickly.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493531672",
+			"date_added": 1493636818
+		},
+		{
+			"comment_id": 125,
+			"body": "@Zhongzhen93: Right there in the name, zhongzhen :3",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493651665",
+			"date_added": 1493652674
+		},
+		{
+			"comment_id": 126,
+			"body": "@Ivesen: For me it is >_<",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493651665",
+			"date_added": 1493688123
+		},
+		{
+			"comment_id": 127,
+			"body": "You are now one of the OS elites. Gratz.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493658789",
+			"date_added": 1493688175
+		},
+		{
+			"comment_id": 128,
+			"body": "@Sick: I'm not familiar with gephi, sorry.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493531672",
+			"date_added": 1493787047
+		},
+		{
+			"comment_id": 129,
+			"body": "@Jayofthezero: Both >_<. It's not that I didn't know it, it's that I cut it clean in half D: As for pronunciation, I still can't get it right.\n\n@Arsene Lupin: That's next lol. Actually pronouncing things is kinda hard for me. I end up slurring my speech and having difficulties making certain sounds.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493651665",
+			"date_added": 1493796344
+		},
+		{
+			"comment_id": 130,
+			"body": "@Sick: For the [Tox chat network/protocol.](https://tox.chat/) You can find my tox address [here.](http://127.0.0.1:43110/1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz/?1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_9) Just give me a heads up if you wanna chat on there though, since I never have it running lol.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493706704",
+			"date_added": 1493797299
+		},
+		{
+			"comment_id": 131,
+			"body": "I was actually thinking something like this the other day. I really want a discord server to chat about distributed/P2P software, and web/meshnet stuff. Not just ZeroNet, but everything for the new web. I actually went ahead and spun up a quick new server [here](https://discord.gg/4kY4yAD).\n\nI'd love to get some active users chatting about ZN, cjdns/hyperboria, ssb/patchwork, and whatever else. ",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493765013",
+			"date_added": 1493854925
+		},
+		{
+			"comment_id": 132,
+			"body": "If you can see this comment, you should be able to see my posts and kaffiehub comments :)",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493878035",
+			"date_added": 1493879778
+		},
+		{
+			"comment_id": 133,
+			"body": "@Ivesen: Yay :D I can see your comment.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493878035",
+			"date_added": 1493881605
+		},
+		{
+			"comment_id": 134,
+			"body": "I might have been advertising a little.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1493988793",
+			"date_added": 1493990380
+		},
+		{
+			"comment_id": 135,
+			"body": "@P2P: Yeah, it definitely needs a lot of work. I think the owner is MIA now though. So perhaps someone should remake it or clone it with the improvements. As it stands, ZeroWiki is the best/only wiki on ZeroNet. Once something better comes along I've got no problem with switching.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493990589",
+			"date_added": 1494030582
+		},
+		{
+			"comment_id": 136,
+			"body": "@Thegillies: Try looking for sites relating to P2P/decentralization/etc. None of the sites are tagged with ricochet, as there's not really any sites focusing on it or highlighting it. Though I'm pretty sure I saw a couple that mentioned it in a list of other P2P apps.\n\nDiscussion is honestly pretty lacking here. ZeroTalk and ZeroMe are the best you're gonna get.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493990589",
+			"date_added": 1494171925
+		},
+		{
+			"comment_id": 137,
+			"body": "@Benjaminnelan is right. Just set up namecoin, then register a domain with the mentioned bit. You can do subdomains by filling out the first \"\" like so:\n`{\"zeronet\": {\"subdomain\":\"138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP\"}}`\n\nvery simple, but blockchains are always a pain.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1494090603",
+			"date_added": 1494248493
+		},
+		{
+			"comment_id": 138,
+			"body": "@Ivesen: D: You sound like my bf.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494314717",
+			"date_added": 1494315609
+		},
+		{
+			"comment_id": 139,
+			"body": "@Ivesen: Let's hope I make it that long then, huh?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494314717",
+			"date_added": 1494321171
+		},
+		{
+			"comment_id": 140,
+			"body": "@Sick: Close this website? My mirror will stay up indefinitely. There's no reason for me to take it down. If you want to delete your personal copy, there's options to do so in the sidebar.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494325157",
+			"date_added": 1494411540
+		},
+		{
+			"comment_id": 141,
+			"body": "Updated the file. You can grab the updated version that fixes non-vivaldifox use over on [kaffie.bit](http://127.0.0.1:43110/kaffie.bit)",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494314717",
+			"date_added": 1494418629
+		},
+		{
+			"comment_id": 142,
+			"body": "@P2P: There was a backup posted on ZeroTalk, albeit an old one. The optional files I grabbed via enabling \"help seed all files\" or w/e for the original ZeroTV site, and since they weren't removed, I was able to get them. Those two lead to a functional site. However, it's outdated. If someone can scrape [this proxy](https://zeronet.korso.win/1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6/) to get the rest of the files, it'd be greatly appreciated.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494325157",
+			"date_added": 1494422225
+		},
+		{
+			"comment_id": 143,
+			"body": "@Uv: Is it actually up? Could you provide a screenshot with today's date? I'm told it's not up anymore.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493750998",
+			"date_added": 1494461889
+		},
+		{
+			"comment_id": 144,
+			"body": "@Ivesen: [VivaldiFox](https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/) is an addon that enables per-site tab coloring like the Vivaldi browser does. My first draft of my CSS relied on it for styling as well as colors. The update (found on kaffie.bit) should remove the reliance on styling, so the only thing you should miss without it is the coloring. If there's a way to get that without an addon, I'm all ears.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494314717",
+			"date_added": 1494462016
+		},
+		{
+			"comment_id": 145,
+			"body": "@Binchan2: The reason I'm asking is because I was wondering how easy it'd be to port the Fakku.dating code over to ZeroNet. Though looking at it now, I'm pretty sure it needs a server of some kind, so I'm looking into rewriting it (or just a basic chat app). All I've figured out so far is that I hate nodejs lol.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494465119",
+			"date_added": 1494483194
+		},
+		{
+			"comment_id": 146,
+			"body": "@猫叉酱: \n@P2P: \nNot really a big deal. If I get a notice or something I'll take it down and reup anonymously.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494493495",
+			"date_added": 1494548833
+		},
+		{
+			"comment_id": 147,
+			"body": "@Uv: I'm not a fan of current chat zites, and thunderwave in particular has lots of bugs and unnecessary features of what I'm looking for.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494465119",
+			"date_added": 1494549117
+		},
+		{
+			"comment_id": 148,
+			"body": "@Firebox: Yeah. I mean realistically my ISP is chill. Most people under them pirate like crazy, and I don't think they've ever forwarded a DMCA thing. There's no contact info on the site, so they'd have to dig to find out I upped it, and even then their only connection is through ZeroNet with zeromail. No big. Not like I'm seeding every one of those links.\n\nAnd no domain name to attack either. So they're pretty stuck.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494493495",
+			"date_added": 1494577682
+		},
+		{
+			"comment_id": 149,
+			"body": "@Mkg20001: Electron's not that great either. Fuck node.js, I hate it lol. And screw chromium too while we're at it.\n\n@Ivesen: Exactly.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494562647",
+			"date_added": 1494647430
+		},
+		{
+			"comment_id": 150,
+			"body": "@Mkg20001: Lots. The electron/nodejs combo really grinds my gears. Its absolutely ridiculous. There's no explanation or rationale for it other than \"I wanna use Javascript for something it wasn't meant for\". Which is dumb. In general NPM just sucks and is awful. Which leads to node and electron being the same way. But really what bugs me the most is that when people ask for help with *javascript* they get *node.js* responses. Like no. It's *not* a proper solution. Node.JS *cannot* run inside a single html document, so for all intents and purposes it's not legit javascript. It's some horrific demon of a setup that people use because they love a mutilated version of javascript or something.\n\nIt's entirely pointless, incredibly slow, has all the problems of javascript for absolutely no reason, and everything that it can do can easily be done better by something else.\n\nChromium.... I honestly don't hate much here. Mostly just cuz I don't like google. Chrome/Chromium are both pretty awful.\n\nTL;DR: You shouldn't have to compile something written in Javascript. If it doesn't just work in the browser with no tweaks or modifications 100% offline and without a program running in the background, you're doing something wrong.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494562647",
+			"date_added": 1494677052
+		},
+		{
+			"comment_id": 151,
+			"body": "@Mpj: \"we wouldn't have convenient ZeroNet UI, and this site. cause it's working in browser, it wouldn't work offline and, actually, written in CoffeeScript which then compiled to JS by NodeJS script. \"\n\nZeroNet is also not written in Javascript. ZeroMe is entirely written in Javascript/html (really coffeescript, but same thing). It indeed works offline (as ZeroNet can be used). So yes, both ZeroNet and ZeroMe are fine.\n\n\n@Mkg20001: \"Oh and btw: nodeJS can technically run inside a browser. You just need to use browserify \"\n\nPeople suggest that and it never works. I often wonder if people actually *do* the things they suggest before they suggest them. Because it seems like a lot of the time they don't, because their suggestion doesn't work at all.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494562647",
+			"date_added": 1494735051
+		},
+		{
+			"comment_id": 152,
+			"body": "@Rythyrix: I don't live near hollywood lol. Nor in any sort of big city. Just a small town surrounded by nothing. Hell, even when I was on verizon I had no issues.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494493495",
+			"date_added": 1494735210
+		},
+		{
+			"comment_id": 153,
+			"body": "@Rythyrix: more reasons why california is the best state :P",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494493495",
+			"date_added": 1494736669
+		},
+		{
+			"comment_id": 154,
+			"body": "@P2P: Malaysian chinese.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1494909694",
+			"date_added": 1495083480
+		},
+		{
+			"comment_id": 155,
+			"body": "@U808f: Unfortunately chrome doesn't allow the method I use for zero:// links for 'security' purposes. AFAIK only firefox supports it at the moment.\n\nThe pac should work fine for all browsers though. Zero:// links are experimental anyway haha. I'm just trying to get everyone on the same page with links. With the pac, stuff like \"http://kaffie.bit/\" should work as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495422315",
+			"date_added": 1495570410
+		},
+		{
+			"comment_id": 156,
+			"body": "@羊肉串: \n@Jayofthezero: \n[Have Fun!](http://127.0.0.1:43110/1HPrKB12wPjtqKkLJtq8ZX8u43coBaDugu) Just got all the bugs and such worked out. It ain't perfect, but it works real well if all you want is some simple movie lookup/browser streaming. Let me know if there's any issues. The site uses a hack to escape ZeroNet's iframe, and exposes your browser to clearnet servers, so there's a disclaimer and a 'launch' button on the main page. Hopefully that's not an issue for anyone but it *does* make the site a bit more clunky.\n\nMovie lookup pulls from IMDB, posters/backdrop from themoviedb.org and the streams themselves from vodlocker.to (mostly hosted on google it seems). I've been playing around with it for a while and it works great. Full screen works fine, movies load quick, and there's a huge selection (though the site will still display movies that are unavailable). Vodlocker advertises chromecast support, but I've never seen the option.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495776266",
+			"date_added": 1495778799
+		},
+		{
+			"comment_id": 157,
+			"body": "@Rythyrix: It's procrastination because this is what I work on for fun haha. I can't really make money off this type of stuff, so it's all for personal enjoyment. I also have a music app that's in progress but I haven't touched in a while.\n\nI really do wonder what I could make if I actually worked at something daily for a long time, and focused on something actually profitable haha.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495776266",
+			"date_added": 1495778895
+		},
+		{
+			"comment_id": 159,
+			"body": "@Jayofthezero: It's not *necessarily* a bug. The IMDB ID of that 'bugged' pokemon link is valid: http://www.imdb.com/title/tt0168366/ however it points to a TV show. Which the embedded streamer fails to grab, due to the fact that it's not a movie, and doesn't point to a particular video. The same thing happens when there's an unfound movie. Likewise, the poster didn't pop up because I only fetch for *movie* posters specifically, not TV.\n\nDisplaying TV results is definitely a bug. Lacking movie posters and not finding the movie is not. I can't touch those.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495780182",
+			"date_added": 1495780816
+		},
+		{
+			"comment_id": 160,
+			"body": "@Jayofthezero: I made this thing in a day haha. Give me a break. I'll definitely look into removing the TV results though.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495780182",
+			"date_added": 1495781076
+		},
+		{
+			"comment_id": 161,
+			"body": "@Ivesen: Ubuntu Mobile and B2G here I come! /s\nBut really though, that's really depressing to hear. Why *isn't* there a greater push for better mobile stuff?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1495810863
+		},
+		{
+			"comment_id": 162,
+			"body": "@Ivesen: Huh, I'd never heard of kde mobile. I'll have to look into it.\n@Einherjar: That's what I heard as well. I was just making a joke haha. B2G is also pretty dead.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1495811276
+		},
+		{
+			"comment_id": 163,
+			"body": "@Ivesen: Still found it anyway. Looks as dead as the rest of the open mobile OS's.\n\n@Flyman: I feel like they're all good people there. And a lot of the software is pretty damn solid. But yeah, this was just too much for me. Cross from 'comfortably giving up some info for good products' to 'wtf google is creepily spying on me'.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1495812325
+		},
+		{
+			"comment_id": 164,
+			"body": "@Jayofthezero: That list is already way too long lol. Yeah, it's not a big deal as this was just a pet project made for fun because I learned about that neat embeddable streamer.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495780182",
+			"date_added": 1495812410
+		},
+		{
+			"comment_id": 165,
+			"body": "Since your comment, I too have been looking at sailfish os and jolla phones.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1495872467",
+			"date_added": 1495937265
+		},
+		{
+			"comment_id": 166,
+			"body": "@FlappyEarz: There's a difference between agreeing to let my google searches turn up relevant ads, and secretly spying on what apps I use when.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1496135264
+		},
+		{
+			"comment_id": 167,
+			"body": "@FlappyEarz: I wanted to get a screenshot for you, but I'm having a hard time getting my app usage to show up again. Anyway, it's all [here](https://myactivity.google.com/myactivity) which is where google shows you the info they have on you. Kinda creepy if you aren't aware of some of it. But a lot of it is standard fare: google searches, voice queries, etc. As I said, what creeped *me* out wasn't that stuff (though it was a bit creepy/weird seeing it all together like that), it was the *app usage*. That is \"Kaffie used app X at time Y\". And you can filter out the other stuff to just show app usage. So it'd look something like this:\n\n8:00am - used Clock app\n8:10am - used google news app\n8:30am - used clash of clans\n9:14am - used period tracker\n9:20am - used gmail\n9:30am - used discord\n\nAnd so on. That's obviously just a fake history (I deleted my own and disabled tracking). Very creepy. But indeed, it stopped displaying on that page once I disabled all the options. I also switched my launcher for good measure. As for whether I explicitly enabled it... no. I was not aware of any such tracking. I knew my *web results* would be tracked if I used google. And I knew that gmail, google news, and the like would be tracked. I also knew the voice thing would be tracked. But regular app usage? Even when offline? How the hell would I know that's tracked?\n\nUpon researching, the *actual* option is \"web and app activity\" or something like that. Meaning you can't have it track the web stuff for personalization and still keep your privacy when it comes to apps. Given I had no idea it was even tracked, I'm skeptical disabling it actually disables tracking. Like, perhaps they just don't show me it >_>",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1496233879
+		},
+		{
+			"comment_id": 168,
+			"body": "@Alex (Bwoi): None of that says they track app usage though. *Obviously* they track search history and browser info.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1495801042",
+			"date_added": 1496278743
+		},
+		{
+			"comment_id": 169,
+			"body": "@nofish:",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1496889844",
+			"date_added": 1496890315
+		},
+		{
+			"comment_id": 170,
+			"body": "Fixed. Turns out it was due to my content.json being empty for some reason. Just manually copied over the bluehub one and edited it, then resigned and everything went back to normal :3",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1496889844",
+			"date_added": 1496891549
+		},
+		{
+			"comment_id": 171,
+			"body": "Snagged it, but it's not for mac D:",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1496948399",
+			"date_added": 1496985986
+		},
+		{
+			"comment_id": 172,
+			"body": "@Ivesen: Haha. Yeah I'll have to do that sooner or later.",
+			"post_uri": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp_1496948399",
+			"date_added": 1497014229
+		},
+		{
+			"comment_id": 173,
+			"body": "@Binchan2: I see a lot of talk of gnusocial when clicking around mastodon profiles. Are they connected or the same thing or something? Or just two networks that people just jump back and forth between?\n\nI was thinking of joining this instance: https://cybre.space/about",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1498612158",
+			"date_added": 1498618390
+		},
+		{
+			"comment_id": 174,
+			"body": "@Binchan2: Ah, that makes sense. Kinda interesting.\n\n@美杜萨: People can use multiple services at once ;). But yeah, I really like ZeroMe. I won't be leaving any time soon.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1498612158",
+			"date_added": 1498628490
+		},
+		{
+			"comment_id": 175,
+			"body": "@ks: Not everyone I'm interested in talking to are on distributed/p2p platforms. It's the same reason I still use twitter and discord. As well as reddit. It's not that I see these services as superior, it's that I'm trying to get in touch with particular kinds of people. Mastodon seems to attract a lot of them, which is why I signed up.\n\nI'm not too familiar with GNU Social, but I hear it's similar. Either way, my interest in mastodon wasn't as a long-term thing, just something to visit and chat with new people. I certainly *do* recruit for ZeroNet wherever I go.\n\nScuttlebutt and Patchwork are great. The problem is there's not many people using them. If it's a matter of platform, we're already set. We have p2p social networks. It's really just a matter of finding the right people who will want to join.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1498612158",
+			"date_added": 1498690390
+		},
+		{
+			"comment_id": 176,
+			"body": "FWIW, I ended up joining the instance I said. You can find me at https://cybre.space/@April. The rest of my social media accounts can be found on Kaffie.bit.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1498612158",
+			"date_added": 1498690508
+		},
+		{
+			"comment_id": 177,
+			"body": "Fail? It's just intentionally corrupted text, and a zip file that expands into a 315mb null html file. Looks like an attempt to crash computers or something. 0/10 for effort. Was hoping for something at least a little interesting.",
+			"post_uri": "1KC2aohuaiYueSGZPheBb4zZaC439d5AL9_1499855109",
+			"date_added": 1499864793
+		},
+		{
+			"comment_id": 178,
+			"body": "You put your profile and posts on KaffieHub. I don't censor shit. Please stop spreading lies. If you're really concerned about me 'going rogue' or something, feel free to clone my sites. They're all available at the click of a button, so you can be certain you aren't censored.\n\nIf your posts are being deleted, that's on you. The only people I've ever 'censored' are spam bots.",
+			"post_uri": "1KC2aohuaiYueSGZPheBb4zZaC439d5AL9_1499855048",
+			"date_added": 1499864899
+		},
+		{
+			"comment_id": 179,
+			"body": "I don't censor nor delete anything on KaffieHub. Any perceived loss of content is on the user.",
+			"post_uri": "1KC2aohuaiYueSGZPheBb4zZaC439d5AL9_1499854548",
+			"date_added": 1499865005
+		},
+		{
+			"comment_id": 180,
+			"body": "@k̡̩̯̟̳̻͉͍͓̳̝͎̘͕͕̭͎̩̞͚ͨ̔̂ͯ̊ͮͬ͊̏͋̃̏̅̀͋̽̽ͦl̷̷̴͖̻̭̖͖̜͈̯͔̳̱ͯ̑̄͂͊̒ͣͨ͞ĥ͉̫̱̜͉͕̥̙̫͉̭̪̥̻̃̏ͬ̏̉̒͂̍̊̔̅ͣ̍́́͜i̸̧̤͎͍̜̙̮͕͇͚͇͖̪̫͖̲̠͌ͮ̑̉̌͜͜ͅͅŝ̶͒ͤ͐͆̍̐҉̟̳̘̘̱͇̱̞͟h̔̃ͣ̅̄̾͑ͩ̇̍̇̿ͮ҉̧҉͇͈̥͙̟̹̪̲͔̝ȩ̶̴̗͖̥̘͖̠̙̥͋̀ͥ̋ͮ͒̅͆ͮ̍̏͆͗ͮ̓̍̚̚͘͠r̶̸͕̺̺̻̺̭̠̟̥̰̟͚͉̻̦̙͆ͧ̒͛̀ͅė͆̅̉ͫ̒ͣ҉̮̜̖̞͖̠̺͡y̴̐͋ͩͮ͐ͫͤ͐̽̃̎̓ͤ̀͐ͦ́҉̭̺̝̝̞̥͎̱̻͎̳͙̺͉̹̗ͅoͭͯ́̓̐ͨ͋͗҉̧̧̻̺̣̼̥͖̭̪̼̱̻̦͔̞̪̩͓̩̕uͯͪ̉͊͑͌ͨ̑́͏̪͉̺̱͇̪̠̖̼͕͎̭͕͍̜̀͠r͙̟̝̦̥͖̬̹̪̒ͣ͑̊ͯ͡ͅe̊͑ͩ͋̒ͩ̋̈́ͣͩ̅ͪ̇̔ͯ҉̟̻̟àͦ͊̓͑̊ͭͤͤ̄̍ͣ̎̃͂ͥͬ͝͏͉̜̺̥̰͓͈̲̦͚̀c̷̵̗̭̫̳̙͔̲͈͕̮̳̤̰͇̯͓̬ͭ̒͊̉͒̏̌͒̃̔͆̓ͩͅñ̷̦̯͉̭̟͊͒̌͘t̷̥̺̦̼̙̠̖̳̱̳̼͇̽͂̐̉̑̊̄͂ͪ̓͒͂ͫ̕ḃ̷̧̘̞͖̖̗͚͙̦̞̦̥̪͎̪̓̎̂ͪ̐̀̐̒̄ͤ́̚lͦ̾̈́̂̾̋ͪ̅͛̍͋̍҉̛͖̲͓̟̹̠̻ͅoͤ͗ͨ̂̐̂̓̉ͮ͗͑̅̐ͬ̚҉̱̻̼̲̪͙͙̤̘͘͢͡ͅc̡̪͍͙̫̈ͫ̏ͨ̌̐ͩ̂̏ͨ̂̂ͯ͗̇̂̈̚͜k̓ͪ̔͒̋͆ͥͨ͐ͧ̾̍ͩ҉̸̷̫̪̪̗̦͍́̀t͌̊̾̑̾̽ͩͬ̏̈́̋͏̴̛̪̲̩̲̙̭̲͚̮͘͝h̡̙̟̱̳̗̩̩̺̩̒͋ͩ̍ͤ̋̊́̚̚͘͡͡e̴̙̥̯ͣ̀ͪͧ̋͌ͤ́̀͟͞k̷̷͒́̆͌̅́ͬ̄́͊̊̈̅̍̊ͦ͂̚͘҉̳̝̯̗̖̪̪l̴̨̦͙͈͉̾̑̂̇͒̑̾̕ͅh̡̳̯͚͓̐̽̋̇̏͆ͪ̊͢m̯͈̫̰̠̙͉̞̞͙̬̪͈͚͔̄̍̈ͫ͒͐̅ͫ̄̈́͒̅̒̆̅͘ͅa̷ͬͨͪ͌̔̽̆̾͗̐̓̐͐ͣ̚̚͞͏͈̰͇͖͇̳̳̘nͩ͒ͬ͊̈́ͫͪͨ̀̽̍̎ͭ́͏̡҉̳̻̦̪̥͔̖̫̟̯̙̪̳̯̙d́̀̒̀̓̀̓҉̶̣̱̥̻̫̤͍̫̬͎̘̘͓͇͓̺͢͞ͅu̵̯̞̭͔̱̦̝̫͉̗͓͂͗̏̔ͥ̎́ͪͫͬ̄ͤ͗ͩͨ̃̂̑͘͝: Alright, *now* you're starting to bug me and get close to my 'delete and ban' list. Posting on your own profile is absolutely okay. Posting on mine and others while spamming the same shit over and over *is not*. I'd like to keep a quality community here, rather than just having everything spammed with a shitty link that has nothing on it.\n\nUnless you either explain the site you're spamming, or stop spamming and start posting as a regular user, you *will* be censored and blocked.",
+			"post_uri": "1KC2aohuaiYueSGZPheBb4zZaC439d5AL9_1499855109",
+			"date_added": 1499872979
+		},
+		{
+			"comment_id": 181,
+			"body": "@Sick telephone: Is what true?",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1499912393",
+			"date_added": 1499944089
+		},
+		{
+			"comment_id": 182,
+			"body": "@Ivesen: It's a countdown for something which I'm a part of. It's not intended for the general ZeroNet audience, but some people started providing more information than necessary, so I figured I'd just start posting updates under my main account.\n\n@Sick telephone: The countdown is real. I fetch registration info from an external source. There's plenty of information hidden on the site for those who care to dig and learn what it's all about. I'd rather not spoon-feed people on this one. There's also information posted elsewhere on ZeroNet, separate from me.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1499912393",
+			"date_added": 1499980386
+		},
+		{
+			"comment_id": 183,
+			"body": "@Happyrabbit: The proper way should have been to draw by hand and then take a photo (not a scan) of your drawing.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1499912393",
+			"date_added": 1499983890
+		},
+		{
+			"comment_id": 184,
+			"body": "@Krixano: The auth_address and auth_private key are generated per-site and are used for ID sites like ZeroID.bit or KaffieID. Some sites also use them to make 'anonymous' or per-site logins. They are unique per user per site.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500029814",
+			"date_added": 1500063264
+		},
+		{
+			"comment_id": 185,
+			"body": "@Peeper: ZeroID verifies name uniqueness by using a backend server and keeping the site signer private key hidden. KaffieID makes the key public, removing name uniqueness, but also removing the reliance on a back end server. They're two different ID sites. So you need the site to specifically accept ZeroIDs or KaffieIDs. Most sites just accept ZeroID, so KaffieID isn't really that useful yet besides just a proof of concept.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500029814",
+			"date_added": 1500183273
+		},
+		{
+			"comment_id": 186,
+			"body": "@Musickiller: There's more strict cross-origin blocking, which kills a method I use to fetch files from the same+other sites. So here's a list of things I worked on that have broke because of this new update:\n\n* ZeroWiki support on Kaffiene\n* Other site indexes on Kaffiene\n* Every index besides basic searching on Kaffiene (though local indexes will come back soon)\n* ZeroMovie's frame escape\n* http://zero/ protocol testing on Kaffie.bit\n\nLuckily, due to an issue submitted [here](https://github.com/April93/Kaffiene/issues/20) I went ahead and fixed it for the main Kaffiene search. So at least it's not *complete* disaster. But I've got a lot of work put on my plate now. And some features (ZeroWiki info boxes, for instance) might not come back.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500184076",
+			"date_added": 1500187340
+		},
+		{
+			"comment_id": 187,
+			"body": "@Tomas CaseyWilcox: There really needs to be a way to just configure your site to allow 'all' ID providers. A blacklist instead of a whitelist.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500029814",
+			"date_added": 1500204308
+		},
+		{
+			"comment_id": 188,
+			"body": "@Jayofthezero: yes. CORS is a web standard and is in every major browser.\n\n@望天门山边: Link? Might be a good thing to get spread around. I can't imagine why anyone would like/want/use cors.\n\n@Peeper: I don't know enough about chrome to say, but I'd imagine yes.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500204302",
+			"date_added": 1500245861
+		},
+		{
+			"comment_id": 189,
+			"body": "@jro: I haven't worked with optional files, but that definitely sounds like an issue to me. I don't even get what the security problem is. Not like you can escape the site using regex. How is it 'unsafe'?\n\n@Peeper: Using an API instead would work fine. I really hope there's a way to fetch raw files in the future. The upsetting part isn't that CORS was made more strict. The upsetting part is the lost functionality because of it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500184076",
+			"date_added": 1500247230
+		},
+		{
+			"comment_id": 190,
+			"body": "@Zeromeplusplus: Turns out I didn't actually check everything. Lots of stuff broken. I'll have to fix in a bit.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500249166",
+			"date_added": 1500271239
+		},
+		{
+			"comment_id": 191,
+			"body": "@望天门山边: Works great, thanks! But this is more of a hack to get it working, rather than a legitimate solution.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500204302",
+			"date_added": 1500274009
+		},
+		{
+			"comment_id": 192,
+			"body": "@jro: ah, that's a shame. tbh, I feel like nofish is handling all this stuff terribly. It's a horrible dev. environment. I'm not sure why he'd go out of his way to break this stuff, when there's, IMO, more pressing matters. It's just annoying to see the broken stuff not get fixed, and the working stuff become broken.\n\nHopefully everything works out in the end though.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500184076",
+			"date_added": 1500276645
+		},
+		{
+			"comment_id": 193,
+			"body": "@Jayofthezero: Do you mean the test is just failing? Or do you mean literally visiting links like: http://zero/kaffiene.bit doesn't work? The 'register protocol' button will only register zero:// stuff. The .pac should work for http://zero/ links. Preferences -> Advanced -> Network -> Settings -> Automatic Proxy Configuration URL -> file://yourpacfile.pac\n\nThen reload and restart firefox. It's working fine for me. I'll have to try setting it up again to see if something is wrong with the file.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1500332639
+		},
+		{
+			"comment_id": 194,
+			"body": "@Jayofthezero: Hmm... I'm not really sure how to fix that. The .pac is literally just:\n\n```\nfunction FindProxyForURL(url, host) {\n if (shExpMatch(host, \"*.bit\"))\n  return \"PROXY localhost:43110\";\n if (shExpMatch(url, \"*//zero/*\"))\n  return \"PROXY localhost:43110\";\n\n return \"DIRECT\";\n}\n```\n\nPerhaps an update of firefox broke it? I'm still on v54.0. I'm not an expert, so I'd probably just go ask like /r/firefox or stackoverflow or something. Hell, I didn't even make the .pac haha.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1500337901
+		},
+		{
+			"comment_id": 195,
+			"body": "@Jayofthezero: \"The only thing special about my Zeronet install is a slightly modified UIPassword plugin that exempts 127.0.0.1 from password protection.\"\nThat might be it, tbh. Could you try without that? AFAIK, all it's doing is proxying your traffic to *.bit and *//zero/* urls into localhost:43110.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1500345202
+		},
+		{
+			"comment_id": 196,
+			"body": "@Peeper: Right. It's definitely your idea. However, you didn't code it. Ideas =/= credit. I closed a lot of your features because they're not at all what I had in mind for Kaffiene. You're free to fork my code and make it yourself.\n\nIf we're going with 'ideas', then I have to give most of the credit to the guy who make ZeroSearch. I literally cloned his site, engine, index, etc. and just built on it and improved the usability. I'm fairly open about credit. I coded the ZeroWiki info box, but ofc. I didn't come up with that idea on my own. Just like many of the features in Kaffiene. I simply implemented them after they were suggested. However, I don't claim to have made things that I took. The index format? That wasn't me at all (except the addition of siterank).\n\n@Jayofthezero: It previously used an XMLHttpRequest to fetch the .db file from ZeroWiki, and then searched through it. However, now it uses the new remote fileget and cors permission to fetch the file. You can check it out on the [Github](https://github.com/April93/Kaffiene/blob/master/index.html#L25). Or just looking at the first few lines of index.html in the kaffiene folder.\n\nThere's a lot of parsing and formatting to make the results good. You can find that in the [fetchfromdb()](https://github.com/April93/Kaffiene/blob/master/index.html#L134) function. Located a bit later down.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500518512",
+			"date_added": 1500595775
+		},
+		{
+			"comment_id": 197,
+			"body": "It's not that bad. Look at how many ZeroTalks and ZeroBlogs we have lol. For ZeroMe I can think of: Default, @mkg20001:'s reloaded, Peeper, Dark Mode, and Mobile. Are there others? I had one I branded myself because I wanted to slap a navigation bar on it and add in kaffiehub/kaffieid support, but I couldn't find the time to keep it updated so I removed it.\n\nPersonally, I *like* the fact that sites are so easily cloned and are still usable. Helps insure that if something happens, the site will still be up. But yeah, it's a bit obnoxious to have a bunch of identical clones.",
+			"post_uri": "1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ_1500579035",
+			"date_added": 1500596606
+		},
+		{
+			"comment_id": 198,
+			"body": "@Reke: If you do plan on cloning ZeroWiki, can I suggest turning it into a merger site? That way the data isn't tied to a dead site like it is now.",
+			"post_uri": "1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ_1500579035",
+			"date_added": 1500602269
+		},
+		{
+			"comment_id": 199,
+			"body": "@Reke: Ah. I was hoping for a better wiki haha. Merger sites definitely need to be more common. A dev making a standalone site and then abandoning it is all too common. Cloning it works, but you have to start over with the data and too many clones means a bunch of dead sites. Having the data be offloaded fixes that problem entirely.\n\nHell, I've been considering converting Kaffiene into one. Just so people don't have to wait on me for the site index. There's definitely some torrent sites around, like [ZeroTorrent](http://127.0.0.1:43110/zerotorrent.bit). If you're making a torrent site, definitely add a merger feature. And then separate the hubs by category at least. That'll save a lot of space and allow people to customize their experience, as well as future-proof the site.",
+			"post_uri": "1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ_1500579035",
+			"date_added": 1500603198
+		},
+		{
+			"comment_id": 200,
+			"body": "@Reke: You might want to take a look at [kopykate](http://127.0.0.1:43110/kopykate.bit/) and [zerotube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb/) then. And maybe [nullfolder](http://127.0.0.1:43110/1GrtBsG57kjU2Z3iAQebG9D5c8CRDRLoPj/) as well. [Fastcast](http://127.0.0.1:43110/1qJ3EM5rTa2wPTBvJuCFjdLXjrBCgBkR8/) has a good demo site using webtorrent for videos.\n\nHowever, lemme tell you that it's a wasted effort. The only torrents that work with webtorrent are ones seeded by webtorrent desktop. Which at the moment puts a cap on how many you can seed, due to inefficiencies with nodejs and chromium. I'd still definitely recommend using the merger feature if you do end up doing this though.",
+			"post_uri": "1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ_1500579035",
+			"date_added": 1500604556
+		},
+		{
+			"comment_id": 201,
+			"body": "@Reke: Yeah the big limitation with webtorrent is that it can only connect with webtorrent peers. I'm not sure about all the details but you can look into it.",
+			"post_uri": "1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ_1500579035",
+			"date_added": 1500610667
+		},
+		{
+			"comment_id": 202,
+			"body": "I don't speak chinese, so I'm kinda stumbling around here, but damn that's cool. Keep up the good work! :)",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626577",
+			"date_added": 1500642289
+		},
+		{
+			"comment_id": 203,
+			"body": "FWIW you're doing it right with the merger feature. The new cors permission is just for accessing a single particular site with only read access. It's not meant to be a distributed data store like the merger feature.",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626896",
+			"date_added": 1500642702
+		},
+		{
+			"comment_id": 204,
+			"body": "@008: I'm just glad to see people making stuff for ZeroNet. There's unfortunately not too many developers (or maybe there is and they're all hidden away on chinese sites?).",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626577",
+			"date_added": 1500642843
+		},
+		{
+			"comment_id": 205,
+			"body": "@空澄砂夜: Hey, absolutely no worries about that. ZeroNet is meant for everyone, not just english speakers. It's a little frustrating to not understand most of the content, but that's on me. Usually I just skip over the stuff I can't read, but I saw Kaffiene mentioned, and poked my head in. Looks like some cool stuff so I wanted to say hey.\n\nAll you chinese guys are absolutely inspiring. I love seeing people use ZeroNet in a way that's only really talked about in hypotheticals here in the US. More people is more people. Even if some people only speak chinese (I'm sure there's probably plenty), they'll bring in other people, and we'll eventually get a huge community of a variety of languages.\n\nI'm actually a bit sad about the language barrier. It happens a lot unfortunately, and not just here. I'd love to interact with the chinese community here a bit more. Maybe I should start learning chinese haha. At the moment I just use google translate to try and get the gist of things, and have my BF translate some stuff.",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626577",
+			"date_added": 1500677014
+		},
+		{
+			"comment_id": 206,
+			"body": "@空澄砂夜: Yes, there is actually a way to do that. If you go look into ZeroName's json file, you can see a list of registered .bit domains (and subdomains) and what zeronet address they point to. From what I saw of your project though, I don't think there's much need for that.",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500626896",
+			"date_added": 1500677120
+		},
+		{
+			"comment_id": 207,
+			"body": "I've actually been considering making a little app that helps switch hubs, or fix up broken hub data. Should be easy enough. Not sure how much of a demand there is for it though.",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500743711",
+			"date_added": 1500788390
+		},
+		{
+			"comment_id": 208,
+			"body": "@空澄砂夜: Well moving *content* is a bit difficult. Since you can't repoint other peoples' comments. So the posts either have to stay on your old hub (and still have links back to the old profile), or they can move and start over with no comments. If I do end up making it, I'll likely just include options for both. The big thing though is fixing duplicate profile info on multiple hubs, and properly migrating it and all the hub pointers to whatever hub you want to be on. Simple enough.\n\n@Mtawame: Haha, I'll look into it then :3",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500743711",
+			"date_added": 1500801325
+		},
+		{
+			"comment_id": 209,
+			"body": "@空澄砂夜: There's a few options:\n\n1. Leave old content the way it is. The profile links will link back to the old profile, which used to cause problems, but not much anymore.\n\n2. Move the posts to the new hub. However, the old comments will be orphaned and no longer viewable. You can either migrate your own (removing context), delete them, or leave them be.\n\n3. Delete the posts entirely. This will orphan the old comments. Your comments could either be deleted or just left to be orphaned.\n\n1 is the safest option, as it lets everything be the way it was. However, there's still some 'bad' links. The severity is less now though, with the newer updates of ZeroMe. 2 is the cleanest. It lets you keep your old posts, and thus have a history of what you've actually done. While also fixing links and such. However, other users' content is now gone (and just left taking up space). 3 is nice if you just want to start over lol.\n\nEdit: If you move the posts the old comments aren't 'deleted'. You can't delete other peoples' comments. They're just unviewable due to not having a parent post (since you moved it to a different hub).",
+			"post_uri": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv_1500743711",
+			"date_added": 1500806124
+		},
+		{
+			"comment_id": 210,
+			"body": ">Whenever I click an image to load in ZeroMe, it takes like a minute or more to load.\n\nThis is normal. Images aren't downloaded by default, and need to be downloaded from peers. Sometimes this can be slow if the number is low.\n\n>Every so often, the ZeroNet completely stops loading anything for quite a while. Sometimes I will have to restart ZeroNet in order to get it to work.\n\nI haven't had this issue.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500827651",
+			"date_added": 1500948772
+		},
+		{
+			"comment_id": 211,
+			"body": "which json table? dbschema.json is used to tell zeronet how to construct the sql db.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500825945",
+			"date_added": 1500948834
+		},
+		{
+			"comment_id": 212,
+			"body": "@Krixano: See [here.](https://zeronet.readthedocs.io/en/latest/site_development/dbschema_json/) Has the file commented.\n\n`\"json\": {  # Json table format only required if you have specified to_json_table pattern anywhere`",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500825945",
+			"date_added": 1500967594
+		},
+		{
+			"comment_id": 213,
+			"body": "@Krixano: It's entirely optional. In the example it looks like it's using it as extra data, presumably to pull it up later. It's not very clear. It'd be a good question for @nofish:",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1500825945",
+			"date_added": 1500969175
+		},
+		{
+			"comment_id": 214,
+			"body": "@空澄砂夜: Compatibility is something I really wondered about. Since the [NetBSD site](https://netbsd.org/about/interop.html) claims it isn't a problem:\n\n>NetBSD provides a binary emulation system, which permits directly running binaries for other UNIX-like operating systems, including FreeBSD, HP-UX, Interactive UNIX, Linux, OSF/1, SCO UNIX, SunOS, System V Release 4, Solaris and Ultrix on the same CPU type. For example, any NetBSD/m68k based platform can run SunOS binaries for Sun 3 and 3x systems (but not SunOS binaries for SPARC or UltraSPARC systems), while NetBSD/sparc can run SunOS and Solaris binaries for SPARC systems. \n\nUnfortunately I'm not entirely sure what they're talking about. That you can literally just run the software? Is there something you have to do first? Or do they mean it's just super easy for them to stick it in their package manager and bring it to NetBSD?\n\nThe freeBSD site has a lot to say on it [here.](https://www.freebsd.org/doc/en/articles/linux-emulation/article.html) And the [NetBSD page on it.](https://www.netbsd.org/docs/compat.html)\n\nI'll have to dig some more. I'm honestly having a hard time figuring out what the *practical* differences are between BSD and Linux. What can't you run on BSD that you need? They mention a mac emulator on the page, which I didn't even know existed, so there's that lol.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1501156682",
+			"date_added": 1501160851
+		},
+		{
+			"comment_id": 215,
+			"body": "@Skwerlman: You got chrome to play nice with zero:// and http://zero/ links? Wow!",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1500274650",
+			"date_added": 1501529606
+		},
+		{
+			"comment_id": 216,
+			"body": ">Do I need to worry about two people having the same zeroid? \n\nZeroIDs, no. Usernames, yes. There's no guarantee usernames will be unique on services like KaffieID or other ID providers. ZeroID, however, guarantees uniqueness. The proper thing to do is to use the auth_address, which is always guaranteed to be unique.\n\n@nofish: Yet again I'm gonna complain about ZN's heavy reliance on the assumption of unique names. IIRC, the banlist still assumes usernames are unique. Also: certs should have the signer public key attached to them, and there should be an \"allow all\" for signer permissions.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1501788623",
+			"date_added": 1501832976
+		},
+		{
+			"comment_id": 217,
+			"body": "@Krixano: Right. Ideally you should *display* as the cert_user_id, and *manage* using the auth_address. If you're only ever going to accept ZeroIDs, then it doesn't matter, but technically speaking, there's nothing guaranteeing that ZeroIDs are unique, except for nofish's private backend server. Any public signers (KaffieID, 0chan, etc) lack name uniqueness. Auth_addresses, however, will *always* be unique. So it's best to use them for determining a user.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1501788623",
+			"date_added": 1501888635
+		},
+		{
+			"comment_id": 218,
+			"body": "I willingly self-censor in this way. I try to only post stuff that actually contributes, or is interesting to read. If even *I* don't see the worth, how can I expect other people to see it?",
+			"post_uri": "13aB79mzuRLgDYzQthn9wzycjw77WyDXh6_1502125392",
+			"date_added": 1502164021
+		},
+		{
+			"comment_id": 219,
+			"body": "@Ivesen: Both twitter and emojione have licenses available for public use. The original docomo and softbank are available on their company websites (no idea about licenses), several are publicly available fonts (Unifont, Symbola, Quivira). Mozilla's is prolly pretty open. There's one I downloaded off github that has a fairly open license.\n\nThe rest.... yeah are not exactly being open/libre/free/whatever. But somehow I really doubt they care unless you're making money off it.\n\nThat's actually what got me going on about this, tbh. Letting people have freedom over what emoji font they use. And perhaps going about making a new one as well.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1502872441",
+			"date_added": 1502894305
+		},
+		{
+			"comment_id": 220,
+			"body": "@Nekololi: An emoticon is a collection of text to form an image out of words. Think :D or :(. An emoji is a unicode character that's specified to be a particular image. Stuff like 😀 or 😺 is an emoji.\n\nBasically, if you need to use a special keyboard or character entry (for like apple/android/etc smilies/images) then it's an emoji, if you can type it with a regular qwerty keyboard, it's an emoticon.\n\nThough when you start going back, the two get kind of fuzzy. The Docomo emoji were meant to *replace* emoticons which were popular in Japan. So a lot of their emoji actually look like emoticons (albeit upright).\n\nEmoticons can basically be written in any font. An emoji font drastically changes what an emoji actually looks like (see: iOS vs Android for a big difference).",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1502872441",
+			"date_added": 1502936798
+		},
+		{
+			"comment_id": 221,
+			"body": "@jro: That's actually what I'm working on. Here's a list of sets I've found and acquired so far:\n\n```\n#Acquired\nAndroid O\nApple Color Emoji\nDocomo i-mode\nEmobile\nEmoji Symbols\nEmojiDex\nEmojiOne 1.0\nEmojiOne 2.2\nEmojiOne 3.1\nFacebook 1.1\nFacebook 2.1\nFacebook Messenger\nGmail\nGoogle Noto\nHTC\nKDDI Type C\nKDDI Type D\nLG\nMozilla\nQuivira\nSamsung\nSegoe UI (Win10, Win8.1, Win8.0 versions)\nSoftbank (New and Old versions)\nSymbola\nTwemoji (Twitter)\nUnifont Upper\nWin10\n\n#Not Acquired\nDisney\nEmobile Old\n```\n\nYes, these are all unique emoji fonts. The ones that are similar enough I stuck together in one line. Some of the ones I've acquired aren't yet ready to be stuck in a font (file name issues mostly). But the goal is to have a site where you can preview them all, and download/install whichever you'd like to your device (any device).\n\nIf someone has an easy way of compiling to *apple*'s sbix font format, please let me know. If there's some emoji fonts I missed, also definitely give me a heads up.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1502872441",
+			"date_added": 1502961244
+		},
+		{
+			"comment_id": 222,
+			"body": "@Jayofthezero: Mac OS is simple enough. I've already swapped out my Mac's emoji for the emojione set. Just needs a proper sbix font file. I'm not sure how Windows or Linux do emoji, but that's something I'll be looking into. For black&white emoji it's just a matter of using a particular font rather than the system fallback.\n\nAndroid is obviously very easy: just have a rooted phone and change the font file. Lots of tools to compile to android font format. iOS is the same boat as Mac. Jailbreak, then put in an sbix font.\n\nI still unfortunately have no idea of an easy way to make the apple font files. That'll take some research. At the moment I'm just focused on properly gathering all the emoji sets.\n\nBut yeah, should be totally possible to get the Google Noto font on other devices. See [here.](https://github.com/googlei18n/noto-emoji) They say android, chrome os, windows 10, and (a little) linux supports the format they push.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1502872441",
+			"date_added": 1502984238
+		},
+		{
+			"comment_id": 223,
+			"body": "@Jayofthezero: As I said, something messed up and my entire data.json was lost. Even for other people. I managed to grab an older version off a proxy that wasn't updated all the way, so I could restore most of the posts.\n\nIf you have a copy of how it was last night (and *not* today) then I can use that to restore my comments which are now gone.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1503104213",
+			"date_added": 1503125547
+		},
+		{
+			"comment_id": 224,
+			"body": "Provided the user registry and your data.json file are loaded, you should be able to see your profile just fine.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1503529679",
+			"date_added": 1503573197
+		},
+		{
+			"comment_id": 225,
+			"body": "@Krixano: Revisiting ZeroID will regenerate your user cert. So if you're only going off a master seed then you need to. If you simply copied over your users.json file then there's no need.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1503529679",
+			"date_added": 1503711181
+		},
+		{
+			"comment_id": 227,
+			"body": "auth_address and auth_privatekey are generated per site. The one connected to the ID site is used as the base for the cert. Basically, these are how content is signed for the user.\n\nThose, the username, and the auth_type are used by the signer to generate a cert for the user, and is then checked when the user posts.\n\nSee the source code for [KaffieID](http://127.0.0.1:43110/id.kaffie.bit/) for details. It's fairly simple and should be self explanatory.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1503789069",
+			"date_added": 1503806951
+		},
+		{
+			"comment_id": 228,
+			"body": "@Jayofthezero: I haven't seen it, but I heard good things about it. I'll have to watch it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1503893581",
+			"date_added": 1503988418
+		},
+		{
+			"comment_id": 229,
+			"body": "@Musickiller: KopyKate is a webtorrent video sharing site. As of now, most of the uploads are just webseeds hosted on kittyseedbox or peerify. But if you want to upload a magnet link and seed your videos yourself, you're free to do that.\n\nBasically it runs webtorrent, and fetches the mentioned .torrent file or magnet link. Webtorrent then plays the video content. The videos I uploaded have the .torrent and webseeded video on kittyseedbox for convenience. If there's enough seeders, I could easily replace it with a magnet link, and remove the reliance on the hosted site. But realistically that isn't the case. Without a webseed like that, the content is usually just dead.\n\nTake a look around on the other videos (namely ones *not* uploaded by me or the person running it). You'll find most are dead because they don't seed the videos.\n\nEdit: Take a look at [this video.](http://127.0.0.1:43110/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/?Topic:5_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh/+Official+Video+Yousei+Teikoku+Kuusou+Mesorogiwi) You can see that one has the torrent file hosted on peerify (which is also webseeding the video) instead. Likewise, you can use magnet links and host the content yourself, if that's more your speed.\n\nEdit 2: You shouldn't need to leave zeronet in order to watch the video. Though you *do* need to have clearnet access in order to fetch the .torrent files. Be sure to use firefox, as other browsers tend to have problems with the video playback.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1503893581",
+			"date_added": 1504005463
+		},
+		{
+			"comment_id": 230,
+			"body": "@Musickiller: Ah. Yeah it should probably alert when it's an off-site torrent. Though for the webseeds, that's not really possible to alert. The webseed urls are embedded into the .torrent file and will connect in even a regular torrenting client.\n\nSo if you hosted a .torrent file on a ZN site, and then loaded it through webrtc, you could still have webseeded content on other sites. You can easily use the site *without* webseeds. Just post magnet links and seed the videos yourself. The problem is that that leads to videos going down and becoming dead. But yeah, the page should probably alert about external hosts.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1503893581",
+			"date_added": 1504155734
+		},
+		{
+			"comment_id": 231,
+			"body": "@Musickiller: I actually don't drink any coffee. I used to do one cup a day, but I since cut that. I'll rarely have caffeinated tea in the morning if I need a boost.\n\n\"Webseeds are actually more secure. You can access them through tor, which is not working for DHT.\"\n\nAh. Still accessing clearnet sites though, which I know a lot of people have issues with.\n\n\"To get something without anyone knowing it would require shut off all the good stuff from the torrent client, making it barely any better than a web downloader.\"\n\nThat's probably true. Keep in mind, webtorrent runs through webrtc as well, which has had some risks of exposing IP. But there's nothing stopping you from downloading the .torrent and popping it into webtorrent desktop or vuze or something.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1503893581",
+			"date_added": 1504184495
+		},
+		{
+			"comment_id": 232,
+			"body": "@Zaira: You could always look at the ZeroMe source code and work on it that way. I see no reason why you couldn't crawl it.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1493531672",
+			"date_added": 1504356613
+		},
+		{
+			"comment_id": 233,
+			"body": "@Musickiller: The reason I ask is because I'm wondering if it's more reliable than trying to use webtorrent for everything.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1507507481",
+			"date_added": 1507606241
+		},
+		{
+			"comment_id": 234,
+			"body": "@Shouko: No problem. Just hover over the name to see the auth_address, which is unique per person.",
+			"post_uri": "1NT3JjA24tMQT5VMNxNGZwYArC2cx3bqBD_1",
+			"date_added": 1509455813
+		},
+		{
+			"comment_id": 235,
+			"body": "@Krixano: There is no way to scan a user's downloaded sites. It's apparently a breach of privacy Dx.\n\nAs for Kaffiene lacking content. I'm well aware of the problem. Haven't really been working on much lately. Having motivation problems :\\.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1509513281",
+			"date_added": 1510236550
+		},
+		{
+			"comment_id": 236,
+			"body": "@Git Center: I was actually playing around with that idea. Seems pretty bad haha. Wouldn't get much benefit from it anyway.\n\n@Krixano: You did not. I was responding to the idea of having it crawl visitors' computers.",
+			"post_uri": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu_1509513281",
+			"date_added": 1512980822
+		},
+		{
+			"comment_id": 237,
+			"body": "@Acabin: Yeah. I've poked my head in every now and again. Not dead and haven't forgotten about zeronet. Love this little place. Just haven't been able to pull myself back in yet.",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1512981269",
+			"date_added": 1513070959
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470858603
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1470858611
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1470876340
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "Tkarita",
+			"date_added": 1470879460
+		},
+		{
+			"follow_id": 8,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N",
+			"user_name": "Quadrangle",
+			"date_added": 1470885576
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "ZeroMonster",
+			"date_added": 1470885593
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1470886958
+		},
+		{
+			"follow_id": 11,
+			"hub": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+			"auth_address": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb",
+			"user_name": "ɃǾȾ",
+			"date_added": 1470900111
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1ADB7TdX2fVbTsWBoMe9yBTmVXTbb33b4R",
+			"user_name": "Scrub",
+			"date_added": 1470901794
+		},
+		{
+			"follow_id": 14,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1PCPuVtFv8apVpXYbc46wHugNhFUVQ6KCv",
+			"user_name": "Newuser123",
+			"date_added": 1470904143
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1BePwsiwFD8BjtYfB8tQegiKXDLnHWW1Um",
+			"user_name": "Yurithejewler",
+			"date_added": 1470914983
+		},
+		{
+			"follow_id": 16,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx",
+			"user_name": "Kindlyfire",
+			"date_added": 1470915078
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH",
+			"user_name": "Silverstorm",
+			"date_added": 1470957832
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1470965863
+		},
+		{
+			"follow_id": 19,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1470968634
+		},
+		{
+			"follow_id": 21,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1471070381
+		},
+		{
+			"follow_id": 23,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1MEaxKqZWGEqFH62TRNEEZuNh8iX4nnq5f",
+			"user_name": "Kaffie",
+			"date_added": 1471090373
+		},
+		{
+			"follow_id": 24,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L",
+			"user_name": "Alex (Bwoi)",
+			"date_added": 1471392704
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1471745621
+		},
+		{
+			"follow_id": 26,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1471780189
+		},
+		{
+			"follow_id": 27,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1472448395
+		},
+		{
+			"follow_id": 28,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1475374810
+		},
+		{
+			"follow_id": 29,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1479299612
+		},
+		{
+			"follow_id": 30,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482038813
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1482416357
+		},
+		{
+			"follow_id": 32,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1GEfdZ7AyiBeEj8341JU5yZrCWCCczGDg5",
+			"user_name": "Zeronon",
+			"date_added": 1483091093
+		},
+		{
+			"follow_id": 33,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y",
+			"user_name": "Rythyrix",
+			"date_added": 1490350941
+		},
+		{
+			"follow_id": 34,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Ea3RG4YuLnifynBxvuWAA3Y2nLcTWfrjQ",
+			"user_name": "k0re",
+			"date_added": 1490409738
+		},
+		{
+			"follow_id": 35,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1490425203
+		},
+		{
+			"follow_id": 36,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "16ayEL9rXHKdbhoFu1LUanUaPVrzRVe331",
+			"user_name": "Andrewm",
+			"date_added": 1490850062
+		},
+		{
+			"follow_id": 37,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd",
+			"user_name": "Styromaniac",
+			"date_added": 1491396775
+		},
+		{
+			"follow_id": 38,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1491815181
+		},
+		{
+			"follow_id": 39,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1491815188
+		},
+		{
+			"follow_id": 40,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV",
+			"user_name": "Mynameislegion",
+			"date_added": 1491815840
+		},
+		{
+			"follow_id": 41,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy",
+			"user_name": "Glightstar",
+			"date_added": 1491971416
+		},
+		{
+			"follow_id": 42,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1MaKJotNGHhDQh1BnZCEBqU5Gwj88gFLyR",
+			"user_name": "tiamat",
+			"date_added": 1492778623
+		},
+		{
+			"follow_id": 43,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1492778749
+		},
+		{
+			"follow_id": 44,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp",
+			"user_name": "Ivesen",
+			"date_added": 1493091378
+		},
+		{
+			"follow_id": 46,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "16esmH5mTmsJL4S5DW4dup5883xJh6GdDS",
+			"user_name": "Thecuriousnerd",
+			"date_added": 1493120216
+		},
+		{
+			"follow_id": 47,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1eQKH8VcGoV17tUEfCHad8pMix9qR8aVu",
+			"user_name": "DElUSiON",
+			"date_added": 1493120329
+		},
+		{
+			"follow_id": 48,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1HopvBKMYQDswMo6mzpPWKAacRM3GYv1xj",
+			"user_name": "Zhongzhen93",
+			"date_added": 1493652365
+		},
+		{
+			"follow_id": 49,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1495672152
+		},
+		{
+			"follow_id": 50,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv",
+			"user_name": "空澄砂夜",
+			"date_added": 1500642297
+		},
+		{
+			"follow_id": 51,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1AABRF6MEZpwihXdJSPNdygREjis6LzD2w",
+			"user_name": "Kanja Zer0",
+			"date_added": 1501032781
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"blocked": [
+		"1D4B7XbRYY5p9kx79NtKr3qiShR5Tcpnvo"
+	],
+	"flags": {},
+	"comment_like": {},
+	"bgColor": "#fce8f9"
+}

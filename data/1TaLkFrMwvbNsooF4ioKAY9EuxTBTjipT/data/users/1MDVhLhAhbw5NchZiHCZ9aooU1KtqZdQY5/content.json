@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKlpQM8+ADS1NjTbPAfZYyObXdE4fAfsCew8sBVMQmaNGf56+Tq64Iqsh/xE2k89FQT+4Iev0oqt1H5ifGu8rFY=",
+ "cert_user_id": "mitsubishi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3020cd07b2dd6bc44e5f6e4c3e223c48a04a723a7d626971fe899fa2a40f6413",
+   "size": 802
+  }
+ },
+ "inner_path": "data/users/1MDVhLhAhbw5NchZiHCZ9aooU1KtqZdQY5/content.json",
+ "modified": 1500529821,
+ "signs": {
+  "1MDVhLhAhbw5NchZiHCZ9aooU1KtqZdQY5": "HK+gxOrgJfbqFimmk++iUYsW3hkVE476BQLs+HRA5y8HIZYO5Xgk/Z86o4sT0Ne0JcUaTwG83hXGKXPr+GwLI0Y="
+ }
+}

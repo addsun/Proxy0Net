@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCHfTjhzNonFwsUHbVLmfFBj+vnVDcz+r/7mKhxQjUHLymwvDXfbhdCk0wcpT4Qe0zYbWaEJMxvpgJ3/Gb41lQE=",
+ "cert_user_id": "clematis@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "e96a17a8b68bbcc71cfc584d7085654e9d0916575cfc312e8ad9ab5182ed1261",
+   "size": 19465
+  }
+ },
+ "files_optional": {
+  "1510511527.jpg": {
+   "sha512": "abb19a1e54bba74b22b51f5c258dfb4fc5ab5b4c7d338c26151bf9d8fdeec061",
+   "size": 10431
+  },
+  "1510949351.jpg": {
+   "sha512": "abb19a1e54bba74b22b51f5c258dfb4fc5ab5b4c7d338c26151bf9d8fdeec061",
+   "size": 10431
+  }
+ },
+ "inner_path": "data/users/1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr/content.json",
+ "modified": 1513337181,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr": "G247myMSSYpBYeozRMd3BrrXgC9oBeDRhc0Ew9imZEYUcs0NA1Jf6jfbTrIAITSFtxMJaIJJaZjq3Obid0Ls6sM="
+ }
+}

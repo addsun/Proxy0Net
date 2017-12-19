@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HOyYQj8EwDtNGJuKySfHWWbY3XP4Q1I7LqZbAn8P/mJsgfDzs7wsbVJhNW3uzZ4Weo/8A8KndeRSaL5Qy5hKqAc=",
+ "cert_user_id": "betasky@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8fbe1336c0e2aba9a9abe4a548d7eaa4299bb95d742ad79568e2730b4fc6a4fe",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1KRotuMSTqpxiwjR7tZkXhTPhjmNaF155o/content.json",
+ "modified": 1503411140,
+ "signs": {
+  "1KRotuMSTqpxiwjR7tZkXhTPhjmNaF155o": "HLtTDmqCXBnsPvC7+ND4w434wN7OLZghllU0svhduaHJdhKJ/1Us6kB2I0CEcamhln1jg0sQf2FtsUvBOUUFT9g="
+ }
+}

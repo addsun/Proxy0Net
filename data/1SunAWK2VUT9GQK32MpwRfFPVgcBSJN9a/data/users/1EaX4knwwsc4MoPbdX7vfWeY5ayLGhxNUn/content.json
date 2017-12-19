@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwACqdSp4TURXXJ7oQxijF/L5RLNA86zXhFmCMZDsDcUS6tRjUpME9ulsdm3VRx2hyCrkf/v2Yu6gbKNKNTF9vo=",
+ "cert_user_id": "probando123@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "115a3371232d27e6d41844bbe9e429cdbc905138128a5b22e831597c9f0f8e04",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/1EaX4knwwsc4MoPbdX7vfWeY5ayLGhxNUn/content.json",
+ "modified": 1509392513,
+ "signs": {
+  "1EaX4knwwsc4MoPbdX7vfWeY5ayLGhxNUn": "G9fPStaWkMCpB+30aRd1S91VOGLlhn+FvybitrJDxn/FLVLePsHbeNFkGFSKszflLQhv8jIXx3cA8Mroisgs1ZQ="
+ }
+}

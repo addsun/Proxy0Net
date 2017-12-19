@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G80qY7j17qFbsg4VyXF2yjv63fE6AuBCgEsi1AbAIMogDMXNFi6ENLSNcg0IpU798fdVaz1tHN+SxysKV0RvbtY=",
+ "cert_user_id": "jobs@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "57031ee2cdc85ec042fbba8793b5912e843fb2f8e0bff4beee44baf771ec926f",
+   "size": 1537
+  }
+ },
+ "inner_path": "data/users/1K94YiuAXaLsup6mn1FPMCxZanFt7CBjAT/content.json",
+ "modified": 1500602741,
+ "signs": {
+  "1K94YiuAXaLsup6mn1FPMCxZanFt7CBjAT": "G9ikQDkjdZ3hWMT60PgNa/RT3ElvuIn7MaNuF6wva68YT74ohR10olH0Wg6o812yUiGp9oVg+DHccZ0nzUtDJ1s="
+ }
+}

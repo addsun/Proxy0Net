@@ -1,0 +1,24 @@
+{
+	"next_post_id": 19,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "png",
+	"user_name": "用户名加载失败！",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "#无法访问此网站\n连接已重置\n\n请试试以下办法：\n   * 检查网络连接\n   * 检查代理服务器和防火墙\n\nERR_CONNECTION_REFUSED",
+	"post": [
+		{
+			"post_id": 1511426603,
+			"body": "#无法访问此网站\n连接已重置\n\n请试试以下办法：\n   * 检查网络连接\n   * 检查代理服务器和防火墙\n\nERR_CONNECTION_REFUSED",
+			"date_added": 1511426680
+		},
+		{
+			"post_id": 1512649167,
+			"body": "`b'CONNECT www.baidu.com:443 HTTP/1.1\\r\\nHost: www.baidu.com:443\\r\\nProxy-Connection: keep-alive\\r\\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\\r\\n\\r\\n'`\n`b'CONNECT www.baidu.com:443 HTTP/1.1\\r\\nHost: www.baidu.com:443\\r\\nProxy-Connection: keep-alive\\r\\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\\r\\n\\r\\n'`\n这是我监控127.0.0.1:1080本地代理上的，在浏览器里输入`www.baidu.com`回车后的网络数据。\n`if __name__ == '__main__':  `\n `   import socket  `\n `   sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  `\n`    sock.bind((\"0.0.0.0\", 1080))  `\n`    sock.listen(1)  `\n`    while True:`\n`        print(\"OK.....................\")`\n`        connection,address = sock.accept()`\n`        print(\"OK..........ok...........\")`\n`        try:`  \n`            # connection.settimeout(5)`  \n`            buf = connection.recv(10240)`  \n`            # connection.send(\"HTTP/1.1 200 Connection Established\")`\n`            if buf:`  \n`                print('%s'%buf)`\n`            else:`  \n`                print(\"error\") `\n`        except socket.timeout:`  \n`            print ('time out')`  \n`        connection.close()`\n`    sock.close()`\npython 3.6.3版本改的一个监控本地流量数据的小程序。",
+			"date_added": 1512661669
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
+}

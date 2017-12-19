@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HJDpmbzR9aA/zHtXY+irKrUyRHIrWq5IYYUwUc1bTrPnF8VmRPwsrMoiAD5DxRj8rUBcaqVfLKzXJnNLDOeFs9U=",
+ "cert_user_id": "insurgo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "164e09c069d2158b7adf0b7842aa8c5d3229539773186c0200c2a2e1c24e0045",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/18UFtLHDzWDN1um1NphCGuTW4QnTsBaNH2/content.json",
+ "modified": 1513402950,
+ "signs": {
+  "18UFtLHDzWDN1um1NphCGuTW4QnTsBaNH2": "HAZYC6xdIhsA26wlF2CN4slUJqwUQEoTI/LJLU6e/ajwCLh5f3GiryCWBHw2XEFMP+ThMoUzJNVrcsyFkJFcqRg="
+ }
+}

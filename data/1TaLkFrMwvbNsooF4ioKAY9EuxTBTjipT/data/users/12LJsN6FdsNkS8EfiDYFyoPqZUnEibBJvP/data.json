@@ -1,0 +1,198 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 29,
+	"comment": {
+		"1_1B5iBCuHQgbGdgTJmM2A2pZNVfpfp3EU5u": [
+			{
+				"comment_id": 1,
+				"body": "you can use hugo and probably even hexo, since these output static files. \n\nFor hugo, just have to copy the \"public/\" folder to the zeronet folder that corresponds to your zero site\nFor hexo, just deploy via rsync to the zeronet folder that corresponds to your zero site\n\nIDK how to do it with jekyllrb but I am sure as heck there is a way, you just need to copy the files it outputs to your zeronet site folder.\n\nHugo example\nhttp://127.0.0.1:43110/126fBtopb2n7Pc42KhZyZyHhZKrecAdMdR/",
+				"added": 1492201928
+			}
+		],
+		"1_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 2,
+				"body": "My tox\n\nA2D2984CF472447B4C0D2779F47FB991054A2138D2A27C678434D3D370FBF1241024A84E48E8\n\nHere is my retroshare06 key\n\nCQEGAcOZxsFNBFibEcYBEADChQO/nf/Yw7f0Z4VQAIMbhYPhp2p2HUneR6dI1cRc\nXAHHtiprG5WyqEQMTZvdebOmi7vDaRSmYBdegGJM4966moGqx0lidAXkjGerlgnj\n8UjuC1ZGmIvkYs6iFMAKPp+GjdaIc5maSCl2S2ls5mK6pp7/+/+96uP0WgKHLUiV\nuLtkmfbSmw4raybIZpIJjhCgYTECs1QcQ5S6Mgv5UP6ldzyj7yEGhMBPfQqI2Q9D\nkeiAGdxpnox/O2yaMtM8ePvyJmhN85BIiqglEPIJ68l+mMqtBPi04LiG3yZzd81h\n3UPPq0uVXm5uqPGARFczICPvNZwKLS0JkjJKsKtPqs9l1YfqpxOj7SU71FGMP8/C\nmsNMcGNRkQibyHx9trQWeOpt0A+r8MIIqGoQgzHKxJFTEXggPtEcqOZxUc4UrDOG\nyTp7VXvFTMGz/Ia9qGWGSk1lCSd2cUYW80b7GzZltqo6J1Gj8ZaiTxNrmJ6BZ2IN\nhqhbjhq+52oHnx2KikDeZRXB7FSQpa+EmOgDTkElbNYBy0C9CCf/FSQ+0Vk5aWPS\nrXCR/cJyrbOGiu3AZD8IXeFARnVRkxtFb4WBDGLfBufh7Mkdp/PxbQCARboe/BIi\nwP2DbVyQoud6KF2+jqooC+75d2995bKTZh+xXUOTDzUjmu7U7wApNCb1XIzy/edE\nEwARAQABzSVqb2Vkb2U0NyAoR2VuZXJhdGVkIGJ5IFJldHJvU2hhcmUpIDw+wsFf\nBBMBAgATBQJYmxHGCRA43XNxqC4BOQIZAQAAchgP/ibQ4x3gBmkUm/WqZqbfBo6j\nSj3SJLccO0s6JHhOmK5/fywfb0ram+mLFQDudQsCTdmqvyqSlaEEntDJZ7rBG2Ly\no/fwrdpVZ29JDyClPeI0U/fG5deg++gNg6WlHrQvdEty+cjbZ25W9+H4ZT+2HF51\n/PIS1UoQtgL6biGD3HZfTaJvAbKiV1viiDhHfSmzYrxFIEys26+tZDoQOE6l72vt\nBZS5VPusbqUnSq5yunXPwKNUqgvEA+2+qEj2m9jE90rG6tto5chsqkIPtFfoM1lL\nhZoCTckVAhxvwzvwwc87cttRsbR78MccMgKM/x+HDD6Unw6k+fBy9PloYeYQzMwB\nEs42Hr5kRMRTSqxYssMkKfmEQBPhWyYOg1nBXC10oUEEt06tepx0fAzysMmk1LYB\nlwy+OxTeUWHz/xgO4mF8Ih3ObwvpP1aROv3WHC+JebFU54hRfjUNZQQYQVvQ5w40\n7cojvpym6UCgUrH4psxjhlLp8PfMOkQonAcKrAubz0Jp5rNSF2a/lMSFWxKVN977\nb4NVj4CJzGCxymqEw5V7/mGlotDZ2c0NqGQ+be+uG+FXP7RdQBF4VjHnvDoYl7cJ\n8mj3MuATEi4cZXDTs0iEiVX3GSVqIqIhgwGmQOpGgICnb3M9hFKvP6aUAtH8RA85\nSav3JFEn7VNq7T5YOAdtAgZi/kCoQ/UDBsCoAWRD9QQABgRIb21lBRBZnFczDg8n\nZcC9Q+pVtmDUBwPMaDM=",
+				"added": 1493872906
+			},
+			{
+				"comment_id": 3,
+				"body": "> [sorcererr](#comment_2_183CohB4d2oHT8aEq41e8UbrdJu1SdNkHh): Thought: should we be worried about spammers harvesting these addresses and mass-mailing people? I mean that's not an issue yet, but it's almost guaranteed to become one in the future.\n\nThe only spamming they can do is DDOS IPs but there isn't much a stranger can do other than that from an retroshare certificate. \n\nSince it is a friend to friend network, no damage happens until someone breaks the chain of trust. However even then you can block out annoying people.",
+				"added": 1494250350
+			},
+			{
+				"comment_id": 4,
+				"body": "> [1491301186](#comment_17_1AZG3avnpwcn37q9eeCEjXKFBye81eAxg5): CQEGAcOZxsFNBFkQu4QBEADEvmy7ftGUToebAeplcaplf1+zHvHILsot0ukHjQJQ\nLlerdHUzIVg9lnKPErjgS56Rm+lHfIRK9LxX1yubLCOOEDMoRAfDk2K18DsiVJNq\nS3f3ogtMpoDIwUGh4R17dEVDuFAWdEeJhgDGWCR8DfkDvqZfLNWHvHvE2EHT8YAg\nyhA0V9ih43UaMUl0Q0XoQijg4Mvc+fXez1wWHikkDEUS3GEJhBOhTAImjPWodtr1\nrxOrsyOSkQ27VPjo02BV5CxcjS8serRZ9Bd3ei0B/dwqY62u0yDqWvnz26EQKcC7\n8xxa8Pw2AiIx8L2vp/0aWR7pmLz4QDzXxHaJopz0/GUOSKRLNqMK2GUejnqsj4g3\njVlq8/xUNFQv+U4uinRbL/TLT/DnAed7VkF0HETnnLHXIwCRcNswOGTVoAmP4HQk\nyJZRdULQEvjpNVdmTPbxC5VOld5bwIae7jQBvjr5Y9lmgE6ufH+o2a5QtB9sMogJ\nxJsRcFyNa3n34D7PqF9zTfAsnHICS7vHZsImmWTwdVqM5b6IL6rH91vceF0yZXia\n7jffVegOQp+yB+w1tyiHp1PnCPFdtNcp3UVrN1iX67UTSVAmA8pul7piVt3RLm+P\namLxqKCiINiM4Y964Sn6MvAc1jzK0NjbIOa7oiw+ksrGsPJ7zsFiRMF7KHfD8lP0\n/QARAQABzSVKb2huIERvZSAoR2VuZXJhdGVkIGJ5IFJldHJvU2hhcmUpIDw+wsFf\nBBMBAgATBQJZELuECRA4uYbFkISCvwIZAQAArq4P/2fPU5o3MFY3vbLz7xX0YKMx\ne0MokKBt8IB4YHchVHH3iWFcVNRzkOZ53vMMxQFR5c/UlkAH3p/SWmPmXtfMquHF\nuaJ1KNCZ3aA6ysGJdU+8TSvFbYGOAvapi9/42Gx15P8arVNAKCILZx4jFGM7rKa8\nDOojn8PZ9ZvYvWbKTRbBuER2L85eoEh2SZCMNLjyOvA//kdSzuNTYAvGp1uIksdO\ncId3qm3fO3mUrO3TBp8g6ZqLn5EYxcpUdL9O/Qo7unCEECAJ+ER92cjEJWtwJazO\nW+5uOCLT63CyHSJZ/vKtUghBHwVA8iUfl+SFipWiDGZlhgv3yHzjuZZHtYxPupG6\nXCN84UpJJPSfHZpN+tqbpL15kRkpkMeM5hcR1df8bVyzJps0IOX/JPPg85RyYiwN\n2P5/KM8pWzuHF/poLT8EjL3qkEMlyper6dJUpk0l/XDROy+ojt/pwXgHFpiuxhH2\nIsjpOMbElU2zFIDt/L/XBE8chwvnrVuXTlkkGCavtARnELWtz3WMUzsVlTkHymOv\nZR8rXbAdDp+zc07uWhyhL+XAOWvF+IMIoV2dhSJrFwGGMTncgaKXCiXvXJ/x7XO3\nZwvDDL19f0MjsA+gunA4vGcmVgrRngRTMdPrOPrF9TcLuOgTS6l0DC5NqNQTJsX0\nkUv0r0+TyD9zLIx0sRgFCBszcndpZTc0amdjYTVxZjc1Lm9uaW9uOjc4MTIGB1pl\ncm9OZXQFEGX1cixBBXsEL2OMJOSPDIoHA6dV4g==\n\nNice 1 connection. lol. Thanks. I see that I connected to another 2 people but they don't seem to be online all the time.",
+				"added": 1494274359
+			},
+			{
+				"comment_id": 5,
+				"body": "> [1491301186](#comment_18_1AZG3avnpwcn37q9eeCEjXKFBye81eAxg5): Your certificate is rejected by my Retroshare06 client with the error message \"Not a valid Retroshare certificate!\". Are you using Retroshare05?\n\nnah I'm using 06. it should have a user orien3243 or joedoe47 (I forget)",
+				"added": 1494300094
+			}
+		],
+		"1_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 6,
+				"body": "> [kaffie](#comment_334_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Only problem is that Mike Pence is president then. And he's honestly worse than Trump.\n\nThe US suffers under either. \n\nCan you really say \"oh nyu mike pence might be president!\" if it is the case that Trump's secretary of education (Devos) will not stop private or charter schools from discriminating against LBGT, black, etc students?\n\nIs Pence really worse if Trump and GOP's bill allows to add rape, LBGT, and abortion as \"pre-existing conditions\"? \n\nIs Pence really worse if Trump and secretary of justice (jeff sessions) are willing to convict pot?",
+				"added": 1495803060
+			},
+			{
+				"comment_id": 7,
+				"body": "> [kaffie](#comment_335_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Trump is still bad. But remember, Trump doesn't give a shit either way about LGBT people. He's not out to get anyone. He's just horribly biased towards the right, incredibly ignorant, and hires actually malicious people. Much better than Mike \"Let's spend funding to shock the gay out of them\" Pence.\n\nIts true Pence has never corrected that statement but there are a few more dangerous aspects to pence that you are neglecting.\n\nA) The legislation Pence backed that is \"pro-fetus\" or pro-christian supremacy\nB) As VP he can direct the majority Republican (and pro-christian supremacy congress) to pass bills like de-funding planned parenthood and \"religious liberty\" bills\nC) As president Pence can also direct the majority rep congress.\n\nIt doesn't matter how you look at it, Pence is bad news. If you didn't want him, we shouldn't have elected Trump in the first place.",
+				"added": 1495850055
+			},
+			{
+				"comment_id": 11,
+				"body": "> [kaffie](#comment_337_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I didn't mean for my comment to be a comprehensive criticism of Pence. Indeed. He's awful in pretty much every conceivable manner. [...]\n\nYou make a point. Hillary DID win the popular vote. AFAIK he won because of jerry mandering (we have proved it at least in north Carolina), \"winner take all\" states like Florida, and laws that allow representatives vote their own way.\n\nIDK that we can prove any actual rigging, but you are correct for the most part. He didn't REALLY win.\n\nNone the less, regardless who remains as president, the US will suffer. As will some countries.\n\nI was just sharing that Pence was dangerous since he was sworn in as VP.",
+				"added": 1495856017
+			},
+			{
+				"comment_id": 13,
+				"body": "> [thatmexikan](#comment_10_1GxGDmjdgePeraKqV2yQRiRQM4E5rud79R): @orien3242 What's so bad about defunding Planned Parenthood? It's not the only medical clinic that people can go to for help.\n\nehhh, are there really? In the state where I live, there is an \"alternative\" called heart beat of miami, do you know what they do?\n\nThey do not offer abortions. full stop. Why? Its their \"religious belief\" that its murder. \n\nSo what they do is try and guilt women into having birth. They give them pamphlets about how \"God wants you to have a child\" but that doesn't really help out women that were raped, some of them wouldn't want to look a child that reminds them of a traumatic experience.\n\nPerhaps where you live it is different but in places like Texas and Florida, the alternatives to planned parenthood, are mostly \"christian\" run private companies. (that obviously do not care about women that were raped or incest)",
+				"added": 1495938554
+			},
+			{
+				"comment_id": 14,
+				"body": "> [planespherev3](#comment_197_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Alright, you're a good guy, you're for the liberty to abort, great!!! You are a great guy, you are good, inherently good, and all of us recognize that you are (a very good guy). One of the greatest. That the point of being a SJW, isn't it? Feeling superior because you put yourself in the situation of being the \"good guy\". Even if deep down, you don't care, and would swap team in a heartbeat if you were really threatened physically. [...]\n\nActually, if you ask the christians, I am the bad guy. I am the guy who is \"attacking them\" ideologically.\n\nEg. if you are herald Trump's \"pro-life\" but silent about Trump's stance on continuing a Bush Jr./Obama era war. You have a double standard on what \"pro-life\" means and shouldn't be an SJW.\n\nI actually do not think you understand what an SJW is. Its someone who talks shit and has no idea what they are talking about. \n\nI'm here talking about the issues meanwhile the one who is acting a fool talking about \"threatened physically\" is you. You are an SJW BECAUSE you have no way to argue and feel you have to fight people, right off the bat.\n\nI mean seriously? \"your a good person... but you would be like me if I physically threatened you\", you have an odd way of saying \"I'm an autistic mentally retardo unable of logical thought, please abort me\"",
+				"added": 1495939099
+			},
+			{
+				"comment_id": 15,
+				"body": "> [planespherev3](#comment_196_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Pretty stupid of you guys to babble about team red vs team blue when both have the same leader. [...]\n\nWho would have thought the rich billionaire was a corrupt shit head like Hillary? Weird.\n\nIts almost like we should have either:\n- revolted and spread anarchism\n- actually voted for the 3/4th parties that might have been a better choice\n\nBut I guess that just too HARD. No, I'm glad the right turned off their brains and elected Obama (orange) because may be now they will realize just how IMMENSELY stupid their side is when it comes to logic.\n\n\"Premiums will go down but everyone will be covered\" - Trump\n^this doesn't happen under single payer nor \"Romney care\"\n\n\"I will stay out of Syria ...we need bomb the shit out of ISIS and their families\" -Trump\n^once again, how on earth can you be an anti-interventionist country but deal with terrorist organizations?\n\n\"I will make Jobs (but be completely silent about automation)\" - Trump\n^ I LOVED that he stayed silent about automation and outsourcing... because he does that too. \n\n\"We will have a total and complete shutdown of all muslims into the country\" -Trump\n^ Well, the courts are CUCKING Trump. What now?\n\n\"Hillary is a crook about her emails on her laptop\" -Trump\n^Never mind a former and \"thee\" current CIA directors said \"Trump is allowed to declassify what he wants but he needs to follow proper protocol to make sure our sources agree with the wording\"\n\n\"I won't prosecute Hillary but I will fire Comey\" -Trump\n^ GREAT meanwhile people in congress are whispering \"president pence\" as now Kushner is being asked about his back channel, they are going to subpoena Fylnn's memeos too, and Comey provided a memeo where Trump asked Comey, the NSA, and CIA directors to \"lay off Flynn\". (this is the best)  \n\nYou can name a Trump policy and there isn't a SINGLE policy promise he hasn't done a 180* turn on.",
+				"added": 1495939856
+			},
+			{
+				"comment_id": 16,
+				"body": "> [planespherev3](#comment_198_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Oh i get it, you like abortion.  [...]\n\nI wouldn't abort. I am pro-life, however others should not be forced to follow the \"morality\" of my religion. It IS my church's fault because they think the church should dictatorially have others follow it blindly.\n\nMay I remind you in the story of Moses (when they left egypt and shortly after they started praising other God) and right after Jesus was born and hunted by king harod; God either killed children himself or did nothing to prevent others from killing children. The concept of \"pro-fetus\" or \"pro-life\" is an invented mandate not from God... Please keep your SJW-ness to yourself. \n\n@thatmexikan Oh, I was unaware of the one in ft. lauderdale. However, the catholic church seeks to make abortion illegal. Full stop.\n\nThey might get away with breaking planned parenthood and its good that you share this because at least women have an alternative, and I will share this left and right with those whom may need it. However, the church will not stop until we all *unquestionable* accept/follow its interpretation of \"morality\".",
+				"added": 1495985363
+			},
+			{
+				"comment_id": 17,
+				"body": "> [planespherev3](#comment_201_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Lots of insults, even if i haven't used one. I don't care about homosexuals and transgender, really. It's a small portion of LGBT which is aggressive towards straight men. It is them who need to calm down.  [...]\n\n\"It is them who need to calm down. \"\nHey, uh... you do know a decade ago and still today people are saying that 'gays will go to hell' right?\n\nAfter hundreds of years of being judged, persecuted (literally like in places like Russia and south/north sudan) you want them to chill out? \n\nWhat happened when the christians were persecuted by the romans? did they calm down after being fed to lions? No, they actually started to gain political influence and became a gigantic corrupt organization, strayed from the path of Jesus and or God. \n\n\n\"We see our relationships with each other not as interaction between humans, but our interactions are the result of the movement of goods. \"\n\nYou don't get it because you are not a christian. The christian idealism is to view relationships AS in interaction between humans.\n\nThey always say \"no we hate gays, not BECAUSE they are gay... but because of HOW they have sex or being UNABLE to reproduce\"\nWhich is a fallacy in and of its self because\n- what about surrogate pregnancies?\n- if God hates how people have sex, why do pigeons, lizards, fish, etc all also have gay relationships?\n\n\"Homosexuality and gender identities uncertainties might have come with the neolitic revolution, 12500 years ago. \"\nThats fine choice or otherwise, we also see this sexual tendencies in animals too. Regardless of how or when gay proliferates, an \"all loving God\" wouldn't hate you, nor the murder down the street, nor Hitler.\n\nIf we accept that there is a God it can not be vengeful.",
+				"added": 1496012952
+			},
+			{
+				"comment_id": 18,
+				"body": "> [planespherev3](#comment_202_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): ply\n\nIf we focus on the core idealisms of all religions God is either all loving or an evil son of a bitch who wants us to suffer for his enjoyment.\n\nIts our responsibility to choose which we interpret. As a catholic, I think God is all loving. Should you or others think God is an evil piece of shit, thats fine. As long as you do good things, your not an enemy of mine, even if your intent was to help.\n\nI don't know if I can make you understand why I think God is all loving, other than I wish and hope that everything I suffered for, everything I lost will be given back to me when I die. I am afraid of just dying and that being the end of me. I hope you understand brother.",
+				"added": 1496013156
+			}
+		],
+		"1_1KAjEoAZg6djJXPT5i4VMRwMZkghqRJ1zC": [
+			{
+				"comment_id": 8,
+				"body": "A S S A D W A V E \n\nhttp://127.0.0.1:43110/1FaRfsHb3uc6dtMMPTfRRiNPvB8txnsMrC/\n\nIts the bees knees to listen while on the zeronet dark weebz exxdee !1!!",
+				"added": 1495854928
+			}
+		],
+		"3_1KAjEoAZg6djJXPT5i4VMRwMZkghqRJ1zC": [
+			{
+				"comment_id": 9,
+				"body": "Stytomaniac makes a point. \nI have never used weed but even I am ok with my friends smoking around me. Its all good man.\n\nThe problem is the few corrupt politicians who wish to continue the \"war on drugs\" and the few ignorant people who think IT is a gateway drug. (and may or may not think Alcohol is ok)",
+				"added": 1495855161
+			}
+		],
+		"11_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 10,
+				"body": "Yeah zeronet is more like a more security relaxed and modern web technology version of freenet.",
+				"added": 1495855660
+			}
+		],
+		"1_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": [
+			{
+				"comment_id": 12,
+				"body": "kaffie is correct, there is a way to clone from 0git.\n\nEven then there are ways to put git repos on zeronet where users who just view your git repo on zeronet can be used to distribute your git repo.\n\neg. if I use something like git2html I can make a git repo/webpage of what I have done in my repo then upload it to zeronet and those who see my repo will also be able to distribute code. However if the repo become gigantic... then we run into some problems :S\n\nMay be using something like git annex or git lfs repos may further help... but can heavily centralize data if not implemented correctly.\n\neg. if I have a gigantic git repo, I can share it here to have a nice UI for all the push and pulls I do, and then share the annex/lfs objects over IPFS.  (but that is... really complex imo and should only be used if you plan to like... put decentralize game git repos)",
+				"added": 1495901648
+			}
+		],
+		"1_1PqLL4biB8q67AMyeDJCYz34EihFDVzXBp": [
+			{
+				"comment_id": 19,
+				"body": "It can be, however people are too stupid to click install so we need more proxies imo.",
+				"added": 1496105415
+			}
+		],
+		"1_16KZw5gzYyBdfuW9HSUZiGHmayCEXunYZU": [
+			{
+				"comment_id": 20,
+				"body": "you can make a board, similar to this one, or make our own leftchan here. I hadn't thought about it but its a simple 1 2 click.\n\nI wouldn't be so quick to say that anarchists dominate ZN because not that long ago there were a bunch of chinese people(they were writing in mandarin but its still an assumption on my part), then before that a bunch of Trump supporters(or alt-right people?), etc. etc.\n\nHonestly, I think ZN is mostly filled with trolls than anything else... but what do we expect from the internet?\n\nI do consider myself an anarchist. Specifically I guess I am an ancom, but thats because I don't trust people like \"band together\" and do good or take care of people. (we should care for one another but that is because I am also a christian)\n\nI like to operate on a distrust model. I assume the worst \"X\" until I see otherwise. (yes, I am aware communism corrupts but I also advocate for allowing watch dog organizations to keep people in government on the straight and narrow path)\n\n> [planespherev3](#comment_213_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Too bad so many anarchists here still believe in representative democracy.  [...]\n\nI wouldn't be so quick to that either. Well again it depends where you are looking at. I certainly wouldn't blame the anarchists to believe in representative democracy because I know from experience that people are lemmings. (the problem of \"mob mentality\" and \"cognitive dissonance\" is strong with our societies and it is dangerous)\n\nThey will follow any \"cause\" so long as you make it relateable or entertaining enough for them. One day they will advocate overthrowing the state, the next... they advocate for \"X\" stupid thing.\n\nLong example... (tl;dr below)\n\nI personally believe we should be like Jesus, basically live humbly and not give a shit about the government.  if you read the part of the bible that talks *specifically* about Jesus and in particularly his disregard for both roman law and jewish law (in matthew, john, luke, and mark), we can actually see that Jesus is acting like an anarchist, he tells us that we shouldn't be concerned with the jewish laws; we should just LIVE peacefully and he rebelled against the jews who thought all 600 laws (however many, idk) there fair and just. (mind you Jesus also told his followers to just pay their taxes but did not really acknowledge the title/power the Caesar held when crucified)\n\nHowever as much as I like Jesus and compare him to an anarchist, we know he was very compassionate, he explicitly told his followers to unconditionally love... However, I have to remember that after Jesus died, the catholic church took christianity all over the place: \"its about sin and we should be sorry (live in penance or spread Jesus via *force*)\", \"no gay is a worse sin than drinking because...?\", \"oh but we should worry about abortions, never mind the bible preaches the opposite of pro-life\"... and many christian people just lose sight of the original idealism that Jesus gives us. \n\nbasically the same shit we see in every god damn religion; love one another... and yet this is so hard for many religious people to do. \n\ntl;dr... I can't think of a better example of a lemming example than the church I grew up in. People think lies just because a priest (a person of \"power\") says its true and do not bother to think critically or understand the truth. (and yes that truth involves even questioning God, we may not be that special or complex)",
+				"added": 1498192749
+			},
+			{
+				"comment_id": 22,
+				"body": "whatever, here you go. A board for talking all things anarchy. (ancoms, ancaps, etc rejoice)\n\nslide to the little \"burger\" (the settings button on the top right hand) to the right and select \"download and help distribute all files\" and we can all just host the damn thing.\n\nhttp://127.0.0.1:43110/1MUdFSVRfzKrW9zvvQbebGk2VDekcYXtW9\n\nIt should work unless... I'm dumb. (which is entirely possible)",
+				"added": 1498450908
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 21,
+				"body": "United States",
+				"added": 1498361691
+			}
+		],
+		"1_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": [
+			{
+				"comment_id": 23,
+				"body": "\" host internet sites that don't get pulled down by different powers in the world.\"\nYou came to the right place friend. The only way to censor zeronet, i2p, and IPFS is if the government begins to censor at the DNS level but even then, these systems can still work with ease if they decide to remove DNS records, censor IP ranges, and what not.\n\n\n\"I don't know if ZeroNet itself is the future or some other solution but I am really interested in the way it works with it's decentralized solution.\"\nYeah zeronet isn't the only solution. I personally would love it if freenet won this war because it does not require the use of javascript... but where I live, my ISP will slow me down the instant I start running it.\n\nWhichever wins it will have to be a very adaptable and modular system. I agree.",
+				"added": 1503173050
+			}
+		],
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 24,
+				"body": "Since Zeronet is peer to peer do we really need it to distribute content? people that like things just need to click a little button to distribute content.\n\nWhat this would be for is for content providers I assume? \n\nbut in that case I think a zeronet version of say like patreon would suffice.\n\nWhat other usecases would enabling a miner in the browser really do for Zeronet or people that make content?",
+				"added": 1506361081
+			}
+		],
+		"1_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 25,
+				"body": "You guys need a way to submit bugs and the like.\neg. This video plays nice BUT when I click the download link, something you are running is concatenating your link to download videos. \nhttp://127.0.0.1:43110/kopykate.bit/?Topic:4_1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC/Beep+Beep+I+m+a+Sheep+Minus8+Version#\n\nThe video says the link is https://www.kittyseedbox.tk/kittify/uploads/Beep%20Beep%20I\nbut in reality the full url is https://www.kittyseedbox.tk/kittify/uploads/Beep%20Beep%20I'm%20a%20Sheep.mp4.torrent",
+				"added": 1506361414
+			},
+			{
+				"comment_id": 26,
+				"body": "> [orien3242](#comment_25_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP): You guys need a way to submit bugs and the like.eg. This video plays nice BUT when I click the download link, something you are running is concatenating your link to download videos.http://127.0.0.1:43110/kopykate.bit/?Topic:4_1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC/Beep+Beep+I+m+a+Sheep+Minus8+Version# [...]\n\nNevermind I did not read... :x",
+				"added": 1506361450
+			}
+		],
+		"1511956110_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": [
+			{
+				"comment_id": 27,
+				"body": "I would alos love to see i2p support but I remember a joke I'd like to share, IDR who said it but it was on I2P IRC.\n\n\"You either develop for I2P or get paid.\"",
+				"added": 1512354581
+			}
+		],
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 28,
+				"body": "on it.",
+				"added": 1512354622
+			}
+		]
+	},
+	"comment_vote": {
+		"8_1HxiFjyEUfLeqvXza7TqV1h4mpo167JnrL": 1,
+		"19_1AZG3avnpwcn37q9eeCEjXKFBye81eAxg5": 1,
+		"1_1KAjEoAZg6djJXPT5i4VMRwMZkghqRJ1zC": 1,
+		"336_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"15_13Zs1NLz7LS9NsWtaQLwBmUZEXfz1i3agg": 1,
+		"63_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"338_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_19pNrZbnLjLmrvT58rRhhabTS6BE7nyP4E": 1,
+		"924_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"69_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"366_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"2_19nnrnW6z3bd5zwdmw1mspxauqY4Eram85": 1,
+		"214_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1,
+		"2_18ts75nBNcXqWm6edB8pzn6Hr34JVUCrfx": 1,
+		"2_1BQaDuyXqze4tNXucqvbz3yUVkysxCoeni": 1,
+		"68_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"26_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"3_1BXrm8Bwf3e4DPasJ5L3txhjqhmwhcVdtm": 1
+	}
+}

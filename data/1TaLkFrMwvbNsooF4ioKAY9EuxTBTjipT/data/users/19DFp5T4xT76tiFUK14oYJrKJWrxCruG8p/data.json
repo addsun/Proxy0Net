@@ -1,0 +1,46 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Hey! I have a question: I've tried to create a zeroid behind a bad connection and it couldn't complete. (My current name is not the one i wanted) Now in zeroid the name is marked as taken but I don't have a privatekey for it... is there a way to solve this?",
+				"added": 1498123685
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_928_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It should recover it if you visit zeroid site with same users.json loaded to your client.\n\nThe problem is that I never had the correct users.json to that ID because of the bad connection. I entered the name on zeroid hit confirm and got an error message. I've refreshed the site and suddenly the name was taken...",
+				"added": 1498134778
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_929_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Please check if your username is in: http://127.0.0.1:43110/zeroid.bit/data/users.json [...]\n\nNope it's not there. But when I search for it on zeroid.bit it says the name exists.",
+				"added": 1498232450
+			},
+			{
+				"comment_id": 4,
+				"body": "> [nofish](#comment_930_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Hmm strange...maybe in http://127.0.0.1:43110/zeroid.bit/data/users_archive.json ? (bit this means it was registered at least 1 month ago)\n\nYea I tried to register this name over a month ago. It's in that list but the address after `web` doesn't match with the `auth_address` for the zeroid.bit zite... is there any way to recover this?",
+				"added": 1498480558
+			},
+			{
+				"comment_id": 5,
+				"body": "> [akito](#comment_81_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): There is an open network project which lets you connect to all internet without using an ISP. But this requires someone in your vicinity to have one of those internet access suit cases to be active.\n\nHow is that project called?",
+				"added": 1500301429
+			},
+			{
+				"comment_id": 6,
+				"body": "> [akito](#comment_91_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I just googled \"free internet suit case\" and found many results. Recommend you to do the same. [...]\n\nOkay thanks :)",
+				"added": 1500301736
+			}
+		]
+	},
+	"comment_vote": {
+		"81_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"91_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1
+	}
+}

@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLBEFTQnsmDZxO6JbX/dTZYqjh701iwnLH3vgFzP0pQUR4eYDp/+WGiph22WnkWRS09DYQxo4fago56u9hfCYs0=",
+ "cert_user_id": "frostibite@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4e313dd60a5f0c0ee78ca76cc754bc2058521e70a0d7965788a05b91ef06bf69",
+   "size": 1249
+  },
+  "data.json": {
+   "sha512": "3f61c54ab96577567059ab155127de16295f374d99a090c5cc53a27590e6c3de",
+   "size": 1027
+  }
+ },
+ "files_optional": {
+  "1507410912.jpg": {
+   "sha512": "78a80aeb2408259e7f5c52a8ad08e00e577ab72fa7de4281fbc3692db8e1fa5b",
+   "size": 65060
+  },
+  "1507412678.jpg": {
+   "sha512": "d9e3f8dabe17d3522d050e7540741d43c8e70d6d3c05f7bcf49ef28dbfb9cf21",
+   "size": 51756
+  }
+ },
+ "inner_path": "data/users/1QBKKLUYe3NzjGPQkYzfGL6k4m9rBY4Dar/content.json",
+ "modified": 1507412675,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1QBKKLUYe3NzjGPQkYzfGL6k4m9rBY4Dar": "HLMcyrcfCO6YM1TXD3PeOXgwUbWm3z6xgdTARySAM/4YVF00ITp5wTXakrD7hEYKQoZIo85Fdh4q4Dk9zzGiTC0="
+ }
+}

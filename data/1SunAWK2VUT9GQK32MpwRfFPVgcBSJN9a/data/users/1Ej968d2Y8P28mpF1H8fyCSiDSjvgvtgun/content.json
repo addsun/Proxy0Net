@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4Bd38YH4WVFoLIsUFbb0/Xn6J9vyxEJNvDCDpDrGHUe3sa4I4BKm9U6cLCIXJiwZkYq/kzIyq1wTlrkNHGoaH4=",
+ "cert_user_id": "paulmwatson@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4ecce5b040038a36dd4410afda1c5a97f0542160ea86d37f42218fe72a292e15",
+   "size": 1322
+  },
+  "data.json": {
+   "sha512": "8e587cc137e283cf182d756e86c840fabf7591c820a9c78a1385927aefd1a093",
+   "size": 352
+  }
+ },
+ "inner_path": "data/users/1Ej968d2Y8P28mpF1H8fyCSiDSjvgvtgun/content.json",
+ "modified": 1507620897,
+ "signs": {
+  "1Ej968d2Y8P28mpF1H8fyCSiDSjvgvtgun": "G+b1KJpLFokDLql4ZZI2s4cT86rOmqxr6YanZaCPnjV0Xd4SoAghWkM/s17mWlEIq4H1yNXEMk805n4l9w0jhRI="
+ }
+}

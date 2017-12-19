@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKxMP63dtFBTAx0X3eIvQI12zFEGgkeFYwsXm5SvnWUG9VRa7X0yPxbpmMGbxR3QKuUxBd1EPXsk+hSQe+DPdUU=",
+ "cert_user_id": "ccpdie@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7f4a605cba9ee79baf62fde2426cea9241a124cb68f21d91184f441aff1a9752",
+   "size": 9162
+  }
+ },
+ "files_optional": {
+  "1509709801.jpg": {
+   "sha512": "9dc93af7273e7724295095e46fd2ef86035285467bce07d66a39e092a06ec875",
+   "size": 118424
+  }
+ },
+ "inner_path": "data/users/17WwWy4s3QHu1sB9B5hRSHYf31TMkyPQZP/content.json",
+ "modified": 1510039579,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17WwWy4s3QHu1sB9B5hRSHYf31TMkyPQZP": "HHue646bFuz4tTnpsu38ZatlJjcvSCN++q+dqTuTWknKafd8rOiRL+pI1ya6931r6iH5EptstGGTb6+j59zuFX0="
+ }
+}

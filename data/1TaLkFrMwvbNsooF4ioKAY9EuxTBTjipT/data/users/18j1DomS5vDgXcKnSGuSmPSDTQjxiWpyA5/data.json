@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1510499714,
+			"title": "I created a new blog platform written from scratch using Vue.js and Bulma",
+			"body": "Key features:\n- Mobile friendly\n- Endless newsfeed (no pages) with dynamic post appending when the page bottom has been reached\n- Editable posts and comments\n- Post editor supports uploading of images, videos and audio files\n- Filtering by last comments and most liked posts by day, week, month, year or all the time\n- Direct links to posts are available (click on the post date to get it)\n- Vertical wrapping of long posts\n- Easily clonable\n- Site title and description configurable via content.json file (or via the sidebar)\n\nFeel free to clone: http://127.0.0.1:43110/1J2ZJjs97wEcW36x5d9f1QnPVPVDv8wbJ/",
+			"added": 1510499713
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": [
+			{
+				"comment_id": 1,
+				"body": "> [gitcenter](#comment_22_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Nice! Could you please upload it to Git Center? gitcenter.bit\n\nAll done. Please, check: http://127.0.0.1:43110/173jgCe7oqQQAG8V4dNEDyHY4mFFWJKF1Q",
+				"added": 1510507952
+			},
+			{
+				"comment_id": 2,
+				"body": "> [gitcenter](#comment_23_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Yes, it works now. Thanks! BTW, I suggest you to change link to http://127.0.0.1:43110/173jgCe7oqQQAG8V4dNEDyHY4mFFWJKF1Q, so that site is downloaded by ZeroNet before opening.\n\nDone.",
+				"added": 1510509132
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G9S+HXarGYm3rfYKwL+UUkBpN09L0nFE12k05jhpeEP+GG3+OPZ8N2zl8IoIQ1JrDvVh1iLibwuciYYswUfT2+g=",
+ "cert_user_id": "vicentergm@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5e1ac667d66ca40691228e267389f5f3c1fd12ab8a934b3bd4b56e3db8b520d3",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1FKdB64Zyzq3QQCGFk2Q6TfrAs6g8ECrDk/content.json",
+ "modified": 1505787884,
+ "signs": {
+  "1FKdB64Zyzq3QQCGFk2Q6TfrAs6g8ECrDk": "G25lX2aA6zhf5iHGRuq2BAXqrOJHLRXuEaj2kgxnZUiFa+eL6Zg88U2y3RmyQv5QZVFEWKv3c13yKFyeDjoRdCA="
+ }
+}

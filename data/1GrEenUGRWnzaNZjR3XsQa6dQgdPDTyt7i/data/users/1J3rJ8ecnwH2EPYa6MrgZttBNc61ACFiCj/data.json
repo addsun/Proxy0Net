@@ -1,0 +1,196 @@
+{
+	"next_comment_id": 29,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_4": 1471540632,
+		"1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR_2": 1471628798,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_5": 1471777875,
+		"17uX92w4VUjxjS9Quq2Es5JdXEMehvzs6g_1472273518": 1472290027,
+		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649": 1476059232,
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476194416,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461645": 1476493034,
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479583253": 1479585902,
+		"152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479672200": 1479680936,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1482432384": 1482447641,
+		"1EmKu3AxsUduZzr99SryZbfcPrihsZV9mg_1483773978": 1483795560,
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1484303454": 1484306798,
+		"1GgXbWMo4NkVQNKbLJFvEephA9rPLp9j2P_1485263771": 1485268125,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1485447883": 1485449349,
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1487522556": 1487523302,
+		"1JonCWijFbp7FP2HKYDUic3CoWkBcVwmc8_1488104458": 1488104476,
+		"13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy_1488676800": 1488682161,
+		"16GMXUiefH9e271vTdr5h41WHkXKPS7ceY_1488883651": 1488885313,
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1489466676": 1489480390
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You can check it easily by entering this to javascript console: Page.cmd(\"dbQuery\", \"SELECT COUNT(*) AS num FROM follow WHERE user_name = 'Nofish'\", function(res) {console.log(res[0].num) })\n176 (164 for Kaffie)",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367247
+		},
+		{
+			"comment_id": 2,
+			"body": "@Alex (Bwoi): It depends on the connected hubs, there is no way to retrieve the real number.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367637
+		},
+		{
+			"comment_id": 3,
+			"body": "@Alex (Bwoi): Somone already did that before",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367682
+		},
+		{
+			"comment_id": 4,
+			"body": "@Alex (Bwoi): The hubs are not connected, mine is also not real number I only get connected to 3 hubs",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_10",
+			"date_added": 1471367885
+		},
+		{
+			"comment_id": 5,
+			"body": "@Fav: ZeroNet if full P2P, there is no need of servers for hubs. Everyone who is downloaded or interacted with a hub he/she is also hosting every profile on it. So the hub only go down if every people shut downs it's computer at same time. That's already means hundreds of computers (and the number increasing every day), so in the reality there is no real chance for any downtime.",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_4",
+			"date_added": 1471540448
+		},
+		{
+			"comment_id": 6,
+			"body": "Thanks again, I hope you can develop something from it",
+			"post_uri": "1JbpzmuMPCg5tQEW8kstHhAtZbckwgXVnR_3",
+			"date_added": 1471639346
+		},
+		{
+			"comment_id": 7,
+			"body": "@Jayofthezero: Just added post and comment height limiting, but yeah, it's better post longer texts in a blog",
+			"post_uri": "18WFCAqYM3Kdhm5qskvR1rS3REQVZGjiHe_2",
+			"date_added": 1471997660
+		},
+		{
+			"comment_id": 8,
+			"body": "@tkarita: nope, it's bad computer time",
+			"post_uri": "1DMBWEfQdEaRtsWEwZLY98b9t1ZcoG2ECM_1472404861",
+			"date_added": 1472407136
+		},
+		{
+			"comment_id": 9,
+			"body": "No, the ZeroTube connections are handled by the browser, so ZeroNet does not have effect on that",
+			"post_uri": "17gEFavobc7RsKNGbSzZwoSZ6jNB7hT2KN_1472979910",
+			"date_added": 1472980922
+		},
+		{
+			"comment_id": 10,
+			"body": "0.4.1 is focused on startup time optimization and also reduces memory usage. I doing some more testing, then I will put the changes on ZeroBlog + update button for ZeroHello",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473091458",
+			"date_added": 1473093980
+		},
+		{
+			"comment_id": 11,
+			"body": "Dios: Hub switching not officially supported yet",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1473091458",
+			"date_added": 1473094263
+		},
+		{
+			"comment_id": 12,
+			"body": "It was fixed yesterday, please update your zeronet using the 3dot menu on zerohello > \"Version 0.4.1...\" menuitem",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1473207573",
+			"date_added": 1473211704
+		},
+		{
+			"comment_id": 13,
+			"body": "@Balancer73: relative link does not works for everyone (eg if you use chrome extension that maps sites to normal domains), but if you use http://127.0.0.1:43110/Talk.ZeroNetwork.bit/ it always transformed to the right format.",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475580686
+		},
+		{
+			"comment_id": 14,
+			"body": "@Balancer73: for example I accessing this site using http://me.zeronetwork.bit/ if you use relative path it will points to http://me.zeronetwork.bit/talk.zeronetwork.bit which obviously will not work",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1475537144",
+			"date_added": 1475593524
+		},
+		{
+			"comment_id": 15,
+			"body": "For US I use [SSDNodes](https://lowendbox.com/blog/ssdnodes-openvz-ssd-vps-starting-at-30year-dallas-tx-montreal-ca/) [HostUS](https://lowendbox.com/blog/hostus-openvz-vps-plans-starting-at-12year-in-us-eu-and-asia/) and [Vultr](http://www.vultr.com/?ref=6955457-3B), for EU [Arubacloud](https://www.arubacloud.com/vps/virtual-private-server-range.aspx)'s 1EUR/mo is unbeatable.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475692694",
+			"date_added": 1475698268
+		},
+		{
+			"comment_id": 16,
+			"body": "Here is my benchmarks using a huge zeronet content.json file: https://github.com/HelloZeroNet/ZeroNet/issues/98#issuecomment-244796124",
+			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1475868414",
+			"date_added": 1475869287
+		},
+		{
+			"comment_id": 17,
+			"body": "You can see the SQL queries for ZeroMe in the dbschema.json file. (feeds node)",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476358853",
+			"date_added": 1476385613
+		},
+		{
+			"comment_id": 18,
+			"body": "There is a half-working pull request for it, but the problem is even if its working you wont be able to reach any current sites with it, since i2p has no possibility to talk non-i2p peers.",
+			"post_uri": "1MzWT1C1LwRZmABNthcryXfsVKxP6Si5Ev_1476560501",
+			"date_added": 1476695877
+		},
+		{
+			"comment_id": 19,
+			"body": "if you running in tor always mode or without opened port, then it could take some time to generate new hidden service for every site",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478692928
+		},
+		{
+			"comment_id": 20,
+			"body": "@MilitaryRiotLab: Then i dont think its related to zeronet",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478693588
+		},
+		{
+			"comment_id": 21,
+			"body": "try `coffee  --no-header -p ZeroMe.coffee`",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1484378902",
+			"date_added": 1484387479
+		},
+		{
+			"comment_id": 22,
+			"body": "`zeronet.py siteSign mysite myprivatekey --publish` works here (you don't have to add [] characters it means the parameter is optional)",
+			"post_uri": "153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k_1486023966",
+			"date_added": 1486028251
+		},
+		{
+			"comment_id": 23,
+			"body": "@Nekololi: ZeroNet does not modifies your browser's settings, so if someone includes a non-zeronet resources in the site, then it could leak your ip address.",
+			"post_uri": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1489466676",
+			"date_added": 1489510141
+		},
+		{
+			"comment_id": 24,
+			"body": "It's working for me. There was an error with the Multiuser plugin, but it's fixed in the latest version.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1504710461",
+			"date_added": 1504728815
+		},
+		{
+			"comment_id": 25,
+			"body": "@Elspru: Actually you need to update the UiRequest.py file: https://github.com/HelloZeroNet/ZeroNet/commit/bfd3d18a10e3cceddf88946dd4567e51acfd7200",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1504710461",
+			"date_added": 1504825436
+		},
+		{
+			"comment_id": 26,
+			"body": "Thanks, fixed!",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1510149585",
+			"date_added": 1510216846
+		},
+		{
+			"comment_id": 27,
+			"body": "Thanks for reporting, I think I cleaned up the hubs i have. I think the right solution would be shared/subscribable mute list.",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1512575883",
+			"date_added": 1512580875
+		},
+		{
+			"comment_id": 28,
+			"body": "@Git Center: Every spam list would have one maintainer, so he/she would decide who is going to be added.",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1512575883",
+			"date_added": 1512581165
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKDhsloS4vnjxvPft/+nIrDlF/PRqBDq9PpAskjujNGd/REK/etAsegajRpMOYXRTQyja5LMaftIhEwMVA/PTjM=",
+ "cert_user_id": "forestree@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "95259afb0a4abe1f88f11855a0d1cce5d0bc09637083163aaa68d7955c646ff8",
+   "size": 1183
+  },
+  "data.json": {
+   "sha512": "6e3c13453bdac7e6fbc926f5c1c2c1817b9214b8a8713ca6ed1f1733f314a1a3",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/16M32Yo79s3joGgDJabSCSC4D5fS3gB5Ue/content.json",
+ "modified": 1491052972,
+ "signs": {
+  "16M32Yo79s3joGgDJabSCSC4D5fS3gB5Ue": "HMhph0UOFnuK+aULwl1HrgGWwccaFZ2saciv8RoYBRQODgurtGK4XszdxxIa1dx7ndLi+aQFEDIDY+kiLsER0O8="
+ }
+}

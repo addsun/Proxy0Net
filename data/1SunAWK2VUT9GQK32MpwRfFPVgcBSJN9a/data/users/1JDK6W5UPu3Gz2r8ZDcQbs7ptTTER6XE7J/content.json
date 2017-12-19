@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2m5TA4/poJQZXId6IutK678cOJpPmLNLkqOFF3pb5Um+Ci8eGuebdXeSkscHiTWbzdQhwKy0aK2YylZn3LLUwI=",
+ "cert_user_id": "frontier@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fc4af032f266ea321ae250242250d6354eeed9a0aa9dde85d4786b4ff9fc7623",
+   "size": 256
+  }
+ },
+ "inner_path": "data/users/1JDK6W5UPu3Gz2r8ZDcQbs7ptTTER6XE7J/content.json",
+ "modified": 1504312622,
+ "signs": {
+  "1JDK6W5UPu3Gz2r8ZDcQbs7ptTTER6XE7J": "HAMtHKx+3hS6+xZfWqnJH/m1RZeLIrQMlAJtjl/f/4wLNcZlPjqaWo2z1FrlUFwoO1j6TeaN6vUqqbuYq0BuXRE="
+ }
+}

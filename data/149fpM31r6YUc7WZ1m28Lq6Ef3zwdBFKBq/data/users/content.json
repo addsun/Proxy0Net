@@ -1,0 +1,34 @@
+{
+ "address": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+ "files": {},
+ "ignore": ".*",
+ "inner_path": "data/users/content.json",
+ "modified": 1510164161,
+ "signs": {
+  "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq": "HJSnO08+lHRyxVjP0BWDo9ZqcV3GJZdiHU3AcItq3DhOU4iwK0KQZhQba/hzztMq3aPJtbFiiPhI+zxvWXvKz1o="
+ },
+ "user_contents": {
+  "cert_signers": {
+   "zeroid.bit": ["1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz"],
+   "zeropolska.bit": ["1GzEG1Hz82KMUp925PntbrhR7FoDZ4fRCF"]
+  },
+  "permission_rules": {
+   ".*": {
+    "files_allowed": "(data.json|avatar.jpg|avatar.png)",
+    "max_size": 20000000
+   },
+   "bitid/.*@zeroid.bit": {"max_size": 20000000},
+   "bitid/.*@zeropolska.bit": {"max_size": 20000000},
+   "bitmsg/.*@zeroid.bit": {"max_size": 20000000},
+   "bitmsg/.*@zeropolska.bit": {"max_size": 20000000},
+   "web/.*@zeropolska.bit": {"max_size": 10000000}
+  },
+  "permissions": {
+   "antyhrabia@zeroid.bit": {"max_size": 20000000},
+   "banexample@zeroid.bit": false,
+   "bbxxx@zeroid.bit": false,
+   "doom1@kaffie.bit": false,
+   "doom1b@zeroid.bit": false
+  }
+ }
+}

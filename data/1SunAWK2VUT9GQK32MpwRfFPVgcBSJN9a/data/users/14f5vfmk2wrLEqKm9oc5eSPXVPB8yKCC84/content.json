@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6zZm/2vYb+HnmzPlsc+MxmkWgafXWqbwhM1kK1U8XMZ2tOJNc1wKdMekAZttyM1uRRewCu3mXNlaXR/eIgmreY=",
+ "cert_user_id": "fakestate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad175f57c9d1a297f1ab1b7459af59ea92fff008bbea46d62062509458001ccc",
+   "size": 353
+  }
+ },
+ "inner_path": "data/users/14f5vfmk2wrLEqKm9oc5eSPXVPB8yKCC84/content.json",
+ "modified": 1502152211,
+ "signs": {
+  "14f5vfmk2wrLEqKm9oc5eSPXVPB8yKCC84": "GwK++RmIdEItmjhAmUBB2hQ1a2iIvjl65q5zxXNPRcotTJuEwZnOKrN/5Z/kyI8ag6zZBnx2wd65MgFcwlsE3qY="
+ }
+}

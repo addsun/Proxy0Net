@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G08LLz0GMWjEFBAvYFapVZ6JhCDbgSCRv34fiA9c0d0gwKVOgBnEjhUOHMXrmh2Gcp2aEMUU5NI9H4fjPdwMPkE=",
+ "cert_user_id": "yalta@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c71b744496d320caa646f7744a2d237d8ec3ad8f8e0dc7f806645604755cbd3d",
+   "size": 714
+  }
+ },
+ "inner_path": "data/users/1GMNk868ZHY7Civ4KVvziuHY3j4hXP9W9d/content.json",
+ "modified": 1508937030,
+ "signs": {
+  "1GMNk868ZHY7Civ4KVvziuHY3j4hXP9W9d": "G6l45VJIQmtg1Vj/dFym+CiC+AdjlBVQ6FQYA0hTPPF6YzA0CKyFalueY0gNZfYMIxmJQCOMS3eMpXHVOkoSWTo="
+ }
+}

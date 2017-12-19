@@ -1,0 +1,48 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HIe42BS6qGip7mbPooGH3ajM5zFg8mQkIdkUw669hwmkruIHEITnMbelVYyaNlYHv/D9jfY8AuHTX8UmMxc2NoQ=",
+ "cert_user_id": "zerobunker@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "19d04ccdd3cb11c8ca2f2bc31f7bca918988a51f5c2963ce1d514520149e5756",
+   "size": 1689
+  },
+  "data.json": {
+   "sha512": "a1d76ee3b0e7f5843fe7b8f0464868bc1cac8cc7f8227b9aaf8b4e2b8fb6e60c",
+   "size": 27223
+  }
+ },
+ "files_optional": {
+  "1478644606.jpg": {
+   "sha512": "d37f761398237f9523abd14a5d1818b7a74c23f8467992d9244c8266c49e112e",
+   "size": 98860
+  },
+  "1479661119.jpg": {
+   "sha512": "b70f5154fe85c173d8191ca1a6873bbb65ff954174662dc5cc331b7bfab023d0",
+   "size": 26268
+  },
+  "1480117971.jpg": {
+   "sha512": "8f8526d24a723dd253c957df7062195c0c552f36e188a205d397f7c28f38f8ec",
+   "size": 60686
+  },
+  "1480118082.jpg": {
+   "sha512": "e637ff3fe5bfef299e9d776af0c0157445046b626536fc37210b6540cf4636f5",
+   "size": 61281
+  },
+  "1495738519.jpg": {
+   "sha512": "c9d923ec158af9090783f8b546bc828bd1ea36f69489efbf2ed4eb97b661659b",
+   "size": 128151
+  },
+  "1495738531.jpg": {
+   "sha512": "d777ea990f078981347e60a796f1ead71f1ebf0e35af52d77394bbe8d26283f1",
+   "size": 144673
+  }
+ },
+ "inner_path": "data/users/168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar/content.json",
+ "modified": 1511019772,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": "G9PMIkV0HRrPG3XdlQeUjg4/18utOAYNJiolylcpbjuPKzPnzGWWoOWd71gUXYL+qQHEeEK6+7IYSHGPoqtqCB0="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G17FZD0C9eQDJ+s56zTcImQEgSmFyx9l7VJo3lod51f7EZexMGVK+2FGm03RiNXCf1A1MKiDarVZ7mBLhd6ibNQ=",
+ "cert_user_id": "lordkek@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "19a9bb39247f7123ec1660898cefd47c9429f5d8ad2496f5638683a7c664ee3c",
+   "size": 2375
+  },
+  "data.json": {
+   "sha512": "ea9967e7b78794cf8d3e2d888fbb9d113c447876e57696b3eb9587b528eed75b",
+   "size": 2594
+  }
+ },
+ "inner_path": "data/users/1Hn5frMvNWoAmb4Vz38R2KuiWcEdxjiZbi/content.json",
+ "modified": 1509378656,
+ "signs": {
+  "1Hn5frMvNWoAmb4Vz38R2KuiWcEdxjiZbi": "GzTM2ZY1M27za7rrRElcHFKXqrLLSvfSsGtd636gvzNlJDcz1h/IQykCl4xCdl10EwLUDv91DYXHUpbTnsm2v5Q="
+ }
+}

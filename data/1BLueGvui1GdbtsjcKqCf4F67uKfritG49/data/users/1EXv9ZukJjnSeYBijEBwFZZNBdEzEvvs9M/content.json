@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G0rw4j1NUUGazUOJzvS7QbXR9eKz3HfEsfnZE1iZy3kP4nT1sxfBUSL5hTpalLOhBfXQ22uGz4VKqnQ0/lC/aN4=",
+ "cert_user_id": "parkour86@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1e154f41087a1a60ff5682a2eef145d1fa1d9a9f3a3c3c59bc0a275164485229",
+   "size": 530
+  }
+ },
+ "inner_path": "data/users/1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M/content.json",
+ "modified": 1513569464,
+ "signs": {
+  "1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": "GwhDI+uisryfvaNvtWEGGuViDjnFceHArchqw79mysqcP2LXOi04b9BvMrYnKLznn3YSaBysD9XMUYPq+3ZYmt4="
+ }
+}

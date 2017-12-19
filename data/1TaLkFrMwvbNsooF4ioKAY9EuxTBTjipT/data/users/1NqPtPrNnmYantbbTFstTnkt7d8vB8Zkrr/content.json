@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G9Pood8BNVI9PvkYCLnnIfVlDTAOq1f/TPTfzfHBU4NEvRQgHR/OdC2ebpnNF51UTi0VyTob+spCYSb1trYrnU0=",
+ "cert_user_id": "iusepython@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cba4ee0fbbef3935e668694e5563db87bf1a8838036696d36204b738a83dce73",
+   "size": 837
+  }
+ },
+ "inner_path": "data/users/1NqPtPrNnmYantbbTFstTnkt7d8vB8Zkrr/content.json",
+ "modified": 1511629463,
+ "signs": {
+  "1NqPtPrNnmYantbbTFstTnkt7d8vB8Zkrr": "G1R3IDyFmZwoyJZUa2/2ld8ZiFEIDkRsdL+D/2ukIkEsFksefcx/kdIEe8/thyzA2bOtDRWEMzOoeBBqga8m9EY="
+ }
+}

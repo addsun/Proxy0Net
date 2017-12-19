@@ -1,0 +1,150 @@
+{
+	"next_post_id": 16,
+	"next_comment_id": 11,
+	"next_follow_id": 1,
+	"avatar": "png",
+	"user_name": "Schwindlig",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1511435020,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1511463994,
+			"body": "zeronet还有很多bug，头像传23K动画大图，账号卡死，发不了贴了。可能是更新大文件头像出问题。",
+			"date_added": 1511463992
+		},
+		{
+			"post_id": 1511543296,
+			"body": "zerome不加入hub，数据库只在有新消息时才写入数据。很奇怪的设计。",
+			"date_added": 1511543293
+		},
+		{
+			"post_id": 1511610283,
+			"body": "好热闹啊",
+			"date_added": 1511610279
+		},
+		{
+			"post_id": 1511627152,
+			"body": "zeronet的主要问题还是怎么减少没有用的信息，在自己的电脑上。",
+			"date_added": 1511627147
+		},
+		{
+			"post_id": 1511867929,
+			"body": "test\n",
+			"date_added": 1511867923
+		},
+		{
+			"post_id": 1511867941,
+			"body": "test2",
+			"date_added": 1511867934
+		},
+		{
+			"post_id": 1511868036,
+			"body": "马屁，pia pia的。",
+			"date_added": 1511868028
+		},
+		{
+			"post_id": 1511868083,
+			"body": "互相拍马，最为致命。",
+			"date_added": 1511868074
+		},
+		{
+			"post_id": 1511868364,
+			"body": "死罪是人定的",
+			"date_added": 1511868354
+		},
+		{
+			"post_id": 1511868435,
+			"body": "真正的法则，不是人定的法则。",
+			"date_added": 1511868424
+		},
+		{
+			"post_id": 1511868723,
+			"body": "往往喜欢给别人灌输错误思想的人，最喜欢指点江山。（其实自己也只是一个市井小人罢了）",
+			"date_added": 1511868711
+		},
+		{
+			"post_id": 1511869279,
+			"body": "好热闹，其实都是我自己一个人发的。XD",
+			"date_added": 1511869266
+		},
+		{
+			"post_id": 1511872428,
+			"body": "为了写点什么而写点什么最为无耻。嘿嘿",
+			"date_added": 1511872414
+		},
+		{
+			"post_id": 1511872651,
+			"body": "人无完人，都干了，就该离开这个世界了。",
+			"date_added": 1511872636
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "up",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1",
+			"date_added": 1511439425
+		},
+		{
+			"comment_id": 2,
+			"body": "@Vea: apng",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511463994",
+			"date_added": 1511543582
+		},
+		{
+			"comment_id": 3,
+			"body": "@Vea: [click me](https://ezgif.com/gif-to-apng)",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511463994",
+			"date_added": 1511612464
+		},
+		{
+			"comment_id": 4,
+			"body": "@Joker1024: \n* 那是不是也可以把不同人的信息当成一个新的网站，可以选择全下载，或选择只下载关注的账号。\n* zerome账号名全下载，账号实际内容，自己选择。",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511627308
+		},
+		{
+			"comment_id": 5,
+			"body": "@Joker1024: 屏蔽就不下载了，只下载他的账号名，如果不屏蔽，又在下载指定中，就下载。",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511627558
+		},
+		{
+			"comment_id": 6,
+			"body": "@Joker1024: \n* 原理简单，生活中也常见。就是先下载全部zerome的用户账号\n* 所有账号下的内容，自己选择下载。\n\n就是目录机制，目录必须下，内容自选。\n* 用户账号关注链，如果下载了一个账号，与这个账号相关联的账号的关系图也下载下来，但不下载内容\n* 而目录与目录的关联，也只下载与选择了用户账号相关的",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511627693
+		},
+		{
+			"comment_id": 7,
+			"body": "@Joker1024: \n* 想减少不需要的内容，只有`关系目录机制`。\n* 把整个地球网络看成一个大内存，分`关系目录机制` ,然后需要什么，再根据`关系目录`去调用，不用的再根据`关系目录机制`去掉。",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511628365
+		},
+		{
+			"comment_id": 8,
+			"body": "所以说，zeronet的机理很好，可以实现，是不是可以用c写，性能更好呢？\n* 其实，zeronet并没有失去后台操作，只是不同于www的后台操作罢了。\n@Joker1024: ",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511628892
+		},
+		{
+			"comment_id": 9,
+			"body": "* 把地球所有cpu都看成地球内存的一部分，调用良好，是科技发展的下一大步。\n* 每个人操控的不再是局限自己的cpu周边资源，而是免费的操控全世界的cpu周边资源。\n* 现在的www管理机制，限制了这种进步。\n* 也许有一天这种机制会被加入到操作系统内核里，形成真正的全球公用操作系统。是不是可以说是网络操作系统？（或许可以是一种系统内核可选插件，类似于网络系统驱动）\n#但这操作系统必须要建立在低耗能上，让所有抵挡机器也能用，而不是像win10，我这样的电脑就不能用了。",
+			"post_uri": "14ad2Chdx2PpNzhPjWn6VjzwTQSzbtSmyS_1511627152",
+			"date_added": 1511629573
+		},
+		{
+			"comment_id": 10,
+			"body": "👀 ",
+			"post_uri": "19XZiVHQpZbjauaB4oX6FFE4zj1g4kRbc8_1511845422",
+			"date_added": 1511872725
+		}
+	],
+	"follow": []
+}

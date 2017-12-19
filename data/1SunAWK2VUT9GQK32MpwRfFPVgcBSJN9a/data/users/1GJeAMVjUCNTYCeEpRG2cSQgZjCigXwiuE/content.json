@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GxV3TO4QHA1ouOwNsQdWk6HL/D/jAcwxP4mnzXG1R283d//X5UzpcDsGyDhXx0r2+Bw/FZLAHtLu/shdIBPOBHg=",
+ "cert_user_id": "patriotek@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "299c44a66262a039416976e3b0fd1faf692b0da3c003c0f7e186e44033e2f16d",
+   "size": 867
+  },
+  "data.json": {
+   "sha512": "1b3d80145c4afc91fecddbf65006f8c0772b84e6422b45e3fb8e4be7e389ac77",
+   "size": 335
+  }
+ },
+ "inner_path": "data/users/1GJeAMVjUCNTYCeEpRG2cSQgZjCigXwiuE/content.json",
+ "modified": 1510815223,
+ "signs": {
+  "1GJeAMVjUCNTYCeEpRG2cSQgZjCigXwiuE": "HNI7+99L77nsUI+YhuGVXFFsAuEGfiykW9W+7E/JDX2TenuBv4HGl82LzoADd+MJE4twsA4vbxDh0Iv3FGpx0j8="
+ }
+}

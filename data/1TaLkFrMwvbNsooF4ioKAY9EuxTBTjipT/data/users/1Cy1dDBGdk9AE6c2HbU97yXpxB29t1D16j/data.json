@@ -1,0 +1,80 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroMe/Hubs documentation?",
+			"body": "Is there documentation somewhere about ZeroMe and hubs? How they interact, what hubs are for, what the advantages of running your own hub are, what distinctions do individual hubs have, etc?",
+			"added": 1507681923
+		},
+		{
+			"topic_id": 2,
+			"title": "Persistent file update failed on some sites",
+			"body": "Why do some sites (eg. ZeroTalk, ZeroMail) have persistent \"2 file update failed\" messages? Looking at the missing files in the sidebar they show as 'user' files. Is there some way of setting these to be ignored if they're always going to appear? Otherwise I see a future where all my sites have the warning symbol and I ignore everything.",
+			"added": 1507682051
+		},
+		{
+			"topic_id": 3,
+			"title": "Sharing user id's across ZeroNet instances?",
+			"body": "Is it possible to use a ZeroId on multiple ZeroNet instances? Will there be any clashes if on one instance I access ZeroTalk with that user id, and then in another instance (say on a mobile device) I use the same userid to access ZeroTalk?",
+			"added": 1507682759
+		},
+		{
+			"topic_id": 4,
+			"title": "Check files vs Update",
+			"body": "What do these do in the left hand sidebar in the site menus? I guess 'Update' checks for updates, but what does \"Check files\" do?",
+			"added": 1507868866
+		}
+	],
+	"topic_vote": {
+		"3_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": 1,
+		"1_15de5wZ71q8iQGhEmBkJnRKx37Defn5XoL": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"3_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": [
+			{
+				"comment_id": 1,
+				"body": "> [j9j89u77t6r5e4w3](#comment_5_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp): I found it http://127.0.0.1:43110/1MagneTSMMkNmJTMsTGJtfuNsqGjzzXgQv\n\nIt would be great to see big file support with this.",
+				"added": 1507682098
+			}
+		],
+		"3_1Cy1dDBGdk9AE6c2HbU97yXpxB29t1D16j": [
+			{
+				"comment_id": 2,
+				"body": "> [ekaterina](#comment_2_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Just copy your data/users.json file to the other device (and make a backup of it while you are at it, that file holds all your private keys, so don't show it to anyone and don't lose it). There shouldn't be any problems, it is the official way to do it. [...]\n\nThanks, I should have checked the FAQ!",
+				"added": 1507685082
+			}
+		],
+		"2_1Cy1dDBGdk9AE6c2HbU97yXpxB29t1D16j": [
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_1018_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): After some time (30 tries) you client will give up on the unreachable files and they will disappear from your client.\n\nIs it just a matter of the site owner deleting the entry in one of the JSON files if they want to stop it from appearing to new users?",
+				"added": 1507715306
+			}
+		],
+		"7_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 4,
+				"body": "> [polar](#comment_38_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): OK, but I mean: one username in one provider have multi identity address [...]\n\nHow do they get multiple addresses? Is that from using the same id on multiple ZeroNet nodes?",
+				"added": 1507715366
+			}
+		],
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 5,
+				"body": "> [kai0](#comment_299_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): it's still too hard to play. I think each piece  slicing to 500k will work well. [...]\n\nWhat do you mean by slicing?",
+				"added": 1508282867
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": 1,
+		"2_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1018_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"272_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"38_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1021_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"39_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1
+	}
+}

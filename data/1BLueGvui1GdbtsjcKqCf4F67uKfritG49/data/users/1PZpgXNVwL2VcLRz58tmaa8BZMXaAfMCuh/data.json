@@ -1,0 +1,37 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Iu",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1471261716,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "use open source software \"tox\" to have decentralized instant massaging ",
+			"date_added": 1471261977
+		},
+		{
+			"post_id": 3,
+			"body": "something might be wrong, and it seems that i can follow myself. ",
+			"date_added": 1471263282
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PZpgXNVwL2VcLRz58tmaa8BZMXaAfMCuh",
+			"user_name": "Iu",
+			"date_added": 1471263210
+		}
+	]
+}

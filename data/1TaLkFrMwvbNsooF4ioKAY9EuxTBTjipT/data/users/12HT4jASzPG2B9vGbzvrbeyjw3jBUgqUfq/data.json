@@ -1,0 +1,103 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"28_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1GJoeXr9e2nr5qEWVv6XqLEqHTvwF2a1Hx": 1,
+		"1_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn": 1,
+		"4_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": 1,
+		"15080_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1M1msf96AhLpJDJimVK7mXXCoaAGxfzxh9": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeest.",
+				"added": 1507304063
+			},
+			{
+				"comment_id": 2,
+				"body": "> [7c4](#comment_1_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq): Teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeest.\n\nSweet.",
+				"added": 1507304086
+			},
+			{
+				"comment_id": 5,
+				"body": "> [7c4](#comment_2_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq): Sweet.\n\nBase64 image test (Red dot):\n<img src=\"data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==\" alt=\"Red dot\" />",
+				"added": 1507305384
+			},
+			{
+				"comment_id": 12,
+				"body": ">test",
+				"added": 1507382135
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "> [flappyearz](#comment_87_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): zeronet + ipfs? unite instead of diverge? was this point already raised? answered maybe?\n\nNot part of the dev team or anything, but IPFS has a lot of privacy issues to solve which zeronet already does. In my opinion, zeronet is already the better choice of the two as it supports Tor out of the box and privacy isn't just an afterthought like with IPFS.",
+				"added": 1507304316
+			},
+			{
+				"comment_id": 8,
+				"body": "This site requests permission: Merger:ZeroMe\n\nWhat is this this cryptic message? What does it want permission for? What does it do when I click grant?\n\nA little more info on the message would have been good....",
+				"added": 1507321498
+			},
+			{
+				"comment_id": 9,
+				"body": "> [flappyearz](#comment_90_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): It basically requests access to data stored in a seperate instance. It is really badly (un)documented.\n\nOk, thanks!",
+				"added": 1507326157
+			}
+		],
+		"8_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 4,
+				"body": "> [deadfwd2017](#comment_6_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs): Yea provided by the feds no doubt. Thats the way actually track joker on Tor, via the exit nodes. To me TOR is just a farse.\n\nTor is the best we have and it's really good. If you read the leaked NSA docs, you know that they have trouble tracking Tor users. It's nearly always user error that gets people caught.\n\nRun Tor bridges on your servers if you have free resources to spare to improve the network and make it harder for organizations to take control. I run it on my server, it doesn't cost me anything other than bandwidth and I have plenty of that.",
+				"added": 1507304823
+			}
+		],
+		"3_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 6,
+				"body": "> [mari0](#comment_1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC): but... wait...I2P can't be used to access jewtube and jewgle, wtf?\n\nI2P can... it just doesn't have that many \"exit nodes\" like Tor does and you have to specify your exit node.",
+				"added": 1507305996
+			},
+			{
+				"comment_id": 7,
+				"body": "> [mari0](#comment_4_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC): also, it'd be cool if Tor project stopped giving a public list of non-exit nodes, because some website admins block all nodes instead of just exits, which is annoying af.\n\nThat's fucking retarded... which blacklists include relays?",
+				"added": 1507319847
+			}
+		],
+		"1_1GJoeXr9e2nr5qEWVv6XqLEqHTvwF2a1Hx": [
+			{
+				"comment_id": 10,
+				"body": "> [flappyearz](#comment_89_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): Dunno about you, but I happen to administer a few hundred servers, and happen also to be contacted by people who should administer servers but they rather stuck at observing it hacked and call for help.\n\nI know that there are automated scripts which try to use exploits to breach our servers, but I'd argue that in-house programming and bad server configurations are the main cause. I work in IT and we just don't have the time to program things securely or set up our servers securely. It only ever becomes an issue if we get a breach and then the management is up in arms blaming everyone but themselves for the breach, even though we just don't get enough time to program things properly or securely so we have to (unfortunately) take shortcuts wherever possible. Security audits? automated tests for quality assurance? The management doesn't know what those are and neither do they care, all they hear is that the project will take extra x months to complete and they say we'll do it without them.\n\nWe just recently found an exploit by accident which allowed one customer to see the orders of another customer. I assume we have a TON of security issues, but we just never have the time to actually check for security. Anyone who programs, even just has a hobby, would probably find security issues with our website if they just spent the time and effort to look for them.",
+				"added": 1507327562
+			}
+		],
+		"4_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 11,
+				"body": "Yes, I use Bitmessage over Tor. Distributed and anonymous, what more could one want?",
+				"added": 1507382027
+			}
+		],
+		"15080_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 13,
+				"body": ">Tor was soon appropriated by cyberpunks\nHaha \"cyberpunks\".\n\n>These people see money as a state incursion into private affairs,\nIt isn't? Barter was for a large part of human history distributed and decentralized, up until recently with the banking system where the government and banks dictate every aspect of \"their\" currency.\n\n>“If somebody tries to use a bitcoin from Zebpay or any other recognised exchange, they will definitely be tracked down,” says Saurabh Agrawal, co-founder of Zebpay\nYeah, I would say the same thing to stay in business and not get shut down by the government, but that info is inaccurate. Anyone can send their bitcoins through a mixer and wash them clean. There is even a site called satoshi dice which many have used to wash their coins.\n\nThere are plenty of ways to wash your coins. Even buying and selling goods can make you easily wash your coins making it near impossible to trace back to you, especially if done through Tor.\n\n>“While we can track whether a transaction is made through illegal routes, to some extent it’s true that we cannot track all transactions in real time as this takes a large amount of data,” says Sathvik Vishwanath, CEO, Unocoin.\nLook at how the pros (the Mafia) wash their USD and you can use the same methods for bitcoins, it's no different really.\n\n>“What they are worried about is terrorism, and the use of anonymous technologies and chatrooms for radicalisation, terror planning, or buying and selling weapons.”\nWe obviously need more automated systems that collect a huge amount of personal data and get rid of privacy altogether /s.",
+				"added": 1507382926
+			}
+		]
+	},
+	"comment_vote": {
+		"57_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"11_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"56_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"90_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt": 1,
+		"89_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt": 1
+	}
+}

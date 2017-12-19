@@ -1,0 +1,52 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Evok3d",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504876685,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504876699,
+			"body": "i think im in love\n",
+			"date_added": 1504876697
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What upppppppppp",
+			"post_uri": "1BdaGeDAKkb7Sv3nSbb4NstZxZ2PBysyxi_1",
+			"date_added": 1504877051
+		},
+		{
+			"comment_id": 2,
+			"body": "@Eliott: haahahah i can understand. we are in a new world. created by peersssss ",
+			"post_uri": "1BdaGeDAKkb7Sv3nSbb4NstZxZ2PBysyxi_1",
+			"date_added": 1504877108
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1ARDgz4ZMukzdwwMeR52sP2swVRQTpUqKv",
+			"user_name": "Evok3d",
+			"date_added": 1504876925
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1BdaGeDAKkb7Sv3nSbb4NstZxZ2PBysyxi",
+			"user_name": "Eliott",
+			"date_added": 1504877037
+		}
+	]
+}

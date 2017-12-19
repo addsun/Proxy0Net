@@ -1,0 +1,48 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HNJ10ILvVT82WZ17oP2iChu0tJ9TWIUH4V9300pdeImb8aWWkw4AdOILLEdDsublVKNYXx1Bm5fxsHRMmlFqY6A=",
+ "cert_user_id": "gomzik@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "1b1eb413b65f8d03be14af463b010f44ab965e0f68b833ba6c5b9ac3ad6f1f8f",
+   "size": 1660
+  },
+  "data.json": {
+   "sha512": "ba35e61829aca55071bdd6ed8b82b9e75a47f3be911d8749d3c12097d8638373",
+   "size": 41628
+  }
+ },
+ "files_optional": {
+  "1494943878.jpg": {
+   "sha512": "2a7ba2a7f8656928f769ba64221d9b76507a06c1b0fc730c4ebe9a3430665e02",
+   "size": 53627
+  },
+  "1496184604.jpg": {
+   "sha512": "fd72818e531d97e9d19916416e18dd76084739dbb747c8290ad5d90b113a2447",
+   "size": 14884
+  },
+  "1498566473.jpg": {
+   "sha512": "f706ee83624b750565f6a116018514fbcd9d095986f73664c328f1ed57c942c5",
+   "size": 71983
+  },
+  "1500888797.jpg": {
+   "sha512": "edb332638e18e497421184b35cb5496a64de6c144778b9f31ad1bdf7d679d046",
+   "size": 55589
+  },
+  "1501153143.jpg": {
+   "sha512": "dd3d13091222116e24b2807314dea34753143afaafefd87cf3a1b6c4ba527a87",
+   "size": 50102
+  },
+  "1504792480.jpg": {
+   "sha512": "52ab2f6048b6b1c2d0208f51d3aaef552d306708850f52eba226e46fef689e69",
+   "size": 70108
+  }
+ },
+ "inner_path": "data/users/1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ/content.json",
+ "modified": 1509701109,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": "G1qhSHC92jobyvymxqlu7i5BkGhBwaZ+a9AU9I5cC3l5HhpgU3mTkfnxp8Rx1fs870tr7DjZBgpDl9/qiL6o2VQ="
+ }
+}

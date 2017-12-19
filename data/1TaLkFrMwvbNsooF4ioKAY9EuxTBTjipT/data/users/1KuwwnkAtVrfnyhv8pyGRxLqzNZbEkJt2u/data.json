@@ -1,0 +1,134 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroNet Meetup in Budapest in September",
+			"body": "Hello,\n\nI was wondering if some of you would like to meet in Budapest at the end of September ? It would be the occasion to talk about what we are interesting in ZeroNet and what we can build on it.\n\nnofish: If you are not too busy ?",
+			"added": 1502567896
+		},
+		{
+			"topic_id": 2,
+			"title": "How accessible are Zeronet sites to blind people ?",
+			"body": "Is there any blind people using Zeronet today ? Does anyone know how we could judge of the accessibility of a website ?",
+			"added": 1507990120
+		}
+	],
+	"topic_vote": {
+		"4_1Jk6iv2QXUgZo4Y4P5ZUKe7SrpMnGs5unL": 1,
+		"1_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": 1,
+		"10_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"11_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1510393256_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"1_17R9N6TFQ5u4MnbppJqbyXt9jNe1WkijRY": [
+			{
+				"comment_id": 1,
+				"body": "> [akito](#comment_126_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): on its blockchain.\nI don't remember reading anything about blockchain for ZeroNet. Only that it using Bitcoin cryptography. Could you point me where you have seen it mentioned ?",
+				"added": 1501459523
+			},
+			{
+				"comment_id": 2,
+				"body": "> [canvas](#comment_4_1CV1zQjkdRKBd9NNXBpVELvzXDp7puzUmX): In my understanding of Bitcoin cryptography, it is blockchain.\n\nWhen people talk about the 'blockchain' they often refer to the consensus protocol and the way the data are stored or sometimes only the way the data are stored. For the first one I prefer call it the Proof-of-Work chain and not 'blockchain' like SN used to name it in his explanation ( [example here](http://satoshi.nakamotoinstitute.org/emails/cryptography/11/)(clearnet)) but ZeroNet does not use this specific part of the Bitcoin protocol. However, it does use the same cryptography as Bitcoin which is based on the Elliptic Curve Digital Signature Algorithm or ECDSA.",
+				"added": 1501490082
+			},
+			{
+				"comment_id": 3,
+				"body": "> [akito](#comment_129_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I think it would be better for you, if you actually gathered some information on the topic instead of throwing shit at a fan directed at us...\n\nI apologize if you find my explanation uncomplete or false. I just tried to share details of my understanding of ZeroNet and Bitcoin. This is the information that I gathered for a small presentation that I have done on the topic.\n\nAlso in the ZeroNet FAQ it is mentioned that ZeroNet doesn't use Bitcoin's blockchain. \n> Does ZeroNet use Bitcoin's blockchain?\n>\n>No, ZeroNet only uses the cryptography of Bitcoin for site addresses and content signing/verification. The users >identification is also based on Bitcoin's BIP32 format.\n>\n>Namecoin's blockchain is being used for domain registrations.\n\n[link FAQ](https://zeronet.readthedocs.io/en/latest/faq/) (clearnet)\n\n\n@yinhongfei789 : You can also find more on ZeroNet protocol on this [PDF](https://zeronet.io/files/ZeroNet_Presentation.pdf) (clearnet)",
+				"added": 1501579539
+			}
+		],
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 4,
+				"body": "I haven't tried beaker browser but I looked at their protocol `Dat` : https://datproject.org/\n\nIt is interesting as it can handle sharing big file unlike ZeroNet. But they don't seems to have something as secure as TOR to protect anonymity.",
+				"added": 1501925318
+			}
+		],
+		"1_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 5,
+				"body": "Do you want to stream directly Zeronet Play's torrent to your KODI ?\n\nIf it is what you are looking for you can try [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) it allow you to broadcast to an appleTV/chromecast/Kodi/osmc.\n\nOtherwise, it would be interesting to have a zeronet plugin that would do that.",
+				"added": 1502186904
+			},
+			{
+				"comment_id": 13,
+				"body": "> [humanfarmer](#comment_4_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp): how much $ for the plugin ? this is the future in KODI.1) I can see the PLAY films2) I click on any, it picks the configured resolution3) plays the torrent\n\nWhen saying a zeronet plugin I am talking about a plugin in ZeroNet to stream torrent from the Play zite (or any torrents) to your KODI.\n\nOtherwise, you would need to create a KODI plugin that run zeronet which has Play zite already and can fetch the list of film with its torrents magnets/file and then you can stream then using bittorrent.\n\nThe first solution I am working on it. The second would ask a little bit more coding.\n\nBut the idea of having a plugin that can fetch data from peers instead of a central server sounds quite nice. I do believe however that it must exist somewhere already...",
+				"added": 1502732302
+			}
+		],
+		"1_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": [
+			{
+				"comment_id": 6,
+				"body": "What about the 30 Sept. -1 Oct. week end ?",
+				"added": 1502628233
+			},
+			{
+				"comment_id": 7,
+				"body": "I could the friday or thursday before. So 28 or 29 ?",
+				"added": 1502651720
+			},
+			{
+				"comment_id": 8,
+				"body": "Cool. I am going to book my flight. I have never been to Budapest.",
+				"added": 1502653719
+			},
+			{
+				"comment_id": 10,
+				"body": "Any recommendation on the best neighborhood where to stay in Budapest ?",
+				"added": 1502659161
+			},
+			{
+				"comment_id": 12,
+				"body": "> [lime](#comment_3_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR): Is it okay for people to come who do not know how to code? Or is the meet up strictly for developers?\n\nYeah come !",
+				"added": 1502710133
+			},
+			{
+				"comment_id": 14,
+				"body": "> [ace](#comment_1_1An7ATsNMMNqRgSgB2upWwbpXgFXQ9E2XD): I will be living in the Netherlands in September so I may look into train tickets. Is it going to be organised 100% in this thread?\n\nI guess yes.",
+				"added": 1502788249
+			},
+			{
+				"comment_id": 17,
+				"body": "Do we have a place where to meet ?",
+				"added": 1504542605
+			}
+		],
+		"1_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 9,
+				"body": "On https://dotbit.me/ you can buy domain name using paypal. Otherwise if you just want 1USD worth of bitcoins, give your bitcoin address.",
+				"added": 1502659085
+			},
+			{
+				"comment_id": 11,
+				"body": "> [spukkinfaceship](#comment_1_13eTQePN4cvnxL9qFurmPFgHRTXMGNNbCy): current bitcoin transaction fee is 2 or 3 dollars, so no point trying to transmit one dollars worth of btc...\n\nDamn it ! 2 or 3 dollars ? I though it was still under 1 dollar. I am quite happy that we will soon have Lighning Network.",
+				"added": 1502692369
+			}
+		],
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": [
+			{
+				"comment_id": 15,
+				"body": "I know. I need to fix it...\n\nI have been spending most of my time working on a torrent plugin for zeronet because of the lack of seeders with webtorrent. I am now trying to add webtrc support to this plugin (which means to libtorrent too and I have no idea how to do that...) so even people without the plugin could get videos from someone with the plugin.\n\nAlso it would be better to implement merger site feature in ZeroTube instead of downloading everything.\n\nThe project is open source if you are interested to resume this project.",
+				"added": 1503089599
+			}
+		],
+		"7_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 16,
+				"body": "I ma wondering if it would be worth the trouble to have a plugin that embeded an ipfs node ? It would also allow for site to check if plugin is installed and then either ask the user to install it or modify its behavior ?",
+				"added": 1503426932
+			}
+		]
+	},
+	"comment_vote": {
+		"4_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"972_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"7_1N1bEAsjdqCy5f7SG6jPXUoa1BA2QES8DZ": 1,
+		"269_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

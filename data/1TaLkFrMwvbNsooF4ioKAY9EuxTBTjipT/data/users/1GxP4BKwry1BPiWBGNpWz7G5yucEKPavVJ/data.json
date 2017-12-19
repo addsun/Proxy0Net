@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": 1,
+		"11_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1511636156_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"7_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 1,
+				"body": "+1 for docker, you can use even use it with tor\n` docker run -d -e \"ENABLE_TOR=true\" --name \"zeronet-tor\" --restart always -v <local_data_folder>/:/root/data -p 15441:15441 -p 127.0.0.1:43110:43110 nofish/zeronet:latest",
+				"added": 1503251604
+			}
+		],
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 2,
+				"body": "> [lola](#comment_4_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u): I haven't tried beaker browser but I looked at their protocol Dat : https://datproject.org/ [...]\n\nI guess Dat can be transported via tor\n\nI tried Rotonde and I think it's super nice. Currently ZeroNet have more features. In Dat/Beaker you can't have mutable site that many users can edit.",
+				"added": 1507936426
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1MREdcZdDjmPyVL8YH53wPfzjc6FX9aJ8b": 1,
+		"6_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": 1,
+		"133_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1_1BFZf51e7NYiiGKoZAN7kTE5FwHTARM75T": 1,
+		"164_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	}
+}

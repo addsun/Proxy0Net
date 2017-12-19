@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1509072599,
+			"title": "anybody has win10 leaked 1.2GB souce code？有人有win10 泄漏的1.2G源码？",
+			"body": "有人能提供一下下载链接吗？非常感谢\ndoes anybody can provide the download link?thanks a lot",
+			"added": 1509072598,
+			"parent_topic_uri": "10_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj"
+		},
+		{
+			"topic_id": 1509072726,
+			"title": "anybody who has win10 leaked 1.2GB source code",
+			"body": "can you provide a download link?thanks a lot",
+			"added": 1509072724
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": [
+			{
+				"comment_id": 1,
+				"body": "> [jpf3zww4gaui5urh](#comment_1_16Ld5cSuDN9k4XhxfSBukLXmoBGhgREmex): You mean, the thing that were shared on some FTP few months ago? It was not complete source code, just what Microsoft had already shared to partners under their shared source program.\n\nyes,i just want that,do you have it?",
+				"added": 1509113965
+			},
+			{
+				"comment_id": 2,
+				"body": "> [mari0](#comment_13_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC): Who would even need this crap?The only thing people would be good off if they had it would be documentation for undocumented public functions in Microsoft's libraries and good test cases.Also, people donating to Wine project.If we ever want to ditch Windows we gotta have Wine working even better, the only way non-coders can help is by donating or buying Crossover Linux. Programmers can help by contributing code to the project or making extensionsAnd... yeah, Wine has tools which allow to make extensions for it, but loading these extensions is a bit difficult without changing either the windows program or environment variables. [...]\n\nfor research some windows x64 structs,did you heard about there has a  career called Reverse Engineer",
+				"added": 1509260208
+			}
+		]
+	},
+	"comment_vote": {}
+}

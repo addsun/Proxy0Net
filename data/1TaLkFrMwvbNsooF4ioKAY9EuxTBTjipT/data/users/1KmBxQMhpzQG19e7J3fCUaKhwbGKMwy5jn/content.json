@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HDd/3ggRpJ3mgM8T2pnHsybuSMEiiAHu6wGHH1hTBP3WOuy4IrmsBdMfNSlFJST7CNgDwegvrcjG/YmoNwUoBEk=",
+ "cert_user_id": "batataclan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "088180e5cd1a877b4538427b338ba7810cfe147372ad47a1b6e2d77fbd628a40",
+   "size": 297
+  }
+ },
+ "inner_path": "data/users/1KmBxQMhpzQG19e7J3fCUaKhwbGKMwy5jn/content.json",
+ "modified": 1503362627,
+ "signs": {
+  "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT": "HLGtoCr4joz17fdG5e7uUATZJYx6LT49GWoDwIAxNXIxMF86M/rkW30wvr/Jecv2KdRn/yZS7iy5iMRbrvu3gM8="
+ }
+}

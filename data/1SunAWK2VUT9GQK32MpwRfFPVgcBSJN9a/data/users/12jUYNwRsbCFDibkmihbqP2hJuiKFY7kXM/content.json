@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HPmWdq0z+ehNq6YFzKa78Cv+ZFbeD8sud+N2QudlhHo8pianIgrTR5Y2Hw8opbyn2mycHf8HGSbsUtCATrO9tb0=",
+ "cert_user_id": "rusfearuth@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16b450e8cce779465576272cf92d0ee9ac1ce083058c4eb0b15f61517046d55f",
+   "size": 813
+  }
+ },
+ "files_optional": {
+  "1513236682.jpg": {
+   "sha512": "46e930cbc5022958f4c3ed254db8213c56af22644074c18938b9d979b6d7e32d",
+   "size": 58063
+  }
+ },
+ "inner_path": "data/users/12jUYNwRsbCFDibkmihbqP2hJuiKFY7kXM/content.json",
+ "modified": 1513236680,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12jUYNwRsbCFDibkmihbqP2hJuiKFY7kXM": "HKIjx5tJirZmv4sYRzwKOC+JFnhqsDvwpWvvYbjk2dLYbzNjw4iuu0Jsjd+FmY1dFVipSvx03KFq+snTUqgbIEs="
+ }
+}

@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509044343,
+			"title": "[Help][Newbie] Linux question about networking!",
+			"body": "my wifi goes down sometimes and I was trying to figure out why and noticed that \"systemd-networkd.service\" - AND - \"NetworkManager.service\" (/etc/init.d/Network-Mananger) were both running at the same time and both active is this a problem? I thought maybe only 1 was supposed to be active from what I was trying to google it seemed like \"pick one or the other\"",
+			"added": 1509044342
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1509044343_13cusqQkWAixH4fT8EtoARcWLcGgbdNDvX": [
+			{
+				"comment_id": 1,
+				"body": "> [jlxip](#comment_36_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): I think I need more information.What distro are you running? Did you install any of those packages yourself?\n\nI'm running TinkerOS (Debian Stretch base) it's for a tinkerboard SoC like Pi, I didn't install them I don't think the other things I installed were lighttpd and bind9",
+				"added": 1509046856
+			},
+			{
+				"comment_id": 2,
+				"body": "apparently they were not needed (only network-manager) I stopped \"service networking\" and \"service systemd-networkd\" and I still had connectivity to it via SSH and it's still serving my websites. I'll monitor further to make sure I don't see anything off in the logs. I just want to kill off everything that's not needed for the webserver which will bring me closer to catching any errors that take it offline like the networking issue",
+				"added": 1509059594
+			}
+		]
+	},
+	"comment_vote": {}
+}

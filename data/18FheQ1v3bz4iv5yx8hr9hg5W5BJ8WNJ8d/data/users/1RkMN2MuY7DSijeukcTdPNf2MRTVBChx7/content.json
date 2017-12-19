@@ -1,0 +1,28 @@
+{
+ "address": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+ "cert_auth_type": "web",
+ "cert_sign": "HGFZU2rY7r06vU6ZJbnNmxs/760L07C9BxjvpyhrsM3/qZXTiMK9O09yw2qKL71GyJSjeydIBl8hOxHd2aKCT0Q=",
+ "cert_user_id": "taarezameenpar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c5dcae92056fbb47adba8a7ade81a7941df9b7ae18ddff3f44051b89f28eccb",
+   "size": 11982
+  }
+ },
+ "files_optional": {
+  "1508054921.jpg": {
+   "sha512": "a987bdc6c58011c51aaa47dfc4a89a03d9715f08aed2513b46d11a8732f8340d",
+   "size": 41584
+  },
+  "1512049229.jpg": {
+   "sha512": "912237e43731dd78053f8ffbd39befd1fd1b3a6eb77d17a3091ca06413898ead",
+   "size": 22195
+  }
+ },
+ "inner_path": "data/users/1RkMN2MuY7DSijeukcTdPNf2MRTVBChx7/content.json",
+ "modified": 1512394405,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1RkMN2MuY7DSijeukcTdPNf2MRTVBChx7": "HAQJvu3A3/B6kMdDX8MpdKIzw3JMZFgVxdc7EBpqx/E3eM0L0QWFruDLE5oLTSysXQR8wnrFSPg39J5fOW3EpVg="
+ }
+}

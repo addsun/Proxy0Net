@@ -1,0 +1,108 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5K/eLmfJFJEXdHTN59aOn7vIR/NsaduuL1GHH0aq01QO5g40Z70Z5gBIo4F6oneGDpke8IImHiKJmP8B+Ys9j8=",
+ "cert_user_id": "u53r@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "e7cbf6c7480d7821deb3c1b9001120355658bd4292c3b0dd0cc28e94a5b8af5b",
+   "size": 1585
+  },
+  "data.json": {
+   "sha512": "102e77d3684c0e98524be96ca5d9b3d7a7123e1f69d262be31c3e8d2ae9af747",
+   "size": 19166
+  }
+ },
+ "files_optional": {
+  "1504457702.jpg": {
+   "sha512": "7f43f00b222a7cafce9a204374c85a5397955452d3096ba876c3f176f1ca4930",
+   "size": 86607
+  },
+  "1504648122.jpg": {
+   "sha512": "2a7ba55e3bf7b56f25aafd5159e700003645ddb35f4293fe7ed27325886e2636",
+   "size": 83185
+  },
+  "1505075996.jpg": {
+   "sha512": "f175372296aed5aab71b477b591617cf1fb0a34fdf19d1a6514172907cacb92c",
+   "size": 67781
+  },
+  "1505250512.jpg": {
+   "sha512": "09b92efab670924a1786d82be3824f237d4c7928b3e34be41634a51a615bd6cb",
+   "size": 28096
+  },
+  "1505305779.jpg": {
+   "sha512": "c606a7605d79f4a9262f553848acd08ccdbe044e52dc648e06726512167f22a5",
+   "size": 64325
+  },
+  "1505305837.jpg": {
+   "sha512": "d1a1b693122b9efec3dcb7dd9493322c1be7f76c61c1bf7461bbced06561c1bc",
+   "size": 36521
+  },
+  "1505335067.jpg": {
+   "sha512": "5c61cc4497a973cd7719b814aa2acfa062e19fb5570768637413c1cd9845f7a2",
+   "size": 56272
+  },
+  "1505485074.jpg": {
+   "sha512": "988eed1d1a1f13827a87204b2d9d9a0056a1cde55f4c50afe707bca6d215bc59",
+   "size": 33026
+  },
+  "1505509824.jpg": {
+   "sha512": "8339a59fe132a8461bce40e41a77b77f077d3ad165d96738609fd2dddd14c12c",
+   "size": 96939
+  },
+  "1505763859.jpg": {
+   "sha512": "cb59f051250c814ecce1286d9e6ec2aaad8e9572ecfc3a2cc263b052fa5973d6",
+   "size": 73102
+  },
+  "1506025335.jpg": {
+   "sha512": "cdef6af562e3ea9117ec2d8a6e8ff88a43ab9f371556413fec9ce6535c3c9d61",
+   "size": 69220
+  },
+  "1506345319.jpg": {
+   "sha512": "a4477039f2dd03cc15dd7cb646b0fd9c9db790f6fd1d27fbc6131da17a0b55c9",
+   "size": 83751
+  },
+  "1506345849.jpg": {
+   "sha512": "0d6a0b2124f569f1d867b0c4a56b51b763efc18383cebd0301d34c34ad7a21d7",
+   "size": 47979
+  },
+  "1506973998.jpg": {
+   "sha512": "c0a2357db06185b8b7c5d6d8e9542424208ebb4036222161990d40c54044219c",
+   "size": 146718
+  },
+  "1507323029.jpg": {
+   "sha512": "ca6feba5eb617a1bb52ceba7728a742f6860e1c6f0858fb01a5a01bc1ffd24b6",
+   "size": 63067
+  },
+  "1507577323.jpg": {
+   "sha512": "c1dd5c76c700b52e5fb135e6212a4d61789b812a6f17a392a4f84c3a86065bb2",
+   "size": 8371
+  },
+  "1509122575.jpg": {
+   "sha512": "7b508e8dd95680495c3bd8259f572c1adce5e33717b5d9153b2de6a38acc8dee",
+   "size": 31312
+  },
+  "1509389240.jpg": {
+   "sha512": "bed5db58adfc82a2ce375a5521f4981b7966985f7f07bc9a90a606391be8a910",
+   "size": 32750
+  },
+  "1512056616.jpg": {
+   "sha512": "abb8a6293c77a0f54e653c314e74870bea2c0968abed13a099a7ac1ffec2e085",
+   "size": 18971
+  },
+  "1512163354.jpg": {
+   "sha512": "087f04560b4390377ee7ff1ec78ca22f5273a0306675a34cca96542115332155",
+   "size": 50517
+  },
+  "bg.jpg": {
+   "sha512": "e13b9e630eb5581122d8a8fa5bd5a3be353829f81043f47b21db5b64b3411593",
+   "size": 21080
+  }
+ },
+ "inner_path": "data/users/17Zks611RR4oN8USC3RxJzaw94GyPufioG/content.json",
+ "modified": 1513197627,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17Zks611RR4oN8USC3RxJzaw94GyPufioG": "HD3CiunP4SoduxQvX/XYw7C15vQGLjUOh8pbPrxONfBwaf0A/eP2ffI9mwMUrr8sYbelTWbTOHSo+fPXtJT+dUg="
+ }
+}

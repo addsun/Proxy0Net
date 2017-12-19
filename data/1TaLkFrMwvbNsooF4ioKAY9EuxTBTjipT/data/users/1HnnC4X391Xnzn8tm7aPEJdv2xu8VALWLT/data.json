@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"17_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 1,
+				"body": "Yes, they can and probably are linked. When you create a ZeroID you send a request to `zeronet.io` to request your signature to be signed.\nThe owner of the server, or web hosting service can link the IP address with the username.",
+				"added": 1506714200
+			}
+		],
+		"11_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 2,
+				"body": "Because of the network effect. People are social beings, they want to belong somewhere.",
+				"added": 1506714612
+			}
+		]
+	},
+	"comment_vote": {}
+}

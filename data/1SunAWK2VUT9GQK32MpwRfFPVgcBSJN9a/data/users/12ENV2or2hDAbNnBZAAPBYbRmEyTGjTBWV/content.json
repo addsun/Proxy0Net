@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLr/jGkWJwO+srAeP+V0SQHvWUS/BJk8nGMfr65cZq4vLks1oYUrUHfAUkTyo7w+2ojPhmb0h6NrC7OdezDJUKI=",
+ "cert_user_id": "totila@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "7ca79c6c07faf0adb352471828418049e92d33cd2820f92c38d6eb8c1ff2b90f",
+   "size": 919
+  }
+ },
+ "inner_path": "data/users/12ENV2or2hDAbNnBZAAPBYbRmEyTGjTBWV/content.json",
+ "modified": 1512091866,
+ "signs": {
+  "12ENV2or2hDAbNnBZAAPBYbRmEyTGjTBWV": "Gz9liFcekKgW6szBU0+IVCSyxvkq41i3hzlRQdtQeWu/JvvblPi4p7rNuGzhhS4kbpMb8sumBh5qAt2Xvs9h7UA="
+ }
+}

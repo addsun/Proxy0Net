@@ -1,0 +1,52 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "jpg",
+	"user_name": "Imnobody",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1500622603,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1500971715,
+			"body": "恢复好麻烦啊",
+			"date_added": 1500971713
+		},
+		{
+			"post_id": 1500990901,
+			"body": "今天根据NEW GFW中的教程，自己倒腾了macos下的ZeroNet+Tor浏览器，终于成功了，在macos下使用ZeroNet始终显示AddOnion Error，后来干脆根据楼主的教程直接全部走tor：\n[博文链接](http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:17_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ)\n\n# 需要安装的软件\n*  ZeroNet\n* Tor浏览器\n\n# 步骤\n1. 打开tor浏览器并连接至tor网络\n2. 在浏览器设置中将127.0.0.1加入浏览器的No Proxy 列表中\n3. 编辑文件`~/.profile`，加入` alias zeronet='/Applications/ZeroNet.app/Contents/MacOS/ZeroNet --tor always --tor_proxy 127.0.0.1:9150 --tor_controller 127.0.0.1:9151' `，然后`source .profile `.\n4. 在终端输入zeronet即可启动，然后在Tor浏览器中打开，设置ZeroNet全部走Tor网络即可，这样就不会又AddOnion Error出现。\n\n# 问题\n1. 要在终端输入zeronet才能实现在tor浏览器中全部走tor，直接点击ZeroNet图标运行貌似不行。\n2. 启动ZeroNet后总是默认在Safari中打开，要另外在tor中输入网址才可以，不知道有没有办法制定打开的浏览器。\n3. 之前的AddOnion Error问题不解决还是心里不舒服，应该是ZeroNet自带的Tor的问题，可是没有找到相应的教程，都是windows下的。\n",
+			"date_added": 1500990898
+		},
+		{
+			"post_id": 1501137427,
+			"body": "最近太乱了，国内即将有好戏上演",
+			"date_added": 1501137423
+		}
+	],
+	"post_like": {
+		"1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y_1502638662": 1502951714,
+		"1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y_1502638649": 1502951722
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y",
+			"user_name": "老司机福利",
+			"date_added": 1500971657
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1501423689
+		}
+	]
+}

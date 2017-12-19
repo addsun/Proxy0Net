@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G+papfx5aXXhRFMxLWPbXQQrxvm83VulOjJJTngaHP5K7+YP/pTo46tPhWpmZZ7GxNmy79URK2H1XhiwgJzPkFk=",
+ "cert_user_id": "logitec@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "d13baf118df2279f0a286ed36be138ba658d3826fbc988f82b116f4cffe4f072",
+   "size": 1587
+  },
+  "data.json": {
+   "sha512": "503ba1290382bb38b13586efe2de5d0944deebc5ca939dcdc419fe48b7735d72",
+   "size": 4043
+  }
+ },
+ "files_optional": {
+  "1502368694.jpg": {
+   "sha512": "1e84801fa3466a0f34e847ada22613737690f28301294294676af17d735ddec5",
+   "size": 35327
+  },
+  "1502378564.jpg": {
+   "sha512": "24a2cd19f45b74c9a57c1ea3fa0eccf590e7f3406fac11fed1eeb11cbc32b79a",
+   "size": 118417
+  }
+ },
+ "inner_path": "data/users/1F41LyxfzgAv2ddfwyCEkBaDM8TkywCsRq/content.json",
+ "modified": 1503181020,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1F41LyxfzgAv2ddfwyCEkBaDM8TkywCsRq": "G7k6xSdNVPz1vxTCGWkTZpORR4tLqoc+Jre3Hwblka/YWGyC4A6xn5CtsPuRmo0+4LiZzhDVlScHuGRXESmyyGM="
+ }
+}

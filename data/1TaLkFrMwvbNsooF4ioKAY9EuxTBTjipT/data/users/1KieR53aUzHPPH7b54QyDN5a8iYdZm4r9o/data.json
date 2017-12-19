@@ -1,0 +1,134 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1512447633,
+			"title": "ZeroNet culture",
+			"body": "I really love the culture here on ZeroNet. The friendly but still anonymous and private nature of it reminds me of how Tor chatrooms and forums were back in the early 2010s and late 2000s. I think the turning point for Tor was when it stopped being primarily for nerds and people who just wanted online privacy and became a haven for illicit business. I'm curious to see if ZeroNet will go the same way. In the long term I think it probably will, but I think ZN will retain its culture a little better than Tor did because, with the sites being distributed and entirely open-source, it's harder to build a walled garden of profits like post-Ulbricht darknet market operators did. What do you guys think?\n\nAlso, I've had a question for a while that someone here may be able to provide some insight on. Why isn't i2p full of criminal activity? The only noteworthy criminal enterprise I've seen on i2p was TMPShultz's \"The Marketplace\" which closed quietly and without controversy after running for a year or so. Even the pedophiles don't seem too attracted to i2p. Are there security concerns with i2p, or some kind of cultural barrier, or something else? Why has it stayed so clean?",
+			"added": 1512447632
+		}
+	],
+	"topic_vote": {
+		"1510856783_17ychMBS8Vq1mXtRgteUBcLSTuVGzcBLQQ": 1,
+		"1510618291_1CyTL2ry28YCGU9LCBPhXC1ZnKcozuM25Q": 1,
+		"1510300423_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"1511514422_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": 1,
+		"1511777019_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512360950_15TSdTU5ZrAHXXiMQvMUEEUm17GFt5WqWp": 1,
+		"1512447633_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1
+	},
+	"next_comment_id": 17,
+	"comment": {
+		"1510141321_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": [
+			{
+				"comment_id": 1,
+				"body": "Are people behind the Great Firewall even allowed to use Twitter???",
+				"added": 1510181087
+			}
+		],
+		"1510613868_13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD": [
+			{
+				"comment_id": 2,
+				"body": "\"However your an exit node for some traffic at that point.\"\n\nThere are no exit nodes in i2p. Tor is meant for browsing the clearnet anonymously, with hidden services as a sort of secondary feature, while i2p is built entirely for hidden services and doesn't even allow you to browse the clearnet.",
+				"added": 1510616538
+			}
+		],
+		"1510856783_17ychMBS8Vq1mXtRgteUBcLSTuVGzcBLQQ": [
+			{
+				"comment_id": 3,
+				"body": "We ought to try to spread the word on reddit. 4chan bans Tor exit nodes so a lot of the people here can't even participate there, and like @akito said - are 4chan users *really* the type of people we want here anyway?",
+				"added": 1510895786
+			}
+		],
+		"1510300423_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 4,
+				"body": "I'm glad to hear you had a good time, stranger!",
+				"added": 1510896271
+			}
+		],
+		"1510757069_1KKJNX7fArcQJwgXKauKMPyAgur4sLV4Pn": [
+			{
+				"comment_id": 5,
+				"body": "???",
+				"added": 1510902782
+			}
+		],
+		"1511360238_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 6,
+				"body": "If you aren't interested in your courses, either take different courses or just drop out. Life is too short to spend it all doing things you don't want to do, and all you're doing right now is burying yourself in debt to eventually (in the best case scenario) get a job you that you don't want anyway. Time is running out.",
+				"added": 1511382232
+			}
+		],
+		"1511482022_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": [
+			{
+				"comment_id": 7,
+				"body": "@barefootwarrior: Would it be possible to make a POP/SMTP gateway in Python that could just route the messages through ZeroMail? I guess my question is more along lines of, would it be possible to make such a thing *and also keep it secure*?",
+				"added": 1511511661
+			}
+		],
+		"1511892314_1KEYVUe9VwFbDCjZfkAt34SAHpz5Ds5WxQ": [
+			{
+				"comment_id": 8,
+				"body": "0.1 BTC? You realize you're asking for almost $1000, right?",
+				"added": 1511897534
+			}
+		],
+		"1511946019_18q3WsqR7iwgwRTzsZcqDGf7zmVxCDEWHX": [
+			{
+				"comment_id": 9,
+				"body": "> [helium](#comment_100_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): Boooooooooo (not condemning Your question, but trying to make the noise of a ghost or a monster)\n\nYou're a very polite ghost.",
+				"added": 1511970804
+			}
+		],
+		"1511719880_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 10,
+				"body": "> [zloy](#comment_3_1BU9eC7xUyXzMXYeFkWZFwPAqSvMEqL7i6): hash reversal as a service (recovering password from, for example, MD4 hash)\n\nAren't there a few hash cracking services that allow you to use your computer and earn a share of their profits? I have a terribly bad computer anyhow, so I don't know any of these services off the back of my hand.",
+				"added": 1511970999
+			},
+			{
+				"comment_id": 11,
+				"body": "Find a provably fair cryptocurrency gaming website and see if you can crack the salted \"answer\" to the game that is provided before the game starts. Alternatively, see if you can make two game playthroughs (plus salts) that yield the same hash. If you can, just open your own cryptocurrency gambling site!",
+				"added": 1511971305
+			}
+		],
+		"1512061974_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 12,
+				"body": "> [kopyjane](#comment_70_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): lol I can understand where they're coming from, though. These days I'm not so worried about giant corporations losing out on revenue .. as I am worried about the small business owners of the world trying to provide for their families, etc. Then again, ad revenue has clearly been a failure. It also speaks volumes of the kind of economy we live in today; we seem to be more focused on [sales] and getting people to artificially [like] your products .. [creating demand] .. getting them to buy crap they don't need.. ... as opposed to creating stuff that is genuinely useful. Why do you think there's more jobs in sales, and marketing, than in factories?\n\nI wouldn't exactly call ad revenue a failure. Facebook and Google are worth billions primarily because of how well they are able to target ads to the people they are most likely to work on. It's an invasive business model, sure, but shitty? I don't think so.",
+				"added": 1512125753
+			}
+		],
+		"1512404535_16KZw5gzYyBdfuW9HSUZiGHmayCEXunYZU": [
+			{
+				"comment_id": 13,
+				"body": "I don't think this would work. I'm not against the idea, but I still don't think it would work. The only people you'll attract with the revolutionary aspect of this plan are revolutionaries, and there aren't many of them, so the function is very limited because of that. If you try to pass it off as a shopping list app or something, people don't need a decentralized version of that, because there are already plenty of apps that serve that function without the extra work involved in getting ZN running, staying connected to the internet, etc.",
+				"added": 1512445169
+			}
+		],
+		"1512179082_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 14,
+				"body": "I've seen this line of thinking from many people who are into programming. In principle I think it's mostly true, but don't forget that the world can only be simplified into basic if-then statements so much before things start to break down. Like your example about the water - sure, water will almost always freeze if the temperature is below 0c, but even this isn't always true; water will freeze at different temperatures depending on surrounding air pressure, water pressure, and salt content. I guess what I'm trying to say is that this line of thinking is often useful, but if you think of everything as an if-then situation you can give yourself tunnel vision and actually become worse at logical reasoning.",
+				"added": 1512446938
+			}
+		],
+		"1512454998_1F5HXAibuABEqe3XzbhQ7tq7J5m2JQHhHN": [
+			{
+				"comment_id": 15,
+				"body": "I'm starting up a few small projects to help the darknet community out. I can handle server costs, administration, and setting things up securely if you'd like to help me out with the programming part. I could really use a front end developer.",
+				"added": 1512478053
+			},
+			{
+				"comment_id": 16,
+				"body": "@zerodays: Contact me through ZeroMail and we can talk more. If you have any good community projects you'd like to start with I'm flexible there!",
+				"added": 1512555235
+			}
+		]
+	},
+	"comment_vote": {
+		"1_12QBNnnWMchCNsy1TaARZanAkgKrZLtXLt": 1
+	}
+}

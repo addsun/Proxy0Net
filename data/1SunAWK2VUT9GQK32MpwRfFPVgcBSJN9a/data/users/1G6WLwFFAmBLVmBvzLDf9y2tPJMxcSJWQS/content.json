@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3mHvYjpIbwRj5ihUmIBa8xJ9JI84sYoybVohSGVofde/FJS7idTUFp0rkRzMTBDkKgZfyU2N6v8iPR1+mkkFFM=",
+ "cert_user_id": "quanifi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e51a35444f580ab8c777502e63f0eed726559933b99224680c7037b3fe143bf4",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1G6WLwFFAmBLVmBvzLDf9y2tPJMxcSJWQS/content.json",
+ "modified": 1513201162,
+ "signs": {
+  "1G6WLwFFAmBLVmBvzLDf9y2tPJMxcSJWQS": "G0fxNSIFD+E9xiWvxtIGuPPyGDYE/FOTIcMw7UBph6SxFVmDpdfuRkpJ4qvxVfHwszaMVjnJdUjWcQgLaw8Y1xI="
+ }
+}

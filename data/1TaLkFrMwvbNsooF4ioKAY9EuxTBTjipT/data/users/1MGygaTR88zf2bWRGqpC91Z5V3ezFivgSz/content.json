@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPDGTBQZ9RYyjjuBKOrXvWsowmcRJZzgK1HlUwpki8PxPf+ORY+4ZHiq5xoxs+lZvvJbXH3GCQIG8V4X5XFgVYc=",
+ "cert_user_id": "dorafens@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8956294e534adbf92c35f944261f6cf78e8ee7b091ede21bb5f9b81a278d70c3",
+   "size": 390
+  }
+ },
+ "inner_path": "data/users/1MGygaTR88zf2bWRGqpC91Z5V3ezFivgSz/content.json",
+ "modified": 1508599273,
+ "signs": {
+  "1MGygaTR88zf2bWRGqpC91Z5V3ezFivgSz": "GyLfV2ky/unZm+qBhGVg7qL/wDA6DksqBFIyHwi/sYy+OF27gBjrpalS29XNy3KBMls5AbaooY9QLq6NXmTdCQw="
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HDLAeCIQRtQnAfFlHjqXrtvbagik/s6Lfavf148scqIrTmHi+MiOB//hf9qQI1FbzgZowYkhV+l3bk0gYpfCsUs=",
+ "cert_user_id": "epson@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "4e4a2ce56b9c9383bd02855fd6b416989e8d355369a8b8660620e089801ff25e",
+   "size": 1466
+  },
+  "data.json": {
+   "sha512": "e314c2c1c1e62b47e0c591386aa02f5fe3b5b50c271e900854be23fd032b05a8",
+   "size": 2890
+  }
+ },
+ "inner_path": "data/users/1FSLLHuGcwLcW8m86XkZNbCNyVTiK5sgcp/content.json",
+ "modified": 1512094913,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1FSLLHuGcwLcW8m86XkZNbCNyVTiK5sgcp": "HA0Yl5j2r3BxcfXeACY49pN55qpkj0s610RTVlt2ewdTGtLtUYpxUnRdvxyg5fvdOMmHQ2TXYY+ZeiUQ7anZyJk="
+ }
+}

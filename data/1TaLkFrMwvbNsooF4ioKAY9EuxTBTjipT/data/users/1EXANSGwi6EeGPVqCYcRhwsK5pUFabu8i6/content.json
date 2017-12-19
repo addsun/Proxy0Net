@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8FR6+Qf423+ns5vDwRF4mGmDkTSkY+jixw7SXAhlyWU3njOB1xfnODR+ZJlfIxaXuHxxfp7Ay4IK4/uCg7ePQM=",
+ "cert_user_id": "vaccinenotkosher@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b237d19ebeccfd479c80b30f25d6bb0575c4198eba560d4fc604ada3db82d81e",
+   "size": 974
+  }
+ },
+ "inner_path": "data/users/1EXANSGwi6EeGPVqCYcRhwsK5pUFabu8i6/content.json",
+ "modified": 1504301634.63705,
+ "signs": {
+  "1EXANSGwi6EeGPVqCYcRhwsK5pUFabu8i6": "G0uAYc7ysGSXYgppSCZ/81dzVi5BC8evkyiIyuahtM8F96Dg0vNznBoWtwVbMHXmJYC9GrcRWMTkQZKZv82o2sM="
+ }
+}

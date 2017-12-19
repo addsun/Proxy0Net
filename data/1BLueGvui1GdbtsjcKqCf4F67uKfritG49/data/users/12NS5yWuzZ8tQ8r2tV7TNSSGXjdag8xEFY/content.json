@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HBOQFTRBflz+SCRFoI8LH+a6Whc6lZR1lTLgbIaKl7OelqJRQJabyWPcyx4lXqUhKGqQKXAJkofiCoTDAeFOtNg=",
+ "cert_user_id": "dalmata@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7b128726f06e50d722d63b03a845c87a30e5f368c74a2ac94c5712bbef0765f1",
+   "size": 423
+  }
+ },
+ "inner_path": "data/users/12NS5yWuzZ8tQ8r2tV7TNSSGXjdag8xEFY/content.json",
+ "modified": 1490665754,
+ "signs": {
+  "12NS5yWuzZ8tQ8r2tV7TNSSGXjdag8xEFY": "HHUOM0kQoB2zliRXZHswt9DqsoKxBPYK5blU9BoM0+p2zkMeBuGZ3eq+i7De50HAYyuzrLvOvuh5tqx2WmJclTE="
+ }
+}

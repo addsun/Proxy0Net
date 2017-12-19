@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6bWgRFe0+khYiL8VhCNHglDT41trxXt+fkrjCxnsyLpbbVbO4jnd1/FeyFMomxRKvYyC9MBmLLZexWbOAbeQGA=",
+ "cert_user_id": "fengcat@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2ee76c086b535a40b20a208e16405e917c034b07f094164dd2b0a8ddb66530c8",
+   "size": 3487
+  }
+ },
+ "files_optional": {
+  "1508412397.jpg": {
+   "sha512": "954c76a42344bd42e36d03d2a91eb055b622daf655a9e14f53c10f17f9d45769",
+   "size": 67612
+  },
+  "1511923969.jpg": {
+   "sha512": "3a3baefea19707fa29da6cedf2bf3457aedf8125880335221bbb59ca3474cf5c",
+   "size": 72756
+  }
+ },
+ "inner_path": "data/users/1MxbxpNzeMXhpYC9V2aVZFYeMVzTJ8nArf/content.json",
+ "modified": 1511923966,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1MxbxpNzeMXhpYC9V2aVZFYeMVzTJ8nArf": "HBSW53tBMn3X8K+OiR8Wvy6U1QSmCMvQL3IUG8onc36tIoDkYd9xsR7OOxhHCQQEpolRkFnuKnL+9yK3DUqsWwk="
+ }
+}

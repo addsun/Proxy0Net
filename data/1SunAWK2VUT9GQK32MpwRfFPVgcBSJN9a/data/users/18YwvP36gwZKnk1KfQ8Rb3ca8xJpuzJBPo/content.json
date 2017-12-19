@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7vURZOU9BouW+7mZpVVyJ0vPOUs5va+9X1y2kCtoKhM8ZtW9nABgsM5Jjiggl2qL9ofARkzL6b6k2tj7qa6Ung=",
+ "cert_user_id": "cracknut@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "80b060d5121f4ef0d85c0a7033453d4e33273ec65c7d4a21c6ddeedb4378c177",
+   "size": 508
+  }
+ },
+ "inner_path": "data/users/18YwvP36gwZKnk1KfQ8Rb3ca8xJpuzJBPo/content.json",
+ "modified": 1513546102,
+ "signs": {
+  "18YwvP36gwZKnk1KfQ8Rb3ca8xJpuzJBPo": "G5kHkt1JLBjcQjWEH/zW5aVVokhpq94DZFXztJpvgRxJbKp2dGFdoygn6mey87yApJkoZTUZuNFq4nCNfSgnWfI="
+ }
+}

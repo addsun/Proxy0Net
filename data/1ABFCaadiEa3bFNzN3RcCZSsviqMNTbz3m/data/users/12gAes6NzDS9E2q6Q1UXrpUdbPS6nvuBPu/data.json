@@ -1,0 +1,107 @@
+{
+	"next_comment_id": 17,
+	"user_name": "Krixano",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"14g49FDxkSYcm1qYu7CJY3znhafmSDQFgE_1": 1506850771,
+		"1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1508084306": 1508084481
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Did you register that for me? Thanks!",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1508084306",
+			"date_added": 1508084494
+		},
+		{
+			"comment_id": 2,
+			"body": "@Redfish: Yeah, doing it right now.",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1508084306",
+			"date_added": 1508084640
+		},
+		{
+			"comment_id": 3,
+			"body": "@Redfish: Done! Also, do you think I should rename the zite from ZeroDB Helper to just ZeroDB?",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1508084306",
+			"date_added": 1508084851
+		},
+		{
+			"comment_id": 4,
+			"body": "@Git Center: EulerFinder is the search engine that's using CoinHive.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510598199
+		},
+		{
+			"comment_id": 5,
+			"body": "@mv00_: Mine shows peers, but I think that's the clients that tried to download before the repo got signed.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510598907
+		},
+		{
+			"comment_id": 6,
+			"body": "@mv00_: I think it's because the people who tried to download the zite are listed in the peer count, but don't get updated when zite is published. Then, when you try to download the zite, it shows the peer count based on that, but you aren't able to connect to a peer with an updated content.json file. This is because not every device can connect to each other. This fact accounts for many of the times when people get content.json failed errors while other people don't. This also accounts for why peer counts on devices are different.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599171
+		},
+		{
+			"comment_id": 7,
+			"body": "@mv00_: In a ZeroTalk post, I think someone said that the reason why people cannot always connect to devices/peers depends on whether their using Tor or not, or something like that.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599248
+		},
+		{
+			"comment_id": 8,
+			"body": "@Git Center: CodeR doesn't load up on bigcat.tk for me.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599358
+		},
+		{
+			"comment_id": 9,
+			"body": "@Git Center: No. The only proxy that I know of that works is bigcat.tk. You just need to get someone else that can connect to your client to seed the zite.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599549
+		},
+		{
+			"comment_id": 10,
+			"body": "@mv00_: There's Dark Theme you can get from Binchan. It works for a lot of zites. It uses userscripts.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599821
+		},
+		{
+			"comment_id": 11,
+			"body": "@mv00_: Here's the page to download it. It's actually just one script that works with a lot of ZeroNet zites. [/1ADGCZCvC6wCf5GwCY23H9uwKyRiixoLt6/dark/theme/2017/06/22/zeronet-dark-theme.html](/1ADGCZCvC6wCf5GwCY23H9uwKyRiixoLt6/dark/theme/2017/06/22/zeronet-dark-theme.html)",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510599898
+		},
+		{
+			"comment_id": 12,
+			"body": "@Git Center: If that is the problem, you just need to wait till it's downloaded on bigcat. Files over 1MB take a while to download, depending on your network's upload speed and bigcat's download speed.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510600290
+		},
+		{
+			"comment_id": 13,
+			"body": "@Git Center: It could actually be from that 2MB file. ZeroNet doesn't have parallelism in yet. So a lot of stuff that's running in the background will freeze up the frontend, I believe. I used to have this problem with lag spikes all the time on an older computer.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510594962",
+			"date_added": 1510600443
+		},
+		{
+			"comment_id": 14,
+			"body": "@Mv00: I would think that it is unfixable unless all hubs start accepting 0ch.anonymous id (If I understand the problem correctly).",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1512025507",
+			"date_added": 1512086964
+		},
+		{
+			"comment_id": 15,
+			"body": "@Mv00: I think all hubs *and* 0me have to accept it. btw, your English is really hard to understand, so sorry if I misunderstand you. So, let me see if I understand you correctly. Do you mean that none of your comments using your 0ch anonymous account are viewable by other people? Because I can see your comments made by your 0ch account.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1512025507",
+			"date_added": 1512088794
+		},
+		{
+			"comment_id": 16,
+			"body": "@Mv00: Also, the hubs have their own content.json file that specifies which id providers are allowed to make directories and have data files in the zite; this isn't handled by ZeroMe (as far as I know). ZeroMe only handles the id's for the user database, but I believe this doesn't restrict you from posting in a hub (you don't have to be in the user database to post in a hub as long as the hub itself accepts your id provider, you just won't be shown in the all users page).",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1512025507",
+			"date_added": 1512089129
+		}
+	]
+}

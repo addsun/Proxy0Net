@@ -1,0 +1,143 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"2_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1
+	},
+	"next_comment_id": 20,
+	"comment": {
+		"1_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 1,
+				"body": "I'm pretty sure your ids are stored in users.json in the data folder. Not online. Take that one with you to the other machine. (Or run zeronet on a private proxy.)",
+				"added": 1493325096
+			},
+			{
+				"comment_id": 2,
+				"body": "> [mario](#comment_4_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947): That's what I did... the login interface can detect my correct ZeroID name but then ZeroMe asks me to create an account. I had an account before...\n\nDid you wait for a bit? I just moved from one machine to the other, taking users.json with me,  and while at first the page didn't show properly after waiting for the ZeroMe user registry to sync it did.\n\nHeh, [p2p](#comment_300_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ)'s comment showed up while I was writing this. Didn't even have to reload the page, pretty slick.",
+				"added": 1493340670
+			}
+		],
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": [
+			{
+				"comment_id": 3,
+				"body": "I don't know how bad it was in the past but [offtopic](https://zeronet.node0.nl/Talk.ZeroNetwork.bit/?Topics:9_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/Offtopic) has plenty of antisemitism and other forms of bigotry going on.",
+				"added": 1493401849
+			}
+		],
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 4,
+				"body": "Some documentation on zeronet configuration would be nice. There's a bunch of different options and while some of them seem self explanatory, some are not.",
+				"added": 1493761086
+			}
+		],
+		"1_1P8g5N1QWebJtcm5B1wVU7RLXGYSYothoQ": [
+			{
+				"comment_id": 5,
+				"body": "> [ivesen](#comment_12_1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp): this is some reddit-like iircI don't use reddit so I wouldn't know, it's nice for QA style stuff though\n\nIt's not that reddit like actually. Reddit as tree style comments, not a flat list. And the comments are usually ordered by upvote/downvote ratio, which ZeroTalk doesn't seem to do either.\n\nThis seems more like a normal forum to me, it just looks a bit reddit like.",
+				"added": 1493804098
+			}
+		],
+		"1_1PFMNdR2S3k9PbHU3dhBZXEvsnrYKszTNe": [
+			{
+				"comment_id": 6,
+				"body": "sup",
+				"added": 1494059826
+			}
+		],
+		"1_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": [
+			{
+				"comment_id": 7,
+				"body": "Do you need to do something beyond visiting the site?",
+				"added": 1494166921
+			},
+			{
+				"comment_id": 8,
+				"body": "> [koure](#comment_2_19yRyR57LxFjbzieSEhvyvhe4heSo7KrLa): In some sites by draging the zero (up right corner) you will see an option to download and help share the files of the web. NullPaste and ZeroMaps do have this option\n\nIs that the same as when you set to to distribute new files in ZeroHello?",
+				"added": 1494172271
+			},
+			{
+				"comment_id": 9,
+				"body": "> [rythyrix](#comment_84_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y): ZeroHello is the welcome page. You might be thinking of ZeroMe, where you can choose to automatically distribute a given user's new images. [...]\n\nI was referring to the files page on ZeroHello. (Click on Files, above the list of site, and then click on one of the three connected circles icon behind one of the zites.)",
+				"added": 1494177254
+			}
+		],
+		"1_1Jk4sn5eCV5Eh2nojso2k8tmbSjLTdCgAx": [
+			{
+				"comment_id": 10,
+				"body": "> [parziva1](#comment_2_1Jk4sn5eCV5Eh2nojso2k8tmbSjLTdCgAx): This is a test. Is anyone listening to this.\n\nI'm not sure if listening is exactly the right word, but I've read it.",
+				"added": 1494712790
+			}
+		],
+		"1_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 11,
+				"body": "> [macfly](#comment_1_1G1rxLmkA3aWSFCxKLiq7VPk1N6Jc4H5wU): Windows for games... Linux distros for everything else!!!!!!!!\n\nHeck gaming on linux has been steadily improving over the past couple of years. As long as you don't mind missing out on some games it's pretty alright.",
+				"added": 1495138750
+			}
+		],
+		"1_15bmjskEVBxbkEpvt5EfKxFer7oA1vPLsM": [
+			{
+				"comment_id": 12,
+				"body": "Afaik there is this thing called dynamic DNS that seems to deal with this issue. There are free services available like [no-ip](https://www.noip.com/).\n\nOr if your registar / DNS hoster offers an API you could just write a script that updates your DNS records when needed. Assuming the IP doesn't change all that frequently.",
+				"added": 1495199442
+			}
+		],
+		"1_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 13,
+				"body": "> [moonbees](#comment_6_1LVa8gwjKqVvmoeXMRAZzwFMn7LUrhYAmR): Imperialism will rein him in just like it did with Trump\n\nHow do you mean? I don't really associate imperialism with reigning things in.",
+				"added": 1495734756
+			}
+		],
+		"10_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 14,
+				"body": "People might have an easier time helping if you mention what kind of phone / mobile OS you're using, what kind of firewall, etc.",
+				"added": 1495741799
+			}
+		],
+		"3_1KAjEoAZg6djJXPT5i4VMRwMZkghqRJ1zC": [
+			{
+				"comment_id": 15,
+				"body": "> [orien3242](#comment_9_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP): Stytomaniac makes a point.I have never used weed but even I am ok with my friends smoking around me. Its all good man. [...]\n\nCouldn't agree more. Though I do find the US's weed culture to be obnoxious. Can't wait for it to be legal and boring.",
+				"added": 1495891058
+			}
+		],
+		"3_1DLHbq2nvwpgU4xT3ajhABAW1Lfn3zTZhe": [
+			{
+				"comment_id": 16,
+				"body": "I'll help you seed (my zeronet client is running practically 24/7).",
+				"added": 1496132684
+			}
+		],
+		"1_1Aqzrn9MJnftKMJyU9mVviE5WZdTwJnkFr": [
+			{
+				"comment_id": 17,
+				"body": "What kind of work do you do? Lots of work is pointless and alienating, I doubt one could find motivation there.",
+				"added": 1501138405
+			}
+		],
+		"1_1M1msf96AhLpJDJimVK7mXXCoaAGxfzxh9": [
+			{
+				"comment_id": 18,
+				"body": "And if LPD isn't enabled (haven't been able to tell myself). Then you could probably run a tracker on your local network and add it to the list of trackers in [Config.py](https://github.com/HelloZeroNet/ZeroNet/blob/7905e12fc36127a0e8df38ff9943ce0f2997af3c/src/Config.py#L35).",
+				"added": 1507466206
+			},
+			{
+				"comment_id": 19,
+				"body": "Took me about 10 minutes to get a tracker going using qBitorrent (mostly because I forgot to turn off my vpn). All you have to do is check a box in the advanced options section.\n\nhttps://github.com/qbittorrent/qBittorrent/wiki/How-to-use-qBittorrent-as-a-tracker",
+				"added": 1507742537
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"8_1AZG3avnpwcn37q9eeCEjXKFBye81eAxg5": 1,
+		"155_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"1_1G1rxLmkA3aWSFCxKLiq7VPk1N6Jc4H5wU": 1,
+		"9_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"359_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

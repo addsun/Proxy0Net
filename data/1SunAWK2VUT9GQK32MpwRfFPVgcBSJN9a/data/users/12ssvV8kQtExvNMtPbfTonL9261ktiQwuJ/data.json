@@ -1,0 +1,49 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 4,
+	"avatar": "generate",
+	"user_name": "Archivist",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1505449775,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1505450041,
+			"body": "Zerome Reloaded is really sweet! http://127.0.0.1:43110/Me.Mkg20001.bit/?Home",
+			"date_added": 1505450039
+		}
+	],
+	"post_like": {
+		"17Zks611RR4oN8USC3RxJzaw94GyPufioG_1505305779": 1505450073,
+		"17Zks611RR4oN8USC3RxJzaw94GyPufioG_1505223856": 1505450106
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "14XAPkKCh1eCSkerb3Wn44ALov1T5qkHiU",
+			"user_name": "Lentsius",
+			"date_added": 1505449841
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17Zks611RR4oN8USC3RxJzaw94GyPufioG",
+			"user_name": "U53r",
+			"date_added": 1505449862
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1KN1Au7SRmeTmffcxxoyPABDpvqmq7iMbN",
+			"user_name": "Antilibrary",
+			"date_added": 1505451052
+		}
+	]
+}

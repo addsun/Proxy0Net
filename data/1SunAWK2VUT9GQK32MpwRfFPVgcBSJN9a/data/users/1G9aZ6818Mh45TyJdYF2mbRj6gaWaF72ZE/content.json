@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7hcKoLXRtYDUA8e6SZb9CWJPEb56qZXUtiehJohaZJf3tTZhjwMpZrN75VqJ1gAfpFJ40zdB30b6bnx8py+UAA=",
+ "cert_user_id": "cubb@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c584a0610b099d9fde1a48add75e906d2d0e584e00366a8e064399555eb33ec2",
+   "size": 2179
+  }
+ },
+ "inner_path": "data/users/1G9aZ6818Mh45TyJdYF2mbRj6gaWaF72ZE/content.json",
+ "modified": 1506653317,
+ "signs": {
+  "1G9aZ6818Mh45TyJdYF2mbRj6gaWaF72ZE": "HB6XFMCn0xewuCxboXzLMr6GHJJRwNE10SytXDW6+GFgSFo5EfB5fmyAEU6RXCH+aomcTRyAJbXm/51s6gkUoHk="
+ }
+}

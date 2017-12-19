@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HFd/Vw7XSY5uGahA4WecZ40QMpkajbEtLuxnmf/MmO9/GLzDa1pbp0vyzesL3A98ozvTv+Mahq1zCMEpgJ0Txpc=",
+ "cert_user_id": "kinashoficial@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "79127be3f48af2a90b91604c1c4ad3b983cc19f216db1d858898614e503d0122",
+   "size": 1755
+  },
+  "data.json": {
+   "sha512": "a5341a1fe89dbe4a9185e5522a9c74fca568cd9369b83e2ef767a85317c48318",
+   "size": 335
+  }
+ },
+ "inner_path": "data/users/1LRnwurm8NPaGx6TV5qdk2xgTRAaSZQJ2E/content.json",
+ "modified": 1513031270,
+ "signs": {
+  "1LRnwurm8NPaGx6TV5qdk2xgTRAaSZQJ2E": "HKvEoTEGzj2XM5qSifzAHmKt86q40MnEye5wGLpFdujaVcrvynIuuizxM/r4J11kvFNaeleaIqGPnHBk7EHos4Q="
+ }
+}

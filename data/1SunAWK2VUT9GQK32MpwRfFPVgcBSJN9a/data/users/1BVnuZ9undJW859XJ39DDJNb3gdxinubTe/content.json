@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HD6bX46+IihZdhJGkGfnTvXmI4pLJKOzG/zeRS+u+jE3XlP8kxXjzoFs2U0YR2CNcdO9BylH9SRU/XoriS07g/M=",
+ "cert_user_id": "deadeyevonblur@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "78cee3e4a562b3089360a2d51ba459252e21e63640b439dc3042ba2b0ca81819",
+   "size": 1178
+  },
+  "data.json": {
+   "sha512": "2b7909dcbf09712184ff6ba186566ae22566c3306e98524b7b63bc093857b722",
+   "size": 849
+  }
+ },
+ "files_optional": {
+  "1507921076.jpg": {
+   "sha512": "b162f2088522faa1661022dce334b53417ec35a0082bbaba7264759e809179d7",
+   "size": 53962
+  }
+ },
+ "inner_path": "data/users/1BVnuZ9undJW859XJ39DDJNb3gdxinubTe/content.json",
+ "modified": 1507921692,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1BVnuZ9undJW859XJ39DDJNb3gdxinubTe": "HM9Z9CoE+GhzQtCjb1Ail9/LPC9FmGb8OoBYtTR6cfuzYdatqM1ahLxNTllu+x0L/C/FH00gTTjkzI7F/Q3xOE8="
+ }
+}

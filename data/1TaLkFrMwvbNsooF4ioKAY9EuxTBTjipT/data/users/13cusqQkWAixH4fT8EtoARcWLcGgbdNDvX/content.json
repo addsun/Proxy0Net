@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G2kM+WN55BRsOB9EyQfWiBhFro3hPG+LBsmodAuDH8dPSreIuuJIXviWIauxbjBN90JOowlikYVEKkRTpZsIBdQ=",
+ "cert_user_id": "cooldude79@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "40b2a5409f68f08ef8bd25b709544d7e7c49bac55544aa1caaae26696dc30c15",
+   "size": 1599
+  }
+ },
+ "inner_path": "data/users/13cusqQkWAixH4fT8EtoARcWLcGgbdNDvX/content.json",
+ "modified": 1509059594,
+ "signs": {
+  "13cusqQkWAixH4fT8EtoARcWLcGgbdNDvX": "HOHem44xrV8PJ2fVyfiAoDSbvFbgTdnw8n+CU0ClP7aodu7YfroJW+x56RV7iwsekg2c77gwSmTtPcrNvyljQw4="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2ADcUsoSBZAefTOwxsWSJbtvej+mefFD0m9Po0fVMatoreBTLKAZfzhkvIBNJCoMTIsg4k4O6q5g5WwRGkCVFk=",
+ "cert_user_id": "taolimon@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "504f218608ee1842c91404747276320b0afe7fd5a36e57422c12e350c7b5d56f",
+   "size": 1141
+  },
+  "data.json": {
+   "sha512": "b31847db4f99d7b6061326b97fdf561dba29f93830ff1ee23f91240ce0cd248a",
+   "size": 334
+  }
+ },
+ "inner_path": "data/users/1GbdXcJutettZPgvGkKu6dPPrnVf2RHZQN/content.json",
+ "modified": 1502795318,
+ "signs": {
+  "1GbdXcJutettZPgvGkKu6dPPrnVf2RHZQN": "HDdr3aDi/vhlX3NsvQEmMi1YB6a/zgVKDR8/nYDAheQadj4JVrLnH8Re05je+Xe8ORPVlMRPdsqO9/wPIk0LiaA="
+ }
+}

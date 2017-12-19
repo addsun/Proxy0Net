@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGi4dymyNYZioKuSUVcN2x0cDfj4Dv51mlFO9xwz/DMWaKCQG0/1d/muAHMVqzE7SLvBbMigaN9D/dAHLImfyio=",
+ "cert_user_id": "estforlife@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "09ba871a3236286ae0c5f4c05741bcb6546afd1b1fb4c3350a9c834bcba6f004",
+   "size": 531
+  }
+ },
+ "inner_path": "data/users/1BD4FYDKvNYskYRmDJyWvLQmieNM87wp6f/content.json",
+ "modified": 1505475108,
+ "signs": {
+  "1BD4FYDKvNYskYRmDJyWvLQmieNM87wp6f": "HNsxcZt83RBw6NdJu7GeIOuPjRXsoKBvaNbjDGZoKztqQ7pW/HkxMeuYFQalD4mc2JKeEBniHSHHq2RhIddImaM="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7Sxsq/JToZH85q/iHGKUumK3c1FIiDcN18kLApw7+VFtfoPMKYYZu8fY03ACPMtrW0dBYm1SuHoDRVuDKX/oL0=",
+ "cert_user_id": "jackmckrack@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "db9c9bb9d63d59f464515f82dc6b20b714e72fff225a35e820f7346d84b5c422",
+   "size": 1566
+  },
+  "data.json": {
+   "sha512": "023c0732dd258339888d1c0803148a4487435fc6efe53538271fbb7e84a58f93",
+   "size": 444
+  }
+ },
+ "inner_path": "data/users/1JYhsnWQhqCGecdq7d9KAsNuSaTEpcuhhJ/content.json",
+ "modified": 1505760436,
+ "signs": {
+  "1JYhsnWQhqCGecdq7d9KAsNuSaTEpcuhhJ": "HCBF9i1iwJWQM3h6PuN82+8nidCZqhbeuAd3DfzU9MjjDpeClxQMY6ovUO8QTqvhXYlhjykZwvd8093GCqTkx1Q="
+ }
+}

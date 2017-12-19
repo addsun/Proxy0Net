@@ -1,0 +1,68 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1513304085_17Rdzwwv6BpXjyZeCQNRFUbMQ3uTPNhZHX": 1,
+		"1513303856_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1,
+		"1513302250_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1,
+		"1513227488_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1513417002_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1513621070_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1513304085_17Rdzwwv6BpXjyZeCQNRFUbMQ3uTPNhZHX": [
+			{
+				"comment_id": 1,
+				"body": "hello, yes i can.",
+				"added": 1513304654
+			}
+		],
+		"1513303856_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 2,
+				"body": "I really wish I could, but I haven't been able to last very long.",
+				"added": 1513315929
+			},
+			{
+				"comment_id": 5,
+				"body": "> [byg8o897y7t68fto](#comment_23_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): try the NF companion app (dunno if its on ios but its on android) and maybe the badges will encourage you :P\n\nI'll check it out",
+				"added": 1513368167
+			}
+		],
+		"1512772714_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 3,
+				"body": "> [kopyjane](#comment_97_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Are you using a domain? Or just your IP? If you are:python zeronet.py --ui_port 80 --ui_host www.mydomain.com mydomain.com 127.0.0.1 --ui_ip '*'If you aren't (xx means public IP):python zeronet.py --ui_port 80 --ui_host xx.xx.xx.xx 127.0.0.1 --ui_ip '*'\n\nI'm having issues getting https to work with nginx, I set it all up like a normal website would work, but it seems like it requires more configuration than I expected.",
+				"added": 1513316895
+			}
+		],
+		"1513362859_15zSEBpmS1CwXsJjDA5ymFXtoGpsnpYCWr": [
+			{
+				"comment_id": 4,
+				"body": "It's not appropriate to hunt people down, even if they make decisions that you don't agree with.",
+				"added": 1513364579
+			}
+		],
+		"1513402503_18aZuViC7uWA6UMdsz6p3WV5wBpuCP4yWm": [
+			{
+				"comment_id": 6,
+				"body": "Welcome!",
+				"added": 1513431250
+			}
+		]
+	},
+	"comment_vote": {
+		"22_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"2_17F2Pe6p49YCPUZSagUzrxaiEzcYHq8QCJ": 1,
+		"2_1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": 1,
+		"1_17F2Pe6p49YCPUZSagUzrxaiEzcYHq8QCJ": 1,
+		"4_1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": 1,
+		"1_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"4_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"311_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"46_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"2_1MwX5CASE1nHvmU1iiSbZn6WeeG8vunPq5": 1
+	}
+}

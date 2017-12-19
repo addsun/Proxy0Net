@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6zMpm3OFA7wi9Wv1cYEYzD4qt5kD4+GzlaPU+1h7ZKDc5j8YlUVbpRVFarKdyKPXED4+a4s7TjSojjlK78NPu0=",
+ "cert_user_id": "mag@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "98a33113990c842fa1857db2ef4c54b4ce32c8cb2ec961aba2736ec093def05f",
+   "size": 334
+  }
+ },
+ "inner_path": "data/users/1G7fZWMoRtXGFinnBD3thyGYT433NvMeSW/content.json",
+ "modified": 1512813622,
+ "signs": {
+  "1G7fZWMoRtXGFinnBD3thyGYT433NvMeSW": "G1/K16kb+S/qi66+xVGqvZsj8Ce4/+bo7JoymWIxgRwmVAaP1jBZRTx2POsg0i9gk6DKs9TCUeEEOg53b/0Qs8s="
+ }
+}

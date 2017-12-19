@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "G49dDctLhMV414Rm9PLrCc4OEFQd6fbf4HJAVtOWi+hWbLRxubR7ErllXSuM7W0AYWf7WTIq0HIUmlYgQ2Kr/qI=",
+ "cert_user_id": "utopiaspace@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b7b2b7c45dac2098af754afe1d0f16a13c339b4b5da0ff3a7e72b012fbbcaee5",
+   "size": 196
+  }
+ },
+ "inner_path": "data/users/1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu/content.json",
+ "modified": 1501392531,
+ "signs": {
+  "1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu": "G1GGWsfNqnRaeIcSK/iYS0NVKMjudDnIo44whalMjbRqClB9z/MG7O5JN0TwWhP9yDg5L1Gboc0fKBQyHpY4ulA="
+ }
+}

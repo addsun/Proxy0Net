@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HFVSfivj1IxiYA049hpmatQY4qlFmwfsPbMyYlyQH9FUu9BmK2gMYGu7xTomMeYYPkSHUbm84CyUHBX/hLZ+P7U=",
+ "cert_user_id": "macfly@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "62477fad38ff4717a824755bb984c7683266c54938df24d0334e23a1cd38d21a",
+   "size": 255
+  }
+ },
+ "inner_path": "data/users/1G1rxLmkA3aWSFCxKLiq7VPk1N6Jc4H5wU/content.json",
+ "modified": 1511577186,
+ "signs": {
+  "1G1rxLmkA3aWSFCxKLiq7VPk1N6Jc4H5wU": "HHV++jWCrDchnYbVXDLi+lAwkXxH2xlgSdzt7XX7d7fucM3NBfFhFyLly1Ayh7jHzbWfEL+ETTiIfHaCdEmCgmY="
+ }
+}

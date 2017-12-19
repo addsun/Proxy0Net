@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNd+YinVzHQJBIeJyiFg41KDTMQFnTNHa5y38N+miUz+boG8AuSA+CCeW0Fw71Ob9JooLdUfWTErfzKJtsoqOuk=",
+ "cert_user_id": "libreplanet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "66b15e76eb3797ecbcfa06d9377dd1933e9bdc287ffc18d72d29b34216c89ad6",
+   "size": 623
+  }
+ },
+ "inner_path": "data/users/1Nw5fLDm4Vt4yh5FitbBD3DcYbezBEA9EK/content.json",
+ "modified": 1503626429,
+ "signs": {
+  "1Nw5fLDm4Vt4yh5FitbBD3DcYbezBEA9EK": "G2Qy2yMPq5+Eh6HB8MIR7wyRVnrZpilO6r8QTFWEuZWifEGcWBTKKUPP+joVHBFGDQlR2ik1iKx1eGXKshilHlU="
+ }
+}

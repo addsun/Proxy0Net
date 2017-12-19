@@ -1,0 +1,22 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HDr9zlfip3C4xtGzp3lVDsQCoggiphVWHuQ+SDD3kTXZ+GYgEX33rWd43o33fxJ0S5HIPpfq0wnl6lymYlDz/QA=",
+ "cert_user_id": "erotic@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ca2b63ef6e8a834e5d1d4e298ca77c5a58685644a3222fa3025af19883889c88",
+   "size": 1380
+  },
+  "data.json": {
+   "sha512": "8f0420025458ac214556f30ed36087d87b905f5c6eb67823a3e500dfe960d443",
+   "size": 53696
+  }
+ },
+ "inner_path": "data/users/157VksPLxufKMy8U344wPhayVY3RhkL8SK/content.json",
+ "modified": 1508589625,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "157VksPLxufKMy8U344wPhayVY3RhkL8SK": "HEF5L/Fow0HYOO2UIF2T+S384LkpzCJclCObaG3e5mlIeN/8KDlAmLoaLI+mOcu2mWzkuU20w7y0G1eObXPmsS0="
+ }
+}

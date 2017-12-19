@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HGmthiAuGoYsTQ9cygsZDRFhl9A+oQWacfj4gzwwCrJP36gHKJTblc4J3HqaJAYSZbzAMkXKM5snIWa0TfE+bhc=",
+ "cert_user_id": "splinterk@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "3957fa6394cfcdafc3426f140ee32a1fa10b2a1197072dd216bbd15660396381",
+   "size": 671
+  },
+  "data.json": {
+   "sha512": "b448bfa722cf12ce319c529054f51a1ea969e6a0dc0e6c3ae05dcfb815325f6a",
+   "size": 4021
+  }
+ },
+ "files_optional": {
+  "1480338574.jpg": {
+   "sha512": "5121d8c6a47b8825610ae3f45146a688ef74304d0eec1844843783da27ad5c3c",
+   "size": 34666
+  }
+ },
+ "inner_path": "data/users/1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj/content.json",
+ "modified": 1480519055.169098,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj": "G2PMWLvmhp3yQQAmWQgAQ070T5DGbPhcLkJrqCtoULSdPWBDgnzE1LJItyn6Lv8amlaxJevb7F/60HsF1WnOo2I="
+ }
+}

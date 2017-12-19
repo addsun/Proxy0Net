@@ -1,0 +1,1464 @@
+{
+	"next_post_id": 27,
+	"next_comment_id": 166,
+	"next_follow_id": 51,
+	"avatar": "png",
+	"user_name": "Git Center",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Git Center: http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t\nGitHub mirror: https://github.com/imachug/gitcenter\nGitLab mirror: https://gitlab.com/imachug/gitcenter",
+	"post": [
+		{
+			"post_id": 1509637699,
+			"body": "# Git Center - GitHub for ZeroNet\n**Git Center** is a decentralized hosting platform for Git repositories. We provide several collaboration features such as bug tracking for every project, and private and public repositories.\n\n## Why Git Center?\nCurrently **Git Center** is the only repository hosting in ZeroNet. This is like 0git, but better: a full alternative to GitHub.\n\n## Cool! How can I access it?\nFull link: [http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/)\nCurrently you can also use [0sh.bit/?GitCenter](/0sh.bit/?GitCenter)",
+			"date_added": 1509637696,
+			"meta": "{\"img\":\"700,700,fffadf39feff6bf08f7bfeefdef18f,0012332100045533554015560065512560780652958355885995835588592560780652155600655104553355400012332100\"}"
+		},
+		{
+			"post_id": 1509714410,
+			"body": "@Kaffie: Could you please add [Git Center](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t) - an alternative to GitHub - to Kaffiene?",
+			"date_added": 1509714406
+		},
+		{
+			"post_id": 1509719565,
+			"body": "## Git Center Update\n1. Fixed bugs\n2. Added \"Upload file\" feature. You have to press `New file`, then choose path and commit message, then press `Upload and commit` button.",
+			"date_added": 1509719560
+		},
+		{
+			"post_id": 1509719874,
+			"body": "GitHub mirror: https://github.com/imachug/gitcenter\nGitLab mirror: https://gitlab.com/imachug/gitcenter",
+			"date_added": 1509719868
+		},
+		{
+			"post_id": 1509720532,
+			"body": "Preview",
+			"date_added": 1509720525,
+			"meta": "{\"img\":\"900,642,444555dddcccbbbeeeddefffeef,0011100000223443222255555555555656655555755688888877755777777752577777\"}"
+		},
+		{
+			"post_id": 1509723199,
+			"body": "## Git Center Update\n\nFixed hooks. A few words about what they are (currently working only on Windows, but that's a bug in ZeroNet):\n1. You can enable them for your repository in `Settings` tab. You have to sign and publish changes after that.\n2. They simplify `git push`. If you enable them and set `zeronet.home` git variable, `git push` will automatically sign & publish your repository.\n3. How it works? Your `users.json` is read, then zeronet.py, zeronet.exe or whatever is ran to sign and publish your repository.",
+			"date_added": 1509723191,
+			"meta": "{\"img\":\"900,542,fffeeedddccccbcfef,000000000000000000000000000000121234200012150000555210000000\"}"
+		},
+		{
+			"post_id": 1510077454,
+			"body": "## Git Center Update\nI couldn't work for this project for some days, now I fixed some issues.\n\nMaintainers don't work, so they were removed. Signing now works as signing with site's private key. So, you have to share repository private key with other maintainers.\n\nI won't be able to update my repos to make them work, but @Krixano: 's repos' are be downloadable.\n",
+			"date_added": 1510077445
+		},
+		{
+			"post_id": 1510490810,
+			"body": "@Nofish: Are you planning on adding ZeroNet to Git Center?",
+			"date_added": 1510490800
+		},
+		{
+			"post_id": 1510512873,
+			"body": "## Git Center Update\n\nAdded stars. Now you can star any repository that is in index (you cannot star private repositories).",
+			"date_added": 1510512862
+		},
+		{
+			"post_id": 1510586100,
+			"body": "Dark theme for Git Center by @Binchan:\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/1510560577",
+			"date_added": 1510586088
+		},
+		{
+			"post_id": 1510586911,
+			"body": "@Nofish: Have you thought about `Repost` button on ZeroMe?",
+			"date_added": 1510586898
+		},
+		{
+			"post_id": 1511366423,
+			"body": "Whoever posted `BitTorrent Share` to Git Center, could please resign and republish your repository? Currently it's not downloadable.",
+			"date_added": 1511366407
+		},
+		{
+			"post_id": 1512647595,
+			"body": "Added repository index sorting by stars! And star count is shown.\n\n@BinChan: Please update your dark theme for this.\n\n---\n\nWorking on searching.",
+			"date_added": 1512647578,
+			"meta": "{\"img\":\"900,538,666555dddeeefff,000000001122344444443334444444333444444433444444433334444444\"}"
+		},
+		{
+			"post_id": 1512654350,
+			"body": "## Git Center Update\nAdded search of repository index!\n\n@BinChan: Please fix your dark theme.",
+			"date_added": 1512654332,
+			"meta": "{\"img\":\"900,492,666eeeddefffdddede,00000000001213333331333333333314251333333113333333\"}"
+		},
+		{
+			"post_id": 1512823631,
+			"body": "@Herp: Guess you have a problem. You are following fake nof**t**sh instead of nof**i**sh.",
+			"date_added": 1512823612
+		},
+		{
+			"post_id": 1512831957,
+			"body": "## Git Center Update\n\nNot such a big feature, but just added issue/PR mentioning!",
+			"date_added": 1512831937,
+			"meta": "{\"img\":\"766,700,eedddbdddeecffeeeecccffcffdccb,011230000402200000054000000004033333333406663333340212373378831137007809991337784044444444\"}"
+		},
+		{
+			"post_id": 1512833982,
+			"body": "@Bwoi: @Alex: Looks like you are finally alive. Could you resign your Git Center Repo please (RVRE)?",
+			"date_added": 1512833961
+		},
+		{
+			"post_id": 1512837360,
+			"body": "@BinChan: Sorry for asking you again, but could you please enchat your dark theme and unset `font-size: 32px` for repo title? It was changed to 28px for a while because then repo name overflows.",
+			"date_added": 1512837338
+		},
+		{
+			"post_id": 1512849555,
+			"body": "Devs!\n\nHelp with SQL!\n\n```sql\nSELECT tbl.type AS type, tbl.date_added AS date_added, tbl.title AS title, tbl.action AS body, tbl.url AS url FROM (\n\t\t\tSELECT\n\t\t\t\t'comment' AS type, issue_actions.date_added AS date_added, issues_json.title AS title, issue_actions.action AS action, issue_actions.param AS param, 'repo/issues/view/?' || issues_json.site || '/' || issues_json.id || '@' || REPLACE(issues_json.directory, 'data/users/', '') AS url\n\t\t\tFROM\n\t\t\t\tissue_actions\n\t\t\tLEFT JOIN\n\t\t\t\t(SELECT id, title, body, json_id, site, directory FROM issues LEFT JOIN json USING (json_id)) AS issues_json\n\t\t\tON\n\t\t\t\t(issue_actions.issue_id = issues_json.id AND issue_actions.issue_json = issues_json.directory)\n\t\t\tLEFT JOIN\n\t\t\t\t(SELECT cert_user_id, json_id AS action_json_id FROM json) AS action_json\n\t\t\tON\n\t\t\t\t(action_json.action_json_id = issue_actions.json_id)\n\t\t\tWHERE\n\t\t\t\tissues_json.site IN (:params) AND issue_actions.json_id IN (SELECT json_id FROM json WHERE json.site = issues_json.site)\n\t\t\t\n\t\t\tUNION ALL\n\t\t\t\n\t\t\tSELECT\n\t\t\t\t'comment' AS type, pull_request_actions.date_added AS date_added, pull_requests_json.title AS title, pull_request_actions.action AS action, pull_request_actions.param AS param, 'repo/pull-requests/view/?' || pull_requests_json.site || '/' || pull_requests_json.id || '@' || REPLACE(pull_requests_json.directory, 'data/users/', '') AS url\n\t\t\tFROM\n\t\t\t\tpull_request_actions\n\t\t\tLEFT JOIN\n\t\t\t\t(SELECT id, title, body, json_id, site, directory FROM pull_requests LEFT JOIN json USING (json_id)) AS pull_requests_json\n\t\t\tON\n\t\t\t\t(pull_request_actions.pull_request_id = pull_requests_json.id AND pull_request_actions.pull_request_json = pull_requests_json.directory)\n\t\t\tLEFT JOIN\n\t\t\t\t(SELECT cert_user_id, json_id AS action_json_id FROM json) AS action_json\n\t\t\tON\n\t\t\t\t(action_json.action_json_id = pull_request_actions.json_id)\n\t\t\tWHERE\n\t\t\t\tpull_requests_json.site IN (:params) AND pull_request_actions.json_id IN (SELECT json_id FROM json WHERE json.site = pull_requests_json.site)\n\t\t) AS tbl\n```\n\nFor directory structure, please refer to dbschema.json [on GitHub <external>](https://github.com/imachug/gitcenter/blob/issue-9-164x9q7/src/dbschema.json) or [on Git Center <zeronet>](http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/file/?18r929Hq8hE5Pi9Zf7ovMQVyn3WcGfxMgu/src/dbschema.json@issue-9-164x9q7).\n\n---\n\nI am getting this error in ZeroNet console:\n\n```sql\n'SELECT'\n```\n\nSeriously.\n\nInterestingly, after changing `:params` to `\"1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t\"` and running that query locally (via SQLiteStudio) on my database, I get correct results and no error.",
+			"date_added": 1512849532
+		},
+		{
+			"post_id": 1513005011,
+			"body": "## Git Center Update\n\nBrought to my attention by @空澄砂夜: aka Sorasumi Sayo. Added `[ ]` / `[x]` / `[v]` checkboxes support in markdown by [commit c73bead](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/commit/?18r929Hq8hE5Pi9Zf7ovMQVyn3WcGfxMgu/c73bead539eecffe33908bade25368aaa6326652).\n\nNot editable by clicking yet, if you have any ideas how to implement that, post issue to Git Center repository.\n\n---\n\nExample from `|><||>` [repository](/15Z4H5K8YxjqGWpPxMLHWwr6Ve2nR7dz8d):",
+			"date_added": 1513004987,
+			"meta": "{\"ext_media\":{\"type\":\"image\"},\"img\":\"790,700,222333444,010000000001100000000221000000011100000001222000000122100000011000000001100000000111000000\"}"
+		},
+		{
+			"post_id": 1513516312,
+			"body": "## Git Center Update\n\n1. Show actions like closing/reopening issue/PR.\n2. Follow actions in newsfeed.\n3. Editing and comments and issues!\n4. Add and remove tags and follow changes in newsfeed.",
+			"date_added": 1513516287,
+			"meta": "{\"img\":\"900,608,eeedcddddeedccbbbaffefffdccddcccc,012000300034536666667338966666700A777777733A37777773336666667067777777\"}"
+		},
+		{
+			"post_id": 1513585986,
+			"body": "Issue sorting feature finally arrived at Git Center! Added `Open` and `Closed` tabs. @BinChan:",
+			"date_added": 1513585960
+		}
+	],
+	"post_like": {
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699": 1509649805,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1508918241": 1509715448,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1508918333": 1509715453,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509030252": 1509715739,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509033002": 1509715741,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509157571": 1509715746,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509171190": 1509715754,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509172511": 1509715757,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509278439": 1509715781,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509278515": 1509715790,
+		"18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1510434979": 1510597354,
+		"18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1510430799": 1510597355,
+		"18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1510131543": 1510597358,
+		"18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1509645197": 1510597461,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410": 1512589161,
+		"1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg_1512608602": 1512634274,
+		"1gJPRbL7puiekYd32rYVuCkELC43bCsY9_1512644722": 1512645106,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512647595": 1512654521,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512654350": 1512658613,
+		"13yfHGtGHMJpTvGdkDzushc7inBDjZRtcM_1512660028": 1512673875,
+		"13yfHGtGHMJpTvGdkDzushc7inBDjZRtcM_1": 1512667331,
+		"15ZEvxqzPELTcLbrgDBQ4GEW4sLThbm47r_1": 1512671505,
+		"13yfHGtGHMJpTvGdkDzushc7inBDjZRtcM_1512723603": 1512739951,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1511777884": 1512741284,
+		"1gJPRbL7puiekYd32rYVuCkELC43bCsY9_1512778010": 1512823461,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512831957": 1512842400,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555": 1512908742,
+		"18sV4LF2Q372BLkTJN5Z24HeRexQQscx1E_1512911190": 1512912429,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512837360": 1512928763,
+		"1LrDWSzi63MhST9ZNkefSPJGFAuByRMeCx_1512911406": 1513001305,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513005011": 1513010172,
+		"1Aqy7MbTYf6Woqx4Hv5NKR1Zq2TQLgwB97_1": 1513351798,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513220588": 1513352126,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513142397": 1513352318,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513320909": 1513364560,
+		"1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs_1513430474": 1513449155,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513480023": 1513492472,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513585986": 1513618404,
+		"1MrESi8JYQqWEVbuRiGE8d41z29PmpT8GT_1513613777": 1513619216,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513516312": 1513619714
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Krixano: You can create a new repo and then force-push to it.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509648428
+		},
+		{
+			"comment_id": 2,
+			"body": "@Krixano: > Does the author email have to be the same as git's email?\nNo, BTW you can change it in Profile.\n\n> It keeps on asking to add a new site, even though I already did, everytime I click on a tab. Okay, so I fixed the problem with the publishing to repository index by going to the repo index merger site here. Then, it downloads it and redirects to Git Center. After that I am able to successfully publish to the repo index. After I did this, I no longer get that problem with it asking to add a site whenever I goto a new page/tab.\n\nYou should also download http://127.0.0.1:43110/1RepoXU8bQE9m7ssNwL4nnxBnZVejHCc6/.\n\nI guess necessary sites weren't downloaded in time. After all, this is beta. I thought that mergerSiteAdd would download site. And maybe it would download it if there were more peers. Could you please help me to seed please?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509648802
+		},
+		{
+			"comment_id": 3,
+			"body": "@Krixano: And thanks for uploading ZeroMedium to Git Center! I cannot download it now though, I think you are offline.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509648971
+		},
+		{
+			"comment_id": 4,
+			"body": "@Krixano: > btw, I can't view the GitCenter Source repo because the content.json isn't downloading for me.\nThat's strange. I thought it was uploaded to many proxies, but maybe I'll download it to another computer and seed it from there then.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509691978
+		},
+		{
+			"comment_id": 5,
+			"body": "@Krixano: Oh. Could you click that big blue `Sign & Publish changes` button again for test? And if it doesn't help, visit `http://127.0.0.1:43110/..../1` (that /1 is not to redirect) and manually sign & publish?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509692345
+		},
+		{
+			"comment_id": 6,
+			"body": "@Krixano: I am seeding your repository now. And that's veeery strange. Could you please check `Settings` tab of your repository? There should be **Maintainers** menu, can you find `krixano@zeroid.bit` in the list?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509692895
+		},
+		{
+			"comment_id": 7,
+			"body": "@Krixano: Maybe a bug in MergerSite plugin. I am using `sitePublish` command for this button, I thought it signs before publish.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693155
+		},
+		{
+			"comment_id": 8,
+			"body": "@Krixano: Wait a bit. You said you can publish to another count of peers. Maybe ZeroNet is trying to publish `Git Center` itself, not your repository?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693192
+		},
+		{
+			"comment_id": 9,
+			"body": "@Krixano: I have an idea. Have you logged in to ZeroID? (you can do that in sidebar, and Git Center asks for it when visiting Profile)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693624
+		},
+		{
+			"comment_id": 10,
+			"body": "@Krixano: > Also, I think using sitePublish and siteSign signs the current zite. There doesn't seem to be a way to give it another zite to sign/publish - I'm not sure on this.\nYes, I know that. But I use merger sites, and MergerSite plugin does that for me. If I pass `merged-GitCenter/.../content.json` as argument, it signs and publishes `...` for me. And `sitePublish` has `sign` argument which defaults to True.\n\n> There's another command for signing, siteSign. When calling it, you need to give it the private key for the zite.\nIn fact, Git Center uses another idea. Instead of signing repository with repository's private key, you sign it with **your** key. When creating a repository, Git Center adds your ZeroID public key to `signers` of `content.json`. Then repository can be signed with ZeroID.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693632
+		},
+		{
+			"comment_id": 11,
+			"body": "@Krixano: Could you do some changes and sign & publish this file in sidebar of Git Center: `merged-GitCenter/1BEPbMfV8QtaZCD2cPNbabfDKnmhTAZRPx/content.json`? Did it help?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693790
+		},
+		{
+			"comment_id": 12,
+			"body": "@Krixano: I am using merger site feature, when using path like `merged-GitCenter/a/b/c` works like accessing `b/c` of site `a`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509693847
+		},
+		{
+			"comment_id": 13,
+			"body": "@Krixano: I have your change now.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694024
+		},
+		{
+			"comment_id": 16,
+			"body": "@Git Center: So this works. And could you please remove that change, then push (without signing), then open DevTools and execute the following:\n```javascript\nwrapper.ws.cmd(\"sitePublish\", {inner_path:\"merged-GitCenter/1BEPbMfV8QtaZCD2cPNbabfDKnmhTAZRPx/content.json\"})\n```\nThis signs site with ZeroID address, not site's private key.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694156
+		},
+		{
+			"comment_id": 17,
+			"body": "@Krixano: Yes, it worked. So big blue button doesn't work, but the same thing executed in the console works. Weird.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694347
+		},
+		{
+			"comment_id": 18,
+			"body": "@Git Center: And if execute this:\n```javascript\nwrapper.ws.cmd(\"sitePublish\", {inner_path:\"merged-GitCenter/1BEPbMfV8QtaZCD2cPNbabfDKnmhTAZRPx/content.json\", privatekey: null})\n```\nI've added `privatekey: null`, that's the only difference between that code and code of Git Center. And if it works, then big blue button should work, strange if it won't.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694455
+		},
+		{
+			"comment_id": 19,
+			"body": "@Eterno:, I can read @Krixano: answering to you, but I don't see your messages. What hub are you using?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694588
+		},
+		{
+			"comment_id": 20,
+			"body": "@Krixano: But I am on SunHub, too. :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694657
+		},
+		{
+			"comment_id": 21,
+			"body": "@Krixano: Did you try the code with `privatekey: null`?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694697
+		},
+		{
+			"comment_id": 22,
+			"body": "@Krixano: It worked. Veeeery strange. Now, if you `git reset --soft HEAD^^^` and then `git push --force` and then push `Sign & Publish changes`? Maybe it didn't work because there weren't many peers?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694887
+		},
+		{
+			"comment_id": 23,
+			"body": "@Krixano: `stored` means use site's private key. And `null` means ZeroID or any other auth provider.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694918
+		},
+		{
+			"comment_id": 24,
+			"body": "@Krixano: It moves you current branch 3 commits back.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694943
+		},
+		{
+			"comment_id": 25,
+			"body": "@Krixano: That's because I think it's bad to add 4 commits which do nothing, just for test.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509694970
+		},
+		{
+			"comment_id": 26,
+			"body": "@Krixano: Are you using windows cmd? Then use `git reset --soft HEAD~3`",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695051
+		},
+		{
+			"comment_id": 27,
+			"body": "@Krixano: In windows, ^ is escape character.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695063
+		},
+		{
+			"comment_id": 28,
+			"body": "@Krixano: Yes, now your branch is 3 commits back, I can see this in Git Center. So publishing via big blue button works?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695204
+		},
+		{
+			"comment_id": 29,
+			"body": "@Krixano: I think no. According to these lines in `UiWebsocket.py`:\n```python\n    def actionSitePublish(self, to, privatekey=None, inner_path=\"content.json\", sign=True):\n        if sign:\n            inner_path = self.actionSiteSign(to, privatekey, inner_path, response_ok=False)\n            if not inner_path:\n                return\n```\n...sign always happens before publishing. Anyway, I find that launching a site is difficult in ZeroNet because you have no peers. When there are at least 5 peers, everything is OK. Another reason to spread Git Center :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695375
+		},
+		{
+			"comment_id": 30,
+			"body": "@Krixano: Maybe you are right. Did you notice that sidebar's `Publish` doesn't sign automatically? And many @nofish'es sites first do siteSign and then sitePublish? I'll do the same then. Thank you for an idea!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695566
+		},
+		{
+			"comment_id": 31,
+			"body": "@Krixano: I cannot sign my repos right now because they are on another computer, and it is offline. But I will fix big blue button and sign those repos ASAP.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695733
+		},
+		{
+			"comment_id": 32,
+			"body": "@Krixano: What OS are you using? I wanted to test another feature, but it only works on Windows. I asked @nofish: to fix this, but currently there is still a bug on Linux and Darwin.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509695939
+		},
+		{
+			"comment_id": 33,
+			"body": "@Krixano: OK! I've added a feature called Hooks. On repository settings page, you can turn `Hooks` to enabled. Then `git push` command will automatically sign and publish. Could you try it please?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696053
+		},
+		{
+			"comment_id": 34,
+			"body": "@Krixano: I thought about that. What do you think about this: I change hooks to check if Python 3 or Python 2 is installed, and then use correct code for correct language.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696189
+		},
+		{
+			"comment_id": 35,
+			"body": "@Krixano: No no no. I often use Python 3 for myself, so I'll add a check right now.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696239
+		},
+		{
+			"comment_id": 36,
+			"body": "@Krixano: BTW, How do you run ZeroNet if it uses Python 2 and you have Python 3 installed? Via `zeronet.py` or `start.bat` or whatever?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696450
+		},
+		{
+			"comment_id": 37,
+			"body": "@Krixano: ZeroBundle?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696569
+		},
+		{
+			"comment_id": 38,
+			"body": "@Krixano: I see `Python` directory in that downloaded zip.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696755
+		},
+		{
+			"comment_id": 39,
+			"body": "@Krixano: > Also, are you Ivanq aka imachug?\nYes, I am. How did you guess?\n\n> I see a python27.dll. I guess that's it? I just noticed that dll file. I don't see a directory for it though.\nAnd I see `python.exe` there also.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509696927
+		},
+		{
+			"comment_id": 40,
+			"body": "@Krixano: I see that after running `zeronet.cmd` download starts. I guess I'll wait for it to finish.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697230
+		},
+		{
+			"comment_id": 41,
+			"body": "@Krixano: I've also uploaded Git Center to [GitHub](https://github.com/imachug/gitcenter)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697370
+		},
+		{
+			"comment_id": 42,
+			"body": "@Krixano: Like \"Download ZIP\"?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697521
+		},
+		{
+			"comment_id": 43,
+			"body": "@Krixano:\n> Yes, I am. How did you guess?\nI'm still waiting for an answer :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697539
+		},
+		{
+			"comment_id": 44,
+			"body": "@Krixano:\n> For me, I start zeronet with the zeronet.exe file. Perhaps the reason for our differences is that your using an older version of the bundle?\nMaybe **you** are using an old version? I've just downloaded a new version from here: https://github.com/HelloZeroNet/ZeroBundle/blob/master/dist/ZeroBundle-win.zip ...and I have Python and ZeroNet folder after running `zeronet.cmd`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697619
+		},
+		{
+			"comment_id": 45,
+			"body": "@Krixano: Wow!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509697982
+		},
+		{
+			"comment_id": 46,
+			"body": "@Krixano: That's it! I'll check it then. It's interesting where did bundle from zeronet.io came from.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698175
+		},
+		{
+			"comment_id": 47,
+			"body": "@Krixano: I've found it: https://github.com/HelloZeroNet/ZeroNet-win",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698228
+		},
+		{
+			"comment_id": 48,
+			"body": "@Krixano: I've thought that too. I am unpacking win-dist currently.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698265
+		},
+		{
+			"comment_id": 49,
+			"body": "@Krixano: Do you mean like \"Download ZIP\"?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698426
+		},
+		{
+			"comment_id": 50,
+			"body": "@Krixano: > Wait, was that what that Like Download Zip? question was in response to?\nYes, it was.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698440
+		},
+		{
+			"comment_id": 52,
+			"body": "@Krixano:\n> In GitHub, you can attach files to releases, as well as a zip to download the repo at that release. \nMaybe. Though I'm not sure if there is space for that in repository left.\n> For tags, I'm meaning a way to see the tags and view the repo at the tag.\nIn the sidebar you can see branch list. Tags are also listed there (they are coloured red)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698589
+		},
+		{
+			"comment_id": 53,
+			"body": "@Krixano: You can `git push --tags`. By default even `git push --all` doesn't push tags.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698737
+		},
+		{
+			"comment_id": 54,
+			"body": "@Krixano: Now I can see 17-11A tag.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509698966
+		},
+		{
+			"comment_id": 55,
+			"body": "@Krixano: I thoght about that. I tried many things, but I couldn't make it work. Maybe you could help me?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509699249
+		},
+		{
+			"comment_id": 56,
+			"body": "@Krixano: I've tried to use gitgraphjs, but couldn't make it work with dynamic workflow, when commits must be loaded from files.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509699732
+		},
+		{
+			"comment_id": 57,
+			"body": "@Krixano: If you want to ask me about feature, please ask me here, at ZeroMail or at github. Don't try to reach me at Git Center Source repository, because I cannot download it from here: my second computer is offline.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509699863
+		},
+		{
+			"comment_id": 58,
+			"body": "@Krixano: I tried that, believe me, but I couldn't go through all the commits in correct order. I simply couldn't write correct code. It would be wonderful if you could do that.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509700081
+		},
+		{
+			"comment_id": 59,
+			"body": "@Krixano: GitHub has Insights -> Community which is something like commit graph.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509700278
+		},
+		{
+			"comment_id": 60,
+			"body": "@Krixano: There is src/js/git.md which has some info (you can access it on github or in zeronet) or ask me on GitHub or here.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509700505
+		},
+		{
+			"comment_id": 61,
+			"body": "@Krixano: I've forgotten, sorry. Now I did.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509701437
+		},
+		{
+			"comment_id": 62,
+			"body": "@Krixano: I'm having 0 peers. Did you click big blue button?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509701742
+		},
+		{
+			"comment_id": 63,
+			"body": "@Krixano: 2 peers",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509701780
+		},
+		{
+			"comment_id": 64,
+			"body": "@Krixano: content.json download failed. Maybe try to sign & publish manually, as we did with ZeroMedium?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509701881
+		},
+		{
+			"comment_id": 65,
+			"body": "@Krixano: Now it works.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509702117
+		},
+		{
+			"comment_id": 66,
+			"body": "@Krixano: > @Git Center: Hmmm. I wonder what's going on? Is it because privatekey: signStyle == \"site\" ? \"stored\" : null is evaluating to site instead of null?\nBut even if \"site\" is selected (which means private key for site is used instead of ZeroID) it should still work.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509702162
+		},
+		{
+			"comment_id": 67,
+			"body": "@Krixano: Did you git push?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509702286
+		},
+		{
+			"comment_id": 68,
+			"body": "@Krixano: Current site's private key. But as I sign `merged-...` ZeroNet automatically  switches site to merged.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509702358
+		},
+		{
+			"comment_id": 69,
+			"body": "@Krixano:\n> no, I left it at it's default state. But that shouldn't matter should it?\nThat shouldn't matter at all. I just mean that you didn't do anything that I didn't receive.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509702578
+		},
+		{
+			"comment_id": 70,
+			"body": "@Krixano: Sign is called in changeHooks() and changeDescription(). It is used to sign changes just to make ZeroNet accept them, and then you can publish changes by clicking Sign & Publish changes.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509703449
+		},
+		{
+			"comment_id": 71,
+			"body": "@Krixano: That's OK, I guess 12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu is your ZeroID public key. `signers_sign` is outdated, as I remember. And `signers` is a list of signatures.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509703867
+		},
+		{
+			"comment_id": 72,
+			"body": "@Krixano: BTW. I don't know how to update hooks (they are in assets/ directory of Git Center) because they are created by Repo.install or whatever. But I've done something that might fix hooks. Can you please download `assets/post-receive` and `assets/pre-receive` and copy them to `ZeroNet/data/1BEPbMfV8QtaZCD2cPNbabfDKnmhTAZRPx/zeromedium.git/hooks/{post-receive,pre-receive}`. Then sign, publish and try to enable hooks.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704004
+		},
+		{
+			"comment_id": 73,
+			"body": "@Krixano: About hooks: Use `hooks` branch, not `master`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704214
+		},
+		{
+			"comment_id": 74,
+			"body": "@Krixano: > I'm gonna go to bed in around half an hour btw.\nOK.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704237
+		},
+		{
+			"comment_id": 75,
+			"body": "@Krixano: I added a check on sign error, so now after pushing big blue button there may appear a notification with warning. Could you try please?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704341
+		},
+		{
+			"comment_id": 76,
+			"body": "@Krixano: You copied pre-receive from github, am I correct?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704759
+		},
+		{
+			"comment_id": 77,
+			"body": "@Krixano: To ZeroNet-win-dist/core",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704969
+		},
+		{
+			"comment_id": 78,
+			"body": "@Krixano: Yes, that's ugly, but just for test.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509704985
+		},
+		{
+			"comment_id": 79,
+			"body": "@Krixano: When you run `python` from command line, Python 3 is opened, right?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705037
+		},
+		{
+			"comment_id": 80,
+			"body": "@Git Center: I've changed something, plz try again.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705216
+		},
+		{
+			"comment_id": 81,
+			"body": "@Krixano: Did you git config --global ? (Really --global?)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705458
+		},
+		{
+			"comment_id": 82,
+			"body": "@Krixano: I've added a bit more code to `hooks` branch, please check.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705703
+		},
+		{
+			"comment_id": 83,
+			"body": "@Krixano: I get: `Python 2 not installed. If you want to automatically sign and publish after pushing, please install it.`, but not `No such file or directory`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705848
+		},
+		{
+			"comment_id": 84,
+			"body": "@Krixano: I guess you are offline now. Good night!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509705980
+		},
+		{
+			"comment_id": 85,
+			"body": "@Krixano: It is 2 PM here. Anyway, good night!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509706247
+		},
+		{
+			"comment_id": 86,
+			"body": "@Krixano: This is beta, you see, so I recommend you to have a mirror somewhere in ClearNet.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509706489
+		},
+		{
+			"comment_id": 87,
+			"body": "@Krixano: Hey! You downloaded hooks from GitHub, `hooks` branch, am I correct? Then, did you copy `#!/bin/bash`? There must be no whitespace before this shebang.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509706978
+		},
+		{
+			"comment_id": 88,
+			"body": "@Krixano: Another note. You are using `git-cmd`, does running `bash` in command prompt work? That's from https://stackoverflow.com/questions/5697210/msysgit-error-with-hooks-git-error-cannot-spawn-git-hooks-post-commit-no-su",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509707058
+		},
+		{
+			"comment_id": 89,
+			"body": "@Krixano:\n> Oh, another thing I noticed. When creating a pull request, you can tell it the fork address and branch, but you can't tell it which branch you want to merge into. Unless I overlooked it.\n\nSorry, I didn't notice your message. That's because **Git Center** cannot merge changes. To merge PR, you should click `Import` on PR page, then `git fetch`, and PR's branch will appear in your local repository. You can manually merge or rebase it where you want.\n\nAnd why **Git Center** cannot manually merge:\nThere are many merge strategies. So maybe I can use only one strategy, run some function for each modified file. But what about deleted/modified conflict? What about conflicts at all? That would be too difficult to implement in browser.\n\nBut, of course, PRs are welcome.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509713819
+		},
+		{
+			"comment_id": 90,
+			"body": "@Krixano: That's much better. I'll think how to fix that. At least now we have the same error messages.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509719826
+		},
+		{
+			"comment_id": 91,
+			"body": "@Krixano: Could you please download newer version? It should echo something like C:\\Users\\krixa\\... Or maybe you'll find `remote:` (my test echoed nothing). That's OK too.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509719998
+		},
+		{
+			"comment_id": 92,
+			"body": "@Krixano: So I can delete this: `remote: C:/Users/krixa/Desktop/ZeroNet-win-dist/core` test now?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509721278
+		},
+		{
+			"comment_id": 93,
+			"body": "@Krixano: Then I am going to support both using `ZeroNet-win-dist`, not `core`, as `zeronet.home`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509721314
+		},
+		{
+			"comment_id": 94,
+			"body": "@Krixano: > Can you see the new commit on my ZeroMedium repo\nYeah.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509721352
+		},
+		{
+			"comment_id": 95,
+			"body": "@Krixano: And at the very beginning you told about uploading existing repository. Maybe I can add `Mirror` feature, but maybe it's wrong to mirror repository in browser? Maybe `git remote add ... && git push ... --force` is better?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509721422
+		},
+		{
+			"comment_id": 96,
+			"body": "@Krixano: OK.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509721475
+		},
+		{
+			"comment_id": 97,
+			"body": "@Krixano: I will be off for about 30 min.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509724638
+		},
+		{
+			"comment_id": 98,
+			"body": "@Krixano: I'm back.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509725697
+		},
+		{
+			"comment_id": 99,
+			"body": "@Krixano: And at the very beginning you told about uploading existing repository. Maybe I can add `Mirror` feature, but maybe it's wrong to mirror repository in browser? Maybe `git remote add ... && git push ... --force` is better?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509725985
+		},
+		{
+			"comment_id": 100,
+			"body": "@Krixano: BTW, do you know how GitHub handles releases? Do you have to upload ZIP for yourself or it is done automatically?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509726179
+		},
+		{
+			"comment_id": 101,
+			"body": "@Krixano: Can I add releases with description via `git tag ...`, do you know?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509726608
+		},
+		{
+			"comment_id": 102,
+			"body": "@Krixano: That would be good, but I mean easy importing of projects from other sites. Like you create GitHub repository, and then you import it to Git Center.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509726711
+		},
+		{
+			"comment_id": 103,
+			"body": "@Krixano: Do you think it would be ok to leave only tags for releases? I mean, you can still add description, but you can't select branches and commits as releases.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509726889
+		},
+		{
+			"comment_id": 104,
+			"body": "@Krixano: Maybe ask users to tag `git tag -a v1.0`, which will ask them to enter description in Vim. First line would be title, all others would be description.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509727179
+		},
+		{
+			"comment_id": 105,
+			"body": "@Krixano: I'll try to implement that. Thanks for ideas!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509727243
+		},
+		{
+			"comment_id": 106,
+			"body": "@Krixano: A good idea, though I still cannot understand why it doesn't work.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509727538
+		},
+		{
+			"comment_id": 107,
+			"body": "@Krixano: Hm... Once I was trying to make something like ZeroDB. But I wanted to let users execute SQL queries. So I added `CREATE DATABASE`. It changed `dbschema.json` and `content.json`. And one of these writes never worked. But I don't remember which one. So maybe `content.json` cannot be edited programmly.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728012
+		},
+		{
+			"comment_id": 108,
+			"body": "@Krixano: Yeeeeees! I think you are right. New peers get signature from `signers`, but ZeroNet removes all signatures except the signature that was used to sign `content.json`. So new peers see that `content.json` is signed with ZeroID, but they don't know if they have to believe it.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728145
+		},
+		{
+			"comment_id": 109,
+			"body": "@Krixano: I'll have to change some of my repository content. Now only site author will be able to change maintainers. I'll move repository to a subfolder or something like that, then include it in root `content.json`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728244
+		},
+		{
+			"comment_id": 110,
+			"body": "@Krixano: I've added releases support via tags. Could you check if they work?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728648
+		},
+		{
+			"comment_id": 111,
+			"body": "@Krixano: *Via annotated tags",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728816
+		},
+		{
+			"comment_id": 112,
+			"body": "@Krixano: After annotating like:\n```\nTitle\n\nDescription line 1\nDescription line 2\n```\n... you will see that release there. Soon I'll try to add ZIP download.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728901
+		},
+		{
+			"comment_id": 113,
+			"body": "@Krixano: I think, github creates unannotated tags, but you can try to delete it and recreate as annotated.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509728970
+		},
+		{
+			"comment_id": 114,
+			"body": "@Krixano:\n> And, the log tab isn't loading the commits anymore. Also, the log page doesn't have all of the tabs listed at the top.\nFixed. There was no `Releases` tab, so there was something like null pointer exception, and logs weren't loaded.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509729502
+		},
+		{
+			"comment_id": 115,
+			"body": "@Krixano:\n> I think all tags, regardless of if they are annotated or not are shown in the releases tab (not sure if this is actually how you want it though).\nI thought that Git Center should show all tags, but unannotated tags would have no title and description. Maybe you can give a better idea?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509729554
+		},
+		{
+			"comment_id": 116,
+			"body": "@Krixano:\n> Also, I recommend muting qubesi2p@zeroid.bit\nI've just read that thread on ZeroTalk.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730180
+		},
+		{
+			"comment_id": 117,
+			"body": "@Krixano:\n> Well, I was originally thinking that after the user created the tag, they then click a button on the zite to create a release and give it the tag name. That way they can tell the zite which tags are releases and which aren't.\nAnd if just making a button `Mark tag \"...\" as release` which will accept annotated tags?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730224
+		},
+		{
+			"comment_id": 118,
+			"body": "@Krixano: I don't know what would be better, but I noticed that GitHub accepts every tag, even unannotated, as release, it just hasn't any description: https://github.com/imachug/gitcenter/releases (all that tags are unannotated, they were only pushed)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730371
+		},
+		{
+			"comment_id": 119,
+			"body": "@Krixano: I have another idea. What if add all tags as releases (all tags are usually releases) and add a button `This is **not** a release`?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730434
+		},
+		{
+			"comment_id": 120,
+			"body": "@Krixano: I'll implement it then.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730521
+		},
+		{
+			"comment_id": 121,
+			"body": "@Krixano:\n> btw, tell me if I'm pestering you with too many things to do\nNope. It's wonderful when someone is interested in your project!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730728
+		},
+		{
+			"comment_id": 122,
+			"body": "@Krixano:\n> Add the ability to see what was changed in a commit.\nLike diff?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730761
+		},
+		{
+			"comment_id": 123,
+			"body": "@Krixano: That wouldn't be very hard. So that's my TODO for now:\n1. Add releases\n2. Add the ability to see what was changed in a commit\n3. Merge PRs\nMaybe something more?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509730836
+		},
+		{
+			"comment_id": 124,
+			"body": "@Krixano: So I've added `This is not a release button`. BTW, I'll go to bed soon and you wouldn't be able to reach me for about 16 hours.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509731200
+		},
+		{
+			"comment_id": 125,
+			"body": "@Krixano: Another feature: How to create branches?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509731247
+		},
+		{
+			"comment_id": 126,
+			"body": "@Krixano: And thank you for all your work! Good night.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509731555
+		},
+		{
+			"comment_id": 127,
+			"body": "@Sirenyc: Thanks!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509723199",
+			"date_added": 1510077621
+		},
+		{
+			"comment_id": 128,
+			"body": "@Binchan: Maybe I'll add a HTML like /noredirect/index.html so you can access it by typing /noredirect.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510077454",
+			"date_added": 1510242169
+		},
+		{
+			"comment_id": 129,
+			"body": "@Binchan: OK. I just thought that it wouldn't work sometimes.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510077454",
+			"date_added": 1510251464
+		},
+		{
+			"comment_id": 130,
+			"body": "@Krixano:\n> Another thing, blocking people from creating issues and pull requests.\nYou can mute them in `data/users/content.json` of your repository. Maybe add it to `Settings` tab?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1510516097
+		},
+		{
+			"comment_id": 131,
+			"body": "@Styromaniac: Yes, like Git Center Source and CodeR. I'm currently not near the only computer that seedes it, so I can't republish right now, sorry.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510512873",
+			"date_added": 1510576885
+		},
+		{
+			"comment_id": 132,
+			"body": "@Krixano: I'll try to implement that, thx.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1510576954
+		},
+		{
+			"comment_id": 133,
+			"body": "@Mv00: Thanks!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1510580661
+		},
+		{
+			"comment_id": 134,
+			"body": "@Krixano: I just think that the best way to tell people about your zite is to talk as much as possible.\n\n> Kaffiene hasn't been updated in forever as far as I know\nYes, maybe, and Kaffie's blog isn't alive, too. Zirch is good, but it says:\n```\nGit Center Repository Index My Repos Beginner s Guide Support Profile Welcome to Git Center Git Center is a decentralized hosting platform for Git repositories We provide several collaboration features such as bug tracking for every project and private and public repositories for free Join us by creating a new repository Git Center is built using ZeroNet so its workflow quite differs from GitHub If you have any questions ask us for support Beginner s Guide New repository\n```\n...as description.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593331
+		},
+		{
+			"comment_id": 135,
+			"body": "@Krixano: At least RVRE owner is alive. Now it says `RVRE is now open source and available on Git Center!` on RVRE homepage.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593563
+		},
+		{
+			"comment_id": 136,
+			"body": "@Krixano: offtopic: would it be interesting to write a bot that mirrors Twitter on some ZeroMe hub?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593609
+		},
+		{
+			"comment_id": 137,
+			"body": "@Krixano: Well, that's true.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593667
+		},
+		{
+			"comment_id": 138,
+			"body": "@Krixano: I've just saw http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1509245587_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/Testing+ZeroNet+Dev+News+Bot , so I'm a bit interested. Though if it exists already or isn't needed (I just want to fill ZeroNet with *some* information)...",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593786
+		},
+		{
+			"comment_id": 139,
+			"body": "@Krixano: Yes, finite bandwich and CPU is a problem.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510593902
+		},
+		{
+			"comment_id": 140,
+			"body": "@Krixano: A good site with lots of potential, but we have no writers here! We all need unique content, but there are no people who can create it.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510594551
+		},
+		{
+			"comment_id": 141,
+			"body": "@Krixano: I'm a developer and I even don't know what non-development sites to add. Perhaps that's the problem for most of us.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510594841
+		},
+		{
+			"comment_id": 142,
+			"body": "@Krixano: Do you know how many people are there on ZeroMe?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510594963
+		},
+		{
+			"comment_id": 143,
+			"body": "@Krixano: So maybe there are really 50 users with multiple accounts?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510595077
+		},
+		{
+			"comment_id": 144,
+			"body": "@Krixano: I post a message and you see it in a few seconds - I never thought ZeroNet is so fast. BTW, do you know, is there any chat on ZeroNet? After our previous talk in my first topic I found that ZeroMe's feed is polluted **a lot**.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510595089
+		},
+		{
+			"comment_id": 145,
+			"body": "@Krixano: And how to invite people then?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510595251
+		},
+		{
+			"comment_id": 146,
+			"body": "@Krixano: I'm downloading ThunderWawe currently. Maybe we'll move there?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509714410",
+			"date_added": 1510595357
+		},
+		{
+			"comment_id": 147,
+			"body": "Just as a friend. Who are you on ZeroNet, spammer?",
+			"post_uri": "177WYf7ExRvqFaxzxQVZuh8615SiVcP3Zx_1",
+			"date_added": 1512576806
+		},
+		{
+			"comment_id": 148,
+			"body": "China, yeah?",
+			"post_uri": "177WYf7ExRvqFaxzxQVZuh8615SiVcP3Zx_1",
+			"date_added": 1512576920
+		},
+		{
+			"comment_id": 149,
+			"body": "Completely agree, but we don't have much users posting content. Do you know anybody?",
+			"post_uri": "1gJPRbL7puiekYd32rYVuCkELC43bCsY9_1512644722",
+			"date_added": 1512645141
+		},
+		{
+			"comment_id": 150,
+			"body": "@Styromaniac: I have bad news for you: https://caniuse.com/#feat=svg .",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512647595",
+			"date_added": 1512653582
+		},
+		{
+			"comment_id": 151,
+			"body": "@Styromaniac: Please also post this as an issue to Git Center Repo.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512647595",
+			"date_added": 1512654532
+		},
+		{
+			"comment_id": 152,
+			"body": "hi!",
+			"post_uri": "13yfHGtGHMJpTvGdkDzushc7inBDjZRtcM_1512660028",
+			"date_added": 1512667334
+		},
+		{
+			"comment_id": 153,
+			"body": "@Nofish: @Krixano: @BinChan: @Mv00: help!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555",
+			"date_added": 1512908763
+		},
+		{
+			"comment_id": 154,
+			"body": "Yeah. Most are running ZeroNet on localhost:4**3**110",
+			"post_uri": "1LrDWSzi63MhST9ZNkefSPJGFAuByRMeCx_1512911406",
+			"date_added": 1512912418
+		},
+		{
+			"comment_id": 155,
+			"body": "@Binchan: You're right.\n\n@Nofish: Do you mind to explain this?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555",
+			"date_added": 1512917153
+		},
+		{
+			"comment_id": 156,
+			"body": "[@Binchan:](?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/binchan2@zeroid.bit \"mention:1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h\") Yep, maybe I'll do that.",
+			"date_added": 1512917238,
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512837360"
+		},
+		{
+			"comment_id": 157,
+			"body": "@Nofish: but at least replace all `:params` with `?,?,?`?\n\nWait a minute. They are already replaced, but e.g. `SELECT * FROM abc WHERE abc.a IN :params OR abc.b IN :params` won't work. You can e.g. calculate `:params` count and double given `?`.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555",
+			"date_added": 1512923600
+		},
+		{
+			"comment_id": 158,
+			"body": "@Binchan: Done.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512837360",
+			"date_added": 1512928768
+		},
+		{
+			"comment_id": 159,
+			"body": "@Krixano: Published again. What now?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513005011",
+			"date_added": 1513018722
+		},
+		{
+			"comment_id": 160,
+			"body": "There is ZeroHello repository on GitHub. There is `template-new/js/ZeroFrame.js` file which is the latest version.",
+			"post_uri": "19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513320909",
+			"date_added": 1513351776
+		},
+		{
+			"comment_id": 161,
+			"body": "Believe me, I searched ZeroMe for vurnerabilities, but nothing works. :)",
+			"post_uri": "1Aqy7MbTYf6Woqx4Hv5NKR1Zq2TQLgwB97_1",
+			"date_added": 1513351835
+		},
+		{
+			"comment_id": 162,
+			"body": "I looked through the code and yes, it works for any ZeroFrame.",
+			"post_uri": "19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513480023",
+			"date_added": 1513492578
+		},
+		{
+			"comment_id": 163,
+			"body": "@BinChan: Could you update dark theme? Please :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513585986",
+			"date_added": 1513587874
+		},
+		{
+			"comment_id": 164,
+			"body": "@BinChan: Also, `cancel editing` button is black.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513585986",
+			"date_added": 1513599994
+		},
+		{
+			"comment_id": 165,
+			"body": "@Putsan: Google markdown. Example:\n\n```\n**bold**\n*italic*\n`code`\n\n```language\nmultiline\ncode\n'``\n\n1. list\n2. list\n\n- list\n- list\n\n~~strikethrough~~\n```",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513585986",
+			"date_added": 1513616636
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1509700832
+		},
+		{
+			"follow_id": 3,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "15XeFY67fYKCKxQPfeo246ELto2Gff1hAe",
+			"user_name": "Plasmmer",
+			"date_added": 1509713991
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1509714892
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PSaHi14Xh4Kjo3yyjDgbRtj4YLQgWV4QJ",
+			"user_name": "ulrichard",
+			"date_added": 1509714897
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1509714907
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k",
+			"user_name": "Schiz0",
+			"date_added": 1509714918
+		},
+		{
+			"follow_id": 9,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY",
+			"user_name": "Shouko",
+			"date_added": 1509714928
+		},
+		{
+			"follow_id": 10,
+			"hub": "1PRy1MSSFGrPFNAHubwnpYGGT37zPrUxLo",
+			"auth_address": "18GkKhDTQniChKDxcoDgmgrUd7KehaihpW",
+			"user_name": "Shouko",
+			"date_added": 1509714959
+		},
+		{
+			"follow_id": 11,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1zZYhNVWwaWXVTUqoCjLnbUcS9EQwf9Ef",
+			"user_name": "Eterno",
+			"date_added": 1509714966
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1509714982
+		},
+		{
+			"follow_id": 16,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1509729220
+		},
+		{
+			"follow_id": 17,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC",
+			"user_name": "ZeRoberto",
+			"date_added": 1510578115
+		},
+		{
+			"follow_id": 18,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y",
+			"user_name": "mv00_",
+			"date_added": 1510596879
+		},
+		{
+			"follow_id": 19,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "18oD4Atz6dpapnpN75tiBorjCSjANJmaiw",
+			"user_name": "sksn [NO2X]",
+			"date_added": 1510597340
+		},
+		{
+			"follow_id": 20,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1512578322
+		},
+		{
+			"follow_id": 21,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1512578325
+		},
+		{
+			"follow_id": 22,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1512578345
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u",
+			"user_name": "Lola",
+			"date_added": 1512578349
+		},
+		{
+			"follow_id": 24,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy",
+			"user_name": "Glightstar",
+			"date_added": 1512578351
+		},
+		{
+			"follow_id": 25,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Waterrabbit",
+			"date_added": 1512578353
+		},
+		{
+			"follow_id": 26,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "18fLf6bqfzvGLvMA2DrEmDxiqvnAWyN6dv",
+			"user_name": "空澄砂夜",
+			"date_added": 1512587974
+		},
+		{
+			"follow_id": 27,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1GooUE19488nDwG3TdkM8seYAHct4gjkq4",
+			"user_name": "Geekless",
+			"date_added": 1512741140
+		},
+		{
+			"follow_id": 28,
+			"hub": "12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S",
+			"auth_address": "17ZGmSLFyTedNQ1YFqSULUXH9ucQymR3Ey",
+			"user_name": "Mv00",
+			"date_added": 1512741152
+		},
+		{
+			"follow_id": 29,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1512741193
+		},
+		{
+			"follow_id": 30,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1512741200
+		},
+		{
+			"follow_id": 31,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1512741238
+		},
+		{
+			"follow_id": 32,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD",
+			"user_name": "Ekaterina",
+			"date_added": 1512741287
+		},
+		{
+			"follow_id": 33,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp",
+			"user_name": "Peeper",
+			"date_added": 1512821245
+		},
+		{
+			"follow_id": 34,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1gJPRbL7puiekYd32rYVuCkELC43bCsY9",
+			"user_name": "Esmein",
+			"date_added": 1512823621
+		},
+		{
+			"follow_id": 35,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1512833857
+		},
+		{
+			"follow_id": 36,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1512834018
+		},
+		{
+			"follow_id": 37,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1512834025
+		},
+		{
+			"follow_id": 38,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "14gUPs7fhKZd5JwdNd2qBzvpeAbJE1NDS6",
+			"user_name": "Shadowofwind",
+			"date_added": 1512917260
+		},
+		{
+			"follow_id": 39,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "13aB79mzuRLgDYzQthn9wzycjw77WyDXh6",
+			"user_name": "Polar",
+			"date_added": 1512917339
+		},
+		{
+			"follow_id": 40,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1512929360
+		},
+		{
+			"follow_id": 41,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1512998412
+		},
+		{
+			"follow_id": 42,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp",
+			"user_name": "Ivesen",
+			"date_added": 1512998506
+		},
+		{
+			"follow_id": 43,
+			"hub": "1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd",
+			"auth_address": "1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er",
+			"user_name": "Ivanq",
+			"date_added": 1513010662
+		},
+		{
+			"follow_id": 44,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1PUHgC7xiZNDc3YKwMM4Jk2setv7v8LmBs",
+			"user_name": "Repository",
+			"date_added": 1513098767
+		},
+		{
+			"follow_id": 45,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "158gCQPNd1zAPJiHW1saqDhEwdLTvCuXRo",
+			"user_name": "Rave",
+			"date_added": 1513493326
+		},
+		{
+			"follow_id": 46,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1513602784
+		},
+		{
+			"follow_id": 47,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1513602795
+		},
+		{
+			"follow_id": 48,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1KY1YYCNH5sDor7yu19jEr5yMtiZ5QyWwu",
+			"user_name": "Solved",
+			"date_added": 1513623782
+		},
+		{
+			"follow_id": 49,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1A6rok3j9w6paahtGoxrePy7SSkMz5A48s",
+			"user_name": "TomasCW",
+			"date_added": 1513624198
+		},
+		{
+			"follow_id": 50,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1513624204
+		}
+	],
+	"bg": "jpg",
+	"bgColor": "#007ff8"
+}

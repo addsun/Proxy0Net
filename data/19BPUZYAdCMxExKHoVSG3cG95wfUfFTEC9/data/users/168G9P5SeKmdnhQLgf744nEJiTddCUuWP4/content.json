@@ -1,0 +1,17 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "HADqrj4SjP8tICRLkxs+RXRXre3YU52RKAAx+V9H2qfyUqxJfzdH9HY6O50+vA2hLavPugp5qAIGxrW8SjbE8Og=",
+ "cert_user_id": "mybowknot@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "58b3d1a4d87323a3d27ad898de7f755deaf69bc2a8d5923e759498e427241736",
+   "size": 3090
+  }
+ },
+ "inner_path": "data/users/168G9P5SeKmdnhQLgf744nEJiTddCUuWP4/content.json",
+ "modified": 1510331646,
+ "signs": {
+  "168G9P5SeKmdnhQLgf744nEJiTddCUuWP4": "G5fbLTjbF3d6Kc8SrROj8/9Lll05WzI8x0hNhxhbVQ3SRgdqwEzYBLHmnbBfAJzs9DrmuOMFDebTiObYJfEsbeY="
+ }
+}

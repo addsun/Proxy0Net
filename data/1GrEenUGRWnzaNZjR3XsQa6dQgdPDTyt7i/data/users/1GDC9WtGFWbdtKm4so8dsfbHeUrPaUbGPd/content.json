@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G9bgL/yoDIW/DZ9baYJbnOn1vjchMDGgW7z/VKmGUQVvyelbFD5s/gjA+imwPpPihC/nc6XspuiZOrRItTNfQjc=",
+ "cert_user_id": "zendic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ff8d89cb9af69162f51e332e8167d48442f856bb2e823e436be1071ae4985bcb",
+   "size": 952
+  }
+ },
+ "inner_path": "data/users/1GDC9WtGFWbdtKm4so8dsfbHeUrPaUbGPd/content.json",
+ "modified": 1489638233,
+ "signs": {
+  "1GDC9WtGFWbdtKm4so8dsfbHeUrPaUbGPd": "G/eC0QM6vh7gp+cnpaoi1VOm0S4wbIpCTZGCAmfmlamHeKsp5XvZTPx8i8iyXdRquxwVyFO8SICHF2ro7Ids19I="
+ }
+}

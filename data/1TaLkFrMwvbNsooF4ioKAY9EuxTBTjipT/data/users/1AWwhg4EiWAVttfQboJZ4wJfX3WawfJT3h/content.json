@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G1aw/VIDeeQi+6Gam4txCPbphWc76wITP6cM43wtMS194e4w1jbL9V2sdlsavXoS+oaOW8s6gRjqYeM9zCKw0+U=",
+ "cert_user_id": "binchan2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "369d1f160d28030cb8c8c84341f2a2bd87e5aefe1aa8d93dd67136541281589b",
+   "size": 69265
+  }
+ },
+ "inner_path": "data/users/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/content.json",
+ "modified": 1513475939,
+ "signs": {
+  "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": "G3l3TeByScwMeiDXS+BMpcsWeG5nraGqebUU3WDq9mYqCiP9LbZMUOPChNzYi2/wgDtzGdQhoF3vuYkQ2KLys3Q="
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "address": "19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9",
+ "cert_auth_type": "web",
+ "cert_sign": "G9ezFL4MfQFBWS0tG66I3SVGyRdpw8c6mNE8E9qrllSNIySs+S9xcdnaGfh57pG5bOgk9G5g3vjKdqigJijiILM=",
+ "cert_user_id": "gdd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ce6b1feefae81d8015af8ee0890138fdcef98ef4a202d5227378056c8feec90c",
+   "size": 92349
+  }
+ },
+ "files_optional": {
+  "stuff/img/hanhan.jpg": {
+   "sha512": "5b4df725abac866d85d604f1b5cb05a3f7d5059948a0c757ca6401e73d05644a",
+   "size": 37149
+  }
+ },
+ "inner_path": "data/users/1LESBhM9ResjKhCCNhgbNDVFKcfdQractA/content.json",
+ "modified": 1510042592,
+ "optional": ".*\\.(png|jpg|gif|txt|swf|bak)",
+ "signs": {
+  "1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": "G89VZpCFX81qqzOWGrimrJSClmtv1LFxOz6DkgadURKFDO7uRXFc5vbcyBc+EUl5rDu3bis48JIOVssECZ8zvtM="
+ }
+}

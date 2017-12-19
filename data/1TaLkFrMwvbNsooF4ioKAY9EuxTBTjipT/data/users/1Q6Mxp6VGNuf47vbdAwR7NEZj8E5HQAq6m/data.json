@@ -1,0 +1,314 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 2,
+			"title": "Block 3rd-party requests with uBlock Origin",
+			"body": "### Here's how to block 3rd-party requests with **uBlock Origin**:\n\n- Download & Install **uBlock Origin**\n  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)\n  - [Chrome/Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es)\n  - [Edge](https://www.microsoft.com/store/p/app/9nblggh444l4)\n  - [Safari](https://github.com/el1t/uBlock-Safari)\n  - [Opera](https://addons.opera.com/en-gb/extensions/details/ublock/)\n- Go to the **Dashboard**:\n  - By visiting `chrome://ublock0/content/dashboard.html#settings.html`\n  - Or click on the **red shield icon** in your toolbar and then click on the **configuration wheel icon** in the popup.\n- Select `I am an advanced user`\n- Go back to any ZeroNet page\n- Click on the  **red shield icon** and make the **2nd column** of `3rd-party` **red**\n  - Or if you want to block `3rd-party` requests **everywhere** make the **1st column** **red**\n- If you want to whitelist a domain on the current domain make the **2nd column** **green**\n  - Or if you want to whitelist a domain **everywhere**  make the **1st column** **green**\n\n### Github Repositories:\nhttps://github.com/gorhill/uBlock **[Official]**\nhttps://github.com/nikrolls/uBlock-Edge\nhttps://github.com/el1t/uBlock-Safari",
+			"added": 1499097751
+		},
+		{
+			"topic_id": 4,
+			"title": "[suggestion] Ability to download binary files as 'blob'",
+			"body": "Now binary files have to be Base64 encoded which makes the files 20% larger than necessary.",
+			"added": 1499890602
+		},
+		{
+			"topic_id": 5,
+			"title": "Add Referrer-Policy header",
+			"body": "Add `headers.append((\"Referrer-Policy\", \"no-referrer\"))` to `src/Ui/UiRequest.py`",
+			"added": 1500457764
+		},
+		{
+			"topic_id": 6,
+			"title": "KIWIX - THE OFFLINE INTERNET - 离线互联网",
+			"body": "###KIWIX - THE OFFLINE INTERNET - 离线互联网\n\nYou can get offline ZIM files for /// 获取离线 ZIM 文件:\n- **stack_exchange (All sites including StackOverflow /// 所有网站, 包括 StackOverflow)**\n- wikipedia (Encyclopedia /// 百科全书)\n- wikibooks (Community Books /// 社区书籍)\n- wikisource (Old Books /// 旧书)\n- gutenberg (Old Books /// 旧书)\n- wiktionary (Dictionaries /// 词典)\n- wikinews (News /// 新闻)\n- wikiquote (Quotes /// 引号)\n- wikispecies (Species /// 物种)\n- wikiversity (Education /// 教育) \n- wikivoyage (Traveling /// 旅行)  \n- And more /// 和更多\n\nZIM files /// ZIM 文件:\n- `https:ftp.nluug.nl/pub/kiwix/zim/`\n- `https:mirrors.dotsrc.org/kiwix/zim/`\n- `https:ftp.fau.de/kiwix/zim/`\n\nKiwix software to import ZIM files /// Kiwix 要导入的软件 ZIM 文件:\n  - `https:ftp.nluug.nl/pub/kiwix/bin/stable/`\n  - `https:ftp.fau.de/kiwix/bin/stable/`\n\nHow to import /// 如何导入: \n- Open Kiwix /// 打开 Kiwix\n- `Do you want to download the remote catalogs of available books?` > `No`\n- Change language with `Display` > `Language` /// 更改语言 `Display` > `Language`\n- Then choose `File` > `Open file ...` /// 选择 `文件` > `打开文件 ...`\n- Choose `.zim` file /// 选择  `.zim` 文件",
+			"added": 1500531622
+		}
+	],
+	"topic_vote": {
+		"3_156xbcM9BrbdhtYZUPAQBFvLDGGyy5AjdM": 1,
+		"2_12Am8KvGKTTHgiWYCwDfpDe4gm29FiQXLf": 1,
+		"1_13PDAPMdvVB7xVGz9QV8m1D96nyhfkxzT5": 1,
+		"1_139KYLeFy6QiMk3MMqBzGsqEKAavFMHdEE": 1,
+		"1_1MbML7iwm3KXWRS16y3jkfCrXuUXDD6pd7": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": 1
+	},
+	"next_comment_id": 53,
+	"comment": {
+		"3_156xbcM9BrbdhtYZUPAQBFvLDGGyy5AjdM": [
+			{
+				"comment_id": 1,
+				"body": "+1\nI believe this is necessary for decentralized application development. For example, I want to create a few Zites, each of them can be used for a month (or a year, whatever), so that the Zites are better manageable, and older Zites  can be archived automatically.",
+				"added": 1497787013
+			},
+			{
+				"comment_id": 13,
+				"body": "Let me clarify again why this is necessary:\nFor example: to prevent a Zite from getting too big I create a few sites in advance:\n* `Zite A` with a `unfreeze_period` of `[\"2017-01-01\", \"2017-03-01\"]` \n* `Zite B` with a `unfreeze_period` of `[\"2017-03-01\", \"2017-06-01\"]` \n* `Zite C` with a `unfreeze_period` of `[\"2017-06-01\", \"2017-09-01\"]` \nSo every Zite is automatically \"unfrozen\" for user contributed content for roughly 2 months, after that the Zite is \"frozen\" automatically again.\nIf a Zite is not open for user contributed content the peers that serve the Zite won't allow any user to submit or change user contributed content, though the `content.json` can still be changed by the Zite owner.\n\nAlso with \"freeze\" I don't mean \"pause\" because the Zite should still be served by peers.",
+				"added": 1499768608
+			}
+		],
+		"1_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3": [
+			{
+				"comment_id": 2,
+				"body": ">[nofish](): It's planned this summer, right now I experimenting with merkle trees.\nGreat to hear!",
+				"added": 1497788872
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 3,
+				"body": "From the European Babylon, also known as United States of Europe",
+				"added": 1498327455
+			}
+		],
+		"1_1DSTC4b9sByPY7GMpZWxKwfQFq6zc8qtjy": [],
+		"1_1PP7eDcFCLb2X4WkBou1eLS75uPNgWK78J": [
+			{
+				"comment_id": 6,
+				"body": "This can be done with something called a vanity address generator. \nBecause ZeroNet uses Bitcoin cryptography for the addresses you can use [Vanitygen](https://github.com/samr7/vanitygen) to generate one.\n\nDebian-based Linux Compilation instructions:\n- Download this: https://github.com/samr7/vanitygen/archive/master.zip\n- Then run:\n   `apt install build-essential git libssl-dev libpcre-dev`\n    `make`\n\nWindows binary (not sure how to use it):\nhttps://github.com/downloads/samr7/vanitygen/vanitygen-0.20-win.zip\n\nMore information:\nhttps://en.bitcoin.it/wiki/Vanitygen\nhttps://github.com/samr7/vanitygen/",
+				"added": 1499126470
+			},
+			{
+				"comment_id": 16,
+				"body": "> [torrentpunk](#comment_1_1PP7eDcFCLb2X4WkBou1eLS75uPNgWK78J): Sorry guys for late reply. I also use Debian too. Debian sid, but I have problem.When I put in console [...]\n\nTry `libpcre3-dev`.",
+				"added": 1499847468
+			}
+		],
+		"3_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": [
+			{
+				"comment_id": 7,
+				"body": "> [deafboy](#comment_46_1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa): Some sites might break with referrer disabled.\n\nI updated the text.",
+				"added": 1499204914
+			}
+		],
+		"1_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": [
+			{
+				"comment_id": 9,
+				"body": "ZeroTier is a Virtual Private Network (VPN). Sadly it doesn't support Forward Secrecy (ephemeral public key encryption). \nSo if your private key gets stolen all previously stored encrypted data can be decrypted.\nCheck out [Tinc VPN](http://tinc-vpn.org/) which does have Forward Secrecy.",
+				"added": 1499737581
+			}
+		],
+		"2_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 10,
+				"body": "Bump!",
+				"added": 1499768590
+			}
+		],
+		"1_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 11,
+				"body": "Or maybe a better idea is to be able to add a directory as a \"virtual peer\" like \n`--peers [\"file:///path/to/zeronet/data\", \"file:///other/path/to/zeronet/data\"]`.\nSo you can easily synchronize with the Sneakernet.",
+				"added": 1499768594
+			}
+		],
+		"1_156xbcM9BrbdhtYZUPAQBFvLDGGyy5AjdM": [
+			{
+				"comment_id": 12,
+				"body": "Bump!",
+				"added": 1499768600
+			},
+			{
+				"comment_id": 15,
+				"body": "> [nofish](#comment_948_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The problem that first come to my mind is for example if someone created a topic last year, then this topic will disappear even if it has activity (comments) in it, because the topic information are stored in his/her file.\nThat's true, but that is already a problem, If I manually delete a thread the same thing will happen. So as a Zite owner you need to take that into consideration. \nBut if you have something against automatic deletion as a Zite owner you just need to create a setting in `content.json` that permits (or not) the automatic deletion of files, though I don't see why automatic deletion is something to be against, its the same as manual deletion, but only automatic.",
+				"added": 1499846594
+			}
+		],
+		"8_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 14,
+				"body": "Bump!",
+				"added": 1499768611
+			}
+		],
+		"1_1FABUsoP9Mr8rdB8GfyChhTWkp4W6r58ph": [
+			{
+				"comment_id": 17,
+				"body": "Let's acquire Hard Drives, SSDs, CDs, DVDs, USB sticks while you still can, because I guess we'll have to go back to Sneakernet\n>https:en.wikipedia.org/wiki/Sneakernet",
+				"added": 1499853354
+			}
+		],
+		"1_14LA8sy5pK11V4azVA9wTmMpu1VYCqT822": [
+			{
+				"comment_id": 18,
+				"body": "Welcome.",
+				"added": 1499890184
+			},
+			{
+				"comment_id": 24,
+				"body": "> [scrubthesecond](#comment_52_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe): With Net Neutrality gone, ISPs can still slow ZeroNet. They'll have a whitelist of IPs that won't be throttled, and all others not on the whitelist will be.\n\nYep, only physical network initiatives can solve the weakened Net Neutrality laws because it affects the whole Internet where weakened Net Neutrality laws apply.",
+				"added": 1499894737
+			}
+		],
+		"2_12Am8KvGKTTHgiWYCwDfpDe4gm29FiQXLf": [
+			{
+				"comment_id": 19,
+				"body": "Thanks, was thinking of this. Would be nice to have an issue tracker with the ability to attach (`.patch`) files.",
+				"added": 1499890370
+			},
+			{
+				"comment_id": 23,
+				"body": "> [tiger](#comment_1_1HDGK4rrMzuouF8hNnxfMNpWyR8qAtP4HR): Here is the better way, i think: https://steemit.com/zeronet/@teego/git-repository-in-zeronetAnd here is the example repository: http://127.0.0.1:43110/1Nwaxn7Auh2bHdSr19MbZ4Hq2s31tSDDY/\nIt works, anyway you might want to change \n`url = https://github.com/PlexRay/nmcpp.git` to \n`url = http://127.0.0.1:43110/1Nwaxn7Auh2bHdSr19MbZ4Hq2s31tSDDY/nmcpp.git`\nin `/nmcpp.git/config`",
+				"added": 1499894464
+			},
+			{
+				"comment_id": 25,
+				"body": "> [kaffie](#comment_381_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Why bother with this if I can just directly manage my git hosted on ZeroNet with this?\n\nBecause of \"To use Git over ZeroNet, first download git-remote-zeronet and put it in somewhere available in $PATH. Then run\"",
+				"added": 1499903250
+			},
+			{
+				"comment_id": 26,
+				"body": "> [kaffie](#comment_382_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): As opposed to doing version control by hand and then manually copy+pasting the files every time? Really the only benefit I can see with this is that you can browse the files. But you can already do that on your computer when you visit the site!\n\nThat's pretty neat.",
+				"added": 1499904363
+			}
+		],
+		"4_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": [
+			{
+				"comment_id": 20,
+				"body": "> [nofish](#comment_950_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I'm not sure what do you mean by that. You can write binary files using fileWrite API command.\n\nCan you also read files as binary files then?",
+				"added": 1499891841
+			},
+			{
+				"comment_id": 21,
+				"body": "> [nofish](#comment_951_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Websocket is an utf8 protocol, but you can read binary files base64 encoded: Page.cmd(\"fileGet\", {\"inner_path\": \"any.jpg\", \"format\": \"base64\"}, function (res) {})\n\n Nevermind, I see the problem.",
+				"added": 1499893003
+			},
+			{
+				"comment_id": 22,
+				"body": "I think you can actually receive `blob` data:\n`var ws = new WebSocket('wss://127.0.0.1/socket')`;\n`ws.binaryType = 'blob'`;\n\nor\n\n`var ws = new WebSocket('wss://127.0.0.1/socket');`\n`ws.binaryType = 'arraybuffer';`",
+				"added": 1499893842
+			}
+		],
+		"1_1PPog6MMH6yWv4rFM8mdDekECKWTmaCYSK": [],
+		"4_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 30,
+				"body": "> [elspru](#comment_29_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib): [...] I'm saying we should make it easy for people to archive stuff using ZeroNet.such as by having a Firefox Addon.\nTake a look at \n- https:addons.mozilla.org/en-US/firefox/addon/scrapbook-x/",
+				"added": 1500128369
+			}
+		],
+		"1_139KYLeFy6QiMk3MMqBzGsqEKAavFMHdEE": [
+			{
+				"comment_id": 31,
+				"body": "Agreed. Anonymity is a necessity!\nYou have to remember that **Zero ID is not anonymous**, we absolutely need a way to easily use multiple identities.",
+				"added": 1500134236
+			}
+		],
+		"12_1L5rGDgTs4W2V7gekSvJNhKa7XaHkVwotD": [
+			{
+				"comment_id": 32,
+				"body": "That's a Regular Expression failure.",
+				"added": 1500310051
+			}
+		],
+		"2_1ELbzUdEgV1kw4o358WdUfyN5vJVgfpMyx": [
+			{
+				"comment_id": 33,
+				"body": "Embrace degeneracy! Embrace Babylon!",
+				"added": 1500400088
+			}
+		],
+		"1_1MbML7iwm3KXWRS16y3jkfCrXuUXDD6pd7": [
+			{
+				"comment_id": 34,
+				"body": "Thanks, and nice to meet you. I am wondering how you discovered ZeroNet ...",
+				"added": 1500454633
+			}
+		],
+		"5_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": [
+			{
+				"comment_id": 35,
+				"body": "> [nofish](#comment_955_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): css font embedding\nSo we keep violating users' privacy because of fonts???",
+				"added": 1500465469
+			},
+			{
+				"comment_id": 36,
+				"body": "> [nofish](#comment_956_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): right now yes. btw for me it seems that chrome does not sends referer to links clicked on zeronet. (probably because local address)\n\nI think it is because of the protocol. But if there's a resource that uses HTTP instead of HTTPS I think it will send the referrer on Chrome as well.",
+				"added": 1500466288
+			},
+			{
+				"comment_id": 38,
+				"body": "> [nofish](#comment_957_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Chrome: No referer sentIE, FF: There is referer header\n\nNot sure why that is then... both use HTTP as the protocol ... you are using `http://127.0.0.1:<port>` right?",
+				"added": 1500466702
+			},
+			{
+				"comment_id": 40,
+				"body": "> [nofish](#comment_958_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes, same url in every browser. Adding \"Referrer-Policy\", \"no-referrer\" header disables it for every browser.\n\nUsing the `Referrer-Policy` header is definitely a better method than injecting a <meta> tag into the HTML page.\nI think the <meta> tag and the header have equal support in browsers?\nEdit: That site doesn't work no. My fault.",
+				"added": 1500467255
+			},
+			{
+				"comment_id": 44,
+				"body": ">So adding it before the </html> could work without negative effects.\nWell I think the referrer is sent for the resources before the meta tag, I think that's why ... its not just links but also resources you should worry about.",
+				"added": 1500469417
+			},
+			{
+				"comment_id": 45,
+				"body": "> [nofish](#comment_961_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Using external resources always should be avoided as it leaks the user's ip address.\n\nAgreed. You could forcibly remove all references to remote resource ... :)",
+				"added": 1500470376
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 41,
+				"body": "Totally agree with you. And yes, the situation is terrible.",
+				"added": 1500468694
+			},
+			{
+				"comment_id": 42,
+				"body": "> [elspru](#): as long as you have tor\nI think the Great Firewall already has the capability to block Tor but is now just gathering IPs of Chinese Tor users, so they can block everyone at the same time.",
+				"added": 1500468823
+			},
+			{
+				"comment_id": 46,
+				"body": "> [nassau](#comment_2_1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd): nazi\n\nI think you meant Communist.",
+				"added": 1500516033
+			},
+			{
+				"comment_id": 52,
+				"body": "> [kaffie](#comment_421_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Socialism as a term is pretty vague and has been used to mean a lot of different things.\n\n\"The goal of socialism is communism.\" - Vladimir Lenin",
+				"added": 1501250539
+			}
+		],
+		"6_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": [
+			{
+				"comment_id": 47,
+				"body": "I don't speak Chinese, I used a translator. So if there's a Chinese person here that understood what I'm trying to explain here and is able to do a better job, please make your own guide.",
+				"added": 1500532108
+			},
+			{
+				"comment_id": 48,
+				"body": "> [nassau](#comment_3_1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd): trying\n\nThanks :)",
+				"added": 1500532431
+			},
+			{
+				"comment_id": 49,
+				"body": "> [nassau](#comment_4_1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd): The translate is good, at least I can understand it.\nGood to know",
+				"added": 1500532544
+			},
+			{
+				"comment_id": 50,
+				"body": "> [irides](#comment_11_1Pxozmm59Ptj7BjLotmMQ9G7yVutN5fN2V): @pseudonym So you basically saves a backup of web files and view them ?\n\nYes. A ZIM file is an archive format which can be used immediately without extraction with software like Kiwix.",
+				"added": 1500821621
+			}
+		],
+		"2_1Np58q7bCfW7hmHuXvoYux3ij6M4Qecfb3": [
+			{
+				"comment_id": 51,
+				"body": "> [neutera](#comment_11_1JBVxG1GBR8NoHK9i37QhPgky6qCnFRteH): I suppose the site \"zerotalk\" should be directed to a list of languages first, like the wikipedia...\n\nProbably solves the issue.",
+				"added": 1501249958
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1BEyFJrKVaGLuogLirnrsa7yV2MXNvYpcp": 1,
+		"924_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT": 1,
+		"4_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"1_1987WyGboq95X83dqkTTEH7iJEgCpBrAfc": 1,
+		"6_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"11_1JBVxG1GBR8NoHK9i37QhPgky6qCnFRteH": 1
+	}
+}

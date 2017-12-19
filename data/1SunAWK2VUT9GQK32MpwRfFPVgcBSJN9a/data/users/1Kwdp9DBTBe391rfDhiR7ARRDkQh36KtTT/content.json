@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G/b9o30f0l+lr8+U2YO5CTltn0TSbTAtXL854ZBz+1HKZMkxoLR9/u0XW1ef3Fpq2sEI9TQp8tuVgeTbPWqBMq0=",
+ "cert_user_id": "fsir@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e5b22492bf7bcf072d8407a6a42d6d3ef25d9be20a8bce716860923a00c8e5be",
+   "size": 1644
+  },
+  "data.json": {
+   "sha512": "9747674a31f3b493a1d2e58e865bed33de1837ae1b7aa0c8d5fce94c5b4274c6",
+   "size": 1067
+  }
+ },
+ "inner_path": "data/users/1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT/content.json",
+ "modified": 1509999544,
+ "signs": {
+  "1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": "HNqVfI91qOxRFWUznl34Qht4W5Atl/KilYKyGMv1ws6vKnj3Bed5/X9mNvmrNouD4w0yI0aERObmJxIy65B+rAg="
+ }
+}

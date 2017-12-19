@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G+6REZZf0qJTYPp4cKwN6PG3xD0Q/xMERHhPYPPgabSPC7Y6MK56RIM4LJ+yBZjpdCcufHRWQSUOQOK6aXnmYEU=",
+ "cert_user_id": "edvinasj@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "2cc76384b777bcb53a9eab8f439a6267af6d3165cd39c1888e9e972eee4fe4e6",
+   "size": 1467
+  },
+  "data.json": {
+   "sha512": "a6ff2607081cacc6b629b7e1f9a4e29789f8cc4931ccc6a3985e9410d7ac308f",
+   "size": 479
+  }
+ },
+ "files_optional": {
+  "1487194547.jpg": {
+   "sha512": "fe83f956c2e65db2322f4d47d7cabd188ff3b6e3d9cab6da2ded8a9b0159229e",
+   "size": 53468
+  }
+ },
+ "inner_path": "data/users/1E1ztv395oLicShsu7WrFeyVh8rrd8sP7D/content.json",
+ "modified": 1487194545,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1E1ztv395oLicShsu7WrFeyVh8rrd8sP7D": "HCZhxwnb4JQ5ps7BUlVj74cz9u11jGvUCmzNF+KWSlP1h5wAFZT07UxBm6iJ6lUe8suWBIKgnY7k3xraf/0xuDI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "GwoYxYLc2+eYWucwAxQp8RL5bGHByxMEjOHDgyEluZgvDJIXVVvtH5xBBIJhIa76nnlE8RDphHOK9GgUBRy2ZtE=",
+ "cert_user_id": "comeon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "25b455ee7dc37b0cfccb7ec9ffd44841702ba72a6546a0a4347b2af3e86f6744",
+   "size": 129
+  }
+ },
+ "inner_path": "data/users/1Jfsqd4RzqpMmnWze4WfWKTbJiDk9xagUj/content.json",
+ "modified": 1508851208,
+ "signs": {
+  "1Jfsqd4RzqpMmnWze4WfWKTbJiDk9xagUj": "G+kP28DIHnwqerxScrUIXoJgMTVvS6pZtgtznlLOV4wDb34BIv4DSiroS7Bv6ASia+97xO4sHkvNCG+NvKx1j2Y="
+ }
+}

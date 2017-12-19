@@ -1,0 +1,42 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509068178,
+			"title": "So remind me, how do you block/mute someone on ZeroTalk?",
+			"body": "In ZeroMe a user can be muted from their profile page. Is there a way to mute someone from ZeroTalk? I seriously don't want to see posts from a certain self-righteous asshole.",
+			"added": 1509068177
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"3_1NnThhNZHqenY4WqzEqsqVbveA5pr9vTeF": [
+			{
+				"comment_id": 1,
+				"body": "哈哈，典型的台湾假新闻腔，谁信这个谁上当。\nLookout的确发现了一个叫做xRat的后门程序，去看他们的博客：https://blog.lookout.com/xrat-mobile-threat \n给大家划几个重点：\n- 只有Android版\n- 可以从手机上收集大量数据，包括微信和QQ的数据、SD卡上的文件等\n- 如果发现手机上有安全工具或者杀毒软件，则立刻删除自己，以免被发现\n- 有强力的删除文件和应用的功能，可以接收指令删除手机上的大量数据和应用\n- 代码与2014年针对香港占中人士使用的木马非常类似\n\n至于上面这篇“新闻”里说的“微信和QQ都包含xRat”，“安装杀毒软件也于事无补”，明显是这位“记者”瞎编的。",
+				"added": 1508744915
+			}
+		],
+		"2_1LajFt4rB1nREhyTfDt2VW4C8TmBy51vc4": [
+			{
+				"comment_id": 2,
+				"body": "使用ICE协议进行内网穿透是非常简单的事情。你每次用微信跟别人语音/视频的时候，就是用了ICE协议，直接打通两个终端之间的连接，即使双方都在内网也完全没有问题。",
+				"added": 1508745448
+			},
+			{
+				"comment_id": 3,
+				"body": "> [alufer](#comment_4_1LajFt4rB1nREhyTfDt2VW4C8TmBy51vc4): 仔细审题，内网穿透还是得借助有公网ip的服务器，一点意义都没有\n\n整个网络只需要一台STUN服务器，向用户提供映射的外网IP即可，然后用户就可以用ICE协议自行打通内网连接，不需要依靠公网IP进行转发。",
+				"added": 1508850856
+			}
+		],
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 4,
+				"body": "The proper way of achieving this is to use the Multiuser plugin.\n\nQuoting from https://www.reddit.com/r/zeronet/comments/3xi5ss/changing_identities/ :\n\nnofishme 3 points 1 year ago \n\nCurrently the best way to have multiple identities is enabling the Multiuser plugin by renaming plugins/disabled-Multiuser directory to plugins/Multiuser then restart ZeroNet\n\nAfter this you will able to change identities in ZeroHello. To login to other account you will have to enter the master_seed value from your users.json file. After you changed your identity you have to visit the ZeroID site to get your zeroid certificate back (Certificate added notification will be appear)\n\nThe *.pem file is not important, they generated again every time you restart your client.",
+				"added": 1509090586
+			}
+		]
+	},
+	"comment_vote": {}
+}

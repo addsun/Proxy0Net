@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1510279908,
+			"title": "Security guides",
+			"body": "http://127.0.0.1:43110/1KsRvAWe1XH6exU8SoTfgfr84vKhrkAqiS/",
+			"added": 1510279907
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1510279908_16oMvhMrWnKi271dR6fyRuG6XV7Uw6mzh4": [
+			{
+				"comment_id": 1,
+				"body": "> [akito](#comment_368_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): You can make your own UEFI certificates and add them to trusted easily by using Linux. No need for external devices or VeraCrypt for that. Once this is done, the disk can be of course separately encrypted.\n\nMaybe, but you should know that not all people have the knowledge to do so and know that not everyone uses kali linux...  My site is for people who use windows and need to get their thing fixed without spending hours reading stuff!!",
+				"added": 1511733756
+			},
+			{
+				"comment_id": 2,
+				"body": "> [akito](#comment_389_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Kali sux ass. [...]\n\nI know kali is relatively easy to use, but, however, most poeple dont know how to use it, and most people dont even has it on their computer at all! my point is.. this site simply is for people who need to get their stuff configured on windows.",
+				"added": 1511739233
+			}
+		],
+		"1512068748_192QiJtwfzw9NemSqGN1oCZGH7SP2ZXRWW": [
+			{
+				"comment_id": 3,
+				"body": "LOLOL Good thing that i dont use IPv6 then..    i even disabled IPv6 on all my devices, but for a whole different reason!",
+				"added": 1512077842
+			}
+		]
+	},
+	"comment_vote": {}
+}

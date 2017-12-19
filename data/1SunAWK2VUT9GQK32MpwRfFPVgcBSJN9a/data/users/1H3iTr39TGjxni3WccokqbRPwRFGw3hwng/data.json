@@ -1,0 +1,28 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Akari",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "。",
+	"post": [],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1992oqLzC9WL7yuCKwnCrQTCDrdh8rx85a",
+			"user_name": "Ellie",
+			"date_added": 1503047083
+		},
+		{
+			"follow_id": 2,
+			"hub": null,
+			"auth_address": "1992oqLzC9WL7yuCKwnCrQTCDrdh8rx85a",
+			"user_name": null,
+			"date_added": 1503047100
+		}
+	]
+}

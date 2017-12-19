@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GymCCo6nYegEcOfREW0kfYd+5n8gLPWAZzHKOQ1PJxPSHN6tyioLPwyjYIqbrrejRNCA0ibkuy8PVtgmTZ6cZLw=",
+ "cert_user_id": "higanbana@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "5be0931b955a7cdb92d643ce769a46e75b38dbe779cd464d472ba5320b778a44",
+   "size": 1241
+  },
+  "data.json": {
+   "sha512": "833daffd8767eb1017ba92c48bc0d29ea8805a4ed28fb8b788952820aadca239",
+   "size": 8503
+  }
+ },
+ "files_optional": {
+  "1509537016.jpg": {
+   "sha512": "86011698f7e00126c2abdd67388cdcc9cd2eaaae88809a9ff922fc3a5e28658e",
+   "size": 38623
+  },
+  "1512568576.jpg": {
+   "sha512": "68337e65a73cdc06dd4602b4e21c7b11b9061f604e887eb78191ffe107b3b288",
+   "size": 66289
+  }
+ },
+ "inner_path": "data/users/1K3rmcuMWWiTiJUWpo34zjdDG15HqB7J3k/content.json",
+ "modified": 1512568566,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1K3rmcuMWWiTiJUWpo34zjdDG15HqB7J3k": "HJ1ervYVBA92D2xiZs6voOQFFTPb/uLpTHtQwvrylfCyH294hsDnrnrYJldK3kpsRYt3gZjZgI4RA2qfaKALoGc="
+ }
+}

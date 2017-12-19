@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2ncihGVwnFjFgzgUo+GxRnagPRBcFuvf+Kf6jVsyf8Oom/YfYnSY7pjbA+DEWeNh4bGHharFqqyutR9x36DztU=",
+ "cert_user_id": "putsan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ad69bca85ecd3288c963c9e4bac69bad11546df6e144feef4ccd32a4ade04dfd",
+   "size": 1860
+  },
+  "data.json": {
+   "sha512": "e12d3f5986c7b949727e89243e18784765e19700e74db510296c45c8deb25b44",
+   "size": 2195
+  }
+ },
+ "files_optional": {
+  "1513613777.jpg": {
+   "sha512": "70bf211cd27b65090fac6bdf4ee7b936bde20cd3e72e4a0226ef069cb2ab214a",
+   "size": 36494
+  }
+ },
+ "inner_path": "data/users/1MrESi8JYQqWEVbuRiGE8d41z29PmpT8GT/content.json",
+ "modified": 1513627895,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1MrESi8JYQqWEVbuRiGE8d41z29PmpT8GT": "G6FEAeidEy/UXgdOOlLgT9gjp1D+iBqRLd/1dHXIqxffNZCS65v2ivSVdFN6bvepTxEAn3ih9N5tTM4iW7BsvZ0="
+ }
+}

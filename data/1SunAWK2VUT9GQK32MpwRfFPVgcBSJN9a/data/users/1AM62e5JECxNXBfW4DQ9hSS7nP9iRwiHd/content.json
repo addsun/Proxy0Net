@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGqNkpTHID5HfsgWpX4frxAgXP+4/hvBm9UNx9RFaeV13VxKTA6NtdDZlDs3teslVriq7idd4qPWaJm8mqBxDfU=",
+ "cert_user_id": "technohacker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c8781aec5bbc07f1bde784ac0e8d99a74b8b53b15ee45d462175778013f7ca79",
+   "size": 421
+  }
+ },
+ "inner_path": "data/users/1AM62e5JECxNXBfW4DQ9hSS7nP9iRwiHd/content.json",
+ "modified": 1509504592,
+ "signs": {
+  "1AM62e5JECxNXBfW4DQ9hSS7nP9iRwiHd": "G5iFbXGRsAK5tRMNYZ4DEb1+HQMEhQm5Cce+SwuRgm5ASB5rBqvBV6mzG1FmzkdV15dNzM1B3mPIBQUUbCYYZ3Y="
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G1iRTkuJ36ua8aZYjWfYRvmVRqnMN2i6P+Oi//H3EwyNmaldBWLDrbItVfROFAHNQ3LW0r7QrouutQFt8z/pFRg=",
+ "cert_user_id": "liu233w@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "dec6823bac9044161fa1de136d51fc6ef0987ed2e7f25595bb08804afb2a6491",
+   "size": 1319
+  },
+  "data.json": {
+   "sha512": "3857c8fea6be5c5c65f116a4712e37a401c3559403b124e79c17e626ab3741d7",
+   "size": 3166
+  }
+ },
+ "files_optional": {
+  "1501945639.jpg": {
+   "sha512": "6996a314c13afc0a107c9b7f547d5b068bbc9273e173a653d87fa2b5719cc690",
+   "size": 53283
+  }
+ },
+ "inner_path": "data/users/1P33sgPqao8Sm3NcrujAUhcDFWQPL3uYpz/content.json",
+ "modified": 1512315228,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1P33sgPqao8Sm3NcrujAUhcDFWQPL3uYpz": "G2S2RU6pDAXEijgcA8oY0+njq0OKJv88AeDm/3IlSHLoXmJAKYOc4PaJbpkqz2IcU0og/K/ThIqnRFs5jWrgo8Q="
+ }
+}

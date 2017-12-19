@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx/SczDO/z3M53EIJIQkyLvF+amIrcSI4VgNdE31QDtQ9fecnNDhmLoHz6JrQMiZ8qDTIcgEwiSLx9ByzhEAnPM=",
+ "cert_user_id": "visjia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e6a9a3a227ae747703b6dcee818e4b5f7fa35b83f4334eaed7dcecc2ebd184d8",
+   "size": 243
+  }
+ },
+ "inner_path": "data/users/1NpHKQEkj4SwFoUFdmGKd1BQQ1yvSWgjsD/content.json",
+ "modified": 1500385293,
+ "signs": {
+  "1NpHKQEkj4SwFoUFdmGKd1BQQ1yvSWgjsD": "GzdRMbWXSpmz2bU8ZeXqgCMZYSrOWdyV2xN0I2/ySPntK0iaexcVkGDqQKhEvyxqLnmMhgHKCnUhblK3fYavtgU="
+ }
+}

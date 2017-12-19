@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HBwDVt4UjB/NH1Yp3rYlCRnNRuUmPPLzpckPh8b+4v9ZYjyVFICSIggSdCLx9KRfEvCEorWuY2pT6HIAB8CV5bc=",
+ "cert_user_id": "hellogen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f4783e3cf1ecd570a2f75bb872079fad4b5be25617c008cb34c852c2c1f32b44",
+   "size": 285
+  }
+ },
+ "inner_path": "data/users/1GNKWQQPjcUhqU4zLAckUSuVKjGXcEzMnM/content.json",
+ "modified": 1494308430,
+ "signs": {
+  "1GNKWQQPjcUhqU4zLAckUSuVKjGXcEzMnM": "G4Fj12+RsALbHc2PNkmSkEH8DUK6tg5KfmKDPicyCWsEWKgVXdOEMiZxE4LsecO7lo8xU1kOT5pa4sIVOjm25VQ="
+ }
+}

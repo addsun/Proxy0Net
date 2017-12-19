@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKvxdQnBCMIYpXiFbgJ9eWbgOPHjETi+ebDVLhS/3Hcmfn0L/qTiUwPXxqtdTW5e6/Yj3/h7S7PAP6sqBqU3CDs=",
+ "cert_user_id": "floppydrive0@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f344dedb6dfe9b24bc13d50280fbd0ac0bc376d1ccefc9b056174595053ed38c",
+   "size": 480
+  }
+ },
+ "inner_path": "data/users/1MREdcZdDjmPyVL8YH53wPfzjc6FX9aJ8b/content.json",
+ "modified": 1503250532,
+ "signs": {
+  "1MREdcZdDjmPyVL8YH53wPfzjc6FX9aJ8b": "GxkLYUlgDR5MpZSwzVceOY2T7r9hy4Z6GOjcYKFm/oTOc0M3bXHHr/Zv3XJlp9Cssp/lfaEBKfCLeFSmRevJPIA="
+ }
+}

@@ -1,0 +1,262 @@
+{
+	"next_topic_id": 6,
+	"topic": [
+		{
+			"topic_id": 1511404042,
+			"title": "ZeroCDN - Frameworks for Zeronet developers",
+			"body": "http://127.0.0.1:43110/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm\n\n--\n\nZeroCDN is a zite that hosts downloads for a few different web frameworks. Currently they offer jQuery, Bootstrap, D3.js, and Superagent. You can easily add one of their frameworks to your zite with two script tags (one for their js file and another for importing the framework(s) that you want).If you are developing sites that use these frameworks, I would highly suggest that you use ZeroCDN.\n\n---\n\nPlease note that I am not  in any way affiliated with ZeroCDN, I had just found the site on my own and wanted to share it. If you are the owner of ZeroCDN, I suggest that you add your contact info on the site so that others can request the addition of other files.",
+			"added": 1511404041
+		},
+		{
+			"topic_id": 1511752886,
+			"title": "How can I access files from other zites?",
+			"body": "I've tried already, but I get an error: `No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access`",
+			"added": 1511752884
+		},
+		{
+			"topic_id": 1512623897,
+			"title": "Directory Indexing",
+			"body": "Is there any way to have a directory index, like apache has? I'm wanting to host a large collection of files, but I don't really have a good way to index them.",
+			"added": 1512623894
+		},
+		{
+			"topic_id": 1512768435,
+			"title": "Sign error: VerifyError: Invalid relative path",
+			"body": "```\nSite:19PiGL..CW7E Signing content.json...                                                                                                                                                                          \n- Sign error: VerifyError: Invalid relative path: files/The Actually Useful Programming Library/Objective-C - Cocoa - OS X - Xcode/Cocoa Programming forMac OS X 4e - Hillegass, Preble - Nerd Ranch (2012)/Cocoa P\nrogramming for Mac OS X 4e - Hillegass, Preble - Nerd Ranch (2012) Shitty version.pdf.piecemap.msgpack in main.py line 232 > ContentManager.py line 665 > ContentManager.py line 762                               \n```",
+			"added": 1512768431
+		},
+		{
+			"topic_id": 1512772714,
+			"title": "Invalid host",
+			"body": "I am trying to setup a proxy, but I get the error `Invalid host` when I try to access the proxy outside of my local network.",
+			"added": 1512772709
+		}
+	],
+	"topic_vote": {
+		"1511316400_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": 1,
+		"1511320778_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1511163737_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511404042_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"1511411191_1CYj7o5iamDZeKZvdSAW4P2aEngmAXb78T": 1,
+		"1511471860_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": 1,
+		"1511567503_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1_19RUZHcaNj247EGGxFXopJyaLwvcMPsYLZ": 1,
+		"1511671189_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1511752886_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512163082_17Zks611RR4oN8USC3RxJzaw94GyPufioG": 1,
+		"1512179082_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512454998_1F5HXAibuABEqe3XzbhQ7tq7J5m2JQHhHN": 1,
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": 1,
+		"1512565682_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512677933_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1512623897_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1512701903_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1512772714_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1513048648_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1513302250_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1
+	},
+	"next_comment_id": 23,
+	"comment": {
+		"1511316400_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": [
+			{
+				"comment_id": 1,
+				"body": "Please correct me if I'm wrong, but I believe that it won't be affected.",
+				"added": 1511318443
+			}
+		],
+		"1511320778_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 2,
+				"body": "You can make more of an impact if you write to or call up your congressmen.",
+				"added": 1511321221
+			}
+		],
+		"1511326904_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 3,
+				"body": "Pretending to be another brand so that more people notice your site is pretty sketchy as well...",
+				"added": 1511328009
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kopyjane](#comment_36_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): You've been posting to the site for 5 days almost non-stop, and now you're basically uploading every single show that I have.  [...]\n\nokay, cut it out",
+				"added": 1511330647
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 5,
+				"body": "test",
+				"added": 1511331212
+			}
+		],
+		"1511404042_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 6,
+				"body": "> [helium](#comment_79_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): http://localhost:43110/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm\n\nThank you, I had completely forgotten to link it",
+				"added": 1511413442
+			},
+			{
+				"comment_id": 8,
+				"body": "> [krixano](#comment_157_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I would use it, but it doesn't have any of the frameworks/libraries I use. Also, it hasn't been updated since 2015. Someone should make a clone of it and add more libraries and keep it updated.\n\nI'll work on that",
+				"added": 1511492331
+			}
+		],
+		"1511471860_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": [
+			{
+				"comment_id": 7,
+				"body": "I would be happy to make a .desktop file for you, or you could follow peter0's link to make your own.",
+				"added": 1511489804
+			}
+		],
+		"1511517146_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 9,
+				"body": "It's odd that they would allow tar.gz and zip, but not any type.",
+				"added": 1511545092
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 10,
+				"body": "Markdown in the description box and comments would be nice.",
+				"added": 1512088737
+			},
+			{
+				"comment_id": 11,
+				"body": "I think it would be cool to have channels integrated into the popular page. Possibly just have channels in the same list as videos, but a channel's ranking will be based on the sum of peers all of their videos have.",
+				"added": 1512612412
+			}
+		],
+		"1512623414_1HBy99H2dsCwevdYZp8VVC2SVG69DGVyEd": [
+			{
+				"comment_id": 12,
+				"body": "It still seems pretty alive to me.",
+				"added": 1512623822
+			}
+		],
+		"1512623897_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 13,
+				"body": "> [gitcenter](#comment_55_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): You can clone e.g. my library here: https://github.com/imachug/ZeroFile or here: Git Center Repo [...]\n\nThank you much, it's working great",
+				"added": 1512700030
+			},
+			{
+				"comment_id": 19,
+				"body": "> [gitcenter](#comment_55_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): You can clone e.g. my library here: https://github.com/imachug/ZeroFile or here: Git Center Repo [...]\n\nMy zite is loading very slowly and sometimes even crashes the tab, do you think you could help me fix it? http://127.0.0.1:43110/19PiGL5SL6CvHToZVWKpMFnMCmSL2YCW7E/#/",
+				"added": 1512849419
+			},
+			{
+				"comment_id": 21,
+				"body": "> [gitcenter](#comment_63_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): Oh, you have optional files there. And content.json is 3MB!\n\nWhat should I do?",
+				"added": 1512921432
+			}
+		],
+		"1512767969_15JxiqH2eroW9ZgWFS2u17vvjt64ztu5Ac": [
+			{
+				"comment_id": 14,
+				"body": "http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/Test+messages",
+				"added": 1512768287
+			}
+		],
+		"1512772714_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 15,
+				"body": "> [bernardo](#comment_1_15JxiqH2eroW9ZgWFS2u17vvjt64ztu5Ac): can u send the config file // software information?\n\nUnless there is a default config file, I'm not using one, but I do have command line arguments. `--ui_port 80 --ui_ip \"*\"` The proxy is being forwarded through my router, which may be the problem.",
+				"added": 1512777229
+			},
+			{
+				"comment_id": 17,
+				"body": "> [kopyjane](#comment_97_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Are you using a domain? Or just your IP? If you are:python zeronet.py --ui_port 80 --ui_host www.mydomain.com mydomain.com 127.0.0.1 --ui_ip '*'If you aren't (xx means public IP):python zeronet.py --ui_port 80 --ui_host xx.xx.xx.xx 127.0.0.1 --ui_ip '*'\n\nThanks, it works",
+				"added": 1512839682
+			}
+		],
+		"1512768435_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 16,
+				"body": "> [nofish](#comment_1072_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can, allowed chars: [a-z[]() A-Z0-9_@=.+-/], but the file name is too long (max 255 char)\n\nThank you sir",
+				"added": 1512838281
+			}
+		],
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 18,
+				"body": "I just set one up myself http://zero.heyitswither.tech",
+				"added": 1512841114
+			},
+			{
+				"comment_id": 20,
+				"body": "> [krixano](#comment_189_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I think if you can get ssl, you should use it (even if it's from LetsEncrypt. If you don't know, Let's Encrypt lets you get free ssl certificates, but you have to be on non-shared service, unless they use this other thing (I forgot what it's called) that does allow individual ssl certificates on shared hosting).\n\nYeah, I was planning on it, just haven't gotten around to it. I can work on that now.",
+				"added": 1512871224
+			}
+		],
+		"1513302250_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 22,
+				"body": "Content: \n> Net neutrality removal in the U.S. and the people's lack of a technical response shows that we here need to boost digital skills. No I don't mean making a presentation, I mean installing new operating systems, building mesh networks, using alternative networks such as zeronet.\n\n> If you're reading this, over Christmas learn to run zeronet, it's pretty easy, here's the website: https://zeronet.io\n\n> Also spend time learning how to install Linux mint from linuxmint.com and learn about meshnets and F-Droid. Act now or get rogered when the ISPs kill net neutrality here too.\n\n> Don't waste time.",
+				"added": 1513302728
+			}
+		]
+	},
+	"comment_vote": {
+		"1_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"220_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"227_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1_13PaV9QW67CMBKzRMFQJGV2ZHpNshcnPcq": 1,
+		"2_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"180_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"179_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"178_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"176_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"175_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"177_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"3_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"4_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"186_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"38_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"191_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1HEvwWD2Qf1Gk9ZR6PivKxxT6igqtKYh7W": 1,
+		"79_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"21_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"25_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"55_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1061_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"254_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"24_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"10_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"1_1EYyJydDBojStVmNxdAVB2iVhVm2H1qwoX": 1,
+		"259_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"10_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1_1NxkVn1drnWg5B4BdZy4siAfMK9JNXhSEz": 1,
+		"166_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"264_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"101_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"12_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"10_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"11_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"89_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1070_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"128_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"55_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"10_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck": 1,
+		"2_1gJPRbL7puiekYd32rYVuCkELC43bCsY9": 1,
+		"181_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"182_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"14_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"20_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"11_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"97_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1072_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"18_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"6_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"8_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"22_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1
+	}
+}

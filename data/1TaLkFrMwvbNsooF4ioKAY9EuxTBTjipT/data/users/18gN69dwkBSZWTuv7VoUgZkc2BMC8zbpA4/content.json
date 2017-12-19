@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8IGfjOMaGHHc6MzCyETqknN2vWFneIbPHRTZO/uXNFrUm7hZArNl23+zNnSUFHQfCyIg9mBKtQJuPilW+Bansw=",
+ "cert_user_id": "chrisatalanta@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "43fedab3d370bf092723ffcf80787dfe558acf5a52a2d6f2d790b27aa341797c",
+   "size": 450
+  }
+ },
+ "inner_path": "data/users/18gN69dwkBSZWTuv7VoUgZkc2BMC8zbpA4/content.json",
+ "modified": 1500480082,
+ "signs": {
+  "18gN69dwkBSZWTuv7VoUgZkc2BMC8zbpA4": "G74dr3A+1F3C0bOnKpcRx3VFst0VGE8mpra3J2feJKIgVOUWAU3OuQ1u2n+DOKbAkoClTZNZZ2wa8MR8aNUxLMY="
+ }
+}

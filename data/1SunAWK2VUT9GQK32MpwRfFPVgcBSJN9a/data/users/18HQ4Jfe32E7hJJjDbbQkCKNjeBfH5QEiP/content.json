@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3wiRge8VwjLTY54OkWr5w715lLY7xypHGrI/FRvH4yQumubb0xykYvUbgnWNEpXEmrw1SnpoROLUv0cP5wey6k=",
+ "cert_user_id": "wolfskin@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "c3e565e0b4cac4c3f998c8fd315a67db778f06d34c8d32dcecf7062e752b3e96",
+   "size": 828
+  },
+  "data.json": {
+   "sha512": "51d6a7405cdbfa3b2adc9e2c8395ab53041c145084f9dc339d4c301c25810fd0",
+   "size": 878
+  }
+ },
+ "inner_path": "data/users/18HQ4Jfe32E7hJJjDbbQkCKNjeBfH5QEiP/content.json",
+ "modified": 1507058909,
+ "signs": {
+  "18HQ4Jfe32E7hJJjDbbQkCKNjeBfH5QEiP": "G8sDRbb0G2wQ7qFu3kN+GyDgm6gsGZzb+6goklMVw/aQbVNKkNOgo5kwLBgP7j1KBxWGq94nzELdMFPn73Ajevc="
+ }
+}

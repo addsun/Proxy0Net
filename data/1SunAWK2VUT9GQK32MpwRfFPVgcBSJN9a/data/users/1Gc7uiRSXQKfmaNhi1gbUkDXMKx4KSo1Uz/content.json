@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GytHahZL7M3oFoRNwWSn07mwHr4NgUp1Y8sdDvYkcdM3wKdf7SOzeSdvgZy/cPdtpms+JiIE3hrneMFLcJEtUVo=",
+ "cert_user_id": "nabokov@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e97e77d537fbaef6f82a4ef4ab71499ce0caa7202686a2ffb86744758bd9e7dc",
+   "size": 330
+  }
+ },
+ "inner_path": "data/users/1Gc7uiRSXQKfmaNhi1gbUkDXMKx4KSo1Uz/content.json",
+ "modified": 1504673023,
+ "signs": {
+  "1Gc7uiRSXQKfmaNhi1gbUkDXMKx4KSo1Uz": "G5+9UsiFes9aHHoxKn1BYMOAgVrPS0ngsUcGjikVhcEiJ6Mfln2vOSZjM62ieLtY2oGvmy89oDtnxKj52vVKCpo="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGVSANv2gD7aGzR8LKdXDLnRrGwVAXyzgC4KAJ9dp3N2JcPOaGj07zAJvc1csvHy5Ty6/GmK9eiEMCX7jAXkbBo=",
+ "cert_user_id": "hecate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f5c9337dee1c953c1a7b0014b539d9a38d7b39c5ff657a8b5630efb1cc32a2e1",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/16pwTzYS7JumEHhKhTc6dE1iakrwuv62SY/content.json",
+ "modified": 1507292902,
+ "signs": {
+  "16pwTzYS7JumEHhKhTc6dE1iakrwuv62SY": "HGxFCqIkgs8vWDqJTh84ijx8ub8UKpcrCACDuIYMhxiEUgGClGuy4VYK3YqQEsPgoMVlQEbpjeQX2l/ATbqs0zk="
+ }
+}

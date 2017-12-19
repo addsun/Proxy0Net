@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HDTyNxbckcddNETpyIJMMwo9jGIVigY75kOvMRwqaP0Yqfp53nSJOa2cvhUyADSNUPRnQ/iMH+GUSOXymLyj3WY=",
+ "cert_user_id": "grandtux@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46df4c39114a9f80f7700fb435d29b4aa1f728a9e5671ac80288509a9e59350d",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1ADZHGZhqAcS7UQ3SjQCzVYZapnVKoiVMh/content.json",
+ "modified": 1504874224,
+ "signs": {
+  "1ADZHGZhqAcS7UQ3SjQCzVYZapnVKoiVMh": "GyFJ3jhSXhr2VCrY/4widJvV68zluWuI2jroSt0LysrBKKntvmiSmJMS8edfehwZ/xkn1inbbnWTOFtIVNTEmac="
+ }
+}

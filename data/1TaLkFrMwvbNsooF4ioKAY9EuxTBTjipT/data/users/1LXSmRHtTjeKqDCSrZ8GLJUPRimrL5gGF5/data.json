@@ -1,0 +1,154 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Does anyone tried ZeroTier? What is that?",
+			"body": "Does anyone tried [ZeroTier](https://www.zerotier.com/)? What is that?",
+			"added": 1499490603
+		},
+		{
+			"topic_id": 1509111564,
+			"title": "What is ZeroUP？",
+			"body": "How to use it？If I turn off my PC, does files I uploaded available ? ",
+			"added": 1509111562
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 24,
+	"comment": {
+		"1_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3": [
+			{
+				"comment_id": 1,
+				"body": "> [lightrabbit](#comment_1_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3): 我觉得可以考虑只存放root hash然后完整的hash set由下载了optional file的节点来维护这样对于没有下载该文件需求的用户，optional file的元信息不会占用太大的空间 [...]\n\n就像Bittorrent 的 磁力链接一样？通过种子文件的hash检索种子文件，再通过种子文件中的文件hash检索具体的文件。\nSounds like magnetic links .",
+				"added": 1497149082
+			},
+			{
+				"comment_id": 5,
+				"body": "> [kai0](#comment_191_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 在现在的基础上无法实现优化，这牵涉到零网的核心。\n\n为什么“涉及到零网的核心”就无法实现优化呢？",
+				"added": 1497484398
+			},
+			{
+				"comment_id": 7,
+				"body": "> [kai0](#comment_199_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 动核心是在网络基础层面改进，不动核心那是在应用层面改进。如果基础层面有问题，只在应用层面改进，不是不可以，而是困难非常大，不值得这么做。\n\n指的当然是“在基础层面”修改呀",
+				"added": 1497788345
+			},
+			{
+				"comment_id": 11,
+				"body": "> [lightrabbit](#comment_8_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3): 说实话，ZeroMux的复杂度可能比ZeroNet的核心的复杂度还高……里面涉及到对视频文件格式的解析都是一个个的坑…… [...]\n\nZeroMux的在线播放部分和文件分割部分其实是功能相对独立的模块吧。其实完全可以现在立马做的。等ZeroNet支持文件分割后，只是从播放原来ZeroMux分割的文件，变成播放ZeroNet本身分割的文件罢了。做起来应该没太大区别。",
+				"added": 1498191492
+			},
+			{
+				"comment_id": 14,
+				"body": "> [lightrabbit](#comment_10_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3): 分割只是内部传输的时候用的技术，对外体现都是一个完整的文件的……所以我是打算直接按完整的文件来做，不管分割啥的，反正之后ZeroNet能搞定这个问题.\n\n我也是这么觉得的。所以什么时候开始做？怎么开始做？在哪开始做？\n我接着打杂吧。。。",
+				"added": 1498204752
+			}
+		],
+		"1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz": [
+			{
+				"comment_id": 2,
+				"body": "顶",
+				"added": 1497175238
+			},
+			{
+				"comment_id": 3,
+				"body": "每日一顶",
+				"added": 1497277682
+			},
+			{
+				"comment_id": 4,
+				"body": "每日一顶",
+				"added": 1497450938
+			}
+		],
+		"1_1EXcvWK8Lw6p4z1TcVth9JSSfqi5woENZH": [
+			{
+				"comment_id": 6,
+				"body": "在公共代理访问你尚未发布成功的站点，点发布就行。\n- - -\nIn the public agent visit you have not yet released a successful site, click on the line.\n--Translate via Google",
+				"added": 1497704384
+			}
+		],
+		"1_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": [
+			{
+				"comment_id": 8,
+				"body": "https://translate.google.cn/ google.com is not available in mainland China.",
+				"added": 1498047273
+			},
+			{
+				"comment_id": 17,
+				"body": "> [hexkey](#comment_47_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF): Everyone: [...]\n[谷歌翻译](https://translate.google.cn)，在中国可用。\n***\n[Google Translate CN](https://translate.google.cn) which work in mainland China",
+				"added": 1498426937
+			},
+			{
+				"comment_id": 19,
+				"body": "每日一顶",
+				"added": 1499007397
+			}
+		],
+		"2_1Lc6bmYgPiKpgH97AN9YGAdJgZhoYk1HUd": [
+			{
+				"comment_id": 9,
+				"body": "> [zeromobilicorpus](#comment_2_1BnGNGstWBFRto1DdAi31XnQDHfrZgQtih): 这家伙（shion）之前的发言，已经充分表明了他的精神有问题，他的号被论坛管理员和谐并不奇怪。\n\n其实我觉得（shion）的思考还是有一定深度的，只是不知为何，有时语言有点过激。\n另外我认为不应该封禁 shion 。",
+				"added": 1498047382
+			},
+			{
+				"comment_id": 12,
+				"body": "> [ehudu](#comment_45_1ArDm9BfJUTfrGQLDra6KKNYYqXWS7v2sp): 智商是硬伤。不了解zeronet还在那BB。有本事自己克隆一个ZeroTalk就可以了，自己想怎么发言就怎么发，你自己的网站别人和谐不掉。你这种智商就是自己的网站还不能控制自己的网站让你滚蛋。\n\n也请您不要BB。\n以怨报怨，不如以直报怨。",
+				"added": 1498204414
+			},
+			{
+				"comment_id": 13,
+				"body": "> [hsdgdfhfxjhdfgwe](#comment_1_17xWmgq4WVxTGVXc4vFyxwGG84URsaC5CP): 我放弃了这个世界，不代表也放弃回击这个世界的恶人。由于屁股决定脑袋的人占据绝大多数的人口。所以有必要产生下文：这里的解释内容面向未来的不明真相的吃瓜群众。 [...]\n\n有可能是网络问题。尝试更换网络环境？\n我也遇到过类似的问题（例如发ZeroMe发不出去），但问题在重新下载ZeroNet后解决。",
+				"added": 1498204539
+			}
+		],
+		"4_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": [
+			{
+				"comment_id": 10,
+				"body": "Just click the ID and you can ban it.",
+				"added": 1498139160
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 15,
+				"body": "Can I add videos here\n<video width=\"600\" height=\"335\" class=\"playing\" src=\"/1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h/data/mp4-redditgifs/7103.mp4\" preload=\"auto\" loop=\"\" muted=\"\"></video>\nWhy doesn't it work?",
+				"added": 1498413693
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 16,
+				"body": "mianland China",
+				"added": 1498413788
+			}
+		],
+		"1_14sgXPQow6166qQ1uhnocrfzGfgjkM32WR": [
+			{
+				"comment_id": 20,
+				"body": "最简单的办法，将文件(加密)压缩后放到站点中发布即可\n当然，如果没有必要，请不要压缩。ZeroNet对大文件的支持还不是很好。",
+				"added": 1501181564
+			}
+		],
+		"2_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 21,
+				"body": "Why not ED2K",
+				"added": 1503932903
+			}
+		],
+		"1509111564_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": [
+			{
+				"comment_id": 22,
+				"body": "> [styromaniac](#comment_157_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd):  [...]\n\n> [jlxip](#comment_38_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C):  [...]\n\nDo you mean ZeroUp just like Resilio Sync or BT?(rather then PrefectDark nor Freenet)",
+				"added": 1509172476
+			},
+			{
+				"comment_id": 23,
+				"body": "> [jlxip](#comment_41_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C): Yep, it's pretty much like BitTorrent, but ZeroUp is an intent to \"\"\"centralize\"\"\" the files, so people can access them easily.\n\nI mean, https://en.wikipedia.org/wiki/Perfect_Dark_(P2P%29 might be better",
+				"added": 1509192696
+			}
+		]
+	},
+	"comment_vote": {}
+}

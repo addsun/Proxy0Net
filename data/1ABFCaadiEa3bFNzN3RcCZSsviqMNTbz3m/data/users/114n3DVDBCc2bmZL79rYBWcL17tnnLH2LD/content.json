@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw575NXqm3P4+sPP8XH5+/s8dyMFIBo/jGfpRjbUls4Ag9El1bojHne22o3C1VQDILH9UUSTwu8oA/+/Z5J3tA0=",
+ "cert_user_id": "meteo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5750960a45efe4131205f79e99bd4907fb8ad813dead2a7c5996f4fb6b861e15",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/114n3DVDBCc2bmZL79rYBWcL17tnnLH2LD/content.json",
+ "modified": 1502040052,
+ "signs": {
+  "114n3DVDBCc2bmZL79rYBWcL17tnnLH2LD": "G8sC3JTRKD2/Vd5oODGJjWCH/79nXm1RiiT/P94fv4uJNiNhS2WoTrqiE8m1KRaWDTCqcWPXr/aWscHzKCKQHQg="
+ }
+}

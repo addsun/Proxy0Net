@@ -1,0 +1,44 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"1_19i26STfYVZkMToLLgCunQ1dDZDrHaRdxt": [
+			{
+				"comment_id": 1,
+				"body": "> [innovation](#comment_1_17z69JHjVuFK4jHTseM4Tg2h4ABVQFiUt8): 使用Tor可以隐藏IP\n\nTor要翻墙。不好用。",
+				"added": 1501133103
+			}
+		],
+		"1_1Hv2qHowmG8sURX51L4zXQDDxakF6XgEvB": [
+			{
+				"comment_id": 2,
+				"body": "> [kai0](#comment_227_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 得了，中国人只是智商太低，才会有10几亿人被一个几千人或者几万人维护的防火墙挡住。中国只要有20万人使用零网，防火墙就见鬼去了。\n\n0net封不了？你想多了。这个是居于BT技术的。当年运营商就封了BT下载。这个0net应该也是通过特定的端口，tracker等，封始终没有问题，看成本而已。实在不行，以后上网需要申请，看你0net如何能运作。所以真正解决的方法是脚。不愿意用脚，环境只会越来越差。",
+				"added": 1502278379
+			}
+		],
+		"1_1LajFt4rB1nREhyTfDt2VW4C8TmBy51vc4": [
+			{
+				"comment_id": 3,
+				"body": "昨天我搬瓦工VPS全部挂了。后来过了几个小时后，能ping通，但是非常慢，丢包严重。今天回复。不知道是搬瓦工被黑了，还是针对搬瓦工服务器做的出口限制。否则不可能同时挂。还好回复了。",
+				"added": 1507960177
+			}
+		],
+		"89_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 4,
+				"body": "当然有，不过你用不起。私人在天朝不能接卫星，否则罚款",
+				"added": 1507960241
+			}
+		],
+		"87_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 5,
+				"body": "> [mmgou](#comment_1_1N2fYbovAXWNHLeBADB7uvL611Q7Q3ULwZ): 买个外国的vps，用ssh+tunnel。 [...]\n\n扯蛋，这个特征明显。立马就封，又不是没封过",
+				"added": 1507960422
+			}
+		]
+	},
+	"comment_vote": {}
+}

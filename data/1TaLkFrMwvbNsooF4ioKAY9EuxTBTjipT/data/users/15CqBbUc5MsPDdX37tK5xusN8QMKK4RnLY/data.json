@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "activating tor for lan/wan",
+			"body": "if i activating tor mode, will my network (lan/wan) get speed benefit?",
+			"added": 1503910982
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "tes",
+				"added": 1503325206
+			}
+		],
+		"1_15CqBbUc5MsPDdX37tK5xusN8QMKK4RnLY": [
+			{
+				"comment_id": 2,
+				"body": "so if want my network get benefit from zeronet (video stream) i need to turn off tor, is't? what i mean speed benefit (full lan speed) from same network. i want to share video or to say seed video for my network",
+				"added": 1503973795
+			},
+			{
+				"comment_id": 3,
+				"body": "> [homebrew](#comment_11_1L6RzCHN6Uv2GMrJQhafSypAWPWywiXCsA): I think I understand. If you want make sure that you're getting the best possible speed for local devices to both local and remote, you'd have to disable TOR. That comes with the caveat that you will unquestionably be more vulnerable and your privacy will not be assured.\n\nthanks, it help me understand.",
+				"added": 1504062968
+			}
+		]
+	},
+	"comment_vote": {
+		"1_15CqBbUc5MsPDdX37tK5xusN8QMKK4RnLY": 1
+	}
+}

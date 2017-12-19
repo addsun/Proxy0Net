@@ -1,0 +1,58 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Just so you know...",
+			"body": "Yo mama's so fat, she needs a zipcode to locate her anus.\n\nThank you for joining ZeroNet.\nbitmaster",
+			"added": 1504996555
+		},
+		{
+			"topic_id": 2,
+			"title": "New site: 1 file update failed",
+			"body": "I created a new empty site (1EPXjkL94tmDvU1EWBiW55dBj8oJrGjjbo). It almost immediately got a few peers. All looked well. Then I made some small changes to content.json and index.html, just to give it a proper name and one line of content saying it's under construction. After updating I now keep getting a \"1 FILE UPDATE FAILED\" message, and just can't seem to debug it. The debug logs give me no clear information regarding this problem, which really sucks. How do I fix this?",
+			"added": 1505038555
+		}
+	],
+	"topic_vote": {
+		"1_14Kakxw14Eo5mXozLpsU755yeQuPmLRS9z": 1,
+		"2_14Kakxw14Eo5mXozLpsU755yeQuPmLRS9z": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_19vYZ3YDA3LLxrhk3kSo58p2EppqkJVDMZ": [
+			{
+				"comment_id": 1,
+				"body": "Can you write \"site\" instead of \"zite\"? I see it a lot and it looks really weird. The rest of the English you get quite right. :)",
+				"added": 1505037321
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kaffie](#comment_493_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): 'Zite' is used as a short way of writing 'zeronet site'. It appears the hivemind has reached a consensus on the term. And indeed there was a poll about it a while back.\n\nThen I feel a bit noobified, sorry. Thanks!",
+				"added": 1505077981
+			}
+		],
+		"2_14Kakxw14Eo5mXozLpsU755yeQuPmLRS9z": [
+			{
+				"comment_id": 2,
+				"body": "I thought each seed has an exact copy of the site and is therefore hosting it? I guess I'm wrong then.\nAnyway, I did \"Check files\" several times yesterday, and it didn't help. Funny enough, I did it again just now, and it worked. So right now it's fixed, although it took a long time and I don't know what caused it.",
+				"added": 1505070091
+			},
+			{
+				"comment_id": 3,
+				"body": "By \"seed\" I meant \"peer\" of course... (torrenting much? :P)",
+				"added": 1505070536
+			}
+		],
+		"4_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 5,
+				"body": "What do you mean, nothing works? That's bullshit. KODI works just fine. If your addons break, blame the addons.",
+				"added": 1505666894
+			}
+		]
+	},
+	"comment_vote": {
+		"3_1Bi9V3bX9yBXhd36w6dehiJa3Fy4fPsHky": 1
+	}
+}

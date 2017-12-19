@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6FzLfDJEBzE0rYwfRaTVLTSXZJcpRce6Drkj0K/65n3S3W2VPZtS9rtu7Mg/+zsjtP7LOafReaJgKpCYQU5ejQ=",
+ "cert_user_id": "raimbault@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "e7e6976782e441f9ec16ec3ec44ddf13ee056c9113bfc6b1255f5e42c751bd36",
+   "size": 335
+  }
+ },
+ "inner_path": "data/users/1FmVvWY2Lz9brH1ZxKN9Aycf4rQQu9fx8P/content.json",
+ "modified": 1511672059,
+ "signs": {
+  "1FmVvWY2Lz9brH1ZxKN9Aycf4rQQu9fx8P": "Gwu4o1DFT8saDZOuK2tx0Wqk5pA8YHejTceBEWY5nh+TGjeEJkccT/vdyGa3WfzT3iQq6eI7MDet2h+WLBVMqs0="
+ }
+}

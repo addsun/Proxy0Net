@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HF78lqvYrGB2+iasRi3wrVLUUbDVcVmG2G123sm+lNIPLB+UTUXD+cTyw5beMrKkLz0q8pfGS8ww6Zk96iolnIY=",
+ "cert_user_id": "sudonekovo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe5bc81b25876a5abf245df85e3ffdd0eff7e13a69066fa7d8a1a172602b1ec8",
+   "size": 321
+  }
+ },
+ "inner_path": "data/users/1QGWp4b9Rg33gyfywkGG8bK1xhHrdk8hVd/content.json",
+ "modified": 1500799393,
+ "signs": {
+  "1QGWp4b9Rg33gyfywkGG8bK1xhHrdk8hVd": "HM4IF51qFoUQrSrsVdwH0NGheKeZZ2mU8+b2dCO2EZCwPmAa2mVlFv68OIH5eHPgNjdJGz+ogW9g6hUbVXUALlU="
+ }
+}

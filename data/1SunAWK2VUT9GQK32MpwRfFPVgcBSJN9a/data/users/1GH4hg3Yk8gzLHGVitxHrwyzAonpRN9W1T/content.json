@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HAP+iZTzLN+GN8FRmMBt+FCRllVzQ5mP0yvqt3eW9BeNuFR5MXGHutgHbd3qu5L248VlO/duI9B/mmKIH/eGf58=",
+ "cert_user_id": "lightswitchon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ae22a04eacb1eccdc30813d867cd5dba0c249b8b20a0c89fe82ae82dbb768056",
+   "size": 424
+  }
+ },
+ "inner_path": "data/users/1GH4hg3Yk8gzLHGVitxHrwyzAonpRN9W1T/content.json",
+ "modified": 1506677777,
+ "signs": {
+  "1GH4hg3Yk8gzLHGVitxHrwyzAonpRN9W1T": "HJPTdqDCbgBUnlpHKu/JmNTmkfyAxmSe1Bl0N3x1J0oScvp8sww3rUL/tsIzDmhXLnM92E2qb0lEz+GYIF82uQY="
+ }
+}

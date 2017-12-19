@@ -1,0 +1,43 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1512483351,
+			"title": "My Youtube & KopyKate Channel on Zeronet",
+			"body": "My Youtube Channel on Zeronet:\nhttp://127.0.0.1:43110/149EPBN4hQRpwj5TcoPETepnoXHCUXzaCN/?Channel=defalt@zeroid.bit\n\nMy KopyKate Channel:\nhttp://127.0.0.1:43110/big.kopykate.bit/?Channel=defalt@zeroid.bit",
+			"added": 1512483350
+		}
+	],
+	"topic_vote": {
+		"1512266574_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1512483351_1u6V1rj2KzNCnVs6MooZRoJDZ6fPgGuwg": [
+			{
+				"comment_id": 1,
+				"body": "I didn't know Kopykate until you mentioned it.\nIf Youtube and Kopykate don't have any difference, it's actually useless to have two.\nI like Youtube because it has a name that indicates the purpose of the site. The name Kopykate is less meaningful for people who don't know the site yet. But Kopykate seems to be the original site.",
+				"added": 1512520907
+			},
+			{
+				"comment_id": 2,
+				"body": "My KopyKate Channel:\nhttp://127.0.0.1:43110/big.kopykate.bit/?Channel=defalt@zeroid.bit\n;)",
+				"added": 1512523277
+			}
+		],
+		"1512266574_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 4,
+				"body": "> [kopyjane](#comment_89_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): The problem with search engines on ZeroNet right now is that they rely almost entirely on human input in order to build up a proper database. You don't have the luxury of using web crawlers in order to search for content, because content needs to be downloaded onto a disk in order to be read, including databases.. unless you're using a ZeroNet proxy. They also tend to be biased toward sites that the creator likes. I suppose the only way to beat this problem would be to create a ZeroNet python plugin (call it CrawlerBot) that automatically queries every single .db file of every single zite you've downloaded simply looking for links with http://127.0.0.1:43110/* It would then update that database universally across all ZeroNet clients, and could be queried by any zite. Duplicates are simply ignored, but new links are added.\n\nIt's a good idea. I'll see how I can do this. Thanks :)",
+				"added": 1512609782
+			}
+		]
+	},
+	"comment_vote": {
+		"87_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"85_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"89_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"217_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	}
+}

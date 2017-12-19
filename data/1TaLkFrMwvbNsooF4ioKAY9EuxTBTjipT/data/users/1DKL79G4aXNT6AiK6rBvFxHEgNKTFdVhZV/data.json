@@ -1,0 +1,28 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"1_1C95bWEPdpFKgoZjPLxF9NKFVj8Fvw8u2z": [
+			{
+				"comment_id": 1,
+				"body": "it's '/Users/<your_username>/Library/Application Support/ZeroNet/data/'",
+				"added": 1506772515
+			},
+			{
+				"comment_id": 2,
+				"body": "The Library folder is hidden by default in Finder.",
+				"added": 1506772572
+			}
+		],
+		"1509721890_17Nme2gWN8QqD2APgvXV9vn6jR8VrT6MLK": [
+			{
+				"comment_id": 3,
+				"body": "go to your router's port forward settings and create a new port forward with destination and target port (might be called something different in your router) to 15441 and the target IP to the local IP of the computer you are running zeronet on. you will want to make sure you either set a static port on the zeronet computer or give it a static lease via DHCP. the exact way to do all of this will vary depending on your router.",
+				"added": 1509736903
+			}
+		]
+	},
+	"comment_vote": {}
+}

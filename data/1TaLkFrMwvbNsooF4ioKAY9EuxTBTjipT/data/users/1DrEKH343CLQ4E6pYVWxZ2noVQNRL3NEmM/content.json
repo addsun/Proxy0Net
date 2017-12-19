@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G97Nx677BPH7NDfFNl2M+IlSwGf2ugPZwxW3hEEzIy3/mXE+tUnjT/WXVAcvjToChZen5fjV8R0oLMyJyK8ucAw=",
+ "cert_user_id": "blubadger@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e61ad206501537ed7bce95db305ec2a3893c9c36168826608264a767624fc079",
+   "size": 318
+  }
+ },
+ "inner_path": "data/users/1DrEKH343CLQ4E6pYVWxZ2noVQNRL3NEmM/content.json",
+ "modified": 1505055210,
+ "signs": {
+  "1DrEKH343CLQ4E6pYVWxZ2noVQNRL3NEmM": "HC1IbMhIsfv0buKE6/lJ2H2xzv23TfRRAWArClm1PICKUNad5lnOlOv6MvN5TZm5uP/vvvhQhVHzca/mIgpsqX8="
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "HC7GoUx5dXtYmb2uSr/E3fgp/CJ/CpH9zFa+GCms874LuCboAhJWcI4eyTUNa2dQNDM7LTU99qxJjkREcy3xp60=",
+ "cert_user_id": "atheist@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "459fb61a482075ff8fede21626e219f223edc4b14e5cdd10bbafe7be329350b1",
+   "size": 1673
+  },
+  "data.json": {
+   "sha512": "d310c50e1be018fde4f894dc62bc56b12e79c456ae657a1beb1b2ae89c57823e",
+   "size": 157647
+  }
+ },
+ "files_optional": {
+  "1495449418.jpg": {
+   "sha512": "a5b8d100b4fd719045159617416967f9dfd394d95b97598daa4ff30f0f10fdb9",
+   "size": 34978
+  },
+  "1495555903.jpg": {
+   "sha512": "5140965d2b994eaaf1dfd00684e72076cd245cc649ec0fb261f98568258502e0",
+   "size": 67303
+  },
+  "1498623427.jpg": {
+   "sha512": "2f2a8c8611826ef0a0c9ee807db679814e5d98e16262d5f5d9d6de41dceae8dc",
+   "size": 93798
+  },
+  "1498649055.jpg": {
+   "sha512": "d703e56cdf3a5aa442be8d83cccfe23fd83a57c79aaa218dff1aae9533bf6c42",
+   "size": 60168
+  },
+  "1498730200.jpg": {
+   "sha512": "53656d8148f473a833c417b694f8860ab8f56e9dc8f617330e0d0c74ccd12719",
+   "size": 57932
+  },
+  "1499771913.jpg": {
+   "sha512": "fd23657bce29e051fe24995e26febb273021938decc873f3bb50955a979fa916",
+   "size": 40695
+  },
+  "1499918674.jpg": {
+   "sha512": "549eb00aca108cb916b9252d1f58d8b00313b94d94e996587e73547c6299823d",
+   "size": 59280
+  },
+  "1511937754.jpg": {
+   "sha512": "b95a82a02534eec5148a51e72dfd5e16faba1d2cbdfc4c02acf1aa5fbc6622f8",
+   "size": 16742
+  }
+ },
+ "inner_path": "data/users/12Ugp53jiMdvj1Kxa1w7c2LcXUBdGPs1oK/content.json",
+ "modified": 1512382062,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12Ugp53jiMdvj1Kxa1w7c2LcXUBdGPs1oK": "GzD4N7elBN1CShfKNmP6klzt2ays0IvH/sBOeekd17ZfYZuoycVnq7njaB2z1OcEqRPSautUyObJflcycsyOc/A="
+ }
+}

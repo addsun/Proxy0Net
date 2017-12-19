@@ -1,0 +1,24 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HFVGHvYiLxftMCIQHmj5/5Dy3PoF2pZhbISphDONfdsZlWpcZ3XGEVi7mHNsJfdnawJEQNT2N0NtKxef372/o9o=",
+ "cert_user_id": "megavolt@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "210e3b4c7b70526b27d997ab223e92bcda6652e14fb7d4875824533516a15285",
+   "size": 4531
+  }
+ },
+ "files_optional": {
+  "1479065015.jpg": {
+   "sha512": "b9609720a77d9240ef64f129b2a81a291e87077c6bc94102cdd02e8f2b7474e4",
+   "size": 12073
+  }
+ },
+ "inner_path": "data/users/18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp/content.json",
+ "modified": 1479210360.984,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "18P7HcmnENFWkpQFtPjnjHv6x9p2eHa6rp": "HLrBPvwdC49qgLkJnXDksIguIzcBY9yCpURgdTJxF6hJ1xAGSkAYooTUf/AxlMsD3O2KUmyeHpmF7hy7blTAvRw="
+ }
+}

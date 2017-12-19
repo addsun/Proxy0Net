@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Silverstorm",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Neural User",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1502350151,
+			"body": "Hello \"again\" ZeroMe!"
+		},
+		{
+			"post_id": 1502350287,
+			"body": "Has explored the deepest areas of the web.",
+			"date_added": 1502350285
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Obviously you don't know my online activities.",
+			"post_uri": "1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH_1502350287",
+			"date_added": 1502923357
+		}
+	],
+	"follow": []
+}

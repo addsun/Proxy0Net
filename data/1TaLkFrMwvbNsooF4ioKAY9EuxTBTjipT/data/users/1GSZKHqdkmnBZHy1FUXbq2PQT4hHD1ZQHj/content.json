@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G29nwp2i5xYJw1GxLEYd0BL61edzcwm0etqB0RoRMGtifF+vse6g/dh+y0MK35MKLajQZkQ32FzZkMoVg6p4tBE=",
+ "cert_user_id": "spaghetti@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3a7a67a5216ef65e04cf834a85d23ef4c5f3310b16e17515ae7ef27f655b8240",
+   "size": 1100
+  }
+ },
+ "inner_path": "data/users/1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj/content.json",
+ "modified": 1512714436,
+ "signs": {
+  "1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj": "HCuIaPtk3MOgG5uOhYSRxjEqfdRvoiftNiqdYL6LsRZ6LTuSI8NemOqLHzOlGnGMpuYe0+iTfxiffM5IIWyo5qs="
+ }
+}

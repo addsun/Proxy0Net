@@ -1,0 +1,31 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Advo1",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507464210,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507473806,
+			"body": "Just a picture for test.",
+			"date_added": 1507473804,
+			"meta": "{\"img\":\"525,700,7ad79a68847b667acd874def986adf231562342894672654,001123330041112355200000551650027785954A8884BCCADD6D6DDDEEBEFF6EBEFD6CFC66FFBFFF\"}"
+		},
+		{
+			"post_id": 1507478059,
+			"body": "Test 2 (the same picture)",
+			"date_added": 1507478056,
+			"meta": "{\"img\":\"525,700,7ad79a68847b667acd874def986adf231562342894672654,001123330041112355200000551650027785954A8884BCCADD6D6DDDEEBEFF6EBEFD6CFC66FFBFFF\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
+}

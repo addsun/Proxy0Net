@@ -1,0 +1,172 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1509348404,
+			"title": "Boom's Magic Garden",
+			"body": "Hello dear traveller, I offer this magical molecules that could lead us to a world with more love and awareness.\n\nhttp://127.0.0.1:43110/1BoomqtRFVVe3D59K2MLk4J6X2HHSE1swT/",
+			"added": 1509348402
+		},
+		{
+			"topic_id": 1509398086,
+			"title": "20 Terrabytes of Microsoft Dump",
+			"body": "https://the-eye.eu/public/MSDN/",
+			"added": 1509398083
+		}
+	],
+	"topic_vote": {
+		"1509317901_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1509348404_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": 1
+	},
+	"next_comment_id": 28,
+	"comment": {
+		"1509111564_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": [
+			{
+				"comment_id": 1,
+				"body": "I'd rather use IPFS over this. It's useless. Comparing the number of peers/seeders, IPFS is way more stable and act as a better tool for storage purposes. Technically works exactly like ZeroUP with `It's Nowhere but it's Everywhere`",
+				"added": 1509318343
+			},
+			{
+				"comment_id": 2,
+				"body": "> [realkittykate](#comment_52_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): The biggest strength of ZeroNet is the ease of access and its web interface. You can even create a web proxy and give freenet users access to the blockchain.. without them having to download the sites to their computer.. kinda like how Bitcoin users can either open up a new wallet by downloading the entire 80gb blockchain, or simply signing up with an online e-wallet provider. The fact is, decentralization will never replace centalization. It has its ups and downs. I'd go as far as to say that the only reason it exists in the first place is because of government censorship. Besides circumventing censorship, I'd say the only use for p2p that I can think of it would be, having the ability to host your own content for free, without paying for web hosting and/or cloud storage, but that's about it. So yeah, I'm sticking with Zeronet.. precisely because of its ability to bridge the p2p world and the HTTP world.\n\nZeroNet isn't meant for bigfiles. It's built to host small static sites. Technically why file size limit is set to 10mb default. See there's a thin line between using and understanding. Go read up the Git and Wikis again. IPFS works similarly like Zeronet and yes it's P2P but meant for storage. Unlike Zeronet, there's never a short of peers connected to speed up download of your files. No one said that there's inability of bridging. And lol! So it happens you are Kitty. Still remembered back when you just started building your \"Youtube\" alt Zite.",
+				"added": 1509321820
+			}
+		],
+		"1509324154_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [],
+		"1509317901_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": [],
+		"1509329299_184u2io3gh248AJNMdw3V7Ymdc4JwwaQZH": [
+			{
+				"comment_id": 5,
+				"body": "Jane has a point and also \"When uploading files using Web Hosting Manager, the maximum file size is 20 MB per file.\". Haha, no thanks. It'll wait on https://substratum.net/ , https://mysterium.network and https://blockstack.org/",
+				"added": 1509338187
+			}
+		],
+		"1509342996_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": [
+			{
+				"comment_id": 6,
+				"body": "\"The Idea\" is theoretically the same as running an offline bitcoin wallet. Wallet.dat file is stored locally. Your PC goes kapoot and so does your money. 1 drawback is they have to have a physical access to the machine or your machine really must have a sucky security, hence you are to be blamed.\n\nSolution: Password encrypted Users.json",
+				"added": 1509343725
+			}
+		],
+		"1509348404_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": [
+			{
+				"comment_id": 7,
+				"body": "> [barefootwarrior](#comment_6_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): Sorry, but...Peers found 4 [...]\n\nBlaim ZeroNet then :P https://ipfs.infura.io/ipfs/QmcsUSsiVJEmJU7chevpfhZaNpzFkS97D5i8oC3i3Npsb7/",
+				"added": 1509374659
+			},
+			{
+				"comment_id": 10,
+				"body": "> [barefootwarrior](#comment_7_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): How many Gigabytes of data do I have to download to see this site? No thanks...\n\nWell that's Zeronet for you LOL! One has to view or enough peers to even view/download the sites content. IPFS has no problems with that :P All you noobs do is complain",
+				"added": 1509397305
+			},
+			{
+				"comment_id": 11,
+				"body": "> [realkittykate](#comment_57_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I had no problems downloading the site, it just said that it was running out of allowed space. Had to blacklist it on my proxy though cause otherwise they'll think I'm a drug kingpin or something.. [...]\n\nYeah I've changed the code to pull the android app from IPFS. It's the main cause of hog for being 5mb in size. The whole site itself is about 4mb or less now. \n\nLol kitty XD I hear ya. Somebody must've open it on your proxy. Mountain? Nah. Just direct contacts from past Silkroad and Agora",
+				"added": 1509399206
+			},
+			{
+				"comment_id": 12,
+				"body": "> [realkittykate](#comment_58_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I think that if I were to start a site like that, I'd start one for Cannabis Seeds. It's one of those things that can reliably be hidden inside of a parcel and shipped overseas. There's also gonna be a huuuuuge booming market for it within the next few years.\n\nAcid is too. Mainly because it can be shipped being undetected. People would just think that it's just an art piece",
+				"added": 1509399380
+			},
+			{
+				"comment_id": 13,
+				"body": "> [barefootwarrior](#comment_9_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): Thanks for the referral to IPFS. Installed. Watched videos about IPFS too. My world is expanding rapidly.And no, this noob is not complaining. Instead I am learning and for a 70yo I think I am doing pretty good. So maybe a more positive comment from you next?\n\nYeah tons of ICOs and new Ethereum contracts using IPFS backbone infrastructure now. By looks, that will boost the number of peers and the network strength altogether. I'm just disappointed at how Zeronet works on some parts. It's like living a life of a Youtuber. Post whatever even spam just to grab the attention for likes and views, put that to Zeronet standpoint, peers for fast content downloads. It's just isn't built for storage.",
+				"added": 1509441261
+			},
+			{
+				"comment_id": 14,
+				"body": "> [barefootwarrior](#comment_10_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): The strong relationship between IPFS, Ethereum and others gives me the confidence that IPFS is here to stay and develop further in many exciting directions. My instance this am connected to 321 peers. Getting ready to build my first IPFS web site, maybe this weekend. So thanks again for giving me the nudge. Much appreciated.\n\nTake a look at https://www.upfiring.com/ . That's one of the contracts that implement this tech. They stated \"it's hard to find people to seed files. There is often very little to no benefit, and in a centralized network seeding can even be risky depending on the respective user's local regulations. This often results in no users seeding highly desired files even when the demand is quite high, making downloading these files difficult or even impossible.\" on their site.",
+				"added": 1509488819
+			},
+			{
+				"comment_id": 18,
+				"body": "> [barefootwarrior](#comment_11_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): There is not much to see on that site apart from the 'White Paper'. In any case, large file transfers for me, unlike many others it seems, is at the bottom of the list. My primary interests are real, unadulterated news and thoughtful commentary. Something the MSM is apparently incapable of delivering these days. So if you know of any IPFS links that fit the bill I would be most obliged. Thank you for your interest.\n\nSteemit. Look it up. There's tons of ICOs on idea to create a platform of this exist. Amongst the reason as to why bitcoin exploded in price this year.",
+				"added": 1509554389
+			}
+		],
+		"1509377783_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 9,
+				"body": "Lazy to explain so just go checkout Nethunter. Is possible to compile for every phones out there",
+				"added": 1509389232
+			}
+		],
+		"1509479387_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 15,
+				"body": "I'd rather get a $0.48 cents domain at https://www.namecheap.com/promos/cheapest-tld-business-finance-domain-name-48cents.aspx and a free ssl 2048 - 4096 bit encrypted SSL cert at https://letsencrypt.org rather than putting my trust on a free .tk TLD domain if I ever want to setup a proxy. Heck it's cheap AF with 100% pure control. Even their .com is cheap.",
+				"added": 1509490146
+			},
+			{
+				"comment_id": 16,
+				"body": "> [styromaniac](#comment_173_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): ^This here is the exception to what I've said. Reputation matters most.\n\nWell then, role your own Domain Name Servers if all else fails lol. Hashtag ICANN do it",
+				"added": 1509490773
+			},
+			{
+				"comment_id": 17,
+				"body": "> [styromaniac](#comment_174_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I was saying you have the right idea when money is tight.\n\nI know just saying XD",
+				"added": 1509490904
+			}
+		],
+		"1509518161_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 19,
+				"body": "\"Zite owners could in this case provide their own tag list that gets downloaded and read by the ZeroNet client, and before content and media are downloaded\" \n\nHeh, there was such a thing as Hashtag Hijacking back in the days on twitter. (Not sure if people still use it now) http://mashable.com/2013/10/19/hijacked-hashtags/\n\nI've already seen, tested and found a couple flaws in how Zeronet works. Flaws that could wield as an advantage. I wonder how that idea could defeat such techniques.",
+				"added": 1509554968
+			},
+			{
+				"comment_id": 20,
+				"body": "> [styromaniac](#comment_175_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): It's only for the purpose of stopping people before downloading an unwanted zite.\n\nI'm only saying that it's a good idea, but there's loop holes. As it is, people can already hijack other zites by making a new zite, rename it to some other non obstructive zite with the same name and use the same tags. Theoretically, that's the same as \"Phishing\" if you get my jazz.  Maybe work on those weaknesses before implementing more features. My guess is not many here are as tech savvy to tell between urls and what they clicking aside from a nice zite title? ",
+				"added": 1509575937
+			},
+			{
+				"comment_id": 21,
+				"body": "> [styromaniac](#comment_176_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I don't see why drug bazaars and lolicon image boards would avoid describing their zites with tags. I think zite owners will volunteer no matter what. Visitor input can become an issue.\n\nI somehow find that \"blocking a zite\" and \"mute\" feature is also pretty useless at some point. Creating, copying, pasting zite contents and masking as a new user is a breeze.",
+				"added": 1509576843
+			},
+			{
+				"comment_id": 22,
+				"body": "> [styromaniac](#comment_177_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Again, nobody is tricking or forcing anyone to view their content. If a search engine approves of lolicon, lolicon can be automatically listed and those who want it will find it quicker, easier and on more supporting search engines. But if people need to avoid downloading lolicon to avoid prison, that's a useful, convenient and time saving feature. [...]\n\nWelp whatever you say man. Reputation comes with security. I'm just here finding its flaws :) Everything has its weaknesses which can be turned to an advantage. Not all proxies block adding new sites to it. A feature with versioning and removes duplicates throughout the network would be great.",
+				"added": 1509579898
+			}
+		],
+		"1511141829_1QLQK7jRVb9AeziriC8t7ytHcQfdpv1WkV": [
+			{
+				"comment_id": 23,
+				"body": "Lol. Good. Might actually teach site owners how to code and crypto for a change instead of forcing people to turn off adblock and AV down lmao. Long live #cypherpunks\n\nhttps://www.coindesk.com/coinhive-cryptocurrency-miner-is-6th-most-common-malware-says-report/",
+				"added": 1511186683
+			},
+			{
+				"comment_id": 24,
+				"body": "It's not freedom if you just had to deep throat someone and block access. That's being desperate for money where it's actually free to self run a miner which is x10 faster than having to rely on traffic.",
+				"added": 1511187209
+			},
+			{
+				"comment_id": 27,
+				"body": "> [kopyjane](#comment_31_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): How is that deep throating somebody? Why don't you buy us all a high-speed VPS with 8gb ram and 1gb up/down so that we can be free from having to pay the bills? Miners don't actually pay out that much at all. You'd need something like 5000 visitors a day to make a real profit, if you were running it at the throttle that I recommended.\n\nLel. Go get a static IP and run it from your home or whatever. I've seen people running it from a raspi cluster. Zeronet is lightweight. Quit the whine woman. The real problem here is blocking access from content and forcing others. How can you call \"Internet Freedom\" when there's a wall? Get your facts checked",
+				"added": 1511233134
+			}
+		],
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 25,
+				"body": "www.specialfriedrice.net and www.lemonparty.org AHAHAHAHA! I love you nigga. Shit I make a hundred daily with nicehash but this sites are <3 too. Any fried chicken?? Fucking goo.gl .. kek old tactic ",
+				"added": 1511188086
+			}
+		],
+		"1510336683_1HqjpmXRRfMPVUHqZ6vDvotCXpcNXCg5R7": [
+			{
+				"comment_id": 26,
+				"body": "People actually still care about this kebab boy? Heck there's x10 more lies after him with ISIS, etc etc. You can't really kill hydra. It's cancer.",
+				"added": 1511188524
+			}
+		]
+	},
+	"comment_vote": {
+		"23_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"18_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"167_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	}
+}

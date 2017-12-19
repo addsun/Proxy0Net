@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyGFwXAdxnDPRgEK1762wAIbcYtwV0mucrkQU//OCsDkqJx7KlSORoanP/mkJk8ddm9awZ5UUT5L1Jv9UvQPPqo=",
+ "cert_user_id": "kiksupport@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "9f6a3dee23f549aad6f97cf75f5d25ab495822488ef4604f664968ec0f76a8c6",
+   "size": 1569
+  },
+  "data.json": {
+   "sha512": "68f080d633eb263cd5f23c98a1a26ee9060cdfa75b1e07f0ea37365289b45c98",
+   "size": 1348
+  }
+ },
+ "files_optional": {
+  "1512758873.jpg": {
+   "sha512": "948264af4784f7eb6cb299be677e83b9c3b1e04afca1425d4a361fe4382ac2bd",
+   "size": 38828
+  }
+ },
+ "inner_path": "data/users/1BKALAkyKEQqKyPuFYnZpg7oLZKgTYc6DW/content.json",
+ "modified": 1512858259,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1BKALAkyKEQqKyPuFYnZpg7oLZKgTYc6DW": "HHK4NrIEmw68kpinGObQiCE3UQAaFQsTRIqqJj8oKAGZCqoVogTvxhM1UgDOWluXwmJTkwQFhVbPKXTpXIKibfo="
+ }
+}

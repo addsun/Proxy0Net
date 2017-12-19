@@ -1,0 +1,21 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G6kda+9xI+bF1UQhC9zWXKqwtZobwIJr6WV54NCHknEr5QLaFVLK55DNHBTz+tz/VBiP4eC6oi1ydrmJnxg3BnE=",
+ "cert_user_id": "caryoscelus@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b988704024828546feea33871ff5a25ec275dfffb7a5a6e835e9515c0cee180d",
+   "size": 1687
+  },
+  "data.json": {
+   "sha512": "8a4acf8811e456beecb979db9beb583dc43f010787b2fd8f2bb9d098f63b48e1",
+   "size": 6684
+  }
+ },
+ "inner_path": "data/users/13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE/content.json",
+ "modified": 1511003515,
+ "signs": {
+  "13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE": "GyuHOFbAfY9yvjDrH6Vb7ThahpKlyyz27R10QbdcjPnoIjrRfD2Vh4eeoyKJT71DdvNJhSvDk9RAmkHID8nAah4="
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1AbRRDveQD5EFtmXxBqQfS1guUWXxytMJZ",
+ "cert_auth_type": "web",
+ "cert_sign": "G8vNi81b6LGeK2PIvOcesuG+YvkE4sS07LHyIApsS7re7PwW40AOMaJOpEj7HgHhD6g2pJk/ZmNH7pBoRXgt5tc=",
+ "cert_user_id": "vpnbook@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dd626dbcc1557e2db8d8e92d6b0fd93bc618f662ce1ae7f8baf4ebe8af2f46b5",
+   "size": 4935
+  }
+ },
+ "files_optional": {
+  "1486222053.jpg": {
+   "sha512": "7caaf2ee20ff2dc235ac2e0b49f754442b5149f034ce69f9e388d75ff5c72db2",
+   "size": 66536
+  }
+ },
+ "inner_path": "data/users/1J6SKgcPE5TLvZsoHQGoYhLD22uzza1jHC/content.json",
+ "modified": 1486222843,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1J6SKgcPE5TLvZsoHQGoYhLD22uzza1jHC": "G8EEHQbThhHMW2jYd2PZKTHSj5QA4XnJBS/tAa12C42fZjjuAM6WXz9STHSXkHN6LXby5OXbAPFibzEqh7odjUY="
+ }
+}

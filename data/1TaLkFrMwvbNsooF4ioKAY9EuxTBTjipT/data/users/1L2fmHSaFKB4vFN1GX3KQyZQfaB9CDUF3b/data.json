@@ -1,0 +1,128 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1512677933,
+			"title": "Udemy Courses",
+			"body": "Will be posting more than 50 Udemy courses here soon: http://127.0.0.1:43110/1MwvvkzVBAijjUMg6ChJVfVxNBi4o5eRxc/\n\nHaven't been here in a while (half a year), I am back but under another username ! Used to run public proxies :p",
+			"added": 1512677932
+		},
+		{
+			"topic_id": 1512712488,
+			"title": "No good proxies anymore ?",
+			"body": "Are there no good, free proxies anymore ? The only one online and accepting new zites I could find is https://zerocat.eu.\n\nI used to run proxy1.zn.kindlyfire.me and zn.maly.io. I want to get the second one back up and running. That's something for this afternoon !",
+			"added": 1512712486
+		},
+		{
+			"topic_id": 1512740015,
+			"title": "Somebody to DL a torrent",
+			"body": "I need someone to download this torrent and tell me if everything is alright:\n\nmagnet:?xt=urn:btih:61ff69ab5915821431ebbbb989acc47e53391ec4&dn=become-an-android-developer-from-scratch&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337\n\nIt's an Udemy course teaching Android dev",
+			"added": 1512740012
+		},
+		{
+			"topic_id": 1512832651,
+			"title": "Udemy Courses Thread",
+			"body": "I just started a zite dedicated to listing Udemy Courses I upload (and downloaded myself from Udemy, 100% clean). These can be downloaded using any bittorrent client using the magnet URI.\n.\nLink: [udemy.acabin.bit](http://127.0.0.1:43110/udemy.acabin.bit)\n.\nReply here if you need a course added ! (There are about 40 more to come already)\n.\n. \n## Changelog\n\n* **09/12/2017**: Modified zite to load torrents from data/data.json. Changed front-end framework to Mithril.js",
+			"added": 1512832647
+		},
+		{
+			"topic_id": 1512900119,
+			"title": "Slow-loading activity feed (or not loading at all)",
+			"body": "Hey. Is there a way to accelerate the loading of the activity feed on ZeroHello ? It can take 10 minutes to load, or not at all, on my computer.",
+			"added": 1512900114
+		},
+		{
+			"topic_id": 1512998155,
+			"title": "SEO on ZeroNet",
+			"body": "Some of you might be familiar with DuckDuckGo a privacy-aware search engine. I am currently building DuckDuckZero, a zite looking like DuckDuckGo but on ZeroNet.\n.\nCreating search engines on ZeroNet is more of a problem than creating one on ClearNet. Indexes tend to be large, even when you only include the website title, amount of peers and some tags. When building DuckDuckZero, I'd like to provide more accurate search results using more information.\n.\nI'd like to brainstorm a bit with everybody about the format of a file (called ziteinfo.json) that developers could include at the root of their zite that contains more information: site name, description, language, important pages (about page, tags page, ...), keywords and also information about the ressources it stores in the db (so that we can index topics on ZeroTalk, individual blog posts on blogs, ...).\n.\nBuilding such an index for DuckDuckZero would take a lot of space, so I guess I'll have to split the index into multiple merged zites. Users would be able to disable/enable searching for individual topics on ZeroTalk, torrents on ZeroTorrent... right from DDZ.\n.\nWhat do you think ? Any suggestions ?",
+			"added": 1512998149
+		}
+	],
+	"topic_vote": {
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"1512677933_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 1,
+				"body": "> [allalone](#comment_1_1C2WLUDGXKeWSpkJRUphzvDqyCzjPm98yx): cant download content.json\n\nI signed the zite again. Should work now !",
+				"added": 1512712366
+			}
+		],
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_1071_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you have any feedback/feature request feel free to open an issue or add it here. [...]\n\nI have yet to catch up with all the changes, but it seems like adding a disable switch for big files would be very nice !",
+				"added": 1512736861
+			}
+		],
+		"1512740015_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 3,
+				"body": "> [akito](#comment_397_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): What do you mean by \"alright\"?\n\nI created the torrent, never did that before, need to test if it works.",
+				"added": 1512742426
+			},
+			{
+				"comment_id": 4,
+				"body": "Can somebody test one of these: \n\nhttp://127.0.0.1:43110/1MwvvkzVBAijjUMg6ChJVfVxNBi4o5eRxc/",
+				"added": 1512757724
+			},
+			{
+				"comment_id": 5,
+				"body": "Okay thank you. I will now proceed and add all the other torrents to the list :)",
+				"added": 1512758724
+			},
+			{
+				"comment_id": 6,
+				"body": "The torrents will be down until I announce it though. Have to do some stuff :)",
+				"added": 1512760977
+			},
+			{
+				"comment_id": 7,
+				"body": "Yeah I managed to get my computer working again (I moved from a laptop to a desktop by moving disks, but the desktop wouldn't turn on for a few hours)",
+				"added": 1512807771
+			}
+		],
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 8,
+				"body": "I'm done for today. Still have about 17 courses to add.",
+				"added": 1512839792
+			},
+			{
+				"comment_id": 11,
+				"body": "> [bruceshit](#comment_1_16LevgM81YcLYVYebEkoLKhAbgmeezzqjb): thanks,do you have any course about machine vision like halcon.\n\nPoint me to a course on Udemy and I will download it for you.",
+				"added": 1513005423
+			},
+			{
+				"comment_id": 12,
+				"body": "> [krixano](#comment_195_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I have taken you up on your offer. If you can't get any of these, it's fine. [...]\n\nI will download them all at the same time once they're all at 10€ (Udemy does a lot of discounts like that). I already have `Writing With Flair` but have not added it yet to the list.",
+				"added": 1513057631
+			},
+			{
+				"comment_id": 13,
+				"body": "> [herp](#comment_30_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): I'll be seeding these with a 1gbps connection in a few days. I only have ~120GB of storage though.\n\nThank you !",
+				"added": 1513057658
+			}
+		],
+		"1512763866_1FqWuFMghrhssAGMfzihrY7y8Fw8siwwyQ": [
+			{
+				"comment_id": 9,
+				"body": "I think Bitcoin will become an obsolete cryptocurrency, because there is no use for it other than trading. Paying with it is useless (15$ fee or more) compared to other cryptocurrencies that have faster transaction times and lower fees (*huge* difference there, like ~0.0022$ for dogecoin). Bitcoin's bubble will pop someday.",
+				"added": 1512849361
+			}
+		],
+		"1512900119_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_1073_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It can be a site that has slow sql query/database structure or slow hdd in your computer. [...]\n\nBenchmarking ZeroNet 0.6.0 (rev3161) Python 2.7.11 |Continuum Analytics, Inc.| (default, Dec 6 2015, 18:08:32) [GCC 4.4.7 20120313 (Red Hat 4.4.7-1)] on: linux2...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.146s [x4.79: Insane!!]\n- sign x 10..........0.269s [x1.30: Fine]\n- openssl verify x 100..........0.083s [x4.44: Insane!!]\n- pure-python verify x 10..........0.193s [x8.30: Insane!!]\n\nCryptHash:\n- sha256 5M x 10..........0.186s [x3.23: WOW]\n- sha512 5M x 10..........0.118s [x5.08: Insane!!]\n- os.urandom(256) x 1000..........0.004s [x1.85: Fast]\n\nMsgpack: (version: 0.4.6)\n- pack 5K x 10 000..........0.028s [x27.42: Insane!!]\n- unpack 5K x 10 000..........0.069s [x17.37: Insane!!]\n- streaming unpack 5K x 10 000..........0.056s [x25.17: Insane!!]\n\nDb: (version: 3.9.2, API: 2.6.0)\n- Open x 10..........0.042s [x3.07: WOW]\n- Insert x 10 x 1000..........0.671s [x1.49: Fine]\n- Buffered insert x 100 x 100..........0.929s [x1.40: Fine]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.432s [x0.58: Goodish]\n- Not indexed query x 100..........0.259s [x2.31: Fast]\n- Like query x 100..........0.471s [x3.82: Insane!!]\n\nCompression:\n- Zip pack x 10..........0.170s [x0.70: Goodish]\n- Zip unpack x 10..........0.301s [x0.66: Goodish]\n- Tar.gz pack x 10..........0.164s [x1.83: Fast]\n- Tar.gz unpack x 10..........0.193s [x1.04: OK]\n- Tar.bz2 pack x 10..........2.006s [x1.00: OK]\n- Tar.bz2 unpack x 10..........0.578s [x0.86: OK]\n\nDone. Total: 7.87s",
+				"added": 1512948543
+			}
+		]
+	},
+	"comment_vote": {
+		"1071_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	}
+}

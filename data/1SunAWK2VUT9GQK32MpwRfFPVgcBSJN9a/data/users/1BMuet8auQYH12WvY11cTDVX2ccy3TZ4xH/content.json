@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4VDhJvn9bu3Ni2dLMkTyi1Z4h9YJ/8Z+FG5NaXkpYj8+keAnrosaSoLmqGZnUbapd9wP8wCve7/QGz6zXYldG8=",
+ "cert_user_id": "routercontrol@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "577f9f7cfb2b6551b27f8ab697bae14afd7ddf5a5b714b03c6afab1f6f4cdefb",
+   "size": 728
+  }
+ },
+ "inner_path": "data/users/1BMuet8auQYH12WvY11cTDVX2ccy3TZ4xH/content.json",
+ "modified": 1504488260,
+ "signs": {
+  "1BMuet8auQYH12WvY11cTDVX2ccy3TZ4xH": "G2fIwvQYZadC2h+2eC7yp3GmgsXmQenDceVo0kvdiqH4XpMEV2DHQzrm5m0MUt5gzg/eq6hGwgevCE+7HU5sN/Q="
+ }
+}

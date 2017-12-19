@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HBcxHZM9YyHdtbnZAe/JFxHoSfPPHnuqssVapdsT3b1CBprY+DXZI7TcLHyw1E+ZSe33GlQ2/FAr/m5+K+EzJY8=",
+ "cert_user_id": "pentagon@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b95ce64fe6666cdd173fda6d51b1197b88709c8a4387f472b51783641286006b",
+   "size": 1570
+  },
+  "data.json": {
+   "sha512": "a0ecdab8b21cb0aa5fc1809abfa9f9c935f923d8cc51cb0be93dff737d8c3751",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/168ZoRmv3bG3nn2BzTp7C1nZUxydDQZjQ9/content.json",
+ "modified": 1493401965,
+ "signs": {
+  "168ZoRmv3bG3nn2BzTp7C1nZUxydDQZjQ9": "HFc9KGf1CMe2ez/kZXy/q1nRKg0hXXxQhUKob7AIu4Nrc/B0AFu8D6sbsTcRCrzLlgZc+N5CMTKa9cOyUwZeypI="
+ }
+}

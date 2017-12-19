@@ -1,0 +1,111 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1,
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": 1,
+		"1510821243_1CxzW1WSzp2bYT7HAsLcw1wt1USDmSjHM5": 1,
+		"1511084365_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1509510944_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 1,
+				"body": "> [p2p](#comment_317_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): if you consider blockchain, there is a P2P microblogging called twister, which uses blockchain for user name registry. In theory, you can build a ID provider which directly uses data of twister blockchain, so that people who register to twister can also use same name in ZeroNet. Unlike Namecoin-based ID provider, twister-based one does not charge coins to register, and names do not expire.\n\nTwister is not safe to a 51% attack. It uses bitcoin-like PoW. But PoW works only with strong economic motivation only for cryptocurrencies with big market capitalization. For small chains with low hashrate the 51% attack is not theoretical it becomes practical.",
+				"added": 1509647223
+			},
+			{
+				"comment_id": 2,
+				"body": "IMO, a custom ethereum contract will be good enough for both users and zites names. It can be deployed to Ethereum or Ethereum Classic network. Or even better it is possible to create an independent private/proof-of-authority chain with [this](https://github.com/paritytech/parity/wiki/Proof-of-Authority-Chains) Partity feature. Unlike to Namecoin or Twister, Parity has a fast synchronization feature and can work as a lite client.",
+				"added": 1509647862
+			}
+		],
+		"1509570869_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 3,
+				"body": "Why all the blockchain scam uses the Cloudflare cloud protection?",
+				"added": 1509649133
+			}
+		],
+		"1509400807_17DVN8AcsMvStuzMoTDgv9Ke5eqY3Zif4v": [
+			{
+				"comment_id": 4,
+				"body": "Yet another PoW shit.",
+				"added": 1509649220
+			}
+		],
+		"1509756940_1HcK5Hw1rPZeYdgTmqJGrVG2tSyR9Ke2Gt": [
+			{
+				"comment_id": 5,
+				"body": "> [marc8888](#comment_3_16zhDYuT8kUjPJh31KfrwcASHCkEov3mD5): cannot access to de site from china.\n\nIs there any Mastodon/GNU Social instance which is accessible in China?",
+				"added": 1509768623
+			}
+		],
+		"1509875191_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 6,
+				"body": "1. Message model is needed for that. In SSB it works, for example.\n2. Consensus (blockchain for example) is needed for that.\n3. It is partially possible (to hide users content) at zite app logic level.",
+				"added": 1509884641
+			},
+			{
+				"comment_id": 7,
+				"body": "My thoughts about this: First of all, we need contract-like zites which addresses are represented as a content.json hash rather than a public key hash. Second, maybe it is possible to implement some sort of consensus even over current editable userfiles model. Not a blockchain, but anything DAG-like.",
+				"added": 1509885256
+			}
+		],
+		"1509939880_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 8,
+				"body": "such a scam!",
+				"added": 1509944053
+			}
+		],
+		"1510050824_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 9,
+				"body": ">that would be in complete violation of the laws of thermodynamics.\n\nbut not the laws of quantum mechanics.\n\nSorry, but I cannot agree with your position. Human attention is the main wealth. Think about it as your stake. It is voting power of a human being. One can vote with his attention for Facebook or ZeroNet and the prosperity of the network is rely on this. Even if he share nothing and give back nothing it is an enough contribution. Just use ZeroNet and don't mind that you owe anything more. Create your content and share if your want, not because you should.\n\nAnd for @bigcattk: I don't need your gateway service. If you claim me to pay I won't buy.",
+				"added": 1510057009
+			}
+		],
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 10,
+				"body": "try to cut your posts with `---` at newline",
+				"added": 1510262464
+			},
+			{
+				"comment_id": 11,
+				"body": "I don't know how Malta's censorship works, just mention few other tools which might be helpful for you:\n\nhttps://scuttlebutt.nz/\nhttps://steemit.com/\nhttps://geti2p.net/\nhttps://torproject.org/\nhttps://joinmastodon.org/",
+				"added": 1510262964
+			}
+		],
+		"1510344001_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs": [
+			{
+				"comment_id": 12,
+				"body": "Third-party clearnet content is on the zite.",
+				"added": 1510350008
+			}
+		],
+		"1511084365_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": [
+			{
+				"comment_id": 13,
+				"body": "That's why LN-like solutions make sense.",
+				"added": 1511086166
+			},
+			{
+				"comment_id": 14,
+				"body": "Lightning Network",
+				"added": 1511099833
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1PvuX8HD3uoKanDSBvicJvXHuqSC1TSBsp": 1,
+		"360_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"363_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"110_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1
+	}
+}

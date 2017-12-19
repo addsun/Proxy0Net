@@ -1,0 +1,324 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1513126557,
+			"title": "Can't join ZeroMe hub..",
+			"body": "I just deleted and re-downloaded ZeroMe.\n&nbsp;\nNow I can't join the sun hub. Says 'user already exists on this hub'!",
+			"added": 1513126556
+		},
+		{
+			"topic_id": 1513135499,
+			"title": "Video Embedding Test",
+			"body": "http://127.0.0.1:43110/1H4P6X2fre72Se7foxSjT2Q2JFQnxBtrSQ/\n&nbsp;\nJust tested it on my proxy. Seems to work...\n&nbsp;\nActually .. for the proxy I need to do a src=\"../xxx\"... otherwise it'll just direct me to my home network.",
+			"added": 1513135497
+		},
+		{
+			"topic_id": 1513321800,
+			"title": "Updated ZeroFrame.coffee needed",
+			"body": "Need a ZeroFrame.coffee or .js that can handle WrapperPopState's, unlike the ZeroFrame.coffee.\n&nbsp;\nI can find multiple such already compiled .js files on random zites, but they seem to have been compiled with an older version of CoffeeScript.. at a time when Javascript classes were non-existent.\n&nbsp;\nThus, my only workaround right now is to include class.js and Zeroframe.js in my zites (the ones that require dynamic navigation, that is..).\n&nbsp;\nIf nobody has the file, I'll probably have to reverse-engineer the Zeroframe.js and make the .coffee publicly available!",
+			"added": 1513321797
+		}
+	],
+	"topic_vote": {
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1
+	},
+	"next_comment_id": 50,
+	"comment": {
+		"1513048648_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 1,
+				"body": "> [james007](#comment_133_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): That moment when we learn KopyKate is actually the beginning of MEGA 3.0 (clearnet), and run by Kim Dotcom... 😲\n\nhaha.. that one would have to be ZeroUp, I think.. and ZeroNet as a whole, really.\n&nbsp;\nKopyKate was an idea that popped into my mind (and into the minds of many others) as a result of frustration with YouTube copyright takedowns.. at a time when you couldn't even upload a video of yourself walking downtown, if there was music playing in the background.. ... the Audible Magic script would automatically flag that, too. Even classical music (Johann Strauss, Mozart) would get flagged.\n&nbsp;\nOf course, my biggest worry is that there will come a point when YouTubers will look at the site, and accuse us of stealing their ad revenue. I mean, there's already been videos uploaded that belong to Linus Tech Tips.. a famous computer techie and video maker. \n&nbsp;\n.. which is why I've started doing research on cryptocurrency mining and Basic Income. Creative content creators draw people to your site, so it makes sense for them to be rewarded. The zite itself won't ever run cryptocurrency miners or ads, of course.. ...  the revenue will mostly come from my proxies, and future web empires that I might build on the clearnet. ;)",
+				"added": 1513112794
+			}
+		],
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 2,
+				"body": "> [kite](#comment_5_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv): Btw, if you want multiple paragraphs on ZeroTalk (or any site using markdown), put two newlines after each paragraph ending. [...]\n\nOr just `&nbsp;` :)",
+				"added": 1513113671
+			}
+		],
+		"1513104983_1L1oZ2XdV78aFiV3h3cik24gdChtxzJ3To": [
+			{
+				"comment_id": 3,
+				"body": "That'll be 0.5 XMR",
+				"added": 1513122042
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 4,
+				"body": "> [kite](#comment_4_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv): The UI would be the same, and files would still be accessed via Big Files. Saving video data, loading video metadata and the locations of the videos would need to be reworked in a merger sense.  [...]\n\nCan people create their own hubs on ZeroMe, or just the site owners?",
+				"added": 1513122297
+			},
+			{
+				"comment_id": 5,
+				"body": "> [krixano](#comment_203_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): People can make their own hubs because you're essentially making your own zite when you do so (but allowing KopyKate to read the data of it). However, other people would need to download the hub to see the posts on it, of course. Imo, hubs in ZeroMe aren't that well done. But, that is not to say that a hub system for KopyKate wouldn't be good, because I think that it could if done right.\n\nSo you just basically clone a hub..",
+				"added": 1513123501
+			},
+			{
+				"comment_id": 6,
+				"body": "Seems like I'd have to turn the current site into a hub (call in King Hub), and then create a central site.\nI'd have to experiment with clones for now though... \n&nbsp;\nShould KopyKate become a merger site? That's the question now. They say that it's the only way to allow embedding videos.\n&nbsp;\nIt should also help with splitting large amounts of data, apparently.",
+				"added": 1513125965
+			},
+			{
+				"comment_id": 23,
+				"body": "Reworded question:\nShould KopyKate have merger zites? If so, I'll start working on the feature right away.. :)\n&nbsp;\nP.s.\nChannels functions will still stay the same. You'd have individual user channels inside of the hubs. ",
+				"added": 1513131514
+			},
+			{
+				"comment_id": 24,
+				"body": "> [styromaniac](#comment_291_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): When I click to seed a video, it vanishes off screen. In the seedbox manager, all is fair and good, but I want to check the download progress. [...]\n\nShow me a screenshot on ZeroMe. I haven't encountered this bug yet.. all of my seeded videos appear on my main page.",
+				"added": 1513133828
+			},
+			{
+				"comment_id": 25,
+				"body": "> [styromaniac](#comment_291_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): When I click to seed a video, it vanishes off screen. In the seedbox manager, all is fair and good, but I want to check the download progress. [...]\n\nThis could be the way videos are sorted.",
+				"added": 1513133882
+			},
+			{
+				"comment_id": 27,
+				"body": "> [herp](#comment_34_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Another reason is that you could technically be forced to remove any copyrighted content that was on a zite you control. If the data is stored on merger zites then you decentralize control of that data to the users who created those zites. [...]\n\nhaha.. nah, I just want a better username. In the past I've generally just created user ID's in a hurry.. or just to get around the limits, as you said.. as was the case with Kopyjane. This will be my final username ;)",
+				"added": 1513136202
+			},
+			{
+				"comment_id": 28,
+				"body": "> [herp](#comment_34_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Another reason is that you could technically be forced to remove any copyrighted content that was on a zite you control. If the data is stored on merger zites then you decentralize control of that data to the users who created those zites. [...]\n\nYou mean somebody could force you to sign your site?",
+				"added": 1513136427
+			},
+			{
+				"comment_id": 30,
+				"body": "I could actually post videos that belong to another zite.. on KopyKate. It just isn't a user-enabled option right now.. but if I make the file address editable, then you could. The zite is also clonable as we speak..\n&nbsp;\nMy aspirations lie more in media, film .. music.. robotics.. animation. I plan on walking away and going white-hat.. as soon as I feel that I've successfully played my part in fucking over the corporate world. I don't have much to hide, or much to lose. If I ever ended up government watch-list, I'd very much take that as a compliment!",
+				"added": 1513137861
+			},
+			{
+				"comment_id": 31,
+				"body": "hmm.. I'll probably have to wait and see before I make any drastic decisions with the zite. \n&nbsp;\nWorst case scenario? If merger zites became an absolute necessity, we'd just have to start over. No biggie - if we did, then we can always just embed the old videos from the old zite, into the new zite.",
+				"added": 1513138886
+			},
+			{
+				"comment_id": 32,
+				"body": "> [herp](#comment_40_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Or just turn the old zite into a merger and have the new zite pull the content from it :D\n\nYes, that's the one. Just use the old zite as an archived-videos merger zite. Do it every XX mb. \n&nbsp;\nIMO, seems less troublesome than having a separate zite for every individual user channel or something. That would probably overload people's ZeroHello homepages.. and make loading videos slow.",
+				"added": 1513139689
+			},
+			{
+				"comment_id": 45,
+				"body": "> [herp](#comment_47_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): When uploading a video series one ends up using the same image for all of them, which can quickly fill up space in the index. [...]\n\nGood point!\n\nThis would probably require creating a new table in the dbschema, but it may as well come as part of the upcoming 0.2.0 package.\n\n**To sum it up:**\n0.1.x was the ALPHA stage. A ZeroUp clone was created in order to experiment with big files + a video sharing platform layout.\n0.2.x will be the first BETA stage. The code is re-written from scratch, and features smooth routing, faster loading pages. Coffee script files are produced to make development easier, by reverse-engineering the ZeroUp code and logic.\n0.3.x (still BETA) will feature bots and python scripts that make stuff easier.. e.g. Video encoding, reporting and deleting disturbing content, paying a share of ZeroNet proxy mining revenues to channel owners, etc. \n\n1.x.x will be the official stable release, if everything goes according to plan. ZeroNet proxies will aid in marketing KopyKate as a copyright-free and political censorship-free video platform, whose revenue will be used to fund cryptocurrency-based wealth-redistribution schemes (UBI). (Having said that, proxies will not replace ZeroNet.. rather, they will provide it an extra kick, and extend its reach throughout the web.. for as long as they survive!)",
+				"added": 1513486203
+			},
+			{
+				"comment_id": 48,
+				"body": "> [herp](#comment_53_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): One minor issue is that uploading a video with the same filename as one of your past videos actually overwrites the past one! Might be good to append a unique-id to the file name upon upload to avoid that? :)\n\nI've noticed this too. This seems to have caused a visible CSS glitch in my new site version - in which video information is appended twice into the same DIV, thus causing distortion and overflow in the video list. But I fixed it by adding a random number to the dynamically generated divs.",
+				"added": 1513580996
+			},
+			{
+				"comment_id": 49,
+				"body": "> [herp](#comment_54_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Not just that, it actually overrides the metadata in my case and deletes the old video. Aka it copies the new video over the old video and piece file. Seems like actually renaming the file may be necessary, but can one do that in JS?\n\nYes, this should be easily fixed. Currently, the ZeroUp javascript adds a time-stamp to the filename, only if its really short.\n\nIn this version I'll probably add a time-stamp to all uploaded files.",
+				"added": 1513581606
+			}
+		],
+		"1513126557_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 7,
+				"body": "> [krixano](#comment_206_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You need to firstly make sure the hub is downloaded. Then, wait till ZeroMe and SunHub fully download. Sorry I can't be of more help, I don't know the full situation.\n\nI just clicked on update..\nI can see user posts, but I can't join the sun hub. It's asking me to Create Profile.. then says I already exist in the hub",
+				"added": 1513127135
+			},
+			{
+				"comment_id": 8,
+				"body": "This can be replicated by deleting ZeroMe (while being logged in with your ID) .. downloading it again, then trying to re-join the hub you were previously in. Bug!",
+				"added": 1513127270
+			},
+			{
+				"comment_id": 9,
+				"body": "> [krixano](#comment_207_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You shouldn't be rejoining anything. If your user already exists, then you should have just needed to wait for your previous posts to download.\n\nI should also add.. my ZeroNet client froze multiple times (can't visit any sites) while re-downloading ZeroMe. Might have been part of the problem.",
+				"added": 1513127546
+			},
+			{
+				"comment_id": 10,
+				"body": "Everything's updated. It's asking me to re-create my profile, and I can't join Sun Hub.",
+				"added": 1513127629
+			},
+			{
+				"comment_id": 11,
+				"body": "Just joined Kaffiehub in the meantime..",
+				"added": 1513127742
+			},
+			{
+				"comment_id": 12,
+				"body": "> [krixano](#comment_209_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): What exactly did you do? I need to know every single thing that you did and that happened and why you wanted to do in the first place in order to help you. This is a major reason why messing with ZeroMe hubs is bad - especially if you're trying to switch hubs without knowing how to do it. Because if you do something wrong, you could accidentally delete all your previous posts.\n\nI just created this account today, all I've posted so far is Hello ZeroMe... so no panic .. lol\n&nbsp;\nI just deleted ZeroMe (not the hubs), in order to download it again and see what happens. During the process of re-downloading, my client froze.. and I had to shut down zeronet and start it up again. I then logged onto ZeroMe, and it asked me to create my profile again. All I did",
+				"added": 1513127853
+			},
+			{
+				"comment_id": 13,
+				"body": "> [krixano](#comment_211_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Also, I'm not sure why SunHub wasn't letting you create your profile on there.\n\nI already have a profile on there, I just couldn't re-join the hub",
+				"added": 1513128242
+			},
+			{
+				"comment_id": 14,
+				"body": "> [krixano](#comment_213_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): The reason why I think you just screwed up your ZeroMe profiles is because now you technically have two profiles on two different hubs. I'm not sure on this though. I'm gonna check the ZeroMe file to see for sure.\n\nThis is likely to be the case..\n&nbsp;\nThere needs to be a Loading Database warning message, or at least a way to detatch from hubs.",
+				"added": 1513128612
+			},
+			{
+				"comment_id": 15,
+				"body": "> [krixano](#comment_215_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Okay, yes, you do have two profiles (as in two different hubs think that your profile is in two different places) and I'm gonna help you fix that, because if you don't, you'll have a problem with following people (I had this problem also). I need to know which hub you want to be in, KaffieHub or SunHub?\n\nSubhub i guess",
+				"added": 1513129275
+			},
+			{
+				"comment_id": 16,
+				"body": "I can see that I'm **following** two clones of my profile..\nYes, update/rebuild is complete.",
+				"added": 1513129423
+			},
+			{
+				"comment_id": 17,
+				"body": "> [krixano](#comment_217_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Did you do the database rebuild?\n\nyes",
+				"added": 1513129512
+			},
+			{
+				"comment_id": 18,
+				"body": "> [krixano](#comment_218_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Okay, so now, goto ZeroHello, click the three dots, and click \"Show data directory\". Next, go to the 12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv directory. Then, go to data/users, and go to 19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB. This is your user directory where your posts on KaffieHub are stored. [...]\n\ndone.",
+				"added": 1513130238
+			},
+			{
+				"comment_id": 19,
+				"body": "> [krixano](#comment_219_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Next, go here and drag the circular button in the top right to the left. Scroll all the way down, and click on the button next to This is my site. Then, go to the textbox under content publishing and delete everything and type in this: data/users/19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB/content.json and click Sign. Then click Publish. [...]\n\ndone.",
+				"added": 1513130321
+			},
+			{
+				"comment_id": 20,
+				"body": "thanks.",
+				"added": 1513130381
+			}
+		],
+		"1512311792_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 21,
+				"body": "Check out my previous thread I made today. Seems like we had the same problem!",
+				"added": 1513130609
+			}
+		],
+		"1513127681_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 22,
+				"body": "If you copy the all.js of this site, to the original ZeroHello .. then it'll have problems signing, especially if it gets updated.\n&nbsp;\nHow exactly is this ZeroHello different?",
+				"added": 1513130753
+			},
+			{
+				"comment_id": 39,
+				"body": "Another thing that would be great, is if you could have drop-down menus for each zite's merger zites. That way, they don't end up taking all of the space in the list!",
+				"added": 1513145057
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 26,
+				"body": "<video src=\"http://127.0.0.1:43110/big.kopykate.bit/data/users/19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB/Caravan%20Palace%20-%20%20Rock%20It%20For%20Me%20(live%20at%20Le%20Trianon,%20Paris).mp4\"></video>",
+				"added": 1513135060
+			}
+		],
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 29,
+				"body": "> [herp](#comment_36_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Looking pretty good! Seems like BigFile works cross-site! The ZeroUp video did work while the KopyKate one did not. Try deleting the KopyKate video from your site files and see if it still loads.  [...]\n\nIt's just to do with the amount of peers. The star trek video is relatively old, while the Kopykate video I posted today. \n&nbsp;\nWhat I've noticed is that, it tends to often crap out if there's not enough peers .. thus producing the MIME type error",
+				"added": 1513136499
+			},
+			{
+				"comment_id": 33,
+				"body": "> [krixano](#comment_232_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): This is good! The only thing though is, do you have to have kopykate downloaded before viewing a video from it, not the video but the zite itself? I think you do. With the CORS plugin though, you don't need to have kopykate downloaded because the plugin will automatically download it.\n\nyes you would, by the looks of it. You'd have to navigate to the direct link of the file.. then confirm that you want to download the zite.\n&nbsp;\nOne could easily write a script that would automatically do that for you, though.",
+				"added": 1513140644
+			},
+			{
+				"comment_id": 34,
+				"body": "Pretty sure I have the CORS plugin installed, and I just did a test by deleting ZeroUp and trying to play the embedded link .. which didn't work.. until I copied/pasted the actual file address into my url.\n&nbsp;\nIn other words, it'll play the video/prompt zite download if you click on the file link .. but not if you press play on the embedded video player.",
+				"added": 1513142082
+			},
+			{
+				"comment_id": 35,
+				"body": "> [krixano](#comment_234_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You can't just use the CORS plugin by having it installed, the zite needs to call a command for it. It's right in the docs.\n\nMy mistakes.",
+				"added": 1513143324
+			},
+			{
+				"comment_id": 36,
+				"body": "It would be great to see corspermission in action, or have an example code snipplet. I must admit, I haven't explored many of the other ZeroNet features beyond bigfiles. It takes a lot of time to figure stuff out!",
+				"added": 1513143501
+			},
+			{
+				"comment_id": 37,
+				"body": "> [krixano](#comment_235_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): It's fine. Now that I know that you can do this - I'm gonna allow putting KopyKate and ZeroUp videos in ZeroMedium, I think that'll be much better than people uploading videos in multiple places. [...]\n\nbut then, if you're gonna turn ZeroMedium into a video sharing platform - wouldn't that defeat the purpose of having KopyKate and zeroup to begin with? I'm all for focusing on a single project, having said that.",
+				"added": 1513143976
+			},
+			{
+				"comment_id": 38,
+				"body": "> [krixano](#comment_236_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I'm not turning ZeroMedium into a video sharing platform at all. It's still a place to write stuff, but it's useful to be able to link to videos that are related to your writing. Same with audio, images, and other files. In fact, Medium.com has this feature as well. People who don't want to write about a video won't use ZeroMedium, they'd use KopyKate. [...]\n\nI see what you mean. Just gotta know what I'm doing right now, and where my time is best spent! ;)",
+				"added": 1513144408
+			}
+		],
+		"1513201657_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 40,
+				"body": "If you want, you can always donate a bit to the creators\nhttp://zeronet.readthedocs.org/en/latest/help_zeronet/donate/",
+				"added": 1513204358
+			}
+		],
+		"1513192762_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 41,
+				"body": "As I mentioned before, I came up with the idea of KopyKate in retaliation of YouTube copyright takedowns, and Audible Magic. As a YouTuber and content creator myself, I might actually migrate to the site completely one day, and make it my home.\n&nbsp;\nAudible Magic is simply the most fascistic piece of garbage ever conceived. You could be walking down a street and filming a video .. ... and all of the sudden, comes a car with the speakers on max volume, playing 50 Cent. That alone was enough to get your video flagged at times. Even classical music will get you flagged.\n&nbsp;\nI like putting background music on some of my videos because, that's the tune that I feel fits the video the best. I'm not much of a composer, and I'd like to be part of internet culture ... but with all the money that you need in order to buy the rights to all the songs, and the rights of all the PNGs, JPGs, that you've used in your video ... ... ... I feel it's become a barrier of entry for more low-income artists and creators.\n&nbsp;\nThe rich get richer as a result of the intellectual property monopoly, which they can sit on for as long as they live, without doing much work .. while somebody who wants to start making funny cat videos at home will probably struggle to get more than 10 views each... that is, if they're lucky not to have their video flagged.\n&nbsp;\nThis is why I propose abolishing copyright, and instead, introducing a Basic Income in order to boost innovation and creative work. Cryptocurrencies could be a good way to pay for such a scheme.\n&nbsp;\nIf we ever did end up replacing media streaming services, then it would be our duty to make money out of it, and redistribute a lot of that wealth. A ZeroNet mega-proxy would be a good way to do it, simply because it's not a good idea to put cryptocurrency miners on zites (they could easily be removed by simply going into the data folder after every update, deleting the Javascript, etc.). The average person is far more likely to use a proxy to stream our content, than download the zeronet client and all the zites on them... which is okay! (My mother uses Play through my proxy.)",
+				"added": 1513205760
+			}
+		],
+		"1513230190_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 42,
+				"body": "zeroMe is good enough as it is. It's also way cooler because you get to interact with people with similar interests.. thanks in part to the hub system.\n&nbsp;\nWe really don't need a Facebook. Facebook is just a low-self-esteem factory.",
+				"added": 1513299437
+			}
+		],
+		"1513321800_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 43,
+				"body": "It also seems like different sites have different ZeroFrame's. You have to taylor it to suit your needs. I'll probably do a dev topic on dynamic navigation soon.. it really seems like an uphill battle at times. Would be great to set it straight for once, save time.",
+				"added": 1513328110
+			},
+			{
+				"comment_id": 44,
+				"body": "@krixano - I just saw the routing tutorial you posted, and wanted to say thanks - this should save a lot of time and effort. It's also something I feel should be included in the Zeronet docs and packages.\n\nbtw - does this work on any zeroframe, or only the zeroframes used in e.g. zeroup, zerome, etc?\n\np.s. I'll be sure to include your username in the credits for KopyKate BIG 0.2.0 :)\n\n**The official ZeroFrame Router - by Krixano**\n\nhttp://127.0.0.1:43110/1K2myjtjoEVpRC2JMieRL73ES4V4iLP2Ev/",
+				"added": 1513479858
+			}
+		],
+		"1513430393_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 46,
+				"body": "> [htgozn](#comment_35_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2): If you decide to keep the CoinHive miner active on the proxy, ensure that the confirmation prompt remains intact. Otherwise your Coinhive account would be in violation of their terms for not informing visitors of the mining script. So just a heads up. I don't want you to lose any revenue generated from a simple prompt disable mistake.\n\nYes. The miner isn't installed right now, as i've done a clean wipe.",
+				"added": 1513494437
+			}
+		],
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 47,
+				"body": "Well. I don't wanna be sentenced to life in prison just because some douchebag uploads kiddy porn to my server.\n\nI mean, I'd happily go to prison for copyright infringement.. but not *that*.",
+				"added": 1513580767
+			}
+		]
+	},
+	"comment_vote": {
+		"204_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"210_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"212_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"16_1NVRQ533fwKrZaRyP8joH2kk6gis2G7PVp": 1,
+		"35_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"37_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"39_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"40_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"235_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"236_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"12_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": 1,
+		"301_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"3_17F2Pe6p49YCPUZSagUzrxaiEzcYHq8QCJ": 1,
+		"15_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": 1,
+		"47_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"35_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"53_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"54_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1
+	}
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G3pIG3zVZmLvv/KJ1sXQ+ZCZe0mWjPhEKvJ2KnYd2sgd3uPkJlwI+C+h30/diPyExrC1EPLKfOnEJiq0+Sk7CwE=",
+ "cert_user_id": "pakistan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "94f7f67461da2be0bc6822a037ce6c54ce1717f267f60182aeff90836e9d8cb0",
+   "size": 12695
+  }
+ },
+ "files_optional": {
+  "1501159695.jpg": {
+   "sha512": "13d4ba1bf47bf2cd254f0dbc0ab181982e2392608c30eb4c0c866c2f788619de",
+   "size": 99028
+  }
+ },
+ "inner_path": "data/users/12eDhthzHkiWLsT6cHedeKVEUBmqpT6pAj/content.json",
+ "modified": 1507983992,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12eDhthzHkiWLsT6cHedeKVEUBmqpT6pAj": "HJ5U3J8rCT0E2BGR/O1CwgX+cygN6EJ2PZn0+++7DUe5YPVEm0oKRCCu3qRjyjLkswHsqcaER81hL3f4/GrVg8o="
+ }
+}

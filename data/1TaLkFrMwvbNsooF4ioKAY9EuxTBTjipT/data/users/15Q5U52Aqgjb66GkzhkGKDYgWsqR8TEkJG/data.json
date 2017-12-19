@@ -1,0 +1,443 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "How to take down ZeroMe?",
+			"body": "If someone steal the hub's private key, can he delete my post?\n(翻譯: 如何关闭ZeroMe? 如果有人偷了hub的私钥, 他可以删除我的帖子吗?)",
+			"added": 1500351060
+		},
+		{
+			"topic_id": 2,
+			"title": "The LAST chance of seeing Chinese on free Internet",
+			"body": "\nNote: I lives in China.\n\nAs the title said.\nToo many Chinese languages in ZeroTalk English forum makes you troubled, but it is will be gone soon.\n\n---\n\nChina government is doing (or will do possibly):\n\n#### Real name sign\n\n> If you sign up an account on a website in China:\n> 1. Forcibly bind phone number with real name\n> 2. Forcibly bind website account with phone number\n>\n>\n> - http://news.xinhuanet.com/tech/2017-01/03/c_1120232196.htm\n> - http://www.cac.gov.cn/2015-02/04/c_1114246561.htm\n\n#### Remove foreign TV / movie \n\n> - [https://www.zhihu.com/question/62353049](https://github.com/zcyzcy88/SelfColle/blob/master/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%202017.7.12%20AcFun%E3%80%81%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E3%80%81%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%88%A0%E9%99%A4%E5%A4%A7%E9%83%A8%E5%88%86%E5%A4%96%E5%9B%BD%E7%94%B5%E5%BD%B1%E3%80%81%E7%94%B5%E8%A7%86%E5%89%A7%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.mht)\n\n#### Take down VPN service provider\n\n> They can technical block by GFW, also they can administrative take down provider.\n> It is Illegal to provide VPN service if you are not on their whitelist.\n> - https://theinitium.com/article/20170127-mainland-vpnban\n\n#### Block Shadowsocks\n\n> - https://www.google.com/patents/CN105281973A\n> - https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/c4655bdfd3bcee64d0a3/CN105281973A.pdf\n\n#### [possible] Install a \"CleanNet\" software on your device, which can monitor all your activities.\n\n> If you don't install, connect the Internet is not allowed.\n> Think it as an advance [绿坝](https://en.wikipedia.org/wiki/Green_Dam_Youth_Escort)\n\n#### Connect and scan your file in your smartphone.\n\n> - http://imgur.com/a/d20Um\n> - [http://tieba.baidu.com/p/5228179646](https://web.archive.org/web/20170719114840/http://tieba.baidu.com/p/5228179646)\n\n---\n\n**Crazy. What the FUCK.**\n\n## I think, government will possibly cut off all Internet soon, then build a \"China Intranet\", just be like Xinjiang.\n\n- https://theinitium.com/article/20170124-mainland-xjnetoff\n- https://commondatastorage.googleapis.com/letscorp_archive/archives/8174",
+			"added": 1500468040
+		},
+		{
+			"topic_id": 3,
+			"title": "Has anyone successfully registered id@ZeroVerse?",
+			"body": "I tried to send BitMessage and wait several days, but nothing happened.",
+			"added": 1500720458
+		},
+		{
+			"topic_id": 4,
+			"title": "The userscript to [ hide / show only ] Chinese posts",
+			"body": "It test post's title, if title contain Chinese character, it will [ hide / show-only ] it.\n\n---\n\nDownload:\n- [Hide Chinese posts](https://github.com/zcyzcy88/SelfColle/blob/master/hideCN.user.js)\n- [只显示中文帖子](https://github.com/zcyzcy88/SelfColle/blob/master/onlyCN.user.js)",
+			"added": 1500993774
+		}
+	],
+	"topic_vote": {
+		"1_12mfagdvA9tUGUthGsmq4YM8fwpdUJRYMs": 1,
+		"1_1FABUsoP9Mr8rdB8GfyChhTWkp4W6r58ph": 1,
+		"5_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": 1,
+		"1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_13PDAPMdvVB7xVGz9QV8m1D96nyhfkxzT5": 1,
+		"1_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"1_13kimmZahuVSK16LDm8LLLMFQ2zyCLGKzD": 1,
+		"1_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_1Np58q7bCfW7hmHuXvoYux3ij6M4Qecfb3": 1,
+		"6_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"3_14ciQjA3TAFm1Sju8F3wDXRKgYvqoJ5w3B": 1,
+		"2_14ciQjA3TAFm1Sju8F3wDXRKgYvqoJ5w3B": 1,
+		"69_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"1_1GuR3JFbcVd39ZqWkUfKP7RTeFGnpzeMvz": 1,
+		"1_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": 1,
+		"1_1ELbzUdEgV1kw4o358WdUfyN5vJVgfpMyx": 1,
+		"1_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"4_16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7": 1,
+		"11_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": 1,
+		"1_15eMfttUaaszDW39pJHosSc5bgZHuXMEaK": 1,
+		"1_16ruLucRLto6GhT1Zb3P8JVZzC48fxd9Cc": 1,
+		"14_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"1_18YE3Sc5daizwqVAoPu3YDvURfie2VmSwC": 1,
+		"1_1EpY11syeaKbwRSNqv9tU1ZxoU1moJA9Bp": 1,
+		"1_14gdJoaMRSQrBK76d8SXao6dA4B6GK6oTo": 1,
+		"1_19i26STfYVZkMToLLgCunQ1dDZDrHaRdxt": 1,
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_127tNdRpqjPKrVbgYNJHyvHV2Hz43VApCK": 1,
+		"1_19jkZFyj9bYgLhKxiXjyBHLQsmqN5dUn89": 1
+	},
+	"next_comment_id": 45,
+	"comment": {
+		"1_1LfQ8dwqkqkGQNCg1kBevHPxjvTRJTQYBz": [
+			{
+				"comment_id": 1,
+				"body": "What doesn't kill you makes you stronger",
+				"added": 1499930025
+			},
+			{
+				"comment_id": 33,
+				"body": "[The LAST chance of seeing Chinese on free Internet](/Talk.ZeroNetwork.bit/?Topic:2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+LAST+chance+of+seeing+Chinese+on+free+Internet)",
+				"added": 1500837753
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 2,
+				"body": "China - Shanghai",
+				"added": 1499930049
+			}
+		],
+		"1_1ECHTchkR41fm6dCDdWS2F52GHcF3z6fva": [
+			{
+				"comment_id": 3,
+				"body": "Emm... Your zite make my Firefox memory leak.",
+				"added": 1499930393
+			}
+		],
+		"1_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": [
+			{
+				"comment_id": 9,
+				"body": "> [anonymouslogin](/Talk.ZeroNetwork.bit/?Topic:1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz/Please+post+Chinese+content+to+NewGFWTalk#comment_57_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X):\nYou don not have to invade the English forum. 你不必入侵英文论坛。\nThe Chinese forum is probably even better. 中国论坛可能会更好。\nThere are plenty of discussion plates and you get more space 200K instead of 50K. 有很多讨论板，你得到更多的空间200K而不是50K。\nPlease, respect the other languages. 请尊重其他语言。\nPlease, speak English in this forum. 请在这个论坛上说英文。\nOr at least (machine) translate your comments to English. 或至少（机器）将您的意见翻译成英文。",
+				"added": 1499934924
+			},
+			{
+				"comment_id": 35,
+				"body": "按需取用\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+userscript+to+hide+show+only+Chinese+posts",
+				"added": 1501058330
+			}
+		],
+		"8_1CnPgdHbuiXvD1M9xPU3UiXKmLwLLQKCVV": [
+			{
+				"comment_id": 5,
+				"body": "Stop opinionated, please.\n\nBefore you **judge** you should **learn**:\nZeroTalk (the site based on ZeroNet) **IS NOT** ZeroNet.\nIf you think official ZeroTalk sucks, just clone and run your own.",
+				"added": 1499933156
+			},
+			{
+				"comment_id": 6,
+				"body": "> [jkoiiopihuiioio](#comment_1_1Lc6bmYgPiKpgH97AN9YGAdJgZhoYk1HUd): my purpose is to put the cat with the chicken together\n\nNice self-explanation why you are freak:\nWhy you want **put the cat with the chicken together** ???",
+				"added": 1499933788
+			}
+		],
+		"2_1Lc6bmYgPiKpgH97AN9YGAdJgZhoYk1HUd": [
+			{
+				"comment_id": 7,
+				"body": "Everyone can watch his nice speech:\n大家可以欣賞他的精彩言論：\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:8_1CnPgdHbuiXvD1M9xPU3UiXKmLwLLQKCVV/Zeronet+to+go+crooked+zeronet",
+				"added": 1499933856
+			},
+			{
+				"comment_id": 8,
+				"body": "Before you **judge** you should **learn**:\nZeroTalk (the site based on ZeroNet) **IS NOT** ZeroNet.\nIf you think official ZeroTalk sucks, just clone and run your own.",
+				"added": 1499933995
+			}
+		],
+		"1_1PvvBC6KGK4BytFXRe1MCQpB4EHnnYjXpm": [
+			{
+				"comment_id": 10,
+				"body": "自己花钱买呗\n公开的库一般都是：被黑公司不肯交赎金，撕票释放出来的",
+				"added": 1499940644
+			}
+		],
+		"1_1GqZJYT5gnKsqRb3vxcEbyHH1eQViBJRNU": [
+			{
+				"comment_id": 11,
+				"body": "1. ZeroTalk (the site based on ZeroNet) **is not** ZeroNet.\n\n2. [official ZeroTalk (English)](/Talk.ZeroNetwork.bit) **is not** [new GFW Talk (中文论坛)](/NewGFWTalk.bit).\n\n3. If you can understand what our say, and we can understand what you say, that's good.\nOr you can write Chinese as your origin and English as your translation, if you think your English translation may be wrong.",
+				"added": 1499995618
+			}
+		],
+		"2_1C4Bu4hhk5Mqh3bSE6hnLWuX16bU6nFUit": [
+			{
+				"comment_id": 12,
+				"body": "When you access a site, you are agree to use cache to make seed.\nSo, just delete whole site.",
+				"added": 1500008157
+			}
+		],
+		"1_1MRoJ4bco5SwBjeXHfVudgB3F52fDpSGqi": [
+			{
+				"comment_id": 14,
+				"body": "Respect is mutual and freedom is based on respect.\n尊重是相互的，並且自由建議在尊重之上\n\nDaily up / 每日一頂",
+				"added": 1500039980
+			}
+		],
+		"2_1ELbzUdEgV1kw4o358WdUfyN5vJVgfpMyx": [
+			{
+				"comment_id": 19,
+				"body": "Yes, not banned fully, but banned on TV.\n> [中國電視劇禁止出現同性戀、婚外情、早戀等「不健康」內容](https://theinitium.com/article/20160304-dailynews-china-tv-show)",
+				"added": 1500293758
+			},
+			{
+				"comment_id": 20,
+				"body": "> [c0der](#comment_3_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN): typo: hardcode -> hardcore\n\nYou can edit your post: hover your post, click the \"pen\" button.",
+				"added": 1500293809
+			}
+		],
+		"1_1Nrk2F3W5Kj7VJ7bqHeb25CVGJ21ejqauC": [
+			{
+				"comment_id": 21,
+				"body": "No wrong. These must be done someday.\nBefore ZeroTalk multi-language merged, respect the rule:\n\n## Each language in the corresponding forum\n\n---\n\n沒有錯，這個天一定會完成的。\n但在ZeroTalk多語言合併前，尊重規定：\n\n## 每個语言要去对应的论坛\n\n---\n\nThe Chinese language board is here:\n[中文版论坛入口](http://127.0.0.1:43110/NewGFWTalk.bit)",
+				"added": 1500294429
+			},
+			{
+				"comment_id": 23,
+				"body": "> [mzmt](#comment_2_1He4HD6TxPnA5121xW1iRt1tvuYPFucKW): 专门的中文论坛在那里？\n\nhttp://127.0.0.1:43110/NewGFWTalk.bit",
+				"added": 1500354254
+			}
+		],
+		"4_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 22,
+				"body": "protocol\n`zero://Talk.ZeroNetwork.bit`",
+				"added": 1500351278
+			}
+		],
+		"1_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 24,
+				"body": "Thanks for your answers, I am going to run my ZeroMe instance and my hub.",
+				"added": 1500445679
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 25,
+				"body": "> [elspru](#comment_34_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib): and as long as you have tor\n\nMore funny fact: ZeroNet is not blocked (interfered by GFW) now.\nBut it is will be blocked soon as government understand ZeroNet's utility.",
+				"added": 1500477600
+			},
+			{
+				"comment_id": 26,
+				"body": "> [raichup](#comment_3_1EmBXyuj4eb4XcttKBpQiG4SgnBnLU4UsG): I've got some message says that government is gonna void all passport of common people and ban travelling & studying abroad.\n\nvoid all passport = say goodbye to most advance science & tech = auto-expell from the Earth\nDon't think CCP is so stupid.",
+				"added": 1500480905
+			},
+			{
+				"comment_id": 28,
+				"body": "For the topics such as \"China vs USA\", my answer:\n\nBoth are evil. Both try to monitor people.\nBut China government's control is **too much over than necessary**, you even cannot visit Google!!!\n\nIn most time, we use VPN (and similar techs) is not for anonymous,\nIs **just** for normally visit Google, normally talk about China politics, normally watch TV series.",
+				"added": 1500630395
+			},
+			{
+				"comment_id": 43,
+				"body": "> [akito](#comment_113_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I hope 0net will never support emojis, hopefully...\n\nIMO, I hope just latin1.\nUnicode have many problems.",
+				"added": 1501299086
+			},
+			{
+				"comment_id": 44,
+				"body": "> [kaffie](#comment_421_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): In my eyes, China is the end result of capitalism. \n\nYou are true. China is de facto capitalistic now.\n\nWe call these:\n- 第一共产党(一共, first Communist Party) - communism\n- 第二共产党(二共, second Communist Party) - capitalism",
+				"added": 1501299734
+			}
+		],
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": [
+			{
+				"comment_id": 27,
+				"body": "Which event / country are you talk about?",
+				"added": 1500523575
+			}
+		],
+		"3_14ciQjA3TAFm1Sju8F3wDXRKgYvqoJ5w3B": [
+			{
+				"comment_id": 29,
+				"body": "- https://bilibili.com\n- http://tucao.tv\n- https://moegirl.org\n- http://bangumi.tv\n- http://share.dmhy.org\n\nBy the way, the manual translation quality (relative to machine translation) of [Japanese to Chinese] is higher than [Japanese to English].\n\nIn many English \"translation\", the translator is too lazy, then just leave a transliteration. Suck.",
+				"added": 1500653896
+			}
+		],
+		"3_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 30,
+				"body": "> [kaffie](#comment_411_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): It's dead. The guy who made it no longer participates on ZeroNet, so the backend is probably down.\n\nOK, let it go.\n\n---\n\n> [kaffie](#comment_411_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Might I suggest using KaffieID? KaffieID won't ever go down, due to not relying on a backend. No unique names though.\n\nI registered, but not useful.\n\"No unique names though\" means just nickname, not identity. Some sites ban it.",
+				"added": 1500723881
+			}
+		],
+		"70_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 31,
+				"body": "Or change your proxy.",
+				"added": 1500724099
+			}
+		],
+		"1_12AMmCZUvspr4iu2oAtW187n1pAbujkRhW": [
+			{
+				"comment_id": 32,
+				"body": "No. [ZeroFrame](https://zeronet.readthedocs.io/en/latest/site_development/getting_started) is written by Python and you should use JavaScript to call it in broswer.\n\nWelcome to use JavaScript (and CoffeeScript).\nActually, JS is better than PHP.",
+				"added": 1500730429
+			}
+		],
+		"1_127tNdRpqjPKrVbgYNJHyvHV2Hz43VApCK": [
+			{
+				"comment_id": 34,
+				"body": "> [shy0511](#comment_1_1JQ1qGrN8GdeGZ6ioni59RZbJJeegfyQg9): 据我所知，公认的最优美的语言是意大利语，最难学的语言是中文，过度YY不利于国家形象(For English users: Please ignore this pointless reply ）\n\n1. 「跑題」的英語是 *off-topic*，用 *pointless* 不得要領\n\n2. 所謂公認沒有任何證據\n私認為 Haskell 是最优美、同時也是最难学语言（笑）",
+				"added": 1500983727
+			},
+			{
+				"comment_id": 36,
+				"body": "按需取用\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+userscript+to+hide+show+only+Chinese+posts",
+				"added": 1501058337
+			}
+		],
+		"2_15f49K29bmmEMu3FNtR3cbT3Wb28Hrsf9D": [
+			{
+				"comment_id": 37,
+				"body": "按需取用\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+userscript+to+hide+show+only+Chinese+posts",
+				"added": 1501058341
+			}
+		],
+		"1_1Np58q7bCfW7hmHuXvoYux3ij6M4Qecfb3": [
+			{
+				"comment_id": 38,
+				"body": "按需取用\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+userscript+to+hide+show+only+Chinese+posts",
+				"added": 1501058454
+			}
+		],
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 39,
+				"body": "\n> [ghostassassin](#comment_8_19jkZFyj9bYgLhKxiXjyBHLQsmqN5dUn89): Believe me, we have tried, tried so hard to \"make them understand\". But many of them just click in and post, ignored those notices.\n\nWhen you start a new post, you will see:\n> 请使用英语，或者你可以在页面顶部到达其他语言的论坛\nBut they don't take this a look.",
+				"added": 1501058824
+			},
+			{
+				"comment_id": 40,
+				"body": "> [ghostassassin](#comment_7_19jkZFyj9bYgLhKxiXjyBHLQsmqN5dUn89): Good idea and wish more people can realize it is time for a administrator intervene?\n\nI agree. **The administrators derelict their duty.**\nFor example: Quora have a lot of Chinese people, but Chinese language (and any non-English) is banned.",
+				"added": 1501059114
+			}
+		],
+		"1_19jkZFyj9bYgLhKxiXjyBHLQsmqN5dUn89": [
+			{
+				"comment_id": 41,
+				"body": "\nFor Chinese, this:\n[The userscript to [ hide / show only ] Chinese posts](/Talk.ZeroNetwork.bit/?Topic:4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG/The+userscript+to+hide+show+only+Chinese+posts)",
+				"added": 1501180133
+			}
+		],
+		"1_1DMMSpE5s54ja9XxW2adGqMsFc5UxRpvEg": [
+			{
+				"comment_id": 42,
+				"body": "**请验证身份**",
+				"added": 1501184596
+			}
+		]
+	},
+	"comment_vote": {
+		"24_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"1_1A6rok3j9w6paahtGoxrePy7SSkMz5A48s": 1,
+		"1_1MfJM55N5p81ZQwiMbRS525MbsuNejVPAY": 1,
+		"1_12rCXV53VLAvJSGqd5FFFvwL5a8s9BQHKz": 1,
+		"4_12rCXV53VLAvJSGqd5FFFvwL5a8s9BQHKz": 1,
+		"1_1PyQgv2HS5dMPtySw8CKo5KA7UJZQ2nM36": 1,
+		"80_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"47_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"67_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"68_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"2_1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu": 1,
+		"1_1PV4gPPg6hkp45UQFdWLCa7MXH3xiwe4V1": 1,
+		"1_1E7FWxB9kQKXC3gX596GqbK2KjBSQVhyEx": 1,
+		"2_17e24V2ghuW2tWEDi5V5FA9UyWnR2Bsgex": 1,
+		"19_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": 1,
+		"29_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"30_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"31_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"32_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"33_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"34_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"36_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"38_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"37_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"35_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"39_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"40_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"41_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"42_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"43_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"44_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"45_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"46_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"47_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"53_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"52_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"51_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"50_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"49_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"48_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"60_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"59_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"58_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"57_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"56_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"54_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"55_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"42_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"5_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"49_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt": 1,
+		"2_1GUKfsm3tEgMjbuhZ1CGBat8aGzJsPEopQ": 1,
+		"2_1BnGNGstWBFRto1DdAi31XnQDHfrZgQtih": 1,
+		"46_1ArDm9BfJUTfrGQLDra6KKNYYqXWS7v2sp": 1,
+		"45_1ArDm9BfJUTfrGQLDra6KKNYYqXWS7v2sp": 1,
+		"57_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"1_17e24V2ghuW2tWEDi5V5FA9UyWnR2Bsgex": 1,
+		"4_18ts75nBNcXqWm6edB8pzn6Hr34JVUCrfx": 1,
+		"66_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"1_1PvuX8HD3uoKanDSBvicJvXHuqSC1TSBsp": 1,
+		"4_1FZKb7GvyxfYxTuENKqmt1dgtaoDrbF52p": 1,
+		"12_1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL": 1,
+		"9_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"2_16XBhwsVCqtAdYmJT85NoQXhZRths6SUji": 1,
+		"28_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"1_1PLFBK2Tqkyqgns5xPSn3N49ZmiV94poEi": 1,
+		"1_19TYqgziZM2mWnSrYRgLDVroQZoAL3pZVy": 1,
+		"3_1PWzLzYAF3DnFuvR8g4CKwMZpYxm47YMsc": 1,
+		"1_1PWzLzYAF3DnFuvR8g4CKwMZpYxm47YMsc": 1,
+		"3_1CXxfnq5BN8PMjwumTfMwXM3dhwi6R5z5D": 1,
+		"2_1Kf2yo283H1wTZDsw3SdtZyNejRXuanZGG": 1,
+		"6_12vBdBR26eDMHdVCUpr9Uuaf3ofJ91j1qG": 1,
+		"2_13PDAPMdvVB7xVGz9QV8m1D96nyhfkxzT5": 1,
+		"71_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"1_1ECZLdmRMDWDE66jvUd3cKFhyeoHvPrmC": 1,
+		"3_1PctriJ155UjQV4HrXw9qr7rznf8MNBkaj": 1,
+		"1_1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx": 1,
+		"1_1FuPuBvhvH3pJC3KJ6YhriFe3css8Ntprg": 1,
+		"89_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"4_1Fua8zS8Lesf6gvsT5fDKNB2U3sF9rt4F": 1,
+		"4_16KsSK5fxLmbH2vqmsLwmTNXgAty1nqtHD": 1,
+		"398_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"6_1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu": 1,
+		"5_1BdC5k155xY8M7uuksXynSgXgVnmekivem": 1,
+		"7_1HGr5q2yEov55cZf7NE5qBkJvTVSJZVM6g": 1,
+		"1_1HZDdjo65LKY4ZpQKoG3ECgh1B1xVkKVZd": 1,
+		"1_163qySY2DPqhhxhinT9SAF5D4BXzoZvp6z": 1,
+		"8_1MCxA3K1czJ7TpjBXAT9DSFJEXhMJ1ifBu": 1,
+		"6_1HGr5q2yEov55cZf7NE5qBkJvTVSJZVM6g": 1,
+		"5_1Fua8zS8Lesf6gvsT5fDKNB2U3sF9rt4F": 1,
+		"404_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"407_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1JBVxG1GBR8NoHK9i37QhPgky6qCnFRteH": 1,
+		"6_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"8_1KNn9tCBsFfc4e5EEtpUeK52YFgEY61Q4": 1,
+		"3_1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ": 1,
+		"3_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"6_1BdC5k155xY8M7uuksXynSgXgVnmekivem": 1,
+		"408_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"47_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": 1,
+		"4_1M6V4wECbz5e1aUmuij2BB72ensHCYNFmd": 1,
+		"8_1JBVxG1GBR8NoHK9i37QhPgky6qCnFRteH": 1,
+		"9_1KNn9tCBsFfc4e5EEtpUeK52YFgEY61Q4": 1,
+		"28_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"15_1M78zG4cdm2osFEpXApCHxh6bu936kgte6": 1,
+		"402_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_14h1zSHjQkvGb6oPMtWjdBsxM2ukhDhcF4": 1,
+		"413_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"412_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1MRoJ4bco5SwBjeXHfVudgB3F52fDpSGqi": 1,
+		"5_17kzmkZfFrnYBDDDwg6mnPyoLTjC2fi3F8": 1,
+		"1_1Q3mPrGcNbN3CjxHfEqa4cuWxiQebHDMTY": 1,
+		"82_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"270_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"65_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ": 1,
+		"72_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"1_1Pq1UJoNehwjhxFGRjdWFcbDGAPBkmG9Pd": 1,
+		"1_1H6NpEfqbtwB7ksSn3dx51Y3UespNLdFJf": 1,
+		"3_1BdC5k155xY8M7uuksXynSgXgVnmekivem": 1,
+		"7_19jkZFyj9bYgLhKxiXjyBHLQsmqN5dUn89": 1,
+		"7_16KsSK5fxLmbH2vqmsLwmTNXgAty1nqtHD": 1,
+		"77_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"18_1HGr5q2yEov55cZf7NE5qBkJvTVSJZVM6g": 1,
+		"17_1HGr5q2yEov55cZf7NE5qBkJvTVSJZVM6g": 1,
+		"4_1NJjPuH8WdcF8bYsnDLwZTSHVBJPuTC6re": 1,
+		"20_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": 1,
+		"6_17xeFZRG9nokuGNj8WZQU5V9ZdfUGr2gGT": 1,
+		"109_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"10_1DzxVtsZsMBXUddtDgDN21WzSY2KUBVnNX": 1,
+		"3_1PBNStBUCMh9A4GuYqgCtf9itJpwah6Ani": 1,
+		"1_1LTkbVdp2wW5mi6NWT9zPYuAohARFHtkBA": 1,
+		"1_1DtcVY5kESBV8PuXnvhZMKQdnWN1CNTZ6K": 1
+	}
+}

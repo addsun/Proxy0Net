@@ -1,0 +1,20 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "I had been looking for the data/users.json file on my Mac, but with no luck. \nMy ZeroNet.app is in the Application folder, but there is no ZeroNet folder in ~/Library/Application Support/. I also tried /Applications/ZeroNet.app/Contents, and could not find it. \nCould anyone help me finding it?",
+				"added": 1499846458
+			}
+		]
+	},
+	"comment_vote": {
+		"1_149Huqc8mffmjToqYMtqgEh4tyhTXANmbN": 1,
+		"33_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_1EX1u2ha2nZAqLe8y7c5GufSwaAFyDKoBQ": 1
+	}
+}

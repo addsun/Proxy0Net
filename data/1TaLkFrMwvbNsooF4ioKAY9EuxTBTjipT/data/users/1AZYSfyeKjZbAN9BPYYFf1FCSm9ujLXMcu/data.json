@@ -1,0 +1,122 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1511956110,
+			"title": "i2p better choice for for big file zeronet",
+			"body": "I'd love to see i2p support, better for file sharing now that big file support landed in zeronet!\nIf people start file sharing big files, i2p would be a better fit as it is friendly to heavy p2p traffic.\n\nIt looks like the work on integrating i2p stalled though.\nAny news, is there some progress or are there any major blocking issues?",
+			"added": 1511956109
+		},
+		{
+			"topic_id": 1512556927,
+			"title": "Linking a file on ZeroUP",
+			"body": "I'm wondering how to link to a file on ZeroUP, so that anyone with the link can start downloading a specific file. Since ZeroUP lacks of a search function and I want to link a file to a wiki, what's the best way to do this?\n\nExample, does this work:\nhttp://127.0.0.1:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu/RETRYING%20Stunning%20music%20video%20-%20Jenn%20Johnson%20-%20Gravity.mp4",
+			"added": 1512556925
+		}
+	],
+	"topic_vote": {
+		"1511141829_1QLQK7jRVb9AeziriC8t7ytHcQfdpv1WkV": 1,
+		"1511163737_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": 1,
+		"1511956110_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1512252928_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512309807_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1
+	},
+	"next_comment_id": 15,
+	"comment": {
+		"1511531379_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 1,
+				"body": "yes works (using always tor mode), waited 20-30 secs before it played",
+				"added": 1511534930
+			},
+			{
+				"comment_id": 4,
+				"body": "> [ppload3](#comment_12_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ): another one:http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic11\n\non first try got 404 NOT FOUND image inside the video while downloading, after refreshing the site the video came back while still not finished... But streaming while downloading works, on 2nd try.",
+				"added": 1511624847
+			},
+			{
+				"comment_id": 5,
+				"body": "> [zazing](#comment_4_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu): on first try got 404 NOT FOUND image inside the video while downloading, after refreshing the site the video came back while still not finished... But streaming while downloading works, on 2nd try.\n\nI think the 404 err comes up when the browser tries to play the video but nothing was downloaded yet, because zeronet is still searching for peers or downloading the 1st piece of it.",
+				"added": 1511624979
+			},
+			{
+				"comment_id": 6,
+				"body": "> [ppload3](#comment_13_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ): So after second try you could watch the full video?\n\nyes",
+				"added": 1511631584
+			},
+			{
+				"comment_id": 7,
+				"body": "> [ppload3](#comment_15_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ): added a BIG FILE EMbed:http://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic12\n\nstill getting 404 on first try because peers: 0 then after a refresh it starts streaming. I tried also to delete the video and try again. This time the video started right away downloading (no error) because zeronet client somehow knew the peers (it says Peers: 15) so I think this happens only when no peers are currently connected...",
+				"added": 1511690129
+			}
+		],
+		"1511517146_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 2,
+				"body": "just zip before uploading, no-brainer... BTW it's just a demo site.",
+				"added": 1511554553
+			},
+			{
+				"comment_id": 3,
+				"body": "I'm not an expert but maybe because you have to specify which files are optional/big files based on wildcards (*.zip | *.mp4 etc...?",
+				"added": 1511554629
+			}
+		],
+		"1511662798_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 8,
+				"body": "depression is like shadow, you need some light to dissolve it. TRY some spiritual books...",
+				"added": 1511690422
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 9,
+				"body": "hosted thumbnails instead of clearnet urls would be great. Love that site, thank you!",
+				"added": 1511863917
+			},
+			{
+				"comment_id": 10,
+				"body": "Sometimes the downloading process stops and I have to click the seed button again to continue the download. This happens also on ZeroUP, it's like the big file engine in zeronet pauses it for no reason?",
+				"added": 1511955820
+			}
+		],
+		"1511956110_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": [
+			{
+				"comment_id": 11,
+				"body": "> [monsterjazz](#comment_12_15TSdTU5ZrAHXXiMQvMUEEUm17GFt5WqWp): no. I wil tell you why. zero is different and distributed. i2p is not. if you go offline so does your i2p. not so with the zeronet.\n\ni2p would be just a layer like tor, zeronet over i2p...",
+				"added": 1512378455
+			}
+		],
+		"1512556927_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": [
+			{
+				"comment_id": 12,
+				"body": "The best way would be a sharing link (permalink) where users see the file name, size, type and the seeding button. That would be a really neat feature to have.",
+				"added": 1512557103
+			},
+			{
+				"comment_id": 13,
+				"body": "> [htgozn](#comment_1_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2): Clicking the link worked for me and directed me directly to the file. [...]\n\nthanks for confirming",
+				"added": 1512583066
+			},
+			{
+				"comment_id": 14,
+				"body": "> [herp](#comment_11_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): The link works but it stays on the current site for a few seconds before directing to your link, which is not the best UX. [...]\n\nyeah, in case of videos it makes sense.\nThis was just a test, I was thinking more of linking other files such as .zip.",
+				"added": 1512599634
+			}
+		]
+	},
+	"comment_vote": {
+		"24_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"25_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1_1gJPRbL7puiekYd32rYVuCkELC43bCsY9": 1,
+		"101_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"166_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"12_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"1_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"11_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1
+	}
+}

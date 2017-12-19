@@ -1,0 +1,20 @@
+{
+	"next_comment_id": 3,
+	"user_name": "Errnouser",
+	"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "X都不装天天ssh连接就那么凑合着用的路过",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1502726119",
+			"date_added": 1502809074
+		},
+		{
+			"comment_id": 2,
+			"body": "首先,你需要确定你有个公网IP, 比如长宽等垃圾所谓ISP很多都没有真的公网IP\n然后你可以打开upnp或者最简单的做个dnat直接把你的公地址的15441转发给你0net所在的ip\n最后确认你的0net的机器的防火墙允许别的地址访问15441端口",
+			"post_uri": "12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn_1505129312",
+			"date_added": 1505141904
+		}
+	]
+}

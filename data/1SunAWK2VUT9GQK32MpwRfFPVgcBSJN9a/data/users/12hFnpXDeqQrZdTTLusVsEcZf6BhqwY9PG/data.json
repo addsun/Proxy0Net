@@ -1,0 +1,83 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 9,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Asen",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509016000,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1509018783,
+			"body": "我想知道怎么换头像。。。。\n",
+			"date_added": 1509018781
+		},
+		{
+			"post_id": 1509022958,
+			"body": "已经好几年不用tor了。想问一下，现在tor是不是不挂前置代理就不能用？ 一断开前置代理就挂了。。。",
+			"date_added": 1509022955
+		},
+		{
+			"post_id": 1509331900,
+			"body": "逛了几天，零网现在除了色情和政治以外，内容还是太少了。有点像早期的互联网。对我来说好像除了找找倒盗版资源也没什么用处了呀。",
+			"date_added": 1509331896
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Zefinity-Inf: 哈哈不好意思。看到所有人页面一直不动，是因为没人发动态吗。还是没有更新。。刚连上，还不是太懂",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509019130
+		},
+		{
+			"comment_id": 2,
+			"body": "@Zefinity-Inf: hub的意思是说，下载了相应的hub就可以看到那个hub里面的内容？ 相当于是一个分类？",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509019471
+		},
+		{
+			"comment_id": 3,
+			"body": "@Mv00: 谢谢~ 有在看。但有一个问题哦，按照zeronet的机制，是不是随着看过的网站越多，下载的网页文件越多。。我浏览了一个多小时已经产生了500多兆的数据了。macair小硬盘伤不起。。。。。",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509020854
+		},
+		{
+			"comment_id": 4,
+			"body": "@Zefinity-Inf: 确实。不过我倒不怎么看片。0网是不是即使只浏览一部分内容也会吧一个站点所以的文件下载下来做种？",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509021152
+		},
+		{
+			"comment_id": 5,
+			"body": "@Zefinity-Inf: 也就是说有访问过的才会下载。。我刚查了一下主页的文件列表，只有60几M，但打开存储的date文件夹，有480M。。这个是为啥。。。",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509021438
+		},
+		{
+			"comment_id": 6,
+			"body": " 嗯。。我发了比特信才注册成功的。。",
+			"post_uri": "1NKG5eGnbTyGA1dzPy572C1C39wTzWTgMy_1509022520",
+			"date_added": 1509022631
+		},
+		{
+			"comment_id": 7,
+			"body": "@Finak: bitmsg.me 。把zeroid下面的通过比特信内容发过去。一会就好了",
+			"post_uri": "1NKG5eGnbTyGA1dzPy572C1C39wTzWTgMy_1509022520",
+			"date_added": 1509023518
+		},
+		{
+			"comment_id": 8,
+			"body": "@霸王寨第一光头: 我很难想象零网未来会变成什么样。因为“正常”“合法”的内容在明网都能发布。零网所承载的内容可能会演变成所有“非法”内容的聚集地。零网还有一个非常大的价值，可以摆脱墙内的言论管制，但没有管制也意味着谣言和垃圾信息满天飞，识别真实信息又会变得异常困难。",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509331900",
+			"date_added": 1509332566
+		}
+	],
+	"follow": []
+}

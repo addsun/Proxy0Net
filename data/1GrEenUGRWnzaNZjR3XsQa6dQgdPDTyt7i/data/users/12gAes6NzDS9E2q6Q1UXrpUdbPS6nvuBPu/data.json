@@ -1,0 +1,59 @@
+{
+	"next_comment_id": 10,
+	"user_name": "Krixano",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {
+		"1G3XsisxEjSmQJjpMiCWLQAx6F7kgRCDi2_1": 1493169639,
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1501828464": 1501828440,
+		"1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n_1501833753": 1501866617,
+		"1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1501589176": 1501905321,
+		"19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5_1": 1503220317,
+		"1CTfYHpT4BrXndZbGxvsuZUhiEgbMwiwdi_1": 1503230437,
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1507930010": 1507935234,
+		"18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ_1511616817": 1511617642
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "You can use [Kopy Kate](/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/), but you have to seed the file in a torrent client and make sure it stays up.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1506992228",
+			"date_added": 1506999887
+		},
+		{
+			"comment_id": 2,
+			"body": "@Elspru: Kopy Kate is the only one that I know of. But, Big File Support should *hopefully* be coming out soon, including a zite (ZeroUp I believe it is called) that will let you upload a video to be streamed by other people.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1506992228",
+			"date_added": 1507165610
+		},
+		{
+			"comment_id": 3,
+			"body": "@Elspru: You can put it on [ZeroUp](/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/) now.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1506992228",
+			"date_added": 1507214462
+		},
+		{
+			"comment_id": 6,
+			"body": "@Schiz0: Are you saying you saved your keys in a bash script? If so, why can't you use those in the command. Also, if you created the zites using ZeroNet, the private keys should be in the users.json file. But, if you created the zites via the command line, it should have told you what the private key was from the command line (according to the ZeroNet Docs).",
+			"post_uri": "153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k_1508772750",
+			"date_added": 1508795898
+		},
+		{
+			"comment_id": 7,
+			"body": "There is currently a bug in Git Center where the blue \"Sign and Publish\" button isn't working correctly, so no one can access the repo. You can fix this by going to your merger zite address, appending `/1` to it so you aren't redirected to Git Center, then slide open the sidebar and sign and publish that way.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1509911421",
+			"date_added": 1509914032
+		},
+		{
+			"comment_id": 8,
+			"body": "@Git Center: @Mv00: you can also make a zite where people can add usernames and people will star the usernames they think are spammers. This could work because spammers aren't going to star their own name and there is no way for them to downvote their username. However, upon further thinking about this, they could star other people to try to get someone who is not a spammer on the list. Maybe this can be counteracted by putting less importance on the stars of the spammers who are at the top of the list? I don't know if that would work though.",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1512575883",
+			"date_added": 1512591587
+		},
+		{
+			"comment_id": 9,
+			"body": "@Mv00: I don't think that's possible because there's no way to identify a person - with exception of IP I guess, but that would be controversial (because of anonymity), and I'm not even sure it's completely possible with Tor and VPN's, etc.",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1512575883",
+			"date_added": 1512593930
+		}
+	]
+}

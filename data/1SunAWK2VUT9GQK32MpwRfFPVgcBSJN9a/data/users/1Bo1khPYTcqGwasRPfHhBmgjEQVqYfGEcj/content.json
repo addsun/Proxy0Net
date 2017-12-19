@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G52RkXu0Adpqq4vIhQClOTc7AvUj65nFesnbkBq0A6EmwF9j+eLayk6tFa4obTNTF2Z3XyR43hWfT8GAnjfQoo0=",
+ "cert_user_id": "danielpetrica@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "13ed7d85f82bdc04328914434b644dea37d42933696d63f58f294dff1c71fb98",
+   "size": 346
+  }
+ },
+ "inner_path": "data/users/1Bo1khPYTcqGwasRPfHhBmgjEQVqYfGEcj/content.json",
+ "modified": 1508503782,
+ "signs": {
+  "1Bo1khPYTcqGwasRPfHhBmgjEQVqYfGEcj": "G7P1fqws0WcQAgJwTfh2rqYLuvL2FMsnwxHZVjswPHQYI85OzX9B9ACiB9YB8Pvk3dq+v5FtKpFDESChONGhLE4="
+ }
+}

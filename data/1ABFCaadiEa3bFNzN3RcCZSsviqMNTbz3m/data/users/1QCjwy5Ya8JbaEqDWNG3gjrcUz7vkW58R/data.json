@@ -1,0 +1,82 @@
+{
+	"next_comment_id": 13,
+	"user_name": "Broom",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748": 1511939573
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "那你能屏蔽掉赞的显示吗？",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511939603
+		},
+		{
+			"comment_id": 2,
+			"body": "@霸王寨第一光头: 我觉得唯一能解决问题的，只有人性自身。只靠技术是不行的，看看tor，也可以看看zeronet自身，都没有被完全的禁止掉。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511939776
+		},
+		{
+			"comment_id": 3,
+			"body": "@霸王寨第一光头: 所以，我提过一个建议，再加一个用户名目录管理区，专门保存用户想要的目录信息，其他目录信息不下载，也能减少多余的文件分发。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511940054
+		},
+		{
+			"comment_id": 4,
+			"body": "\n\n\n\n\n@霸王寨第一光头: 你还是没理解我的意思。目录管理还要更细化。加一个新区。用来管理用户指定下载的好友目录关系网。这样本地hub中将会只有选定的目录内容被下载。\n而zerome所有注册名都列成目录，下载，具体下载内容需客户指定。\n（当然，如果接受能力强，可以全部下载，这完全取决于用户自己）",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511940406
+		},
+		{
+			"comment_id": 5,
+			"body": "@霸王寨第一光头: 要比发布站点更好的一些，因为所有目录都下载，只是内容不下载，所以用户会知道所有的名称，只是不知道具体内容，所以不会漏掉所有人的信息。\n只需要在增加一个搜索用户名的功能，就可以了。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511940738
+		},
+		{
+			"comment_id": 6,
+			"body": "@霸王寨第一光头: 所有用户名目录存在一个必下载区里。让人们选择下载具体内容，这并没有中心化吧。只是把目录存在所有节点的电脑里了，内容自选。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511940930
+		},
+		{
+			"comment_id": 7,
+			"body": "@霸王寨第一光头: 目录站让nofish完成不就可以了。反正zerome也是他管理的。只是增加了zerome的管理细度。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511941084
+		},
+		{
+			"comment_id": 8,
+			"body": "@霸王寨第一光头: 什么？我觉得zerome本身也是个站点，并不是zeronet，我只是说改zerome的管理细度，并不是在讲zeronet平台",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511941206
+		},
+		{
+			"comment_id": 9,
+			"body": "@霸王寨第一光头: 另开一个也可以（还以老hub用户资源为用户数据库，再细管理一下）。如果增加管理细度，可以一上来从目录名表里推荐几个和用户资料接近的账户，让用户关联。这样管理，就更灵活些了（当然，不实行也没事，只是说说罢了，可能需要改进的空间还很大吧）",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511941372
+		},
+		{
+			"comment_id": 10,
+			"body": "突然发现，貌似，zerome的hub用户资料库，也是公用的，并不是zerome专享的。hub反而建成了一个公用的用户数据库。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511941860
+		},
+		{
+			"comment_id": 11,
+			"body": "@BTC-E: 是啊，所以说，zeronet的用户数据不会像www那样，所有服务器都自己建一套了。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511942043
+		},
+		{
+			"comment_id": 12,
+			"body": "@BTC-E: zeronet如果想让自己的网站用户流量增加，直接拿根管子插hub上就可以了。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1511939748",
+			"date_added": 1511942191
+		}
+	]
+}

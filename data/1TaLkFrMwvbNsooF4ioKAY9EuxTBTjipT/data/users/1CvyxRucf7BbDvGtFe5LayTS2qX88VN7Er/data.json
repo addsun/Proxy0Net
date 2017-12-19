@@ -1,0 +1,568 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Changing hubs",
+			"body": "Started using ZeroMe, saw only `WhiteHub`. I have only `Hello ZeroNet!` message and some likes. How can I choose another hub?\n\nPlease, don't ask why.\n\nPS. Some people think that I don't know any other hubs. In fact, I know `WhiteHub`, `GreenHub`, `OrangeHub`, `BlueHub`, `RedHub`, `KaffieHub`. I just don't know how to move profile to another hub.",
+			"added": 1495353233
+		},
+		{
+			"topic_id": 2,
+			"title": "Why do we need git-remote-zeronet?",
+			"body": "Was looking around ZeroNet and found `git-remote-zeronet` script. It is used to push/fetch repositories to/from ZeroNet. But how is `git-remote-zeronet` different from:\n\n```\ngit remote add /home/zeronet/data/...\n# Hack hack hack\ngit push\nzeronet.py siteSign ...\n```",
+			"added": 1505922812
+		},
+		{
+			"topic_id": 3,
+			"title": "Releazing an alternative to JSFiddle/CodePen",
+			"body": "Please check if it works. [CodeR](/1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL/).",
+			"added": 1508655953
+		},
+		{
+			"topic_id": 4,
+			"title": "Private sites",
+			"body": "People, what do you think about private sites? I have 2 solutions:\n\n---\n\n1) All site content is encrypted, fileGet, fileWrite and fileStream (or whatever) decrypt and encrypt data in realtime.\n**Pros:** Easy to implement\n**Cons:** DIfficult to change source code because data is encrypted\n\n2) When other peers want to download a private site, seeder passes encrypted data and new peers have to decrypt it locally.\n**Pros:** Easy to change source code\n**Cons:** Probably not compatible\n\nWhich one should I implement?",
+			"added": 1508674888
+		}
+	],
+	"topic_vote": {
+		"13_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"2_1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw": 1,
+		"2_1EqerKajfi14bzTkqwSfqVrxKmQW1w6Nzk": 1,
+		"1_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": 1,
+		"36_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1_1FLQiXhoa56vb91aiVxyAiC8L5YJy4W3Hi": 1,
+		"1_1CjmMpMZgtzY2w9REEwLWQbtHhd5B5NStZ": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_15XeFY67fYKCKxQPfeo246ELto2Gff1hAe": 1,
+		"1_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": 1,
+		"2_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"4_1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": 1,
+		"4_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"1_1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x": 1,
+		"9_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"12_1FTFKztuv4Z5uy6iS83k9hB2xtS6yFnDxx": 1,
+		"1_17m752ukTYDQFsVq55NLSPGsrsUYzmxnAt": 1,
+		"5_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"2_1GeF3xCLKvu92nMmgkT1NqUCyTwoFVbBGN": 1,
+		"62_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"12_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"5_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"1_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX": 1,
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1DRbtArgqHh6a4eJBk6TURfV54voUQfyJq": 1,
+		"1_1Rroqm6Dh2AqqmsUfa1EDb4LER3UxKTtT": 1,
+		"1_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": 1,
+		"13_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"3_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"15_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"12_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"1_18PFnQ5ELoK2uExaAWVEfiJsoF5Gnb5aYF": 1,
+		"9_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1_1F1GejpbpTzkbHpDgaQ4Uvibkpi494U9bu": 1,
+		"10_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": 1,
+		"1509087257_1CGP23WuLE1DHpiAyGuSoNrNzabKv8NVmZ": 1,
+		"1509398086_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1509342996_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": 1,
+		"1509518161_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1509622092_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": 1,
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1
+	},
+	"next_comment_id": 81,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test",
+				"added": 1490968710
+			},
+			{
+				"comment_id": 17,
+				"body": "> [methane](#comment_9_1765rBagMqT5WbfJvixmJZi8tHyh6LHkvG): http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D can confirm if it work??\n\nOf course it does!",
+				"added": 1495713107
+			},
+			{
+				"comment_id": 54,
+				"body": "> [xeven](#comment_3_1KcnvBNXUCsL6NsKDPB9HnjzdJsaLDzGUW): <script>alert(\"test\");</script>\n\nSorry, that's impossible :)",
+				"added": 1507725401
+			},
+			{
+				"comment_id": 59,
+				"body": "> [wuzzap](#comment_2_1PcZwxWnxHJdWgdbsvZnivK8iGX9cdVvZg): my account has no password or private key? mhhh...\n\nWhy no? It has. Check out `users.json` file.",
+				"added": 1507966608
+			},
+			{
+				"comment_id": 61,
+				"body": "> [wuzzap](#comment_4_1PcZwxWnxHJdWgdbsvZnivK8iGX9cdVvZg): @ivanq this semms to be a list of all users with public keys. where i can find my private key?\n\nIf you own a site, there will also be a `privatekey` in that site's info. For each site, there is a unique pair of public and private keys (`auth_privatekey` as I remember). If you have ZeroID (and you have) you will also find a signature, a private key and a public key in the header of `users.json` (under `certs`).",
+				"added": 1508140144
+			},
+			{
+				"comment_id": 62,
+				"body": "> [sjsk20171018](#comment_3_16R9HXmcNRtk9MdNJCizqCQo4moZbE1hM8): help [...]\n\nThat's some user's problem who didn't use ZeroNet properly; don't worry.",
+				"added": 1508503802
+			}
+		],
+		"1_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": [
+			{
+				"comment_id": 2,
+				"body": "A lot of interesting features... Waited for this release for a long time.",
+				"added": 1492926272
+			}
+		],
+		"4_15XeFY67fYKCKxQPfeo246ELto2Gff1hAe": [
+			{
+				"comment_id": 3,
+				"body": "> [bot](#comment_195_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Haven't tried.. but prolly something like.. [...]\n\n1. Don't use sites when making zites\n2. ZeroNet has its own way to show different text for different languages (like ZeroHello - it is \"SITES\" and \"FILES\" for you but \"САЙТЫ\" and \"ФАЙЛЫ\" for me). The only problem is that I've forgotten that way. :D",
+				"added": 1493225224
+			},
+			{
+				"comment_id": 5,
+				"body": "> [bot](#comment_196_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): Or within Electron you have \"locales\" folder at the main app (exe) level.\n\nThe only problem is that ZeroNet doesn't support Electron. :D",
+				"added": 1493473120
+			}
+		],
+		"1_12PByNvF6X2aF9wf68iSLFD1JDBKKAGTvo": [
+			{
+				"comment_id": 4,
+				"body": "Files are cached by your browser, I suppose. You can just delete cache for http://127.0.0.1:43110 and your sites will show new data. If you have a dynamic site, you should probably load data with JavaScript.\n*For developers:* You can probably disable HTTP caching in developer console settings.",
+				"added": 1493290525
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 6,
+				"body": "Hey, @nofish, how do I generate `js/all.js`/`css/all.css`? I just cloned ZeroTalk from GitHub and now trying to fix a few bugs locally.\n\nThe problem is that in HTML I have:\n```html\n<script type=\"text/javascript\" src=\"js/all.js\">\n```\nWhen I sign or publish `content.json`, `content.json` changes, but `js/all.js` doesn't change at all.",
+				"added": 1494873325
+			},
+			{
+				"comment_id": 7,
+				"body": "> [nofish](#comment_917_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Install coffeescript compiler (included for windows) [...]\n\nI had a problem with installing CoffeeScript (`pip install coffeescript`).\n**Finally, I thought about `sudo npm install -g coffeescript` and that worked!**",
+				"added": 1494954108
+			},
+			{
+				"comment_id": 8,
+				"body": "> [haoge](#comment_7_18ufJhZ6Y684s59nVT2ve9e3HfZkpTqeV): ？？？\n\n? ? ?",
+				"added": 1495022600
+			},
+			{
+				"comment_id": 24,
+				"body": "@nofish, How can I add moderator permission to my site? Like, 1Asdf... can sign `data/users/.*`? Currently, only user and site admin can sign user content.",
+				"added": 1504105141
+			},
+			{
+				"comment_id": 25,
+				"body": "> [nofish](#comment_990_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Add the moderator's public address to \"signers\" value of the \".*\" rule in the file data/users/content.json: [...]\n\nThanks!",
+				"added": 1504111071
+			},
+			{
+				"comment_id": 26,
+				"body": "@nofish, ivanq again. Is there a way to set `permission_rules` to `false` by default? I mean, set moderators like this:\n\n    {\n     \"address\": \"1NZnnocGjxeA7fj4z4soLQqyNddn9ZznxV\",\n     \"files\": {},\n     \"ignore\": \".*\",\n     \"inner_path\": \"data/authors/content.json\",\n     \"modified\": 1497431873,\n     \"signs\": {\n      \"1NZnnocGjxeA7fj4z4soLQqyNddn9ZznxV\": \"G1jxiPy0wfYU5i+0M34JShBem9Bx7HH0i4+vNDlaXwtgQ6t+OgjeKhnhR+8gq73TWWSn47DAh+5ejrMykcb/V3Y=\"\n     },\n     \"user_contents\": {\n      \"cert_signers\": {\n       \"zeroid.bit\": [\"1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz\"]\n      },\n      \"permission_rules\": {\n       \".*\": false\n      },\n      \"permissions\": {\n       \"ivanq@zeroid.bit\": {\"max_size\": 100000}\n      }\n     }\n    }\n\nI know I can use `signers`, but it would be cool to set permissions with `zeroid.bit` account, not with public key.",
+				"added": 1504121763
+			},
+			{
+				"comment_id": 27,
+				"body": "@nofish? Up",
+				"added": 1504335611
+			},
+			{
+				"comment_id": 30,
+				"body": "@nofish, Is there a ZeroFrame method to get list of all optional files? And, can I pin a directory (recursively)?",
+				"added": 1504845980
+			},
+			{
+				"comment_id": 32,
+				"body": "> [nofish](#comment_997_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Right you can only list the downloaded files and you can only pin one file with one command\n\nOkay, and if I read `files_optional` from `content.json` will I get the correct list?",
+				"added": 1505151837
+			},
+			{
+				"comment_id": 53,
+				"body": "> [xeven](#comment_4_1KcnvBNXUCsL6NsKDPB9HnjzdJsaLDzGUW): is there any way to make dynamic websites that dont include php or javascript?\n\nUnfortunately, no. There are some sites like ZeroMedium (work in progress), ZeroBlog, ZeroTalk, etc. but they all rely on JavaScript. PHP and other server-side languages aren't supported at all.",
+				"added": 1507639550
+			},
+			{
+				"comment_id": 71,
+				"body": "@nofish, Is there a reason to split file to 6KB chunks in sendRawfile? I mean, is it a network problem or to save memory? I am implementing some very cool feature, so I would like to here that this is not related to memory. :)",
+				"added": 1508683092
+			},
+			{
+				"comment_id": 73,
+				"body": "> [nofish](#comment_1037_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It does not split files into 6k chunks. It sends files in 512/1MB packages (depends of file size) and it uses 64k read buffer to reduce memory usage.\n\nI mean streamFile, not getFile.",
+				"added": 1508734524
+			},
+			{
+				"comment_id": 74,
+				"body": "> [nofish](#comment_1038_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is no separate steamFile function anymore, the two functions were merged together. It depends on streaming argument if it using the streamFile or the getFile call\n\nI meant line 425 in Connection.py. Anyway, I just misspelled 6KB - I meant 64KB of course.\n\nAnd it's bad that 64k buffer is for reducing memory usage. Not the thing I wanted to hear.",
+				"added": 1508765168
+			},
+			{
+				"comment_id": 75,
+				"body": "> [nofish](#comment_1039_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Can you please explain why is it important for you?\n\nI am trying to implement private site support in ZeroNet.",
+				"added": 1508783793
+			},
+			{
+				"comment_id": 76,
+				"body": "> [nofish](#comment_1039_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Can you please explain why is it important for you?\n\nBTW, could you please look at https://github.com/HelloZeroNet/ZeroNet/issues/1158 ?",
+				"added": 1508784002
+			}
+		],
+		"4_1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": [
+			{
+				"comment_id": 9,
+				"body": "A *really* great idea! I spent so much time trying to understand what's *hubs*, *merged sites*, *ZeroFrame*, *SQLite DB* (didn't manage to make it work yet), etc... Lack of documentation is so bad...",
+				"added": 1495353109
+			}
+		],
+		"1_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": [
+			{
+				"comment_id": 10,
+				"body": "Thank's everybody.\n\nMade a list of hubs:\n```\nRusHub (12FimaEjAmux74HtTGzcRQA1PqKiWjCczT)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       stre10k\n\n--------------------------------------------------------------------------\n\nIPFS Hub (12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd)\nCert signers: zeroid.bit\nMax size:     50 KB\n\n--------------------------------------------------------------------------\n\nKaffieHub (12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv)\nThe size limit is raised, because she can't keep quiet!\nCert signers: kaffie.bit, zeroid.bit\nMax size:     10 MB\nPeers:        92\n\n--------------------------------------------------------------------------\n\nBitcoin (12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S)\nBitcoin Hub\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        46\n\n--------------------------------------------------------------------------\n\nPolskiHub (149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq)\nHub dla polskiej społeczności\nCert signers: zeroid.bit, zeropolska.bit\nMax size:     20 MB\nPeers:        49\n\n--------------------------------------------------------------------------\n\nHub Español (15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn)\nCert signers: kaffie.bit, zeroid.bit\nMax size:     10 MB\nPeers:        53\n\n--------------------------------------------------------------------------\n\nIcf20's Hub (185yXNL48LTZyKfNo6WgyKshtMgcV3mecL)\nCert signers: kaffie.bit, zeroid.bit\nMax size:     50 KB\nRunner:       Icf20\nPeers:        44\n\n--------------------------------------------------------------------------\n\nYellowHub (18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       19@zid (Please join this hub and say something if it works. Thanks.)\nPeers:        67\n\n--------------------------------------------------------------------------\n\nmyBotHub (19wUTwuNT6kXNTpfRuDrnmLF8cLkYok3DT)\nShare News\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        13\n\n--------------------------------------------------------------------------\n\n无限额度hub (1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m)\nCert signers: zeroid.bit\nMax size:     10 YB\nRunner:       yinyue\nPeers:        47\n\n--------------------------------------------------------------------------\n\ntorrents Hub (1AbRRDveQD5EFtmXxBqQfS1guUWXxytMJZ)\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        50\n\n--------------------------------------------------------------------------\n\nBlueHub (1BLueGvui1GdbtsjcKqCf4F67uKfritG49)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Nofish\nPeers:        120\n\n--------------------------------------------------------------------------\n\nZeroHub (1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz)\nThis hub is unlimited hub !\nCert signers: zeroid.bit\nMax size:     1 GB\nPeers:        65\n\n--------------------------------------------------------------------------\n\nTrue red hub (1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj)\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        45\n\n--------------------------------------------------------------------------\n\nYellowHub (1GnSLuqqmB8oRAJ4SK4hvzt6Jo1qAnEbXn)\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        44\n\n--------------------------------------------------------------------------\n\nGreenHub (1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Nofish\nPeers:        102\n\n--------------------------------------------------------------------------\n\nhi/ hub (1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM)\nSay hi and clone me\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        41\n\n--------------------------------------------------------------------------\n\nBot Hub (1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52)\nHome of the bots\nCert signers: zeroid.bit\nMax size:     50 KB\nPeers:        49\n\n--------------------------------------------------------------------------\n\nThe Great Dane Hub (1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY)\nThe size limit is raised to 25 MB per user.\nCert signers: zeroid.bit\nMax size:     102 KB\nRunner:       danskeren@zeroid.bit\nPeers:        55\n\n--------------------------------------------------------------------------\n\nChameleonHub (1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd)\n720Mb for you. Adapting itself for ZeroNet's actual needs.\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Plasmmer\nPeers:        5\n\n--------------------------------------------------------------------------\n\n1nfinity Hub (1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo)\nInfinity Net\nCert signers: zeroid.bit\nMax size:     1 MB\nPeers:        20\n\n--------------------------------------------------------------------------\n\nRedHub (1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Nofish\nPeers:        132\n\n--------------------------------------------------------------------------\n\nWhiteHub (1White24UrrwQrD86o6Vrc1apgZ1x1o51)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Nofish\nPeers:        170\n\n--------------------------------------------------------------------------\n\nOrangeHub (1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v)\nCert signers: zeroid.bit\nMax size:     50 KB\nRunner:       Nofish\nPeers:        122\n```",
+				"added": 1495371213
+			}
+		],
+		"1_1KpqLPN6PAWtrCw6TRm4Qk9TwPk27JyQ8K": [
+			{
+				"comment_id": 11,
+				"body": "Are you referring to *clearnet* as *World Wide Web*? Then, there are a lot of proxies. See http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:proxies.",
+				"added": 1495374290
+			}
+		],
+		"1_1GDrCopvRp8ykDwYqKEyCMABSmciRcRAvy": [
+			{
+				"comment_id": 12,
+				"body": "me!\nthis!",
+				"added": 1495539275
+			}
+		],
+		"4_1CGFvMJ7z69o9yfAFin8TgqQUGka3k6vb9": [
+			{
+				"comment_id": 13,
+				"body": "hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!",
+				"added": 1495543522
+			}
+		],
+		"1_1GehWrRbmUXEuKTX8aT9aSp2PXTBbB3iRm": [
+			{
+				"comment_id": 14,
+				"body": "*__UPD__ It looks like these commands don't work (???)*",
+				"added": 1495545674
+			}
+		],
+		"1_16J4P74LkfZ87zHug8ycEHmYdvp6wMdkXt": [
+			{
+				"comment_id": 15,
+				"body": "> [sirius17](#comment_4_1G6QESmeipZsukJX5WvDxxwSioaGnEDRk3): SlashDot: Could giant alien structures be dimming a star ?https://science.slashdot.org/story/17/05/23/011234/could-giant-alien-structures-be-dimming-a-far-away-star\n\nThat's too scientific for me.",
+				"added": 1495546644
+			}
+		],
+		"5_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": [
+			{
+				"comment_id": 16,
+				"body": "Interesting idea. Now there are a lot of Chinese who post in ZeroTalk instead of NewGFWTalk. Autosorting would probably help.",
+				"added": 1495713003
+			}
+		],
+		"1_1ArDm9BfJUTfrGQLDra6KKNYYqXWS7v2sp": [
+			{
+				"comment_id": 18,
+				"body": "http://127.0.0.1:43110/NewGFWTalk.bit !!!",
+				"added": 1495722931
+			}
+		],
+		"1_1GeF3xCLKvu92nMmgkT1NqUCyTwoFVbBGN": [
+			{
+				"comment_id": 19,
+				"body": "Open directory where you installed ZeroNet, then open `data` folder. If there is no such folder:\n1. Check if there is `data` in parent directory\n2. On MacOS, check `/Library/Application Support/ZeroNet/` and `/Users/[your name here]/Library/Application Support/ZeroNet/`.\n3. On Windows, check `C:\\Users\\[your name here]\\Appdata\\Roaming\\ZeroNet` and `C:\\Users\\[your name here]\\Appdata\\Local\\ZeroNet`.\n4. On Linux, I don't know.\n\nCopy `users.json` from that directory and paste it in the same directory on other computer.",
+				"added": 1497428151
+			}
+		],
+		"1_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 20,
+				"body": "- If someone finds hub's private key, they can change everything in this hub.\n- *You* can change *your* posts, comments, other data.\n- If someone steals ZeroMe's private key, they can change ZeroMe's design, but not data.\n- If someone steals ZeroMe user registry's private key, they can change everybody's metadata, but not posts and comments.\n\nIn fact, there is no point in hacking ZeroMe or one hub. ZeroMe can be taken down only if each hub is destroyed, because data is stored in multipal hubs.\n\nAnother way is destroying ZeroMe user registry. It has links to users' avatars, links to their hubs, usernames and users' descriptions. But most of this data can be restored from hubs.\n- Avatars can be restored by searching `*.png`, `*.jpg`, `*.gif`.\n- Links to hubs can be restored by searching all hubs.\n- Usernames cannot be restored, but we can take them from `cert_user_id` prorperties which are something like `ivanq@zeroid.bit`.\n- Descriptions cannot be restored too, but **who thinks about it when you have saved ZeroNet?**",
+				"added": 1500358383
+			},
+			{
+				"comment_id": 21,
+				"body": "> This is false. It's only true if the user has not given ZeroMe permission to edit their data. However, an attacker could edit the ZeroMe site to automatically change a user's posts when they visit it. Very unlikely, but still a possibility. However, with the ZeroMe key they do not have direct access to a user's post.\n\nThat's what I meant.\n\n> Attacking the user registry will not harm ZeroMe's functionality. The only thing that'd be impaired is the 'all users' list.\n\nHuh? ZeroMe will function normally, but new users will not be able to register.\n\n> Profile info is stored on the user's selected hub. And not on the user registry. The info on the user registry is only for the 'all users' feature.\n\nOk. But descriptions are saved on user registry, too.\n\n---\n\nAnyway, if ZeroMe code is changed to remove posts and you don't visit ZeroMe, nothing can happen. That's the difference between ZeroMe and Twitter.",
+				"added": 1500387369
+			}
+		],
+		"1_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 22,
+				"body": "ZeroNet uses blockchain only for addresses - NameCoin. You can make money there only by downloading NameCoin client.\n\nZeroNet also uses Bitcoin signing keys, but only for verifying data - so, mining is not possible here, too.\n\n---\n\nTo answer your second question:\n> what does the \"this is my site\" switch mean? can i turn it on for other users' sites? can i turn it off on my own?\n`This is my site` only opens a new menu, with `sign` and `publish` buttons, which allow you to give site's content to other people. But you still cannot sign other sites without their privatekey. And private key for *your* sites are held in `users.json` file.",
+				"added": 1503501963
+			}
+		],
+		"1_18sV4LF2Q372BLkTJN5Z24HeRexQQscx1E": [
+			{
+				"comment_id": 23,
+				"body": "When and where do you get this message? Post screenshot or something, please.",
+				"added": 1504074249
+			}
+		],
+		"3_1Q2yjutP8VevpmW5ZuKzNcDUQbUFn3gsVT": [
+			{
+				"comment_id": 28,
+				"body": "Simply create a new site and rename its folder.",
+				"added": 1504524589
+			}
+		],
+		"1_1Bk2heJQnpwHvQLSt5s4PZc9pdjH6MtqHE": [
+			{
+				"comment_id": 29,
+				"body": "Yes, we can. I even know how. But too much time will be needed to do this alone.",
+				"added": 1504716717
+			}
+		],
+		"1_1Nx9ZGUxSaVmY3dMK9yaxcwuD9KtrK38Ra": [
+			{
+				"comment_id": 31,
+				"body": "hi",
+				"added": 1505141723
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 33,
+				"body": "The main part of Reddit is subreddits, am I right? So, if we make subreddits as ZeroTalk clones and then make a main site (like reddit.bit) which has references to subreddits, will it work?",
+				"added": 1505900528
+			},
+			{
+				"comment_id": 35,
+				"body": "> [jayofthezero](#comment_7_16nArdxrSaNThNp83kL8E6NLL9WD98iUne): Makes more sense to create a merge site and each \"subreddit\" is a hub that people can choose to download and subscribe to. That way no one person has control over the content, but people don't have to worry about maintaining an up to date clone of the actual reddit clone itself if they don't want to. That also means people can freely make their own reddit clone if they want to but have it connect to the same posts, and hence, the same content and communities. [...]\n\nI am a ZeroNet developer as well, a contibutor, wrote some libraries, etc. My idea was just simplified. But then, why can't we use ZeroMe as Reddit?",
+				"added": 1506056954
+			}
+		],
+		"2_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": [
+			{
+				"comment_id": 34,
+				"body": "@pollux, [Git over Zeronet](/1xxooZ7s8iDz3u56i5mNQ1XGmwF8Zvnw9/)",
+				"added": 1506016866
+			},
+			{
+				"comment_id": 37,
+				"body": "> [skwerlman](#comment_39_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X): for the most part it isn't; but what it does do is let you say [...]\n\nSo it doesn't differ from my code (I mean by actions, not be readability, etc.). Thanks!",
+				"added": 1506085268
+			}
+		],
+		"1_1CZn3nsKZkKf7rfS5ykaEBtTRMnyKTLsZt": [
+			{
+				"comment_id": 36,
+				"body": "Hello, Hacker!",
+				"added": 1506057013
+			}
+		],
+		"3_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 38,
+				"body": "1. Its decentralization. Nobody can shutdown a site excluding the owner.\n2. Open-source. *a)* ZeroNet is open-source, *b)* all sites are open-source.\n3. Development environment. ZeroNet offers nice API and you can easily add some important features by sending a pull request.",
+				"added": 1506086743
+			},
+			{
+				"comment_id": 39,
+				"body": "> [xianc78](#comment_7_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ): Also people can obfuscate their JavaScript code so nobody can see it.\n\nWell, you cannot decode this code, but you *can* see it!",
+				"added": 1506343059
+			},
+			{
+				"comment_id": 40,
+				"body": "Moreover, some code can be misunderstood even if it was not obfiscated. :)",
+				"added": 1506343095
+			}
+		],
+		"1_1HPeTGyhmtZCMhiLkJJVu9sGcvhsnhQtKE": [],
+		"1_1C95bWEPdpFKgoZjPLxF9NKFVj8Fvw8u2z": [
+			{
+				"comment_id": 48,
+				"body": "In ~/Application Support/<don't remember what next, probably ZeroNet>",
+				"added": 1506617694
+			},
+			{
+				"comment_id": 50,
+				"body": "> [pineappl](#comment_1_1C95bWEPdpFKgoZjPLxF9NKFVj8Fvw8u2z): /Application Support/\n\nNot /Application Support/, ~/Application Support/. Usually /Users/pineappl/Application Support/",
+				"added": 1506625054
+			}
+		],
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 51,
+				"body": "Cool! Is it open-source? **UPD** https://github.com/krixano/ZeroMedium\n\nSome bugs, BTW. The header `Home, Popular, Staff Picks, Programming, ...` is wider then the screen, so in my case the word `Economy` is clipped, and there is no horizontal scrollbar (though arrows still work).",
+				"added": 1506944620
+			}
+		],
+		"1_1DRbtArgqHh6a4eJBk6TURfV54voUQfyJq": [
+			{
+				"comment_id": 52,
+				"body": "Hm?",
+				"added": 1506944771
+			}
+		],
+		"86_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 55,
+				"body": "How? ZeroUp is not a server, so all changes must be done in JavaScript. *Video editing in JavaScript - can you code it?*",
+				"added": 1507725602
+			},
+			{
+				"comment_id": 56,
+				"body": "> [kai0](#comment_277_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): are you the zeroup maker?\n\nNo, @nofish is. I am just a contributor.",
+				"added": 1507736092
+			},
+			{
+				"comment_id": 57,
+				"body": "> [kai0](#comment_281_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): and this background cost alot CPU time.\n\nWhat do you mean by \"background\"?",
+				"added": 1507749979
+			}
+		],
+		"9_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 58,
+				"body": "Unfortunately, that is not possible because of security problems. Otherwise, you could do automatical likes or votes. You could even stole wrapper key because iframe of `127.0.0.1:43110` can access iframe of `127.0.0.1:43110` and wrapper key is in html.",
+				"added": 1507897629
+			},
+			{
+				"comment_id": 60,
+				"body": "> [polar](#comment_43_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): Explain: I have a blog based on Hexo and I use Disqus as comment area. Now I want to migrate to ZeroNet, but Disqus is clearnet. I want to migrate as easy as possible. [...]\n\nYou have to. In fact, using Disqus which is ClearNet in site which is ZeroNet is not a good idea.",
+				"added": 1507966676
+			}
+		],
+		"3_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": [
+			{
+				"comment_id": 63,
+				"body": "Short link: [0sh.bit/?CodeR](/0sh.bit/?CodeR)",
+				"added": 1508656603
+			},
+			{
+				"comment_id": 66,
+				"body": "> [nofish](#comment_1036_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Looking great! http://127.0.0.1:43110/1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL/?1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj/0Some improvements: [...]\n\n1. Thanks for reply, fixed.\n2. Proxies don't work at all usually, at least bit.surf.\n3. Yeah, data/users/coder.db is just a bug.\n\nBTW, nice example!",
+				"added": 1508668638
+			},
+			{
+				"comment_id": 72,
+				"body": "> [krixano](#comment_97_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): https://fuckcf.cf usually works for me when I can't get bit.surf to work (which is very often).\nI use it often too, but *all* other proxies never work.\n\n> Kind of a weird name though.\n:)",
+				"added": 1508689470
+			},
+			{
+				"comment_id": 77,
+				"body": "> [binchan2](#comment_24_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h): @ivanq Thx for making such a useful site!I try to run a basic Vue.js example, but the library is not loaded, same with the small coffeescript example.\n\nThat's strange as everything works for me. I think that the problem is in libraries. CoffeeScript compiler, Vue and other libraries weren't downloaded by ZeroNet yet. (That's 8MB after all.) If you wait a bit more, everything should work.\n\n> BTW, Nofish's particletrain works for me, but only for Iridium (Chrome) and not for Icecat (Firefox).\n\nThat works for me, weird. Could you please open DevTools and check if it shows any warnings or errors?",
+				"added": 1508938380
+			},
+			{
+				"comment_id": 78,
+				"body": "> [binchan2](#comment_26_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h): I'm quite sure it's just that some functions are not supported in Icecat (based on Firefox ESR 52), my Torbrowser (based on Firefox ESR 45), I have also tried Iceweasel (based on Firefox 46) and it works well, for both Vue.js and Nofish's example.After I disable Noscript plugin, they work on Icecat and Torbrowser now, so the problem is from the plugin XD [...]\n\nThanks for trying!",
+				"added": 1508940062
+			}
+		],
+		"4_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": [
+			{
+				"comment_id": 67,
+				"body": "> [akito](#comment_261_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): It would probably take a longer time in total, but why not just do one first and the second one, too, once the first one is stable? Then you could choose each option, before making a new zite, depending on which one fits the zite owner most.\n\nUsing 1) would be a good idea if `content.json` and all other files wouldn't look like kdfolgiyqb34t98yvo9e4y53q even for author. That's because all content is encrypted on the file system.",
+				"added": 1508676603
+			},
+			{
+				"comment_id": 68,
+				"body": "> [akito](#comment_263_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Yes, I know. But you said, it is easy to implement. So why not start with this, so an option for private zites exists at all, so far. Then we can work on a better idea and implement that one in the future, once we are able to deal with its complexity.\n\nBTW, it's \"easy\" to implement only if you choose if site is private when creating it. Otherwise ZeroNet must encrypt and decrypt all files each time you press a checkbox, and peers will have to download all files again. Moreover, ZeroNet has no page called \"Create site\" where I could put a checkbox.",
+				"added": 1508676928
+			},
+			{
+				"comment_id": 69,
+				"body": "> [akito](#comment_263_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Yes, I know. But you said, it is easy to implement. So why not start with this, so an option for private zites exists at all, so far. Then we can work on a better idea and implement that one in the future, once we are able to deal with its complexity.\n\nAnother note. Only content will be encrypted, not file size or directory structure (though you will have to bruteforce to find them). Is it OK?",
+				"added": 1508677073
+			},
+			{
+				"comment_id": 70,
+				"body": "> [akito](#comment_264_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I understood it this way in the first place, yes. I think the most important part is, that the content is itself is encrypted. The meta-data isn't that important in this case, at least not for now.\n\nWell then. I'll try to implement this.",
+				"added": 1508679707
+			}
+		],
+		"1_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": [
+			{
+				"comment_id": 79,
+				"body": "> [semenarsonist](#comment_6_183gMpouB3uc5hjf6cuCc1oLz2neo8cCNs): I'm not sure if I see the point of your argument. Noone is preventing anyone from making a thread in a non-English language. In fact, pretty much half of the threads here are in Chinese so in a way this place already is a multilingual message board.\n\nHuh, did you notice that `Main` changed to `English` in the header? I mean, people use it as a multilanguage board when it isn't. I think we should separate English board from Main board and make another site for this and (the most important thing!) don't show English board in ZeroHello: the reason people use Chinese, Polish, Spanish, etc. on ZeroTalk is that it is easy to start using: just click on a big button `ZeroTalk` in ZeroHello.",
+				"added": 1508959972
+			}
+		],
+		"1509072726_16GWX71BEAotmJWQSdGQqPUiiW3UjYGXTE": [
+			{
+				"comment_id": 80,
+				"body": "Me too, please :)",
+				"added": 1509079930
+			}
+		]
+	},
+	"comment_vote": {
+		"41_1EqerKajfi14bzTkqwSfqVrxKmQW1w6Nzk": 1,
+		"279_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"4_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"917_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"9_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"324_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"101_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"1_19QPCwraXEKFWsgWGCh7hgb3ActpZrmd3W": 1,
+		"1_1G1rxLmkA3aWSFCxKLiq7VPk1N6Jc4H5wU": 1,
+		"11_13Zs1NLz7LS9NsWtaQLwBmUZEXfz1i3agg": 1,
+		"2_1Gu13rN1pkfocLRtoHdTyChZTq1yNHgwcB": 1,
+		"4_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1,
+		"62_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"100_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"7_1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": 1,
+		"65_17VwZEfWSUWb5RHkK9m1odnDdBfvjTL6Cp": 1,
+		"3_17m752ukTYDQFsVq55NLSPGsrsUYzmxnAt": 1,
+		"1_18Qsh8ixNQYx8fCLgLVxPGnQgRDwyNk9ZW": 1,
+		"397_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_18ts75nBNcXqWm6edB8pzn6Hr34JVUCrfx": 1,
+		"476_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1006_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1BXrm8Bwf3e4DPasJ5L3txhjqhmwhcVdtm": 1,
+		"44_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"45_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"1_1CJmGU8NdVWK72nHpsSic282WBs52JFV2Q": 1,
+		"29_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"16_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"121_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"213_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"29_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"44_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"2_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"222_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"244_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1_1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS": 1,
+		"8_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"5_15de5wZ71q8iQGhEmBkJnRKx37Defn5XoL": 1,
+		"1036_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_19j4HEkZ4ibE71PyzCvarBgznoXsePnUtT": 1,
+		"3_18pmyRozBzTRrTgHmmBuEaLtzi4nwfbYSe": 1,
+		"1_1Lq9weoZHo1X3jPp9aWsyLxk4EFQkui8uq": 1,
+		"15_12zCc2NbwzhGnp9uMuoCT6EEKrEGmBmGiL": 1,
+		"42_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"108_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"56_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"25_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"76_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"75_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"26_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"28_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"96_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"4_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"1042_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1FY1qvQpxeyDLy3Lnb6gZSCst9M7jG4bgP": 1,
+		"3_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"35_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"17_1DV1kbtG2Gqjp4WayjTjLmuf4gMF4zDvzc": 1,
+		"4_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"1_16Ld5cSuDN9k4XhxfSBukLXmoBGhgREmex": 1,
+		"1045_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1046_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"17_1G6QESmeipZsukJX5WvDxxwSioaGnEDRk3": 1,
+		"2_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1
+	}
+}

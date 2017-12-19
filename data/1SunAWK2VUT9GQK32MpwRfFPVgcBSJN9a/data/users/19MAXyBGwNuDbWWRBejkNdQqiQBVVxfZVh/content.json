@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gzoup40AB2PeWmqfO7sOdFS74gQFLjVK909bCu7qcRfiwISnAlpBN6Vw9dSyf1bRUSUw8FqtRLCNDTl2zL3xzgA=",
+ "cert_user_id": "hocu@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f3309deb8e8c080d5e802db65b649d0bceb40bcf6cede1211bf7eaf08d63a49d",
+   "size": 1181
+  },
+  "data.json": {
+   "sha512": "1c4d6c9de847a2fd0b6d5b23155f0f638c7c971ef0d7d2ac404b58cd115843b6",
+   "size": 403
+  }
+ },
+ "inner_path": "data/users/19MAXyBGwNuDbWWRBejkNdQqiQBVVxfZVh/content.json",
+ "modified": 1507917845,
+ "signs": {
+  "19MAXyBGwNuDbWWRBejkNdQqiQBVVxfZVh": "HKIJUiRIQXGhC3yO0HtyqB1t4fy52M2Bwsn8gBsNIsL9IYjPSRONGuCH90+1lyDMWJ2RH2+bX0CRxr8ViAueeKs="
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HFCOLwFfWr20SSn40WH/M6oXn/RTCEnKYnez88Cf9Ky48GewhyzkSxAty8YuRn1n9T6UMFI5+OAtDr+S+2o995c=",
+ "cert_user_id": "freedon@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "bc3893583262e9608ea33420d4ba207468e14a2b02ffc9b9865126dc531228ff",
+   "size": 1598
+  },
+  "data.json": {
+   "sha512": "a44bc2b0a2d15d54cbc5b72005447fc7fae79703863d3b644f9657e657bfd339",
+   "size": 4004
+  }
+ },
+ "inner_path": "data/users/1UzEPVqHeweVKJuV4ii9hV6ivvrHX1oim/content.json",
+ "modified": 1505033978,
+ "signs": {
+  "1UzEPVqHeweVKJuV4ii9hV6ivvrHX1oim": "G9TBw+Cfbp2i0FR6CAMZQdGj4DAEuFTHzK4CQoM4N4GrRnDNOGQUHsHJV+X5MuLyKoj0z15ssab5wrP+lZyJg2c="
+ }
+}

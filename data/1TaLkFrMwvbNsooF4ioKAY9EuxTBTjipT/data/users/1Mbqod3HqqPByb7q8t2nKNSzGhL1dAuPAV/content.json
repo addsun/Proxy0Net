@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2lUIaW0HT2XbPKINSDvVNaDpQ6PMfFhhf/lGA1fbIRnS32moEK9xifb5H3s1wHuwnN4PKT2OXKJ54kf8CV+iHE=",
+ "cert_user_id": "nihilist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f1b86381cb2a350bab119231fc70af4bcb371fbdd00b3de809001ed5991eb51d",
+   "size": 2772
+  }
+ },
+ "inner_path": "data/users/1Mbqod3HqqPByb7q8t2nKNSzGhL1dAuPAV/content.json",
+ "modified": 1504782519,
+ "signs": {
+  "1Mbqod3HqqPByb7q8t2nKNSzGhL1dAuPAV": "G2HBZZNkEZRtqyxQv1XvTBPXHAwR6hItLWAtnX8GbQqHOEQfzeE+qQBrzyrR0CcWuNe0mbwUtujTJeLrbYuC8Ng="
+ }
+}

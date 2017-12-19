@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HI5/fmv00w3uX6skf7Ls9S3cXyeV4tY6ol2mH8eYy6LuRg71ZKCadE0ukthdXsWVOCgd2oplALCS2Xp7V9JJST8=",
+ "cert_user_id": "zaraonet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9c08e12a79121574511a8272f182bf10a785dd9c2329a3d5e3862c620cb916c4",
+   "size": 1254
+  }
+ },
+ "files_optional": {
+  "1508601449.jpg": {
+   "sha512": "6f0872fd499f5e4cfeea7c98fc0919faf76c0d816e98d3daf3d4e060a3ce1537",
+   "size": 44854
+  }
+ },
+ "inner_path": "data/users/1L2fnDSg4AzEFzBYU4jD4Vn9nSf31ZbrGR/content.json",
+ "modified": 1513274579,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1L2fnDSg4AzEFzBYU4jD4Vn9nSf31ZbrGR": "HJTnZIi8/mSsDFiP/ST2LdlvVhyg86bfJbjFY1rj3+EZY+etVgRT3bD01g/5iuB3tq+ryUb3A/mtcil9cEOcc2g="
+ }
+}

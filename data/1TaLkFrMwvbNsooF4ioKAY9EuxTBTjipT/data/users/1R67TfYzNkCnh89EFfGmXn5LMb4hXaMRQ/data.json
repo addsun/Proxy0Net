@@ -1,0 +1,142 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "boot.zeronet.io: What is it?",
+			"body": "Today noticed this when starting Zeronet: Peer:boot.zeronet.io\nWhat is it for? Is it needed to work?\nIsn't it risk when zeronet connects there at startup or is connection secure over TOR if set \"TOR=always\"?",
+			"added": 1493312510
+		},
+		{
+			"topic_id": 1511531379,
+			"title": "Testing Embed Video File",
+			"body": "127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic10\n\n\nAnybody see the video embed?\n\n\nEdit: And a BIG FILE:\nhttp://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic12",
+			"added": 1511531377
+		},
+		{
+			"topic_id": 1511798060,
+			"title": "IFS2.0 with BFS (needs testing)",
+			"body": "IFS Intergalactic File Server has a revised interface and integrated BFS (Big File Support) via its clusters:\nYou can help test it here and give feedback:\nhttp://127.0.0.1:43110/12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er",
+			"added": 1511798057
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 19,
+	"comment": {
+		"1_1Mr36Z4TSbWQ236NfvRPeLn3qsAwngBzMd": [
+			{
+				"comment_id": 1,
+				"body": "prototype reddit like site for possible discussions:\n127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb\nit is similar to reddit, but decentralized and built up by people.\nIt is using moderation possibility for various reasons, but not total censorship possible (one could clone and unhide channels or add their own channels if one is too strict moderated).\nIt is pre-alpha, so some things not working 100%, also needs possible split into merger sites for huge growth, customizing channels, etc.\nsuggestions welcome.",
+				"added": 1486236934
+			}
+		],
+		"16_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 2,
+				"body": "we know about the cert issues, but on holiday this week (back on monday :)",
+				"added": 1490350776
+			}
+		],
+		"1_1MwJSNBC1savftEvXQyoHcVLDgThtAPr6T": [
+			{
+				"comment_id": 3,
+				"body": "> (#comment_281_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): App Centre http://127.0.0.1:43110/1LANDERvVWbShpNWpsrbBvfqSK1PabXtwv/ has no apps\n\nYeah, what happened to all the entries before?",
+				"added": 1493539438
+			},
+			{
+				"comment_id": 4,
+				"body": "> [bot](#comment_202_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): The entries are back. It helps to get good feedback, instead of the \"boo-hoo i'm leaving\" type. ThxOur zite list is a problem i'm working on. I'm trying to update to 0.5.4. It works locally, but shows blank elsewhere.\n\nGreat to hear!",
+				"added": 1493553975
+			}
+		],
+		"1_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3": [
+			{
+				"comment_id": 5,
+				"body": "> [skwerlman](#comment_15_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X): Why not use IPFS? It'd reduce a lot of the duplication of effort...\n\nbecause it needs well integration:\n2x different systems setup + Making sure one system like IPFS doesnt sabotage the other ZN, e.g. one goes through anonymizer and the other dont, etc.\nOtherwise its like saying \"why not add flash or activex to normal html website?\": because its not useful.",
+				"added": 1497273859
+			}
+		],
+		"3_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 6,
+				"body": "> [zerolee](#comment_4_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb): Zeronet will always be free to use, but users can have the option to earn cryptocurrency, also a payment option for premium services and tools.\n\n\"Always free to use\" and \"payment for premuim services and tools\" in one sentence, lol.",
+				"added": 1504885240
+			},
+			{
+				"comment_id": 7,
+				"body": "Thats exactly why ETH, etc. imo is crap. It just turbo-capitlizes things and thereby even more disfavors those who cant afford to keep up the rats race.",
+				"added": 1504885378
+			},
+			{
+				"comment_id": 8,
+				"body": "Just noting:\nThe main reason against any electron or chromium-based ideas related to zeronet is that both code bases are mainly from google. Read more about the concerns from tor-developers and why they favor firefox-only.",
+				"added": 1504993501
+			}
+		],
+		"1_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": [
+			{
+				"comment_id": 9,
+				"body": "\"Revive/redesign ZeroTube (the project died, and we need a beautiful YouTube alternative)\"\n\nTry IFS, e.g.: /12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er/index.html?route:item+id:5_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ_4+type:video",
+				"added": 1505238399
+			}
+		],
+		"23_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 10,
+				"body": "> [nofish](#comment_1015_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I'm currently documenting the changes, it will be out later today.\n\nPretty long days in Budapest? ;)",
+				"added": 1507028316
+			}
+		],
+		"1_16oLM9krHqR5Xkah6Q5XfkkQmBaRZKWQCP": [
+			{
+				"comment_id": 11,
+				"body": "hoho",
+				"added": 1507028364
+			}
+		],
+		"1511531379_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 12,
+				"body": "another one: \nhttp://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic11",
+				"added": 1511623329
+			},
+			{
+				"comment_id": 13,
+				"body": "> [zazing](#comment_5_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu): I think the 404 err comes up when the browser tries to play the video but nothing was downloaded yet, because zeronet is still searching for peers or downloading the 1st piece of it.\n\nSo after second try you could watch the full video?",
+				"added": 1511628506
+			},
+			{
+				"comment_id": 15,
+				"body": "added a BIG FILE EMbed:\nhttp://127.0.0.1:43110/1J1c7eML6uMwDU4uiKbKRxoqxGP6WMFMvb/index.html?view:topic+topic_id=1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQtopic12",
+				"added": 1511683296
+			},
+			{
+				"comment_id": 17,
+				"body": "Its embedded from ZN directly, not proxy or Clearnet.\nIts done via shared content on clusters of the same type: CDN.\nSo lije imgr or youtube content inside reddit, we can built ZN-only cross-zites.",
+				"added": 1511859276
+			}
+		],
+		"1511662798_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 14,
+				"body": "> [ghostofthepast](#comment_1_1LtFqzCrfXwPYCHH6HJUs8Pv9Zit67iKYw): Ive been depressed and jobless for years. I cant feel anything but numbness. The world is so pointless to me. Its hard to even move around and stand. Im so weak i worry about my health. Suicide is something i think about hourly. Im different than other people. I wasn't meant for this world.\n\nYou're a part of this, we're all here for some reason, even if infinite small, that's the only thing that counts.\nAs the quote from the movie \"Brazil\": \"We're all in it together.\" YOU being here gives others hope!",
+				"added": 1511683139
+			}
+		],
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 16,
+				"body": "> [kurumi](#comment_1_13mGdnafb5589Tw76ADDnZ2fS9iLXSJerH): w.hat is it exactly?\n\na site similar to archive.org for storing any data and also viewing stored data in browser.",
+				"added": 1511800274
+			},
+			{
+				"comment_id": 18,
+				"body": "> [james007](#comment_122_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Very neat project! First I have  heard of it.\n\nThanks. IFS is one of the longer around zites, but just recently got useful due to BFS + a revamped UI.",
+				"added": 1512589721
+			}
+		]
+	},
+	"comment_vote": {
+		"32_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1
+	}
+}

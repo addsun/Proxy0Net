@@ -1,0 +1,28 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G56w6pWAHO5bA0O/2oCQESevgSsRlaxGnstzt8fo17Y6Iu4pxZBnZuyjV7o9Yr/Y3j78NCKVBbKZ4hPiFal17NM=",
+ "cert_user_id": "nofishes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "508cff4576d6644fcf54c5d55c96772ae35811d737737093010b97d91dcd8d09",
+   "size": 5406
+  }
+ },
+ "files_optional": {
+  "img/tuite.png": {
+   "sha512": "9b6bdc7efc08ce76bce3e2012087fa45a55943c46effa57b0239a4ccf14635b6",
+   "size": 361858
+  },
+  "img/wiki.jpg": {
+   "sha512": "5cd8b4ce479bf0d1fa3aa706f10b44594b7b122173a16c563a4f97eb88693e0c",
+   "size": 60283
+  }
+ },
+ "inner_path": "data/users/12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx/content.json",
+ "modified": 1500993500,
+ "optional": "img/.*",
+ "signs": {
+  "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": "HJLWoFwt9TrtAC/fn03gFDj9xAx07c6A3MnvvSp5VxgbJs1a5bPzEfTv0G2F/g8SzDNPuxtPd+x4Dtvh8NVBms4="
+ }
+}

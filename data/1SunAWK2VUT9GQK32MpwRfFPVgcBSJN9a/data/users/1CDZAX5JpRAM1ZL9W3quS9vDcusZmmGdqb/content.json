@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gxivh8uyGgJAjKForEIEGb2Z/ynSgASnHDJ8TJTdVpRAPGuNgHObwhWdrze9lmy12OO8LJiP4Vrqr5gpEVbIJ+c=",
+ "cert_user_id": "danimark@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e24191cd0e8be9156870e8e0538cb1baa4b4cb46a2a1aa3c70ece9daf35d0bf1",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/1CDZAX5JpRAM1ZL9W3quS9vDcusZmmGdqb/content.json",
+ "modified": 1502406649,
+ "signs": {
+  "1CDZAX5JpRAM1ZL9W3quS9vDcusZmmGdqb": "HOKrA3pkt5CSlrkT5fm9tBNKCybqhpsvr1FW9EfRD6ATchP/rvCIkqytclryhq7yklPm1HejcZtQlv/X5nnsOsQ="
+ }
+}

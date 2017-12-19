@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Taren",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1511313553,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1511313645,
+			"body": "This seems interesting, I'm about this decentralized network.",
+			"date_added": 1511313643
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7",
+			"user_name": "Zabu",
+			"date_added": 1511313653
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "177QoZ7YrRLdQKzZREe89h34T5FTY172FT",
+			"user_name": "Jeckimo",
+			"date_added": 1511466771
+		}
+	]
+}

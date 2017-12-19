@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G//BDZekhIUsjzurpuXAif02Nux9Algu3g2/eODo/sftphe4FwusVATXlZhM8Z6D7FfdHnQ8lAJclJO48JKhrRs=",
+ "cert_user_id": "stibium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4e8ecb73888d3be39e47f0c224dcfb8c549df08a1361b36ce41770a2e085fdc6",
+   "size": 1564
+  }
+ },
+ "inner_path": "data/users/1LsLEjo2ZZKr2ZHT49rYBrvmU48ULCW5GH/content.json",
+ "modified": 1508849246,
+ "signs": {
+  "1LsLEjo2ZZKr2ZHT49rYBrvmU48ULCW5GH": "HK5f3r5p42Dy/IJ8Rm/L6heTTnCeh+GtvdqwJ2sTLqjZF+gkr9Z2xpj7RdMKgIMbf6GvGjzudeJMVr1v23nUKGM="
+ }
+}

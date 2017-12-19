@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7N5Uo9qCqvkeFyBJDQhDeQY/QanJIj41Wa54GmYOvZpwqYMhiWiQY21AtuIDctmRDl4zAs2Pe0JSiQGfyz/rzo=",
+ "cert_user_id": "pollux@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a5fa4e6f9d47e1a91118423d1b64affb06673866cb4401894df1ac61c2d6da4c",
+   "size": 2497
+  }
+ },
+ "inner_path": "data/users/1EAVtUrWmi9Z1pEwXsPof1hrtBB8SKcZsm/content.json",
+ "modified": 1513583339,
+ "signs": {
+  "1EAVtUrWmi9Z1pEwXsPof1hrtBB8SKcZsm": "G3knDRHRaUJLDfHE71pBCJnOTAfk3lYwuazOr7IA1yB8DxsdnyRa6ibyfrfpP7GjvxgCcxQgxbzw8hPvDyvoHX4="
+ }
+}

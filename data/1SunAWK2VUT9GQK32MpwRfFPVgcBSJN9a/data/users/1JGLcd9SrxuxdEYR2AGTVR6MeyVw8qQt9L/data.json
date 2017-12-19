@@ -1,0 +1,194 @@
+{
+	"next_post_id": 11,
+	"next_comment_id": 14,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "Bluishcoder",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Author of the [Bluishcoder](https://bluishcoder.co.nz) clearnet blog [mirrored on ZeroNet](http://127.0.0.1:43110/1BLuish1ZbwVfPaCSDVQkg5WW58hqEoYQw)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507852621,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1507860787,
+			"body": "I wrote a [post about ZeroMe](https://bluishcoder.co.nz/2017/10/12/zerome-decentralized-microblogging-on-zeronet.html), hopefully [mirrored on ZeroNet here](http://127.0.0.1:43110/bluishcoder.bit/2017/10/12/zerome-decentralized-microblogging-on-zeronet.html) if things are working.",
+			"date_added": 1507860785
+		},
+		{
+			"post_id": 1507886561,
+			"body": "I wonder how DAT and Beaker compare to ZeroNet. They seem to be operating in the same area. This post is on Hacker News about building a p2p social network on it. https://louis.center/p2p-social-networking/",
+			"date_added": 1507886558
+		},
+		{
+			"post_id": 1507901696,
+			"body": "My blog post about ZeroMe made it to Hacker News https://news.ycombinator.com/item?id=15464156",
+			"date_added": 1507901692
+		},
+		{
+			"post_id": 1507934479,
+			"body": "My avatar is from Pitcairn Island, where my mothers side of my family is from. I visited in 2012 - a small island in the Pacific with about 50 people living on it.",
+			"date_added": 1507934474,
+			"meta": "{\"img\":\"900,675,69c48b37b26a1698ad9ce89a789346111665678765433876,00012233440001123334550011223366550011776566589AAA9BC8DEEEEE99B9BDDFFFDBBDDBDDBB\"}"
+		},
+		{
+			"post_id": 1507934647,
+			"body": "Pitcairn is a hilly island that juts out from the Pacific ocean. It's where the HMAV Bounty mutineers settled after mutinying against William Bligh in the 1790s, putting him in a longboat with those loyal to him. Bligh ended up navigating the longboat to Timor and from there got a ship back to England.",
+			"date_added": 1507934641,
+			"meta": "{\"img\":\"900,675,edceedecbcbbdcbba9a99778555788889667678899,011122011020023400003445665342777787799ABCCCBCC9ACC79C77ADA7BCCCCC777CBBBC7797BC\"}"
+		},
+		{
+			"post_id": 1507950093,
+			"body": "I wonder how well a Wikipedia mirror would work on ZeroNet. I did a \"Simple English\" mirror for Freenet and that was about 2Gb. Maybe all the pages would be optional files, or split into merge sites? Those that want it offline could then seed all the optional files, but those who just want to browse wouldn't need to.",
+			"date_added": 1507950086
+		},
+		{
+			"post_id": 1508121984,
+			"body": "Photo of a full moon I took with a camera last year. It's amazing what a point and click with zoom can capture.",
+			"date_added": 1508121976,
+			"meta": "{\"img\":\"721,700,000111222333555444,0001232100002444451002544454510554553552155555533313555555530333335552023333333101355555200002333100\"}"
+		},
+		{
+			"post_id": 1508122088,
+			"body": "This was a few days before full moon.",
+			"date_added": 1508122079,
+			"meta": "{\"img\":\"900,675,000111543986432a97885875764653332221321,00001100000002334000004553200000665621000037882100008389A000001779B0000001AC0000\"}"
+		},
+		{
+			"post_id": 1512219242,
+			"body": "I wrote a post on [cross compiling ATS programs](http://127.0.0.1:43110/bluishcoder.bit/2017/12/02/cross-compiling-ats-programs.html), showing generating Windows, Android and statically linked linux binaries from a Linux host.\n\nIt used to be quite a complicated process to do cross compilation with ATS but it has gotten a lot easier with ATS2.",
+			"date_added": 1512219232
+		}
+	],
+	"post_like": {
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507905837": 1507935524,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508022656": 1508043718,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508141650": 1508190122
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Ekaterina: Good points. I see from the Hacker News thread that Beaker doesn't support windows yet too. ZeroNet seems to be the furtherest along in terms of functionality and available sites.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507887060
+		},
+		{
+			"comment_id": 2,
+			"body": "If you are the user `thatzerodude` on Hacker News, your comments are showing as 'dead' and not visible to most users - unless they have a certain karma and have an option set in their settings. You might be shadowbanned. I noticed your dead comment replying in the thread on my post. I 'vouched' your comment so that it appears - I'm not sure what affect that has on future comments you make.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507901696",
+			"date_added": 1507903528
+		},
+		{
+			"comment_id": 3,
+			"body": "@Ekaterina: It's a mirror of my clearnet blog going back to 2002 so has a lot of data. It doesn't use ZeroNet features since it was a direct mirror that I did back in the early days of ZeroNet. I moved some of the screencasts to optional files and I've been thinking how best to make some of the other content optional - eg, maybe making only the main page and posts on the main page non-optional files.\n\nThe reason it probably didn't work for you is exactly the file size. Some seeders have never agreed to the file increase - maybe they are proxies or not operated by a human. As a result there's nodes out there serving old content. At least that's what I see when I sometimes try to get it on a new node - I get an old version where I had tried removing all the files to get it to seed.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507932489
+		},
+		{
+			"comment_id": 4,
+			"body": "@Ekaterina: All the post content is markdown (I use an old version of Jekyll) so I could write something that converted it to something more ZeroNet friendly instead of a direct mirror. It's one of those things on my ever increasing \"Want TODO list\". Ideally keeping it under the default size limit would stop the \"Size increase? No way\" reaction to those size prompts.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507933463
+		},
+		{
+			"comment_id": 5,
+			"body": "Where do pictures go when you post them? Are they stored on the hub?",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507934479",
+			"date_added": 1507934508
+		},
+		{
+			"comment_id": 6,
+			"body": "@Ekaterina: Neat, thanks!",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507934479",
+			"date_added": 1507934973
+		},
+		{
+			"comment_id": 7,
+			"body": "@Ekaterina: There's probably about 20MB of generated HTML. The rest is video files for screencasts, PDFs, etc. I can definitely reduce things. For making things optional I'm just adding them to the \"optional\" key in the `content.json`. To make my workflow easy I just copy the generated Jekyll HTML to ZeroNet, modify `content.json` if I want to \"ignore\" or make things optional then sign/publish.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507935189
+		},
+		{
+			"comment_id": 8,
+			"body": "@Bluishcoder: I forgot about the sidebar stats. There's 25MB of HTML. I've made more files optional and it's down to 30MB total now.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507936116
+		},
+		{
+			"comment_id": 9,
+			"body": "@Ekaterina: I've signed and published it - and I've tested other nodes that successfully got it. But it's random whether your node requests from a node containing an old version where all the files were removed and they haven't approved the size change so they never get an update. I found a few \"Update site\" or \"Check files\" makes it eventually retrieve.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507938365
+		},
+		{
+			"comment_id": 10,
+			"body": "@Ekaterina: See [here for an issue](https://github.com/HelloZeroNet/ZeroNet/issues/598#issuecomment-259380688)  (internet link) that discusses what I think is the problem.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507938564
+		},
+		{
+			"comment_id": 11,
+			"body": "@Ekaterina: That had some workaround ideas I might try. Like using `content.json` includes so that the root `content.json` is under the limit so some content seeds for those nodes that don't agree to the site size change. I wonder if having sites that don't agree to the size change stop seeding would be a solution to outdated content being seeded.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507939775
+		},
+		{
+			"comment_id": 12,
+			"body": "@Binchan: The approach I took on Freenet was to unpack the zim file and adjust the URLs in the HTML. Much the same could be done on ZeroNet. Hosting the zim itself and using JS to read it is an option like you say. I'm not sure there's much to be gained from a Wikipedia mirror on ZN though.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507950093",
+			"date_added": 1507980836
+		},
+		{
+			"comment_id": 13,
+			"body": "@Ekaterina: Great!",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1508039509
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1ASnkxvbHStfRQDRChK7Jp8CrvhvD3MbHF",
+			"user_name": "Xori",
+			"date_added": 1507932988
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD",
+			"user_name": "Ekaterina",
+			"date_added": 1507932999
+		},
+		{
+			"follow_id": 3,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1507980849
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1512218875
+		},
+		{
+			"follow_id": 5,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1512219321
+		},
+		{
+			"follow_id": 6,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1512219461
+		}
+	]
+}

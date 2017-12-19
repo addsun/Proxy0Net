@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HMtXFGYhEe+SfNo8GdwK/C6T5TvbSOESVBbzShx4g7FHXfwe9ArvplRjyMZGT0Uyp+IAEBcJCkE7xgYDKuK2OBg=",
+ "cert_user_id": "angelife@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "19df5c8c3996138769e8f2bdd4de2fe2ea0a47567d81aa16177ff86a5b270696",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1E15z69YoDyY5E7qr7XA4dAwJkkWB9VwQP/content.json",
+ "modified": 1505107606,
+ "signs": {
+  "1E15z69YoDyY5E7qr7XA4dAwJkkWB9VwQP": "G1gaE4I6gIZjxLykOBi/hqGHX/Bl9eDFORtu4+mfRoPIXWK6lHoDsfa/N2adJKQFVvGM4e3AP4znEKfNTrjJSr8="
+ }
+}

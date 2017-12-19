@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOBELcCZv1Gjo4mELx2j0kDWA8wIA7hWJh7+mfcTX1po4UZn28Q4apWEfv7OFAKsakfE0MbwTQc5SKCg6NbzyK4=",
+ "cert_user_id": "evangoode@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "73806ea961d4de3ecd3e18e946f280e1f794f350aaa6cd901869ffc23c10e6e4",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1GUHjXYJLumhu5J1VQ75TcLPf68MSGYuC8/content.json",
+ "modified": 1510282037,
+ "signs": {
+  "1GUHjXYJLumhu5J1VQ75TcLPf68MSGYuC8": "GxVP7APP76YbcHzZlUC2ZmKbZ49CQK12aNqYiOQiybnkAUG5hBhsaD+BTkt+lbk1QFSp2M1n5+nneSI8PIWRNaI="
+ }
+}

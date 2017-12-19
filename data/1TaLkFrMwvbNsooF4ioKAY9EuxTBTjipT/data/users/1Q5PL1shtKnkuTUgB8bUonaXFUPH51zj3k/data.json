@@ -1,0 +1,56 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zer0Talk Brazilian Portuguese - Português Brasileiro",
+			"body": "I've cloned Zer0Talk for PT-BR speakers: http://127.0.0.1/188nYzLKp9yabE9FG3oFd4U7NXnHECvWYn/\n\nPlease update your top links, ZeroTalk publishers =D\n\n---\n\nZer0Talk Hue BR - http://127.0.0.1/188nYzLKp9yabE9FG3oFd4U7NXnHECvWYn/",
+			"added": 1502808915
+		}
+	],
+	"topic_vote": {
+		"76_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"5_1Jk6iv2QXUgZo4Y4P5ZUKe7SrpMnGs5unL": [
+			{
+				"comment_id": 1,
+				"body": "Text version or I won't bother digging.",
+				"added": 1502802117
+			}
+		],
+		"1_1Q5PL1shtKnkuTUgB8bUonaXFUPH51zj3k": [
+			{
+				"comment_id": 2,
+				"body": "Also, feel free to add the pt-br language file for ZeroTalk source code: http://127.0.0.1:43110/188nYzLKp9yabE9FG3oFd4U7NXnHECvWYn/languages/pt-br.json\n\nI'd pull it, but github is not anonymous.",
+				"added": 1502811299
+			}
+		],
+		"1_1ECmsQzFruxQnUt8DWmC2SKz3xL39XgzSa": [
+			{
+				"comment_id": 3,
+				"body": "The real questions that is really interesting for everyone is:\n\nHow did you manage NOT to find anything of interest?",
+				"added": 1502938882
+			}
+		],
+		"2_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": [
+			{
+				"comment_id": 4,
+				"body": "The site is generated in an iframe. So it's really an effort involving:\nthe site creator, as is true for any and all website;\nthe zeronet development people, as it does matter how the zeronet software speaks to the web browser;\nthe screen reading software or similar accessibility tools where applicable, for example does it search for and read frames?",
+				"added": 1508159982
+			}
+		],
+		"2_1M7mNWkk2eJQqeWw5KexXWHo565mmnXCU9": [
+			{
+				"comment_id": 5,
+				"body": "No one will read that, repost in a [zeroblog](../Blog.ZeroNetwork.bit/)",
+				"added": 1508160374
+			}
+		]
+	},
+	"comment_vote": {
+		"22_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1,
+		"49_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1
+	}
+}

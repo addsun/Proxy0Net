@@ -1,0 +1,84 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 10,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Jayq",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503159753,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"195JPVPMW7foR7zr4tRi6zTssehDNMGqdi_1503870579": 1503886621
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hello dude",
+			"post_uri": "16KYPXuFGp5rZFrY4kdkUkKvTzQ2hxue1f_1",
+			"date_added": 1503159776
+		},
+		{
+			"comment_id": 2,
+			"body": "They are the most populated country after all.",
+			"post_uri": "145zD8daiDKRDbrKXhJJUHA1sduTPZU3Kh_1503167016",
+			"date_added": 1503188580
+		},
+		{
+			"comment_id": 3,
+			"body": "sup",
+			"post_uri": "1etGWR7Yspkt2MwtRH9xvRiEf5QtSdpDv_1503504162",
+			"date_added": 1503510502
+		},
+		{
+			"comment_id": 4,
+			"body": "@Citadell: Fire is fire regardless of the country.",
+			"post_uri": "18GX2r87ijKZZfTDyAD5ArfQQWHA9PgC1Q_1503400733",
+			"date_added": 1503510691
+		},
+		{
+			"comment_id": 5,
+			"body": "Your fault for using systemd.",
+			"post_uri": "1KMBUmz57LumMsDZfoZJkzZhXC6FVcZrik_1503389806",
+			"date_added": 1503510727
+		},
+		{
+			"comment_id": 6,
+			"body": "*From* 8chan? No, but I used to post there. Anyway, what do you think about its current state? Didn't a lot of users leave? What about the new site software that turned out to be a fiasco and the whole site ownership debacle?",
+			"post_uri": "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC_1503290294",
+			"date_added": 1503510934
+		},
+		{
+			"comment_id": 7,
+			"body": "@Table: I checked out /tech/ and they seem to have a pretty nice board, with good quality posts and competent users (much better than 4chan's /g/ for example). What turned me off the site in the first place was the whole gamergate thing. I'm neutral in regards to this debacle, but I really couldn't give two shits about video games or anything pertaining to them. People spamming imageboards a few years ago, trying to recruit others for their shitty crusade was pretty annoying, visual pollution, along with \"cuck\" posters and that stupid reddit frog. How would you rate the current community on 8chan if you use it?",
+			"post_uri": "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC_1503290294",
+			"date_added": 1503885955
+		},
+		{
+			"comment_id": 8,
+			"body": "Honestly, I'm not convinced that Zeronet in particular is the future. There's IPFS too, and people could turn out to be interested in older platforms like I2P and Freenet. There's also GNUnet which is quite recent. Also, bear in mind that if any of these came to be a big player in the internet landscape then organisations with governmental and corporate backing could be interested in fucking with it. As far as Zeronet goes, on thing that I don't like is that everything requires javascript to run, and sometimes even links directly to clearnet ressources like ajax.googleapis. That makes it a not so good choice for the privacy and security counscious.",
+			"post_uri": "18KYaNfpgZdnDQDbEFDa8Gh8BatT5bnpYR_1503872694",
+			"date_added": 1503886607
+		},
+		{
+			"comment_id": 9,
+			"body": "Hello brother.",
+			"post_uri": "1JcNX3hFMK24MUarqF2JDpyBThhoSgW1fm_1504112575",
+			"date_added": 1504122956
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "145zD8daiDKRDbrKXhJJUHA1sduTPZU3Kh",
+			"user_name": "Table",
+			"date_added": 1503190002
+		}
+	]
+}

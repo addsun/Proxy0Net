@@ -1,0 +1,21 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G48AF8NnqhVy95Wcj2dVfXSwehKOA4jUltyyMjU9urPuTGqiIHmuo8QLrrTI5dTzkpghso7owmmU13Cha6zF5tA=",
+ "cert_user_id": "overflower@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8c1f3fce6c9474228287e034bd28062dee7f998e5560fb7179cf2bb0dbfec9ae",
+   "size": 1714
+  },
+  "data.json": {
+   "sha512": "23c6180f2c6d0a8b9df53b23394ab0a1353e87f939ad2bb40efc4871c29575e9",
+   "size": 2167
+  }
+ },
+ "inner_path": "data/users/19RGo62BQ1JCqU15TtcakvHjtRjEjSUbSE/content.json",
+ "modified": 1511237720,
+ "signs": {
+  "19RGo62BQ1JCqU15TtcakvHjtRjEjSUbSE": "G6JcOwO6Saf3M6GFTd2Vm7OD47I18FGRe1qLfGUGjHTLTIj8uangdWIHocyDc4220rW71nxdnxvy5Vm86l2mcSU="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G25VrvkVL+aIlWstrh+eruf73OctwhqWHPyGkj5ipXWkpp0BPIKmrEP1ovXqtNv7uYAsRqytykXlCRjEnEaJkLg=",
+ "cert_user_id": "addwater@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1d16e3f53d47a518a1de071fec7d958f98f1c57ad81158fbae30dcc493d2b64a",
+   "size": 486
+  }
+ },
+ "inner_path": "data/users/15j5oPS6r2aRKVTTkckxXkVDkFQvPUTUgE/content.json",
+ "modified": 1502193154,
+ "signs": {
+  "15j5oPS6r2aRKVTTkckxXkVDkFQvPUTUgE": "G83etaVr1MnlzhDJKpDmqYwh5hLWe8OfTNxfgrGeBu5wUhgzVh2NocZKgYEDSqNaBSHvKK5ah8jbjJWgyke9PIk="
+ }
+}

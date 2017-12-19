@@ -1,0 +1,41 @@
+{
+ "address": "1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd",
+ "address_index": 36784504,
+ "background-color": "#F2F4F6",
+ "clone_root": "",
+ "cloneable": true,
+ "cloned_from": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+ "description": "Only @cryptoid.bit accounts. 720Mb for you. Adapting itself for ZeroNet's actual needs. Runner: @Plasmmer.",
+ "files": {
+  "css/all.css": {
+   "sha512": "0fb82c55501cbae4ae4d952863f5b61930a16a2b629b44ed9a096978d23b6b4e",
+   "size": 39044
+  },
+  "data-default/users/content.json-default": {
+   "sha512": "eed3a6e23111371133ed42d9cd74d5790ee7fe20e6d6d211b5a4da43a6bce2c9",
+   "size": 782
+  },
+  "index.html": {
+   "sha512": "70d920ab406efac955babeb2b0869a67032f870f9795d7e48abcd19098bfd3ae",
+   "size": 882
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1500490780,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HOHvPtWaWDYkx7rRqQv8LziX5Kyyha75dRPhVLY2Ns/EaH+lZADOP0Z5IK2KfAS2REHeghOD0V31tBn4FXjwJbs=",
+ "signs": {
+  "1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd": "HFMNC/GXLHFuwZXwngagww2fRQWsK1ODTGZWrVr5MJH0WtG8c4VRGMhUb3OpX+PtzCKzuA9hb0YNBNgDJ7Tanpg="
+ },
+ "signs_required": 1,
+ "title": "ChameleonHub",
+ "zeronet_version": "0.5.6"
+}

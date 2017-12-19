@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwCFVGlIDRNtwFHNSvtLn1NAmr9mbavpHgA+TNMqk+vujEr9w8GtWC6Tn8LFUq6Ip+wvXrIGyrZe+g5u/MNJDOY=",
+ "cert_user_id": "pasithea@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "48c8fc5a7fecd6b697881f97d4b848e53ba1e9c9eac1558f4545deff887c4045",
+   "size": 1190
+  },
+  "data.json": {
+   "sha512": "fd35c1376283e46e7d3d81a36064e88e9ff72d4a1cb1b97444060adc81381170",
+   "size": 523
+  }
+ },
+ "inner_path": "data/users/1BinwPSRoa7dRgyanEGJWmdGDmgXgpXUFA/content.json",
+ "modified": 1502470034,
+ "signs": {
+  "1BinwPSRoa7dRgyanEGJWmdGDmgXgpXUFA": "HFP0fTZ3OXtJ/DZAF8+70yjxZanuMrX8pS3Y/AWInMigbWhC3ZVFjAGJ95n/vnFeAFwWfv4EWq9e/UggDl1m3mo="
+ }
+}

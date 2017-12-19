@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G44N5ic4dC62VKTUAnK9BdXya0XIhBdWA/RDjJY+MSWhwxDT29emUu6mjtMl1r/sz01Rx00wlvXvRiPbGQYUbaE=",
+ "cert_user_id": "deltron@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5b2afae0546ed6f26681ec45fbb9f6f6c69a3ef7f7097fe5056bf55d924bab41",
+   "size": 546
+  }
+ },
+ "inner_path": "data/users/1NYkrQ3xKYSmYo5LLvYSeeq92jrtG4icyx/content.json",
+ "modified": 1509786702,
+ "signs": {
+  "1NYkrQ3xKYSmYo5LLvYSeeq92jrtG4icyx": "HEGmf5U3UywycsKR12B2fc3yscNkSAbHTIFom55KI5I/dNpbn24VuLvTLkkG9Kh+XoLjIpkslMxBHyVhlV4/S/I="
+ }
+}

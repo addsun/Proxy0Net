@@ -1,0 +1,17 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G1CMUAHFAvREXdzOVRifrlpMFkKiRulD2GtW05Ph+KlrmwsaETf6cVRumwR4rNlAdH0tO7vhRywKL1khk9y5mcM=",
+ "cert_user_id": "makarov@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "39a4d3cb2b41447e3e9b05f79e85200a5afadfebda435306b4250c2e23f73425",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1NDTGRJhYRkn4rVukbPGWcRGr5HiHrPNqh/content.json",
+ "modified": 1500710410,
+ "signs": {
+  "1NDTGRJhYRkn4rVukbPGWcRGr5HiHrPNqh": "G3ZWgvgVNWEWDnFMpiIAC/YOJ4zO7nxdqxYVO2ShMR1IH/awDNtqNmBPsqlrAKbGyhCyWoRCCL8hdqros3c96RM="
+ }
+}

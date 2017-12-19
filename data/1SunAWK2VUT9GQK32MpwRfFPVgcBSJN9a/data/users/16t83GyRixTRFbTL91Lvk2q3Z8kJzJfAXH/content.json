@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5D4JsQi4f48SZ6BBssbBfd/fKerfNY1vFx9fVQoUW15GpqxlNQOIPnAtfb1IOIlDm/PUr84YRJGG8Rfz1LZwmk=",
+ "cert_user_id": "gyrix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c0a515f557c8109e8f3af226982a82b804a60de0d98b379e81fa05d4070e5f27",
+   "size": 9163
+  }
+ },
+ "files_optional": {
+  "1507922311.jpg": {
+   "sha512": "6f14087fd3d4d3eac4adfd4c9aea5df9cdcfa0dd2e5ff1d95b150046d89fb176",
+   "size": 95845
+  },
+  "1508353643.jpg": {
+   "sha512": "bf0e924b18c434c62462d8ab1929400377d547db86778808d5dad8133cb77bc2",
+   "size": 104205
+  }
+ },
+ "inner_path": "data/users/16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH/content.json",
+ "modified": 1508361974,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": "Gy0vATkKBETXYWPo00hV3DeH//5G2F+vjYZ+/UTi5N0PC3VYhYSTvLHTeHC7oyIlbSQ2KumzB5ujLyUFw2W94P4="
+ }
+}

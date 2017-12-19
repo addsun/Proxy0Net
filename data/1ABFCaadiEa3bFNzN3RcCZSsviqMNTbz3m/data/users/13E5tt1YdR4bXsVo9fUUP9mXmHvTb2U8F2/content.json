@@ -1,0 +1,40 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "H36uxX9C22TC2Okj243iMcWe4T/GgJdoiRcNgZPIQ8OpFIIzJvchM61thb2T9DO9uyAFdTvkUSRUAvxIq/V/+lc=",
+ "cert_user_id": "waterfire@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "12e158a32d2d86a182ff88085d0694418420cbba62df8d7449cda8b9bb1a1cc0",
+   "size": 19569
+  }
+ },
+ "files_optional": {
+  "1507913413.jpg": {
+   "sha512": "e55596347185fae7a7ed92f88cc02e85e18b8e866fdc42944f8ddd0797acf8ad",
+   "size": 92391
+  },
+  "1507913425.jpg": {
+   "sha512": "e55596347185fae7a7ed92f88cc02e85e18b8e866fdc42944f8ddd0797acf8ad",
+   "size": 92391
+  },
+  "1507945535.jpg": {
+   "sha512": "ba0c0cf067c515005d29b3e6c933312f847b51a56a1c0af83388321b0b00559c",
+   "size": 51703
+  },
+  "1507967211.jpg": {
+   "sha512": "d0d43020137a9ab16fd5991c967bedc52cf85205ffd14c422be514f452c8ee6d",
+   "size": 62207
+  },
+  "1508032950.jpg": {
+   "sha512": "a0fa92f5b62caa38bda7940f553f86d4fd9026beb7b9852596ce7a6ca5029471",
+   "size": 95198
+  }
+ },
+ "inner_path": "data/users/13E5tt1YdR4bXsVo9fUUP9mXmHvTb2U8F2/content.json",
+ "modified": 1508126363,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13E5tt1YdR4bXsVo9fUUP9mXmHvTb2U8F2": "G+usoiBtkvhbWwSlxUG+XXLccBUUgMmwiPy+S04DosFWZ/8tNlhE0wC0qENRUqSCyrLs91SMuPttoHyvaLzfyv4="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "HHCdHABaB6m6XOJGCbaxIaQEGf+ncFH597fQaZlGEhA9rbY69KgfyKIGQxo4dz/039e0m08SpHFKe3lyLEdQ5vg=",
+ "cert_user_id": "missingtwins@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0ef5a06bbd72ec5c566bb02ab65d1b6a6b926e7a6ab93dc69afa7ce91aa37403",
+   "size": 1645
+  }
+ },
+ "inner_path": "data/users/18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1/content.json",
+ "modified": 1510022053,
+ "signs": {
+  "18h8BwVu9wYQirYQVqdMwYW2SkSUuEAJM1": "GwXEEKD8lmesrFUFsSj60rGr3wBpVcos0Wpwz7h2z7SAKMNqnyKpnZMlIqoSynygp+4aRG94uo8JCPkXX0yKZlA="
+ }
+}

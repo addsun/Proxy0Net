@@ -1,0 +1,21 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "How do I generate a vanity URL site? Is there a program I can hash a bunch of addresses with a regular expression to search for a cool sounding one?",
+				"added": 1507977041
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_1026_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yes: http://zeronet.readthedocs.io/en/latest/faq/#how-to-create-a-fancy-site-address\n\nI'm having trouble compiling it on Mac OS:\n\n~ ❯❯❯ cd /Users/tom/GitHub/vanitygen                                                                                                                                                               ✘ 1\n~/G/vanitygen ❯❯❯ make                                                                                                                                                                           master\ncc -ggdb -O3 -Wall   -c -o vanitygen.o vanitygen.c\nvanitygen.c:26:10: fatal error: 'openssl/sha.h' file not found\n#include <openssl/sha.h>\n         ^~~~~~~~~~~~~~~\n1 error generated.\nmake: *** [vanitygen.o] Error 1\n~/G/vanitygen ❯❯❯",
+				"added": 1507978465
+			}
+		]
+	},
+	"comment_vote": {}
+}

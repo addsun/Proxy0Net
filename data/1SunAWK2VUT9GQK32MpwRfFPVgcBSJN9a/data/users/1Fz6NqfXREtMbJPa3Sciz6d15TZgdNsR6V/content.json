@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HPvP41g0MoSzqL0ngGq0CVF0PqxiqHPHrKaMTjOMMFpUW1zLT+x2IRLu83ygzktGUwuPzzhQ57u02VT47O2C9AY=",
+ "cert_user_id": "sorcier@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "44b9d670b5a4994037242068e321851f839d84486b87c3b1dc728a34c98de6bc",
+   "size": 1566
+  },
+  "data.json": {
+   "sha512": "7f9f3505362105d91c5676c9dc09b5c5c9e88b2d933b83673ce86c0380032533",
+   "size": 350
+  }
+ },
+ "inner_path": "data/users/1Fz6NqfXREtMbJPa3Sciz6d15TZgdNsR6V/content.json",
+ "modified": 1505669257,
+ "signs": {
+  "1Fz6NqfXREtMbJPa3Sciz6d15TZgdNsR6V": "G2QwM/KyfVBo/49gSmUWaXSp4bQUilYPa3wONGQxAMBBVxS6tIB09olphBKr7c6AUwpyK0ULNupTWLbrzKfDHl8="
+ }
+}

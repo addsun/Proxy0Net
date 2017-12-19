@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Mikamiga",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475291338,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475291422,
+			"body": "is this ever going to get popular",
+			"date_added": 1475291420
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jike: I would like to see it take off. All my fake accounts keep getting zucc'd on kikebook",
+			"post_uri": "1JEFLay3C144NwZmrYaQer7f1vF3yo3qHB_1475291422",
+			"date_added": 1475349049
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JEFLay3C144NwZmrYaQer7f1vF3yo3qHB",
+			"user_name": "Mikamiga",
+			"date_added": 1475949423
+		}
+	]
+}

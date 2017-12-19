@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HP4r2ULcORWjYl8lLsNu1kZsyJYUKSbGj40ttgVqoUYgFXRq5IS3NT6OfXfHfGbpELvT5gWtQNJXPBWli6PhYok=",
+ "cert_user_id": "trump1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "69fe0160dda2ddc6e032afbc0c57ed538c86fa4a369c634a296a5c2ca89538b4",
+   "size": 256
+  }
+ },
+ "files_optional": {
+  "1479200073.jpg": {
+   "sha512": "fe7d803ae9117ae62f1dd2224f96ef081e8ef5284e076446874aa7a07ff4c94a",
+   "size": 30133
+  },
+  "1479200640.jpg": {
+   "sha512": "0a9a9a8e614895712a42433e651fdd1fda94555d5e5416efc9d0f80f5af3feb4",
+   "size": 61768
+  }
+ },
+ "inner_path": "data/users/1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa/content.json",
+ "modified": 1510992422,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1JSdw9LdWhBfVyjeDcYy9LX8piJi5dmAQa": "HOjv3NsFSqFBQ7k/DVYBKNFrqaVeMmyzNvcXcGtUcBUQPTygc50mJ42PdDLuXkw8sd7kuiE98UG7GzKdyA1+06U="
+ }
+}

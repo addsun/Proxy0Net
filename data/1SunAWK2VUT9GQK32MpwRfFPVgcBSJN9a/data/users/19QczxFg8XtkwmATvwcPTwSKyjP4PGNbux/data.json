@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Cronkc",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Grizzli! Rrrrr!",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506198024,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1506198299,
+			"body": "Как первый",
+			"date_added": 1506198297
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1BuwB8WTT7SfiTncivoMudckGtswexyP5E",
+			"user_name": "Wsmythe",
+			"date_added": 1506198529
+		}
+	]
+}

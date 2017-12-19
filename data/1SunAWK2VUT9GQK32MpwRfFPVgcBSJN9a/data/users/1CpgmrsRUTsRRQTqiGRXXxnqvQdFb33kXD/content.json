@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HFuT2KKCBqeOntZepgqCPd+dDBtn9CtDy6VEvSKvsIY1Y8uN5PKMnlDGVLCq/FsgAVEurVkbHs/GS+2FEP7rFgo=",
+ "cert_user_id": "geraltofrivia@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "091a3d3f782c03b17c44b8ac90e8c30b7569e40b8fbd6bc698a3bad12686e9e9",
+   "size": 1159
+  },
+  "data.json": {
+   "sha512": "306c565c02abc7203da3e52ae7ec86e81960d5c1fda03d981658dbeea69266c0",
+   "size": 526
+  }
+ },
+ "inner_path": "data/users/1CpgmrsRUTsRRQTqiGRXXxnqvQdFb33kXD/content.json",
+ "modified": 1505245391,
+ "signs": {
+  "1CpgmrsRUTsRRQTqiGRXXxnqvQdFb33kXD": "HPA0qvkmcY8lZtc1+XCrOwXEZow6Pu+adRJ4fHh+ldWYKSpJ1/HbF9A71z1K0w8czkSv84zkYWlD8xNuIHMOvko="
+ }
+}

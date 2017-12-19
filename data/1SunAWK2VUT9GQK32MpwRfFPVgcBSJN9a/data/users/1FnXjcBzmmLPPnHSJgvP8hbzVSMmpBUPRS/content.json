@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNXWuIBKFH8yLNatkCFDfuTV9rZI0BEokER5/WG7C+eTf6q/AlKSE13cDHYh7UGAujETF7gER/oJNQBQulYgoZU=",
+ "cert_user_id": "sodagreen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f4a9fab96d8fcfd2bb091b3689cb37f38319289096c53ea796a05e2864d5722e",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1FnXjcBzmmLPPnHSJgvP8hbzVSMmpBUPRS/content.json",
+ "modified": 1507797977,
+ "signs": {
+  "1FnXjcBzmmLPPnHSJgvP8hbzVSMmpBUPRS": "Gz7JBvBIYXSyyYymvmdaCZXoZPjIOUFVOLfsRAzg4q/FP5Sc8hH2uinLKUv8YKLjMWMemjiIHSqB6lP5MoANO5E="
+ }
+}

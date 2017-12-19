@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCE9Yb6eMmTkoKIK6jLU0rvW7aU3iArzZWd4VvcORgudmYYOXEwX3e5O3eCK5pMvzAhSrwPymAAZVHaKo0OacH8=",
+ "cert_user_id": "tentura@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f583405b3e6ea09cbc8ddd86ac4eb0c8ff366c5f019998b6fc8eff8c05088165",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/17EVLYnwUjSjJUWxFyLoe3FAnjYaDwiqQz/content.json",
+ "modified": 1508252990,
+ "signs": {
+  "17EVLYnwUjSjJUWxFyLoe3FAnjYaDwiqQz": "HGsWY5MABy1evanO355Pw6d54sMuZN7sAh1XdiNMGUWoFwc1nx8ZVklbOoi0i3aKHH3B9tZj9ZYTYPRSLjzdp20="
+ }
+}

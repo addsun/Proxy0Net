@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_14nJi66XbVW75K8dVLmXaQixVJ9vt5pcNF": [
+			{
+				"comment_id": 1,
+				"body": "AFAIK you can just copy the users.json file to the different devices",
+				"added": 1498413016
+			},
+			{
+				"comment_id": 2,
+				"body": "> [nloomans](#comment_2_14SJ33eohsiLG1kKYd4XuZFo8dq84D9Faq): This can be found in the data folder, so in my case it is stored in ZeroBundle/ZeroNet/data/users.json, just copy that to the other machine, preferably over a USB.\n\nForgot about that part",
+				"added": 1498420167
+			}
+		],
+		"1_1DSTC4b9sByPY7GMpZWxKwfQFq6zc8qtjy": [
+			{
+				"comment_id": 3,
+				"body": "From personal experience I can only recommend, whatever the circumstances might be, to hope for the best and prepare for the worst. If this is indeed serious, you can hit me up on ZeroMail. I'm always up for some bug-out planning.",
+				"added": 1498838918
+			}
+		],
+		"1_1BubE2W1XF4CRBxtBxFzf9oDE5mKK7gNsX": [
+			{
+				"comment_id": 4,
+				"body": "I managed to open it with iptables on a remote box.",
+				"added": 1502549568
+			}
+		]
+	},
+	"comment_vote": {}
+}

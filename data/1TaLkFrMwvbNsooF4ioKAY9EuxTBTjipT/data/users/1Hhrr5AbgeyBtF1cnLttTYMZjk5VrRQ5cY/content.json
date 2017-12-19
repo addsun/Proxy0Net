@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HO+I1ZcHU449DMS6S2FnCBavOixVIzYeQjq8vyzXg71JwA4GKDK/7iXVxEwIJ1b7q+P4/RAQj8Bco27DXrgi73A=",
+ "cert_user_id": "amsterdam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "52a9d98efddd6852fbc66f1f2fd529eb8a8fcca5a56d5501afbcd2b862c8a680",
+   "size": 2036
+  }
+ },
+ "inner_path": "data/users/1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY/content.json",
+ "modified": 1503361026,
+ "signs": {
+  "1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": "G60iH9Old+HlcbsaXHEh6RI/zekqnRrUIVu6EnuLwL7FBLkG4AX6W6RtGAGDIcDdiC3ibxShXDv1Y1HbcX9l7PY="
+ }
+}

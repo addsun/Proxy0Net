@@ -1,0 +1,69 @@
+{
+	"next_comment_id": 8,
+	"user_name": "Git Center",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"post_like": {
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1510765585": 1510771254,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1510763981": 1510771263,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503469895": 1511598541,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503276123": 1511598583,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1503214802": 1511598622,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1500968131": 1511598643,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1499428483": 1511598664,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1497460327": 1511598670,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1495610689": 1511598693,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1492535914": 1511598709,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1488218240": 1511598754,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1484667999": 1511598781,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1484158537": 1511598784,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1483794785": 1511598795,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1483609144": 1511598798,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1511868298": 1511878310,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1502226818": 1511883380,
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944": 1513516937
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Are you alive?",
+			"post_uri": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1510765585",
+			"date_added": 1512741275
+		},
+		{
+			"comment_id": 2,
+			"body": "You can use CORS request:\n\n```javascript\n// javascript\npage.cmd(\"corsPermission\", [\"1MyZeroUpClone\"]); // Displays `Add site 1MyZeroUpClone?`\n```\n\nThen you can access that site as `cors-1MyZeroUpClone/myvideo.mp4`.\n\n---\n\nThere is no other way. (except merged sites which is practically the same in this situation)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513516475
+		},
+		{
+			"comment_id": 3,
+			"body": "@Balancer73: Instead of `corsPermission`, you can use `permissionAdd`. Kinda hacky, though. @Nofish: What about not asking for cors permission if it already exists?\n\n```javascript\npage.cmd(\"wrapperPermissionAdd\", [\"Cors:1MyZeroUpClone\"]); // Displays `This site requests permission: Cors:1MyZeroUpClone. Grant?`\n```",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513524096
+		},
+		{
+			"comment_id": 4,
+			"body": "@Balancer73: Yep, `permissionAdd` is for admin sites. Let me think...",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513536588
+		},
+		{
+			"comment_id": 5,
+			"body": "@Balancer73: Obviously there is a way to check if permission was requested.\n\nExample:\n\n```javascript\nPage.cmd(\"siteInfo\", function(siteInfo) {\n\tif(siteInfo.settings.permissions.indexOf(\"Cors:1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\") > -1) {\n\t\t// Already added\n\t\treturn;\n\t}\n\n\tPage.cmd(\"corsPermission\", [\"1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\"], function() {\n\t\t// Added, maybe reload page\n\t});\n});\n```",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513536884
+		},
+		{
+			"comment_id": 6,
+			"body": "@Balancer73: Let me think a bit more :)",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513538405
+		},
+		{
+			"comment_id": 7,
+			"body": "@Balancer73: Hope it works now :)\n\n```javascript\nPage.cmd(\"siteInfo\", function(siteInfo) {\n\tif(siteInfo.settings.permissions.indexOf(\"Cors:1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\") == -1) {\n\t\t// Never added\n\t\tPage.cmd(\"corsPermission\", [\"1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\"], function() {\n\t\t\t// Added, maybe reload page\n\t\t});\n\t} else {\n\t\t// Check if site wasn't deleted\n\t\tPage.cmd(\"fileRules\", [\"cors-1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166/content.json\"], function(rules) { // fileRules always finishes fast even for deleted sites\n\t\t\tif(rules.current_size == 0) {\n\t\t\t\t// Site is CORS but was deleted\n\t\t\t\tPage.cmd(\"corsPermission\", [\"1J8rt5k5QPLmAtRw5QAGmgKxi4qC7Lk166\"], function() {\n\t\t\t\t\t// Added, maybe reload page\n\t\t\t\t});\n\t\t\t}\n\t\t});\n\t}\n});\n```",
+			"post_uri": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1513511944",
+			"date_added": 1513538966
+		}
+	]
+}

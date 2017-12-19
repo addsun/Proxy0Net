@@ -1,0 +1,74 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 8,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "卡哇伊",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "一库一库。",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507895663,
+			"body": "你好 ，I am anonymous."
+		},
+		{
+			"post_id": 1507895842,
+			"body": "你们能看到我的消息吗？看到的回一下，谢谢。",
+			"date_added": 1507895840
+		},
+		{
+			"post_id": 1508084306,
+			"body": "@Krixano: [ZeroDB.bit](/zerodb.bit)",
+			"date_added": 1508084303
+		}
+	],
+	"post_like": {
+		"1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1507893435": 1507897116
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Woodsfirezyj: 噢，知道了。是评论别的hub的人的贴你们看不到。发帖大家都可以看到。",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1507895842",
+			"date_added": 1507896521
+		},
+		{
+			"comment_id": 2,
+			"body": "@43110: 打开http://127.0.0.1:43110/0chan.bit 会自动创建一个匿名id，不像注册ZeroID需要服务器。分配好匿名id后，加入无限额度hub，就可以发帖了。但是评论别hub的贴，别人看不到。发帖人人可以看到。正好解决ZeroNet官网被封无法注册ZeroID的问题。",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1507893435",
+			"date_added": 1507896954
+		},
+		{
+			"comment_id": 3,
+			"body": "@Woodsfirezyj: 不是的，只能显示支持ZeroID的hub的消息，anonymousID的评论别人看不到",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1507895842",
+			"date_added": 1507897316
+		},
+		{
+			"comment_id": 4,
+			"body": "@RJZLkfoUeskWN: 错在哪里呢",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1507895842",
+			"date_added": 1507897391
+		},
+		{
+			"comment_id": 5,
+			"body": "@RJZLkfoUeskWN: 这样子。。",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1507895842",
+			"date_added": 1507897691
+		},
+		{
+			"comment_id": 6,
+			"body": "噗~~",
+			"post_uri": "1Eqm9gi3kis68ouAR3pcQL7FahLuNcaySz_1507898664",
+			"date_added": 1507900117
+		},
+		{
+			"comment_id": 7,
+			"body": "@Krixano: You need to add ZeroDB.bit to your site's content.json.",
+			"post_uri": "1BVb9fZTMVGV3bwg28HoYga146pDsrnKos_1508084306",
+			"date_added": 1508084586
+		}
+	],
+	"follow": []
+}

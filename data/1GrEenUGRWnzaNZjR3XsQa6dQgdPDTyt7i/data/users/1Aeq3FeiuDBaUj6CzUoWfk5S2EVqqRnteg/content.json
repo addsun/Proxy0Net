@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G6ZEKF97agVnjW0vni0gOOOBFZ2YeIzpof7nJolLPXYXIgBZe8H2vqilmsvSfta0/PI5f/OCXE/mQoyoIYaJ9CY=",
+ "cert_user_id": "wahaha2003@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "28a9636e37ce6484f8346dc2cc41c12d679da2022945d585aa11c8729ab91379",
+   "size": 2245
+  }
+ },
+ "files_optional": {
+  "1479650612.jpg": {
+   "sha512": "758c82eef27926c4c679849bf3700effdf1231fe75511cc941f98ded34988508",
+   "size": 79682
+  },
+  "1480515984.jpg": {
+   "sha512": "5804a904e17e84a8087c2b0b7237d08fbe72ab8a44743e4cd510a00b07233ae4",
+   "size": 66047
+  }
+ },
+ "inner_path": "data/users/1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg/content.json",
+ "modified": 1498833998,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1Aeq3FeiuDBaUj6CzUoWfk5S2EVqqRnteg": "G0PWpbCbQZ+oTlShcrRgD5aa/uEd0vcGvugQ1zpTIoCubwuKH62eUjcJwC3tQHr7IYe4JVInvrcpZ3RIAv8aLvA="
+ }
+}

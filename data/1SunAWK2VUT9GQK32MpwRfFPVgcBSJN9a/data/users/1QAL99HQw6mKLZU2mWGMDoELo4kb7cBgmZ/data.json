@@ -1,0 +1,260 @@
+{
+	"next_comment_id": 45,
+	"user_name": "Zefinity-Inf",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "一步登天也不怕扯着蛋，怕是要再等那么十几二十年才有那么一点点微弱的开窍可能性",
+			"post_uri": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U_1503154712",
+			"date_added": 1503154814
+		},
+		{
+			"comment_id": 2,
+			"body": "@Omaidb: 这效率可以的",
+			"post_uri": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U_1502370576",
+			"date_added": 1503154831
+		},
+		{
+			"comment_id": 3,
+			"body": "@Omaidb: 我不觉得那群老顽固会想着怎么开放网络，能回到江蛤蟆或者胡锦涛时代那种网络环境就差不多了",
+			"post_uri": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U_1503154712",
+			"date_added": 1503155168
+		},
+		{
+			"comment_id": 4,
+			"body": "昨天这个时候我跳去了无限hub",
+			"post_uri": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U_1503155176",
+			"date_added": 1503157049
+		},
+		{
+			"comment_id": 5,
+			"body": "@Omaidb: 就是限额大得不像话，和无限额没什么区别的一个0me的hub",
+			"post_uri": "1FNWXmY94yzHMaWnLMup3XZyuWkqnNP12U_1503155176",
+			"date_added": 1503159177
+		},
+		{
+			"comment_id": 6,
+			"body": "@大数据时代: 嫌洋葱头慢？可以稍微参考一下[这个](http://127.0.0.1:43110/TechNoob.bit/?Post:3)",
+			"post_uri": "1Pcwc9vPyEi1KsbGN5iZGCsHYFs9JtJfYK_1503157438",
+			"date_added": 1503162868
+		},
+		{
+			"comment_id": 7,
+			"body": "@Youaresb: 手动修改数据文件，手动签发，不是谁都学得来的",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508726999
+		},
+		{
+			"comment_id": 8,
+			"body": "@Youaresb: 不是网状对等网络吗，至少逻辑上是这样",
+			"post_uri": "18PFnQ5ELoK2uExaAWVEfiJsoF5Gnb5aYF_1508674917",
+			"date_added": 1508727125
+		},
+		{
+			"comment_id": 9,
+			"body": "@Youaresb: 你确定对小白说**指针**这种玩意很方便理解吗😓",
+			"post_uri": "18PFnQ5ELoK2uExaAWVEfiJsoF5Gnb5aYF_1508674917",
+			"date_added": 1508727707
+		},
+		{
+			"comment_id": 10,
+			"body": "@Youaresb: 懂是懂，就是折腾那些数组和时间戳很麻烦，而且又不知道添加一个玩意进去又要添加什么配套的玩意才不会出岔子",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508728388
+		},
+		{
+			"comment_id": 11,
+			"body": "@Youaresb: 既然你有经验，那讲起来也没多难，看一下自己所在的hub文件夹之下的`data/users/身份地址/data.json`，然后去别的hub下依葫芦画瓢就ok了",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508728846
+		},
+		{
+			"comment_id": 12,
+			"body": "@Youaresb: 你可以把每个`content.json`都理解成网站/子站，同一站点下各个`content.json`属于各个人，站点主要的content和管理data/users的content是由持有站点密钥的站长签发，而各个身份地址文件夹下的content由各个身份的私钥持有者自己签发。\n在零网，私钥是证明你是某些内容持有者的唯一方法",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508729608
+		},
+		{
+			"comment_id": 13,
+			"body": "@Youaresb: 进hub的页面，拉开右侧睾级菜单，打开下面**这是我的站点**，然后在签名文件那里指定`data/users/**身份地址**/content.json`，签名并发布就行了",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508729854
+		},
+		{
+			"comment_id": 14,
+			"body": "@Youaresb: 本质一致，都对后台下了签发的命令",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508730102
+		},
+		{
+			"comment_id": 15,
+			"body": "@Youaresb: 只有下载了你所在hub的用户才知道你的存在，换言之，hub/硬盘之间没有信息传递，而0me/explorer只是把你本地有的所有东西展示出来而已\n这就是这个帖子跑去Sunhub去提醒新人去下载hub的原因",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508730439
+		},
+		{
+			"comment_id": 16,
+			"body": "@Youaresb: 但是我这样的老家伙并不在sunhub里，在自己的地盘发帖，只下载了sunhub的新人是看不到的",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508730916
+		},
+		{
+			"comment_id": 17,
+			"body": "@Youaresb: 不属于任何hub的id首先需要选择自己加入哪个hub才可以发帖，加入哪个hub发帖就在哪个hub之下，同时加入多个hub会导致串hub而无法发帖",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731251
+		},
+		{
+			"comment_id": 18,
+			"body": "@Youaresb: 用户从来不会考虑这种问题，至少也要胶水工以上才会接触，所以开发者并没有显示睾级信息",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731304
+		},
+		{
+			"comment_id": 19,
+			"body": "@Youaresb: 措辞错误，是**下载**了10个hub，而**加入**的只有（也只能有）1个",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731396
+		},
+		{
+			"comment_id": 20,
+			"body": "@Youaresb: 我在你的个人页面找到了你的问好信息，你并不只是下载了sunhub，该好好检查你的记忆了",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731625
+		},
+		{
+			"comment_id": 21,
+			"body": "@Youaresb: 但是问好信息只在点击join按钮时自动生成并发出",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731827
+		},
+		{
+			"comment_id": 22,
+			"body": "@Youaresb: 既然都Join(加入)了那还有什么好讲的，活尸化严重啊",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508731980
+		},
+		{
+			"comment_id": 23,
+			"body": "接受，没听过的用词呢",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508732112
+		},
+		{
+			"comment_id": 24,
+			"body": "@Youaresb: 不存在的，同时加入多个hub会串hub的，要么就只能手改着跳过去",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508732464
+		},
+		{
+			"comment_id": 25,
+			"body": "@Youaresb: 你加入了sun hub，自己发出的帖子自然是在sunhub之下",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508663430",
+			"date_added": 1508732553
+		},
+		{
+			"comment_id": 27,
+			"body": "备份`data`文件夹下的`users.json`、`sites.json`以及`mutes.json`",
+			"post_uri": "1JmfzZ5EytcWggwQgSL1Ua3DGG93RSTFA4_1508750355",
+			"date_added": 1508750848
+		},
+		{
+			"comment_id": 28,
+			"body": "@Tyjd: 可以，但跨设备发布新消息前一定要等待同步完成，不然会互相覆盖导致信息丢失",
+			"post_uri": "1JmfzZ5EytcWggwQgSL1Ua3DGG93RSTFA4_1508750355",
+			"date_added": 1508751260
+		},
+		{
+			"comment_id": 29,
+			"body": "真实神学现场",
+			"post_uri": "16usFzGbDB8ja6EkzA8YygDLLAh7AgNXJm_1508805777",
+			"date_added": 1508816092
+		},
+		{
+			"comment_id": 30,
+			"body": "人气？去0talk瞧瞧吧，全是二五仔跳来跳去\n这么低门槛的人气还是小点好",
+			"post_uri": "1yhwokdxJ4my7e6q2k9pZ2srjqkvTtzot_1508899963",
+			"date_added": 1508899986
+		},
+		{
+			"comment_id": 31,
+			"body": "@Shouko: 目前支持自定义id的0me的hub只有kaffieid的kaffiehub和nobody的anonymoushub\n无限hub也支持kaffieid",
+			"post_uri": "1Afg1rf238znuYSE7Lbvd5bXdBh35iWGQX_1508923317",
+			"date_added": 1508928918
+		},
+		{
+			"comment_id": 32,
+			"body": "人类的本质就是复读机啊",
+			"post_uri": "15CYEh6wzHuaWYNG3FF9g8yFta8YVMDNJZ_1508987602",
+			"date_added": 1508987771
+		},
+		{
+			"comment_id": 33,
+			"body": "自己去个人页面点头像",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509018909
+		},
+		{
+			"comment_id": 34,
+			"body": "@Asen: 我怀疑你没[GetAllHub](/0hub.bit)\n虽然最近半小时的确没人发帖就是了",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509019234
+		},
+		{
+			"comment_id": 35,
+			"body": "@Asen: 聪明(๑＞ڡ＜)☆",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509019547
+		},
+		{
+			"comment_id": 36,
+			"body": "@Asen: 一个片顶一群站\n尤其是你在0网看片的话",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509020965
+		},
+		{
+			"comment_id": 37,
+			"body": "@Asen: 所有必选文件（小于10m，多了会问你放开限额）以及你**访问过的**可选文件",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509021231
+		},
+		{
+			"comment_id": 38,
+			"body": "@Asen: 主页的文件页里列出的文件特指**可选文件**",
+			"post_uri": "12hFnpXDeqQrZdTTLusVsEcZf6BhqwY9PG_1509018783",
+			"date_added": 1509021522
+		},
+		{
+			"comment_id": 39,
+			"body": "工程学上来说没错",
+			"post_uri": "13ZM2MN2sQBaUoPNfTWYsDiHMSvJnebj75_1509073050",
+			"date_added": 1509073147
+		},
+		{
+			"comment_id": 40,
+			"body": "@Fir: 必须复制的三json是你的身份证明，文件夹什么的想复制也可以，好处就是跳过了重新同步的过程",
+			"post_uri": "13ZM2MN2sQBaUoPNfTWYsDiHMSvJnebj75_1509073050",
+			"date_added": 1509073552
+		},
+		{
+			"comment_id": 41,
+			"body": "ring",
+			"post_uri": "1A9tRidVFfg7wqHQ6hosEz1ecJCYned9DK_1509123873",
+			"date_added": 1509125744
+		},
+		{
+			"comment_id": 43,
+			"body": "同一帐号在同一hub下的发言有限制",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509292841",
+			"date_added": 1509293509
+		},
+		{
+			"comment_id": 44,
+			"body": "@Binchan: Images created by it will work better with bootscript.sh and /root/init.sh from Complete Linux Installer.",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509292190",
+			"date_added": 1509324275
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G5M790g0YaTByLa4Xp/HlqjJPdNLxuUmQL5wHnMMzighBGgaOEXeSZfj3TljwuE7xJ8UIsxmErIDJs8YzDTPdX8=",
+ "cert_user_id": "militaryriotlab@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "6d3eec93f0b3060916a0e57c760d062565b0f744758619d04b392c7ff784c5b3",
+   "size": 2076
+  },
+  "data.json": {
+   "sha512": "e2ddd5efc95fbcf8c4e8de0b128ccd840cb957de4ccf46b35caf2b9dcd41f112",
+   "size": 50909
+  }
+ },
+ "files_optional": {
+  "1478617787.jpg": {
+   "sha512": "7df2b8d689f8363346eca28783a868c292911e3338bb156c64d2eb8be94e1011",
+   "size": 40894
+  },
+  "1478880410.jpg": {
+   "sha512": "1af74fbae97921ba8f02c0dfba593bd10a448d0983e5ee1b87b164ba7e2db547",
+   "size": 87348
+  }
+ },
+ "inner_path": "data/users/1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow/content.json",
+ "modified": 1485449858.768,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": "G4o4ploxjyhPz7eCqiJEit2044fvWMsdFchOWHPxgH0rZjAauqPZVlY3CQYuu3AgxXL1xpj1E2PbnNvUyntAjmQ="
+ }
+}

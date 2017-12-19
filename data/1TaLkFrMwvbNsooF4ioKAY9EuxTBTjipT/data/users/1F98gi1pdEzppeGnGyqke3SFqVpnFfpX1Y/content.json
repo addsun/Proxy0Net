@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G2uYo8uTCN8OIbIi8XB6WVqhmxN4HaRLBdApwoXlpTb6j3WO8HqSBQPs2ABM6WiXw+V8ExZWWjcJ+t18ig3VSjw=",
+ "cert_user_id": "callmepk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "be7a0efccc52b27d2064f57e4353f4c535cd9523e7ff84901fe3e2586c1dca04",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1F98gi1pdEzppeGnGyqke3SFqVpnFfpX1Y/content.json",
+ "modified": 1510723008,
+ "signs": {
+  "1F98gi1pdEzppeGnGyqke3SFqVpnFfpX1Y": "HCSlI4eitYYsTWnh8VgIozJTLm/sYTcMMqX3jd+4Eam/CVFMY5LEGDGTN+jwD3fRJAOkmMj8hSkHyyAs+JJDZ+E="
+ }
+}

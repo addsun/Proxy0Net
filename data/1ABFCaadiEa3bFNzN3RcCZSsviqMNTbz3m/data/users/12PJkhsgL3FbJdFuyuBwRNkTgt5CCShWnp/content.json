@@ -1,0 +1,21 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "G0GNvX+2Ol5TLcHI3ayOF/wNUDxlRHSv4xTW+zh0lN4L0MQopfGULMBcDUkQrV3tt/eYAIUIQxnb8uM1hagI2vI=",
+ "cert_user_id": "zeronewspaper@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ae40d175e351785af8b69b6d603ed0d4e0a5ce7fa1df9c4e6f18ddc9a56151cf",
+   "size": 1136
+  },
+  "data.json": {
+   "sha512": "539b35bba8cfa7bc1354f0c1b38c0af81038111bcc9530783800e24caec979b7",
+   "size": 7111
+  }
+ },
+ "inner_path": "data/users/12PJkhsgL3FbJdFuyuBwRNkTgt5CCShWnp/content.json",
+ "modified": 1511958005,
+ "signs": {
+  "12PJkhsgL3FbJdFuyuBwRNkTgt5CCShWnp": "G8MUCCx4Or10zoSYkakNA9g6dcjeVmGmIdpAep7do7eqUtC0V1X1cwVTCmfOPCLLvJ+Bn90bD0Sk3eMS7xgPQrw="
+ }
+}

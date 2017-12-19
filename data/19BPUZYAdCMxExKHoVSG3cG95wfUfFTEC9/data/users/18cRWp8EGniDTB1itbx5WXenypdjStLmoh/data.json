@@ -1,0 +1,236 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "I2P无法补种了？",
+			"body": "重装系统后，安装i2p，发现即使连接ss或蓝灯后仍然无法网络引导reseed,官方提供的reseed下载站提示nothng，不会是网站都挂了吧？",
+			"added": 1498722858,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 2,
+			"title": "有用v2ray翻墙的吗？效果和ss哪个好？",
+			"body": "rt",
+			"added": 1498916966,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 3,
+			"title": "目前零网上的镜像新闻站点是自动更新的吗？有没有自动更新的方法来提高站点的信息的时效性？",
+			"body": "",
+			"added": 1499078610,
+			"parent_topic_uri": "8_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 4,
+			"title": "GUNnet有谁用过？据说也是p2p抗审查工具...",
+			"body": "https://prism-break.org/zh-CN/categories/windows/#dns",
+			"added": 1499440569,
+			"parent_topic_uri": "19_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 5,
+			"title": "打算在vps上搭建一个i2p出口节点，以应对ss可能被封的情况，有没有实现的可能？",
+			"body": "i2p本身没有中央服务器，比TOR抗封锁能力强很多，首次补种后几乎很难被封锁。但问题是唯一的出口节点false.i2p经常下线。国外网友有自己搭建互联网出口节点的，但一般不会存在很长时间。我在vps上安装debian版i2p成功，但它默认不将自己设置为出口节点，有没有大神能帮忙提供开启方法，同时查询自己出口节点的对应暗网地址及端口？",
+			"added": 1502201698,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		},
+		{
+			"topic_id": 6,
+			"title": "beaker新的P2P浏览器有人尝试过吗？",
+			"body": "beakerbrowser.com",
+			"added": 1502956005,
+			"parent_topic_uri": "10_1NV87VmSkezRyz8NbFpdkYJsJUSfXx7LJa"
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 30,
+	"comment": {
+		"1_197rZZrY6sHsYEQ9U1bJEq51M6R4oyhRRS": [
+			{
+				"comment_id": 1,
+				"body": "I2P没法补种了，挂着VPN也不行，有解决方案吗？",
+				"added": 1498721113
+			}
+		],
+		"1_1PuPLTHnBvJ2SCjjxT3SUJ1oiTT4k76C4y": [
+			{
+				"comment_id": 2,
+				"body": "蓝灯能做tor的前置引导吗？感觉连不上啊",
+				"added": 1498721250
+			}
+		],
+		"1_1FJCJm9PPaL2Lcfv64fSCuXXBHQcE4JdGY": [
+			{
+				"comment_id": 3,
+				"body": "还有恋尸癖。。。",
+				"added": 1498725022
+			}
+		],
+		"1_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
+			{
+				"comment_id": 4,
+				"body": "感谢，已经补种成功了～",
+				"added": 1498882870
+			},
+			{
+				"comment_id": 17,
+				"body": "打开 vpn，然后运行start i2p(restartable).exe,程序自动补种。目前的问题是即使在vpn下，很多补种服务器也不是24小时提供补种的，建议多试几次，我是在半夜补种成功的。如果用蓝灯这种非全局模式的，记录代理端口（地127.0.0.1 端口1080）手动输入到i2p 控制台 网络引导页，选择启用http代理即可。或者让补种成功的用户直接把补种信息文件发给你，从网络引导页导入也行。但是现在i2p暗网内官方论坛挂了，自带的i2p dns 解析也有问题，所以大多数i2p暗网无法实现域名跳转，这时我们在i2p地址簿-主要里添加一个ddns跳转服务器（B32地址很长）就可以访问全部i2p网站了。主机名称no.i2p 目标：8jISadUQuR~kZ9YzZxfQwSQRdhY~gkTSgy4l33jKOAraoqSmb~IcoeN5xOXyhtX8gxKEb03-48zPZnso83TwcTFg66~Cu38a59fG0h~vy~WIY5x5CwfkoCFqYmo4OzdnTY-2TcQ2ZN44VA6Sx48UXjEsSdrvn0SfaeMAW5It-N6MAV23Qgc5NgRTVJ6YS74FnRZCy6uGU-RPz1HQQIH~byW-NHBmXAW2Bmv2Kq3bHVHY9tb4d8yfrhlnaf3bfhLeELUbtBnXhLd3Zs2kX6Afz7ofDkpmaygYO6XA8QNIVcM2ub6-jSdsly~EXBtRDzF0WSbT9v8rvpop5TxjwXAnTjbS09Qq8x2Bl8wfkkPz45beN0Je7wrxp0SBk5DHhhvVbbyFUS7bDn1~aTvE7Ujq8ael3myR56jb8NlYiXaiJYgwPXpXx5gSDf8rBaDIdJsSSHWv~DqOfJ1BkhADCEfGZ3QMFY7uWrXGuj0J3OYEvonV-deMoh6pYKtgcFiewJgjAAAA",
+				"added": 1499936665
+			},
+			{
+				"comment_id": 18,
+				"body": "另外如果墙外有自己的服务器可以在上面安装linux版i2p，开启一个服务隧道，记录服务地址，就可以利用本地i2p访问被墙网站了。可以把默认三次跳转改成2跳，速度可以提高到30-50KB/s，安全性与tor相仿且没有中央服务器更难被干掉。",
+				"added": 1499936903
+			},
+			{
+				"comment_id": 19,
+				"body": "i2p上集成的bt客户端也很给力，用它隐身下大片妥妥的～",
+				"added": 1499937013
+			},
+			{
+				"comment_id": 29,
+				"body": "> [wvvw](#comment_8_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3): i2p 看不了视频    听音频 还是够的有没有好的音频网站  推荐呀？\n\nhttp://tracker2.postman.i2p/ 上万个种子，点击复制磁力链图标，进主界面匿名BT添加种子，速度虽然慢但都能匿名下完",
+				"added": 1505906487
+			}
+		],
+		"2_18cRWp8EGniDTB1itbx5WXenypdjStLmoh": [
+			{
+				"comment_id": 5,
+				"body": "试过了，ping值比ss 降低50左右，速度稍快些～",
+				"added": 1499008803
+			},
+			{
+				"comment_id": 6,
+				"body": "http://www.jianshu.com/p/b59150fd8f47\n这个一键脚本挺好用的～",
+				"added": 1499008886
+			},
+			{
+				"comment_id": 28,
+				"body": "> [qaz104](#comment_4_1K5PHfqKtrHnLRboxwVhyqK6z6Rui8mTNf): 不会配置，这是最大的问题啊\n\nhttps://toutyrater.github.io\n不用配置，直接把官方的模板粘上去就行，ip地址改成自己的就行，用 bitvisessh，可以图形化修改vps 文件，连linux命令行不会用都可以的",
+				"added": 1502956665
+			}
+		],
+		"347_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 7,
+				"body": "bufferzone",
+				"added": 1499008930
+			}
+		],
+		"37_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": [
+			{
+				"comment_id": 8,
+				"body": "据说长城、彭博宽带是封杀bt、电驴协议的，零网能连上吗？",
+				"added": 1499078201
+			}
+		],
+		"7_1NmwA9EFPu94QaN7yMYpzu2iSg1dGAYV6n": [
+			{
+				"comment_id": 9,
+				"body": "把i2p整合进去也不错，因为i2p利用p2p技术隐藏ip由于tor，同时可以直接穿越GFW～",
+				"added": 1499078902
+			}
+		],
+		"3_12myEpeiECnxMF6FRWp9sW2DpUaMosSmTw": [
+			{
+				"comment_id": 10,
+				"body": "> [shion](#comment_86_1CnPgdHbuiXvD1M9xPU3UiXKmLwLLQKCVV): win7 x64 Freenet安装后都打不开\n\n装32位java能打开",
+				"added": 1499079372
+			},
+			{
+				"comment_id": 12,
+				"body": "freenet可以直接下片挺给力的～",
+				"added": 1499422040
+			},
+			{
+				"comment_id": 20,
+				"body": "> [haii](#comment_3_1LyPPjPEPYogLrWk4LKbFnugdzvd54givD): freenet不好用啊，我安装以后，一个几百K的网站都要下载几十分钟。谁有那个耐心哦\n\n可能你的网不好，我这可以连接到30多人，网页打开很快。我觉得freenet和tor比起来最好的特点就是网页、文件分散存储，基本不存在网站下线、打不开网页的情况。但问题是缺乏一个官方的网页蜘蛛或者搜索工具，当主要的导航页都停止更新后，普通用户很难访问到新上线的网站～0网特点是轻量级，打开迅速，但对大型视频、包含大量图片网站支持不好。另外网页发布不是很方便，建议开发一个傻瓜似的一键网页生成器，毕竟普通用户建站只要能发图片文字就好～",
+				"added": 1499937977
+			}
+		],
+		"1_1GoS2ssCChCqHnt5AFnTBSgsv8bkoPUYqe": [
+			{
+				"comment_id": 11,
+				"body": "paypal",
+				"added": 1499079873
+			}
+		],
+		"349_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 13,
+				"body": "双虚拟机技术",
+				"added": 1499422101
+			}
+		],
+		"1_1MPpXJRKyw953MXZntbWbZVqLcAY9597BG": [
+			{
+				"comment_id": 14,
+				"body": "也是醉了，我的电脑上i2p，freenet ，bitorrent 都能用upnp，就是zeronet端口显示关闭，能更换端口吗？",
+				"added": 1499423581
+			}
+		],
+		"1_1MRJa4HNPExsCDYz9siG421uu8QnwRkLwR": [
+			{
+				"comment_id": 15,
+				"body": "115",
+				"added": 1499437808
+			}
+		],
+		"5_1DE6m8gyMFnKeK8LUWwL67CYvVAiYS46G5": [
+			{
+				"comment_id": 16,
+				"body": "导航基本都没有专人维护更新啊...最好有自动的爬虫生成索引页面。。。。",
+				"added": 1499440258
+			}
+		],
+		"363_1DcMmKhgdfkR1GDA6zhWhoFRreaej4wLmW": [
+			{
+				"comment_id": 21,
+				"body": "> [ygw](#comment_9_1CyDAKDD4C3x14NQMmh5MxfKJZ5xxLF24g): 他要封零网就得物理断网，到时候就可以上街了。\n\n哪来的自信   /滑稽   你知道吗，很多地区彭博、长城宽带下迅雷，bt，电骡，gunet，perfectdark，gnutilla下载速度全是0。P2P的协议特征、流量特点都是可以被防火墙检测并屏蔽的。关键在于根据墙的特点不断进行更新，这就是一场猫鼠游戏，没有一劳永逸的解决方案～",
+				"added": 1499939183
+			}
+		],
+		"8_1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA": [
+			{
+				"comment_id": 22,
+				"body": "白名单是无解的～",
+				"added": 1500039275
+			}
+		],
+		"1_1DonHALGF9orFFoZ4cZiBHAx4Rgogojryx": [
+			{
+				"comment_id": 23,
+				"body": "有可能搞拨号器源头拦截哦～目前高校用的就是用一个特殊的拨号软件闪讯拨号才能联网，非常不稳定，但每隔1-2分钟就检测一次是否有异常联网情况，能够检测特定软件（wifi共享软件为主）有的话直接断网。虽然目前还只是出于商业利益没有阻止翻墙软件，但完全有这个能力。",
+				"added": 1500649057
+			},
+			{
+				"comment_id": 24,
+				"body": "只有安卓、windous、ios三个版本其他系统无法使用学校的电信网，拨号器绑定手机号",
+				"added": 1500649126
+			},
+			{
+				"comment_id": 25,
+				"body": "目前新疆的网络情况怎么样了？",
+				"added": 1500649162
+			},
+			{
+				"comment_id": 26,
+				"body": "现在闪讯还能破解，如果有一天开始识别虚拟机，双网卡，就玩完了～",
+				"added": 1500649399
+			}
+		],
+		"1_1J8KfBHzSdearMNoQo91UGQGShXU9AAnFz": [
+			{
+				"comment_id": 27,
+				"body": "撤军了～",
+				"added": 1500732310
+			}
+		]
+	},
+	"comment_vote": {
+		"103_17xeFZRG9nokuGNj8WZQU5V9ZdfUGr2gGT": 1,
+		"1_1HpNWpc8U1sSUyk8RyyL55P4iR8jkKyHwQ": 1
+	}
+}

@@ -1,0 +1,312 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1511855022,
+			"title": "white paper",
+			"body": "i just read the white paper of https://ipfs.io/. I usually skip them but this one was easy and fun to read.\n\nSome recommendations for other interesting and fun to read papers?",
+			"added": 1511855021
+		},
+		{
+			"topic_id": 1511866479,
+			"title": "torrent download and automatic IPFS pin",
+			"body": "i want to download a torrent by magnet link and automatically pin it in IPFS\n\nwhich linux terminal client is able to query for the torrent hash move the torrent to a subfolder with that hash?\n\npending torrents are located in:\ntorrent_download_folder/torrent\n\nwhen they are completed i want to move them to:\narchive/<torrent_hash>/torrent\n\nthen i will run the ipfs add -r archive/<torrent_hash>\n\nis there a torrent client which can run a script after completed download and query for the torrent_hash?",
+			"added": 1511866477
+		}
+	],
+	"topic_vote": {
+		"2_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": 1,
+		"13_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"14_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS": 1,
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"5_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": 1,
+		"1511976531_17PM7ttB2JhthGHU4gCrHs6UaGEwfn298": 1,
+		"1512266574_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1
+	},
+	"next_comment_id": 44,
+	"comment": {
+		"14_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [],
+		"2_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": [
+			{
+				"comment_id": 2,
+				"body": "same here but to add. my sim is free and has little Internet 100mb and free calls to family :) was a promotion.\n\nhow about your rent though?",
+				"added": 1507632669
+			}
+		],
+		"12_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 3,
+				"body": "Not Found\n\ncould you share the plain address?",
+				"added": 1508113240
+			}
+		],
+		"13_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 4,
+				"body": "Not Found\n\ncould you share the plain address?",
+				"added": 1508113289
+			},
+			{
+				"comment_id": 5,
+				"body": "thx",
+				"added": 1508114764
+			},
+			{
+				"comment_id": 8,
+				"body": "If you need help i will help you.",
+				"added": 1508293134
+			}
+		],
+		"10_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 6,
+				"body": "why should they? keep it simple, stupid. https://en.wikipedia.org/wiki/KISS_principle",
+				"added": 1508130987
+			},
+			{
+				"comment_id": 7,
+				"body": "why you need it?",
+				"added": 1508138781
+			}
+		],
+		"14_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 9,
+				"body": "it is cool, sad i figured how to use the databases already haha.",
+				"added": 1508307808
+			},
+			{
+				"comment_id": 11,
+				"body": "If i start a site from scratch sure. at the moment i just copy paste parts i need. takes only 15 seconds max.\n\nwill you add documentation of all fields on the fly?",
+				"added": 1508315963
+			}
+		],
+		"2_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": [
+			{
+				"comment_id": 10,
+				"body": "> [godfather1434](#comment_6_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6): @Kopyjane.. You are the master.. Just wanted this for my site.. :) Thats why was trying.. I will use both your site and mine to upload the video that way we get more seeders ..  I would like to work with you on this.. Anything that I can do.. How can I reach you..\n\nare you sure about this? as i can remember there were seeders only per site. that means your and copykatesss would not share seeders. anybody have hard facts on this one?",
+				"added": 1508307973
+			},
+			{
+				"comment_id": 14,
+				"body": "> [kaffie](#comment_526_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): This is wrong. KopyKate uses webtorrent, so the torrents themselves can be seeded by anyone; whether it's through a zeronet site, through a torrent app, a clearnet site, etc.\n\nthanks for clearing this up",
+				"added": 1508479928
+			}
+		],
+		"1_1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS": [
+			{
+				"comment_id": 12,
+				"body": "what do you use Zeronet for?\nwhat do you use Clearweb for?\n\nif those two are the same i will promote it.\n\nso far all people i told about it and were not nerds or devs did not stick around long.\n\nit is great concept and also great tech so far. i was hooked from the first second i loaded it up.\n\ni work on improving my experience on it so are others. the masses will follow when it is convenient.",
+				"added": 1508388995
+			}
+		],
+		"2_1M7mNWkk2eJQqeWw5KexXWHo565mmnXCU9": [
+			{
+				"comment_id": 13,
+				"body": "> [tactoken](#comment_5_1M7mNWkk2eJQqeWw5KexXWHo565mmnXCU9): I actually didn't know of either of those sites and will check them out.  [...]\n\ndon't worry about it it is fine :)",
+				"added": 1508479812
+			}
+		],
+		"5_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 15,
+				"body": "did you try a https://en.wikipedia.org/wiki/Symbolic_link?",
+				"added": 1508914592
+			},
+			{
+				"comment_id": 16,
+				"body": "> [realkittykate](#comment_39_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I've just looked that up, actually. I just feel it would be too much of a pain doing all that command line, especially when ZeroNet gets really, really big.\n\nyou are right. long term i wish we could offload big files :)\n\ni can seed 1,5TB on my second drive but only 30GB on my main drive.",
+				"added": 1508914986
+			}
+		],
+		"1_18PFnQ5ELoK2uExaAWVEfiJsoF5Gnb5aYF": [
+			{
+				"comment_id": 17,
+				"body": "funny (i did not open haha)",
+				"added": 1509009280
+			}
+		],
+		"1509336621_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 18,
+				"body": "in some countries there is no copyright or at least not enforced. in Thailand if you just torrent nobody cares.",
+				"added": 1509338040
+			}
+		],
+		"1509315919_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 19,
+				"body": "if i watch only ever 1/144 pixel will the image quality still be good?",
+				"added": 1509341217
+			}
+		],
+		"1511097948_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": [
+			{
+				"comment_id": 20,
+				"body": "i submitted a torrent file\n\nhttp://127.0.0.1:43110/1ShArE1dJFcHFgTEEAUMXksDZuRckzd3Y/torrent.html?id=a264ac35-e32b-491d-813e-190a2c09e8c4\n\nif you guys like it i will bring more\n\ni have one question: why is the file which i uploaded different from the file i downloaded?\ni checked the file with sha512sum",
+				"added": 1511178283
+			}
+		],
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 21,
+				"body": "i knew it, i still did it.",
+				"added": 1511185631
+			}
+		],
+		"1511514422_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": [
+			{
+				"comment_id": 22,
+				"body": "funny to see thai language here",
+				"added": 1511515866
+			}
+		],
+		"1_19RUZHcaNj247EGGxFXopJyaLwvcMPsYLZ": [
+			{
+				"comment_id": 23,
+				"body": "are you guys both german?",
+				"added": 1511651677
+			},
+			{
+				"comment_id": 27,
+				"body": "> [helium](#comment_91_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): ...WHERE TO STORE ALL THOSE PAPER BOOKS...\n\ni fully support you",
+				"added": 1511780620
+			}
+		],
+		"1511662798_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 24,
+				"body": "all people i know slip into downs. the difference is how frequent they get up. (i like to have a reason to be down, i love the high when i feel good again)\n\nit does not matter the circumstances usually.\n\nmy personal experience is find people who are not affected by the reasons you are down and you are not affected by theirs.",
+				"added": 1511665835
+			},
+			{
+				"comment_id": 25,
+				"body": "> [ghostofthepast](#comment_1_1LtFqzCrfXwPYCHH6HJUs8Pv9Zit67iKYw): jobless\n\nis jobless something negative for you?",
+				"added": 1511686179
+			},
+			{
+				"comment_id": 26,
+				"body": "> [ghostofthepast](#comment_2_1LtFqzCrfXwPYCHH6HJUs8Pv9Zit67iKYw): Theres no point of being alive without money. Life is expensive. You literally cant be alive without money. A long time ago you could. But not now.\n\nwhere do you live?",
+				"added": 1511696515
+			}
+		],
+		"1511847983_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 28,
+				"body": "there is ZeroNet for Android? something new to me.",
+				"added": 1511848710
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 29,
+				"body": "great work!\n\ni'd love to see subtitles",
+				"added": 1511857586
+			}
+		],
+		"1511866479_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": [
+			{
+				"comment_id": 30,
+				"body": "> [zeptobyte](#comment_5_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf): I think transmission is able to run a script on completion. I have never tried it thought\n\nyes it can but i cant find documentation on that feature\n\n> [skwerlman](#comment_54_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X): aria2c (a cli torrent client) is pretty good for using as part of a script\n\nis there a binary for linux? EDIT: yes there is found it",
+				"added": 1511875410
+			},
+			{
+				"comment_id": 32,
+				"body": "finally i put a working script together  by using http://www.rasterbar.com/products/libtorrent/python_binding.html",
+				"added": 1511907199
+			},
+			{
+				"comment_id": 36,
+				"body": "> [james007](#comment_120_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Sharing is caring. You should put it up on Git Center. 👍\n\ni will try to do that",
+				"added": 1511978343
+			}
+		],
+		"1511892314_1KEYVUe9VwFbDCjZfkAt34SAHpz5Ds5WxQ": [
+			{
+				"comment_id": 31,
+				"body": "can you send me copy of your passport?",
+				"added": 1511902986
+			}
+		],
+		"1511946019_18q3WsqR7iwgwRTzsZcqDGf7zmVxCDEWHX": [
+			{
+				"comment_id": 33,
+				"body": "me too",
+				"added": 1511958598
+			}
+		],
+		"1_1CTSRUgBcYGvfN2Y1ttfcsMCZV5Y8DjVhb": [
+			{
+				"comment_id": 34,
+				"body": "cool",
+				"added": 1511974109
+			}
+		],
+		"1511976531_17PM7ttB2JhthGHU4gCrHs6UaGEwfn298": [
+			{
+				"comment_id": 37,
+				"body": "here check this out\n\nhttp://localhost:8080/ipfs/QmPvq7Z6s9EyvKAU11XNSi8SUGisszuCiH8JdtrEHEVtue\n\nhttp://localhost:8080/ipfs/QmZaLcNzMvPfki282KeqfjKwePrvq9s4krt1LUHPkxrSBp",
+				"added": 1511978464
+			}
+		],
+		"1512061974_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 38,
+				"body": "i cant read it they block me because i have ad blocker",
+				"added": 1512095907
+			}
+		],
+		"1512118056_1PRBkqdksMYuzirNkxseoXGHYpxHgdWJoc": [
+			{
+				"comment_id": 39,
+				"body": "i missed the dip...",
+				"added": 1512138749
+			}
+		],
+		"1512180872_1NyEgZtMnGchTioUjPQMKGGvi74XSuwcJs": [
+			{
+				"comment_id": 40,
+				"body": "haha",
+				"added": 1512181212
+			}
+		],
+		"1512266574_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 41,
+				"body": "cool",
+				"added": 1512269095
+			}
+		],
+		"1512454998_1F5HXAibuABEqe3XzbhQ7tq7J5m2JQHhHN": [
+			{
+				"comment_id": 42,
+				"body": "cool, do you have an idea what you want to do first? you can help me clone some useful services to ZeroNet.",
+				"added": 1512470284
+			}
+		],
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 43,
+				"body": "i will download and seed all the English ones. thank you for this great contribution.\n\nEDIT: thank you to pointing me to https://mithril.js.org looks nice",
+				"added": 1512999604
+			}
+		]
+	},
+	"comment_vote": {
+		"8_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": 1,
+		"2_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"3_1QKALTkDmKyTC5L7mZZu6R8ARLmrRfiAhL": 1,
+		"84_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1H2stvnD8p5DZHVZBikfX7ErTgKnw53D7c": 1,
+		"88_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"5_1M7mNWkk2eJQqeWw5KexXWHo565mmnXCU9": 1,
+		"526_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"103_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"39_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"5_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"54_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1
+	}
+}

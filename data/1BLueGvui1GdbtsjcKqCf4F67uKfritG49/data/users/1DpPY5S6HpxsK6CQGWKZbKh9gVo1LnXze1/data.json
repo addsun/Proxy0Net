@@ -1,0 +1,31 @@
+{
+	"next_post_id": 6,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Megool",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [],
+	"post_like": {
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1485201144": 1485245257,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1479944536": 1485860272
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1485495948
+		},
+		{
+			"follow_id": 2,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6",
+			"user_name": "Emeraude",
+			"date_added": 1485860508
+		}
+	]
+}

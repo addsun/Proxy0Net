@@ -1,0 +1,1132 @@
+{
+	"next_post_id": 42,
+	"next_comment_id": 130,
+	"next_follow_id": 21,
+	"avatar": "jpg",
+	"user_name": "MilitaryRiotLab",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Finding myself lost in daily life.\nNo longer active in ZeroNet. Sorry\n\nEnglish\n中文 Chinese\nLearning: Japanese\n\nFrom: Zombie land--Hong Kong\n\n18yo, \"University\" Student\n\nAdmin of\n[Zeronet proxy (onlyZero.net)](https://onlyzero.net)\n[Zerome RSS](https://onlyzero.net/ZeroMe_rss)\nContact:\nadam@onlyzero.net",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475689907,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1475690188,
+			"body": "Hello World! I am looking for a girlfriend",
+			"date_added": 1475690186
+		},
+		{
+			"post_id": 1475692694,
+			"body": "DO NOT use Virtware, terrible customer service and now they just block the wholde node for no reason.\nI bought Megavz, cheap vps for couple dollars a year\nSeveral months ago, Virtware bought the Megavz,nanovz's company.\nThen, VPS started to get sucks, disk I/O no more than 1MB/s, I can't even run \"apt-get update\" and network speed is terrible, I ran speedtest-cli multiple times, the results never higher than 5mbps, even lowendspirt vps with 2.xx kernel and 64MB ram is way better than it.\nThen, I opened a ticket to complain the unbeatable network and Ryan claims that speedtest is not a reliable network thoughtout test tool , I waited for half minute to connect SSH and can't even download update from repositories and you denied it ?\nThere is no SLA of uptime\nFor these months, the server downed for minutes to 6 hours every single day, every time I opened a ticket complains about the downtime,before I got reply, the system up agains in hours right after I submitted it , strange? doesn't it?\nNow, I abandoned the server for months and I tried to login today, the portal said the node is blocked?! What the hell?\n\nSince Virtware bought Megavz's company, they never create a homepage\n\nSo NEVER buy Virtware",
+			"date_added": 1475692691
+		},
+		{
+			"post_id": 1475723618,
+			"body": "It's a good idea to host a Zeronet proxy ?",
+			"date_added": 1475723614
+		},
+		{
+			"post_id": 1475748178,
+			"body": "Anyone tried ZeroMe+ ?\n\n有沒有人用過 ZeroMe+ ?",
+			"date_added": 1475748173
+		},
+		{
+			"post_id": 1475844491,
+			"body": "Zeronet is awesome, no shadowban, no tailored content, no ads, no 9gag/Facebook army, better privacy ...\n\nJust harmony and skilled user in Zeronet ( Not criticizing newbies )\n\nI feel acceptance in this (small?) community, something can't be found on other social network. Thank you, Zeronet",
+			"date_added": 1475844485
+		},
+		{
+			"post_id": 1476010594,
+			"body": "Hi, Zeronet. It's me (again)\nI have just set up a Japan-based proxy server, I need somebody help to test it, please\n\n---https://z.jp.akb48.work---\nor\n---https://z.jp.akb48.work:43110---\n\nTHIS IS ONLY A TEMPORARY ADDRESS\n\nfor the permanent address, I'll put it in the other post once the dns servers are updated.\n\nUPDATED: \npermanent addresses: \n\nhttps://onlyzero.net\nor\nhttps://onlyzero.net:43110",
+			"date_added": 1476010587
+		},
+		{
+			"post_id": 1476034499,
+			"body": "Buckle up ! \nHere comes the new ZeroProxy ,\nhttps://onlyzero.net\nor\nhttps://onlyzero.net:43110\n\nIf you encounter any problem, please leave comment below, thanks a lot",
+			"date_added": 1476034491
+		},
+		{
+			"post_id": 1476034657,
+			"body": "新ZeroNet代理\nhttps://onlyzero.net\n或\nhttps://onlyzero.net:43110\n如果你遇到任何問題或技術討論，請留言，特別是如果連不到，被牆的情況",
+			"date_added": 1476034648
+		},
+		{
+			"post_id": 1476106689,
+			"body": "#💀👻\nTesting if non-ASCII hashtags work #non-ASCII",
+			"date_added": 1476106679
+		},
+		{
+			"post_id": 1476276645,
+			"body": "Is there any way to find out who is following yourself?",
+			"date_added": 1476276634
+		},
+		{
+			"post_id": 1476279140,
+			"body": "Strange behavior about ZeroHello:\nwhen someone @me or reply my post on ZeroTalk, it doesn't show up on the homepage\nwhat is more strange is that\nI try both proxy and local client, the ZeroHello shows totally different versions/content\n\nIs that a bug or just normal ?",
+			"date_added": 1476279128
+		},
+		{
+			"post_id": 1476349603,
+			"body": "screw the calculus mid-term test",
+			"date_added": 1476349590
+		},
+		{
+			"post_id": 1476358853,
+			"body": "I am trying to create #RSS from ZeroMe (maybe ZeroTalk also)\nSo, I was studying ZeroMe.db, question is \n\nWhere does the `post_uri` in `comment` table come from ?\nand how it links to post ?\nIt seems that it came from somewhere then append `_timestamp`",
+			"date_added": 1476358839
+		},
+		{
+			"post_id": 1476461645,
+			"body": "CHECK CHECK\n\\#RSS of ZeroMe(plus) is finished. Now, it's now in alpha phrase.\nPlease report any problems / bugs\n\nhttps://onlyzero.net/ZeroMe_rss/\n\n[Github](https://github.com/MilitaryRiotLab/ZeroMe-RSS)\nP.S I am **NOT** professional, poor coding will be expected",
+			"date_added": 1476461630
+		},
+		{
+			"post_id": 1476461868,
+			"body": "我剛建立了 ZeroMe 做來源的 \\#RSS ，有空可試試\n\nhttps://onlyzero.net/ZeroMe_rss/\n\n[Github](https://github.com/MilitaryRiotLab/ZeroMe-RSS)\nP.S 業餘程序員，渣coding",
+			"date_added": 1476461852
+		},
+		{
+			"post_id": 1476577977,
+			"body": "Can anyone proofread my essay and outline ?\n",
+			"date_added": 1476577960
+		},
+		{
+			"post_id": 1476634076,
+			"body": "SO many port scan on my proxy server after I published it",
+			"date_added": 1476634058
+		},
+		{
+			"post_id": 1477050903,
+			"body": "If no one is able to intercept your communication, then there is no point to encrypt it ?",
+			"date_added": 1477050884
+		},
+		{
+			"post_id": 1477112434,
+			"body": "Decentralized hell / heaven, is this going too far?",
+			"date_added": 1477112414
+		},
+		{
+			"post_id": 1477147777,
+			"body": "Help needed regarding C++ Programming, please\n\nI have a huge string, format is fixed as 2 numbers and a English word, 3 charters consider as one unit\ne.g. `01A` or `99Z`\ne.g. the whole string can be `01A01A02D21S` and on\nI need to\n* select a specific unit from a given unit's number\n* remove the selected unit from the string",
+			"date_added": 1477147756
+		},
+		{
+			"post_id": 1477391375,
+			"body": "What is positive attitude actually?\n\nWhen I am ~16 and failed something, I try to undo my mistake.\ne.g. I don't have a girlfriend, I try very hard to know every girl in class to get one ( and failed )\n\nNow I am nearly 19, when things go south, I just do whatever I can to escape.\ne.g. I still don't have a gf, I am like `yeah, I don't give a shit` \n\nI used to feel depressed and now I learnt how to \"let go\", everyday I barely hold together.\n\nSo, it's it a bad attitude to escape? ",
+			"date_added": 1477391353
+		},
+		{
+			"post_id": 1477584227,
+			"body": "Can violence be justified?",
+			"date_added": 1477584204
+		},
+		{
+			"post_id": 1477810087,
+			"body": "Any decent torrent sites to replace kat.cr ?",
+			"date_added": 1477810063
+		},
+		{
+			"post_id": 1478330775,
+			"body": "# URGENT: STOP SPAMMING\nIt seems that whatever methods used to stop spammer have failed, \nwe need to\n* truncate too long content\n* filter out repeating word (maybe)\n* rate-limit (maybe)\n* global blacklist / reputation system (controversial, maybe well be abused) reference from [ZeroTalk](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:4_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH/We+need+a+reputation+system)\n",
+			"date_added": 1478330750
+		},
+		{
+			"post_id": 1478347958,
+			"body": "Question:\nIt it beneficial to create a news bot in ZeroMe(Plus), e.g. raw news feed from RT or NY Times or whatever ?",
+			"date_added": 1478347932
+		},
+		{
+			"post_id": 1478359005,
+			"body": "ZeroNet代理(onlyzero.net)問題\n剛買了洛杉磯的VPS，不知道天朝用戶的速度會否比日本的慢？",
+			"date_added": 1478358978
+		},
+		{
+			"post_id": 1478437665,
+			"body": "May I speak to the creator of Play[(1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp)](/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp)?\nPlease don't use RARBG as a source? According to PrivateHd.to\n> RARBG - They rename other groups' releases and add an unwanted popup at the beginning.\nEDIT: Seems the only source of Play is RARBG, too bad",
+			"date_added": 1478437636
+		},
+		{
+			"post_id": 1478495090,
+			"body": "My ZeroNet proxy has received a copyright infringement complaint letter, should I ignore it or take down a .bit address ?",
+			"date_added": 1478495059
+		},
+		{
+			"post_id": 1478617657,
+			"body": "ZeroMePlus doesn't support image uploading / viewing now\n",
+			"date_added": 1478617625
+		},
+		{
+			"post_id": 1478617787,
+			"body": "Testing with my idol\nEDIT: It seems that ZeroMe compresses my image, not a very good practice.\nOriginal picture: https://onlyzero.net/onlyzero/sayaka.png",
+			"date_added": 1478617754,
+			"meta": "{\"img\":\"900,506,34535623323422267855598865613646778989abab99a358,00100002133033444403205026620331100783933190577A00309BCDEFB0\"}"
+		},
+		{
+			"post_id": 1478688898,
+			"body": "On my proxy, tor cpu usage is 100%\nAny thoughts?",
+			"date_added": 1478688862
+		},
+		{
+			"post_id": 1478880410,
+			"body": "Testing Gif.\nSource: https://www.youtube.com/watch?v=ZbM6WbUw7Bs\n\nEDIT: Well, not moving\nOriginal Gif [self-hosted]: https://onlyzero.net/onlyzero/trump.gif\n",
+			"date_added": 1478880373,
+			"meta": "{\"img\":\"900,506,6466576797674467687374344475778888794776988a9597,01211311040105301100000647600011367401889AAB19A9CCDEFDA9FFFF\"}"
+		},
+		{
+			"post_id": 1479313244,
+			"body": "Rest in peace, Romeo and Juliet \nhttp://www.dailymail.co.uk/news/article-3939424/Did-Russian-police-KILL-15-year-olds-went-run-livestreamed-shootout-cops-Final-messages-Russian-teens-suggest-UNARMED-died.html",
+			"date_added": 1479313206
+		},
+		{
+			"post_id": 1481023118,
+			"body": "Help! My ZeroNet can't start up properly.\nAfter I install gevent, msgpack-python using pip, it threw this error\n`DatabaseError: database disk image is malformed`\nuser@onlyzero:~/ZeroBundle/ZeroNet$ ./zeronet.py  --ui_port 43120 --fileserver_port 15114 --size_limit 30 --connected_limit 30\n- Starting ZeroNet...\n[05:56:28] - OpenSSL loaded, version: 01000207F\n[05:56:28] - Version: 0.5.1 r1766, Python 2.7.6 (default, Oct 26 2016, 20:30:19)\n[GCC 4.8.4], Gevent: 1.1.2\n[05:56:28] - Creating FileServer....\n[05:56:28] - Creating UiServer....\n[05:56:28] Site:1GoaKY..Fku8 Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1GoaKY..Fku8 Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\n[05:56:28] Site:1HuYcP..BamP Content.json parse error: IntegrityError: UNIQUE constraint failed: content.content_id in ContentManager.py line 213 > ContentDbDict.py line 61 > ContentDbPlugin.py line 198 > ContentDb.py line 88 > Db.py line 83 > DbCursor.py line 80 > DbCursor.py line 49\nTraceback (most recent call last):\n  File \"./zeronet.py\", line 18, in main\n    main.start()\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 450, in start\n    actions.call(config.action, action_kwargs)\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 129, in call\n    func(**kwargs)\n  File \"/home/user/ZeroBundle/ZeroNet/src/main.py\", line 139, in main\n    ui_server = UiServer()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Ui/UiServer.py\", line 61, in __init__\n    self.sites = SiteManager.site_manager.list()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/SiteManager.py\", line 146, in list\n    self.load()\n  File \"plugins/Zeroname/SiteManagerPlugin.py\", line 20, in load\n    super(SiteManagerPlugin, self).load(*args, **kwargs)\n  File \"plugins/MergerSite/MergerSitePlugin.py\", line 325, in load\n    super(SiteManagerPlugin, self).load(*args, **kwags)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/SiteManager.py\", line 39, in load\n    self.sites[address] = Site(address, settings=settings)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Site/Site.py\", line 58, in __init__\n    self.content_manager.loadContents()  # Load content.json files\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentManager.py\", line 32, in loadContents\n    self.site.settings[\"size\"] = self.getTotalSize()\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentManager.py\", line 265, in getTotalSize\n    size = self.contents.db.getTotalSize(self.site, ignore)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Content/ContentDb.py\", line 110, in getTotalSize\n    res = self.execute(\"SELECT SUM(size) + SUM(size_files) AS size FROM content WHERE ?\", params)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Db/Db.py\", line 77, in execute\n    return self.cur.execute(query, params)\n  File \"/home/user/ZeroBundle/ZeroNet/src/Db/DbCursor.py\", line 49, in execute\n    res = self.cursor.execute(query, params)\nDatabaseError: database disk image is malformed",
+			"date_added": 1481023079
+		},
+		{
+			"post_id": 1485447883,
+			"body": "Well, my VPS providing Zeronet proxy is suspended due to bandwidth limit (1 TB/month I guess).\nZeronet is growing, which is great.",
+			"date_added": 1485447843
+		},
+		{
+			"post_id": 1485448033,
+			"body": "The VPS provider is AlphaRack, their network and disk throughout are terrible. I highly suspect that they're over selling, but it only cost me $12/year, tho.",
+			"date_added": 1485447992
+		}
+	],
+	"post_like": {
+		"1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475749605": 1475752503,
+		"15mbQo7qMzz7e2kBiLbkDrYDo2pzzWvCBH_1475833884": 1475834352,
+		"18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649": 1476069035,
+		"1C6wnwa1pP57iRpyP3HWPP17rPVANwoj8i_1476122190": 1476123015,
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476186331,
+		"1MaFKfB2HzmRfYNREf4oQN6cWr8hr8jkce_1": 1476276354,
+		"15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476371617": 1476372955,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476817023": 1476810816,
+		"1KRXEX6oD4HH4xwybvxnTBPW4DQm2HPdgj_1477324078": 1477329878,
+		"1N7ZC4BJP5wXsHst7YjggMAd6tZc8howaz_1477531089": 1477548460,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477929324": 1477929366,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1478272781": 1478275010,
+		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1479644447": 1479729365
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "damn it , major typo: Virtwire not Virtware, blame the auto correct",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475692694",
+			"date_added": 1475693016
+		},
+		{
+			"comment_id": 2,
+			"body": "@Nofish: Thanks for the recommendations, Vultr in Japan is awesome, 2 years without any problems",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475692694",
+			"date_added": 1475723514
+		},
+		{
+			"comment_id": 3,
+			"body": "@Voruman where are you come from? No offense",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475740096",
+			"date_added": 1475748123
+		},
+		{
+			"comment_id": 4,
+			"body": "How you can learn so much language, just out of curiosity",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475740096",
+			"date_added": 1475748550
+		},
+		{
+			"comment_id": 5,
+			"body": "It's it good ?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475748178",
+			"date_added": 1475748587
+		},
+		{
+			"comment_id": 6,
+			"body": "Memrise is a great apps, thanks for the advice",
+			"post_uri": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG_1475740096",
+			"date_added": 1475748693
+		},
+		{
+			"comment_id": 7,
+			"body": "You mean /r/tech ?",
+			"post_uri": "1MsyMVskbFyqwDo3xri3KqMAkni4qbf2bi_1475812385",
+			"date_added": 1475839947
+		},
+		{
+			"comment_id": 8,
+			"body": "I can block myself ,lol",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475748178",
+			"date_added": 1475844616
+		},
+		{
+			"comment_id": 9,
+			"body": "@Shellbound: I've heard that CloudatCost are overselling, but with that price, you can't really expect too much ",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475692694",
+			"date_added": 1475847840
+		},
+		{
+			"comment_id": 10,
+			"body": "@Planteater: agree, but AFAIK privacy and anonymity are not the same thing ?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491",
+			"date_added": 1475855935
+		},
+		{
+			"comment_id": 11,
+			"body": "@Planteater: I see, thank you",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1475844491",
+			"date_added": 1475904167
+		},
+		{
+			"comment_id": 12,
+			"body": "If you worry about your privacy, try tor",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476010687
+		},
+		{
+			"comment_id": 13,
+			"body": "@Jro: Thanks alot for testing, please check again, it should be fixed",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476012458
+		},
+		{
+			"comment_id": 14,
+			"body": "I may buy a VPS from USA or Europe if it's too slow",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476012604
+		},
+		{
+			"comment_id": 15,
+			"body": "Thank you",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476010594",
+			"date_added": 1476013160
+		},
+		{
+			"comment_id": 16,
+			"body": "Looking forward for the intergration with Zerondt",
+			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476045649",
+			"date_added": 1476069031
+		},
+		{
+			"comment_id": 17,
+			"body": "有，例如IObit，ccleaner\n其中ccleaner為開源，不會像某數字『安全軟件』盜取資料",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1476084094",
+			"date_added": 1476087202
+		},
+		{
+			"comment_id": 18,
+			"body": "我建立了一個公開代理，可以在手機上使用，https://onlyzero.net",
+			"post_uri": "1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1476070806",
+			"date_added": 1476087321
+		},
+		{
+			"comment_id": 19,
+			"body": "@P2P: 對不起，一時記錯了，BleachBit才是開源，**更正：ccleaner只是免費使用，不是開源**",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1476084094",
+			"date_added": 1476106079
+		},
+		{
+			"comment_id": 21,
+			"body": "@狗蛋: No, it's emoji. 這是UTF-8的表情符號，還沒找到圖床，沒法加圖片",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476106689",
+			"date_added": 1476110996
+		},
+		{
+			"comment_id": 23,
+			"body": "I am no expert, but allow me to try and learn if I am wrong\n\nIf you means bios can search directly into your files or web traffic like antivirus software (e.g. Avira, Kaspersky ) does, that's impossible to be done without OS.\nEven it works, people who can have physical contact with your pc, given enough time, can simply disable it, like TPM can be cracked [1], or simply install hardware key-logger.\nIf you means a tamper-resistant of a system, like Chromebook does [2], which Google done a great job, to protect the OS from virus infection, or Secure Boot of UEFI [3], allowing Microsoft or other signed boot loader to be loaded not the malware one. \n\nHowever, the latter one doesn't protect you from malware that doesn't alter your kernel, e.g. using exploit, rootkit, recently Secure boot is no loner secured.[5]\n\nWhen it comes to data protection, antivirus must not used alone, must be a comprehensive solution, Defense in depth [4]\n\n[1] https://gcn.com/Articles/2010/02/02/Black-Hat-chip-crack-020210.aspx\n[2] https://www.chromium.org/chromium-os/chromiumos-design-docs/verified-boot\n[3] https://technet.microsoft.com/en-us/library/hh824987.aspx\n[4] https://en.wikipedia.org/wiki/Defense_in_depth_(computing)\n[5] http://www.ghacks.net/2016/08/10/secure-boot-bypass-revealed/",
+			"post_uri": "19WLkHBFudHeHikvCvdBSKxTER69n463v3_1476111812",
+			"date_added": 1476119820
+		},
+		{
+			"comment_id": 24,
+			"body": "Greating from the admin of https://onlyzero.net\nIt seems that your site redirects all trafic to www. subdomain, which is fine but the https common name of the certificate doesn't include www subdomain, result in https error",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476157223
+		},
+		{
+			"comment_id": 25,
+			"body": "May I ask what front-end server do you use ",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476157454
+		},
+		{
+			"comment_id": 26,
+			"body": "and I am sure that I am the only guy from Hong Kong",
+			"post_uri": "18oQPES15W27Ks1GBZRKx9zf9wFmXLraEW_1476149832",
+			"date_added": 1476168160
+		},
+		{
+			"comment_id": 27,
+			"body": "Great job:)",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476175580
+		},
+		{
+			"comment_id": 28,
+			"body": "one more question: you buy this domain or by free registration ?",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476175764
+		},
+		{
+			"comment_id": 29,
+			"body": "@Jro: Just like normal Zeronet client, all data are stored under ZeroBundle/ZeroNet/data/\nHowever, your private key / master_seed is not stored, instead it's stored in your browser, so whenever you clean your browser's data or I restart the zeronet.py, all of the logined(grammaraly correct?) user deleted",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476186964
+		},
+		{
+			"comment_id": 30,
+			"body": "@Jro: Yeah, you should be worried, after all you don't know me, I can be 3-letter agencies, cough *CIA Chinese Intelligence in America*\n\nJoking apart, if you are **really** paranoid, you should use Tor Browser with multi-hops VPN+socks proxy+http proxy+public wifi and change a new zeroid every 10 minutes",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187490
+		},
+		{
+			"comment_id": 31,
+			"body": "@Jro: \nHere is output of user.json\nroot@jp:~# cat ZeroBundle/ZeroNet/data/users.json\n{}root@jp:~#\n",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187878
+		},
+		{
+			"comment_id": 32,
+			"body": "@Jro: Strange. you mean that you can't find the ZeroBundle folder or what?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476187997
+		},
+		{
+			"comment_id": 33,
+			"body": "Sorry if I am too lazy, but is there any init.d file for restarting, stopping and starting",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476188084
+		},
+		{
+			"comment_id": 34,
+			"body": "@Jro: I see, you can try pressing F12 at your browser to see localStorage data, I found that there is no difference between proxy or localhost",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476189504
+		},
+		{
+			"comment_id": 35,
+			"body": "@Jro: Thanks for the update too",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476191323
+		},
+		{
+			"comment_id": 36,
+			"body": "@Nekocross: 那時我剛好維護服務器（應該會出現503錯誤？），想不到會有用戶，先道個歉",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476034657",
+			"date_added": 1476206182
+		},
+		{
+			"comment_id": 37,
+			"body": "I am using Zeronet on android by a self-hosted proxy, https://onlyzero.net",
+			"post_uri": "1KgKHGXvUSYxn26xNpVo36TCCiYaJcZysP_1476216447",
+			"date_added": 1476254367
+		},
+		{
+			"comment_id": 38,
+			"body": "@Zerogate: Be very careful ! The free version of .tk domain is notorious for deleting domain name especially when there is certain amount of visitors, then you need to buy them back with higher price or just lost the domain to some \"advertisers\" \nThere is no free lunch\n\nref:\nhttp://www.techelex.org/why-not-use-dot-tk-domain/\nhttps://www.quora.com/Dot-tk-just-deleted-all-my-domains-is-that-legal",
+			"post_uri": "1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_1476133988",
+			"date_added": 1476277230
+		},
+		{
+			"comment_id": 39,
+			"body": "like 127.0.0.1 ?",
+			"post_uri": "15mbQo7qMzz7e2kBiLbkDrYDo2pzzWvCBH_1476350766",
+			"date_added": 1476350941
+		},
+		{
+			"comment_id": 40,
+			"body": "@P2P: TESTED: post\\_uri = `directory` from `json` (without `data/userdb/` ) `_` `post_id`",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476358853",
+			"date_added": 1476363625
+		},
+		{
+			"comment_id": 41,
+			"body": "@Jro: sorry for the late reply... something wrong with my zerome setting\nIt works! Thanks\nSomeone just copy whole wikipedia as username (I paste it in the next comment, too looooong)\n",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476370246
+		},
+		{
+			"comment_id": 42,
+			"body": "Senior Doctor Admiral General Profesor Master Dicklord Baron Archduke Marmaduke Viceroy Admiral Wing Command (Did I Mention Admiral?) Ali Ackbar Dickwad (US Listeni/bəˈrɑːk huːˈseɪn oʊˈbɑːmə/;[1][2] born August 4, 1961) is the 44th and current President of the United States. He is the first African American to hold the office and the first president born outside the continental United States. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004. While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States House of Representatives in 2000 against incumbent Bobby Rush.\\n\\nIn 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.\\n\\nDuring his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as \\\"Obamacare\\\"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010. In foreign policy, Obama ended U.S. military involvement in the Iraq War, increased U.S. troop levels in Afghanistan, signed the New START arms control treaty with Russia, ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi, and ordered the military operation that resulted in the death of Osama bin Laden. In January 2011, the Republicans regained control of the House of Representatives as the Democratic Party lost a total of 63 seats; and, after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012.\\n\\nObama was reelected president in November 2012, defeating Republican nominee Mitt Romney, and was sworn in for a second term on January 20, 2013. During his second term, Obama has promoted domestic policies related to gun control in response to the Sandy Hook Elementary School shooting, and has called for greater inclusiveness for LGBT Americans, while his administration has filed briefs which urged the Supreme Court to strike down part of the federal Defense of Marriage Act and state level same-sex marriage bans as unconstitutional. In foreign policy, Obama ordered U.S. military intervention in Iraq in response to gains made by ISIL after the 2011 withdrawal from Iraq, continued the process of ending U.S. combat operations in Afghanistan, promoted discussions that led to the 2015 Paris Agreement on global climate change, brokered a nuclear deal with Iran, and normalized U.S. relations with Cuba.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476370249
+		},
+		{
+			"comment_id": 43,
+			"body": "Come on, you post this post everyday, don't you feel bored?",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476461605
+		},
+		{
+			"comment_id": 44,
+			"body": "@Userzero: but I think it's a little bit too frequent, maybe post to ZeroTalk can spear the word, I believe every active user here already know this guy is spammer",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476462017
+		},
+		{
+			"comment_id": 45,
+			"body": "@Userzero: You mean I spam my website in here? Just for the sake of clarification",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476463583
+		},
+		{
+			"comment_id": 46,
+			"body": "@P2P: 想不到近年也有人用RSS...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476463646
+		},
+		{
+			"comment_id": 47,
+			"body": "@P2P: 沒錯",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464054
+		},
+		{
+			"comment_id": 48,
+			"body": "@P2P: Everyone",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464267
+		},
+		{
+			"comment_id": 49,
+			"body": "@P2P: 如果是用戶自己follow的也是可以，但是伺服器負載會是一個問題",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464357
+		},
+		{
+			"comment_id": 50,
+			"body": "@P2P: 但是我怎樣知道哪個用戶主要用中文？",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476464715
+		},
+		{
+			"comment_id": 51,
+			"body": "@Userzero: but posting \"he is a spammer\", can't help you ...",
+			"post_uri": "1F2PXhSgvJJvhpJzVmE2eEpgoUbDt4k1gk_1476461557",
+			"date_added": 1476464843
+		},
+		{
+			"comment_id": 52,
+			"body": "@P2P: 不如我直接用你follow的用戶名單吧",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476465153
+		},
+		{
+			"comment_id": 53,
+			"body": "@P2P: [找到方法了！](http://stackoverflow.com/questions/4923319/php-check-if-the-string-has-chinese-chars)\n用正規表示法檢測用戶簡介是否含有中文字，除非某用戶不改變預設簡介，否則這方法挺精準",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461868",
+			"date_added": 1476465722
+		},
+		{
+			"comment_id": 54,
+			"body": "你好",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1476493035",
+			"date_added": 1476466019
+		},
+		{
+			"comment_id": 55,
+			"body": "Not working\nForbidden\n\nMedia referrer error",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164",
+			"date_added": 1476539402
+		},
+		{
+			"comment_id": 56,
+			"body": "Ok now",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164",
+			"date_added": 1476539561
+		},
+		{
+			"comment_id": 57,
+			"body": "Where do you upload photo ?",
+			"post_uri": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_1476539164",
+			"date_added": 1476539649
+		},
+		{
+			"comment_id": 58,
+			"body": "@Waterrabbit: Seriously? lol",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476577977",
+			"date_added": 1476609800
+		},
+		{
+			"comment_id": 59,
+			"body": "@P2P: 有不少來自中國",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476634076",
+			"date_added": 1476637583
+		},
+		{
+			"comment_id": 60,
+			"body": "Hello",
+			"post_uri": "13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1476661119",
+			"date_added": 1476666222
+		},
+		{
+			"comment_id": 61,
+			"body": "@Waterrabbit: probably, my server host all types of VPN and shadowsocks",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476634076",
+			"date_added": 1476701825
+		},
+		{
+			"comment_id": 62,
+			"body": "@Rainlime: 管他的,除了我和供應商外,應該難以入侵",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476634076",
+			"date_added": 1476721334
+		},
+		{
+			"comment_id": 63,
+			"body": "why do you want to ask someone to write in English?",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1477004355",
+			"date_added": 1477050578
+		},
+		{
+			"comment_id": 64,
+			"body": "hi there",
+			"post_uri": "15Y34sew3dobzoutygCagC3eRpmf4rDQUV_1477050933",
+			"date_added": 1477050949
+		},
+		{
+			"comment_id": 65,
+			"body": "@ulrichard: I am talking under any time or circumstance \n",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477057957
+		},
+		{
+			"comment_id": 66,
+			"body": "@dmp1ce: This question just come out of my mind, not a philosophical question.\nLet's assume that Alice want to send a email to Bob in the internet, and \n* No logging in all gateways / servers\n* No signing, only name and email address\n* No mitm\n* No physical attack ( someone else access the computer / account )",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477058403
+		},
+		{
+			"comment_id": 67,
+			"body": "測試什麼?",
+			"post_uri": "1Q5jU3rMt6F8ucYLpDKPzs13rzr49iqpGS_1477054148",
+			"date_added": 1477058649
+		},
+		{
+			"comment_id": 68,
+			"body": "@dmp1ce: Can PGP have forward security, AFAIK if a RSA key is compromised, all previous messages are compromised also",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477111102
+		},
+		{
+			"comment_id": 70,
+			"body": "Hi, it's daytime in HK, doing great I guess ...",
+			"post_uri": "1CqBHprWmyFvTec5gB4vJN8CZUX1wsjHSp_1477206070",
+			"date_added": 1477208548
+		},
+		{
+			"comment_id": 71,
+			"body": "@Missingtwins: thank you, I'll give it a try later",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477147777",
+			"date_added": 1477208643
+		},
+		{
+			"comment_id": 72,
+			"body": "BTW, I am building a console solitaire game using C++ ",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477147777",
+			"date_added": 1477208677
+		},
+		{
+			"comment_id": 73,
+			"body": "@43110: 啥意思？",
+			"post_uri": "1CqBHprWmyFvTec5gB4vJN8CZUX1wsjHSp_1477206070",
+			"date_added": 1477230172
+		},
+		{
+			"comment_id": 74,
+			"body": "汪 !",
+			"post_uri": "13mhHHJzVJc97KZnaAkWZbgDr3qhhJMYnd_1477293203",
+			"date_added": 1477307833
+		},
+		{
+			"comment_id": 75,
+			"body": "No peers found欸",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477308893
+		},
+		{
+			"comment_id": 76,
+			"body": "可以了, https://onlyzero.net/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:home",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477310580
+		},
+		{
+			"comment_id": 77,
+			"body": "但是好像對代理網站不友善，例如\n`http://127.0.0.1:43110/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:readme-zh-cn`\n鍵接一定指向127.0.01:43110, 可以改為 `/1C9TbjWJAosKtSEDgKvU8821N6VkYcBY8L/?Page:readme-zh-cn`",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477310772
+		},
+		{
+			"comment_id": 78,
+			"body": "你現實時間是什麼？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477369336",
+			"date_added": 1477390554
+		},
+		{
+			"comment_id": 79,
+			"body": "@Flyman: Thank you",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477391375",
+			"date_added": 1477393467
+		},
+		{
+			"comment_id": 80,
+			"body": "@P2P: 原來如此，其中pdf及odp都是`Not found`，檔案不存在",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1477308305",
+			"date_added": 1477413585
+		},
+		{
+			"comment_id": 81,
+			"body": "How about caning ( beating-ass ) punishment by government and/or as a supportive method of parenting?\n@猫叉酱: @KosherX - PT-🇧🇷, EN-🇺🇸 and very little of JP-🇯🇵.: @Eibriel: @Juansantiago: @dmp1ce: @Eibriel: @Lemming: ",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477584227",
+			"date_added": 1477648758
+		},
+		{
+			"comment_id": 82,
+			"body": "在日本24小時上線的是我的[OnlyZero.net代理](https://onlyzero.net)啊",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477712028
+		},
+		{
+			"comment_id": 83,
+			"body": "@猫叉酱: 被牆了？！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477722354
+		},
+		{
+			"comment_id": 84,
+			"body": "@猫叉酱: 奇怪...可能是大陸連日本這間VPS特別慢",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477734862
+		},
+		{
+			"comment_id": 85,
+			"body": "@猫叉酱: 那應該是瀏覽器的鍋，我的網站要[SNI](https://zh.wikipedia.org/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D%E7%A7%B0%E6%8C%87%E7%A4%BA),絕大部分主流瀏覽器都支持\n哈希值（hash-sha1）應是‎cb 99 fb b0 61 a3 ad b8 a1 5c 18 48 4d 78 08 8c 5e 57 88 8f\n發行機構應是Let's Encrypt Authority X3",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477650825",
+			"date_added": 1477760489
+		},
+		{
+			"comment_id": 86,
+			"body": "@Flyman: the latter one seems awesome, it searches DHT network, just wondering how",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477810087",
+			"date_added": 1477847449
+		},
+		{
+			"comment_id": 87,
+			"body": "- 什麼是jpegs？jpeg的眾數？\n- Gif Time 又是什麼？網站？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
+			"date_added": 1477989115
+		},
+		{
+			"comment_id": 88,
+			"body": "@猫叉酱: 原來是ZeroNet的網，我真是見識少了，那麼jpegs呢？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477988924",
+			"date_added": 1478005284
+		},
+		{
+			"comment_id": 89,
+			"body": "What is it?",
+			"post_uri": "1NsCkeze59nUxnbLwbYCez9yKr7YVrKxSH_1478101673",
+			"date_added": 1478101772
+		},
+		{
+			"comment_id": 90,
+			"body": "上街抗爭不是唯一出路",
+			"post_uri": "1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478318858",
+			"date_added": 1478330451
+		},
+		{
+			"comment_id": 91,
+			"body": "@Nofish I hope you can do something though it's hard, but it's getting worse",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478330775",
+			"date_added": 1478331040
+		},
+		{
+			"comment_id": 92,
+			"body": "@Ysc3839: like the old kat.cr does",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478437665",
+			"date_added": 1478443249
+		},
+		{
+			"comment_id": 93,
+			"body": "@Hellozeronetwork: Isn't that bad, they just steal from others hard work and advertise their site, IMO",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478437665",
+			"date_added": 1478450265
+		},
+		{
+			"comment_id": 94,
+			"body": "@猫叉酱: 不不，這樣做便不是公開代理啊",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478500113
+		},
+		{
+			"comment_id": 95,
+			"body": "[9方輸入法破解](/q9crack.bit/)",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478508925
+		},
+		{
+			"comment_id": 96,
+			"body": "@Lmath: 不用擔心，我還是繼續做種，只是在網頁屏蔽而已",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478510458
+		},
+		{
+			"comment_id": 97,
+			"body": "@Lmath: 他們可以移除內容？！",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478510513
+		},
+		{
+			"comment_id": 98,
+			"body": "@Waterrabbit: That's what I do, I just redirect web traffic to 404 error, but keep seeding in the background",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478510686
+		},
+		{
+			"comment_id": 99,
+			"body": "移除相關網站資料夾，設為唯讀",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478510471",
+			"date_added": 1478510878
+		},
+		{
+			"comment_id": 100,
+			"body": "@Lmath: 差點嚇倒了",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478512001
+		},
+		{
+			"comment_id": 101,
+			"body": "@猫叉酱: 有道理，讓我再考慮一下做不做種",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478516339
+		},
+		{
+			"comment_id": 102,
+			"body": "@Lmath: 天朝所有閉源軟件也不可信，隨時在背景上傳資料",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478516650
+		},
+		{
+			"comment_id": 103,
+			"body": "@西木野真姬: 我是說閉源欸，況且debian是開源的，我才不是小白欸，難道你擔保360，百度不會盜你的資料？",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478530142
+		},
+		{
+			"comment_id": 104,
+			"body": "@西木野真姬: 原來如此",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478536975
+		},
+		{
+			"comment_id": 105,
+			"body": "@Waterrabbit: Plus, I just move my server to US, which notorious of its DMCA",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478601900
+		},
+		{
+			"comment_id": 106,
+			"body": "@Border0464fred: Don't worry, I'll \"remind\" the user they have the choice to visit bit.no.com, another proxy site :)",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478495090",
+			"date_added": 1478602018
+		},
+		{
+			"comment_id": 107,
+			"body": "2333333",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478600736",
+			"date_added": 1478602063
+		},
+		{
+			"comment_id": 108,
+			"body": "@P2P: 2MB",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478617923
+		},
+		{
+			"comment_id": 109,
+			"body": "現在應該可以了",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478618798
+		},
+		{
+			"comment_id": 110,
+			"body": "@Erotic: \n@P2P: 試試",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478618883
+		},
+		{
+			"comment_id": 111,
+			"body": "@P2P: 我的代理...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478618945
+		},
+		{
+			"comment_id": 112,
+			"body": "Original picture: https://onlyzero.net/onlyzero/sayaka.png",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478619237
+		},
+		{
+			"comment_id": 113,
+			"body": "@Jayofthezero: Yeah, it a kinda trade-off",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478619475
+		},
+		{
+			"comment_id": 114,
+			"body": "@P2P: 沒所謂，反正這個VPS只用作zeronet代理",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478617787",
+			"date_added": 1478626510
+		},
+		{
+			"comment_id": 115,
+			"body": "@ks: Nah, it's a x86_64 OpenVZ VPS",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478690964
+		},
+		{
+			"comment_id": 116,
+			"body": "@Dergatt: I just restart tor and it's fine for now...",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478690997
+		},
+		{
+			"comment_id": 117,
+			"body": "@Dergatt: It's a temp fix for couples of minutes   ",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478691923
+		},
+		{
+			"comment_id": 118,
+			"body": "@Nofish: it happens after the update",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478691985
+		},
+		{
+			"comment_id": 119,
+			"body": "@Nofish: I haven't turn on tor always mode and have opened port",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1478688898",
+			"date_added": 1478693214
+		},
+		{
+			"comment_id": 120,
+			"body": "@Cxgreat2014: vim才是皇道！",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478871447",
+			"date_added": 1478872237
+		},
+		{
+			"comment_id": 121,
+			"body": "...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1478871447",
+			"date_added": 1478872722
+		},
+		{
+			"comment_id": 122,
+			"body": "@It's a test!: I know their name, but they are like Romeo and Juliet",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1479313244",
+			"date_added": 1479313626
+		},
+		{
+			"comment_id": 123,
+			"body": "@It's a test!: Sorry for my poor English",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1479313244",
+			"date_added": 1479313928
+		},
+		{
+			"comment_id": 124,
+			"body": "Either way, it's a sad ending",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1479313244",
+			"date_added": 1479314031
+		},
+		{
+			"comment_id": 125,
+			"body": "可以試試Varnish",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479470351",
+			"date_added": 1479483912
+		},
+		{
+			"comment_id": 126,
+			"body": "@猫叉酱: 有什麼用途欸？",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479729029
+		},
+		{
+			"comment_id": 127,
+			"body": "@猫叉酱: 不用了，我後台已經用Varnish緩存",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1479727382",
+			"date_added": 1479729309
+		},
+		{
+			"comment_id": 128,
+			"body": "@Waterrabbit: Try me, try me",
+			"post_uri": "1CSHRZp7kRusGyWTTdAquuvvYZCmWKF8Tp_1479796357",
+			"date_added": 1479828599
+		},
+		{
+			"comment_id": 129,
+			"body": "@Lmath: That's working, thx a lot. Just wonder that why the database corrupts itself",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1481023118",
+			"date_added": 1481024277
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1KAfCgw4ECkqUccYQZDoPuTMhA2YPMaZwG",
+			"user_name": "Voruman",
+			"date_added": 1475747655
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1476013166
+		},
+		{
+			"follow_id": 4,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "18DbeZgtVCcLghmtzvg4Uv8uRQAwR8wnDQ",
+			"user_name": "Jro",
+			"date_added": 1476013300
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx",
+			"user_name": "狗蛋",
+			"date_added": 1476069406
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
+			"user_name": "Maomihz",
+			"date_added": 1476106480
+		},
+		{
+			"follow_id": 7,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "19WLkHBFudHeHikvCvdBSKxTER69n463v3",
+			"user_name": "Akornbabomb",
+			"date_added": 1476120273
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1476123859
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1MaFKfB2HzmRfYNREf4oQN6cWr8hr8jkce",
+			"user_name": "Greate Sick",
+			"date_added": 1476276347
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC",
+			"user_name": "meidan",
+			"date_added": 1476293701
+		},
+		{
+			"follow_id": 11,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1476295407
+		},
+		{
+			"follow_id": 12,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS",
+			"user_name": "Openuser",
+			"date_added": 1476539866
+		},
+		{
+			"follow_id": 13,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+			"user_name": "Rainlime",
+			"date_added": 1476810495
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+			"user_name": "KosherX",
+			"date_added": 1477059007
+		},
+		{
+			"follow_id": 15,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1477147879
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1477230453
+		},
+		{
+			"follow_id": 17,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1477413618
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1478619578
+		},
+		{
+			"follow_id": 19,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1479207598
+		},
+		{
+			"follow_id": 20,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB",
+			"user_name": "Nekololi",
+			"date_added": 1481780360
+		}
+	],
+	"settings": {
+		"reverse_comment_order": false,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [
+		"1aKE86erdBaK2dKXd6uLEXbn2GBoptohG",
+		"1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
+		"1Es2paeGva7jHwDwnJHvWZw4RQDysK9tbV"
+	],
+	"flags": {
+		"post-19AAsU7HXRC1bmCAM8DeAcNjEvwSaKrB7u_1476365001": 0,
+		"post-1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1477321847": 0
+	},
+	"comment_like": {
+		"18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_6": 1475803156,
+		"1JV3Fhq8uJZuJ3QAYAj1GAgX8s4u8D72Qi_1": 1476090654,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_7": 1476191843,
+		"1M8Mbi3PX5RdWxeQUpG1C9yKgzT9ZGssny_5": 1476418746,
+		"1FMfUTXxZUWSFeW5LEXkSd4spVTtcq6TZS_35": 1476539757,
+		"13ZwzXj9cMRF9AZirKm5nk1enWWS9hHRw8_1": 1476688438,
+		"13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ_79": 1477147805,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_38": 1477312827,
+		"1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_158": 1478510196
+	}
+}

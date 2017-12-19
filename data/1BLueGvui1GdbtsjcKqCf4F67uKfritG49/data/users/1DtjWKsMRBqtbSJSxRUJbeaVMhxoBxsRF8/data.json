@@ -1,0 +1,90 @@
+{
+	"next_post_id": 6,
+	"next_comment_id": 9,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "meek",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "长期混迹于[编程随想的博客](https://program-think.blogspot.com/)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470935195,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "有人认识我吗？蛤蛤",
+			"date_added": 1470935429
+		},
+		{
+			"post_id": 1491981671,
+			"body": "ZeroNet如果能提供一种选择，以脑钱包的方式生成master_seed，那么就不用加密备份users.json了。现在很多比特币钱包也是用这种方式，只需记忆十几个单词，或者记在纸上也行。我在[这里](https://program-think.blogspot.com/2017/04/Security-Vulnerabilities-in-Windows.html?comment=1491968179452)提到：\n>比特币的脑钱包实际上也是一种hash，跟楼上Overthrow CPC的方法挺像，可以用自己的脑子去记忆生成私钥的种子字符串。brainwallet.io这个网站（代码开源），其加盐是自定义的，而且非常直观。只要生成了脑钱包，就可以用比特币签名/校验消息的功能，在github都找得到JS的实现。ZeroNet就是用的比特币签名/校验消息的功能来实现身份认证。",
+			"date_added": 1491981668
+		},
+		{
+			"post_id": 1492672051,
+			"body": "图片测试，过会儿可能有意删除  ",
+			"date_added": 1492672047,
+			"meta": "{\"img\":\"900,670,fff,0000000000000000000000000000000000000000000000000000000000000000000000\"}"
+		},
+		{
+			"post_id": 1492672637,
+			"body": "图片测试2，过会儿可能有意删除 ",
+			"date_added": 1492672632,
+			"meta": "{\"img\":\"900,670,ca8dbac97975a76ebab87653764643544432955966b66844,01021033241563323410212264461078836688879989A9BB97BB9BBBBBBBCDE8AAAADF\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "你知道编程随想的博客吗？",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_2",
+			"date_added": 1470996111
+		},
+		{
+			"comment_id": 2,
+			"body": "楼下的同学你们好啊 （说“楼下”挺怪的）",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_2",
+			"date_added": 1491981770
+		},
+		{
+			"comment_id": 3,
+			"body": "@Lmath: 如果是给用户任意选择脑钱包种子字符，如果用户选择的字符长度太短、太简单，就会有弱密码风险——被暴力破解，或者彩虹表、字典等方法破解。但实际应用中当然会有限制，比如[BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)就是专门针对这个问题的，还提供了[wordlists](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md)，避免用户选择的字符长度太短、太简单。还有我原帖提到的自定义加盐，也大大增加破解难度。现在很多比特币钱包也是用这种方式，只需记忆十几个单词，或者记在纸上也行。所以正确实现的情况下，安全性足够的。",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1491981671",
+			"date_added": 1491989212
+		},
+		{
+			"comment_id": 4,
+			"body": "@Booma: 你好啊，能看到图片吗？",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1492672637",
+			"date_added": 1492672829
+		},
+		{
+			"comment_id": 5,
+			"body": "@Booma: 我发的前一张图片能看到吗？我一共发了两张相同图片，分别在两个不同帖子里",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1492672637",
+			"date_added": 1492673001
+		},
+		{
+			"comment_id": 6,
+			"body": "@Booma: 我也发现节点过了一会儿变得很多啊。一开始发的时候我两台Tor后虚拟机互相测试，图片刷不出来，过一会儿就行了。多谢反馈：）",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1492672637",
+			"date_added": 1492673350
+		},
+		{
+			"comment_id": 7,
+			"body": "现在我故意删掉这张图片试试，相同的图片在这  http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1BLueGvui1GdbtsjcKqCf4F67uKfritG49/1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8/1492672637",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1492672051",
+			"date_added": 1492673595
+		},
+		{
+			"comment_id": 8,
+			"body": "需要手动改content.json才能删掉。~~现在我又恢复试试~~又删了",
+			"post_uri": "1DtjWKsMRBqtbSJSxRUJbeaVMhxoBxsRF8_1492672051",
+			"date_added": 1492674156
+		}
+	],
+	"follow": []
+}

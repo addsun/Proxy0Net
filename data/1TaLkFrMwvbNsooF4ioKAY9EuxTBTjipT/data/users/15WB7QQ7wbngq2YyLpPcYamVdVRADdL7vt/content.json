@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOdp41AG3iWbaQ77GHTTQi9CU6RPRZupbgOBVzhz/LIfDxdJbzI3fhURkBwp1pfkKRQi5g3lJ6JKwGq4ISUCpPU=",
+ "cert_user_id": "rodgrod@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "79b316b43c5a1d44b21137ede30c80c045be93b8b44b5be9a90310b7708ff488",
+   "size": 254
+  }
+ },
+ "inner_path": "data/users/15WB7QQ7wbngq2YyLpPcYamVdVRADdL7vt/content.json",
+ "modified": 1501257729,
+ "signs": {
+  "15WB7QQ7wbngq2YyLpPcYamVdVRADdL7vt": "HCPKWFNYy8qSroQyVyaHDz21Ovv3aqKv5Qjm7Z1pbnZYLl9LGC2MpW2FGUcGUaGHvm2ApJKLYagVcae0YFppSkA="
+ }
+}

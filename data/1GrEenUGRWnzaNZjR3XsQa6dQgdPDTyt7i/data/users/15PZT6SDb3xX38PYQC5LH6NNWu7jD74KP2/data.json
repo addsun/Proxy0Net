@@ -1,0 +1,325 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 19,
+	"next_follow_id": 24,
+	"avatar": "jpg",
+	"user_name": "dmp1ce",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Web developer and p2p enthusiast",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1476041876,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1476371617,
+			"body": "I created [a blog](/1AhwaxXjxjmVxFqCiN8pGdjKYcSMaRgFWY/) where I'll put ZeroNet tips and projects I'm working on. ",
+			"date_added": 1476371615
+		},
+		{
+			"post_id": 1476819218,
+			"body": "What in your opinion is the best features of Zeronet? I'm promoting Zeronet on Facebook and Twitter to my followers. I'm hoping some of them give Zeronet a try.",
+			"date_added": 1476819215
+		},
+		{
+			"post_id": 1476839061,
+			"body": "#Brave browser cannot log into Twitter. #wtf https://github.com/brave/browser-laptop/issues/4877. Brave also has problems with #zeronet. Ready to move to Brave but can't yet because of these issues.",
+			"date_added": 1476839057
+		},
+		{
+			"post_id": 1477267245,
+			"body": "I created an Arch Linux wiki entry for ZeroNet. Let me know if it needs any corrections. https://wiki.archlinux.org/index.php/ZeroNet",
+			"date_added": 1477267240
+		},
+		{
+			"post_id": 1477580069,
+			"body": "What is the right way to stay anonymous on ZeroNet? Obviously use only Tor to post content, but what about registering an ID?\n\nShould I not use ZeroID? Should I use ZeroVerse instead? There is also  [Nanasi](/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN). How does Nanasi and ZeroVerse make my ID more anonymous.\n\nI have been reading [ZeroSecurity](/zerosecurity.bit/) which is very interesting, but I don't fully understand all the fixes or if the issue are up-to-date.\n\nDoes anyone have any tips?",
+			"date_added": 1477580063
+		},
+		{
+			"post_id": 1479216062,
+			"body": "I'm excited to see the first product with Bitcoin + Open Transactions. Chris does a good job of explaining why different financial instruments are important in this interview.\n\nhttps://www.youtube.com/watch?v=bhwOOon77WU",
+			"date_added": 1479216055
+		},
+		{
+			"post_id": 1487510829,
+			"body": "Can ZeroNet site developers start leaving some way of contacting them please? I would like to leave some feedback for Play and ZeroTV in private but I don't know how to contact them.\n\nFor both Play and ZeroTV I want to say \"Thanks!\" because I think they offer a great service.\n\nFor ZeroTV, I think the TV pages should offer different formats because I often go to eztv.ag to get higher bitrate versions of the same show. There is also no link to go back to the main ZeroTV page once on a specific show page. Just add a \"Home link\" to each page please. If that is possible.",
+			"date_added": 1487510821
+		}
+	],
+	"post_like": {
+		"1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244": 1476266203,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645": 1476281601,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476461645": 1476588792,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476577977": 1476622748,
+		"15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464": 1476879894,
+		"1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477112434": 1477191453
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Sick Bird: Yeah. lol. I had it on my hd.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1",
+			"date_added": 1476077607
+		},
+		{
+			"comment_id": 2,
+			"body": "You can also run Zeronet with Docker with a `restart: always` policy. Then set `systemctl enable docker`.",
+			"post_uri": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L_1476186244",
+			"date_added": 1476266361
+		},
+		{
+			"comment_id": 3,
+			"body": "I have no idea. I don't see a way to see your own followers. I can only see who I am following.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1476276645",
+			"date_added": 1476281632
+		},
+		{
+			"comment_id": 4,
+			"body": "For me the privacy / decentralization combined with nice user interface is the features I appreciate.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1476819218",
+			"date_added": 1476837981
+		},
+		{
+			"comment_id": 5,
+			"body": "It is possible to setup stores but no one has done so that I know of. You could have a catalog of products and negotiate sales through ZeroMail at the moment.\n\nThere is also Play and ZeroTV for torrents.",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476838121
+		},
+		{
+			"comment_id": 6,
+			"body": "[Play](/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/?Home)",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476838236
+		},
+		{
+			"comment_id": 7,
+			"body": "@43110: I see a movie store where everything is the price of 0.",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476879763
+		},
+		{
+			"comment_id": 8,
+			"body": "@43110: You could have a site where you only release the magnet link if enough money is sent to a bitcoin address.",
+			"post_uri": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP_1476824464",
+			"date_added": 1476879865
+		},
+		{
+			"comment_id": 9,
+			"body": "Of course, if you want the message private!",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477053886
+		},
+		{
+			"comment_id": 10,
+			"body": "Wait, this is philosophical question it sounds like. I guess, if no one else is getting the message besides then recipient then you could just sign the message to ensure it is coming from you, but how do you know only the recipient is able to see it if you do not encrypt it?",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477053998
+		},
+		{
+			"comment_id": 11,
+			"body": "Yes, this is why talking with someone in the middle of the forest with no recording devices is considered secure communication. However, with the internet or even radio, you are always trusting third parties and are broadcasting all over the world.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477071425
+		},
+		{
+			"comment_id": 12,
+			"body": "An email address is not enough to know that you are communicating with who you think you are. This is why PGP was invented.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477071471
+		},
+		{
+			"comment_id": 13,
+			"body": "@MilitaryRiotLab: I don't think PGP has forward security. I think you would need to use  something like OTR or Signal protocol to get forward security.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477050903",
+			"date_added": 1477191358
+		},
+		{
+			"comment_id": 14,
+			"body": "In general Nathaniel Branden's The Six Pillars of Self-Esteem really helped me to feel more confident about myself and the path I choose to take for myself. As far as relationships go, Stefan Molynuex's Real-Time Relationships taught me to be more honest and available in my relationships which helped the relationship with my wife when we first met and still to this day. Good Luck!",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477391375",
+			"date_added": 1477453436
+		},
+		{
+			"comment_id": 15,
+			"body": "@Devtest: Does ZeroID store your IP address or something?",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477580069",
+			"date_added": 1477599106
+		},
+		{
+			"comment_id": 16,
+			"body": "@Waterrabbit: Why not just use bitmessage on ZeroID or [Nanasi](/16KzwuSAjFnivNimSHuRdPrYd1pNPhuHqN)?",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1477580069",
+			"date_added": 1477599171
+		},
+		{
+			"comment_id": 17,
+			"body": "I think violence is justified in self defense.",
+			"post_uri": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow_1477584227",
+			"date_added": 1477599348
+		},
+		{
+			"comment_id": 18,
+			"body": "@Sirenyc: Thanks! I should check my comments more often.",
+			"post_uri": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2_1487510829",
+			"date_added": 1491166127
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15PZT6SDb3xX38PYQC5LH6NNWu7jD74KP2",
+			"user_name": "David",
+			"date_added": 1476041949
+		},
+		{
+			"follow_id": 3,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1476042262
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "18YDBsfhNGBjoPNVnHoetUdFZBcH5pR8xj",
+			"user_name": "The IO monad",
+			"date_added": 1476077765
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx",
+			"user_name": "ks",
+			"date_added": 1476077789
+		},
+		{
+			"follow_id": 6,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "16YP1ZeHrKq3KB3DdBWHec984oQAfVPT9d",
+			"user_name": "Wire",
+			"date_added": 1476077902
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1476077956
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1476104622
+		},
+		{
+			"follow_id": 9,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow",
+			"user_name": "Militaryriotlab",
+			"date_added": 1476213412
+		},
+		{
+			"follow_id": 10,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1HJJEDiEo7ghxbpdDzXHFVv4gtrb53cUAu",
+			"user_name": "Maomihz",
+			"date_added": 1476213731
+		},
+		{
+			"follow_id": 11,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1476213743
+		},
+		{
+			"follow_id": 12,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1476266395
+		},
+		{
+			"follow_id": 13,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1NqBLri771MGN6eJLzUP6dqenvVqdC6b5L",
+			"user_name": "01served",
+			"date_added": 1476266407
+		},
+		{
+			"follow_id": 14,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1476266434
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "13ak56mPXaCQC7oXYz8YWKfnkU1rRhnXuB",
+			"user_name": "Zeromux",
+			"date_added": 1476266506
+		},
+		{
+			"follow_id": 16,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1D242AyQghFqqQTwo1f1csP5kRQe588BUm",
+			"user_name": "Francis Brunelle",
+			"date_added": 1476266517
+		},
+		{
+			"follow_id": 17,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1476266529
+		},
+		{
+			"follow_id": 18,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1476266559
+		},
+		{
+			"follow_id": 19,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1JuUHRJ3A1wy5zgT6c2KviH9cHtq8Zr4X9",
+			"user_name": "Planteater",
+			"date_added": 1476284183
+		},
+		{
+			"follow_id": 20,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1476284251
+		},
+		{
+			"follow_id": 21,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15CnUuQWHaW3h1vZuLTxQ5tEt1SzjeNdAP",
+			"user_name": "Rooty",
+			"date_added": 1476838014
+		},
+		{
+			"follow_id": 22,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm",
+			"user_name": "Hexagon",
+			"date_added": 1476883078
+		},
+		{
+			"follow_id": 23,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1478091172
+		}
+	]
+}

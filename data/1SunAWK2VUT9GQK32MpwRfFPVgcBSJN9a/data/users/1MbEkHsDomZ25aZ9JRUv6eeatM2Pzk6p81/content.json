@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GxUrHTnaTajGQC03nyTWdBc38nWuO7PPu7xdOORkc/rm0s+4bOuJoNDI1gbRHyV/TN+WIdRhKUzzYO/MuWug3+M=",
+ "cert_user_id": "archiwaldo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "53b1d3ca94b38f2e2d7c65c9e85cc3e45134fbe43a9730632055f54b7b003227",
+   "size": 429
+  }
+ },
+ "inner_path": "data/users/1MbEkHsDomZ25aZ9JRUv6eeatM2Pzk6p81/content.json",
+ "modified": 1507223342,
+ "signs": {
+  "1MbEkHsDomZ25aZ9JRUv6eeatM2Pzk6p81": "HBz5UEB5WlqH8KRJCRLhm/cL6ehWume+ymyRxJOaB7MyYfhGXZkYGs3ylB5hLa4yt3VGo3iTpKJsDOGpqAftysk="
+ }
+}

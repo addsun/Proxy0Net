@@ -1,0 +1,21 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "HHrxKcm7SWIYoAESKwXdNBMOmGNjOPkspQLIdQzgXGlHY0NT6hYhEsQvXI3O9QLC014HNoDwlBF4rhkCy7U0oK4=",
+ "cert_user_id": "haldeit@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b2ccd062182fc95e4875d7dbab4763514fb638fe053dc96df50ef6e322602c64",
+   "size": 1378
+  },
+  "data.json": {
+   "sha512": "add5bac2d034d42c172cb104f0167e6c20298a1e8d3360a42c489ce09cb93734",
+   "size": 5385
+  }
+ },
+ "inner_path": "data/users/18rMLAgcZnh4524fdQJ6Ve3hQZjWoNtGL1/content.json",
+ "modified": 1508339961,
+ "signs": {
+  "18rMLAgcZnh4524fdQJ6Ve3hQZjWoNtGL1": "HG5l4IFaPFRvupcfyrh3zpN2dWr7QDprQjqGrOz4ABMkTboCseQ5OnRn9siRbAR74uYG7k4G+oY69N/HzRUEf4o="
+ }
+}

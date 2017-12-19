@@ -1,0 +1,21 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "G014WQnEf6WfhKywpbbXkoymI9Wry1Ho29bA6bonjBVU1/TuJwM88bYm2DRXjQFfuWtPIo6WKYcshRWZMd/tT6I=",
+ "cert_user_id": "tiotry@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "cc0e38864b445718ea35bfad275f1fbd07b2e7dfb3243cb7db1711641df39b2b",
+   "size": 1477
+  },
+  "data.json": {
+   "sha512": "dc39f2ddef88eba6745657794a219d0f62858230e0337daa652cdbdf80491092",
+   "size": 621
+  }
+ },
+ "inner_path": "data/users/1CxzW1WSzp2bYT7HAsLcw1wt1USDmSjHM5/content.json",
+ "modified": 1510931450,
+ "signs": {
+  "1CxzW1WSzp2bYT7HAsLcw1wt1USDmSjHM5": "HBhEl+4gBiHToY9uJKCUdeZEADRFGIwXHgv2O8vYQ7LSAt0fZJKjDcW/7KaN2vchuPomYSXjBqhw1idLroKeO1A="
+ }
+}

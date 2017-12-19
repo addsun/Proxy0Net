@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G4+/YHHNCU2ZP4zPuTmzW5EYKzNsdQruSu/j4CLDP6cPHOsDD/TLw+LxT5Z6bta95KP584EzgWOYOZ10EeE3qPU=",
+ "cert_user_id": "whitesalt@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bdf48b514f07df8d7d7643ce70f89ded68cb72c8f2e91c5414a8b34476f7df90",
+   "size": 347
+  }
+ },
+ "inner_path": "data/users/12VnrQM6yBQ3VnMNmTLuvGssYcdFD582GD/content.json",
+ "modified": 1508429764,
+ "signs": {
+  "12VnrQM6yBQ3VnMNmTLuvGssYcdFD582GD": "G4OD3k5yvZnFAUBQrNcYBadXO6ZcM4I0mJWcD0UUa5qmPWiR/N5/AsxyvK7fYed3rUV+KEqekL0EtdC/n9mBtkg="
+ }
+}

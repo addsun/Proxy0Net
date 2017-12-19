@@ -1,0 +1,28 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "GzvaXigQIRX/Gp5MH08aeKP1NvwWqd+CMY7r95WQnWaPtBa0bkPQU4M4JjaJ9LY0Vq1ytdyeWB8szz0MBnMyVRQ=",
+ "cert_user_id": "liideal@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f3033b75f75af8b652f380c14894177e214b9100a1c0a0a0a95a9a0ab8345222",
+   "size": 1177
+  }
+ },
+ "files_optional": {
+  "1493824111.jpg": {
+   "sha512": "438fb98d5b19622b449b6a62e32b2c8874dfe796dbe6780089a138e9478bc5b1",
+   "size": 49618
+  },
+  "1499640920.jpg": {
+   "sha512": "7c9358188bf7c6cec5c2a6ef4cc079a8e34e78e9cea37366d4a824612bd012e8",
+   "size": 62154
+  }
+ },
+ "inner_path": "data/users/13A6jRhJApUbVZxpjw3F2xbwjRC4QKVUAQ/content.json",
+ "modified": 1508552660,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13A6jRhJApUbVZxpjw3F2xbwjRC4QKVUAQ": "HNY+2vy7UCqupE8QW6rr/jk55ytON16IKr6YkWROJyDAN62Ey0DNm5zdhM8AShuqwHUpwTfdqkKA+A14QGa+fyI="
+ }
+}

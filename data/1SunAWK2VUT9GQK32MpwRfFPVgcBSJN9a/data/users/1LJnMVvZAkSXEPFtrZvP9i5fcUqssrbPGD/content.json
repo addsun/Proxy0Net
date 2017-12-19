@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HJisX+GZIg2Tuxv0kRKiTHcrCV7bd7rxbZGWQGaYydzs7m6Io5BCgKGa1lAtRfT5kxugXHDQfYa4Ntwhh9eSTew=",
+ "cert_user_id": "orange030@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d28c0ca276aab113db04fc8ce3b8f7470f59a430b6494efbb6a548affe395701",
+   "size": 514
+  }
+ },
+ "inner_path": "data/users/1LJnMVvZAkSXEPFtrZvP9i5fcUqssrbPGD/content.json",
+ "modified": 1509095954,
+ "signs": {
+  "1LJnMVvZAkSXEPFtrZvP9i5fcUqssrbPGD": "HGAb+3xpnDKok41p45MkalRVPVWKx+eilCyTfJaeUQ3Kduvbk9dQx4WFMpYu6wrorl42Fhf3y3H0PuPyOrky+Vo="
+ }
+}

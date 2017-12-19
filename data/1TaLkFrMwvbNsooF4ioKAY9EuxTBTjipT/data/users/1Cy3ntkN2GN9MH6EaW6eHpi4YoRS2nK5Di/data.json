@@ -1,0 +1,742 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509649171,
+			"title": "Git Center - an alternative to GitHub",
+			"body": "# Git Center - GitHub for ZeroNet\n**Git Center** is a decentralized hosting platform for Git repositories. We provide several collaboration features such as bug tracking for every project, and private and public repositories.\n\n## Why Git Center?\nCurrently **Git Center** is the only repository hosting in ZeroNet. This is like 0git, but better: a full alternative to GitHub.\n\n## Cool! How can I access it?\nFull link: [http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/)\nCurrently you can also use [0sh.bit/?GitCenter](/0sh.bit/?GitCenter)\nDomain by @affeali: (Thanks!) [gitcenter.bit](/gitcenter.bit).",
+			"added": 1509649170
+		}
+	],
+	"topic_vote": {
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1509624447_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": 1,
+		"10_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"3_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1510343838_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1510836718_1KTbtX5zd8hbs9WSe34CUELQgJk8vukNJn": 1,
+		"1510983074_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511942609_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512275153_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1512534533_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512623897_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"1512651955_1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj": 1,
+		"1512447633_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1,
+		"1_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1513261976_14AGYi4egYjHjzXwWezZ3LVd8KRwQArDLd": 1,
+		"1513621070_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1
+	},
+	"next_comment_id": 109,
+	"comment": {
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": [
+			{
+				"comment_id": 1,
+				"body": "> [styromaniac](#comment_182_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I hope to see ZeroNet and Tor there.\nI hope too.\n\n@nofish: , your turn!",
+				"added": 1509695464
+			},
+			{
+				"comment_id": 3,
+				"body": "> [gomzik](#comment_5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): Cool!\n\n> [lerolero](#comment_1_1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ): nice!!!!!\n\n> [akito](#comment_347_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Good job.\n\n> [james007](#comment_101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Great job! Looks awesome, and I see the source code for the git center is on git center. Meta!\n\nThank you!",
+				"added": 1509701831
+			},
+			{
+				"comment_id": 9,
+				"body": "## Git Center Update\n\n1. Fixed bugs\n2. Added \"Upload file\" feature. You have to press New file, then choose path and commit message, then press Upload and commit button.",
+				"added": 1509719673
+			},
+			{
+				"comment_id": 12,
+				"body": "> [voland](#comment_2_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn): What git branch, connected IDE?\n\nSorry, I couldn't undestand what you mean by `What git branch`.",
+				"added": 1509724172
+			},
+			{
+				"comment_id": 17,
+				"body": "> [voland](#comment_4_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn): How to create branches?\n\nThis would be easy to implement, so I'll try to add it soon.",
+				"added": 1509729839
+			},
+			{
+				"comment_id": 19,
+				"body": "> [affeali](#comment_2_1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB): I added a domain for Git Center: gitcenter.bit.\n\nThank you!",
+				"added": 1510077349
+			},
+			{
+				"comment_id": 20,
+				"body": "> [erneraude](#comment_27_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6): If I understand it correctly, when I access a repo on GitCenter, I download the zite where it is hosted.But, if I want to clone it (let's say in my ~/projects directory), I'll need to use the git clone command, and will have two versions of the repo on my computer at the same time?\n\nYes, @krixano is right. Like on GitHub, you also have a server version in ZeroNet. So you don't loose information and don't automatically publish information when you change some file. Instead, you change your local copy and then push/pull.",
+				"added": 1510242036
+			},
+			{
+				"comment_id": 21,
+				"body": "Whatever ZeroSteem is, I see it uploaded on Git Center, but cannot access it. Can author sign and publish it again?",
+				"added": 1510490361
+			},
+			{
+				"comment_id": 24,
+				"body": "## Git Center Update\n\nAdded stars. Now you can star any repository that is in index (you cannot star private repositories).",
+				"added": 1510512853
+			},
+			{
+				"comment_id": 29,
+				"body": "> [sirenyc](#comment_168_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ): Who added the domain was the: affeali=)\n\nChanged, thx.\n\n> @parkour86: Also when visiting http://gitcenter.bit/ and clicking any of the repos in the index it brings me to a page that says not found. http://gitcenter.bit/1Ps8mZHcKGdwtjmMLBJ9b8KU6ogEBrjEig\n> It works find when I visit the site using http://zero/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t and clicking any of the links. It redirects me to http://zero/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?1Ps8mZHcKGdwtjmMLBJ9b8KU6ogEBrjEig\n\nThat's a problem because of `http://gitcenter.bit` prefix, and Git Center relies on `http://.../gitcenter.bit`. I'll try to fix this soon.",
+				"added": 1510761705
+			},
+			{
+				"comment_id": 30,
+				"body": "@axeltherabbit You made EulerFinder, right? I see your repository is corrupted: it has zero-length filenames. How did you manage to do that?",
+				"added": 1510857920
+			},
+			{
+				"comment_id": 31,
+				"body": "> [axeltherabbit](#comment_32_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): i think during the attempts of trying the file upload feature\n\nCould you please try to reproduce it? The only bug I see now is that setting filename to `/abc` creates a zero-length directory with `abc` file inside, but that's not the problem with EulerFinder repo, obviously.",
+				"added": 1510949216
+			},
+			{
+				"comment_id": 33,
+				"body": "> [kopyjane](#comment_48_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Test two... http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?18bHRBuU7n78AjBPYk1bpjVJx4tipvErm1/@master\n\nHOW? I mean, how did you manage to create empty-name directories?",
+				"added": 1511354475
+			},
+			{
+				"comment_id": 35,
+				"body": "> [kopyjane](#comment_51_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): That was my screw up. I accidentally typed /css instead of css/\n\n:) Please post this as issue to Git Center Source. Trying to fix that...",
+				"added": 1511355149
+			},
+			{
+				"comment_id": 36,
+				"body": "> [parkour86](#comment_10_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M): Feature Request: Right now files are sorted alphabetically under Root>. I'd like to see directories sorted first then all other files sorted second.\n\nDone. First, submodules are shown, then directories, then files.",
+				"added": 1511444461
+			},
+			{
+				"comment_id": 37,
+				"body": "> [kopyjane](#comment_51_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): That was my screw up. I accidentally typed /css instead of css/\n\nCould you please fix this or somehow let me do that?",
+				"added": 1511448366
+			},
+			{
+				"comment_id": 38,
+				"body": "## Git Center Update\n\n1. Add user muting (on settings page)\n2. Some minor fixes\n3. Remove **Git Center Status** - no need in it since I use ZeroMe, ZeroTalk and ZeroMail\n4. Sort file list - first submodules (they are supported, yes!), then directories and finally files.",
+				"added": 1511452082
+			},
+			{
+				"comment_id": 39,
+				"body": "Any ideas how to parse Mercurial deltas? [Mercurial and Fossil VCS Support? ](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/issues/view/?18r929Hq8hE5Pi9Zf7ovMQVyn3WcGfxMgu/0@12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu)",
+				"added": 1511626758
+			},
+			{
+				"comment_id": 42,
+				"body": "Any ideas what features to add to Git Center?",
+				"added": 1511949055
+			},
+			{
+				"comment_id": 43,
+				"body": "> [roninx](#comment_8_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2): Private repo?\n\nYou can create a repository (which means create a new zite, in fact) and don't add it to repository index. Then it will be somewhat private.",
+				"added": 1512031460
+			},
+			{
+				"comment_id": 44,
+				"body": "> [roninx](#comment_9_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2): When I click \"sign and publish\" it prompts \"content publish failed\". Is it due to the port 15441 closing? I can't manage to open that port tho.\n\nThat means your repository has no peers. That's OK when your repo is private.",
+				"added": 1512034263
+			},
+			{
+				"comment_id": 46,
+				"body": "## Git Center Update\n\n1. Show usernames in NewsFeed\n2. Show only owned repos in `My Repos`\n3. Show repository owner\n4. Diff view for commits\n\nWorking on Mercurial support now!",
+				"added": 1512058024
+			},
+			{
+				"comment_id": 47,
+				"body": "> [binchan2](#comment_43_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h): That's fast! Good job!\n\nThank you!",
+				"added": 1512060564
+			},
+			{
+				"comment_id": 48,
+				"body": "> [binchan2](#comment_44_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h): I just finished adding dark theme support for jsdiff :D\n\nLooks nice!",
+				"added": 1512064822
+			},
+			{
+				"comment_id": 61,
+				"body": "## Git Center Update\n\nNot such a big feature, but just added issue/PR mentioning!\n\n[This news at ZeroMe](/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1512831957)",
+				"added": 1512831954
+			},
+			{
+				"comment_id": 65,
+				"body": "## Git Center Update\n\nBrought to my attention by @空澄砂夜: aka Sorasumi Sayo. Added `[ ]` / `[x]` / `[v]` checkboxes support in markdown by [commit c73bead](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/commit/?18r929Hq8hE5Pi9Zf7ovMQVyn3WcGfxMgu/c73bead539eecffe33908bade25368aaa6326652).\n\nNot editable by clicking yet, if you have any ideas how to implement that, post issue to Git Center repository.\n\n---\n\nExample from [|><||>](/15Z4H5K8YxjqGWpPxMLHWwr6Ve2nR7dz8d) repository: [on ZeroMe](/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1513005011).",
+				"added": 1513005022
+			},
+			{
+				"comment_id": 77,
+				"body": "> [tau0](#comment_1_19b8dupChmu8SXVT7GbHU4gQN8qaH34d25): How i set up the git remote ?\n\n> [krixano](#comment_246_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): git remote add [name] [link]\n\nExample: `git remote add zeronet ~/Documents/ZeroNet/data/repositoryaddress/myfirstrepository.git`.\n\nWhere `~/Documents/ZeroNet/data` is path to data folder and you can find `repositoryaddress/myfirstrepository.git` when clicking `Clone` on repository page.",
+				"added": 1513407380
+			},
+			{
+				"comment_id": 78,
+				"body": "## Git Center Update\n\n1. Show actions like closing/reopening issue/PR.\n2. Follow actions in newsfeed.\n3. Editing and comments and issues!\n4. Add and remove tags and follow changes in newsfeed.\n\n[Screenshot](/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1513516312)",
+				"added": 1513516346
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "@nofish, could you please upload ZeroNet to [Git Center](/Talk.ZeroNetwork.bit/?Topic:1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/Git+Center+an+alternative+to+GitHub) ?",
+				"added": 1509700940
+			},
+			{
+				"comment_id": 76,
+				"body": "> [piloth](#comment_11_1FKuNsExQML7APuNmkCV8uzB5pKupcmnck): How do you make a post sticky? Thanks in advance :)\n\nOnly forum administrator can do that. If you are admin, you can edit `content.json` of your site. You will find:\n\n```\n\"settings\": {\n  \"admin\": \"nofish\",\n  \"admin_href\": \"http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=nofish\",\n  \"topic_sticky_uris\": [\"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj\", \"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj\"]\n },\n```\n\nReplace that with:\n\n```\n\"settings\": {\n  \"admin\": \"piloth\",\n  \"admin_href\": \"http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=piloth\",\n  \"topic_sticky_uris\": [\"topic_id\", \"topic_id\", \"topic_id\", \"topic_id\"] // replace this\n },\n```",
+				"added": 1513346475
+			},
+			{
+				"comment_id": 96,
+				"body": "@nofish: Could you please raise my limit?",
+				"added": 1513617808
+			}
+		],
+		"1509624447_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 4,
+				"body": "Could you please add EulerFinder to Git Center?",
+				"added": 1509715150
+			},
+			{
+				"comment_id": 5,
+				"body": "> [axeltherabbit](#comment_2_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): There isn't a file upload option?\n\nIn Git Center, you mean?",
+				"added": 1509717386
+			},
+			{
+				"comment_id": 6,
+				"body": "> [axeltherabbit](#comment_3_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): yep\n\nI am working on it currently. BTW, I will post latest info here: http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/gitcenter@zeroid.bit",
+				"added": 1509717775
+			},
+			{
+				"comment_id": 7,
+				"body": "> [gitcenter](#comment_5_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): In Git Center, you mean?\n\nBut you can create plain-text files via copy-paste.",
+				"added": 1509718231
+			},
+			{
+				"comment_id": 8,
+				"body": "> [axeltherabbit](#comment_4_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Yes but it's not the best way, i will wait that feature ;)\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1509719565",
+				"added": 1509719590
+			},
+			{
+				"comment_id": 10,
+				"body": "> [axeltherabbit](#comment_5_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): seem not working, i can select the file, but don't seem upload it, maybe I'm wrong something\n\nWhat OS/browser are you using? Does something appear in Console?",
+				"added": 1509721851
+			},
+			{
+				"comment_id": 11,
+				"body": "> [axeltherabbit](#comment_6_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): Console nothing, Arch Linux chromium\n\nAnd after pressing `Upload and commit` nothing changes? Does window like `Select file` appear?",
+				"added": 1509722503
+			},
+			{
+				"comment_id": 14,
+				"body": "> [axeltherabbit](#comment_8_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): nope, yes it appear\n\nCould you check if it works under some other browsers? I cannot reproduce your issue.",
+				"added": 1509728293
+			},
+			{
+				"comment_id": 15,
+				"body": "> [axeltherabbit](#comment_9_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): same firefox\n\nAfter pressing `Upload and commit`, nothing happens. And if you manually open file list after that, that file isn't listed?",
+				"added": 1509729082
+			},
+			{
+				"comment_id": 18,
+				"body": "> [axeltherabbit](#comment_10_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): \n\nAnd does creating file, not uploading, work?",
+				"added": 1509730088
+			}
+		],
+		"1509723698_18kZo3th7NiH2wQ2dP1rFXXpUhfnPrStjV": [
+			{
+				"comment_id": 13,
+				"body": "https://github.com/HelloZeroNet/ZeroNet",
+				"added": 1509724201
+			},
+			{
+				"comment_id": 16,
+				"body": "@nofish, Could you please upload ZeroNet to [Git Center](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t)?",
+				"added": 1509729744
+			}
+		],
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": [
+			{
+				"comment_id": 22,
+				"body": "Nice! Could you please upload it to Git Center? gitcenter.bit",
+				"added": 1510504125
+			},
+			{
+				"comment_id": 23,
+				"body": "> [grez911](#comment_1_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5): All done. Please, check: http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?173jgCe7oqQQAG8V4dNEDyHY4mFFWJKF1Q\n\nYes, it works now. Thanks! BTW, I suggest you to change link to http://127.0.0.1:43110/173jgCe7oqQQAG8V4dNEDyHY4mFFWJKF1Q, so that site is downloaded by ZeroNet before opening.",
+				"added": 1510508706
+			},
+			{
+				"comment_id": 25,
+				"body": "> [grez911](#comment_2_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5): Done.\n\nWhat do you think, maybe writing a script like \"From ZeroBlog to Poster\" will help people to switch to your platform?",
+				"added": 1510512942
+			}
+		],
+		"1509171908_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": [
+			{
+				"comment_id": 26,
+				"body": "Could you please add Git Center?",
+				"added": 1510515406
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 27,
+				"body": "test",
+				"added": 1510591253
+			}
+		],
+		"1510599199_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 28,
+				"body": "Does it update automatically?",
+				"added": 1510602515
+			}
+		],
+		"1510936767_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 32,
+				"body": "> [styromaniac](#comment_215_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Yep. The browser stops working after doing this.\n\nI use Firefox Quantium and it doesn't!",
+				"added": 1510992286
+			}
+		],
+		"1511315345_1Ly7Zat64UdKNHWhw5hfac5rsc6rLfYHV1": [
+			{
+				"comment_id": 34,
+				"body": "> [kopyjane](#comment_50_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Does that mean the masterseed stays the same?\n\nNope.",
+				"added": 1511354565
+			}
+		],
+		"1511752886_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 40,
+				"body": "You can try:\n1. Use [corsPermission](http://127.0.0.1:43110/1Docsfk5uLvuXkL4U13eYDxCm2gzi1fNQq/site_development/zeroframe_api_reference/index.html#corsPermission) ZeroFrame command, then you can use `http://127.0.0.1:43110/your_site/cors-other_site/other_site_data`.\n2. Use `raw` prefix (recommended): `http://127.0.0.1:43110/raw/other_site/other_site_data`.",
+				"added": 1511758853
+			}
+		],
+		"1511946019_18q3WsqR7iwgwRTzsZcqDGf7zmVxCDEWHX": [
+			{
+				"comment_id": 41,
+				"body": "Hello",
+				"added": 1511946769
+			}
+		],
+		"1_1A2WvfAvmJ4RKp9YLt6u941eSpF4L53CTT": [
+			{
+				"comment_id": 45,
+				"body": "Another torrent tracker: [Torrent Share](http://127.0.0.1:43110/1ShArE1dJFcHFgTEEAUMXksDZuRckzd3Y)",
+				"added": 1512050759
+			}
+		],
+		"1512159205_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": [
+			{
+				"comment_id": 49,
+				"body": "> `EulerFinder look decent/okay` i know ahahaI'm not a good graphic :D\n\nLight theme/adjuster for EulerFinder: http://127.0.0.1:43110/16miC8x9cWWLVxfb8v1mbAvecfXRitwuLj. It even somewhat works with BinChan's dark theme.",
+				"added": 1512206440
+			},
+			{
+				"comment_id": 50,
+				"body": "> [axeltherabbit](#comment_46_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF): upload bug of gitcenter seem solved :) [...]\n\nWhich bug? :) I don't recall.\n\nBut if I fixed a bug that's cool!",
+				"added": 1512240495
+			},
+			{
+				"comment_id": 51,
+				"body": "> [krixano](#comment_173_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I think he talking about when he first put EulerFinder on gitcenter. There was a bug with uploading files I think. There is also that bug with directory with no name too. Perhaps those were the same bug, but it wasn't known at the time (because axeltherabbit could have started the file paths with a \"/\" when he uploaded, but he could have thought that it just wasn't uploading the files or something).\n\nYes, there was a bug with empty directory names, perhaps that's the origin.",
+				"added": 1512242535
+			}
+		],
+		"1512534533_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 52,
+				"body": "> Could it be .. 'Hello' .. in 1337 speak?\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1511959694",
+				"added": 1512542115
+			},
+			{
+				"comment_id": 53,
+				"body": "> [glightstar](#comment_34_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): @nofish actually confirmed this over on ZeroMe (don't want to search the direct url now, but @GitCenter mentioned it)\n\nI mentioned that link in this post:\n\n> [gitcenter](#comment_52_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1511959694",
+				"added": 1512589107
+			}
+		],
+		"1512623414_1HBy99H2dsCwevdYZp8VVC2SVG69DGVyEd": [
+			{
+				"comment_id": 54,
+				"body": "Shout your mouth! Don't let ZeroNet die!!!111eleveneleven",
+				"added": 1512625743
+			}
+		],
+		"1512623897_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 55,
+				"body": "You can clone e.g. my library here: https://github.com/imachug/ZeroFile or here: [Git Center Repo](/14RZ17oHH2sZDHr4v8GrnT8j8BXjnLGhjT/)\n\nClone site http://127.0.0.1:43110/1KgAQscdGPvWqL8uMPkTrHnA5mZE6TR51S/ and you are done. Put anything to `files` subdirectory and it will appear in the list. Notice that it doesn't work well with optional files (or I am not sure) right now, for optional files clone ZeroUp. (You will have to do some modifications to allow only one person upload files)",
+				"added": 1512626153
+			},
+			{
+				"comment_id": 62,
+				"body": "> [tuckerb](#comment_19_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG): My zite is loading very slowly and sometimes even crashes the tab, do you think you could help me fix it? http://127.0.0.1:43110/19PiGL5SL6CvHToZVWKpMFnMCmSL2YCW7E/#/\n\nYep, let me check.",
+				"added": 1512910042
+			},
+			{
+				"comment_id": 63,
+				"body": "> [tuckerb](#comment_19_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG): My zite is loading very slowly and sometimes even crashes the tab, do you think you could help me fix it? http://127.0.0.1:43110/19PiGL5SL6CvHToZVWKpMFnMCmSL2YCW7E/#/\n\nOh, you have optional files there. And `content.json` is 3MB!",
+				"added": 1512910848
+			},
+			{
+				"comment_id": 64,
+				"body": "> [tuckerb](#comment_21_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG): What should I do?\n\nNot sure, but can you try to do the same as you did with original site, but upload only a few files. Just interested if big `content.json` *is* the problem.",
+				"added": 1512921548
+			}
+		],
+		"1512651955_1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj": [
+			{
+				"comment_id": 56,
+				"body": "You don't have to open it. For sharing, ZeroNet has two possibilities:\n\n1. `Publish`: `site owner -> \"publish\" -> peer` (peer has to open port, site owner doesn't)\n2. `Update`: `peer -> \"update\" -> site owner` (peer doesn't have to open port, site owner does)\n\nSo, your sites should work even with port closed.",
+				"added": 1512655748
+			},
+			{
+				"comment_id": 57,
+				"body": "> [spaghetti](#comment_2_1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj): I mean, seeding sites (that I do not own). Basically, I want to support the network.\n\nThen you don't have to leave port open.",
+				"added": 1512738738
+			}
+		],
+		"1512712488_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 58,
+				"body": "> [nofish](#comment_1071_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): If you have any feedback/feature request feel free to open an issue or add it here. [...]\n\nWhat about adding an option to e.g. Multiuser plugin. You could enable it via config to disallow pinning big files.",
+				"added": 1512738895
+			}
+		],
+		"1512768435_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": [
+			{
+				"comment_id": 59,
+				"body": "You cannot use spaces in filenames in ZeroNet.",
+				"added": 1512798218
+			},
+			{
+				"comment_id": 60,
+				"body": "> [nofish](#comment_1072_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): You can, allowed chars: [a-z[]() A-Z0-9_@=.+-/], but the file name is too long (max 255 char)\n\nMy bad, forgot about this again.\n\nThen, maybe raise error with message `Too long inner_path` instead?",
+				"added": 1512825838
+			}
+		],
+		"1513249597_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 66,
+				"body": "Here are 4 cases shown by implementing the following algorithm:\n1. Get site info.\n2. Open file `a` as JSON.\n3. Add a new entry to `data` object with id `next_id` and value of site info.\n4. Write `a` as JSON.\n5. Show error in console (if any).\n\nChoose which is better for you.\n\n---\n\n## Case 1. Callbacks\n\n```javascript\nzeroFrame.cmd(\"siteInfo\", function(info) {\n\tzeroFrame.cmd(\"fileGet\", [\"a\", true, \"base64\", 300], function(file) {\n\t\tfile = JSON.parse(file ? atob(file) : \"{}\");\n\t\tfile.data = file.data || {};\n\t\tfile.data[file.next_id] = info;\n\t\tfile = JSON.stringify(file);\n\t\tzeroFrame.cmd(\"fileWrite\", [\"a\", btoa(file)], function(e) {\n\t\t\tif(e && e.error) {\n\t\t\t\tconsole.error(e);\n\t\t\t}\n\t\t});\n\t});\n});\n```\n\n*Ugly.*\n\n## Case 2. Promises\n\n```javascript\nvar info;\nzeroFrame.cmdp(\"siteInfo\")\n\t.then(function(i) {\n\t\tinfo = i;\n\t\treturn zeroFrame.cmdp(\"fileGet\", [\"a\", true, \"base64\", 300]);\n\t})\n\t.then(function(file) {\n\t\tfile = JSON.parse(file ? atob(file) : \"{}\");\n\t\tfile.data = file.data || {};\n\t\tfile.data[file.next_id] = info;\n\t\tfile.next_id++;\n\t\tfile = JSON.stringify(file);\n\t\treturn zeroFrame.cmdp(\"fileWrite\", [\"a\", btoa(file)]);\n\t})\n\t.catch(function(e) {\n\t\tconsole.error(e);\n\t});\n```\n\n*Something.*\n\n## Case 3. Async/await\n\n```javascript\ntry {\n\tvar info = await zeroFrame.cmdp(\"siteInfo\"):\n\tvar file = await zeroFrame.cmdp(\"fileGet\", [\"a\", true, \"base64\", 300]);\n\tfile = JSON.parse(file ? atob(file) : \"{}\");\n\tfile.data = file.data || {};\n\tfile.data[file.next_id] = info;\n\tfile.next_id++;\n\tfile = JSON.stringify(file);\n\tawait zeroFrame.cmdp(\"fileWrite\", [\"a\", btoa(file)]);\n} catch(e) {\n\tconsole.error(e);\n}\n```\n\n*Good.*\n\n## Case 4. Use my library :)\n\n[GitHub <clearnet>](https://github.com/imachug/zerolib) [Git Center <zeronet>](/198T84VCiznCMNBAnqTNEsRGRZW77nBPNo/)\n\n```javascript\n// init libraries...\n\ntry {\n\tvar info = await zeroPage.getSiteInfo():\n\tvar file = await zeroFS.readFile(\"a\");\n\tfile = JSON.parse(file || \"{}\");\n\tfile.data = file.data || {};\n\tfile.data[file.next_id] = info;\n\tfile.next_id++;\n\tfile = JSON.stringify(file);\n\tawait zeroFS.writeFile(\"a\", file);\n} catch(e) {\n\tconsole.error(e);\n}\n```\n\n*Same as promises, but adds aliases (e.g. call `getSiteInfo`, not `cmdp(\"siteInfo\")`) and parts to libraries (ZeroPage -\n promise version of ZeroFrame; ZeroFS, ZeroDB, ZeroAuth, ZeroOptional, ZeroBigFiles, etc.).*",
+				"added": 1513262067
+			},
+			{
+				"comment_id": 71,
+				"body": "> [polar](#comment_84_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): cmdp looks good, where can I use it?\n\nIf your site is old, you can copy `zeroframe.js` from `ZeroHello/template-new/js/ZeroFrame.js`. If your site is new, you already have it.",
+				"added": 1513269671
+			},
+			{
+				"comment_id": 73,
+				"body": "> [polar](#comment_84_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): cmdp looks good, where can I use it?\n\nIf you have a simple site or have your own library, of course you can use `cmdp`. But ZeroNet API is weird somewhere, so I suggest you to look at my libraries or take some code from them. (example: all files are read correctly except *some* binary. WebSocket hangs. Ya know what? That file had some bytes which turned out to be some websocket termination code. I had to add base64 parse/encode functions)",
+				"added": 1513270388
+			}
+		],
+		"1513230190_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 67,
+				"body": "As far as I know, there is no Facebook clone here. Though [Krixano thought about it](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1513049503), I am not sure, maybe you both should try to do that and we'll have 3 social networks.",
+				"added": 1513262316
+			}
+		],
+		"1513227488_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 68,
+				"body": "Which sites are you seeding then?",
+				"added": 1513262361
+			}
+		],
+		"1513263552_17Rdzwwv6BpXjyZeCQNRFUbMQ3uTPNhZHX": [
+			{
+				"comment_id": 69,
+				"body": "test",
+				"added": 1513267077
+			}
+		],
+		"1513261976_14AGYi4egYjHjzXwWezZ3LVd8KRwQArDLd": [
+			{
+				"comment_id": 70,
+				"body": "## Part 1. Find `data`\n\nFirst of all, you should find your `data` folder.\n\n1. If you use Windows stand-alone ZeroNet (that is from zeronet.io, `zeronet-win-dist`), then you will find `data` near `ZeroNet.exe`.\n2. If there is `python.exe` in ZeroNet folder, you will find `data` near it.\n3. Otherwise, if you set up ZeroNet on Windows, e.g. in `C:\\Program Files\\ZeroNet`, then you will find `data` folder in `C:\\Program Files\\ZeroNet\\data`.\n4. If you use MacOS and put ZeroNet to `Applications`, then you will find `data` folder here: `~/Library/Application Support/ZeroNet/data`. If you didn't put ZeroNet to `Applications`, then `data` will be near `zeronet.py` and others.\n5. If you use AppImage, `usr/share` or other non-writable locations, you would normally find `data` in `~/ZeroNet/data`.\n\n## Part 2. Find site address\n\nWhen visiting a site, you will usually see `http://127.0.0.1:43110/1something` in address bar. That `1something` is site address. If you see `.bit` there or can't find out what to copy: open site, then open sidebar, then find `SITE ADDRESS` entry.\n\n## Part 3. Open directory\n\nLocate to `data` folder. Then open a folder named like site address. This will be your site.\n\n## Part 4. What is here?\n\nHere is `index.html` which is usual `index.html`, like on ClearNet. You can simply edit it (hint: don't use absolute paths on ZeroNet) and add/remove other files. Then open sidebar, press `Sign` and then `Publish` at the very bottom to sign the site. After signing (do it after each change), peers will get new updates.\n\n---\n\nAlso, you may want to check out my tutorials here: https://github.com/krixano/ZeroNet-Dev-Center/issues/28. There is information that you will find useful when you try to make a new site.",
+				"added": 1513267766
+			}
+		],
+		"1513268056_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 72,
+				"body": "Just posted answer [here](http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1513261976_14AGYi4egYjHjzXwWezZ3LVd8KRwQArDLd). As stated, navigate to `data/1something` via some file explorer.",
+				"added": 1513269753
+			},
+			{
+				"comment_id": 74,
+				"body": "> [james007](#comment_134_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): He may mean cross-Zites. Like the Merged:CDN thing, was never clear to me either.\n\nA tutorial on merger sites can be found here: https://github.com/krixano/ZeroNet-Dev-Center/issues/28. You need parts 11 and 12.",
+				"added": 1513272271
+			},
+			{
+				"comment_id": 75,
+				"body": "> [polar](#comment_85_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): I am developing http://127.0.0.1:43110/1QHbf72f4vdx3QAxN1LTN9KP19J428Q85R.I mean move files by ZeroFrame API, and not load whole file data into memory.If can't, I will use bash/python.\n\nAs far as I know, you cannot :( @nofish:",
+				"added": 1513272607
+			}
+		],
+		"1513544848_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 79,
+				"body": "> We did not set that when we changed the site address to our vanity address.\n\nMaybe you did it wrong?\n\nSteps:\n1. Create an empty site (and maybe fill it with some content)\n2. Generate new vanity address <- you are here\n3. Rename folder of your site to that new address\n4. (optional) Add private key to `users.json`, I can explain it further if you want\n5. Visit new site using new address (http://127.0.0.1:43110/new_address)\n6. Sign and publish it\n\nI tried that a lot of times and that worked.",
+				"added": 1513579595
+			},
+			{
+				"comment_id": 80,
+				"body": "> [malteaser](#comment_7_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Could be, though we followed those steps except for step 4. We also modified content.json to add the vvanity address: [...]\n\nI didn't change `address_index` when I created Git Center, so it shouldn't matter.",
+				"added": 1513591909
+			},
+			{
+				"comment_id": 81,
+				"body": "> [malteaser](#comment_7_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Could be, though we followed those steps except for step 4. We also modified content.json to add the vvanity address: [...]\n\nDid you clone any site or created new?",
+				"added": 1513591940
+			},
+			{
+				"comment_id": 82,
+				"body": "> [malteaser](#comment_9_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Cloned. We also did other test clones without changing the vanity address and got the same result.\n\nWhat ZeroNet version do you have?",
+				"added": 1513592919
+			},
+			{
+				"comment_id": 83,
+				"body": "> [malteaser](#comment_10_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Ver 0.6.0\n\nCan you please do the following:\n\n1. Clone ZeroTalk\n2. Generate new address\n3. Move the site to new address\n4. Sign and give me a link\n\nJust to check if this is network or software problem.",
+				"added": 1513594533
+			},
+			{
+				"comment_id": 87,
+				"body": "> [malteaser](#comment_12_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): \n\nare you online?",
+				"added": 1513613505
+			},
+			{
+				"comment_id": 88,
+				"body": "> [malteaser](#comment_12_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): \n\nI managed to download some files.",
+				"added": 1513614515
+			},
+			{
+				"comment_id": 89,
+				"body": "> [gitcenter](#comment_88_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): I managed to download some files.\n\nGot `File write error: [object Object]`. Is it that error?",
+				"added": 1513615679
+			},
+			{
+				"comment_id": 90,
+				"body": "> [malteaser](#comment_13_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Can you try and post a comment on one of the posts please? It's the comments that's not working.\n\nOooh I understand what. How did you clone that site? Copied ZeroBlog folder? That doesn't work. Instead, you should use `Clone` feature from ZeroHello.",
+				"added": 1513615971
+			},
+			{
+				"comment_id": 91,
+				"body": "> [malteaser](#comment_13_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Can you try and post a comment on one of the posts please? It's the comments that's not working.\n\nYou signed `content.json`, right? Did you also sign `data/users/content.json`?",
+				"added": 1513616526
+			},
+			{
+				"comment_id": 94,
+				"body": "> [malteaser](#comment_14_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Yes, that's typically the error we get. Also, we did use the clone feature for both the original site and this test. [...]\n\nCan you please clone ZeroBlog again, sign it and send me an archive of new site? Before changing address?",
+				"added": 1513617541
+			},
+			{
+				"comment_id": 95,
+				"body": "> [malteaser](#comment_14_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Yes, that's typically the error we get. Also, we did use the clone feature for both the original site and this test. [...]\n\nBy signing, I mean opening sidebar and pressing `Sign` and then `Publish` buttons at the bottom.",
+				"added": 1513617686
+			},
+			{
+				"comment_id": 101,
+				"body": "> [malteaser](#comment_15_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Thanks. Try this: http://127.0.0.1:43110/13QBmg2cLhKEoGJiV86Wvght4dKq7N2JFj/  [...]\n\nNormally you shouldn't, but after changing address to new (vanity) you should.",
+				"added": 1513620443
+			},
+			{
+				"comment_id": 102,
+				"body": "> [malteaser](#comment_15_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Thanks. Try this: http://127.0.0.1:43110/13QBmg2cLhKEoGJiV86Wvght4dKq7N2JFj/  [...]\n\nGetting `no peers found`. Could you publish one more time?",
+				"added": 1513620692
+			},
+			{
+				"comment_id": 103,
+				"body": "> [malteaser](#comment_16_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Done\n\nLooks like I submitted comment!",
+				"added": 1513623027
+			},
+			{
+				"comment_id": 105,
+				"body": "> [malteaser](#comment_17_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): We can't see it, though. We just published a comment too. Can you see it?  [...]\n\nYes, I can see it!",
+				"added": 1513623745
+			},
+			{
+				"comment_id": 107,
+				"body": "> [malteaser](#comment_18_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): I see your comment too now. Great! This is working. [...]\n\nI can see your post. Can you see mine?",
+				"added": 1513624755
+			}
+		],
+		"1513607828_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 84,
+				"body": "> File History\n\nGit!",
+				"added": 1513608146
+			},
+			{
+				"comment_id": 85,
+				"body": "> [polar](#comment_88_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): I need the built-in feature. And git is low-performance for HUGE amount of files.\n\nBuiltin? You mean, ZeroNet? Then, there is no such feature.\n\nThough, there may be a service in ZeroNet that offers it, but not builtin.",
+				"added": 1513610891
+			},
+			{
+				"comment_id": 86,
+				"body": "> [polar](#comment_89_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): A great example: https://wiki.installgentoo.com/index.php/Lainchan [...]\n\nGitHub owners can erase all data, too. Do you know a service which has no problems?",
+				"added": 1513613467
+			},
+			{
+				"comment_id": 92,
+				"body": "> [polar](#comment_90_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): But we have clone, right?\n\nWhich one?",
+				"added": 1513616568
+			},
+			{
+				"comment_id": 93,
+				"body": "> [polar](#comment_91_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): Normal git.If a git repo erase all data and push to remote server, we still have local copy.\n\nWhat stops you from using Git for ZeroNet?",
+				"added": 1513617251
+			},
+			{
+				"comment_id": 98,
+				"body": "> [polar](#comment_92_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): No, I can use git on my site. But I want apply this feature on all site.\n\nSo you basically want a backup system?",
+				"added": 1513618131
+			},
+			{
+				"comment_id": 99,
+				"body": "> [polar](#comment_93_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): Yes.\n\ncron?",
+				"added": 1513618760
+			},
+			{
+				"comment_id": 100,
+				"body": "> [polar](#comment_94_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): I don't use time-based job scheduler. Full-scan / full-copy all file in /data is low-performance.I monitor file change: when file change, I copy the changed file to mirror folder, and mirror folder stored all old version of files since I start seeding) [...]\n\nIn git, you can force-push. You can deny force-push, but only on remote server. On ZeroNet, there is no server. So you cannot forbid anybody to force-push.",
+				"added": 1513619664
+			}
+		],
+		"1513455571_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 97,
+				"body": "> [lonelyreader](#comment_9_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs): If I would somehow choose the shorten link, it would be perfect\n\nWhat about [0sh.bit/?GitCenter](/0sh.bit/?GitCenter)? :)\n\nSo that's how I did this:\n1. Open folder of 0sh. (ZeroNet/data/1GNTAKCimBv5xEnt7QvkDn8sTkEPj7ZYTL)\n2. Get your ZeroID auth_address (go to zeroid.bit, slide sidebar, notice `UNIQUE ADDRESS`)\n3. Go to `0shfolder/data/uniqueaddress/data.json`.\n4. Replace link you were given to what you want (`GitCenter` is what I used)",
+				"added": 1513618097
+			}
+		],
+		"1513621070_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 104,
+				"body": "> I am also thinking about moving the project to a git repository so you can see the changes easily.\n\nWould like to see!",
+				"added": 1513623334
+			},
+			{
+				"comment_id": 106,
+				"body": "> [herp](#comment_60_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Shameless plug for  Git Center.\n\nDid you publish?",
+				"added": 1513624458
+			},
+			{
+				"comment_id": 108,
+				"body": "> [herp](#comment_60_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): Shameless plug for  Git Center.\n\nDownloaded your repo. Seeding now :)",
+				"added": 1513624767
+			}
+		]
+	},
+	"comment_vote": {
+		"9_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6": 1,
+		"347_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"182_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1_1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ": 1,
+		"6_1GEfdZ7AyiBeEj8341JU5yZrCWCCczGDg5": 1,
+		"5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"5_145zD8daiDKRDbrKXhJJUHA1sduTPZU3Kh": 1,
+		"6_16J4P74LkfZ87zHug8ycEHmYdvp6wMdkXt": 1,
+		"2_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn": 1,
+		"4_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn": 1,
+		"128_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"129_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB": 1,
+		"47_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"156_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": 1,
+		"1056_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"20_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": 1,
+		"210_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"8_1HtGfHk2MuqcB5nYXZ6b2NajXJLoxfq7XS": 1,
+		"1_1AygX3pXDGgwuem31LY4GaEHAiwKaPp8Ff": 1,
+		"37_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"39_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"1_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"20_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"45_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"10_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"25_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"6_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"79_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"51_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"48_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"47_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"52_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"53_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1062_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1064_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"11_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"9_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2": 1,
+		"8_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2": 1,
+		"167_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"103_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"155_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"9_1GEfdZ7AyiBeEj8341JU5yZrCWCCczGDg5": 1,
+		"26_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"27_1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6": 1,
+		"8_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"9_1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": 1,
+		"32_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"1_1CTSRUgBcYGvfN2Y1ttfcsMCZV5Y8DjVhb": 1,
+		"9_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o": 1,
+		"100_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"43_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"44_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"64_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"2_1D5hjhmyeprNWqBEkoTbUkqWRwryj7zHtd": 1,
+		"215_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"214_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"213_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"2_17Zks611RR4oN8USC3RxJzaw94GyPufioG": 1,
+		"3_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": 1,
+		"2_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": 1,
+		"158_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"38_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"39_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"4_1NpjJ6CEfGa7sDx2VHEEnwrpiy8DXf1io8": 1,
+		"160_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"36_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"46_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"173_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"3_1DF8dFxXTxMjyZ9o96iPENud3ihbS95Jwb": 1,
+		"112_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"35_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"34_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"2_1Kk8bHPgiANnCpKHFXCKC7tVP7vbeTBX7q": 1,
+		"10_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"55_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"178_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"83_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1_1HJfTUxVhqbbrKNxmysW5vNQRucpEqGVK2": 1,
+		"1_1EoKMWyPmgQknqjF73aeJpGHMQuibyL8P1": 1,
+		"1_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": 1,
+		"1072_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"13_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"65_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"61_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"186_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"400_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"8_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner": 1,
+		"2_1Fc3jLgQGaMHRgsjUTQYGGXie2MbMoqmY5": 1,
+		"5_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"212_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"227_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1079_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1080_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"75_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"85_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"134_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"1_19b8dupChmu8SXVT7GbHU4gQN8qaH34d25": 1,
+		"246_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"60_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1
+	}
+}

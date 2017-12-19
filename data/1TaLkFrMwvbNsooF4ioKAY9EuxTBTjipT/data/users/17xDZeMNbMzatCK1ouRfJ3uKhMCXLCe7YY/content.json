@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFZsxpqm+Zl8b7I+SKDc8SPqGA7M2b8AJtGkd9kze5FFLhoZspNII2G0n6U26ttgTm5XvF0A61c+NpMZhaZGmYM=",
+ "cert_user_id": "ligo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1eb5ba0530e5d62a5429bf049fe0def7728c86c51bbea15c598c47f511144eb6",
+   "size": 261
+  }
+ },
+ "inner_path": "data/users/17xDZeMNbMzatCK1ouRfJ3uKhMCXLCe7YY/content.json",
+ "modified": 1500309078,
+ "signs": {
+  "17xDZeMNbMzatCK1ouRfJ3uKhMCXLCe7YY": "G3KXPM3yLoYYDuTy0SPYWJfGpg1F1X95TLzdakjqL1kFH+IYUcMj8HC9EJTHEbI/VzKScFSVAJ3oPvKnXynzvGw="
+ }
+}

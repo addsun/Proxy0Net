@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/3fteac2UJkVNC8X3Ps8cE187RaZcgRBHjSHTtuPhorCFMGePYucR3J8p4YQ9NJKtR7eaXciSpOJVwBAV9ZE5I=",
+ "cert_user_id": "iridium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a52edf097d3ba782498f43f7ee46f71d47d771791e63d27812e109fd2843b2ae",
+   "size": 279
+  }
+ },
+ "inner_path": "data/users/1D6XtNJzCKsoDHiuhS78QhH4FAnniZewDS/content.json",
+ "modified": 1509900257,
+ "signs": {
+  "1D6XtNJzCKsoDHiuhS78QhH4FAnniZewDS": "GzyKEGxrdEoLfuUAmS3lKLqQzHlShmbJPMX6fYfwMqy6dMdpOsIMPB56ymuDpk0B60d/MfqtzEvWzgeSJa+6htk="
+ }
+}

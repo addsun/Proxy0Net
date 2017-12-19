@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Uwu",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1500255196,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1500255210,
+			"body": "what is up my friends",
+			"date_added": 1500255208
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Elspru: wow this actually works and looks nice, i really didn't expect this out of an open source project",
+			"post_uri": "18HUH1e6CEBEoCDZfpi5ZQXAaTxni4XbuG_1500255210",
+			"date_added": 1500255289
+		}
+	],
+	"follow": []
+}

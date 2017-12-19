@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwHgBIDFANLb1g8teEdcJEUVnAwkowWnq5z+lEQ6nMZDhKOxpa20ILMqL+Db3ro7vokafTUTrkWkG5wkNjZSavU=",
+ "cert_user_id": "antoinetheblackd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ef9b2548ca0fafe6c8884abd29fc281d58c098b620bdf46a15ff639d78a12c16",
+   "size": 587
+  }
+ },
+ "files_optional": {
+  "1507128923.jpg": {
+   "sha512": "8a7d4e4b002521535170c3820b1af1e02afe781a1badb74ae8adb78ad45ce763",
+   "size": 139063
+  }
+ },
+ "inner_path": "data/users/13owud5HHvVYq9NqPPUhNAYReR7HGpHMeG/content.json",
+ "modified": 1507128946,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13owud5HHvVYq9NqPPUhNAYReR7HGpHMeG": "G3y17vxgPtR+YJgkSWzkHIbc0lqQUdXm3i06sTq8yAsPc5DK0p+W2tvFIxnHV1j6w33XWTE5s4dllHvzZGdIeys="
+ }
+}

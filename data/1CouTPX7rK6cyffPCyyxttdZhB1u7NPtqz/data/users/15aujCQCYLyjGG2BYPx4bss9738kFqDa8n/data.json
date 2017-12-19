@@ -1,0 +1,34 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "XDMS",
+	"hub": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+	"intro": "http://127.0.0.1:43110/xdms.bit",
+	"post": [
+		{
+			"post_id": 1495696213,
+			"body": "http://127.0.0.1:43110/xdms.bit",
+			"date_added": 1495696211
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 3,
+			"hub": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+			"auth_address": "15aujCQCYLyjGG2BYPx4bss9738kFqDa8n",
+			"user_name": "XDMS",
+			"date_added": 1496114806
+		},
+		{
+			"follow_id": 6,
+			"hub": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+			"auth_address": "15aujCQCYLyjGG2BYPx4bss9738kFqDa8n",
+			"user_name": "XDMS",
+			"date_added": 1496206710
+		}
+	]
+}

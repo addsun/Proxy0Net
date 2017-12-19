@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G23O+RXJiGgZ2vFnkXGZZeteO/AwNlv3h8MlY5Wvl1WlbUCkv0TiVllVoBpRmiybaTDJ5Uz4gUr2wUDaH6sRaN8=",
+ "cert_user_id": "pincopallino@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "755b76cc2b0be475a1d7776e4860add5c0e5d933401866efc7e71b1b2f5b17a4",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/12v6Wmy52CSA2Vj6bwWtvS8DzAGp4iHKdk/content.json",
+ "modified": 1511860507,
+ "signs": {
+  "12v6Wmy52CSA2Vj6bwWtvS8DzAGp4iHKdk": "G114l4B3e5QdHMNHG4ffLXt5xzZLqC2mStvG0rvCV8a3JGPZtXLBrkU+Afha4OxpBLXkbFeKl4kkW6itsl1uatU="
+ }
+}

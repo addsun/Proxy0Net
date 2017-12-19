@@ -1,0 +1,66 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 4,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Table",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503166862,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1503166886,
+			"body": "Gotta love silly one-word usernames.",
+			"date_added": 1503166884
+		},
+		{
+			"post_id": 1503167016,
+			"body": "So, is zeronet like, 75% Chinese? Should probably start segmenting different websites out for different communities.",
+			"date_added": 1503167013
+		}
+	],
+	"post_like": {
+		"1DH742MJLc5ZHX9TghN9otRAiRjmGKyWrD_1503744369": 1503778977,
+		"195JPVPMW7foR7zr4tRi6zTssehDNMGqdi_1503870579": 1504058597
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jayq: Infinity next failed, they're still on Infinity, site is somewhat more stable, not much has really changed.",
+			"post_uri": "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC_1503290294",
+			"date_added": 1503778902
+		},
+		{
+			"comment_id": 2,
+			"body": "@Jayq: /tech/ is pretty great vs. /g/. GamerGate is pretty much entirely over and few people bring it up anywhere anymore from what I've seen. /pol/ there is more focused, but also overtly \"hitler or GTFO\", whereas 4pol is more ironic about that. This is important because there is a lot of cross-pollination with 8pol and the other boards, since the whole site is smaller, but /leftypol/ also exists. ",
+			"post_uri": "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC_1503290294",
+			"date_added": 1503974867
+		},
+		{
+			"comment_id": 3,
+			"body": "@Jayq: (I hate how this uses Enter as submit like Facebook) Anyway, I think 8chan is generally better. Smaller, more focused communities, 4chan has really become too mainstream, more teenagers on there. I have seen /pol/ attitudes in the other boards occasionally, but it's less meme-y, and often correctly called out as off-topic. I do think 8ch runs the risk of getting ICANNed in the near future due to /pol/, whereas 4chan would probably just delete their /pol/ altogether if it came down to it, bigger site would be given some time to react. In which case, that's why we have 0chan.",
+			"post_uri": "1LeZqbLv8mMF9Q9qvQeJX8mivvG7ykJUeC_1503290294",
+			"date_added": 1503975118
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "14YZi1gMud3SpDFUUQncoW68qorXf6SPPU",
+			"user_name": "Jayq",
+			"date_added": 1503202604
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "195JPVPMW7foR7zr4tRi6zTssehDNMGqdi",
+			"user_name": "Kekpharaoh",
+			"date_added": 1504058612
+		}
+	]
+}

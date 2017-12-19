@@ -1,0 +1,70 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Failure during \"Create new site\"",
+			"body": "Using clean installs on both Windows and OS X, my attempts to use the web interface to create a new site fails at the publish stage. \"Content publish failed.\"\n\nThe various tutorials and videos seem to show either a Linux install with access to the source, or an earlier version (2016) showing command line use. The command line example does not correspond to the current ZeroNet install. Have I committed a common mistake or do I have a configuration problem?\n\nThank you for your time.\n\nhttp://127.0.0.1:43110/1CTW7mNXKtUtmi1jM8z6TdG5KLE6c3DGSE/\n\nA correspond Zero Blog:\n\nhttp://127.0.0.1:43110/1MsYyip6dvvFx2FYnAuK2uXiXs4ufsCbEa/",
+			"added": 1505000136
+		}
+	],
+	"topic_vote": {
+		"3_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1vAdpJiyYEHcDZoJn93QcjzaFVKHHPg1F": [
+			{
+				"comment_id": 1,
+				"body": "The page in question:\n\nhttp://127.0.0.1:43110/1CTW7mNXKtUtmi1jM8z6TdG5KLE6c3DGSE/\n\nThe function calculates the hash of strings using several common algorithms, then creates a Google search link by which you can determine if the hash exists in a publicly available rainbow table. I created it for experience with nodejs-crypto and to help several friends avoid choosing bad passwords. (Yes, 12345).",
+				"added": 1505061689
+			},
+			{
+				"comment_id": 2,
+				"body": "Thank you for the assistance. I did not advertise my site due to my belief of an error.",
+				"added": 1505063829
+			}
+		],
+		"1_1Nx9ZGUxSaVmY3dMK9yaxcwuD9KtrK38Ra": [
+			{
+				"comment_id": 3,
+				"body": "Yo!",
+				"added": 1505094802
+			}
+		],
+		"1_145w1yniK8RaBKx468iMXcgunojqrJFNG5": [
+			{
+				"comment_id": 4,
+				"body": "I find it easier to close the launched browser, then launch the Tor with the http://127.0.0.1:43110 URL.",
+				"added": 1506390919
+			}
+		],
+		"4_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 5,
+				"body": "> [7c4](#comment_11_12HT4jASzPG2B9vGbzvrbeyjw3jBUgqUfq): Yes, I use Bitmessage over Tor. Distributed and anonymous, what more could one want?\n\nJello...",
+				"added": 1507510839
+			}
+		],
+		"3_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": [
+			{
+				"comment_id": 6,
+				"body": "I also encourage use of Tiddlywiki. I set a tiddler as my Zite's index page: \n\nhttp://127.0.0.1:43110/1CTW7mNXKtUtmi1jM8z6TdG5KLE6c3DGSE/\n\nThe page localized code is a great convenience - usually. Some aspects of the Tiddlywiki code seem to conflict with ZN's function.\n\nIs mise le meas.",
+				"added": 1508036525
+			},
+			{
+				"comment_id": 7,
+				"body": "The markup seems to conflict with ZN in some cases. One being ZN URLs. In my tests, such links failed using [[ ... ]] notation, working when using <a href= ...> </a> notation. Another error I encountered originated in part of the ZN engine, complaining about a loop on \"bools.\"\n\nServer error\nErr: TypeError: argument of type 'bool' is not iterable in UiServer.py line 94 > UiRequest.py line 128 > UiRequestPlugin.py line 22 > TranslateSitePlugin.py line 25 > FilePackPlugin.py line 66 > UiRequest.py line 473 > BigfilePlugin.py line 111 > BigfilePlugin.py line 381\n\nWhen in doubt, use HTML5.\n",
+				"added": 1508080551
+			}
+		],
+		"1509068178_1Bj15auJrYgZdHQNNLSGAWEHuiT4SKTPSz": [
+			{
+				"comment_id": 8,
+				"body": "ZeroID",
+				"added": 1509068896
+			}
+		]
+	},
+	"comment_vote": {}
+}

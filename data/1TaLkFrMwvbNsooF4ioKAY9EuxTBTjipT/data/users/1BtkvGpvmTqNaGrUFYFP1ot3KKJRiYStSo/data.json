@@ -1,0 +1,57 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Spreading the Word",
+			"body": "Greets,\n\nAre there any recommended ways to spread the word about ZeroNet?",
+			"added": 1500301735
+		}
+	],
+	"topic_vote": {
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1
+	},
+	"next_comment_id": 7,
+	"comment": {
+		"1_1PzZ4zqzjjaLj3yNSyvPRpwVSjcY7u5g8W": [
+			{
+				"comment_id": 1,
+				"body": "You did it!",
+				"added": 1500301820
+			}
+		],
+		"1_1Ey4hYTcoTAGEbZM7UuMTNr24SH4LySwrP": [
+			{
+				"comment_id": 2,
+				"body": "> [planespherev3](#comment_220_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): There are directional wifi antennas which can cover dozens of kilometers. [...]\n\nYes. But they can tend to have a good deal of latency and packet loss associated with them. There is also the issue of building out a more robust wireless standard...",
+				"added": 1500326041
+			},
+			{
+				"comment_id": 5,
+				"body": "> [kaffie](#comment_396_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Other way around. It's pretty easy technically. All the tech already exists. A lot of it is used for the traditional internet. The issue is political, economical, and societal. The hard part is deploying the hardware due to regulations, restrictions, cost, etc. [...]\n\nWhereas ISPs used to pop out of the ground like daisies when Ma Bell was the order of the day.",
+				"added": 1500333537
+			}
+		],
+		"1_1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi": [
+			{
+				"comment_id": 3,
+				"body": "What about gays?",
+				"added": 1500326101
+			},
+			{
+				"comment_id": 6,
+				"body": "> [adamleo](#comment_1_1KXweVRjumxcCbmnitezx2uABaCHdQxTjQ): where all the gays at\n\nEurope.",
+				"added": 1500705685
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 4,
+				"body": "BFE, USA",
+				"added": 1500326124
+			}
+		]
+	},
+	"comment_vote": {}
+}

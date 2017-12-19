@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNCQFhsh/upWcdmU0IKX/3ps4IgPnjm3wmffb5gHPEGhufuKUEJRp8xNrhzUt/7jEJjs4TByBo+iLlcTbxGfYyg=",
+ "cert_user_id": "daheitian@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "d548556b11004f8afcefc403ba76f907ec8e5820c815c537ed57a085bfe9b278",
+   "size": 1344
+  },
+  "data.json": {
+   "sha512": "7906c9111c57edee0b6244bebe711986ed2a82a971e55d55449f681882b53e8c",
+   "size": 14220
+  }
+ },
+ "inner_path": "data/users/1Lag7pfbM5eFgLm3g5YhescMXgdm4bLQsh/content.json",
+ "modified": 1513618761,
+ "signs": {
+  "1Lag7pfbM5eFgLm3g5YhescMXgdm4bLQsh": "G5KRi5YDCqP1j92Hwrgj9DuXr6USBHz2KUQExLiFjevnGTc+3cyEQ0YnTeET/3zLjG+OsWeRrBZzZQ7ZYvmLcT8="
+ }
+}

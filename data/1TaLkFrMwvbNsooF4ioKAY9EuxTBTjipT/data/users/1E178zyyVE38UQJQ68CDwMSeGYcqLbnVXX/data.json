@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Zero ID 2.0",
+			"body": "Hey I just want to tell you my idear for a ZeroID 2.0. Sadly i can not programm. And I am sorry for my bad english. \nSo the Idear. Right now how I understand it zeronet generats a private key and a public key. \nWhen you use ZeroID a Zertifikate get signt with the private Key so the public key is linked to the zeroid.\nIf you want to login from a other pc you have to copy the files withe the privat key to the second computer.\nMy idear is to use two private keys.\nthe first one is the main key which is used to reset the second key in case it is compromised. \nThe second key is the acutall key wich is used to proof that someone is the id owner. \nIs it possible to signe a file with the first key so that the public key from the second privat key authorized to represent a ZeroID? \nBecause if yes you could crypt the public key with \"synchron\" cryptographie (not sure if that the name) with a password wich is rememberable. and that crypted file ist uploaded to  ZeroID 2.0.\nSo in theory if you want to login from a diffrent computer. You can tipe in your ZeroID and the password for the crypted private key. If some one steals or bruteforces the password for the login you have to change it with to signe a new file with a new second privat key.",
+			"added": 1506581141
+		}
+	],
+	"topic_vote": {
+		"1_1E178zyyVE38UQJQ68CDwMSeGYcqLbnVXX": 1,
+		"4_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1
+	},
+	"next_comment_id": 3,
+	"comment": {
+		"9_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 1,
+				"body": "> [rrwtbrsyq8wmackv](#comment_12_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): Perfect -- now you just need to come up with a good reason to learn a hilariously useless and poorly designed invented language instead of heaps of perfectly good normal ones.  (Good luck.)\n\nwich language is perfectly? or normal? to lear esperanto makes a lot of sense if enough people speak it. Same reason why USA americans should  learn spanish or nearly every europeans learns at least a little bit of english. No one learns english because it is beautiflul or easy to learn (still easier than german or french), people learn it because a lot of people speak it. But for europe or EU members to learn esperanto would make much more sense to learn esperanto as second language and english as third or fourth. From esperanto you can build up diffrent Language and you need less time to understand it and to communicate.\nAnd could you tell me why it is poorly designed? Irregular verbs is a example of poorly design, and don't let me start about german or french a lot of there rules in grammer make no sense at all. And I know these languages are grown and not designed, but still it is much easier to learn esperanto first and the unlogical languages second.",
+				"added": 1506583671
+			}
+		],
+		"1_1B5JWFLMWdA1gzFDcpPTF8mLjUVsh7nNng": [
+			{
+				"comment_id": 2,
+				"body": "I do not think there is somthing like the ZERONET COIN. At least I think if there is one, it is not related to the Zeronet Projekt. Correct me pleas if I am wrong.",
+				"added": 1506754893
+			}
+		]
+	},
+	"comment_vote": {
+		"8_1NnHJYrqyt3ru8NNtgzX5TFMs71RWg9p6f": 1,
+		"441_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

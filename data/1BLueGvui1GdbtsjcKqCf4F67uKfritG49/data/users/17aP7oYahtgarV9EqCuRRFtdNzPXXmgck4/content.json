@@ -1,0 +1,48 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HGWb75DVB9hIPzxWkKPuqPgOOdt6/7QuWMqerqeUvhh9jCJ7hgf3eX3DdUp8M2no500ootvLtjxcDVzipxB7IUI=",
+ "cert_user_id": "diaotaida@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9f02033521e2defa9198e1975fe39cadd0fa8d9fd45aa6bf3eb2ef092b990422",
+   "size": 1591
+  },
+  "data.json": {
+   "sha512": "8aa93c7717e31eb7c42d640adb5ed1cc49b5dd0789cc88f667733385d82a65e3",
+   "size": 5297
+  }
+ },
+ "files_optional": {
+  "1500625452.jpg": {
+   "sha512": "023c603d6cca0464961a72f1328de61723a7d8e6f6928faef37dabf662b67f1e",
+   "size": 120806
+  },
+  "1500625468.jpg": {
+   "sha512": "001ab699f02cee7b4e6596ae043cef411ec6d9e5d3dff374f72d0f3909df3cbd",
+   "size": 100031
+  },
+  "1500625480.jpg": {
+   "sha512": "98f9c732387d1ab88c7aca394decad74aa9c09b5f90d82d85f785f8a13c3c700",
+   "size": 128500
+  },
+  "1500625671.jpg": {
+   "sha512": "ea07fff0d0ed19d06ea4b82eb0635a2e81b57f523fe44e22039bcc25654a35fa",
+   "size": 113111
+  },
+  "1500625686.jpg": {
+   "sha512": "d18844c2f77e78bb1eab2dab870500814d3a5c8490606bf9fdfa4c46b83b3d61",
+   "size": 131326
+  },
+  "1510304625.jpg": {
+   "sha512": "16f9d64b05f29d17b0eda093b426ff12fd83e05243c43542a1a6a6e7ae116798",
+   "size": 71994
+  }
+ },
+ "inner_path": "data/users/17aP7oYahtgarV9EqCuRRFtdNzPXXmgck4/content.json",
+ "modified": 1510474645,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17aP7oYahtgarV9EqCuRRFtdNzPXXmgck4": "G0bRF2duRB5WOSRSXho+BNl0DTgkD0q8cahBqD8ny4bHHQmMhvhTcYl160BaDDkSNjjC+OInSkT2wCfEmC98oxk="
+ }
+}

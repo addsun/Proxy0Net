@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is ZeroMe+ still around",
+			"body": "I've been trying to find the url to the ZeroMe+ client I used and I can't seem to find it anywhere. Is it still around?",
+			"added": 1500300638
+		}
+	],
+	"topic_vote": {
+		"2_14ciQjA3TAFm1Sju8F3wDXRKgYvqoJ5w3B": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"1_1NJPghRQFKLo3CdjKw1pLcFNHhqAUnUQsZ": [
+			{
+				"comment_id": 1,
+				"body": "Thank you. Ya, sorry I had to ask but I did try search before hand and ya kinda broken/got no where.",
+				"added": 1500301618
+			}
+		],
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": [
+			{
+				"comment_id": 2,
+				"body": "> [jdslimz](#comment_2_1FaZc1ybKfpLPtLABg9pzQUABPwe8dFD4K): Its not looking like it, honestly. Encryption, Tor, and things like ZeroNet and YaCy are our only hope of secure internet.\n\nPretty much, we are well past the point we can trust ISPs with our data. End to end encryption, the only real way.",
+				"added": 1500505852
+			},
+			{
+				"comment_id": 3,
+				"body": "> [jdslimz](#comment_3_1FaZc1ybKfpLPtLABg9pzQUABPwe8dFD4K): Or pull our own fiber and make our own internet!\n\nYa, totally. Luck for those who understand networking we can piggy back off the existing network. Much cheaper. \n\n> [hexkey](#comment_53_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF): Hard to say for now, But there is some degree of hope. Muricans gave congress a pretty strong message, and the momentum is still going--but there is still more to do. [...]\n\nMurica didn't do squat, besides elect one of the most anti-consumer anti-regulation moguls to the office of President. The destruction of the Net Neutrality/EPA/bank regulation/separation of church and state/foreign policy .... are all consequences. \n\nSure donate to the EFF, or ACLU cause they are doing their best to keep the beast at bay, but that's a losing battle the longer he stays in office.",
+				"added": 1500515422
+			}
+		],
+		"1_12AMmCZUvspr4iu2oAtW187n1pAbujkRhW": [
+			{
+				"comment_id": 4,
+				"body": "As I've been working with ZeroNet over the past few days I have come to really miss the ability to securely execute code. I've been developing websites for over a decade and if there is one lessen I've taken away in all those years it's, don't trust the user. It is the one certainty of site administration your users are going end up breaking something, or some will try to abuse the system. The authentication/mute system on ZeroNet makes my skin crawl.",
+				"added": 1500758115
+			},
+			{
+				"comment_id": 5,
+				"body": "> [manghoti](#comment_7_1N1udgFQU6Xi8hwykqRaieo3B4XXr9XoCy): I can understand that stance while zeronet is small and trying to grow. but it's crazy.\n\nIn my opinion it doesn't have anything to do with growth. ZeroNet is a proof of concept/tech demo, and not really indicative of a finished product. The system was created as ZeroNet's answer to the issue of authentication without a centralized authority. A problem no one has solved with any real success. \n\nBut at the end of the day, this is what we have. I've looked a several of the decentralized web projects and ZeroNet is the most efficient design in my opinion. It's easy to use, stable and at least for displaying static pages perfect. Myself as I'm designing, I can take the limitations of the system in to account. As a result I doubt many of my sites will support anonymous ZeroIDs even if that means I have to manually add IDs into the content.json.",
+				"added": 1500771414
+			}
+		]
+	},
+	"comment_vote": {
+		"82_1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": 1,
+		"423_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

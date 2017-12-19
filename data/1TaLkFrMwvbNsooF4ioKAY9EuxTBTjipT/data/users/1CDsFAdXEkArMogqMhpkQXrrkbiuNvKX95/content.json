@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8RE4DEKx6khXMP6gdoSqDazUGt4Bl8LEpaNKWax4g/o8PuF90y884UtNbm8tKn0KCtKgtUim0LUCgXjM5eA84w=",
+ "cert_user_id": "dothack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ee24a14bd7ba71fe110e654b5aca9216b89adc8cfb348e2476e643dc7443201b",
+   "size": 712
+  }
+ },
+ "inner_path": "data/users/1CDsFAdXEkArMogqMhpkQXrrkbiuNvKX95/content.json",
+ "modified": 1503104443,
+ "signs": {
+  "1CDsFAdXEkArMogqMhpkQXrrkbiuNvKX95": "HFXMWM1dW6e5EyPXzlcHF+O3RrnGqO3JV5UqoF8s/OP5cEmd3S66pn9fWUNhJ0onFhmJetAeptFBtukt4Y5krK4="
+ }
+}

@@ -1,0 +1,289 @@
+[2017-12-19 04:06:48,683] DEBUG    PluginManager Loading plugin: AnnounceZero
+[2017-12-19 04:06:48,746] DEBUG    PluginManager New plugin registered to: Site
+[2017-12-19 04:06:48,746] DEBUG    PluginManager Loading plugin: Bigfile
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: ContentManager
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: WorkerManager
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: FileRequest
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: Peer
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: Site
+[2017-12-19 04:06:48,897] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2017-12-19 04:06:48,897] DEBUG    PluginManager Loading plugin: Cors
+[2017-12-19 04:06:49,029] DEBUG    - Loaded translate file: src/Translate/languages/zh.json (46 entries)
+[2017-12-19 04:06:49,029] DEBUG    - Translate file not exists: plugins/Cors/languages/zh.json
+[2017-12-19 04:06:49,029] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,029] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:49,029] DEBUG    PluginManager Loading plugin: CryptMessage
+[2017-12-19 04:06:49,480] DEBUG    - Opening C:\Users\Administrator\zeronet0\src\util/../lib/opensslVerify/libeay32.dll...
+[2017-12-19 04:06:49,496] DEBUG    - Disable SSL compression failed: function 'SSL_COMP_get_compression_methods' not found (normal on Windows)
+[2017-12-19 04:06:49,496] DEBUG    - Missing SSLwrap, readded.
+[2017-12-19 04:06:49,496] DEBUG    - Python SSL version: OpenSSL 1.0.2k  26 Jan 2017
+[2017-12-19 04:06:49,496] DEBUG    - opensslVerify loaded: <CDLL 'C:\Users\Administrator\zeronet0\src\util/../lib/opensslVerify/libeay32.dll', handle 11000000 at 2a43e10>
+[2017-12-19 04:06:49,496] INFO     - OpenSSL loaded, version: 0100020CF
+[2017-12-19 04:06:49,585] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,585] DEBUG    PluginManager New plugin registered to: User
+[2017-12-19 04:06:49,585] DEBUG    PluginManager Loading plugin: FilePack
+[2017-12-19 04:06:49,618] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:49,618] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2017-12-19 04:06:49,618] DEBUG    PluginManager Loading plugin: MergerSite
+[2017-12-19 04:06:49,744] DEBUG    PluginManager New plugin registered to: ContentDb
+[2017-12-19 04:06:49,744] DEBUG    PluginManager New plugin registered to: WorkerManager
+[2017-12-19 04:06:49,746] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:49,746] DEBUG    PluginManager New plugin registered to: FileRequest
+[2017-12-19 04:06:49,746] DEBUG    PluginManager New plugin registered to: Site
+[2017-12-19 04:06:49,746] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2017-12-19 04:06:49,772] DEBUG    - Loaded translate file: plugins/OptionalManager/languages/zh.json (5 entries)
+[2017-12-19 04:06:49,772] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,773] DEBUG    - Loaded translate file: plugins/MergerSite/languages/zh.json (3 entries)
+[2017-12-19 04:06:49,773] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,773] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:49,773] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2017-12-19 04:06:49,773] DEBUG    PluginManager New plugin registered to: Site
+[2017-12-19 04:06:49,773] DEBUG    PluginManager New plugin registered to: SiteManager
+[2017-12-19 04:06:49,773] DEBUG    PluginManager Loading plugin: Mute
+[2017-12-19 04:06:49,796] DEBUG    - Loaded translate file: plugins/Mute/languages/zh.json (4 entries)
+[2017-12-19 04:06:49,796] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,796] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2017-12-19 04:06:49,796] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:49,796] DEBUG    PluginManager Loading plugin: Newsfeed
+[2017-12-19 04:06:49,930] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:49,930] DEBUG    PluginManager New plugin registered to: User
+[2017-12-19 04:06:49,930] DEBUG    PluginManager Loading plugin: OptionalManager
+[2017-12-19 04:06:49,930] DEBUG    PluginManager Loading plugin: PeerDb
+[2017-12-19 04:06:49,980] DEBUG    PluginManager New plugin registered to: ContentDb
+[2017-12-19 04:06:49,980] DEBUG    PluginManager Loading plugin: Sidebar
+[2017-12-19 04:06:50,028] DEBUG    - Loaded translate file: plugins/Sidebar/languages/zh.json (66 entries)
+[2017-12-19 04:06:50,028] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:50,028] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2017-12-19 04:06:50,028] DEBUG    PluginManager Loading plugin: Stats
+[2017-12-19 04:06:50,081] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:50,081] DEBUG    PluginManager Loading plugin: TranslateSite
+[2017-12-19 04:06:50,114] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:50,114] DEBUG    PluginManager Loading plugin: Trayicon
+[2017-12-19 04:06:50,144] DEBUG    - Loaded translate file: plugins/Trayicon/languages/zh.json (12 entries)
+[2017-12-19 04:06:50,144] DEBUG    PluginManager New plugin registered to: Actions
+[2017-12-19 04:06:50,144] DEBUG    PluginManager Loading plugin: Zeroname
+[2017-12-19 04:06:50,187] DEBUG    PluginManager New plugin registered to: UiRequest
+[2017-12-19 04:06:50,187] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2017-12-19 04:06:50,197] DEBUG    PluginManager New plugin registered to: SiteManager
+[2017-12-19 04:06:50,260] DEBUG    PluginManager New class accepts plugins: Peer (Loaded plugins: [<class 'Bigfile.BigfilePlugin.PeerPlugin'>, <class 'Peer.Peer.Peer'>])
+[2017-12-19 04:06:50,371] DEBUG    PluginManager New class accepts plugins: ContentDb (Loaded plugins: [<class 'PeerDb.PeerDbPlugin.ContentDbPlugin'>, <class 'OptionalManager.ContentDbPlugin.ContentDbPlugin'>, <class 'Content.ContentDb.ContentDb'>])
+[2017-12-19 04:06:50,374] DEBUG    Db:ContentDb Connected to data/content.db in 0.003s (opened: 1, sqlite version: 2.6.0)...
+[2017-12-19 04:06:50,374] DEBUG    Db:ContentDb Db check done in 0.000s, changed tables: []
+[2017-12-19 04:06:50,375] DEBUG    PluginManager New class accepts plugins: ContentManager (Loaded plugins: [<class 'Bigfile.BigfilePlugin.ContentManagerPlugin'>, <class 'Content.ContentManager.ContentManager'>])
+[2017-12-19 04:06:50,375] DEBUG    PluginManager New class accepts plugins: ConfigPlugin (Loaded plugins: [<class 'Zeroname.UiRequestPlugin.ConfigPlugin'>, <class 'OptionalManager.OptionalManagerPlugin.ConfigPlugin'>, <class 'Bigfile.BigfilePlugin.ConfigPlugin'>, <class 'Config.ConfigPlugin'>])
+[2017-12-19 04:06:50,378] DEBUG    - Config: Config(action='main', autodownload_bigfile_size_limit=1, batch=False, bind=None, bit_resolver='1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F', coffeescript_compiler='type %s | tools\\coffee\\coffee.cmd', config_file='zeronet.conf', connected_limit=8, data_dir='data', db_mode='speed', debug=False, debug_gevent=False, debug_socket=False, disable_db=False, disable_encryption=False, disable_sslcompression=True, disable_udp=False, download_optional='manual', end=True, file_size_limit=10, fileserver_ip='*', fileserver_port=15441, fix_float_decimals=False, homepage='1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D', ip_external=None, ip_local=['127.0.0.1'], keep_ssl_cert=False, language='zh', log_dir='log', max_files_opened=2048, msgpack_purepython=False, open_browser=None, optional_limit='10%', pin_bigfile=20, proxy=None, silent=False, size_limit=10, stack_size=None, stream_downloads=False, tor='enable', tor_controller='127.0.0.1:9051', tor_hs_limit=10, tor_password=None, tor_proxy='127.0.0.1:9050', trackers=['zero://boot3rdez4rzn36x.onion:15441', 'zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:15441', 'udp://tracker.coppersurfer.tk:6969', 'udp://tracker.leechers-paradise.org:6969', 'udp://9.rarbg.com:2710', 'http://tracker.opentrackr.org:1337/announce', 'http://explodie.org:6969/announce', 'http://tracker1.wasabii.com.tw:6969/announce'], trackers_file=False, ui_host=None, ui_ip='127.0.0.1', ui_port=43110, ui_restrict=False, updatesite='1UPDatEDxnvHDo7TXvq6AEBARfNkyfxsp', use_openssl=True, use_tempfiles=False, verbose=False, workers=5)
+[2017-12-19 04:06:50,380] DEBUG    PluginManager New class accepts plugins: Actions (Loaded plugins: [<class 'Trayicon.TrayiconPlugin.ActionsPlugin'>, <class 'main.Actions'>])
+[2017-12-19 04:06:50,380] INFO     - Version: 0.6.0 r3173, Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:19:30) [MSC v.1500 32 bit (Intel)], Gevent: 1.2.2
+[2017-12-19 04:06:50,545] DEBUG    PluginManager New class accepts plugins: FileRequest (Loaded plugins: [<class 'OptionalManager.OptionalManagerPlugin.FileRequestPlugin'>, <class 'Bigfile.BigfilePlugin.FileRequestPlugin'>, <class 'File.FileRequest.FileRequest'>])
+[2017-12-19 04:06:50,812] DEBUG    PluginManager New class accepts plugins: WorkerManager (Loaded plugins: [<class 'OptionalManager.OptionalManagerPlugin.WorkerManagerPlugin'>, <class 'Bigfile.BigfilePlugin.WorkerManagerPlugin'>, <class 'Worker.WorkerManager.WorkerManager'>])
+[2017-12-19 04:06:50,852] DEBUG    PluginManager New class accepts plugins: SiteStorage (Loaded plugins: [<class 'Mute.MutePlugin.SiteStoragePlugin'>, <class 'MergerSite.MergerSitePlugin.SiteStoragePlugin'>, <class 'FilePack.FilePackPlugin.SiteStoragePlugin'>, <class 'Bigfile.BigfilePlugin.SiteStoragePlugin'>, <class 'Site.SiteStorage.SiteStorage'>])
+[2017-12-19 04:06:50,874] DEBUG    PluginManager New class accepts plugins: SiteManager (Loaded plugins: [<class 'Zeroname.SiteManagerPlugin.SiteManagerPlugin'>, <class 'MergerSite.MergerSitePlugin.SiteManagerPlugin'>, <class 'Site.SiteManager.SiteManager'>])
+[2017-12-19 04:06:50,874] DEBUG    SiteManager SiteManager created.
+[2017-12-19 04:06:50,875] DEBUG    PluginManager New class accepts plugins: Site (Loaded plugins: [<class 'MergerSite.MergerSitePlugin.SitePlugin'>, <class 'OptionalManager.OptionalManagerPlugin.SitePlugin'>, <class 'Bigfile.BigfilePlugin.SitePlugin'>, <class 'AnnounceZero.AnnounceZeroPlugin.SitePlugin'>, <class 'Site.Site.Site'>])
+[2017-12-19 04:06:51,395] DEBUG    PluginManager New class accepts plugins: User (Loaded plugins: [<class 'Newsfeed.NewsfeedPlugin.UserPlugin'>, <class 'CryptMessage.CryptMessagePlugin.UserPlugin'>, <class 'User.User.User'>])
+[2017-12-19 04:06:51,471] DEBUG    PluginManager New class accepts plugins: UiWebsocket (Loaded plugins: [<class 'Sidebar.SidebarPlugin.UiWebsocketPlugin'>, <class 'Newsfeed.NewsfeedPlugin.UiWebsocketPlugin'>, <class 'Mute.MutePlugin.UiWebsocketPlugin'>, <class 'MergerSite.MergerSitePlugin.UiWebsocketPlugin'>, <class 'OptionalManager.UiWebsocketPlugin.UiWebsocketPlugin'>, <class 'CryptMessage.CryptMessagePlugin.UiWebsocketPlugin'>, <class 'Cors.CorsPlugin.UiWebsocketPlugin'>, <class 'Bigfile.BigfilePlugin.UiWebsocketPlugin'>, <class 'Ui.UiWebsocket.UiWebsocket'>])
+[2017-12-19 04:06:51,473] DEBUG    PluginManager New class accepts plugins: UiRequest (Loaded plugins: [<class 'Zeroname.UiRequestPlugin.UiRequestPlugin'>, <class 'TranslateSite.TranslateSitePlugin.UiRequestPlugin'>, <class 'Stats.StatsPlugin.UiRequestPlugin'>, <class 'Sidebar.SidebarPlugin.UiRequestPlugin'>, <class 'Mute.MutePlugin.UiRequestPlugin'>, <class 'MergerSite.MergerSitePlugin.UiRequestPlugin'>, <class 'OptionalManager.OptionalManagerPlugin.UiRequestPlugin'>, <class 'FilePack.FilePackPlugin.UiRequestPlugin'>, <class 'Cors.CorsPlugin.UiRequestPlugin'>, <class 'Bigfile.BigfilePlugin.UiRequestPlugin'>, <class 'Ui.UiRequest.UiRequest'>])
+[2017-12-19 04:06:51,473] INFO     - Creating FileServer....
+[2017-12-19 04:06:51,476] INFO     TorManager Connecting to Tor Controller 127.0.0.1:9051
+[2017-12-19 04:06:52,512] INFO     TorManager Starting self-bundled Tor, due to Tor proxy port 127.0.0.1:9050 check error: 'ascii' codec can't decode byte 0xd3 in position 28: ordinal not in range(128)
+[2017-12-19 04:06:52,515] INFO     - Creating UiServer....
+[2017-12-19 04:06:52,515] DEBUG    SiteManager Sites not loaded yet...
+[2017-12-19 04:06:52,515] DEBUG    SiteManager Loading sites...
+[2017-12-19 04:06:52,530] DEBUG    Site:1oranG..4k9v ContentDb init: 0.016s, found files: 2795, sites: 39
+[2017-12-19 04:06:52,566] DEBUG    SiteManager Loaded site 1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v in 0.052s
+[2017-12-19 04:06:52,568] DEBUG    Site:1Gfey7..fcdp ContentDb init: 0.001s, found files: 1, sites: 39
+[2017-12-19 04:06:52,569] DEBUG    SiteManager Loaded site 1Gfey7wVXXg1rxk751TBTxLJwhddDNfcdp in 0.003s
+[2017-12-19 04:06:52,571] DEBUG    Site:1N9sU8..vwMd ContentDb init: 0.001s, found files: 38, sites: 39
+[2017-12-19 04:06:52,572] DEBUG    SiteManager Loaded site 1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd in 0.003s
+[2017-12-19 04:06:52,586] DEBUG    Site:19BPUZ..TEC9 ContentDb init: 0.014s, found files: 4033, sites: 39
+[2017-12-19 04:06:52,609] DEBUG    SiteManager Loaded site 19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9 in 0.037s
+[2017-12-19 04:06:52,612] DEBUG    Site:1Jhb5s..9Pqm ContentDb init: 0.001s, found files: 146, sites: 39
+[2017-12-19 04:06:52,615] DEBUG    SiteManager Loaded site 1Jhb5snQN5z198ELyFoj2apeuuaRCM9Pqm in 0.005s
+[2017-12-19 04:06:52,618] DEBUG    Site:18FheQ..NJ8d ContentDb init: 0.001s, found files: 227, sites: 39
+[2017-12-19 04:06:52,621] DEBUG    SiteManager Loaded site 18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d in 0.005s
+[2017-12-19 04:06:52,621] DEBUG    Site:185yXN..mecL ContentDb init: 0.001s, found files: 53, sites: 39
+[2017-12-19 04:06:52,624] DEBUG    SiteManager Loaded site 185yXNL48LTZyKfNo6WgyKshtMgcV3mecL in 0.003s
+[2017-12-19 04:06:52,628] DEBUG    Site:1SiTEs..tdwB ContentDb init: 0.005s, found files: 1282, sites: 39
+[2017-12-19 04:06:52,631] DEBUG    SiteManager Loaded site 1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB in 0.007s
+[2017-12-19 04:06:52,631] DEBUG    Site:12h51u..WWtv ContentDb init: 0.000s, found files: 1135, sites: 39
+[2017-12-19 04:06:52,647] DEBUG    SiteManager Loaded site 12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv in 0.016s
+[2017-12-19 04:06:52,647] DEBUG    Site:1RedkC..uFdL ContentDb init: 0.000s, found files: 1546, sites: 39
+[2017-12-19 04:06:52,661] DEBUG    SiteManager Loaded site 1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL in 0.015s
+[2017-12-19 04:06:52,661] DEBUG    Site:149fpM..FKBq ContentDb init: 0.000s, found files: 67, sites: 39
+[2017-12-19 04:06:52,661] DEBUG    SiteManager Loaded site 149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq in 0.000s
+[2017-12-19 04:06:52,661] DEBUG    Site:1JUDmC..Ue52 ContentDb init: 0.000s, found files: 425, sites: 39
+[2017-12-19 04:06:52,661] DEBUG    SiteManager Loaded site 1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52 in 0.000s
+[2017-12-19 04:06:52,661] DEBUG    Site:1GnSLu..EbXn ContentDb init: 0.000s, found files: 41, sites: 39
+[2017-12-19 04:06:52,678] DEBUG    SiteManager Loaded site 1GnSLuqqmB8oRAJ4SK4hvzt6Jo1qAnEbXn in 0.017s
+[2017-12-19 04:06:52,680] DEBUG    Site:1BLueG..tG49 ContentDb init: 0.001s, found files: 1846, sites: 39
+[2017-12-19 04:06:52,680] DEBUG    SiteManager Loaded site 1BLueGvui1GdbtsjcKqCf4F67uKfritG49 in 0.001s
+[2017-12-19 04:06:52,696] DEBUG    Site:1AbRRD..tMJZ ContentDb init: 0.000s, found files: 71, sites: 39
+[2017-12-19 04:06:52,696] DEBUG    SiteManager Loaded site 1AbRRDveQD5EFtmXxBqQfS1guUWXxytMJZ in 0.000s
+[2017-12-19 04:06:52,696] DEBUG    Site:1CiGGh..tJDk ContentDb init: 0.000s, found files: 22, sites: 39
+[2017-12-19 04:06:52,696] DEBUG    SiteManager Loaded site 1CiGGh6RrTtaTJfutVKUrfURsP5J4stJDk in 0.000s
+[2017-12-19 04:06:52,696] DEBUG    Site:1LQeBa..1vgY ContentDb init: 0.000s, found files: 55, sites: 39
+[2017-12-19 04:06:52,696] DEBUG    SiteManager Loaded site 1LQeBa8AgXPd9YXyfTGm9FbcJZTM4p1vgY in 0.000s
+[2017-12-19 04:06:52,713] DEBUG    Site:1SunAW..JN9a ContentDb init: 0.018s, found files: 2526, sites: 39
+[2017-12-19 04:06:52,713] DEBUG    SiteManager Loaded site 1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a in 0.018s
+[2017-12-19 04:06:52,730] DEBUG    Site:1White..1o51 ContentDb init: 0.016s, found files: 2076, sites: 39
+[2017-12-19 04:06:52,744] DEBUG    SiteManager Loaded site 1White24UrrwQrD86o6Vrc1apgZ1x1o51 in 0.031s
+[2017-12-19 04:06:52,744] DEBUG    Site:1MATTn..Xyfv ContentDb init: 0.000s, found files: 28, sites: 39
+[2017-12-19 04:06:52,744] DEBUG    SiteManager Loaded site 1MATTnuthfsvTUqEwtvTR6nMiLmtqGXyfv in 0.000s
+[2017-12-19 04:06:52,744] DEBUG    Site:1H51ZJ..cMh1 ContentDb init: 0.000s, found files: 41, sites: 39
+[2017-12-19 04:06:52,744] DEBUG    SiteManager Loaded site 1H51ZJ118ubwYAceszZ6CRMp4MPaSwcMh1 in 0.000s
+[2017-12-19 04:06:52,799] DEBUG    Site:1UDbAD..MkoV ContentDb init: 0.054s, found files: 13333, sites: 39
+[2017-12-19 04:06:52,880] DEBUG    SiteManager Loaded site 1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV in 0.135s
+[2017-12-19 04:06:52,880] DEBUG    Site:15mV5T..REfn ContentDb init: 0.000s, found files: 29, sites: 39
+[2017-12-19 04:06:52,880] DEBUG    SiteManager Loaded site 15mV5T1R1wxg3E1FPsvZw19bw6QzvRREfn in 0.000s
+[2017-12-19 04:06:52,880] DEBUG    Site:1D7xb8..xgFj ContentDb init: 0.000s, found files: 13, sites: 39
+[2017-12-19 04:06:52,895] DEBUG    SiteManager Loaded site 1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj in 0.016s
+[2017-12-19 04:06:52,895] DEBUG    Site:12cm58..kWYd ContentDb init: 0.000s, found files: 48, sites: 39
+[2017-12-19 04:06:52,895] DEBUG    SiteManager Loaded site 12cm58PYhaSaHUkKgsbf62Rg9Db5DukWYd in 0.000s
+[2017-12-19 04:06:52,895] DEBUG    Site:12rTbt..pm8S ContentDb init: 0.000s, found files: 82, sites: 39
+[2017-12-19 04:06:52,895] DEBUG    SiteManager Loaded site 12rTbtzcEZH7RiVfShBB3qhoe3rfwbpm8S in 0.000s
+[2017-12-19 04:06:52,914] DEBUG    Site:1TaLkF..jipT ContentDb init: 0.018s, found files: 2304, sites: 39
+[2017-12-19 04:06:52,914] DEBUG    SiteManager Loaded site 1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT in 0.018s
+[2017-12-19 04:06:52,914] DEBUG    Site:1HNf26..NBKM ContentDb init: 0.000s, found files: 17, sites: 39
+[2017-12-19 04:06:52,928] DEBUG    SiteManager Loaded site 1HNf26SK9Hi9LES1kUKg6r36hDwhBdNBKM in 0.015s
+[2017-12-19 04:06:52,928] DEBUG    Site:1Gb25p..bJCq ContentDb init: 0.000s, found files: 2, sites: 39
+[2017-12-19 04:06:52,928] DEBUG    SiteManager Loaded site 1Gb25pK7XqrgnBYjhHLGBjEYURg2MhbJCq in 0.000s
+[2017-12-19 04:06:52,928] DEBUG    Site:1MeFqF..q7nH ContentDb init: 0.000s, found files: 1, sites: 39
+[2017-12-19 04:06:52,928] DEBUG    SiteManager Loaded site 1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH in 0.000s
+[2017-12-19 04:06:52,928] DEBUG    Site:16bNGd..cyBB ContentDb init: 0.000s, found files: 41, sites: 39
+[2017-12-19 04:06:52,928] DEBUG    SiteManager Loaded site 16bNGdxFkGWGnCEfVue3w4CSp3Ew2hcyBB in 0.000s
+[2017-12-19 04:06:52,928] DEBUG    Site:1ARSTR..evxh ContentDb init: 0.000s, found files: 15, sites: 39
+[2017-12-19 04:06:52,928] DEBUG    SiteManager Loaded site 1ARSTRDgMSH2E81pcZCbaEq28TZ72Levxh in 0.000s
+[2017-12-19 04:06:52,944] DEBUG    Site:1GrEen..yt7i ContentDb init: 0.016s, found files: 2277, sites: 39
+[2017-12-19 04:06:52,976] DEBUG    SiteManager Loaded site 1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i in 0.047s
+[2017-12-19 04:06:52,976] DEBUG    Site:1Name2..hM9F ContentDb init: 0.001s, found files: 1, sites: 39
+[2017-12-19 04:06:52,977] DEBUG    SiteManager Loaded site 1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F in 0.002s
+[2017-12-19 04:06:52,980] DEBUG    Site:1CouTP..Ptqz ContentDb init: 0.002s, found files: 239, sites: 39
+[2017-12-19 04:06:52,983] DEBUG    SiteManager Loaded site 1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz in 0.005s
+[2017-12-19 04:06:52,984] DEBUG    Site:1HeLLo..Tf3D ContentDb init: 0.000s, found files: 1, sites: 39
+[2017-12-19 04:06:52,986] DEBUG    SiteManager Loaded site 1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D in 0.002s
+[2017-12-19 04:06:52,990] DEBUG    Site:1ABFCa..bz3m ContentDb init: 0.002s, found files: 503, sites: 39
+[2017-12-19 04:06:52,993] DEBUG    SiteManager Loaded site 1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m in 0.007s
+[2017-12-19 04:06:52,996] DEBUG    Site:1KNmG5..rZqi ContentDb init: 0.002s, found files: 364, sites: 39
+[2017-12-19 04:06:52,997] DEBUG    SiteManager Loaded site 1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi in 0.004s
+[2017-12-19 04:06:52,997] DEBUG    Site:1GLndW..zaLQ ContentDb init: 0.000s, found files: 1, sites: 39
+[2017-12-19 04:06:52,997] DEBUG    SiteManager Loaded site 1GLndW2MJn7japuF3X2tbfBqgPMR52zaLQ in 0.000s
+[2017-12-19 04:06:52,997] DEBUG    SiteManager SiteManager added 39 sites
+[2017-12-19 04:06:52,997] DEBUG    SiteManager Updated merger sites in 0.000s
+[2017-12-19 04:06:52,997] INFO     - Removing old SSL certs...
+[2017-12-19 04:06:52,997] INFO     - Starting servers....
+[2017-12-19 04:06:52,997] INFO     TorManager Downloading Tor...
+[2017-12-19 04:06:54,095] INFO     Ui.UiServer --------------------------------------
+[2017-12-19 04:06:54,098] INFO     Ui.UiServer Web interface: http://127.0.0.1:43110/
+[2017-12-19 04:06:54,099] INFO     Ui.UiServer --------------------------------------
+[2017-12-19 04:06:54,115] ERROR    - Failed to modify max files open limit: No module named win32file
+[2017-12-19 04:06:55,174] DEBUG    - Generating RSA cert and key PEM files...Generating a 2048 bit RSA private key
+................+++
+....+++
+writing new private key to 'data/key-rsa.pem'
+-----
+[2017-12-19 04:06:55,176] DEBUG    FileServer Binding to: *:15441, (msgpack: 0.4.8), supported crypt: ['tls-rsa']
+[2017-12-19 04:06:55,177] DEBUG    FileServer Checking sites...
+[2017-12-19 04:06:55,180] DEBUG    Site:1oranG..4k9v 56 peers (3 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,187] DEBUG    Site:1Gfey7..fcdp 199 peers (0 with hashfield) loaded in 0.006s
+[2017-12-19 04:06:55,188] DEBUG    Site:1N9sU8..vwMd 41 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,193] DEBUG    Site:19BPUZ..TEC9 115 peers (1 with hashfield) loaded in 0.004s
+[2017-12-19 04:06:55,194] DEBUG    Site:1Jhb5s..9Pqm 43 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,196] DEBUG    Site:18FheQ..NJ8d 35 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,197] DEBUG    Site:185yXN..mecL 51 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,197] DEBUG    Site:1SiTEs..tdwB 177 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,197] DEBUG    Site:12h51u..WWtv 87 peers (5 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,197] DEBUG    Site:1RedkC..uFdL 77 peers (5 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,197] DEBUG    Site:149fpM..FKBq 56 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1JUDmC..Ue52 45 peers (1 with hashfield) loaded in 0.015s
+[2017-12-19 04:06:55,213] DEBUG    Site:1GnSLu..EbXn 33 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1BLueG..tG49 90 peers (4 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1AbRRD..tMJZ 46 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1CiGGh..tJDk 43 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1LQeBa..1vgY 40 peers (1 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,213] DEBUG    Site:1SunAW..JN9a 92 peers (9 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,229] DEBUG    Site:1White..1o51 23 peers (0 with hashfield) loaded in 0.016s
+[2017-12-19 04:06:55,229] DEBUG    Site:1MATTn..Xyfv 53 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,229] DEBUG    Site:1H51ZJ..cMh1 36 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,247] DEBUG    Site:1UDbAD..MkoV 193 peers (0 with hashfield) loaded in 0.019s
+[2017-12-19 04:06:55,250] DEBUG    Site:15mV5T..REfn 40 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,252] DEBUG    Site:1D7xb8..xgFj 45 peers (0 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,255] DEBUG    Site:12cm58..kWYd 65 peers (0 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,256] DEBUG    Site:12rTbt..pm8S 64 peers (0 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,263] DEBUG    Site:1TaLkF..jipT 189 peers (0 with hashfield) loaded in 0.006s
+[2017-12-19 04:06:55,263] DEBUG    Site:1HNf26..NBKM 43 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,266] DEBUG    Site:1Gb25p..bJCq 44 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,270] DEBUG    Site:1MeFqF..q7nH 145 peers (0 with hashfield) loaded in 0.005s
+[2017-12-19 04:06:55,273] DEBUG    Site:16bNGd..cyBB 35 peers (0 with hashfield) loaded in 0.001s
+[2017-12-19 04:06:55,275] DEBUG    Site:1ARSTR..evxh 52 peers (0 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,276] DEBUG    Site:1GrEen..yt7i 46 peers (1 with hashfield) loaded in 0.002s
+[2017-12-19 04:06:55,279] DEBUG    Site:1Name2..hM9F 222 peers (0 with hashfield) loaded in 0.003s
+[2017-12-19 04:06:55,279] DEBUG    Site:1CouTP..Ptqz 43 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,279] DEBUG    Site:1HeLLo..Tf3D 150 peers (0 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,279] DEBUG    Site:1ABFCa..bz3m 72 peers (2 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,279] DEBUG    Site:1KNmG5..rZqi 47 peers (1 with hashfield) loaded in 0.000s
+[2017-12-19 04:06:55,296] DEBUG    Site:1GLndW..zaLQ 62 peers (0 with hashfield) loaded in 0.016s
+[2017-12-19 04:06:55,351] DEBUG    Db:ContentDb Loaded 6422 optional files: 436.34MB, downloaded: 0.00MB in 0.056s
+[2017-12-19 04:06:55,358] DEBUG    - UserManager added 1 users
+[2017-12-19 04:06:56,177] INFO     FileServer Checking port 15441 using portchecker.co...
+[2017-12-19 04:06:58,079] INFO     FileServer [BAD :(] Port closed: Port 15441 is closed.
+[2017-12-19 04:06:58,081] INFO     FileServer Trying to open port using UpnpPunch...
+[2017-12-19 04:06:58,081] DEBUG    - Trying to open port 15441.
+[2017-12-19 04:06:58,081] DEBUG    - Found local ips: ['192.168.1.101', '169.254.153.66']
+[2017-12-19 04:06:58,081] DEBUG    - Trying using local ip: 192.168.1.101
+[2017-12-19 04:06:58,127] DEBUG    - Sending UPnP request to 192.168.1.1:1900...
+[2017-12-19 04:06:58,141] DEBUG    - 200
+[2017-12-19 04:06:58,181] INFO     FileServer Checking port 15441 using portchecker.co...
+[2017-12-19 04:07:00,049] INFO     FileServer [BAD :(] Port closed: Port 15441 is closed.
+[2017-12-19 04:07:00,051] INFO     FileServer Checking port 15441 using canyouseeme.org...
+[2017-12-19 04:07:09,095] INFO     FileServer Internet offline
+[2017-12-19 04:07:15,473] DEBUG    Ui.UiServer 127.0.0.1 - - [2017-12-19 04:07:15] "GET /Websocket?wrapper_key=7c364a2b6812483d54e7cc5f656b85f2c7c6bc129c40fd071990f0a080c8ced9 HTTP/1.1" 101 129 14.802000
+[2017-12-19 04:07:15,473] DEBUG    Ui.UiServer 127.0.0.1 - - [2017-12-19 04:07:15] "GET /Websocket?wrapper_key=7c364a2b6812483d54e7cc5f656b85f2c7c6bc129c40fd071990f0a080c8ced9 HTTP/1.1" 101 129 20.120000
+[2017-12-19 04:07:16,361] ERROR    TorManager Error starting Tor client: error: [Errno 10060] [Error 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 in TorManager.py line 85 > TorManager.py line 114 > helper.py line 163 > socket.py line 99
+[2017-12-19 04:07:17,684] DEBUG    Ui.UiServer Stopping...
+[2017-12-19 04:07:17,684] DEBUG    Ui.UiServer Socket closed: 0
+[2017-12-19 04:07:17,785] DEBUG    Ui.UiServer Stopped.
+[2017-12-19 04:07:18,785] DEBUG    FileServer Stopped.
+[2017-12-19 04:07:19,065] DEBUG    SiteManager Saved sites in 0.05s (generate: 0.23s, write: 0.05s)
+[2017-12-19 04:07:19,066] DEBUG    SiteManager Updated merger sites in 0.002s
+[2017-12-19 04:07:19,273] DEBUG    Site:1Gfey7..fcdp Peers saved in 0.006s
+[2017-12-19 04:07:19,275] DEBUG    Site:1N9sU8..vwMd Peers saved in 0.002s
+[2017-12-19 04:07:19,279] DEBUG    Site:19BPUZ..TEC9 Peers saved in 0.004s
+[2017-12-19 04:07:19,282] DEBUG    Site:1ABFCa..bz3m Peers saved in 0.003s
+[2017-12-19 04:07:19,285] DEBUG    Site:1Jhb5s..9Pqm Peers saved in 0.002s
+[2017-12-19 04:07:19,286] DEBUG    Site:18FheQ..NJ8d Peers saved in 0.002s
+[2017-12-19 04:07:19,289] DEBUG    Site:185yXN..mecL Peers saved in 0.002s
+[2017-12-19 04:07:19,295] DEBUG    Site:1SiTEs..tdwB Peers saved in 0.005s
+[2017-12-19 04:07:19,298] DEBUG    Site:12h51u..WWtv Peers saved in 0.003s
+[2017-12-19 04:07:19,301] DEBUG    Site:1RedkC..uFdL Peers saved in 0.003s
+[2017-12-19 04:07:19,302] DEBUG    Site:1MATTn..Xyfv Peers saved in 0.002s
+[2017-12-19 04:07:19,309] DEBUG    Site:1UDbAD..MkoV Peers saved in 0.006s
+[2017-12-19 04:07:19,311] DEBUG    Site:1GnSLu..EbXn Peers saved in 0.001s
+[2017-12-19 04:07:19,315] DEBUG    Site:1BLueG..tG49 Peers saved in 0.003s
+[2017-12-19 04:07:19,316] DEBUG    Site:1AbRRD..tMJZ Peers saved in 0.002s
+[2017-12-19 04:07:19,319] DEBUG    Site:1CiGGh..tJDk Peers saved in 0.002s
+[2017-12-19 04:07:19,321] DEBUG    Site:1D7xb8..xgFj Peers saved in 0.002s
+[2017-12-19 04:07:19,322] DEBUG    Site:1LQeBa..1vgY Peers saved in 0.001s
+[2017-12-19 04:07:19,325] DEBUG    Site:149fpM..FKBq Peers saved in 0.002s
+[2017-12-19 04:07:19,328] DEBUG    Site:1SunAW..JN9a Peers saved in 0.003s
+[2017-12-19 04:07:19,329] DEBUG    Site:1White..1o51 Peers saved in 0.001s
+[2017-12-19 04:07:19,331] DEBUG    Site:1H51ZJ..cMh1 Peers saved in 0.001s
+[2017-12-19 04:07:19,332] DEBUG    Site:15mV5T..REfn Peers saved in 0.002s
+[2017-12-19 04:07:19,335] DEBUG    Site:1JUDmC..Ue52 Peers saved in 0.002s
+[2017-12-19 04:07:19,336] DEBUG    Site:12cm58..kWYd Peers saved in 0.002s
+[2017-12-19 04:07:19,339] DEBUG    Site:12rTbt..pm8S Peers saved in 0.003s
+[2017-12-19 04:07:19,345] DEBUG    Site:1TaLkF..jipT Peers saved in 0.005s
+[2017-12-19 04:07:19,346] DEBUG    Site:1HNf26..NBKM Peers saved in 0.002s
+[2017-12-19 04:07:19,348] DEBUG    Site:1Gb25p..bJCq Peers saved in 0.001s
+[2017-12-19 04:07:19,354] DEBUG    Site:1MeFqF..q7nH Peers saved in 0.004s
+[2017-12-19 04:07:19,355] DEBUG    Site:1oranG..4k9v Peers saved in 0.002s
+[2017-12-19 04:07:19,358] DEBUG    Site:1ARSTR..evxh Peers saved in 0.002s
+[2017-12-19 04:07:19,361] DEBUG    Site:1GrEen..yt7i Peers saved in 0.002s
+[2017-12-19 04:07:19,367] DEBUG    Site:1Name2..hM9F Peers saved in 0.006s
+[2017-12-19 04:07:19,368] DEBUG    Site:1CouTP..Ptqz Peers saved in 0.001s
+[2017-12-19 04:07:19,374] DEBUG    Site:1HeLLo..Tf3D Peers saved in 0.005s
+[2017-12-19 04:07:19,375] DEBUG    Site:16bNGd..cyBB Peers saved in 0.001s
+[2017-12-19 04:07:19,378] DEBUG    Site:1KNmG5..rZqi Peers saved in 0.002s
+[2017-12-19 04:07:19,380] DEBUG    Site:1GLndW..zaLQ Peers saved in 0.002s

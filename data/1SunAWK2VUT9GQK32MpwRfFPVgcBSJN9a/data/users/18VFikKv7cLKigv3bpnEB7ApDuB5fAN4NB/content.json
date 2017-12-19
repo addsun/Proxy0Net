@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G/XvTFb/3E+LAa4VQn9ZmUdZQzQSiXtd9Cmto4e8GPXYqu+tzFyMUt+Hcy9Mt0S7qgZmKj/L2pUog5rcEznzdtQ=",
+ "cert_user_id": "thedayhawk9lz@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "34b11daec8a023132289a90c0b675139d51080632576c37fd581e754e30640fb",
+   "size": 644
+  }
+ },
+ "files_optional": {
+  "1507175127.jpg": {
+   "sha512": "6b6b2533ed9cf6d4f1acdda47a8ba15d36bf65251ac121b320e71e369f3e2c28",
+   "size": 24403
+  }
+ },
+ "inner_path": "data/users/18VFikKv7cLKigv3bpnEB7ApDuB5fAN4NB/content.json",
+ "modified": 1507175125,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "18VFikKv7cLKigv3bpnEB7ApDuB5fAN4NB": "HFBQO4XfGE7lCskbZNTvZAh+XjlvEJkS6a/j1xvCRoYlKUMr9KMxgqX34Qfa6WwUnwqMeNrrebBow3VP4xF8izs="
+ }
+}

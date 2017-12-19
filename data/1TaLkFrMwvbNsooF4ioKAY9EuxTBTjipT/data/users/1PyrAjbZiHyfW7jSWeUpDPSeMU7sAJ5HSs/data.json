@@ -1,0 +1,101 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1510208137,
+			"title": "Foot fetish and crossdressing site",
+			"body": "Is there a ZeroNet site for both foot fetish and crossdressing?\nI know nekox.bit, it's a good site for crossdressing with some foot-themed photos. However, I would like to know if there are more related sites.\nThanks for your help.",
+			"added": 1510208136
+		},
+		{
+			"topic_id": 1513170471,
+			"title": "[Feature Suggestion] Translate Service",
+			"body": "There are many handy services/applications on zeronet, such as social network, site listing, site searching.\n\nHowever it seems translation is not available yet (if I missed any, please kindly point me to the address).\nIt would be great if we can use translation service while using zeronet (without going to google translate) so we won't be tracked by the translation record.",
+			"added": 1513170469
+		},
+		{
+			"topic_id": 1513455571,
+			"title": "Picking Site Address",
+			"body": "I just tried to create a site, the address is pretty random.\nHow can I create a site with address that have some sence? like the hello page start with '1HeLLo'.\n\nI know it comes from hash, and I know it's hard to find one, but how?\nMy first site was created from the web ui, then I tried to use command line, which need to store the private key on my own (seems auto stored when using web ui).\n\nOne way in mind is to write a bash script to keep generating sites, and pipe the private key to somewhere. Then, after some time, come back and sort the address then search for a good one. Is there a better way?\n(e.g. where can I find the hash / crypto library so I can do the brute force from a more effective runtime, say Erlang instread of doing process call from the terminal (which sounds slow due to the overhead))",
+			"added": 1513455568
+		}
+	],
+	"topic_vote": {
+		"16423_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1
+	},
+	"next_comment_id": 11,
+	"comment": {
+		"14434_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 1,
+				"body": "I would suggest the post creator also copy the content here, otherwise this only serve as an index.\nHowever cloning the content here can keep the content accessible even after the source host is down or being blocked by the ISP.",
+				"added": 1504421181
+			}
+		],
+		"1510208137_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 2,
+				"body": "Also I would like to know if there is any dating oriented site, for user to make new friends (with the same fetish).",
+				"added": 1510208335
+			},
+			{
+				"comment_id": 3,
+				"body": "> [styromaniac](#comment_202_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd):  LGBT\n\nif you're not specifically looking for foot fetish, I can suggest two to you.\none is as mensioned, http://127.0.0.1:43110/nekox.bit\nanother one I just found is this one http://127.0.0.1:43110/1NZNtZQZHQRJXafvJpmY5jgqwRaCEZMsUc/?/futa/\n\nfuta is a Japanese word, means having both the body of male and female (similar to trans I guess)",
+				"added": 1510208844
+			}
+		],
+		"1512976214_18fU1ZPrTrUXVCYG4wDvk6fTB5ok4p8QV1": [
+			{
+				"comment_id": 4,
+				"body": "1. You don't have to use English, you can head to \"中文论坛\" from the top menu\n2. This forum is a English forum, it make sense to use English in English forum right?\n3. English can be displayed on every machine, some machine cannot display UTF-8 (or at least some text-based browser on the ascii console )\n4. English in the computer community is the de facto language, (as still in programming language)",
+				"added": 1513165780
+			},
+			{
+				"comment_id": 5,
+				"body": "> [lonelyreader](#comment_4_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs): You don't have to use English, you can head to \"中文论坛\" from the top menu [...]\n\ntypo, at *least* in programming languages",
+				"added": 1513165835
+			}
+		],
+		"4_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 6,
+				"body": "what is the path that store user.json on the android system?",
+				"added": 1513170826
+			},
+			{
+				"comment_id": 7,
+				"body": "> [lonelyreader](#comment_6_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs): what is the path that store user.json on the android system?\n\nIn case it may helps others, the path is /mnt/sdcard/Android/data/net.mkg20001.zeronet/files/zero/data/users.json",
+				"added": 1513171112
+			}
+		],
+		"16423_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 8,
+				"body": "IOTA use Tangle instead of Blockchain, which can avoid high transaction fee,\nbut I'm still stuck by a painpoint:\nI cannot use IOTA at all since I've no way to get IOTA.\nI cannot even mine it.\nI know there are some exchange platform that support IOTA, but those are asking for personal information, and asking me to use credit card to pre-fund by account before allowing me to exchange with other users...\n\nI know it's not the problem caused by blockchain nor tangle, but for a currency to be useful, it has to be accessible by others.\nFor me, I cannot get IOTA from salary, nor buy it in the market without showing off my national ID card.\n(P.S. I am currently in Hong Kong, tangle is not even heard by the blockchain professor in my university)",
+				"added": 1513322420
+			}
+		],
+		"1513455571_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 9,
+				"body": "> [herp](#comment_50_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe): 0sh.bit\n\nIf I would somehow choose the shorten link, it would be perfect",
+				"added": 1513607682
+			}
+		],
+		"1513344544_1NekEfk2dRHtSeioUKrRXKfaiS9A65hGwQ": [
+			{
+				"comment_id": 10,
+				"body": "> [lethalethan88](#comment_2_19cQViUvBQtwiGpPci2u61jmQm4wVt8L8c): No since there are other country's which dont follow the fcc and either way zeronet doesn't need to use the Internet that much to work since me and other people are syncing and sharing without the ISP's network. Take for instance I post a comment, my server sends it to others while being decentralised. Hope this clears anything up, ask me anything for more info if I didn't explain clearly 😀\n\nBut you could not distribute it to the internet without ISP eventually (directly or indirectly with other's help)",
+				"added": 1513607812
+			}
+		]
+	},
+	"comment_vote": {
+		"476_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"34_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"8_1DzxVtsZsMBXUddtDgDN21WzSY2KUBVnNX": 1,
+		"100_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt": 1,
+		"46_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"48_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1
+	}
+}

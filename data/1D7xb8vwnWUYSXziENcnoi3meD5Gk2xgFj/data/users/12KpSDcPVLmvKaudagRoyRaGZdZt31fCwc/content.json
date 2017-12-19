@@ -1,0 +1,17 @@
+{
+ "address": "1D7xb8vwnWUYSXziENcnoi3meD5Gk2xgFj",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HGgcrdr+tdiAmn66r0rZ3FL4Hr4QfCrF2jYQ7kC9WI3MwluOKqa7vB9ZHq9r1QkYaFWXwjyBVbfWbMB7ciQQzj0=",
+ "cert_user_id": "tqft@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7e3e618ad0f4a68fd4d2ce2ac5b210a94b5c9daa6b2e635414445868c78f9fa0",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/12KpSDcPVLmvKaudagRoyRaGZdZt31fCwc/content.json",
+ "modified": 1501397544,
+ "signs": {
+  "12KpSDcPVLmvKaudagRoyRaGZdZt31fCwc": "Gx+d0sj6e+gfMYtMTHYWP0uyCjIMgYdO/FN0xw/WZbbzGayEQcCAI+K0jQhrV4VpnCJvIV20U72khr7oSQ9T+Nw="
+ }
+}

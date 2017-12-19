@@ -1,0 +1,17 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HMgY/XQKcRwKeXDUEEKFexQ3YJIiJiTm4tbi+aPUJalUvW1vvB9+NXqVEqPuFDZ45fTribSiHBI17TZHeBjvdV0=",
+ "cert_user_id": "flyman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6ecb05a0815206abf968236b1e93585d883fd121c42db10d9449c4266e7bb0b8",
+   "size": 22977
+  }
+ },
+ "inner_path": "data/users/1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN/content.json",
+ "modified": 1512324263,
+ "signs": {
+  "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN": "G5hx1AWYgSW5PLV7Pygou6kKIXvnMOGfcg5qIVNGHYTgJbRsGeufcC4Cyu4EXsw4fL7GN+a5j2AuDjeuWzWqcQc="
+ }
+}

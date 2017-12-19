@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "G++ZcsyDJglLDCKyW+M7zLDuZ8loeN+3yqlr/XeTReDvTivkDUpD2PFCHuX16nKxx6PnGKvasTM3169JJSA3qWU=",
+ "cert_user_id": "alipay@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "927ac59b46e46f83c5dfaac03bce560f52d5abbd522e617429c5021fd3718101",
+   "size": 655
+  }
+ },
+ "inner_path": "data/users/1KFfvfaijSYfWZ67GE8D2rTkVs4X4u6s8H/content.json",
+ "modified": 1483103704.784,
+ "signs": {
+  "1KFfvfaijSYfWZ67GE8D2rTkVs4X4u6s8H": "HG1yz+2ojssOVy5LzYtOkFCglOLlr0evTd6PbOamuE8q6JnfKBi0s9psO1dhOCzg/Y0NT1iTML5vSMhph2gjDEo="
+ }
+}

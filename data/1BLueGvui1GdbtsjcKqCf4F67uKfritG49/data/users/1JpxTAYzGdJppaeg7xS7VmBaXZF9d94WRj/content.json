@@ -1,0 +1,32 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HALzONxPDS8GXqChOQRA3EUeOpyywPoqC09ra19LvXONyzWKcFpagJpip7eQzMk+jTohHLYgHC9aWuiQtFEbwSk=",
+ "cert_user_id": "skylakexts@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e6da73c9ae9f58de36f8e944a219121c5fd37816620ea33e9a841b884c308dd7",
+   "size": 1304
+  },
+  "data.json": {
+   "sha512": "d27347680ff1da25a1d7e1d06603bbd20e3eeb1d634082797e4fb0e46ecf94b7",
+   "size": 3790
+  }
+ },
+ "files_optional": {
+  "1478695428.jpg": {
+   "sha512": "0d738271ff034cb91178497eede77886211e18a60227c3098e1d16bdc4432835",
+   "size": 44606
+  },
+  "1487688283.jpg": {
+   "sha512": "926199895c770e40cd2dd181f5bfddba4843aad0864f171a651c4c2a6236a493",
+   "size": 29483
+  }
+ },
+ "inner_path": "data/users/1JpxTAYzGdJppaeg7xS7VmBaXZF9d94WRj/content.json",
+ "modified": 1487688280,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1JpxTAYzGdJppaeg7xS7VmBaXZF9d94WRj": "Gwv/rI2nVf1eXNA26SUWFlBoWQPMFzu2/LMLqFRgQEqGjUlQZCfrpPQ6gKXee5Ft1VSOUDJ9uKdRt+2xGM8Q++g="
+ }
+}

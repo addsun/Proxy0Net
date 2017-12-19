@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HDKFOemNkH/CdCxHkY7fcsS6WXIdETgQVprnxMj89GDD9DHVitmMVOdBH+dARaRL1Vpw6ctZS06MHWkMArCgo2Y=",
+ "cert_user_id": "seagroup@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f723be937b31eb2230481ab13d34ed33744b6f07beb784e45872c4c5caf96a3e",
+   "size": 587
+  }
+ },
+ "files_optional": {
+  "1511157896.jpg": {
+   "sha512": "b4644eab78abda527442b06dd5464ef22664a08cf93501b3006719b63599ab90",
+   "size": 40622
+  }
+ },
+ "inner_path": "data/users/19BfQFaBs7HqM2uqbPDAT62YTPrXufSJyX/content.json",
+ "modified": 1511157894,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19BfQFaBs7HqM2uqbPDAT62YTPrXufSJyX": "G3PWZVI56ZX86tei7561ssGQFca3gZZh3N2IoCKWdA4lNylmtXOMpSqFOkAOvDvzZgXUJ9PN8qsMUvyZrA9dWLs="
+ }
+}

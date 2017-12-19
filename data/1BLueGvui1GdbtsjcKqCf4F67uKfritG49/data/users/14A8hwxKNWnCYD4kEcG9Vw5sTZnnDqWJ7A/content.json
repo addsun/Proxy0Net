@@ -1,0 +1,21 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HEdkYPezB9dBk4thbnBlW6E0NnC6AWtgOHq42cLuWIDwU3zB2ANDo0/CJxJ8bWxrZWtBYoP0Z8pOWfqFOBsd+1s=",
+ "cert_user_id": "thegreekgeek@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "9a529e8f171e853c1765f3d76e7d466621f5bdc9c8e40119b0c6ef651d6ccc46",
+   "size": 1399
+  },
+  "data.json": {
+   "sha512": "62764b53815634259060d003bf8041c802563d934710a4b2af027c5a8caa6945",
+   "size": 1583
+  }
+ },
+ "inner_path": "data/users/14A8hwxKNWnCYD4kEcG9Vw5sTZnnDqWJ7A/content.json",
+ "modified": 1497209967,
+ "signs": {
+  "14A8hwxKNWnCYD4kEcG9Vw5sTZnnDqWJ7A": "G+IdqxNzKuq1UpXp0e5BB8xyeUJjBpil3F+noJ1cZUNUcG6vGvWiAPovYo+mEHKtsr9P6JQznG5avVxSNRSKb5Q="
+ }
+}

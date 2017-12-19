@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G98m0VjhP/mODoAc6UZ/3MMgek8Yu0pxUPla4tTvkyTd+ZeKiUa8Le5qmjdJcB7h4ipuEufzMK4kSzw75cNwMsE=",
+ "cert_user_id": "ukraine@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "34c34d2a4fe071f26de3361aa8a88fc3d29e0f396a8d03ff5d410e3dfc35a11f",
+   "size": 1126
+  },
+  "data.json": {
+   "sha512": "3058d2e989a7a1e747f598c354e2f45c46704521383568b50e5ac2fb9d9b3c84",
+   "size": 534
+  }
+ },
+ "inner_path": "data/users/19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5/content.json",
+ "modified": 1503220126,
+ "signs": {
+  "19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": "HBSkVU3Abvv1MwDu1Y5JAl2fxV6ZvmTplnee/06nTIvWej0UY3MnVk3rQJusCkawg7fFQNXDx+Xenj4CYFF2tHg="
+ }
+}

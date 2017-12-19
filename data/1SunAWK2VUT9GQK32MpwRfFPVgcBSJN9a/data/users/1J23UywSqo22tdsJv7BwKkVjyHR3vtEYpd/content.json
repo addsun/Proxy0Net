@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G+GItZJVyg5/ekzs5dQRG1su0hS/06AioN9k7cCC6qhtw1NBORb5uAZWRlzjYdhYqt4ObOyDobQyn1ZXlkAmTfY=",
+ "cert_user_id": "fatfishfat@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b5b67d567e1cbcf53c2cf6740df195a005d14cecfc545a6b1fcabdca639d3578",
+   "size": 537
+  }
+ },
+ "files_optional": {
+  "1503809357.jpg": {
+   "sha512": "4b0dcba74a34c70cf0f04010956e1036361f7221f65f637b763dcaefc3978b6d",
+   "size": 45302
+  }
+ },
+ "inner_path": "data/users/1J23UywSqo22tdsJv7BwKkVjyHR3vtEYpd/content.json",
+ "modified": 1504336361,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1J23UywSqo22tdsJv7BwKkVjyHR3vtEYpd": "HHzsJunVH0QSOJMHYwltHyw9MP7YHMRi2RyD2KZaqViQBTD/6LZTffysUq0RAivBGWv5REOMYnM6BT7bVtcPzcE="
+ }
+}

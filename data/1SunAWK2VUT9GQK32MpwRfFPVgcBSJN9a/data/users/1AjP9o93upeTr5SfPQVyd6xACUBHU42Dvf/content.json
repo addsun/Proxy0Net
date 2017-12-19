@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G38afVGHbna0RKiXa8E3KQKL7l1szAL8G7yBLCaP4MlXwRgRtCZxYc6axYJ1aMlbd+ncc7mN+Owe7UUAuXUvx3g=",
+ "cert_user_id": "mayhem@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad7646493cd67957c870e42f5af9aafa2efd58e23fd44c152945b058ea09d2b4",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/1AjP9o93upeTr5SfPQVyd6xACUBHU42Dvf/content.json",
+ "modified": 1507702397,
+ "signs": {
+  "1AjP9o93upeTr5SfPQVyd6xACUBHU42Dvf": "G2d/M6R/DNp3uorG0qBYPTxQxXmd2R+Wl2EDHE5aRgwWfbNI3BO2lGmQ97eRzCPtqT18VmhkkK7NbG1feDlj7mE="
+ }
+}

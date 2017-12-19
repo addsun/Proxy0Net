@@ -1,0 +1,142 @@
+{
+	"next_post_id": 6,
+	"next_comment_id": 12,
+	"next_follow_id": 12,
+	"avatar": "jpg",
+	"user_name": "Vpei",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Vpei",
+	"post": [
+		{
+			"post_id": 1511751770,
+			"body": "转：ZEROMEHUB切换\n\n三个参数：\n打开[http://127.0.0.1:43110/Me.ZeroNetwork.bit/](http://127.0.0.1:43110/Me.ZeroNetwork.bit/)，点右上角的用户名，再复制浏览器地址栏地址，格式如下：[http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR/vpei@zeroid.bit](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Profile/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR/vpei@zeroid.bit)，由这个网址得出参数1和参数2\n1：旧HUB：1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a就是HUB的地址字符，在操作自己帐号时换成自己的。\n2、用户加密字符：1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR就是你帐号加密的字符串，在操作自己帐号时换成自己的。\n3、新HUB：1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m就是HUB的地址字符，在操作自己帐号时换成自己的。\n\n\n操作步骤：\n1、加入新的HUB，先打开想加入的HUB网址。\n如：[http://127.0.0.1:43110/1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m/](http://127.0.0.1:43110/1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m/)\n2、再打开网址[http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Create+profile](http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Create+profile)加入上面打开的HUB(提示存在也不要管)。\n3、退出ZERONET软件，删除ZeroNet-win-dist\\data\\content.db（可删可不删）和\\ZeroNet-win-dist\\data\\1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH\\merged-ZeroMe\\ZeroMe.db两个文件，也可以先移动到其他位置，在需要时还原。\n4、打开ZeroNet-win-dist\\data\\文件夹，搜索1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR，替换所有的文件夹中的data.json文件中的\"hub\": \"1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a\"为\"hub\": \"1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m\"，都改完，重新运行ZERONET等软件重建数据库即可。第一次会慢一些。\n\n如果不明白，请留言。",
+			"date_added": 1511751766
+		},
+		{
+			"post_id": 1511510541,
+			"body": "想要切换HUB的找我。哈哈。。。。",
+			"date_added": 1511510539
+		},
+		{
+			"post_id": 1512697882,
+			"body": "零网还是要再强大些……",
+			"date_added": 1512697878
+		},
+		{
+			"post_id": 1512721715,
+			"body": "今天晚上吃鸡……",
+			"date_added": 1512721710
+		}
+	],
+	"post_like": {
+		"1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR_1511746110": 1511762532,
+		"18rB3tZQxAtm56xf49o36rNUonemhSaQDs_1511762121": 1511765589,
+		"18rB3tZQxAtm56xf49o36rNUonemhSaQDs_1511765749": 1511765842,
+		"1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR_1": 1512635466
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "👍",
+			"post_uri": "1D4WGsfmkpY3qF2tmvTy9Cp86HCSHuQt15_1511714543",
+			"date_added": 1511752579
+		},
+		{
+			"comment_id": 2,
+			"body": "奇葩",
+			"post_uri": "1aMDPbnfXb34rceadvMSYtJBJ3FsbVjNt_1511764672",
+			"date_added": 1511765414
+		},
+		{
+			"comment_id": 3,
+			"body": "😱",
+			"post_uri": "14y77rbpMGfcak5kdSNZhtShgossJ3U5kM_1",
+			"date_added": 1511765974
+		},
+		{
+			"comment_id": 4,
+			"body": "你慢慢会发现更好玩的。",
+			"post_uri": "1AAFZyQmXARnHffdRH5WfHUrQpNm7w6Rch_1512355930",
+			"date_added": 1512366806
+		},
+		{
+			"comment_id": 5,
+			"body": "http://127.0.0.1:43110/0123.bit/",
+			"post_uri": "1NaFDizbiNwPgkfc7sQUU4wiJ4GrXMpL11_1512038579",
+			"date_added": 1512367591
+		},
+		{
+			"comment_id": 6,
+			"body": "好神秘",
+			"post_uri": "1QJhjHowRRexF66LMpS1JWFRwWRAv8kchK_1512587982",
+			"date_added": 1512624842
+		},
+		{
+			"comment_id": 7,
+			"body": "@Xkdi8d8rrorkkfdo: 这还能猜出来？",
+			"post_uri": "1QJhjHowRRexF66LMpS1JWFRwWRAv8kchK_1512587982",
+			"date_added": 1512635517
+		},
+		{
+			"comment_id": 8,
+			"body": "😱",
+			"post_uri": "1HNECDWt1C9WMYU8wvJz3d7y3J8oVD2YX_1512567036",
+			"date_added": 1512635574
+		},
+		{
+			"comment_id": 9,
+			"body": "That's right.",
+			"post_uri": "14oFrgd3eUYp4J7eLWb7Z1WVPTzJPz11SX_1512705751",
+			"date_added": 1512717120
+		},
+		{
+			"comment_id": 10,
+			"body": "?",
+			"post_uri": "1LhqnVcS2B8SHf4KMDCFqDXzHzezPEKsJe_1512823113",
+			"date_added": 1512977074
+		},
+		{
+			"comment_id": 11,
+			"body": "hello",
+			"post_uri": "1BKALAkyKEQqKyPuFYnZpg7oLZKgTYc6DW_1512758873",
+			"date_added": 1512977099
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18rB3tZQxAtm56xf49o36rNUonemhSaQDs",
+			"user_name": "Vpei",
+			"date_added": 1511762491
+		},
+		{
+			"follow_id": 8,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "132hjWaHjrJS87tLUdnNxgL4Lwem8vS4w6",
+			"user_name": "Vu",
+			"date_added": 1511836004
+		},
+		{
+			"follow_id": 9,
+			"hub": "1MX4wgzSR7nCrFshSbGQjA4ixgxGbzrGSX",
+			"auth_address": "1B7ZwaaQy8vYGEvCVNiSQMBPhBwVUEqK9r",
+			"user_name": "Askhd",
+			"date_added": 1512952185
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD",
+			"user_name": "Mkg20001",
+			"date_added": 1512977955
+		},
+		{
+			"follow_id": 11,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR",
+			"user_name": "Vpei",
+			"date_added": 1513216823
+		}
+	]
+}

@@ -1,0 +1,220 @@
+{
+	"next_comment_id": 36,
+	"user_name": "Firebox",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw_1475393382": 1475427712,
+		"13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476814314": 1476912820,
+		"1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi_1481307296": 1481313386,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1482833592": 1482833668,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1484036465": 1484725618,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1485817771": 1485824420,
+		"177ia43eQrnWCHCWt1ik6viQGRzWuNXGzD_1488983097": 1489011262,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1489080783": 1489098982,
+		"1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1489842593": 1489899072,
+		"1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_1490740583": 1490740874,
+		"16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1491112859": 1491121629,
+		"14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1491402276": 1491455641,
+		"1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1496089514": 1496106820
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "`[Link text](http://url)`",
+			"post_uri": "1CtXM9gSE1bdV6yXKZGHzSLbCJheBub33k_1473763055",
+			"date_added": 1473769495
+		},
+		{
+			"comment_id": 2,
+			"body": "If you want to be anonymous, sign up for a new ZeroID in Tor Browser. Your IP leaks in both cases you mentioned.",
+			"post_uri": "1BgqiduD5yMiySpgVzw7N9PHvojhFr3zZx_1473928802",
+			"date_added": 1473929475
+		},
+		{
+			"comment_id": 3,
+			"body": "You can read the updated [docs](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/usage/) of ZeroMux, the big file loader. It calls back the `onfinish` function when it is done. You can load the blob into a PDF. Don't forget to change the blob content type. Instructions can be found in the docs.\n- - -\nBtw, It seems that you are including the `daemon.js`. You don't need that file if you are not working with videos, since `daemon.js` is sort of a background worker that appends data to the **video** Source Buffer. If anything does not work, feel free to mention me and tell me about it.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474621960",
+			"date_added": 1474651010
+		},
+		{
+			"comment_id": 4,
+			"body": "It seems that you are using the original `ui.js`. To make the UI satisfy your need, you need to modify the blob content type and the `onfinish` function. More specifically, you just need to modify `events.otherParams = {\"blobType\": \"application/pdf\"};` and the `showPlayer` function. The `url` parameter is the blob url.",
+			"post_uri": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t_1474621960",
+			"date_added": 1474688085
+		},
+		{
+			"comment_id": 5,
+			"body": "IFrame Sandbox is a pretty new HTML5 feature, and different browser implements it differently. Sometimes there are even bugs on handling file downloading.",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475719249
+		},
+		{
+			"comment_id": 6,
+			"body": "Could you provide more details?",
+			"post_uri": "1LeqWgNKQHKdYdy8AREoHprsCEU6cPrTTC_1475718828",
+			"date_added": 1475719257
+		},
+		{
+			"comment_id": 7,
+			"body": "Hi. Enjoy ZeroNet!",
+			"post_uri": "18wdsZuaJd4aYT8115bRNT1fzeEGgMetz3_1476480047",
+			"date_added": 1476482835
+		},
+		{
+			"comment_id": 8,
+			"body": "Hold and drag the `0` button to the left. If you select \"This is my site,\" you will find a place to put your site title.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476756871
+		},
+		{
+			"comment_id": 9,
+			"body": "@KosherX: After you made changes, you have to press `Sign`. After ZeroNet signed your site using your private key, you have push `Publish`. People who don't have your private key cannot sign your site, and ZeroNet clients will not accept contents with invalid signature.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476759531
+		},
+		{
+			"comment_id": 10,
+			"body": "@KosherX: Your private key is located in `users.json`. Search for your site address, and you will see your private key.",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476765655
+		},
+		{
+			"comment_id": 11,
+			"body": "@KosherX: Trying pressing the `Sign` button and let ZeroNet find the private key for you. If ZeroNet cannot find the private key, it will ask you for a private key, and then if you just lost your private key, there is no easy way to recover it unfortunately. @nofish: \\#PrivateKey",
+			"post_uri": "1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY_1476755079",
+			"date_added": 1476816590
+		},
+		{
+			"comment_id": 12,
+			"body": "<script>alert('JS will NOT work!')</script>",
+			"post_uri": "14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8_1473247523",
+			"date_added": 1476990756
+		},
+		{
+			"comment_id": 13,
+			"body": "@ks: That's why we are looking for peer caching and DHT support.",
+			"post_uri": "1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v_1477071704",
+			"date_added": 1477121377
+		},
+		{
+			"comment_id": 14,
+			"body": "If you want to transfer even larger files within ZeroNet, you can use [ZeroMux](http://127.0.0.1:43110/1CiDoBP8RiWziqiBGEd8tQMy66A6fmnw2V/big/docs/), though it is not practical to make a site very big.",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1477519411",
+			"date_added": 1477527145
+		},
+		{
+			"comment_id": 15,
+			"body": "This should not be scaled...",
+			"post_uri": "15Zmh5dcKYDxo3mUFTXwJPUHAbczeafAUp_1478658400",
+			"date_added": 1478663946
+		},
+		{
+			"comment_id": 16,
+			"body": "=) @paintninja:",
+			"post_uri": "157VksPLxufKMy8U344wPhayVY3RhkL8SK_1479271466",
+			"date_added": 1479274554
+		},
+		{
+			"comment_id": 17,
+			"body": "Hello, MS Office!",
+			"post_uri": "1PG41Ky1MrW564MqvfReZXAgqC3ZteAq7D_1479449225",
+			"date_added": 1479546595
+		},
+		{
+			"comment_id": 18,
+			"body": "The database is not split apart.",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1479763585",
+			"date_added": 1479771125
+		},
+		{
+			"comment_id": 19,
+			"body": "http://127.0.0.1:43110/1AMh6MG4K59ki1dPXX1PrgzeeqkMmZ1YKm/\nmake sure to check integrity",
+			"post_uri": "18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6_1480208470",
+			"date_added": 1480212930
+		},
+		{
+			"comment_id": 20,
+			"body": "Do you run a ZeroNet gateway?",
+			"post_uri": "1BsBRAymoTQ5qbXBLeGj3EFVkZz98kCbfh_1",
+			"date_added": 1481435185
+		},
+		{
+			"comment_id": 21,
+			"body": "You should always use UTF-8. Save your page in UTF-8 and then add `<meta charset=\"UTF-8\">` to your web page.",
+			"post_uri": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN_1482491965",
+			"date_added": 1482539143
+		},
+		{
+			"comment_id": 23,
+			"body": "@ks: I made a tracker-less mirror http://127.0.0.1:43110/1uEc35aRpkDgVmJ35jcMEHm4D2JCcEejp",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1484036465",
+			"date_added": 1484725649
+		},
+		{
+			"comment_id": 24,
+			"body": "For me it takes very long to load messages.",
+			"post_uri": "14TDWFVHuTXNcg8pp6LRr7v9ZcfbFsMSyx_1485263066",
+			"date_added": 1485299735
+		},
+		{
+			"comment_id": 25,
+			"body": "Try the email services mentioned at Privacy Tools.",
+			"post_uri": "1JwPBvZYXLJzrA6YisjpsyTuuieFLCARS6_1485817771",
+			"date_added": 1485821907
+		},
+		{
+			"comment_id": 26,
+			"body": "I saw the video embedded in your site, but why is it pointing to a public gateway?",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1486012233",
+			"date_added": 1486017721
+		},
+		{
+			"comment_id": 27,
+			"body": "@Windonsurf: and because you can do progressive download from the proxy.",
+			"post_uri": "1KNe8oqdHjEAYSEZByAikQi66GjZB1rSxL_1486012233",
+			"date_added": 1486018416
+		},
+		{
+			"comment_id": 28,
+			"body": "I'm afraid you can't.",
+			"post_uri": "1By85xCDz7VyZEq9WjmhtbNaPKimQwhPLp_1486506333",
+			"date_added": 1486507145
+		},
+		{
+			"comment_id": 29,
+			"body": "Here is one reason: https://github.com/HelloZeroNet/ZeroNet/issues/812 Web Fonts are required to be fetched \"Anonymously\" and therefore external fonts will fail to load when UiPassword plugin is enabled.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1488860206",
+			"date_added": 1488860264
+		},
+		{
+			"comment_id": 30,
+			"body": "Hi. This issue has been fixed in [this GitHub commit](https://github.com/MuxZeroNet/ZeroMux/commit/51c7622ae7a163d59ce6573f166bba9cdf16ac59), but I haven't tagged a new release yet. I have to work on academic things. Please allow up to 2 weeks for the release to be tagged and docs updated.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1489072630",
+			"date_added": 1489098505
+		},
+		{
+			"comment_id": 31,
+			"body": "@12hlearn: Bug assignee out of office. Do you know any milestone for that bug?",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1489080783",
+			"date_added": 1489904710
+		},
+		{
+			"comment_id": 32,
+			"body": "Welcome Back!",
+			"post_uri": "1CTut2qbaj54ZjNoYeuWSGwV75iVieKY6N_1490740583",
+			"date_added": 1490741614
+		},
+		{
+			"comment_id": 33,
+			"body": "It's very slow (over Tor)... A small 10-second fragment takes 10 second to load. Current Seek function does not want to waste data and handles seek event only after one fragment has been completely loaded and pushed to buffer. I will be improving its Seek functionality, so that it can respond seek event faster, though it will \"waste\" some data.",
+			"post_uri": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne_1491112859",
+			"date_added": 1491121814
+		},
+		{
+			"comment_id": 34,
+			"body": "A failed attempt on XSS attack posted here will make you more likely to be banned. Please exhibit good etiquette.",
+			"post_uri": "1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1_1494508331",
+			"date_added": 1494571078
+		}
+	]
+}

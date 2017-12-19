@@ -1,0 +1,38 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Eki (エキ)",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Blockchain peasant",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508503793,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1508503951,
+			"body": "Awesome!",
+			"date_added": 1508503949
+		},
+		{
+			"post_id": 1508504125,
+			"body": "This is the future of the Internet. Decentralised. Bringing back control to its users.",
+			"date_added": 1508504122
+		}
+	],
+	"post_like": {
+		"1Hd4X8FNiTzfRataE3qj75ysDeobMEgWhs_1508504125": 1508504794
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Comeon: How so?",
+			"post_uri": "1Hd4X8FNiTzfRataE3qj75ysDeobMEgWhs_1508503951",
+			"date_added": 1508504059
+		}
+	],
+	"follow": []
+}

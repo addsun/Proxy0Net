@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1KppeNmp1RLz7kESnW1qqSeRKj5sBUGRzD": [
+			{
+				"comment_id": 1,
+				"body": "As The Elder once said: \"Too young, too simple, sometimes naive!\"\nThe Great FireWall of China routinely employs two methods to block access to websites deemed unsavory: DNS poisoning and TCP connection reset. \nFirst, the GFW inserts false replies to any DNS requests sent towards foreign DNS servers; as a result, DNS servers within the border have their caches poisoned, and users attempting to visit these websites will connect to the wrong IP, which will obviously fail.\nEven if users somehow obtained the true IP address of blocked websites, the GFW will insert RST packets into the TCP connection as soon as one is detected, thereby disconnecting the client from the website..\n\nThe GFW has many more tricks up its sleeve, and is constantly updated to deal with the latest \"threat\". Read up on it: https://en.greatfire.org/",
+				"added": 1508644708
+			}
+		]
+	},
+	"comment_vote": {}
+}

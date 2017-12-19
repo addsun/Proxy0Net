@@ -1,0 +1,21 @@
+{
+ "address": "1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV",
+ "cert_auth_type": "web",
+ "cert_sign": "GyZ0rhAkzTETftvbbSfiVHTy80ZLm9RT0KF9vPd7CfTOoPjtXlGaVjz/cQ+deC8M0UQDGTNRaxncjmXZyU2ak0w=",
+ "cert_user_id": "abc123123@zeroid.bit",
+ "files": {},
+ "inner_path": "data/userdb/13hqjCbeFS6ZCzQymSZjgrnWfwsxiRkriD/content.json",
+ "modified": 1496378205,
+ "signs": {
+  "13hqjCbeFS6ZCzQymSZjgrnWfwsxiRkriD": "HDQja2cyRZJ71Hf1fZcyucCirFJKPD4SeJwzhlsFLhZxRFQPphWyFD9d+M7KOiUTj/HmiszeSxBy4wsfstjxRbQ="
+ },
+ "user": [
+  {
+   "avatar": "generate",
+   "date_added": 1496378205,
+   "hub": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+   "intro": "Random ZeroNet user",
+   "user_name": "Abc123123"
+  }
+ ]
+}

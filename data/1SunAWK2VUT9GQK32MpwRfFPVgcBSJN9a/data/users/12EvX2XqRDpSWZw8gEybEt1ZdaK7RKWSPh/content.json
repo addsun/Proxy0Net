@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HDF0AUGs4XVUicHOSJ3IAtyMV3CYLlHeNf+FiGfF7d8xBwcqoz71iuTRS8OzoxqDS3WFb+xBxQZjXz3cgE4LAXw=",
+ "cert_user_id": "thelaughingman@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "1687d16c7964f3cf24c13e5eb8f49e6c11dba06ea5990200db006bfced7b4fdf",
+   "size": 1838
+  },
+  "data.json": {
+   "sha512": "e2b5a052bb2bf29f7f778774fdaf9a6647ce86f188381f06ebd6d036288d25b5",
+   "size": 353
+  }
+ },
+ "inner_path": "data/users/12EvX2XqRDpSWZw8gEybEt1ZdaK7RKWSPh/content.json",
+ "modified": 1504373387,
+ "signs": {
+  "12EvX2XqRDpSWZw8gEybEt1ZdaK7RKWSPh": "HBq6wleOzLp6bi9m2On5uHKreecYMhizdcUCazXxyVa8Wvirn8phos/U7ALb6kJgXSrfyuFZELH0luieUK+tlaE="
+ }
+}

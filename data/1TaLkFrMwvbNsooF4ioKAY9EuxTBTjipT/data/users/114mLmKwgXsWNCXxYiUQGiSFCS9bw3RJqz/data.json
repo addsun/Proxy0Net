@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "python code for reload all sites when change user",
+			"body": "# -*- coding: utf-8 -*-\nimport json\nimport subprocess\nfrom time import sleep\n\n\ndef main():\n----ffss = open('sites.json', 'r')\n----dictSites = json.load(ffss)\n----ffss.close()\n----dictsSitesName = {}\n----sitesName = ''\n----for key, val in dictSites.items():\n--------siteName = \"http://127.0.0.1:43110/\"+key\n--------openSite_cmd = 'google-chrome {0}'.format(siteName)\n--------subprocess.Popen(\n------------openSite_cmd,\n------------shell=True)\n--------sitesName = sitesName+'\\n'+siteName\n--------dictsSitesName[key] = siteName\n--------sleep(15)\n----ffss = open('sitesName.json', 'w')\n----json.dump(dictsSitesName, ffss, sort_keys=True, indent=1)\n----ffss.close()\n----ffss = open('sitesName.txt', 'w')\n----ffss.write(sitesName)\n----ffss.close()\n\n\nif __name__ in '__main__':\n----main()",
+			"added": 1507614236
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 4,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "test\n    t\n        t\n                t",
+				"added": 1507613811
+			},
+			{
+				"comment_id": 2,
+				"body": "test\n1    t\n2        t",
+				"added": 1507613838
+			}
+		],
+		"1_114mLmKwgXsWNCXxYiUQGiSFCS9bw3RJqz": [
+			{
+				"comment_id": 3,
+				"body": "-- coding: utf-8 --\n# test test test test\nimport json\nimport subprocess\nfrom time import sleep\ndef main():\n    ffss = open('sites.json', 'r')\n    space test",
+				"added": 1507614369
+			}
+		]
+	},
+	"comment_vote": {}
+}

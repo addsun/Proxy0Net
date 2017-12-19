@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Evo",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "The one and only",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474875298,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1474875815,
+			"body": "Wonder how are users running ZeroNet -- directly via python, wrapped in a package, docker, else?",
+			"date_added": 1474875813
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 2,
+			"body": "The books I love I usually buy with a hardcover so they last for my lifetime... at least.",
+			"post_uri": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg_1476959631",
+			"date_added": 1476962380
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13AvYD3hX888Ey6y8kFEce3Ak8hVNLcdrg",
+			"user_name": "Dergatt",
+			"date_added": 1476962321
+		}
+	]
+}

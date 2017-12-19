@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "GzQJyMIUtmSCMYqI4rVJwow+znsJhH02OAUmbfR+VqNM9eo8PiMnjNpFA59j6h/ZSihffDbqpcws4eeUeNpDYaQ=",
+ "cert_user_id": "kiwind@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7eaa671cd5b09362e1dd46884e99fa8e857481352e01e0a6165bd1f25e67924b",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1BUR1CLdtfCnUADbPS49ZvT4pQ8ygRWN2w/content.json",
+ "modified": 1511624614,
+ "signs": {
+  "1BUR1CLdtfCnUADbPS49ZvT4pQ8ygRWN2w": "G5maSkU6PaIafeX1mT/z3yY7bktSHmLGjCbn/6ko8jq2btlAoUfQf6mHY6v7EqJjLv3J6G0GKodL7CCWz13CrbE="
+ }
+}

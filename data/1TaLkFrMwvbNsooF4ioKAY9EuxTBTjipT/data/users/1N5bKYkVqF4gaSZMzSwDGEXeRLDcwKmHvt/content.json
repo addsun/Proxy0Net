@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G20K/k9ST4lN/rtld7WpH1sQczEvuSpmEzFE7oefb9c0vC4FzYaAOh5MQ9eXXW3g0cKubk3kxkdX1xXa4ZPgAJI=",
+ "cert_user_id": "ferock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "77984219a1642fb104cb40ef8e8a35083eea1eac920dd5f33bda92a66976d6da",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/1N5bKYkVqF4gaSZMzSwDGEXeRLDcwKmHvt/content.json",
+ "modified": 1507902849,
+ "signs": {
+  "1N5bKYkVqF4gaSZMzSwDGEXeRLDcwKmHvt": "Gxr/k3i+tyE0Pt/fXK8YZNfMeXU1Ebj7ElDIKtkEDZCMZLodreuj6gkkHIUGJk5fS7Z3Hc/RcbSsSaP+1bKZ7M0="
+ }
+}

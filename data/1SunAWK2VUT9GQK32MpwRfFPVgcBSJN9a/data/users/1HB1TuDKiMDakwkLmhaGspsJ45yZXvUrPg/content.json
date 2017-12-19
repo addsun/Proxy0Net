@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HMU418soroVThOjF/EAMjPNeEaiNEO6Qx5/plv2LZPwDoGB1JokPShjIOuhAUNRichmOGnODpNUOsniXtAQu9vs=",
+ "cert_user_id": "trello@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a4062a18a957eb6d6bd391eb1a11371a56efa341d409ff741b22539fa0f7b42e",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/1HB1TuDKiMDakwkLmhaGspsJ45yZXvUrPg/content.json",
+ "modified": 1508078692,
+ "signs": {
+  "1HB1TuDKiMDakwkLmhaGspsJ45yZXvUrPg": "HMnnMjk20wXQnKPonaoUn5ESFeedTenB8YVpTgGSWuviMMew5rlF5+j2sTr4X5ckpnzO7yKM46BZCx9XU3lLLx8="
+ }
+}

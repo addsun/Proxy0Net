@@ -1,0 +1,21 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HDdZQ8sUG33MCtl0TNEyjOJLT+T50rHQouUfBk1oI98TbhdLPF16BdtB43ZaSwpUILpX5i2JWB1F1SRrTFbMZX0=",
+ "cert_user_id": "caonima0@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0055ddfdec3df848a4af4825c65d75971a663ac8e5d7a953a0f17421b00e839f",
+   "size": 1648
+  },
+  "data.json": {
+   "sha512": "1a75f2d20f2b094a2bd58a07ef4e3e50e3e3547fd8a59856ab1baf131d437740",
+   "size": 367
+  }
+ },
+ "inner_path": "data/users/14EHJ2qFbmuVcB1uQaLjyy6NyAKy5HUzYL/content.json",
+ "modified": 1497271317,
+ "signs": {
+  "14EHJ2qFbmuVcB1uQaLjyy6NyAKy5HUzYL": "Gxoz8A3Uzn5zW//Tc2sx2jf58B5XTQkiGoifvqgnipRhM9mG+lwqfcmRN7NuBKp8mIs0kMFM8qdqvEjiZQZZce0="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G7T8rmVYsONhAyT+n4vp/ht0G1oBXtHBDVXfs3w3t1E/KyJUZzxAW3Wmm662MGkaKwvfAnLD4Q7BqeJK0Gkn/Zs=",
+ "cert_user_id": "peateli@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c5beb5af3770040c2c2455aeb5a34dbfe3916a7ad12c9e5bfb593b69afce3b9b",
+   "size": 325
+  }
+ },
+ "inner_path": "data/users/13PdcKFnLKhffUmXj5hA5wDTGMimjvspmD/content.json",
+ "modified": 1503808865,
+ "signs": {
+  "13PdcKFnLKhffUmXj5hA5wDTGMimjvspmD": "G1nxpZov3tcROZ9Y1IfB/uIlUs7kBgNOoauLLjCAKVf+ZvSGL/U6XNheIp+zJPbMXlG8XV+q4FxqfgdEe8fDBPQ="
+ }
+}

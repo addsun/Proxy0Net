@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G10umjjNLMTCDYEA2nS4KNnDdtssXSSdOcDAObCVstUtdIgtJ5wKaGU6waL27N8EmQ2VC7lANqlwDKpTnfalr+8=",
+ "cert_user_id": "koalli@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8e6af1a4a1f47c5760f9a374390b42a8f0f0bbc1a3a1f414c4c13e6a315c4d29",
+   "size": 1126
+  },
+  "data.json": {
+   "sha512": "b29209566e06d923832dc79cf66d28efacdc045d5ed10d42383eab26d7252bb8",
+   "size": 332
+  }
+ },
+ "inner_path": "data/users/18XpeikNiyC1fvZqF2kLNGJRLcc8qZFYyF/content.json",
+ "modified": 1503737665,
+ "signs": {
+  "18XpeikNiyC1fvZqF2kLNGJRLcc8qZFYyF": "HCHkxVl6MB8TejwrnZLgAHQFlr6lp+jLGgbaWzM6ZxphQ3Z9pp970+qliFKYHcpMfa+NWesZ279JUpxyPhLdwXg="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HGo0OB8SEvxvWwvZp+4XwfyeyDd+N6+4sCznVauLKmix+4umFqjfJVnvGCR3KVettOweoFwR2mwsSGukWonjhKA=",
+ "cert_user_id": "tertium@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "40f297a0c96fbbfb6c695a8d600bd7ae2b15d3dfe18fbb683b278bc2518adbc5",
+   "size": 321
+  }
+ },
+ "inner_path": "data/users/1N6zEDbtL5bGTGZoA9knLuizNWvmubfjjF/content.json",
+ "modified": 1503791562,
+ "signs": {
+  "1N6zEDbtL5bGTGZoA9knLuizNWvmubfjjF": "G1N5kdhyaQ2NT9l2+AIcZeU+EiLzQN5jqTjE6eNkw+NJQVeAIwL640w9lISYOW6SWAPlXqsp0QdESUE0e6P/U3w="
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "GxuSNocch4mECbnjZj1KK3zqPG5Cj1wGsKENpNYZdIkFdGEtRwiKC3TSDs0mH4a81rNzElWgEoLePFDK5b5bJbU=",
+ "cert_user_id": "frog@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "acd0052e0e92d602cc65d99f0d25aa07c658cd630e3f5ef9e52e48f12ed34587",
+   "size": 12489
+  }
+ },
+ "files_optional": {
+  "1484928934.jpg": {
+   "sha512": "805948ad0f750b469496e53a31bfeee8378d9881c0afb213e09ba93f6951b880",
+   "size": 46303
+  }
+ },
+ "inner_path": "data/users/1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX/content.json",
+ "modified": 1510175800,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1D9PFKqnik1Z4JtDZnYhyQERZAu5ZiXqFX": "G06MDaiNC7pgg3LS3pveQqAGegfyXwoomK2Uu5NIj7O9MgwwjAvVTy+cb8phc1KmI3JZtpiNWkDr0aQ6yQRfPN0="
+ }
+}

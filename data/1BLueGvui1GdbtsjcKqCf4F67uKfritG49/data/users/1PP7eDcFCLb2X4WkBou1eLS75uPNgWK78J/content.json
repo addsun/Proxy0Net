@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HKV+qmRanjcoOgXGf/w+oGgSOjvwtFowqatEq+cDX8pdF+rG0K3eo1oN4TAp0jL9RsCTpJSQWd3Otk9IAoZ9fG8=",
+ "cert_user_id": "torrentpunk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "89683376f7ddf310dd7199de86a56ca21cf419f30f82b88ea2232567230d8a5f",
+   "size": 407
+  }
+ },
+ "inner_path": "data/users/1PP7eDcFCLb2X4WkBou1eLS75uPNgWK78J/content.json",
+ "modified": 1500214656,
+ "signs": {
+  "1PP7eDcFCLb2X4WkBou1eLS75uPNgWK78J": "G+KFFW67k/1VmPEr4QRUd0n313544Ovp53CLD+ezacQOd32wo+TOdwsZwkz+bt0N5LgMQVh86hgAl3LHlyw1LWk="
+ }
+}

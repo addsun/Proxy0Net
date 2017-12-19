@@ -1,0 +1,64 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HBIuX18AyWocuHec/YjQgKwJcpWm+4jFMYYXZ/ZJ3+UqfYJQZ87DfS7KZRP+Ht0fE/R6xYIwm08U/84Y60mh1jo=",
+ "cert_user_id": "jackyggg@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "feadb0ad89d0a9f1f2437e2661aff51d0bf11f250d98f2eeeb2a16fc3160a38e",
+   "size": 1422
+  },
+  "data.json": {
+   "sha512": "3e60c20d817f4ec434061a35330f667be7d29a97ecb03ac3e3a9d144ec64b4b9",
+   "size": 41583
+  }
+ },
+ "files_optional": {
+  "1508766293.jpg": {
+   "sha512": "421c69efaf97c1f4a590568e39460208d4adb0c6ad31c2d3a521cd009c9417de",
+   "size": 40246
+  },
+  "1508766353.jpg": {
+   "sha512": "e92e29195f5662b5b34594323e54e95fc6d0b267c714624d61613d73904d07ed",
+   "size": 48590
+  },
+  "1508766564.jpg": {
+   "sha512": "aff39afe0f09532431851a7e7ac3003f901d0e2fc43d90a833c45c0b91ca2e9c",
+   "size": 81428
+  },
+  "1509642277.jpg": {
+   "sha512": "876dccf90d4096f25f95ccceedf5ddc3b873f872198894b7aa13e3a625e7bb8f",
+   "size": 28632
+  },
+  "1510303936.jpg": {
+   "sha512": "546e9b4ad15f389910b365eab086561d8fcffcc1e7470776b81fb7d425d0d18b",
+   "size": 46371
+  },
+  "1510669207.jpg": {
+   "sha512": "c51cc3539be2411dc3a418f86e0ea6d468c0e2b7df2261d0e92e6cdd6bf9b578",
+   "size": 114360
+  },
+  "1510931982.jpg": {
+   "sha512": "48af2413a2bf6d7d232e8c6c11847663dc6b4faedf7e71b842a579b0e1310a4e",
+   "size": 18515
+  },
+  "1510932073.jpg": {
+   "sha512": "366aa13a49717df3e26d946939bbd8ae77460f77d85140099e82625996edcbc9",
+   "size": 32459
+  },
+  "1511059484.jpg": {
+   "sha512": "e81054ff12f0d477359f45fd763a4c24655ca23047cbd86c7b62d1cc16d1310d",
+   "size": 49883
+  },
+  "1511838458.jpg": {
+   "sha512": "7215b1a90968c13c54a3ddac73c07a2fa2f3334a2623e2d2f0c5fb74e13e7287",
+   "size": 33767
+  }
+ },
+ "inner_path": "data/users/1HJwfoT1ppryxwaDXYaBc85BG7T3K8hiWJ/content.json",
+ "modified": 1513353715,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1HJwfoT1ppryxwaDXYaBc85BG7T3K8hiWJ": "G0SF05ZDptjx09MVWjcx4dw7rVYqh9BSSgI5YRjZnfdeCNb1Dvsr5kl/u1U7Dgw4iVN4AGYk833SlDL1bFxqr+I="
+ }
+}

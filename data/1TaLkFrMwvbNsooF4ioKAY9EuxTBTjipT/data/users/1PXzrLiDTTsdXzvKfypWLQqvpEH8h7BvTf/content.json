@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOkJxarhltmyN995E9Go3gVYiXKHp+G7o8itMpLKDlruxn90ol70/m249AsugiHzBC3x9O07shO1EffjEguxthI=",
+ "cert_user_id": "dairoku@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "41cb88bebc82b7101c26d8b3c626bf5ed8ac80460cb012944271e5ee148de891",
+   "size": 383
+  }
+ },
+ "inner_path": "data/users/1PXzrLiDTTsdXzvKfypWLQqvpEH8h7BvTf/content.json",
+ "modified": 1504810740,
+ "signs": {
+  "1PXzrLiDTTsdXzvKfypWLQqvpEH8h7BvTf": "G94PNbWSll07Ibd3PBkbFkSy4bFG7mOjdRDesnlXxmJ5TydjtHq6eJeS0IWODIlVFcAqZEntJDjEfB5d14kVtAk="
+ }
+}

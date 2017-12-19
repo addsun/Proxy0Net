@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G/KLK9BGDkVXA7F59t5l6UAjASmfWK+YF9PUra98HAoJJgGUCRc9MdYMqx0hZ1er5NphHQ6v+5+QQTPfnHxy5bU=",
+ "cert_user_id": "drodpcgeek@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9a10078b350af9cc39f7a25bc7ab1d9fced07b3dd57f5f888b752fef5659b8d2",
+   "size": 689
+  }
+ },
+ "files_optional": {
+  "1511929335.jpg": {
+   "sha512": "c1dd5c76c700b52e5fb135e6212a4d61789b812a6f17a392a4f84c3a86065bb2",
+   "size": 8371
+  }
+ },
+ "inner_path": "data/users/1Ny5tZkD5V14SztbaeKz6Q6hz9vUNCQj4q/content.json",
+ "modified": 1512000882,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1Ny5tZkD5V14SztbaeKz6Q6hz9vUNCQj4q": "HFWTK2FCX8cfAhBjctj1xqIgTaEsbQLrW7cPEYyw1hjxGkpMKf2mLGoGJgzjsIA8IF5R/lyd/h1Mi6a572GWguw="
+ }
+}

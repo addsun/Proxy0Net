@@ -1,0 +1,28 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HLICUkI+rPXIrkgOVtZbHwDRZgUMItmvNeKv0ZdGJs+F4CvXpCDcYZZIL93BiFvUM9Sp5NdLOQ3KmIuW15ekqKI=",
+ "cert_user_id": "kangster@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "05185cf69f11107a78d4d6fc1e9f6ec130f7c2bb17d7e4110cbf742838ba3188",
+   "size": 1004
+  }
+ },
+ "files_optional": {
+  "1504655170.jpg": {
+   "sha512": "fc9324718092fe44687e500b8d3aca5b84ecac1b7b4b21d4538eb05d58801127",
+   "size": 41307
+  },
+  "1504655227.jpg": {
+   "sha512": "df2800aa9a23397f6446b2299baacf9fed2ea61f03404b56dcda3cb1f23ce79b",
+   "size": 43003
+  }
+ },
+ "inner_path": "data/users/1FyBrrWyanPyiZxkHmh9b7Kb1hXA3W48Te/content.json",
+ "modified": 1504655307,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1FyBrrWyanPyiZxkHmh9b7Kb1hXA3W48Te": "G6DWCMXjSQc13+QU597plxP1G/duoUQt2fuDLImXl8bEVrEaW14sJubpSMErdeEdeeic97/xlh01CMXjKoJ/m0I="
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G94Qs2KLJx0b7hJNox0T9xe1qXhKffyyiJ0OZs5sT3sISQ4lVU3VahTcNIqDfDOgXAXAErLij9criHIhgify0Qo=",
+ "cert_user_id": "12hstudy@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "0268745f828121dffa3804c5c58dcb21d41a1517dd20a3c860f410a756606697",
+   "size": 1784
+  },
+  "data.json": {
+   "sha512": "077fb07302f7ebe63b758c42360105f60d3f591a0e019a85386e13b99b36dae1",
+   "size": 46005
+  }
+ },
+ "files_optional": {
+  "1482031454.jpg": {
+   "sha512": "7c45bed567cf7ab8472772f44c9da90608f0dee94c6043abf54b809b242eb07a",
+   "size": 109776
+  },
+  "1482066226.jpg": {
+   "sha512": "72d4f75f4684df130d44831dc69668023dae7187dda81472e80e0fc589f73419",
+   "size": 45880
+  }
+ },
+ "inner_path": "data/users/15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL/content.json",
+ "modified": 1482116043.76,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL": "G2+NdmyWUTjSvv2X/3RHqUC2E7Q/U37J1fpO3MvwepMSJILCn6mdCgkM4wwvBHxyIa+WYe4dbZl0pUR5v1Fxs5o="
+ }
+}

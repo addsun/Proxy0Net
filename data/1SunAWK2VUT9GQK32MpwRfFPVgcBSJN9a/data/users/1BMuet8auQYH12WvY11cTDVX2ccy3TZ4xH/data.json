@@ -1,0 +1,31 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Routercontrol",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504469262,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF_1504424371": 1504488256,
+		"1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF_1504424316": 1504488258,
+		"1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF_1504424214": 1504488260
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1BMuet8auQYH12WvY11cTDVX2ccy3TZ4xH",
+			"user_name": "Routercontrol",
+			"date_added": 1504469363
+		}
+	]
+}

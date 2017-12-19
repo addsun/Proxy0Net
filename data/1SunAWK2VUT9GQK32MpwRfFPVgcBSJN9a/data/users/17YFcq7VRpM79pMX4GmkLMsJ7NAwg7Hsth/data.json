@@ -1,0 +1,43 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Matehegedus",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Átlagos ZeroNet felhasználó",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506721640,
+			"body": "Szia ZeroMe!"
+		},
+		{
+			"post_id": 1506722188,
+			"body": "How can i add multiple user in one client?\n",
+			"date_added": 1506722186
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Or log out and register other user?",
+			"post_uri": "17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth_1506722188",
+			"date_added": 1506722201
+		},
+		{
+			"comment_id": 2,
+			"body": "@43110: There should be a more userfirendly way to do this... Still this is awesome...",
+			"post_uri": "17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth_1506722188",
+			"date_added": 1506864868
+		},
+		{
+			"comment_id": 3,
+			"body": "@Zeroberto: ... :)))",
+			"post_uri": "17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth_1506722188",
+			"date_added": 1507070242
+		}
+	],
+	"follow": []
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HFp3DAB7sjMCcGeIi7a1PGy/t4+sITLk9yEhPpqMHjLaNxgWRVrap6vauva0u/sH8xpe7bJejIW+QwndQOw1S1U=",
+ "cert_user_id": "ipcreeper@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7c8eaa58e53f777433720818041d7f29607493ca43bb99ec48f2f06a98d0b236",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1AWSzhjVjzmCrTyMbpuAG42z12oLWYVE6w/content.json",
+ "modified": 1503784716,
+ "signs": {
+  "1AWSzhjVjzmCrTyMbpuAG42z12oLWYVE6w": "GyFi6IAf2IWw/evYXISGmYh0o6CBf8IjB8VDW+gmY3N3E1MHOpk6yWmTaTgK16qHWADlqrnO+eHBzRCXvGszIMk="
+ }
+}

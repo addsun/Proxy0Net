@@ -1,0 +1,34 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Ryzen1600",
+	"hub": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509633276,
+			"body": "你好 ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1509779067
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1LNpoyKNhp2VFnDzZA6k5uMtj66EZWkjBc",
+			"user_name": "xXx_JuNkO_xXx",
+			"date_added": 1509779551
+		}
+	]
+}

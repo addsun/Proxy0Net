@@ -1,0 +1,39 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Itsgeorge",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503006039,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1503006077,
+			"body": "Rad, a nice twitter clone!",
+			"date_added": 1503006075
+		},
+		{
+			"post_id": 1503006119,
+			"body": "Testing image uploads... ",
+			"date_added": 1503006116,
+			"meta": "{\"img\":\"700,700,f98d79c61f8076897aaaab9e444000211a62f8c741421951,00122100000233332000023333140013566788000339A95500033B23C1000B3BABDB11EA33F123AAAAD333232AAAAEDF332A\"}"
+		}
+	],
+	"post_like": {
+		"15uia6T8RVpPVBfuy85SNMuv5DimsZn94p_1": 1503007437
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Testing a reply, I think... Let's see..",
+			"post_uri": "15uia6T8RVpPVBfuy85SNMuv5DimsZn94p_1",
+			"date_added": 1503006061
+		}
+	],
+	"follow": []
+}

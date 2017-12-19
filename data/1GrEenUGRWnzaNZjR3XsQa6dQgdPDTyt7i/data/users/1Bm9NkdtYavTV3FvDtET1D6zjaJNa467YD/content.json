@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HF3OJlhalyuZzMR/Ppiw2UW9kRPMWAI26nd2yL1fu3K05m5lv6pvd+O5GahdL7cfF1FnKdOs40oD5y3c5Cx7GX8=",
+ "cert_user_id": "runion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "26cee0c970c3ae2a144f294d3491ef85fe9399ffd10fb63edd1b395563b9531f",
+   "size": 361
+  }
+ },
+ "inner_path": "data/users/1Bm9NkdtYavTV3FvDtET1D6zjaJNa467YD/content.json",
+ "modified": 1509250974,
+ "signs": {
+  "1Bm9NkdtYavTV3FvDtET1D6zjaJNa467YD": "HBHJm69SaKMFdQumQTjDuas664Uv6qGVidmVCY+MekRUauOj5AU/lFsh2De4jXzdADZcH80o4881VHiK8F3Hc30="
+ }
+}

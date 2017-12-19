@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HKLKPmDt8vpjqkmsSVrf+lz+GTzKY7CGhJ7Le2EXsYxrtS6p5B655bzYRlAmc3J+lb/hmVMwBg3znv63l1QFDpI=",
+ "cert_user_id": "boretang@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7764fce3d7cec4a9b0cd95027c35d67327aae069a2039a69473f1adcd42803ee",
+   "size": 310
+  }
+ },
+ "inner_path": "data/users/15CcEC3qMTaYmuaywKYVmeHipy6Erdf4Su/content.json",
+ "modified": 1499748557,
+ "signs": {
+  "15CcEC3qMTaYmuaywKYVmeHipy6Erdf4Su": "HIfTG2PtNGwdrrztf736hi9ljeSjpRAGw4qYzT5oHZ6EfD8oxwln0e26Zg0fkj7AxhF5enrdMPfS4bccfmz66wY="
+ }
+}

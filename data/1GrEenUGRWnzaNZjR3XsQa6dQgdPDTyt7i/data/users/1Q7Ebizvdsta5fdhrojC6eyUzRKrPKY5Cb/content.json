@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G/AjX/DSlfcwobU2dldZbylkmRirPzMgOwmAESpYKMurqBVBGjD3y1oPO2nikYlbZ97dv7AcCgQ08eAkh1h+68I=",
+ "cert_user_id": "gopher@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "980b6baf756e9a249eee0f44d1ce2a11d06fb827408b9ca3f00d3ef01abd4563",
+   "size": 1598
+  }
+ },
+ "inner_path": "data/users/1Q7Ebizvdsta5fdhrojC6eyUzRKrPKY5Cb/content.json",
+ "modified": 1504442327,
+ "signs": {
+  "1Q7Ebizvdsta5fdhrojC6eyUzRKrPKY5Cb": "HBd5kLTPmNpP5oVIpVlYiGMK0fX5vrxLhvFoN7Y2fqbACo5qNjw4IgVbbBl++WPAzsnSOeFB09oS6Q64bp44N3k="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G32WV23cyfsQTfCro9/sUipQM9qKcEvamCO5oKQuBkSdQtbZjCOgBKhlb/LQGnBK0e1ZcqB4FQHRC/aLxtECAPA=",
+ "cert_user_id": "lezlands@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e2315dd8b1cce00d147314fc35c540e0f9dbc267b5dbe798636b9d07804d8711",
+   "size": 261
+  }
+ },
+ "inner_path": "data/users/1HWcdTVSLJCLxSNbpHnM6SKKLaYqwJJFsF/content.json",
+ "modified": 1509663129,
+ "signs": {
+  "1HWcdTVSLJCLxSNbpHnM6SKKLaYqwJJFsF": "HI71vKlUgLX9++MrS0wIlf078BFt7rHmXObgHIPl9tedLXHnHmbQwlNv6nZC9cYTi3I9luMLpdXoo5JqBJ+bpK0="
+ }
+}

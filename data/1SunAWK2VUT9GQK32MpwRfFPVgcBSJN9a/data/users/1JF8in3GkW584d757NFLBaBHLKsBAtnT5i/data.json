@@ -1,0 +1,32 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Slavius",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Not a random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507913371,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507905837": 1507913443,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507901696": 1507913464,
+		"17JewVacvqaUynaYh1sup3nWcuKSPzET2Q_1507488767": 1507917913,
+		"1Ak7882dvyntHX4pWcx9FDXkjQXBk38fDD_1508430579": 1508440677
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Ak7882dvyntHX4pWcx9FDXkjQXBk38fDD",
+			"user_name": "Jackxhe",
+			"date_added": 1508440792
+		}
+	]
+}

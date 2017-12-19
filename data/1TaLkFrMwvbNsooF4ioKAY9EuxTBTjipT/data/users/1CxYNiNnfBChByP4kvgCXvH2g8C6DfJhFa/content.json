@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HOPBx0KVO/8tLyhhz81FK3X5QgNe4Ig/R9SX4CK6CH8efcjVJ7giUf3gcq7sfrAJHseDbo2nLydb+STGuTK3uzw=",
+ "cert_user_id": "vanguard@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "252dab7c088987e4f4889f00fdaccfd41906acc6c900894bb5c43de884c0a00e",
+   "size": 667
+  }
+ },
+ "inner_path": "data/users/1CxYNiNnfBChByP4kvgCXvH2g8C6DfJhFa/content.json",
+ "modified": 1504681780.608991,
+ "signs": {
+  "1CxYNiNnfBChByP4kvgCXvH2g8C6DfJhFa": "GwCXKU+OkC7drt7sOT9DdeOOjoAztt+3erdIPkHf8GvOf3t/c2qI2k1m1KfygmZR/2aqgPjrqNL8nI7II93Jh7c="
+ }
+}

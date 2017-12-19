@@ -1,0 +1,34 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 1,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Zerohi",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513515643,
+			"body": "真是到哪里都有闲的没事干的人。"
+		},
+		{
+			"post_id": 1513518130,
+			"body": "ZeroBoard的 `return $.post(\"https://zeroid.qc.to/ZeroBoard/add.php\"`返回hash值不全，截取了，解不了哈希码。\n",
+			"date_added": 1513518128
+		},
+		{
+			"post_id": 1513528442,
+			"body": "`$.post('https://zeroid.qc.to/ZeroBoard/add.php', {\n          'body': body,\n          'auth_key': auth_key,\n          'hash': hash\n        })`\n我看Zeronet是骗人，ZeroBoard不是去中心化的，把消息给服务器的add.php去处理。\n只是所有客户端不连在服务器上罢了，发消息要发到服务器去，然后再从服务器开始点状扩散。\n`Parsing parameters... Loading messages.json... Writing messages.json... Signing content... OK`服务器响应信息\n##给服务器发了个http包，一样可以说话。完全可以自己写个python发包程序发给Tor9150端口，就可以不停的换头像说话了。\n~~亏得zeronet写个.js脚本，还写个花指令，但还是藏不住本质的东西。~~好吧，我对于js不是很熟悉，好像是个js脚本。（其实我对什么都不熟悉，就是天天装懂;)）\n##所以说可以弄个服务器，装上php当服务器，有post包来，就改写zeronet目录里的文件，然后签名发布zeronet文件，就可以实现一个php后台zeronet服务器了。\n##有很多想把服务器上的后台网站改成zeronet的，这就是个方案了。\n* 根据这种方案，完全可以在很多地方建立多个服务器，后台程序管理接受http协议报告，然后再签署zeronet文件、发布，就可以形成多个地点服务器的架构了，因为一旦签署发布，就可以散播到各处了。\n* 不过有一点，目前zeronet的加密方案并不乐观。\n* 而且一旦丢失密钥，那些大公司就都白忙活了。",
+			"date_added": 1513528439
+		},
+		{
+			"post_id": 1513570372,
+			"body": "大米饭、面包、牛奶、黄油、面条，有没有经过双盲实验。\n学院派是什么鬼。\n吃饱了喝足了，会讲学院派了。这跟过河拆桥有什么区别。\n学院本来只是一个名称，却被一些东郭先生当成了歧视工具。\n时下，东郭先生泛滥已成为一个属实。",
+			"date_added": 1513570368
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": []
+}

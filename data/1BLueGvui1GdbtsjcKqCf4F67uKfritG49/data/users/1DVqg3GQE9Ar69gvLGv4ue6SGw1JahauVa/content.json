@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "G5PngAsea8JE60MMKdXQhqZzmD6EhVwjruqkCcofkDp2MLWNfXWt030kTlZ0Nhod3eGIfmNUxAxxXV0Ri04b9pg=",
+ "cert_user_id": "nests@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9a8d2750752ebe5c26970a79a936ae0ccdf017b2fc088f9078315dd27c25b7dc",
+   "size": 903
+  }
+ },
+ "inner_path": "data/users/1DVqg3GQE9Ar69gvLGv4ue6SGw1JahauVa/content.json",
+ "modified": 1502953932,
+ "signs": {
+  "1DVqg3GQE9Ar69gvLGv4ue6SGw1JahauVa": "HIK0GqbiXo1FJoEwHTkJKwoB5m/iYBca6Pkjq75OklJhKSM2IVKVIukTKNYhJ6BeIWha1bO7OnkyrzKHv58nowA="
+ }
+}

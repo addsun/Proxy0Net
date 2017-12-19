@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy1Msb2D9gd+caAaTmRLJePe8h7BcZ2M6wtmkvfcKkBl1kcQGknqHelLoFhEbnBzq9Kib/mFqvP+zxjSTfGkftw=",
+ "cert_user_id": "earthengine@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6d57e49ab4ba4bb05ffe35b2ea2d50cc98ffab5f1bee436aacd79607cecb4fd2",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/19nL7tw5M1bmEMkW6G2qLcsQvBPVEvvb9w/content.json",
+ "modified": 1505046019,
+ "signs": {
+  "19nL7tw5M1bmEMkW6G2qLcsQvBPVEvvb9w": "G0GpuzlupsgTKKgwmzAKnbAY3kHO2lE5Qev80opD06D5ICLz1xd0//z8IzuRWMC8zc/0TkCdh/+ZnYjweSKFd5k="
+ }
+}

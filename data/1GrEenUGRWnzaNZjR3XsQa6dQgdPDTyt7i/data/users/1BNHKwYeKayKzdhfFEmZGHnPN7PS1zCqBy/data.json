@@ -1,0 +1,48 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"settings": {
+		"comment_order": false,
+		"mute_ugly": false,
+		"mute_spam": false,
+		"mute_blocked": false
+	},
+	"user_name": "Hakai",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478183924,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478396781,
+			"body": "在这里发日文教程的是什么鬼？。。。",
+			"date_added": 1478396778
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "哈哈，知乎段子，注明出处",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1478247392",
+			"date_added": 1478251310
+		}
+	],
+	"follow": [],
+	"flags": {
+		"post-1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478317977": 3,
+		"post-1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478318858": 3,
+		"post-1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm_1478318977": 3
+	},
+	"blocked": [
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY"
+	],
+	"comment_like": {
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_52": 1478397127
+	}
+}

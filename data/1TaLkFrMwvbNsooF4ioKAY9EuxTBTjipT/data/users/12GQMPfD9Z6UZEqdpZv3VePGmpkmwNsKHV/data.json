@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "hi, I tried to view the stats page as mentioned in the doc @ 127.0.0.1:43110/stats/ , but it only gives me an empty page with only \"Not found -  /stats\" \nIs something wrong..?",
+				"added": 1508064089
+			},
+			{
+				"comment_id": 3,
+				"body": "> [nofish](#comment_1029_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's case-sensitive, so: http://127.0.0.1:43110/Stats\n\nah now it works, thanks a lot nofish ! i'm new to zeronet, not really used to case sensitive URLs ;)",
+				"added": 1508065204
+			}
+		]
+	},
+	"comment_vote": {}
+}

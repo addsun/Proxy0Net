@@ -1,0 +1,32 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Yammyxing",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509466163,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1509466278,
+			"body": "Sounds like a new world.",
+			"date_added": 1509466276
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1LAmyfA49Hwbo1CzrCqpyRrjnt5ZowmehG",
+			"user_name": "Yammyxing",
+			"date_added": 1509466176
+		}
+	]
+}

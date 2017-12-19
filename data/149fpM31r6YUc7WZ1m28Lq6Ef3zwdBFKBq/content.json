@@ -1,0 +1,40 @@
+{
+ "address": "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq",
+ "address_index": 26104824,
+ "background-color": "#F2F4F6",
+ "clone_root": "",
+ "cloneable": true,
+ "description": "Hub dla polskiej spo\u0142eczno\u015bci",
+ "files": {
+  "css/all.css": {
+   "sha512": "07cc0c9b1808e9590fd5c47b4e67e82966ab70a3845fcaa070856ff03c858629",
+   "size": 38129
+  },
+  "data-default/users/content.json-default": {
+   "sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
+   "size": 735
+  },
+  "index.html": {
+   "sha512": "62c31922755abad33298b456908bf2537bfa3387dfc2177f01c9c0ab4e050da9",
+   "size": 1988
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1511468058,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HDomjuC4K0NA/hqNbIrF0brnWpMo8LXN4BKH1/2xW7grKZCpRr/kd2HOC2KQIDW1mDsvID3PikDoFBR3+npSPYQ=",
+ "signs": {
+  "149fpM31r6YUc7WZ1m28Lq6Ef3zwdBFKBq": "G//OSNB8F0mjjxsSWOQrysnoLok5B4No79Vn6aJ6ECfzDuhOBERcSbWmz74nsjGExkuzRKbqyNn/yAWG8acf1SU="
+ },
+ "signs_required": 1,
+ "title": "PolskiHub",
+ "zeronet_version": "0.6.0"
+}

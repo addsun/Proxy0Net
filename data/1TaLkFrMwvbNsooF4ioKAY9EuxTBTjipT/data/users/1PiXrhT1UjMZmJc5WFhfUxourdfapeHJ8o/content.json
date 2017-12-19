@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HM3LbXkEodWAXv8dF+VA9uYjCO41HtSi1T0oOYULyiPi55jdsNI2Q/KI6I/YwsRt79/M15jh9kWGvAEj+3uHWEE=",
+ "cert_user_id": "cosmologica@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16721e5fbb2664cd6a98b04e502fa53cf62cd77a15334f901808d2ebf95a7867",
+   "size": 57759
+  }
+ },
+ "inner_path": "data/users/1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o/content.json",
+ "modified": 1512605624,
+ "signs": {
+  "1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": "HG6OskTmMh/ZGJRc7uRtGVnfMhj2bY6RohAzQw91uehpYV0Je/rZVFVsj9Xl6//05rwf9my8DpWZFs7EHOfMzRI="
+ }
+}

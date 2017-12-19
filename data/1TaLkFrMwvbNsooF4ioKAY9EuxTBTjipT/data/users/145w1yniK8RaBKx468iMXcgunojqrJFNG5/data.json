@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "how to torbrowser with mac os",
+			"body": "using mac os, I wonder how to launch zeronet with torbrowser instead of default browser? (firefox in my case)",
+			"added": 1506375470
+		}
+	],
+	"topic_vote": {
+		"1_145w1yniK8RaBKx468iMXcgunojqrJFNG5": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_145w1yniK8RaBKx468iMXcgunojqrJFNG5": [
+			{
+				"comment_id": 1,
+				"body": "> [cadenoro](#comment_4_1vAdpJiyYEHcDZoJn93QcjzaFVKHHPg1F): I find it easier to close the launched browser, then launch the Tor with the http://127.0.0.1:43110 URL.\n\nI am not sure but if you do that, your IP and your nickname are probably somewhere readable. So I think its pointless to use torbrowser afterwards.",
+				"added": 1506418666
+			}
+		]
+	},
+	"comment_vote": {
+		"4_1vAdpJiyYEHcDZoJn93QcjzaFVKHHPg1F": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "H6iQD1SD31XRci5/ksmNYqjmYwfDq+0BmsIqVCqtJRt/P3JhKdWxeyjp0G/6+cu9QSYqk1k77mHh6EbDLFNI+1I=",
+ "cert_user_id": "repository@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6d2ed1d591bf06e998abe9fec308a7851664008aa8db4465a9bd362e16702d1c",
+   "size": 1016
+  }
+ },
+ "inner_path": "data/users/1PUHgC7xiZNDc3YKwMM4Jk2setv7v8LmBs/content.json",
+ "modified": 1511329734,
+ "signs": {
+  "1PUHgC7xiZNDc3YKwMM4Jk2setv7v8LmBs": "G2ytpYM4niLJQoEL2BhSLPKaAleJReWYEYW/A47cX8B3RxfVSLwa7lwKl2wZkSo6WHAZlqtFRBhksNfZw4JqDGo="
+ }
+}

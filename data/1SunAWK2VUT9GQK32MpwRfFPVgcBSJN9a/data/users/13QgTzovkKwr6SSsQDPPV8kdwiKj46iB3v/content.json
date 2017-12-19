@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HEg0PE5qCM6Vztzz5FRrg8lIIOvxzahAG90PY1Sh5w+D0H4mEx3yZD4r/F5zXj65B8j6oqcMgALCZEzmngYqhlE=",
+ "cert_user_id": "abctel@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "219b22a49e979216e9cff2ff86c47a8f5e9137a64431cd36b72f40f7fcb09378",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/13QgTzovkKwr6SSsQDPPV8kdwiKj46iB3v/content.json",
+ "modified": 1508515312,
+ "signs": {
+  "13QgTzovkKwr6SSsQDPPV8kdwiKj46iB3v": "HCk2EOBxzDlvWLT4o86dIc8yNQGCvhqhn1fbxBTX+IjmGDOoobcqpZX9b1hIEszqpcJDm8J5xL0LFm02eWKzjYU="
+ }
+}

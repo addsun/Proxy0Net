@@ -1,0 +1,128 @@
+{
+	"next_comment_id": 21,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@P2P: Thanks for reporting, Rev2127 should fix it.",
+			"post_uri": "1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y_1498547805",
+			"date_added": 1498579859
+		},
+		{
+			"comment_id": 2,
+			"body": "Just increased the limit!",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1504776147",
+			"date_added": 1504825458
+		},
+		{
+			"comment_id": 3,
+			"body": "Thanks for reporting fixed!",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507903461",
+			"date_added": 1507911881
+		},
+		{
+			"comment_id": 4,
+			"body": "Whats the version of the Tor client? You can check it in log/debug.log, search for \"VERSION Tor\"",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508251497",
+			"date_added": 1508251710
+		},
+		{
+			"comment_id": 5,
+			"body": "It's not necessary a problem, the not connected peers just dead",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508426376",
+			"date_added": 1508430222
+		},
+		{
+			"comment_id": 6,
+			"body": "@霸王寨第一光头: I tried to reproduce it with different Tor versions, but never got that error. You can try to update your tor client to latest version (0.3.1.7) (the you can find the instructions in tools/tor directory)",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508426376",
+			"date_added": 1508431080
+		},
+		{
+			"comment_id": 7,
+			"body": "@霸王寨第一光头: You can try to download it again and copy the data directory to the new client to see if it's still happening",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1508426376",
+			"date_added": 1508434099
+		},
+		{
+			"comment_id": 8,
+			"body": "@P2P: Unfortunately right now this is a pretty hdd sensitive function so i'm not sure if it's a good idea, but I will try to find a way of the optimization to make it faster.",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1509027909",
+			"date_added": 1509094451
+		},
+		{
+			"comment_id": 9,
+			"body": "It takes some time, but it should do it.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1510590348
+		},
+		{
+			"comment_id": 10,
+			"body": "@mv00_: It wait 2-10 seconds between sites. So it should not take that long. How many site you have in you client?\n",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1510605232
+		},
+		{
+			"comment_id": 11,
+			"body": "When the updates stops reaching your client how many connection you see in http://127.0.0.1:43110/Stats ?",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1510834000
+		},
+		{
+			"comment_id": 12,
+			"body": "@mv00_: That's weird way too many connection and for some reason the dead ones did not get closed automatically. Is there any match if you search for \"unhandled\" in file log/debug.log ?",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1510924083
+		},
+		{
+			"comment_id": 13,
+			"body": "@mv00_: Thanks fixed in Rev3141, Is there any other \"Unhandled exception\"?",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1510938664
+		},
+		{
+			"comment_id": 14,
+			"body": "@mv00_: Thanks, (hopefully) It's fixed in Rev3144, please update & watch for errors",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1511112260
+		},
+		{
+			"comment_id": 15,
+			"body": "@mv00_: The log looks normal. You had higher peer number before the fix, because the upnp bug blocked the peer cleanup method.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1510585820",
+			"date_added": 1511486394
+		},
+		{
+			"comment_id": 16,
+			"body": "The mute based on auth_address,so the user name is irrelevant",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1511866397",
+			"date_added": 1511866475
+		},
+		{
+			"comment_id": 17,
+			"body": "Probably it's because the hub i using does not accepts 0ch id provider.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1511906689",
+			"date_added": 1511906920
+		},
+		{
+			"comment_id": 18,
+			"body": "@mv00_: I'm afraid your comment is not visible here. Try changing your identity to a zeroid one and comment again.",
+			"post_uri": "18Xyb7LUfWrNSGxCyHnaSQJUvCq7YYrZ8Y_1511906689",
+			"date_added": 1511944072
+		},
+		{
+			"comment_id": 19,
+			"body": "Not currently, you can edit data/mutes.json, but it requires to restart zeronet",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1512802800",
+			"date_added": 1512824374
+		},
+		{
+			"comment_id": 20,
+			"body": "@霸王寨第一光头: There is no built-in yet, but here is a proof of concept code to use websocket api from python: https://github.com/HelloZeroNet/ZeroNet/issues/1137#issuecomment-337019878",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1512802800",
+			"date_added": 1512868060
+		}
+	]
+}

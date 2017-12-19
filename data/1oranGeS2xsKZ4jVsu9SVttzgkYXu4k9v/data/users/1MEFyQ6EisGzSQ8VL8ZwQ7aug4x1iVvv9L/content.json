@@ -1,0 +1,24 @@
+{
+ "address": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+ "cert_auth_type": "web",
+ "cert_sign": "HCCWDzUlb212L+iLtgcEik20DCXpUtO09Dd6whzookW6jKb2dHvVB3cgHaKvb1tY9nYSgWAHf4jgBgSchZ6lCtY=",
+ "cert_user_id": "tonythefrench@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e1ae52d3cafaddff9dbf4447cd3435795f68bda5c12ba07e23ede01fa791ba91",
+   "size": 5799
+  }
+ },
+ "files_optional": {
+  "1498511789.jpg": {
+   "sha512": "b6973b7880aebd30d7c58df7fd4fb2b378a33e62645ffef5b08e2c5ac9ea0986",
+   "size": 81323
+  }
+ },
+ "inner_path": "data/users/1MEFyQ6EisGzSQ8VL8ZwQ7aug4x1iVvv9L/content.json",
+ "modified": 1511614406,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1MEFyQ6EisGzSQ8VL8ZwQ7aug4x1iVvv9L": "HDSeytnrDJvyuZUOBGGeH+6Qdu+JT5l8yDobJidCA6otHpyZ0551r4bJ6ocfAouwCwCYIIxbfr94K1D5BayYWQc="
+ }
+}

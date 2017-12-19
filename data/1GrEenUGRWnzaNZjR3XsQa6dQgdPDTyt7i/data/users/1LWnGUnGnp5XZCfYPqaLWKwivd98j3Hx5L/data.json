@@ -1,0 +1,142 @@
+{
+	"next_post_id": 11,
+	"next_comment_id": 6,
+	"next_follow_id": 7,
+	"avatar": "jpg",
+	"user_name": "Zerofish",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1506479497,
+			"body": "你好 ZeroMe!"
+		},
+		{
+			"post_id": 1506482163,
+			"body": "推荐大家一个chrome插件，word replacer II，可以替换网页上面你不想看到的词，比如把近平换成包子，战狼换成斗狗，上网从此神清气爽： D",
+			"date_added": 1506482161
+		},
+		{
+			"post_id": 1506737330,
+			"body": "昨晚联通的网络出口故障，日本美国的vps全都无法正常连接，丢包率95%以上，吓的我以为大中华局域网就要建成了。",
+			"date_added": 1506737327
+		},
+		{
+			"post_id": 1506737866,
+			"body": "真是搞不懂中共处理官员的那一套搞法，貌似先党内调查，然后检察院立案，最后法院审理、宣判？每一步都当个大新闻似的说几天，感觉像是抓了很多人，其实玩来玩去整的都是那几个。",
+			"date_added": 1506737862
+		},
+		{
+			"post_id": 1507602894,
+			"body": "本届大会很不一般啊，气氛非常不对。",
+			"date_added": 1507602889
+		},
+		{
+			"post_id": 1507611386,
+			"body": "这几天吹捧宣传某翻墙软件的也太多了吧，虽然我不懂什么技术，但以作为一个中国人几十年的经验，本能上觉得，有问题。",
+			"date_added": 1507611380
+		},
+		{
+			"post_id": 1508403171,
+			"body": "转个文章吧，作者Phantom Knight，原始链接https://plus.google.com/109790703964908675921/posts/eofnZxyQtVZ\n\n翻墙软件大杀器技术分析\n\n之前我提醒过大杀器可能存在的问题，现在我就进行一下技术分析。小白不用怕，我的技术分析只是简单分析，我个人也做不到卡巴斯基那种行为分析水平，同时我也不会叙述过多细节，请耐心点。\n\n大部分翻墙软件都是不需安装的绿色软件，例如自由门，无界，shadowsocks，ssr，赛风三，goagent及其衍生软件，萤火虫代理。但所有的VPN，lantern，和tor browser是例外的，还有就是这个大杀器了。\n\n从安全性来看，绿色软件做小动作的可能性比安装版软件要小很多，但也不是所有软件都能做绿色版：例如VPN，其原理为在操作系统中安装虚拟网卡，所以必须在管理员权限下安装才能正常工作；如果想要自动生成快捷方式，那么这也是一个安装的理由。\n\n但是，评估翻墙软件的安全性，关键在于服务器端，所以诸位没必要过于看重客户端，因为服务器提供者才是真正掌握你所有上网信息的人，他根本就没必要在客户端设置后门。不过，接下来我还是先从客户端分析起，毕竟这也是很多大杀器粉丝最强调的东西，呵呵。\n\n我监控了大杀器的安装过程，监控环境：vmware虚拟机内，纯净XP系统，监控软件为PChunter，监控内容为进程建立状况，进程联网状况（这点很关键），进程是否向驱动或内核写入文件，进程在注册表中干了什么。\n\n结果如下：大杀器安装文件只建立了一个安装进程，并且未发现隐藏进程；在安装过程中，安装程序未发起任何联网请求；也未发现向驱动或内核内写入文件；向注册表中写入了信息，但只是正常的安装信息。看起来，安装过程还是比较规矩的。安装完成后，桌面上会自动生成指向大杀器运行程序的快捷方式。\n\n但是，你如何确定安装包没问题？开源？那没用，因为安装包本身很有可能被篡改，特别是通过第三方渠道分享的安装包。对此有两个方案：1，申请数字证书，例如自由门和无界，但大杀器并没有数字证书；2，官网给出hash值，用户下载后自行计算比对。但是，大杀器用的MD5算法几年前就被宣布不安全了，呵呵。\n\n安装好之后，再来看看大杀器到底是个什么东西。对java有点了解的人都能看出来，大杀器很明显是由java编写的程序，而其github上的开源代码也的确是java代码。不过，大爷看来是对程序进行了打包处理，所以不需要用户单独安装java环境，这倒是方便。\n\n大杀器的运行程序是一个bat，内容是运行java包主程序以及日志程序，而日志记录在安装目录下；运行之后，会弹出java标准UI界面（对，默认的UI界面，基本上是初学者拿来练手的，哈哈），界面中需要填写服务器信息，而相关信息需要先去大杀器的网站注册，注册需要邮箱，我是随便google找了个免费匿名邮箱然后完成注册的，注意有些邮箱可能无法收到邮件。填写完毕后点击确定，大杀器就开始运行了。\n\n大爷和他的粉丝都拒绝说明大杀器的工作原理，不过我倒是可以说说：根据官网上的浏览器设置，设置的是HTTP代理，所以很明显大杀器就是个HTTP代理程序；此外还有个证据，大爷提供了服务器端程序给自建服务器的人使用，而程序内文件显示这是个squid proxy，而squid proxy的介绍是：Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. 意思是，squid是个为web服务准备的缓存代理，支持http，https和ftp等应用层协议，当然也可以拿来翻墙。但是单纯的HTTP代理是没有加密的，这必然无法对抗GFW，于是大爷就自行加入了AES加密，也就是官网上所谓的军工级别加密。说实在，曾经AES加密的确被当成军火，但如今AES加密早就普及到是个号称注重安全的程序都会去使用的程度，吹这个，呵呵。\n\n总结一下，大杀器的实质就是个自行使用AES加密的HTTP代理，而HTTP作为应用层协议的应用范围非常狭窄，除浏览器之外的程序极少支持，所以基本上大杀器也就能拿来看看网页（而使用socks5协议的ss就能支持多得多的软件翻墙）；而在越来越多的软件加入支持局域网代理的功能的背景下，大杀器迄今不支持局域网代理，实属落后。而从抗封锁能力来看，作为单纯的HTTP代理，在无流量混淆的情况下唯一可行的反封锁措施就是经常更换IP，而从推上观察到的事实也的确如此，大杀器经常更换节点，但有时还是会被完全封锁，很显然脑残粉所宣传的长期稳定不符合事实！\n\n最后，我要说最关键的问题了：我前面已经说了，评估翻墙软件的安全，服务器端才是关键。从单纯的安全角度说，squid proxy本身作为单纯的缓存代理没有任何防御攻击的能力，所以即使对于极少数选择自搭服务器的人，他们的服务器安全也只能依赖于第三方软件和服务提供商；而绝大部分人使用的是大爷提供的代理，那请问这位大爷，你能出来说一下服务器的配置情况吗？哈，我可不是要服务器IP，说一下服务器配置情况，安全措施如何？最关键的是，你搭建的服务器上，有没有对那些脑残粉的上网内容进行记录呢？",
+			"date_added": 1508403164
+		},
+		{
+			"post_id": 1509093906,
+			"body": "vultr的vps，今天开到第9个，才装上SS，不是IP被墙，就是22端口被墙。",
+			"date_added": 1509093898
+		},
+		{
+			"post_id": 1509435958,
+			"body": "zerome几个小时没有新的发布，同步故障了？",
+			"date_added": 1509435949
+		},
+		{
+			"post_id": 1509436024,
+			"body": "test",
+			"date_added": 1509436014,
+			"meta": "{\"img\":\"467,700,b71d83ea4b50d60fe8fd6ffcfecba9620940310d50830c40,01213400156114127522116656611766144189A4B31AC3DEBCCA4FCECC34FCECA3442B\"}"
+		}
+	],
+	"post_like": {
+		"15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1508560015": 1508566119,
+		"1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1509374119": 1509409869
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@43110: 强迫症看到这些党宣的、病毒式流行的、无脑跟风的、等等等等的词汇很难受啊，这个插件至少解决了我个人很大的一个痛点。如果你的意思是我就算替换了也知道背后真正的那个词，其实大部分时候我都是用方框来替换的，这样就不会对上号了，眼不见为静。",
+			"post_uri": "1LWnGUnGnp5XZCfYPqaLWKwivd98j3Hx5L_1506482163",
+			"date_added": 1506563543
+		},
+		{
+			"comment_id": 2,
+			"body": "@CCP:这种情况持续了三五天，白天就恢复正常，本地电信一直还好，应该是联通自己网络的问题。不过最近网络管控升级了是可以肯定的。",
+			"post_uri": "1LWnGUnGnp5XZCfYPqaLWKwivd98j3Hx5L_1506737330",
+			"date_added": 1507515264
+		},
+		{
+			"comment_id": 3,
+			"body": "@РоІаr: 吊诡之处就在于，各种商业的vpn、SS都收拾了，这个个人开发搭建服务器提供免费翻墙的，反而坚挺的很。",
+			"post_uri": "1LWnGUnGnp5XZCfYPqaLWKwivd98j3Hx5L_1507611386",
+			"date_added": 1507688981
+		},
+		{
+			"comment_id": 4,
+			"body": "@Comeon: 如果要翻的话，目前来看，自建SS还是比较安全，被封的都是共用IP或者流量巨大。",
+			"post_uri": "1LWnGUnGnp5XZCfYPqaLWKwivd98j3Hx5L_1507611386",
+			"date_added": 1507696513
+		},
+		{
+			"comment_id": 5,
+			"body": "@Haineng: 白名单之后，可能真的就翻不出来了",
+			"post_uri": "1LWnGUnGnp5XZCfYPqaLWKwivd98j3Hx5L_1509093906",
+			"date_added": 1509195535
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1CdwZ24MZhBc2XNT2vAjk2MQjJuEnybP5W",
+			"user_name": "Joker1024",
+			"date_added": 1507187614
+		},
+		{
+			"follow_id": 2,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "155BwREYmnr9bpLJ8BTGB9SokxvyLuutcv",
+			"user_name": "Yuio",
+			"date_added": 1508227523
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1qgHg67eTc2yG39V9D6cLKGTYaH68ujU7",
+			"user_name": "Love is love",
+			"date_added": 1509116633
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1MkYpZ5sX32S3Py6ADV21UoswBF1nFEoZ1",
+			"user_name": "Zeyu",
+			"date_added": 1509244767
+		},
+		{
+			"follow_id": 5,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1HpB6tpXoVk2kCFpH9SozFZgyMVFouj6Yd",
+			"user_name": "永不消失的电波",
+			"date_added": 1509936399
+		},
+		{
+			"follow_id": 6,
+			"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+			"auth_address": "1PoMiXzz2wBjMofSFb7qMu97tR2sy4EvBV",
+			"user_name": "1PoMiXzz2wBjM",
+			"date_added": 1509938183
+		}
+	]
+}

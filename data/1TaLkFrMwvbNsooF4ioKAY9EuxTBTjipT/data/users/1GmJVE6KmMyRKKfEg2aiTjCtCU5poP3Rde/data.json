@@ -1,0 +1,64 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Greeting ZeroNet peers. ButterBall has arrived, and I will give you content.",
+			"body": "Hello anons. I'm a web developer/designer that is pumped about ZeroNet. I have a bucketlist of things I want to clone in ZeroNet in the coming years.\n\n1. Revive/redesign ZeroTube (the project died, and we need a beautiful YouTube alternative)\n2. ZeroReddit. (You know you want this, you damn software geeks.)\n3. ZeroTwitter. (For those with shorter attention spans)\n\nI wanted to be original and create something new, but then I realized that ZeroNet's power comes from replication. So why not just blatantly rip off existing services that have already captured our hearts in the clearnet? Besides, fuck CSS.\n\nZeroNets biggest limit is content and the fastest way to fix this is to drag these corporate bullshit services kicking and screaming into the P2P web. I am ButterBall, and I will give you content.\n\nxoxo",
+			"added": 1505182604
+		},
+		{
+			"topic_id": 2,
+			"title": "\"This hidden site has been seized\" on some zites",
+			"body": "How is this even possible? Did the feds get a hold of the private keys and do a ZeroNet update? If so, congrats to them for publishing to the P2P web :p\n\nSeriously though, should private keys be destroyed to prevent this from happening?",
+			"added": 1505192339
+		}
+	],
+	"topic_vote": {
+		"1_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": 1,
+		"2_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": 1,
+		"5_1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL": 1
+	},
+	"next_comment_id": 5,
+	"comment": {
+		"1_1ApJ2dibcJbE8cvEeo3Db75cwkRArD2XjA": [
+			{
+				"comment_id": 1,
+				"body": "Of course not. If they have any internet access at all, there's no way they can access arbitrary IPs on the greater internet. Everything would be a whitelist at the ISP level.",
+				"added": 1505182155
+			}
+		],
+		"1_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": [
+			{
+				"comment_id": 2,
+				"body": "> [redfish](#comment_12_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f): Please give us an issue tracker to host code, issues, and the associated community.\n\nAny particular style you would like? Github issues? Gitlab?",
+				"added": 1505184213
+			}
+		],
+		"2_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": [
+			{
+				"comment_id": 3,
+				"body": "> [cretingame](#comment_1_1LysQJ8ZQxsRHBsPg3rSXayQ1KifxnAqKL): Can you give us an example ?\n\nThis used to be a \"anyone-can-edit\" site. Apparently it crossed a line. http://127.0.0.1:43110/1FqhRosMouo37Z8iDpLTEPvfznBq1b4N4w",
+				"added": 1505193570
+			},
+			{
+				"comment_id": 4,
+				"body": "> [m00plicate](#comment_6_12pqz164272L8bYB9UA2enxr92boTWBpfd): Looks like someone is enforcing their own laws on ZeroNet.\n\nYeah, I looked at the source of that example. It must be a running joke, since I've seen it a few times.",
+				"added": 1505193749
+			}
+		]
+	},
+	"comment_vote": {
+		"12_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"1_1J26AUH6hffJXtGKzjX6vPGsN7zub6bxvL": 1,
+		"84_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR": 1,
+		"6_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"1_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": 1,
+		"8_1EijxsAumeeuw6ojPjHc9KKwUfH6ryhbJc": 1,
+		"499_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"8_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"79_1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": 1,
+		"2_1EXV2zH5U6GkSuh3vouRWUNsmsUND6JT4i": 1,
+		"35_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1
+	}
+}

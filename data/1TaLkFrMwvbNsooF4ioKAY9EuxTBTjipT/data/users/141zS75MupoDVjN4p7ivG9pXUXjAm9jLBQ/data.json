@@ -1,0 +1,236 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "WebAssembly on ZeroNet",
+			"body": "http://webassembly.org/\nWould it be possible to create a WebAssembly API for ZeroNet as an alternative to JavaScript? There is just way too many flaws in JavaScript and I think having JavaScript as the only way to create dynamic sites limits developers.",
+			"added": 1506891097
+		}
+	],
+	"topic_vote": {
+		"1_18C45ndJpnDbtgU7QdFxbfcENxBsPPEUtG": 1,
+		"1_14aBVs7naxTC3Vs9N2yoYod6iwoRP6xfV2": 1,
+		"4_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"1_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn": 1,
+		"6_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"3_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": 1,
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"4_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"1_18D4VdqDgiiykHZFvSRT1EtZ18pbHeYfMx": 1,
+		"24_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": 1,
+		"1_1M1msf96AhLpJDJimVK7mXXCoaAGxfzxh9": 1,
+		"8_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"4_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"2_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"4_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"5_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": 1,
+		"13_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": 1,
+		"1510856783_17ychMBS8Vq1mXtRgteUBcLSTuVGzcBLQQ": 1,
+		"1511360238_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512670011_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": 1
+	},
+	"next_comment_id": 18,
+	"comment": {
+		"1_1ApJ2dibcJbE8cvEeo3Db75cwkRArD2XjA": [
+			{
+				"comment_id": 1,
+				"body": "> [butterball](#comment_1_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde): Of course not. If they have any internet access at all, there's no way they can access arbitrary IPs on the greater internet. Everything would be a whitelist at the ISP level.\n\nThey don't have access to the internet, but there is an intranet that North Korean civilians use.",
+				"added": 1505225576
+			}
+		],
+		"4_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 2,
+				"body": "How about we get a major browser to have ZeroNet built-in. Just like how many browsers use to have built-in gopher clients.",
+				"added": 1505227734
+			},
+			{
+				"comment_id": 3,
+				"body": "> [james007](#comment_19_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Right, until FireFox killed Gopher. [...]\n\nYou know, if we were to get a major browser to natively support ZeroNet it would be FireFox given how they supported Gopher for the longest time.",
+				"added": 1505569711
+			}
+		],
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 4,
+				"body": "I think it's a good idea not just for ZeroNet but for clearnet sites as well since AdBlockers are becoming more of a problem.",
+				"added": 1505663474
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 5,
+				"body": "> [akito](#comment_207_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Why do so many people love Reddit... Its interface is ugly AF and most reddit sites are from retards, for retards. There are plenty of better platforms for the same needs.\n\nReddit only got popular because Digg made a retarded redesign back in 2011.\n\n> [kaffie](#comment_505_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): There's already a Reddit/Voat clone here.\n\nWhy do they call it ZeroVoat? Can't they use a more original name instead of using a name from a clearnet service?",
+				"added": 1506092103
+			},
+			{
+				"comment_id": 8,
+				"body": "> [styromaniac](#comment_112_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): https://steemit.com/steemit/@steemitblog/steemit-com-is-now-open-source\n\nsteemit requires you to give your phone number and also sells your data.",
+				"added": 1506291883
+			}
+		],
+		"6_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 6,
+				"body": "They only problem is that they need to rewrite their code from scratch. Since Gab.ai is written in PHP and ZeroNet uses a JavaScript API.",
+				"added": 1506269253
+			}
+		],
+		"3_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 7,
+				"body": "> [scrubthesecond](#comment_71_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe): \n\n\nAlso people can obfuscate their JavaScript code so nobody can see it.",
+				"added": 1506269590
+			},
+			{
+				"comment_id": 9,
+				"body": "> [ivanq](#comment_39_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er): Well, you cannot decode this code, but you can see it!\n\nMany people including the Free Software Foundation don't consider obfuscated source code as real source code since it's not readable.",
+				"added": 1506343856
+			}
+		],
+		"11_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 10,
+				"body": "> [planespherev3](#comment_270_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Yeah well. Internet exists since 1994. The masses only adopted it in the mid 2000. [...]\n\nThe Internet existed long before 1994. You might be talking about the World Wide Web which started in 1990.",
+				"added": 1506737509
+			}
+		],
+		"1_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": [
+			{
+				"comment_id": 11,
+				"body": "> [krixano](#comment_26_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): There are languages that compile to JavaScript (e.g. Typescript), but I agree that I don't really like javascript all that much.\n\nIt's not just programming JavaScript; it is also your computer running JavaScript. It's slow and bloated. Using a transcompile language like TypeScript or CoffeeScript will not improve this.",
+				"added": 1506891919
+			}
+		],
+		"1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": [
+			{
+				"comment_id": 12,
+				"body": "You should take a look here for a detailed look at ZeroNet's protocol https://zeronet.readthedocs.io/en/latest/help_zeronet/network_protocol/\n\nAlso, keep in mind that ZeroNet is suppose to be a P2P replacement for the web, not the Internet as a whole. So, while you could say make a game that posts your high score to a zite, a real-time online game using ZeroNet's protocol wouldn't be efficient. If, you plan to make P2P online game you should learn P2P networking and make your own protocol.",
+				"added": 1507478184
+			}
+		],
+		"4_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs": [
+			{
+				"comment_id": 13,
+				"body": "What's it about?",
+				"added": 1507759277
+			}
+		],
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 14,
+				"body": "ZeroNet URL shortener? Why didn't I think of that? Too bad I can't find any peers right now.",
+				"added": 1507843801
+			}
+		],
+		"1510856783_17ychMBS8Vq1mXtRgteUBcLSTuVGzcBLQQ": [
+			{
+				"comment_id": 15,
+				"body": "> [akito](#comment_374_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Who needs those skrubs over here... I wouldn't post it on forums like that. And in regards to the previous comment: I seriously don't want any of the retards here that still after all what we know about social media use Twitter or even Facebook. Those people obviously don't care about freedom, at all, else they would've already left. I think that spreading Zeronet on these pages would draw more criminals and malicious hackers here, than actual users wanting freedom. Remember, every zite you visit is code you download on your computer, that could run.\n\nMost imageboard users like the ones on 4chan and 8chan are for free speech so I don't think that this is a problem.",
+				"added": 1510869864
+			},
+			{
+				"comment_id": 16,
+				"body": "> [ekaterina](#comment_3_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD): Didn't the exodus from 4chan to 8chan happen because 4chan was against free speech and started to censor a bunch of topics, so people moved to 8chan to speek freely there instead?\n\nIt was mostly due to them banning GamerGate and SJW discussions. However, it appears that the 4chan administration started fixing itself after moot left.\n\n> [vizy93](#comment_3_1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o): We ought to try to spread the word on reddit. 4chan bans Tor exit nodes so a lot of the people here can't even participate there\n\nI honestly believe the best places to spread the word are sites that may get shutdown by infrastructure companies. I'm talking sites like 8chan, Voat, and gab.ai.",
+				"added": 1510959979
+			}
+		],
+		"1512670011_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": [
+			{
+				"comment_id": 17,
+				"body": "Hitler would've been a hero if he killed Muslims instead of jews.",
+				"added": 1513212106
+			}
+		]
+	},
+	"comment_vote": {
+		"476_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"14_1BQaDuyXqze4tNXucqvbz3yUVkysxCoeni": 1,
+		"22_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"11_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"79_1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": 1,
+		"11_1EijxsAumeeuw6ojPjHc9KKwUfH6ryhbJc": 1,
+		"19_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"489_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"108_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"2_1LGsz63L1WkwPHtPyU6bUZnpW2yKw5bA3u": 1,
+		"26_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"207_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"2_1P1baCe1LLjror4CZjChWFy7D7cVWyPL83": 1,
+		"33_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"21_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"13_16nArdxrSaNThNp83kL8E6NLL9WD98iUne": 1,
+		"7_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"1_17ahaGK6Y1Y9WxbGQutqB95EaeXQN1GpWE": 1,
+		"1_184LKnpse8Uq7KQcCF6BUtMrN6M59mWuK6": 1,
+		"38_1CvyxRucf7BbDvGtFe5LayTS2qX88VN7Er": 1,
+		"4_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"71_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"13_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"4_18sV4LF2Q372BLkTJN5Z24HeRexQQscx1E": 1,
+		"487_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_17Zks611RR4oN8USC3RxJzaw94GyPufioG": 1,
+		"22_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"7_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"24_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"39_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"59_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"27_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"15_16nArdxrSaNThNp83kL8E6NLL9WD98iUne": 1,
+		"7_16tWPYFLbad3R8iGcMuetyiwC2q5qXp45T": 1,
+		"17_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"31_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"271_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1,
+		"4_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"75_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"33_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"44_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"7_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"28_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1017_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"19_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"9_1Pwcc1Fk7bKMA1uayUTvZaUuaGBpvGMTRg": 1,
+		"3_183gMpouB3uc5hjf6cuCc1oLz2neo8cCNs": 1,
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"3_1GpmErjpZ5pWPRVEhnTeDK6PoFKzQNDSV3": 1,
+		"62_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"91_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"1023_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"42_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"59_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"244_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"99_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"289_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1042_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"62_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"6_1vjjRJpiNosn98M8cc1R6FnhgwY2bAekr": 1,
+		"1_1LPXmGBFprHaLUzZNUf19fj28Dc7grXHQP": 1,
+		"182_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"370_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"7_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": 1,
+		"21_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"1_1BHoa1dzzSKm8Sav1s5KzDGxwz68d72sJU": 1,
+		"3_1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD": 1,
+		"1_12QBNnnWMchCNsy1TaARZanAkgKrZLtXLt": 1,
+		"4_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq": 1,
+		"378_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"227_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"3_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": 1,
+		"13_1P1baCe1LLjror4CZjChWFy7D7cVWyPL83": 1,
+		"102_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"17_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1
+	}
+}

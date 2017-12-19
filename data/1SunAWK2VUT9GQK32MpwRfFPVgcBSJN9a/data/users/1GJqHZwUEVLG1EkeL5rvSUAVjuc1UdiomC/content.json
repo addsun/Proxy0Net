@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIGKLMxHbDU67wndcTnQBp73N0vqh8CDkiIklbcQeF/7WxK3HfGv9ic6Ma5mma628T4GnUI7uZWcX/AsFaVN0qo=",
+ "cert_user_id": "wombosvideo@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "c057dc2d0970e771eedd781a7f964a5456dac30c150465dceeb91d24ac26d426",
+   "size": 1166
+  },
+  "data.json": {
+   "sha512": "d92b07a4f57cc6a9f7e7f7aeca0a9093d5a73530bb9eea4482bd98b74c5cfc1c",
+   "size": 337
+  }
+ },
+ "inner_path": "data/users/1GJqHZwUEVLG1EkeL5rvSUAVjuc1UdiomC/content.json",
+ "modified": 1503154759,
+ "signs": {
+  "1GJqHZwUEVLG1EkeL5rvSUAVjuc1UdiomC": "HOeKPM7DaZ2ua5vcdMCm8biD/mGrDikHeJcsYBrSCGtwJXj2ToZGwCeJYFvB6DJFS9684OWahMO2jIxUeXkBNaI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HA3KyeQtit1svwuAFp4vWefJrNVlEKXK4+PrRbl5DxKdRgYnOLTe1nOHZ+Pgns4Ur2GMaesUGEG8l6OoOENWi/0=",
+ "cert_user_id": "almagest@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "30a64f6b9dead1936968d6e8f17ee541e4660b1a6d0b0f69e48b0b704877193d",
+   "size": 425
+  }
+ },
+ "inner_path": "data/users/1P4cK49LmkYWQWDTpcQkTXnirz1LRd1586/content.json",
+ "modified": 1503956972,
+ "signs": {
+  "1P4cK49LmkYWQWDTpcQkTXnirz1LRd1586": "HAYCBbSkhBp1l/BFh+aEYKhTXOatthJZDwA7LxHbj9YISzjVeUEcfJbGwl9ZhT3NPHxsBu496LjThN8T5MNcVtw="
+ }
+}

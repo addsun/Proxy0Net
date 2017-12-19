@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCO4M7PV//3dANT01AzpI0YJziT7+jUjoplUfVzsGzALQ6LtJLKeBkzd0aNiK4qJl+AaeQMwaokOocMzIw44mzE=",
+ "cert_user_id": "qistchan@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "b2fe0cbcd359c14717e14c3e54d82d274bbd58a55bf11b2b1b66de8911ff3eeb",
+   "size": 1055
+  },
+  "data.json": {
+   "sha512": "3443b62d93eaddd40097e263d60b45f087c41a629f704df9d77a82f57516f055",
+   "size": 352
+  }
+ },
+ "inner_path": "data/users/14XaLVtxLnphpZZURinozWwEUGZbhm4JbD/content.json",
+ "modified": 1508087300,
+ "signs": {
+  "14XaLVtxLnphpZZURinozWwEUGZbhm4JbD": "G88VinKc6M16dNQm55K63JnD+E/yPfxKnWvX9DWSjZyfXmnI3f+1HkPR9Hwoge6tMaWsW176AanZJb4BRfWHYcM="
+ }
+}

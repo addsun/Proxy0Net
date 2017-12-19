@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HForJJ2MDmpiv79dheCuBG13q42qReFFAE7pQEkz/OFqTJnE1Fh+gAoxNUhv5cGTX2X6+ZTesLxanxqighIqbWk=",
+ "cert_user_id": "flucht@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b1f09a6a2ead8a28d21cf04007ec2d216cbbc5c37a616d3bac9e90a90aadf3d8",
+   "size": 1265
+  },
+  "data.json": {
+   "sha512": "bca8f3f60163188f1d513c3e5cd06b8dbdace725511980a15d6e8a0f68e6454b",
+   "size": 249
+  }
+ },
+ "inner_path": "data/users/1Bh647dn9yvo1p3TtBFXnaFJ3cgKQNUh26/content.json",
+ "modified": 1507609518,
+ "signs": {
+  "1Bh647dn9yvo1p3TtBFXnaFJ3cgKQNUh26": "G4J6p8XhXNZoJbh7Bl1shCsgx4GRR1NJrSs+CwFhKX7BfQ8UgcKNAfCwg26AVfJljMX6KFQblbJbxLXRSybfwUc="
+ }
+}

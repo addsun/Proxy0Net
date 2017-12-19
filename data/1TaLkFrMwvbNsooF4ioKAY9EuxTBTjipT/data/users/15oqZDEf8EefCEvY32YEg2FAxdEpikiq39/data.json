@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"3_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 1,
+				"body": "The concept is fundamentally flawed. A specialized browser with a restricted subset of Javascript that is thoroughly security audited might make this work but as it stands now its a security nightmare just waiting to be blown wide open as soon as some three-letter agency decides to setup its own site running malicious IP address discovery code to lure and entrap hordes of ZeroNet users who operate under the illusion of anonymity once Tor gets involved. Which is why Tor browser disables JavaScript after having learned this lesson the hard way. Repeatedly. \n\nNaturally lack of anonymity defeats the other purported mission of ZeroNet, its vaunted resilience (cant be resilient if all your nodes are terrorized into being taken down for fear of SWAT teams busting in with copyright violation warrants and what not).\n\nBut I guess \"New! Shiny! Interactive!\" will always be the endless lure for the not-so-bright. \n\n(BTW Since I run sans Javascript almost exclusively, ZeroNet malfunctioned grandly, reusing to create a site specific ID for ZeroTalk, screwing up ZeroID etc .... )",
+				"added": 1503433253
+			}
+		]
+	},
+	"comment_vote": {}
+}

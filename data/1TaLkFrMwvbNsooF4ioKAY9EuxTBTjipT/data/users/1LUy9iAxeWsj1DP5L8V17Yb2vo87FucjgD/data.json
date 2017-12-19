@@ -1,0 +1,498 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "stupid question",
+			"body": "so I saw that zeronet uses blockchains, like bitcoin.  does that mean i can make money using zeronet?",
+			"added": 1503357006
+		},
+		{
+			"topic_id": 2,
+			"title": "zeronet is a good start",
+			"body": "but it's only the first step to a decentralized internet.\n\ni refer you to https://en.wikipedia.org/wiki/OSI_model#Description_of_OSI_layers\n\nzeronet does an excellent job of decentralizing layers 5-7, but the isps still control layers 4 and below.  And that presents a problem, in that while anyone can host a site, anyone trying to download it has to go through the centralized isps at some point.  and that means that an isp can block any data relating to a zeronet site, or worst case, zeronet as a whole.\n\nwhat we need to do is completely reinvent networking.  everyone needs to be their own isp.  i am aware that there are obstacles, and i'm still trying to figure this all out myself.\n\nit'd be a great topic for zerocon, but i can't afford to travel to europe atm.  i will update when i have more.",
+			"added": 1504629551
+		},
+		{
+			"topic_id": 1513201657,
+			"title": "quick question",
+			"body": "my brother made me a zeronet mug for the holidays, where do I send the royalty cheque?",
+			"added": 1513201654
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 75,
+	"comment": {
+		"1_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 1,
+				"body": "cool.",
+				"added": 1503357207
+			},
+			{
+				"comment_id": 2,
+				"body": "but i actually meant mining [zerocoins?]?",
+				"added": 1503357250
+			},
+			{
+				"comment_id": 8,
+				"body": "> [kaffie](#comment_448_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): It does not. ZeroNet does not use blockchains whatsoever. [...]\n\nfrom zeronet docs faq:\n\nNamecoin's blockchain is being used for domain registrations.",
+				"added": 1503403630
+			},
+			{
+				"comment_id": 11,
+				"body": "> [akito](#comment_186_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Click the 0 in the top right corner, slide it to the left and then look for the \"donate\" button.\n\njust looked a little more at that menu.  what does the \"this is my site\" switch mean? can i turn it on for other users' sites? can i turn it off on my own?",
+				"added": 1503451265
+			}
+		],
+		"1_1KdkBrXtpurndbDk8f42PuC21nfAs2TUe9": [
+			{
+				"comment_id": 3,
+				"body": "looks like it works",
+				"added": 1503357462
+			}
+		],
+		"3_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": [
+			{
+				"comment_id": 4,
+				"body": "two words: noscript addon",
+				"added": 1503357617
+			}
+		],
+		"2_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 5,
+				"body": "the words \"safe\" and \"microsoft\" dont really belong in the same sentence.",
+				"added": 1503357773
+			},
+			{
+				"comment_id": 16,
+				"body": "> [akito](#comment_196_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): That's why meta-searching is important..\n\ntorrentz2.eu is a great metasearch site for torrent links.  Too bad it's on the clearnet.",
+				"added": 1503673621
+			},
+			{
+				"comment_id": 17,
+				"body": "you could always try libreoffice",
+				"added": 1503922439
+			}
+		],
+		"3_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 6,
+				"body": "thanks for this",
+				"added": 1503357912
+			},
+			{
+				"comment_id": 7,
+				"body": "this should be stickied",
+				"added": 1503357932
+			}
+		],
+		"3_1A2pTbDfU7P1JLSw3SZTiA1Lf7SRSu4Nn9": [
+			{
+				"comment_id": 9,
+				"body": "care to elaborate?",
+				"added": 1503411368
+			}
+		],
+		"14214_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 10,
+				"body": "#itsatrap",
+				"added": 1503425563
+			}
+		],
+		"14257_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 12,
+				"body": "this is why zeronet is more important than ever.  tor is good, but it's not enough.  zeronet is easier to use, and harder to take down, even if you can pinpoint the source [i said harder, not impossible.]",
+				"added": 1503589436
+			}
+		],
+		"4_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 13,
+				"body": "there is no season 7 yet",
+				"added": 1503597566
+			}
+		],
+		"14259_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 14,
+				"body": "oh **** that's clever\n\nprofiting from the sale of the device, then continuous profit as long as the device remains online",
+				"added": 1503605248
+			},
+			{
+				"comment_id": 15,
+				"body": "",
+				"added": 1503605282
+			}
+		],
+		"3_1AWSA7oG2qrhWYgeSiJtDHCwc2KvyR7ijs": [
+			{
+				"comment_id": 18,
+				"body": "torrentz2.eu",
+				"added": 1503944461
+			}
+		],
+		"1_1GULVFr1wAb81kxCo5apJJJjqdTY8QgjtH": [
+			{
+				"comment_id": 19,
+				"body": "in canada we had something called the rhinocerus party, whose platform included:\n\nrepealing the laws of physics\ncounting the thousand islands to make sure none are missing, and\nintroducing british style driving in phases, first large trucks and buses, then medium size cars, smaller cars, and then bicycles.",
+				"added": 1504269223
+			}
+		],
+		"2_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 20,
+				"body": "> [randomchicken](#comment_5_15CQCvw6XmDvaCH8QEjYdVa2FRW9VJMDuq): You may be interested in mesh networking, then.Wikipedia articleReddit /r/meshnet\n\nthank you for this.",
+				"added": 1504631054
+			}
+		],
+		"1_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": [
+			{
+				"comment_id": 21,
+				"body": "> [cosmologica](#comment_16_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): The hooktube for the youtube: https://hooktube.com/watch?v=UUAylWYqzac\n\nHooktube is great!!! any other sites I should know about?",
+				"added": 1504704657
+			},
+			{
+				"comment_id": 22,
+				"body": "> [conobs](#comment_1_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner): Diaspora (decentralized social network)https://diasporafoundation.org/\n\nthe problem with sites like diaspora or minds.com is that they're not really decentralized.  What they do is say \"okay, you can use our social media platform on its popular centralized server and pray that we don't censor you, or you can take our code and use it elsewhere and hope that other people will join you.  This is why I chose Zeronet, because it is the only way to truly decentralize.  Yes, sites like ZeroTalk and ZeroSites can be censored by nofish, but you have the resources to make your own site/blog/whatever without fear of it being taken down (even if links to it are.)",
+				"added": 1504706297
+			},
+			{
+				"comment_id": 23,
+				"body": "> [james007](#comment_3_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Pretty sure you mean Amazon. They're quickly growing to be much more powerful than Google. [...]\n\nnot if we have anything to say about it.\n\nWe know that somehow, the key ingredients of the clearnet have been colluding to gather mass intelligence and censor content at will.  That means the future for the internet, the only future with any hope of freedom, is decentralization.  Fortunately, the key ingredients already exist.  However, the task now is to get them to work together.\nWe all have the same vision: an Internet that CANNOT be censored, lest future generations repeat Google and Facebook's mistakes.  Now we need to work together to make it happen, and we need to do it NOW, before it goes too far.  Otherwise, our children and their children will not know the freedoms we had.",
+				"added": 1504719709
+			},
+			{
+				"comment_id": 24,
+				"body": "> [cosmologica](#comment_19_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): An internet that cannot be censored. Would that mean the end of government itself??? An entity where there is no government or government control? Interesting thought. The end of government.\n\nno, governments will still exist.  There were governments before the internet, certainly even the governments of today predate the internet by decades, if not centuries.  What it would end is government censorship, which was never the intent of america's founding fathers.",
+				"added": 1504721792
+			},
+			{
+				"comment_id": 25,
+				"body": "> [cosmologica](#comment_20_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): Just dreaming [obiwanzanobi] :-)\n\n\"without government, man would eat his fellow alive\"\n\n-unknown",
+				"added": 1504723128
+			},
+			{
+				"comment_id": 33,
+				"body": "noice.  Any steam alternatives?",
+				"added": 1504897957
+			}
+		],
+		"1_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": [
+			{
+				"comment_id": 26,
+				"body": "I would like to know about this as well.  I think if you uninstall and reinstall zeronet you might be able to, but I'm not sure.",
+				"added": 1504785962
+			}
+		],
+		"6_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": [
+			{
+				"comment_id": 27,
+				"body": "you can clone zerotalk and create your own.",
+				"added": 1504793593
+			}
+		],
+		"14525_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 28,
+				"body": "cool.  and bad.",
+				"added": 1504873276
+			}
+		],
+		"2_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 29,
+				"body": "if the link doesn't start with localhost (127.0.0.1) and doesn't have what looks like string soup at the end, it's probably external.  Good idea though.",
+				"added": 1504874744
+			}
+		],
+		"1_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": [
+			{
+				"comment_id": 30,
+				"body": "I would imagine very difficult, since once you have a zite you host it, and if you simply ddos the original owner, anyone can still download the zite from everyone else that is online and has it.  I don't know if it can be updated though.",
+				"added": 1504874907
+			}
+		],
+		"3_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": [
+			{
+				"comment_id": 31,
+				"body": "13. automatic site change log (a la wikipedia)\n14. integrated search engine that auto logs sites and can't be messed with (unlike a certain search engine that starts with a g, ends with an e, has an o and an l in the middle, and censors results like north korea censors journalists\n15. run over mesh network (in the near future)\n16. supports larger zites and media (think LBRY)\n17. easier to make/clone zites and/or zite templates",
+				"added": 1504875430
+			},
+			{
+				"comment_id": 32,
+				"body": "My friend says that we could, in theory, create this kind of thing using open web technologies. It seems like electron + react could work for the UI, and we may be able to leverage the version of the EVM written in JavaScript as well.",
+				"added": 1504895811
+			}
+		],
+		"14577_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 34,
+				"body": "it would have been interesting to actually read it.",
+				"added": 1505134892
+			}
+		],
+		"2_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": [
+			{
+				"comment_id": 35,
+				"body": "tried to connect, got no peers found.  Another exmple plz.",
+				"added": 1505203009
+			},
+			{
+				"comment_id": 36,
+				"body": "tried to connect, got no peers found.  Another exmple plz.",
+				"added": 1505203059
+			},
+			{
+				"comment_id": 37,
+				"body": "> [kaffie](#comment_498_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): It's just a joke. [...]\n\nhow can you be sure?",
+				"added": 1505204459
+			},
+			{
+				"comment_id": 38,
+				"body": "what does it mean \"content.json does not exist\"?",
+				"added": 1505231197
+			},
+			{
+				"comment_id": 39,
+				"body": "> [kaffie](#comment_500_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Because it's impossible to seize a zeronet site in the manner that was shown. AFAIK the image was from the original silkroad takedown, and the gov's new takedown messages have changed. That particular image has circulated as a joke. It's almost impossible, and is impossible, to find who originally uploaded a site; let alone manage to get their private key and remove the content. Zites that contained the image were originally uploaded well before ZeroNet had any popularity, and well before any illegal activity had taken place. Even now, the gov/feds are likely not here.\n\nthen explain to me why the example link below gives me the Site:1FqhRo..4N4w Content.json not exist: data/1FqhRosMouo37Z8iDpLTEPvfznBq1b4N4w/content.json\nerror?",
+				"added": 1505341682
+			},
+			{
+				"comment_id": 41,
+				"body": "> [3827645867239487](#comment_1_1JvBwh4W4ctJRwJL9XD9Aw45M3LTLwh3vh): Sites hosting images should be avoided for now.\n\nyou mean like gif time?",
+				"added": 1505428748
+			}
+		],
+		"1_1MTNhSVgCJpW8uBjFhnyA5NsgyKbKnvrLG": [
+			{
+				"comment_id": 40,
+				"body": "this won't be true of the clearnet much longer.",
+				"added": 1505398705
+			}
+		],
+		"1_14qkCANgpwdN9rLmjeEWyyxEzAjmwFVkom": [
+			{
+				"comment_id": 42,
+				"body": "there is one problem.\n\ncode made by a government was made with public money, but only from its citizens.  Citizens of other countries shouldn't necessarily have access.",
+				"added": 1505607587
+			}
+		],
+		"1_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": [
+			{
+				"comment_id": 43,
+				"body": "what time would it be at?",
+				"added": 1505626978
+			},
+			{
+				"comment_id": 46,
+				"body": "> [nofish](#comment_1012_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Is anyone is already here is Budapest and up for a pre-event meetup tomorrow afternoon? [...]\n\nare multiple people allowed on the same telegram?",
+				"added": 1506543839
+			},
+			{
+				"comment_id": 47,
+				"body": "https://www.reddit.com/r/privacytoolsIO/comments/6r655i/telegram_isnt_safe/\n\nhttps://security.stackexchange.com/questions/49782/is-telegram-secure/49802#49802",
+				"added": 1506544370
+			},
+			{
+				"comment_id": 49,
+				"body": "will there be live video?",
+				"added": 1506697155
+			},
+			{
+				"comment_id": 50,
+				"body": "apparently not.  When does the video of the conference go up?",
+				"added": 1506711862
+			}
+		],
+		"5_1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": [
+			{
+				"comment_id": 44,
+				"body": "good catch",
+				"added": 1505852960
+			},
+			{
+				"comment_id": 45,
+				"body": "> [nofish](#comment_1006_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is a Zeroname-local plugin that uses the local Namecoin fullnode [...]\n\nif by that you meana built in plugin for each zeronet app, can you make it searchable?  That would solve the issue of a decentralized search engine I mentioned earlier in another topic.",
+				"added": 1505854458
+			}
+		],
+		"14887_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 48,
+				"body": "another dumb crook for the history books...or what's left of them anyway",
+				"added": 1506549830
+			}
+		],
+		"1_1DV1kbtG2Gqjp4WayjTjLmuf4gMF4zDvzc": [
+			{
+				"comment_id": 51,
+				"body": "random ports won't help much if they can identify zn traffic.  What we need is mesh networking.",
+				"added": 1506876125
+			}
+		],
+		"27_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 52,
+				"body": "I'm guessing ZeroHello, because that's the start page.",
+				"added": 1507131478
+			}
+		],
+		"1_1M1msf96AhLpJDJimVK7mXXCoaAGxfzxh9": [
+			{
+				"comment_id": 53,
+				"body": "that seems redundant (get it? redundant?)",
+				"added": 1507743893
+			}
+		],
+		"4_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": [
+			{
+				"comment_id": 54,
+				"body": "applause",
+				"added": 1508023299
+			}
+		],
+		"15_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 55,
+				"body": "sounds more like glorified bookmarks.",
+				"added": 1508111030
+			}
+		],
+		"1_1Gm5FtbBbUT16ri2AKwR6equ7pmrDAsX4b": [
+			{
+				"comment_id": 56,
+				"body": "i'm looking to stream (but not download) tv shows",
+				"added": 1508271304
+			},
+			{
+				"comment_id": 57,
+				"body": "> [james007](#comment_80_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Use Tribbler to stream torrents.[...]\n\nhttps://forum.tribler.org/t/help-on-live-streaming/4109",
+				"added": 1508275483
+			}
+		],
+		"15300_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 58,
+				"body": "even drug dealers gotta pay taxes.  I wonder if he has the jurisdiction to turn him in or just to collect his moola.",
+				"added": 1508278557
+			}
+		],
+		"2_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": [
+			{
+				"comment_id": 59,
+				"body": "Nofish checks this forum regularly, so he will notice this for sure",
+				"added": 1508364032
+			}
+		],
+		"1509163683_1AjaDfZzV84HSzPaTfR8dqUGF3XFRDLKqf": [
+			{
+				"comment_id": 60,
+				"body": "torrentz2.eu",
+				"added": 1509497502
+			}
+		],
+		"347_1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D": [
+			{
+				"comment_id": 61,
+				"body": "can you explain because I don't understand even a little bit.",
+				"added": 1510521755
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 62,
+				"body": "I'm not sure I fully understand what's going on here but could this link be of any use to anyone? (clearnet) https://en.wikipedia.org/wiki/XMPP",
+				"added": 1510594026
+			}
+		],
+		"1510599199_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 63,
+				"body": "does this search zites or torrent files?  the name is misleading",
+				"added": 1510611959
+			}
+		],
+		"1512068748_192QiJtwfzw9NemSqGN1oCZGH7SP2ZXRWW": [
+			{
+				"comment_id": 64,
+				"body": "1. I think you mean ipv4\n2. neither 1pv6 nor ipv4 has anything to do with what you're talking about.",
+				"added": 1512090028
+			}
+		],
+		"1512252928_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 65,
+				"body": "> [kopyjane](#comment_78_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Me and my friend are trying to come up with a good hack, although I'm pretty short on ideas. It can't just be a PC-bricking hack.. it has to be something useful, something that can gather data silently. We can already get these folks to click on links and reveal their IPs. It makes sense, too - if they're calling you, if they're desperate.. you can get them to do anything, really. I almost got a lady to install one of my Add Ons.. although she said that the browser requested permission, probably because it wasn't her PC.\n\nwhat would you do with the information you got?\n\nalso, I bet if you did write a bricking virus, the calls might slow down.",
+				"added": 1512343473
+			}
+		],
+		"1512496361_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 66,
+				"body": "does this affect pgp?",
+				"added": 1512506616
+			},
+			{
+				"comment_id": 67,
+				"body": "> [styromaniac](#comment_274_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): (ancient geek knowledge)\n\nright, from ancient Geece.  Good to know encryption is still ok (for now)",
+				"added": 1512509653
+			},
+			{
+				"comment_id": 68,
+				"body": "> [styromaniac](#comment_275_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): Excuse my Ebonics, but I call it \"Geeks.\" 😛\n\nI was playing on ancient greece.",
+				"added": 1512665445
+			}
+		],
+		"16290_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 69,
+				"body": "i'm getting TINGLY!!!",
+				"added": 1512692353
+			}
+		],
+		"1512712007_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 70,
+				"body": "I'm in. What can I do to help?",
+				"added": 1512752886
+			},
+			{
+				"comment_id": 71,
+				"body": "> [helium](#comment_119_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): You need a contingency plan,\n\nany ideas or just proving what everyone already knows?\n\nwe could do what snowden did and make a deal with the kgb",
+				"added": 1512756940
+			}
+		],
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": [
+			{
+				"comment_id": 72,
+				"body": "we hould make a zerotalk clone zite for this.",
+				"added": 1512758689
+			}
+		],
+		"1512832651_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": [
+			{
+				"comment_id": 73,
+				"body": "what's udemy?",
+				"added": 1512857965
+			}
+		],
+		"1513321800_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 74,
+				"body": "> [polar](#comment_86_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6): JS and CS have good interaction ability, I think no necessary to use raw .coffeeGive a reason why must .coffee.\n\nto wake up in the morning?\n\nalso, I don't know about you guys, but I got my zeronet coffee (mug) just the day before, so no need for that for me.",
+				"added": 1513347271
+			}
+		]
+	},
+	"comment_vote": {
+		"5_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": 1,
+		"1_18P4u2hLa3EDyj4Va3GsYxPsCywkRmirmP": 1,
+		"8_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"300_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"6_16AACVBLhoSY2jjGMtP7VKAEbjJUcKgQ1y": 1
+	}
+}

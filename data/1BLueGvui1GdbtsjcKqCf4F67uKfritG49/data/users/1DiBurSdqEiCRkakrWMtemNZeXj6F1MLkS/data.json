@@ -1,0 +1,56 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 4,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Lengchenyang1",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1478748476,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1478831013,
+			"body": "# Do NOT log in on a zeronet proxy server! How many times should I have to tell you!",
+			"date_added": 1478831011
+		},
+		{
+			"post_id": 1484922913,
+			"body": "# Warning! The parameter ui_ip is not set properly! And UiPassword plugin not enable! ",
+			"date_added": 1484922905
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Lmath: 要为整个HUB做种，光一个是不行的。",
+			"post_uri": "1DzpF7398yNGjFwHQqHAu9fRkbE3WZ6dZA_1478834491",
+			"date_added": 1478836275
+		},
+		{
+			"comment_id": 2,
+			"body": "I'm the mantainer of this proxy and will you guys please stop login in, will ya?",
+			"post_uri": "1DiBurSdqEiCRkakrWMtemNZeXj6F1MLkS_1478831013",
+			"date_added": 1479910579
+		},
+		{
+			"comment_id": 3,
+			"body": "看来 朝鲜中央电视台 应该进驻Zeronet！这里真自由，不管你是纳粹、IS、共产党，都可以说话。",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1483129703",
+			"date_added": 1483158896
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi",
+			"auth_address": "17zvGKq1Vft7Fp8HhqgD7rpqcGi5wDDSQ4",
+			"user_name": "Baddream",
+			"date_added": 1484644733
+		}
+	]
+}

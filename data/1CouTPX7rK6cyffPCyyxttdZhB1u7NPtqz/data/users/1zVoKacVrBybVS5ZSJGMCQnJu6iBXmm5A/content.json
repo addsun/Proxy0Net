@@ -1,0 +1,64 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HCUR/i+Pw14bj+hZAJ+yKtG1UR99eDHL8orVOpc+DmSs9pNMcvqsR15x7TvvRr9541vqLPoWrOafe0XbFdBMsNU=",
+ "cert_user_id": "dukeduan@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "3ca099a3c7f26c8dfeb1d64437b4221cd8b87cae4c304e9d616fdfea589c68e7",
+   "size": 1630
+  },
+  "data.json": {
+   "sha512": "95956fdc6778df7dfd5551219aa6b2201bddaf146dbf3937aa57824d4cef4358",
+   "size": 12690
+  }
+ },
+ "files_optional": {
+  "1485081315.jpg": {
+   "sha512": "0994d62a8d3e763bbb20c5005e454884d0bebcd32b9fd61b9a05ae6ed747f502",
+   "size": 1118919
+  },
+  "1485082061.jpg": {
+   "sha512": "f79cdad5b104894f97ca733ff84fd3a8d9d55458bda88ccd565ae2fac75de509",
+   "size": 41565
+  },
+  "1485088536.jpg": {
+   "sha512": "0beb6804ed6f30adafeb6537d58a10fa268adeaa0a1c3951ae002c41703f2e2a",
+   "size": 41042
+  },
+  "1485181176.jpg": {
+   "sha512": "0c5caa0fcc0a0d8dd978c4a97d4fae2afe8a28eb0c0cf3ed090a76fbc672efe5",
+   "size": 83108
+  },
+  "1486264090.jpg": {
+   "sha512": "ae26b7243d7163059871fd161bcd68541986ab7741a0cf23cbed07e3ae614662",
+   "size": 85810
+  },
+  "1486380494.jpg": {
+   "sha512": "846b15aa09371e7699e2edfdaf92995717b1a825e04e6ee4b61ce3710fb26800",
+   "size": 44863
+  },
+  "1486533352.jpg": {
+   "sha512": "70d67df82f59708decdeacf03f031b5f1c9121feddbedf1ecb56c91a916b01ba",
+   "size": 69297
+  },
+  "1488078120.jpg": {
+   "sha512": "89a7bbdc95f8bcc75755f675165d31e9bfdb7a8bc8292b475c0e428892dc7b70",
+   "size": 28191
+  },
+  "1507905132.jpg": {
+   "sha512": "839806526f9863e04d5c3a7c87d4ab705516c02553010527f15ff6ead6dc0a28",
+   "size": 42389
+  },
+  "1508334094.jpg": {
+   "sha512": "cac2e3380a59b76d4478646a40a7b42ae976f173c031718a81299f5f156c122c",
+   "size": 79289
+  }
+ },
+ "inner_path": "data/users/1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A/content.json",
+ "modified": 1508334081,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1zVoKacVrBybVS5ZSJGMCQnJu6iBXmm5A": "G2dLNd1K9178PPEODoZH51xz+FDJB8rNOteJ2pljCk/0d/wR2XHNsXr5l3+CiLINTMe5wyrlNXY2PV9sfvzXjIA="
+ }
+}

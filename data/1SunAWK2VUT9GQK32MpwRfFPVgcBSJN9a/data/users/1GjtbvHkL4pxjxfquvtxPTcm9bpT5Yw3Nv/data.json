@@ -1,0 +1,43 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Zeronetuser09",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503252908,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1HjWYEKBkc9oHjdPq2jzSpoH75bspVv2n9_1503247807": 1503253488
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1HjWYEKBkc9oHjdPq2jzSpoH75bspVv2n9",
+			"user_name": "Sarahs7serpents",
+			"date_added": 1503253528
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1F41LyxfzgAv2ddfwyCEkBaDM8TkywCsRq",
+			"user_name": "Logitec",
+			"date_added": 1503254115
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1LZNoHm4on2UQb4fPYKbtMJYebzgiF2pR8",
+			"user_name": "Redeye",
+			"date_added": 1503254117
+		}
+	]
+}

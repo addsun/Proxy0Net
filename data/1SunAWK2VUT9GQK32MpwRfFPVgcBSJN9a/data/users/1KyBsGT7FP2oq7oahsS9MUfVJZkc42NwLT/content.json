@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HG8X0mcrsYV3vp18Ag2X7zgUrj9szgZ6wrpJ3tFs5cnXZRJsDXcZJKBQ0hrwMvnsqQvMaCQ2xIBoOMF8Z1nW1xE=",
+ "cert_user_id": "chiput@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "083cbea63c309a979503e840d4cdd472457c29604d263d12e73720bb60943781",
+   "size": 1672
+  }
+ },
+ "files_optional": {
+  "1507177529.jpg": {
+   "sha512": "2c0ee14ce921248d577e977d0d4a1d85964328f16571531a642f1d92cca9246a",
+   "size": 15955
+  }
+ },
+ "inner_path": "data/users/1KyBsGT7FP2oq7oahsS9MUfVJZkc42NwLT/content.json",
+ "modified": 1507177527,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1KyBsGT7FP2oq7oahsS9MUfVJZkc42NwLT": "HBdb2vAnhyo/x3fhGQC/4/RMaSpTGRGW+phNeuYYrdNpcXNxW2NYT1oa+VMHRBbk/s/iT+EV+U31Vqv4kc2wctA="
+ }
+}

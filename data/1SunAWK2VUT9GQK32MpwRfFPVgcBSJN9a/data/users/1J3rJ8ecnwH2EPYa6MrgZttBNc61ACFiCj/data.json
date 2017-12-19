@@ -1,0 +1,77 @@
+{
+	"next_comment_id": 12,
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"post_like": {
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507905837": 1507911419,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507901696": 1507911896
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Looks like the stats counter is broken, working on the fix...",
+			"post_uri": "12A9SCx1Qj9pBbz4PvNJra4Jus7SVAGc1s_1507817161",
+			"date_added": 1507830732
+		},
+		{
+			"comment_id": 2,
+			"body": "It's fixed in Rev3102, thanks again for reporting.",
+			"post_uri": "12A9SCx1Qj9pBbz4PvNJra4Jus7SVAGc1s_1507817161",
+			"date_added": 1507852927
+		},
+		{
+			"comment_id": 3,
+			"body": "For me the git repo sites (eg.: 1GTispUAh7VLQjLAkKCUmnpJA7jU6K7Grh) are not loading. (looks like nobody has the content.json file) Can you sign and publish them again?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509798158
+		},
+		{
+			"comment_id": 4,
+			"body": "Changing the address is possible, but the permissions are recorded to site's address not to the domain.",
+			"post_uri": "18oD4Atz6dpapnpN75tiBorjCSjANJmaiw_1510131543",
+			"date_added": 1510134136
+		},
+		{
+			"comment_id": 5,
+			"body": "Yeah, I will check it soon",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510490810",
+			"date_added": 1510516209
+		},
+		{
+			"comment_id": 6,
+			"body": "Looks like there is some problem with size calculation for sites larger than 10MB (you have to change the limit to 30MB+ manually to finish the download), but once it finished downloading it's working fast and fine, grats!\n(I will try to fix the size calc error tomorrow)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510490810",
+			"date_added": 1511838554
+		},
+		{
+			"comment_id": 7,
+			"body": "Yes, nice discovery! :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1511959694",
+			"date_added": 1511959894
+		},
+		{
+			"comment_id": 8,
+			"body": "I changed to link, because I need the sidebar for information and signing.\n\n@Sirenyc: Please update to latest revision. There was a problem that affected sites larger than 10MB, but it's fixed now.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512166694
+		},
+		{
+			"comment_id": 9,
+			"body": "@Krixano: using different address for sidebar is a good idea I will restore the redirect.\nI just tried to pack the repository with `git repack --max-pack-size 1m`. It's a bit slower this way, maybe a read cache could help to avoid re-reading big files using fileGet. \nThe bigger files also triggered an error when reading files from different sites at the same time. (already fixed, but need some more testing, will roll out tomorrow) \nBtw. why does it needs to read ZeroID site?",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512182251
+		},
+		{
+			"comment_id": 10,
+			"body": "@Glightstar: Just fixed it in rev3157, please update and try again\n@Git Center: For big files probably ajax would the best as it transfers the files asnyc from websocket, support ranged queries and don't have to pack/unpack base64.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512225605
+		},
+		{
+			"comment_id": 11,
+			"body": "The feedQuery API call tries to parse the query, add some optimization (date_added > now -3 days) and ORDER BY date_added DESC LIMIT 10 and it does not support  sub-queries with union atm.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555",
+			"date_added": 1512922419
+		}
+	]
+}

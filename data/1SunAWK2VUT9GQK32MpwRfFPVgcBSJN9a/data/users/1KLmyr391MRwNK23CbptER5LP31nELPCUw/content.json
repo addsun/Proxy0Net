@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HAhs+pbNCxxtsqEV2vosaZ9nG3ywa+t73mlSnQr3CL3QboR71DpWdRzFLR4l1CEAlvMW1tCJyzhLwiAYOh7eBY8=",
+ "cert_user_id": "oakstorm@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "55d390cd21b0b0dc85c527110d453d1ba9f16dcb94db13820de9f9acf491aea0",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1KLmyr391MRwNK23CbptER5LP31nELPCUw/content.json",
+ "modified": 1509629729,
+ "signs": {
+  "1KLmyr391MRwNK23CbptER5LP31nELPCUw": "HAO0glP1kiTyMyauEYgsCR7vsVMNLIzhf9akuJTZa3BGMM69A9/NF23KuEt9mvqz7lbzI+csBn8D3HljI/25hTc="
+ }
+}

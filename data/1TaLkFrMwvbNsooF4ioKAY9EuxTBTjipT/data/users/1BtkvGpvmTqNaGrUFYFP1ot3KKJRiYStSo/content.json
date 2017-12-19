@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJpRuMGtEhote5aelAkzyFL/E6L1V7alxZsETB28V6UlyHtSAYnAnYlP+HFddnSXLgKVlMSPEZlr0mPQw70cGrI=",
+ "cert_user_id": "verifly@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c03dcf0de2b436bb322e644a5b7f14b1bd9e9664a2634c1c0be4d05e0fc77eb",
+   "size": 1876
+  }
+ },
+ "inner_path": "data/users/1BtkvGpvmTqNaGrUFYFP1ot3KKJRiYStSo/content.json",
+ "modified": 1500705685,
+ "signs": {
+  "1BtkvGpvmTqNaGrUFYFP1ot3KKJRiYStSo": "G1V7JaFzlmuUDpPrBdDVmHWbdKFliEIqUQuoMfzGkz76GwWXQQ0STtHkH9oY+JoZvDH1EMhhKLgtEDLIo2hgCfg="
+ }
+}

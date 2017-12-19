@@ -1,0 +1,24 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "G32Zj8lPkhDkJrSMFggDEdbg7vMj1o6k86vfVYNxjHETTRlkeAuUHM6AuMNK7zeDWX7sc7y00fANC+Cs/KbHWLQ=",
+ "cert_user_id": "kimmano@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5eaa972d3e71d41ceb03a39f55e7c58e49999a2939ca54bfcb44180e27af3b8f",
+   "size": 7104
+  }
+ },
+ "files_optional": {
+  "1495377504.jpg": {
+   "sha512": "e62645650c47f6ec4c7ba2053b2c77dde062d68a9878774a7b6ae4d26e4a3dd7",
+   "size": 53162
+  }
+ },
+ "inner_path": "data/users/1Hyd7PH8Xe7Btke2gHZrQri6VyssqmxsXw/content.json",
+ "modified": 1495535269,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1Hyd7PH8Xe7Btke2gHZrQri6VyssqmxsXw": "GwsBzgeAqa364e/8ke73woI1UkZvBwv2ULnfe52r2HzwUcDz3eeyJ226RYzhIoIVV7WN8BS12e3nmI/DXhwV/Y0="
+ }
+}

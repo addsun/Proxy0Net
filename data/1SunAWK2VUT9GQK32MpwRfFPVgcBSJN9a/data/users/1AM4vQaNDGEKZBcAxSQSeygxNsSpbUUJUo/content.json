@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3aMfFKm31lJDmJ0+LRT+0KyaIO4YMDjVS4LHeSWMtXEoaDWvQeZYU6tmnJIPYGkj770GtKVSLG3NbLRbhF+c5c=",
+ "cert_user_id": "groto@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a8f33a1e4cccd55804a087e63a5af08663334d7c5d966d12d2b4b28cab4c2d46",
+   "size": 317
+  }
+ },
+ "inner_path": "data/users/1AM4vQaNDGEKZBcAxSQSeygxNsSpbUUJUo/content.json",
+ "modified": 1502785541,
+ "signs": {
+  "1AM4vQaNDGEKZBcAxSQSeygxNsSpbUUJUo": "HGbAO4j6yHVErTgksYkoVIGdp9Io+f+3N7S01n0ZCnv4A/JeqLlssLasQ0eDxHZiMv5Rpxj9bbxwZ6WuzcQn2vk="
+ }
+}

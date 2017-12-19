@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HITL++0IgXejGzt1Vwf5hGvP6DXw9YWlxrOeQXjpH0A6yyoqHh3QuVcfGKEWWZ9jCFTpG2pYRRIuhixyptYtoaM=",
+ "cert_user_id": "holograma@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "56e29b2b2e17d93ff0970687b6a66ba6ef3bb2682637dea4f6b7526107174268",
+   "size": 1478
+  },
+  "data.json": {
+   "sha512": "3fee8f6cdfbd94a1c78eeb521cd7ae6fb03d8f557e5395be5d201ee6416e1bf5",
+   "size": 1167
+  }
+ },
+ "inner_path": "data/users/18B5FGXkURcGj8A4CthMzk7fPtM6bQxfY4/content.json",
+ "modified": 1506103163,
+ "signs": {
+  "18B5FGXkURcGj8A4CthMzk7fPtM6bQxfY4": "HIpAmw3Yq5zPCNWQLTuO2Puc1Md9RpAR8t4DrhJqu0LBKwCgZyYG7JJiTXreVP6nnR4gOImGC8PCVZD+/zX6Bak="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HPSSg2ZVPgnYQRmeS1ze5jxVguEruNTh0hLHWsuaJ+F/WxhKE4H2pIDy2YsCSVi6BwdXuafqasOz28iu1Z3zyVo=",
+ "cert_user_id": "deepmind@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ad049b3605e93ab4270ad0d08c2e6285b42d05a7b784163bb6ce39c4a8dbf2d2",
+   "size": 441
+  }
+ },
+ "inner_path": "data/users/1QAKZCc7hZp25WN2zudPaXBSRR8PhFpHyP/content.json",
+ "modified": 1500373176,
+ "signs": {
+  "1QAKZCc7hZp25WN2zudPaXBSRR8PhFpHyP": "HLG90Jwn5j5SKx2X+WiM1nrw9XJ8871AsEpgWQA3ViClUEpYnaMkBgoxyVaJQhB1EXn3R6Rwj92EUF0r+yTTCRc="
+ }
+}

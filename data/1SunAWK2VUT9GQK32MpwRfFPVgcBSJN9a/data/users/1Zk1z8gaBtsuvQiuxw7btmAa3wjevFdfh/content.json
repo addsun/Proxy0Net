@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7NWxc00E3AvzY2QucVLxJIOP/8jnd3KLecK9YThdAOtsuvnhyKVEHOnqQWLNlz71BC/9CQRYoiA/bDB9L31mA8=",
+ "cert_user_id": "ripper1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0a12507d631f38e7fdc77cfe66275a2c4a03b3a7b7d6aecf5af7ac2906c7a9ae",
+   "size": 534
+  }
+ },
+ "inner_path": "data/users/1Zk1z8gaBtsuvQiuxw7btmAa3wjevFdfh/content.json",
+ "modified": 1508273283,
+ "signs": {
+  "1Zk1z8gaBtsuvQiuxw7btmAa3wjevFdfh": "G0pP+4BePNfox4LU6v5UuR3gH0q7JWtWFxo2x8B8lKqmGLGALwRN3IhQ4S8a2vcC/2k7yEaGOmtgyaXYni8l01c="
+ }
+}

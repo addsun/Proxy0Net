@@ -1,0 +1,76 @@
+{
+	"next_comment_id": 12,
+	"user_name": "Rythyrix",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1495899751": 1495914132
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Jayofthezero: I feel so nooby. Ubuntu and Win7 dualboot.",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1491044173",
+			"date_added": 1491093420
+		},
+		{
+			"comment_id": 2,
+			"body": "Holy crap, that's terrifying.",
+			"post_uri": "1CogrjsFiTL3nHH74BXnAcM1S3KsNaLtEx_1492651600",
+			"date_added": 1492990681
+		},
+		{
+			"comment_id": 3,
+			"body": "I think the reasoning is that since KaffieIDs are not rate-limited, nor have anti-spam mechanisms and are not guaranteed to be unique, allowing KaffieIDs by default would result in spambots filling ZeroMe with trash, like what happened mid-January. Can't simply ban them, since bans are handled via per-ID permissions and stored as usernames, not public keys, banning one KaffieID would ban all the legit users who happen to share the same name. While modifying the ZeroMe db generation source is always a possibility, the current limitations force a scenario where rate-limited ID generation is the primary means of spam prevention, with non-repudiatible usernames as a backup.\n\nProof of Work based rate limiting has the same problem as all PoW: more money = more computing power = more spam possible. Mostly harms legitimate users while doing little to hinder unscrupulous folk.\n\nProof of Stake based rate limiters have the problems of initial entry; since the chance of getting X cryptocurrency/ID increases with the number of X held, legitimate users must provide or wait for a stake, which may be out of reach for some. The timing/effort/resources would require careful balancing to make such a system worthwhile. As for spambots, the more entrenched a public key's ID gets, the more power they wield, enabling a handful of accounts to constantly authorize new accounts, resulting in a boom-and-bust situation, where ZeroMe is spammed with hordes of bots at once, which were created over the lull in between. Working in concert, this results in constant spam where one fleet of bots spams whilst the others recover. ",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1495159486",
+			"date_added": 1495174567
+		},
+		{
+			"comment_id": 4,
+			"body": "Oh, it's working :D",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1495899751",
+			"date_added": 1495914141
+		},
+		{
+			"comment_id": 5,
+			"body": "```We respect your privacy and won't share your email with anyone.``` Then why do you not use HTTPS?",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1496460584",
+			"date_added": 1496460758
+		},
+		{
+			"comment_id": 6,
+			"body": "@无: Was being snarky at their site, not you. Serving the page over HTTP just invites packet capture, harvesting your email address.",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1496460584",
+			"date_added": 1496535301
+		},
+		{
+			"comment_id": 7,
+			"body": "@无: Incompetence on the site's part invites malice from third parties. Whether the site is a honeypot is another question.",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1496460584",
+			"date_added": 1496623522
+		},
+		{
+			"comment_id": 8,
+			"body": "你试过编辑 ```sites.json``` 删除网站的 ```bad_files``` 键？ 这将删除文件列表 ZeroNet 用于跟踪丢失的文件，并删除它将强制 ZeroNet 重新开始。",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1497772099",
+			"date_added": 1497772746
+		},
+		{
+			"comment_id": 9,
+			"body": "@无: 请告诉我们您的方法是否有效。 同样的问题也发生在我的节点上。",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1497772099",
+			"date_added": 1497774373
+		},
+		{
+			"comment_id": 10,
+			"body": "你愿意发布差异图表吗？ 洗了私人信息当然。```diff oldfile newfile``` 会好的。",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1497772099",
+			"date_added": 1497774603
+		},
+		{
+			"comment_id": 11,
+			"body": "@无: 我懂了。 可惜，擦拭和清新是最好的追索权。",
+			"post_uri": "1V7usnfmabQXPSNC2zrCpF2ed2jDZaujS_1497772099",
+			"date_added": 1497775133
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G184P29L4qwAtYXR77k39S2k5tq/WTyMibiLqZTnS2ACzNYiNtRslhrCwKk0GaEWB82oMthTuikx2GoKEqAqSBc=",
+ "cert_user_id": "patrickbateman@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "020c3eb0b36ede13098d47591193bbd224369f9c55a86bbcc5891edde9abcfb8",
+   "size": 1453
+  },
+  "data.json": {
+   "sha512": "971a9c8795177679e956ed9ea60bca3479fb2750e10c80a206749278e2ed280a",
+   "size": 618
+  }
+ },
+ "inner_path": "data/users/129w7DWNQizK5HEaLvHx5NDaddHhKBBWTM/content.json",
+ "modified": 1507917820,
+ "signs": {
+  "129w7DWNQizK5HEaLvHx5NDaddHhKBBWTM": "HLoabdKhD71HsXCvaxnNpazkx2mkfAo2ltLeM1ImHVesGEMRS5MqFAsNAYoQbsIS6EaXxtZCsnPGnrnWwfuZH9o="
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "IPCbppBcPO/71bJhHf/DSZjpHzt81Dw5cD4LNdpM1N8jISG1LfZxQBEM3Uc8GZJwZAqwA2roJKwcwIqJ9Vbx1jc=",
+ "cert_user_id": "ytht@cryptoid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dca02d5be2d4cc15603f6f5b39765359f90c37b5f9e366178222279369a903b6",
+   "size": 1117
+  }
+ },
+ "files_optional": {
+  "1505660012.jpg": {
+   "sha512": "d3d04e3300c4d36cca6d433b1e2963ef6ed895cf67c43bb762a1680804c0c33a",
+   "size": 59809
+  }
+ },
+ "inner_path": "data/users/13EqhCPYY1Xjn64pTzWjBzMXVQ1N65gxem/content.json",
+ "modified": 1505662440,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13EqhCPYY1Xjn64pTzWjBzMXVQ1N65gxem": "GzSdMVHqL10wZ+G8gIMCoUHniL9Lx9U9r/sKEJxjd6cuGYsHklcue2eN79Lq/rkeFSyS/6vCYQKIwhkeP2EKxN8="
+ }
+}

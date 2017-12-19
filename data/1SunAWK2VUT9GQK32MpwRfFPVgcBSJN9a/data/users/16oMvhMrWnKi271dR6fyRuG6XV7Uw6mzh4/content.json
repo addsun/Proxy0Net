@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2Qv/tP5CF3PkksUbD3CMti1YYgExkbLv8wryIdNljWdAwE0ZLBKxV+2Poxa4+KStPk4nU5UL+PfNLrii/srknk=",
+ "cert_user_id": "infectsec@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "3e34b3828230715bc4ede5d3d4e5d1ac21faf2aa136af14bbf3afb5053ce67f7",
+   "size": 1401
+  },
+  "data.json": {
+   "sha512": "9febb248cdd1d8cbc1043272b4a964b0cf22b1fe923c3de8a326dd59c0916c9d",
+   "size": 4388
+  }
+ },
+ "files_optional": {
+  "1511285266.jpg": {
+   "sha512": "5cb46af0a67bdfa3594b66cd495d0bcdffb9a044f23fe242dad6384c240a4914",
+   "size": 58178
+  }
+ },
+ "inner_path": "data/users/16oMvhMrWnKi271dR6fyRuG6XV7Uw6mzh4/content.json",
+ "modified": 1511741577,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "16oMvhMrWnKi271dR6fyRuG6XV7Uw6mzh4": "G32xl0YlW4bFSuY3V1I6iu0HG8T46azed/V+RHqVCFInVUzwm+Zc4PUzcwLji/G6nSKuBzAROP7buxm2uQAK+H0="
+ }
+}

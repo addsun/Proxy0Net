@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HMUgWibtR+Y2blozfFkM8Czol+tIG+W5FeagRl6G6KQt0BHPzWiassQg3njEPqeWMCjzBVjQjZSIWiyhH9mWFws=",
+ "cert_user_id": "foxgam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "55de2ba188768dbcb9c9fc9ec0d01aaed37da3059d20fbde2cf295d389e93f72",
+   "size": 279
+  }
+ },
+ "inner_path": "data/users/1B32pXG7mHycnweRiQFjeatA9f3EXzPx5p/content.json",
+ "modified": 1508293684,
+ "signs": {
+  "1B32pXG7mHycnweRiQFjeatA9f3EXzPx5p": "HF2kuqDFcbuGCMXqB2Fm+lijURlKbeBIrmCsoCLSpRjfH5Tp5EUTr80wEuE3FOAbYgjpYUz8u3XmD/kOBknUMTk="
+ }
+}

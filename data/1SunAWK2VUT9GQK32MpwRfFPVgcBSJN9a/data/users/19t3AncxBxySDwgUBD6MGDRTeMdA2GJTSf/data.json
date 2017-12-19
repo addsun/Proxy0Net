@@ -1,0 +1,195 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 20,
+	"next_follow_id": 7,
+	"avatar": "generate",
+	"user_name": "Zeptobyte",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Creator of [Torrent Share](http://127.0.0.1:43110/1ShArE1dJFcHFgTEEAUMXksDZuRckzd3Y/#Publish)",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1511385610,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1511473391,
+			"body": "I had to delete all torrents from _Torrent Share_, because the back-end was not made properly. I am very sorry for the inconvenience and lost work, uploading torrents. But the site should be working properly, and in a way that is easy to expand and build further on.",
+			"date_added": 1511473389
+		},
+		{
+			"post_id": 1511715379,
+			"body": "I have updated Torrent Share, and now torrent files are marked as optional files, so they will not be downloaded before they are requested.\n\nIf you want to help distribute the files, please enable \"Download and help distribute all files\" in the sidebar.",
+			"date_added": 1511715376
+		},
+		{
+			"post_id": 1512419607,
+			"body": "I have updated Torrent Share, to support descriptions for new torrents. I will work on ability to edit already uploaded torrents in the following days.",
+			"date_added": 1512419603
+		}
+	],
+	"post_like": {
+		"17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE_1": 1511424407,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1511452936": 1511454696
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Sirenyc: Hi, there :)",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511386798
+		},
+		{
+			"comment_id": 2,
+			"body": "@Sirenyc: Good idea, I will work on that tomorrow",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511386957
+		},
+		{
+			"comment_id": 3,
+			"body": "@Sirenyc: I might add a `show more` button",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511387111
+		},
+		{
+			"comment_id": 4,
+			"body": "I have tried to upload it now, I do not know if it is publicly avaliable currently, but I will try to seed more in the upcomming days to get it public",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1511366423",
+			"date_added": 1511388214
+		},
+		{
+			"comment_id": 5,
+			"body": "@Sirenyc: Torrent files contain more data about the torrent, like comment, name, original create date, etc.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511420036
+		},
+		{
+			"comment_id": 6,
+			"body": "@Sirenyc: I don't know what happend, but I will change to use optional files. This should make it better",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511420743
+		},
+		{
+			"comment_id": 7,
+			"body": "@Sirenyc: I have not deleted anything manually, only updated the site.  It might be because your data.json file is getting too big to parse. Your data is still there, but it's not showing up on the site. I will try to change to use optionalfiles/bigfiles plugin for the torrent files them selves.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1",
+			"date_added": 1511454357
+		},
+		{
+			"comment_id": 8,
+			"body": "@Sirenyc: I am aware that the search does not work. I have not updated it, after having changed the way torrents are stored. I will push an update as soon as possible.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511473391",
+			"date_added": 1511503719
+		},
+		{
+			"comment_id": 9,
+			"body": "@Sirenyc: What do you mean, would you like to be able to upload torrents, using only a magnet link, or is it possible to upload an entry without a torrent file?",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511725702
+		},
+		{
+			"comment_id": 10,
+			"body": "@Sirenyc: Upload without the need of a torrent file?",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511725814
+		},
+		{
+			"comment_id": 11,
+			"body": "It is not possible, because torrent files hold much more information than a magnet link. Information like original name, comment, create date etc.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511725906
+		},
+		{
+			"comment_id": 12,
+			"body": "@Sirenyc: I haven't done this, becuause you would need to connect to every torrent you search for, to get the avaliable seeders.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511800300
+		},
+		{
+			"comment_id": 13,
+			"body": "@Sirenyc: when you convert a magnet link to a torrent, you connect to the announcers to get information about that particular torrent, theese informations are saved in the file, but they are not saved in the magnet link",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511800387
+		},
+		{
+			"comment_id": 14,
+			"body": "@Krixano: That is probably the best solution, but this requires a server :)",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511806636
+		},
+		{
+			"comment_id": 15,
+			"body": "@Glightstar: That is totally an option, I will add this when I find the time. If you know javascript, you are welcome to send a pull request http://127.0.0.1:43110/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?1P6tNJ97Hi1uUXjqpX3wJBUt4UFnAZojs6",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1511817354
+		},
+		{
+			"comment_id": 16,
+			"body": "@Sirenyc: I can fix it, but please don't upload new torrents with your account, it is because your data.json file gets too big.\n\nTo upload more torrents, please make a new zeroid account and use that one instead",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512060903
+		},
+		{
+			"comment_id": 17,
+			"body": "@Sirenyc: Your torrents should be up now. But please do not upload any more with sirenyc@zeroid.bit",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512061391
+		},
+		{
+			"comment_id": 18,
+			"body": "@Sirenyc: That shouldn't be a problem, because normal (new) users have a upload limit of 15mb, and the problem occures at around 16-17mb",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512071847
+		},
+		{
+			"comment_id": 19,
+			"body": "@Krixano: The latest torrent is uploaded 15 hours ago. Please try to press Update, under side menu -> site control -> update",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512072255
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ",
+			"user_name": "Sirenyc",
+			"date_added": 1511386808
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1511388257
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE",
+			"user_name": "Kopyjane",
+			"date_added": 1511424374
+		},
+		{
+			"follow_id": 4,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1511461578
+		},
+		{
+			"follow_id": 5,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1511461900
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1511715460
+		}
+	]
+}

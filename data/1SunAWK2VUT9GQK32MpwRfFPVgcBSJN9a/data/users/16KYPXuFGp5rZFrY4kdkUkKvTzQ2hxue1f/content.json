@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCv2ttY5nvxW2mse2EDkoLsbjLk5Uzj7s6IepicPAsn71XmVM+/80U/b+NKpVKa4SE2Pe3V7TGhxJxhIsm8zWO4=",
+ "cert_user_id": "chipmonk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3d6584e35fc2d0201210515d1bddf3bdfba80f73f17bfde7b513f881f65bd9f7",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/16KYPXuFGp5rZFrY4kdkUkKvTzQ2hxue1f/content.json",
+ "modified": 1503139489,
+ "signs": {
+  "16KYPXuFGp5rZFrY4kdkUkKvTzQ2hxue1f": "HEydbkxgB5rXpc06oupXGslT1mkVmSSAxi39NUoME//Fazi/BND0pYn9YCjRcIy1js837cRegXP6L/h2nM9sFvk="
+ }
+}

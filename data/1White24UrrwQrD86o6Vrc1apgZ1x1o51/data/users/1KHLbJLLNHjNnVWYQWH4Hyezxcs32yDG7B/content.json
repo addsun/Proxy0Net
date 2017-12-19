@@ -1,0 +1,24 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "HLPurckOgHQL3EHCZ+SS5vbgNxqlmnJTaZDK3GqLK1EqnoYenFqwE1ykVUSYtFB7AmlYHfBvbgTZmDcMMKMTEiQ=",
+ "cert_user_id": "zirconnet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc11ef4aa0386ae3bd06a34fa122047ba85876e3da331d20d3add0a5fdb3b6e0",
+   "size": 1061
+  }
+ },
+ "files_optional": {
+  "1498117177.jpg": {
+   "sha512": "d7cbc159ff0e8b63803cbba6599b677a6541a4b341774ded88d37697adf364c6",
+   "size": 27332
+  }
+ },
+ "inner_path": "data/users/1KHLbJLLNHjNnVWYQWH4Hyezxcs32yDG7B/content.json",
+ "modified": 1501598958,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1KHLbJLLNHjNnVWYQWH4Hyezxcs32yDG7B": "HKMO7QWNINJMP9hg9sBU/4aDZhXrjdvm52UrDmx913U/eJFUm8BGWsZahMD1UD70lSKSeUMfjXqXyes4ExP02Ko="
+ }
+}

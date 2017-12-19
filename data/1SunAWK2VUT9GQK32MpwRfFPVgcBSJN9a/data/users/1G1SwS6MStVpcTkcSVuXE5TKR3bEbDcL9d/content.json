@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGvO1td4etiFXB6ey1VnuckpOmoHPPnUxHVfJy3f5lwTAcpKp1gfHIuZB6tBZGCeYUCRc/IP3wVHmxcAQLr9XPs=",
+ "cert_user_id": "syphilis@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5c752f7113e9d990d09ce31e245da29c3245636ee0b3d3967414d8c40d495724",
+   "size": 962
+  },
+  "data.json": {
+   "sha512": "a99dc42f044c74b3862f2cd49d82f1b367f296ee0665cc5bbc08280c26bd8ccf",
+   "size": 349
+  }
+ },
+ "inner_path": "data/users/1G1SwS6MStVpcTkcSVuXE5TKR3bEbDcL9d/content.json",
+ "modified": 1511862291,
+ "signs": {
+  "1G1SwS6MStVpcTkcSVuXE5TKR3bEbDcL9d": "HA9SOYSP7TdTqlaDyYSqoDTIlwYlogh3xn6gqhkRS1OMET/W9Nj+uViS/L/W4m2wVSWagB0AVTd4jcLqGCNWzTQ="
+ }
+}

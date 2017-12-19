@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_15NXsHCCfQw8BUSxnsapUH212qTtg29iFU": [
+			{
+				"comment_id": 1,
+				"body": "> [nekololi](#comment_58_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB): It actually looks like it's meant to support hubs, where users can choose to enable a hub that contains NSFW content, or they can choose to not merge with that NSFW hub. But we'll see once its running I guess.\n\nDeveloper here. It is a merger site, so users can choose where to source content from. There is also a \"Show R-18\" switch in settings, which gives finer granularity if there is proper metadata. Of course there is no guarantee for proper metadata in a merger site, so I'm thinking about including a \"preload list\" where a few well-managed sites are added upon first visit. Futher than that and the user should use their own discretion.\n\nThe site is *sort of* working, right now, in the sense that you can clone [this](/galleries.sorasumi.bit), use \"Upload Wizard\", and have a gallery show up. There is still a lot of things missing though, like pagination, and GUI for editing galleries, but if you have anything to share, you could do that. \n\n> [kaffie](#comment_462_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): AFAIK it was meant to replace stuff like exhentai/e-hentai and nhentai. Not as a general manga site lol. So ofc. it'd be naturally angling towards 18+ content. But you could easily clone the data site and upload SFW stuff to it.\n\nIt sure was created with a certain cool-sounding gallery site in mind, but manga sharing should also be a concern, considering the other site you linked is just a clearnet portal (and in Russian to boot). I guess a \"group by\" feature could be useful for general manga sharing, where galleries are grouped by tags in a certain namespace, so that you can tag manga episodes with \"series:something\" and have them show up together. It should also be useful for showing by artist, circle, etc. I may look into implementing it some day.",
+				"added": 1503723453
+			}
+		],
+		"3_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 2,
+				"body": "> [kaffie](#comment_459_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): \n> The law is idiotic. It's like saying that someone who happens to see a video of a murder is now a murderer and supports people being killed. WTF.\n\nThat is what people get when they turn to authority to forcefully silence things, that they personally don't like to see for whatever reason. It happens with the right on stuff like CP, and happens with the left with their PC speech policing. It is not news that a government can and will use every bit of power it has to oppress and control citizens, but people still willingly let it, because it is such an easy way out. It makes them personally more comfortable, no longer having to face opposing ideas.",
+				"added": 1504073882
+			}
+		],
+		"1_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": [
+			{
+				"comment_id": 3,
+				"body": "You can remove your content from sites, but due to the way ZeroNet works, anyone can save old copies of your data once they are published. ZeroNet is designed for persistency. If you are looking to delete stuff you are in the wrong place.",
+				"added": 1504794451
+			},
+			{
+				"comment_id": 4,
+				"body": "> [james007](#comment_7_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): it's confusing to me there's not a \"delete account\" option\n\nThere is not one because ZeroNet is not designed for people who need that option.\n\n> Such an option could exist\n\nSure. Actually, *you* could write a script that clears every `content.json` signed by you, if you need it that much. But again, it does not prevent anyone determined in the slightest from acquiring your data, so I can't say I see the point in doing it.",
+				"added": 1504801632
+			}
+		]
+	},
+	"comment_vote": {}
+}

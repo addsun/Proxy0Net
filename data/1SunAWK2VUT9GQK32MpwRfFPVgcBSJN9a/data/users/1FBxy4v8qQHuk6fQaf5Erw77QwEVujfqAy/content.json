@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGBQKtGz+vBIyRRy6DeM8TecefphfsDcUVSfy+O1SOmSL6xAIumRdNQCQE09N7tR1xIikAf10st4RiEmiQqYzf0=",
+ "cert_user_id": "nightwish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "96d4f35a0e5488ec24a55b4fe5c1c96058e0a6b9ac1fb053d3b2e7963bdb737c",
+   "size": 508
+  }
+ },
+ "inner_path": "data/users/1FBxy4v8qQHuk6fQaf5Erw77QwEVujfqAy/content.json",
+ "modified": 1510912048,
+ "signs": {
+  "1FBxy4v8qQHuk6fQaf5Erw77QwEVujfqAy": "GxM4qMQjZ2NQ+nQ9It52v8bI+zPboA6KWi6goaycqEphXamIHVICML1Fua8FnboAhgeH7sO/1FYZ05hD65anA9s="
+ }
+}

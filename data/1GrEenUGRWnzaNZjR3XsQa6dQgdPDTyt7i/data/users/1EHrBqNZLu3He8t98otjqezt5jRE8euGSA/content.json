@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HNVGi3//eMJnS4jiD2JEk1hyph42KF6cyYT03ol4iujWPJDf8/nXb/yLBBxaBu0AYcraM6kxwrHpqc5iwXnrYJ8=",
+ "cert_user_id": "trava@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "5afccb8c782bfb2fcc998c66a93f6f38c8d8f281b1e613bb1dfc709c7affb51e",
+   "size": 1601
+  },
+  "data.json": {
+   "sha512": "b95e85b5d63f0d582360cb04606eb781d694f0dc0a1702bf9e36d2d731927599",
+   "size": 885
+  }
+ },
+ "files_optional": {
+  "1499779085.jpg": {
+   "sha512": "bc1ef1babda0993d96404d6c5a6f289ac36667243149c54aa962543fc8a9985e",
+   "size": 41964
+  }
+ },
+ "inner_path": "data/users/1EHrBqNZLu3He8t98otjqezt5jRE8euGSA/content.json",
+ "modified": 1499827117,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1EHrBqNZLu3He8t98otjqezt5jRE8euGSA": "HGGnB21NbEYsW3E4L4203mWzlD7/Hkrfrl1Cj/3958cOZYDYkwCtEVbjVtbKn4Wvkvtgcv85NV6V9A0+9MbVlrw="
+ }
+}

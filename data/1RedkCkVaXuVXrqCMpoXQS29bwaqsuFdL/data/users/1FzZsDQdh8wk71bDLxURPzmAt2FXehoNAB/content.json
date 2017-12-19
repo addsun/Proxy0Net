@@ -1,0 +1,17 @@
+{
+ "address": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+ "cert_auth_type": "web",
+ "cert_sign": "G9MI+bK0EdR5HaQuuv6i1byKHiHBIetpwHmGUzGP8Uqp+vX7U0iiJVjZ+7MVgPts+gsq7zj8rPK0OclFaxiMoWg=",
+ "cert_user_id": "nekololi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c383099208a5f5a4f22f9347efb2d9fead9ecebb62a6300bb40cb19ae1f7d238",
+   "size": 8415
+  }
+ },
+ "inner_path": "data/users/1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB/content.json",
+ "modified": 1506460738,
+ "signs": {
+  "1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": "GzDUQECuGfGqwhuOzIiwyqIg5eewDodNy7mC0GBSr6trV4jhmNnosG2FBZQrkLL0ApvHT1T+tjpznH/mdAoagpU="
+ }
+}

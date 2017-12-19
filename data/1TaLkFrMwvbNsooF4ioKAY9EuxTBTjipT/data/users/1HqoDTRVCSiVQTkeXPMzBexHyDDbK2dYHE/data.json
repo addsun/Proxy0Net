@@ -1,0 +1,30 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 1,
+				"body": "Hi. I'm trying to see what the issue is with the comments and the error I'm getting is File write error: [object Object]\n\nIs this some setting or permission we need to enable? Or what should we be looking at?",
+				"added": 1510218818
+			},
+			{
+				"comment_id": 2,
+				"body": "> [proteus](#comment_2_1K2WtdsHZYjArvQBH3amE2AHHRUckS1xoK): Testing...\n\nWhere we are having issues and could use some help testing is with the comment box below the bog posts. We just cloned the blog site so we're not sure what could be wrong or if we screwed up at some point.\n\nhttp://127.0.0.1:43110/1FREEMLT3GSta6TynuAC9EWM5mXCnrxkiu/?Post:2:Welcome+to+FREEMLT",
+				"added": 1510231149
+			},
+			{
+				"comment_id": 3,
+				"body": "> [sksn](#comment_10_18oD4Atz6dpapnpN75tiBorjCSjANJmaiw): try to cut your posts with --- at newline\n\nThanks for the links. Until recently, censorship has mostly been by harassment,  intimidation or by threat of lawsuits and huge damages. However, the government also uses the law and justice system in a heavy handed way to oppress its critics. See: http://www.akkuza.com/2017/11/09/mallia-rule-by-law/ This trend is very worrying and is on the rise.\n\nWhat would be useful right now is a secure and anonymous platform for whistle blowers to share the information they have. Daphne Caruana Galizia was the main way for whistle blowers to share their information with the press and the public. I don't mention law enforcement, because the police commissioner is a government puppet and people have little trust that the police will go after the big guys. Now that she is dead, i wonder what sort of distributed platform would be the best to use. After security and anonymity, the next consideration would be how easy it is for anyone with information to share to use to write posts,share images and video, link to uploaded files and so on.\n\nAs regards the --- what do you mean exactly by every newline? Every paragraph? do you mean to put ---between each paragraph, and why is that? Thanks again.",
+				"added": 1510266567
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1K2WtdsHZYjArvQBH3amE2AHHRUckS1xoK": 1
+	}
+}

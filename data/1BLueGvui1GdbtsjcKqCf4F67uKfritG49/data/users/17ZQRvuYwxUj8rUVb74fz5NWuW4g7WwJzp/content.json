@@ -1,0 +1,17 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "web",
+ "cert_sign": "HK92q++pcsRjuYNu7+THGIHQ8Tv10PBn88wsYuBiwrgBpPFponlpZCzFJtujLM41nlmZOHgoO8VyROog5RIbo7E=",
+ "cert_user_id": "resistance@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "830ed870ccb205560fff0660a63c9d819dffb92199411badd2204a68edd40804",
+   "size": 316
+  }
+ },
+ "inner_path": "data/users/17ZQRvuYwxUj8rUVb74fz5NWuW4g7WwJzp/content.json",
+ "modified": 1511015427,
+ "signs": {
+  "17ZQRvuYwxUj8rUVb74fz5NWuW4g7WwJzp": "HO3uB8SnqMwUlne70VOPTKyZTKqnybPGum272D/YcXq4TQm7TvoZvLa/9EEM6lt4OmxriIN3zs+72MUq7sJcBNE="
+ }
+}

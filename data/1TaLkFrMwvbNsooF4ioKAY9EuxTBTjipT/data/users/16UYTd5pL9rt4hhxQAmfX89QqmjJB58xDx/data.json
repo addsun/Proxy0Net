@@ -1,0 +1,162 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Is there an safe way to just buy 1USD worth of bitcoin?",
+			"body": "I live in New Zealand and am disappointed by how far behind the technology still is.. considering it's been nearly a decade. :)",
+			"added": 1502658186
+		},
+		{
+			"topic_id": 2,
+			"title": "KopyKate v1.3.2 BETA - uncensored YouTube/Netflix alternative",
+			"body": "http://127.0.0.1:43110/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/\n&nbsp;\nNew version released!\n&nbsp;\n**Changes in v1.3.2**\n- Improved site layout\n- The site now warns you if your browser is incompatible, generates a link for alternate video player.\n- More movies and TV shows coming... stay tuned!\n&nbsp;\n**Introduction**\n&nbsp;\nKopyKate is an uncensored YouTube alternative for ZeroNet, which allows you to watch and upload copyrighted content. Works by storing WebTorrent magnetlinks on a decentralized database on a ZeroNet site, and then playing the torrents using a javascript and WebRTC-based torrent client so you don't have to download any extra software!\n&nbsp;\nThat means the site is impossible to shutdown as the magnet link database is hosted by thousands of users all across the world. DMCA raids tend to go after the servers where magnet links are stored.. as you can't exactly outlaw torrent clients, any more than you can outlaw web browsers, or the internet itself.\n&nbsp;\nYou can seed torrents using WebTorrent.Desktop (tutorials available) or you can create webseeds, too. Webseeds are recommended for videos that may not get a lot of views, especially during the early stage of the site. Even watching videos automatically seeds them, so the more viewers the better.\n&nbsp;\n**A bit about me:**\n&nbsp;\nI'm a YouTuber and broke college student in IT who is frustrated by the sheer lunacy of copyright laws.. and also the ad-revenue system on YouTube. Long story short - The rise of Adblock has given way to the establishment of YouTube Red - a monthly paid service. So that's YouTube essentially saying - because you suckers aren't willing to put up with annoying and irrelevant ads - we'll force you to pay for using our services! But then, we need YouTube .. just like we need roads, telephones and fresh drinking water.. so that sucks!\n&nbsp;\nKopyKate will not rely on Ads for revenue, nor does it need them to keep the lights on. You can however get your video featured for a small monthly fee - what that means is your video will have the highest possible ranking in search results. Spammy, annoying videos will not get featured. This will be the only source of revenue, as I don't believe in accepting donations.\n&nbsp;\nUltimately though, it's a non-profit kind of project. 20 years from now, we will have a Universal Basic Income, and robots doing all the dirty jobs that nobody wants to do.. so money will not really matter that much because even programmers will one day be replaced by general AI and machine learning. If we ever do make it big, we'll give all the profit to charity, and keep enough to just pay the rent. There's no such thing as a free lunch - unless you get your computer to cook it for you..\n&nbsp;\nI've had multiple people interested in collaborating, so yeah.. let's do this.. fuck procrastinating. All work will be credited and acknowledged on the Github repository, no matter how small. We need programmers fluent in javascript, but more than an anything - we just need to get people to SEED .. or in other words, get as many people to watch as many videos as possible and upload as much as possible. I've also noticed that a lot of people have struggled using the site at times, even people on ZeroNet - so the goal is to make the site as user-friendly as possible to get as many people to commit massive amounts of copyright infringement with the click of a button, as possible.\n&nbsp;\nProgrammers of the world - Unite! To the bitter end. Because college no longer gets you a good job and because the basic necessities of life should be Free.",
+			"added": 1502662783
+		},
+		{
+			"topic_id": 3,
+			"title": "Scenario: What if somebody uploads 'That Kind of Porn' to your site?",
+			"body": "Something for all web developers to think about. How do you protect yourself legally, once 'the bomb' is inside your system stored on your hard-drives?",
+			"added": 1503559382
+		}
+	],
+	"topic_vote": {
+		"1_1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi": 1
+	},
+	"next_comment_id": 22,
+	"comment": {
+		"1_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 1,
+				"body": "> [nekololi](#comment_44_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB): travel back in time and use one of the free fountain services. once you return to 2017 the fraction of a coin you were given will be worth well over 1USD\n\nActually, I'm only looking to buy some namecoin domains.. and they're only a fraction of a cent's worth.\n\nSadly, Faucetbox.com recently shut down due to lack of revenue.. so even getting a fraction of a cent seems like an uphill battle.\n\nI'm surprised they haven't got a universal exchange for bitcoin yet - one where you can just pay with paypal and securely get the exact amount of bitcoins you want. Coinbase is the closest to this so far, but sadly it's not available in my country. Lame!",
+				"added": 1502658734
+			},
+			{
+				"comment_id": 2,
+				"body": "> [lola](#comment_9_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u): On https://dotbit.me/ you can buy domain name using paypal. Otherwise if you just want 1USD worth of bitcoins, give your bitcoin address.\n\nThanks lola. I think I may as well go that route. :)",
+				"added": 1502659283
+			}
+		],
+		"2_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 3,
+				"body": "NEW! You can now generate instant webseeds by uploading .mp4 videos less than 50mb in size to : http://www.kittyseedbox.tk:3000 (if page is unavailable, please be patient.. it's likely undergoing maintenance. but it was tested and works). The link that is generated can then be pasted into the URL/Magnet link form when uploading videos.\n\nPowered using NodeJS.\n\nI will allow up to 10gb worth of uploads to take place. Once the 10gb mark has been reached, any future videos will only be allowed for a period of up to 7 days, after which they will be automatically deleted, to save space and also encourage people to seed.\n\nWebseeds are not to be relied upon, but they will be a great way to light the fire and get your videos out there during the early stages of the site, and also in future for people whose videos may not have reached a desirable level of popularity. It's practically a seedbox.",
+				"added": 1502965197
+			},
+			{
+				"comment_id": 4,
+				"body": "up!",
+				"added": 1503486625
+			},
+			{
+				"comment_id": 6,
+				"body": "up!",
+				"added": 1503548031
+			},
+			{
+				"comment_id": 11,
+				"body": "Update: Just done some improvements on the uploader. Videos now play automatically when uploaded using the Torrent upload button. I've also been thinking of implementing a peer-discovery script that prevents videos from showing in search results if they have less than 1 peer. There should be a way to do this without slowing it down.. by pre-loading the database entries, but only displaying them if they have at least 1 peer. The Add Video button also will be grayed out if your uploaded torrent isn't being seeded, so that will also stop un-seeded torrents from making their way to kopykate. ;) \n&nbsp;\nIt came to my attention that the tracker on Webtorrent.io has stopped working.\nTorrent discovery seems to be taking longer as a result. Luckily, WebTorrent uses bittorrent trackers, so I might experiment using trackers from The Pirate Bay.. or even setting up my own tracker. \n&nbsp;\nWebRTC-based DHT is yet to be implemented!",
+				"added": 1503568014
+			},
+			{
+				"comment_id": 19,
+				"body": "up!\nTo-do-list:\n- Add a script that only allows videos with at least 1 peer to be displayed.\n- Publish Kittify source code so that people can create their own http seedboxes.\n- Create a light-weight torrent client using Electron that can serve as an alternative to WebTorrent.desktop while using the least amount of CPU and RAM. \n&nbsp;\nThis will be called KatyTorrent. KatyTorrent will be able to negotiate CPU usage with the user by allowing scheduled seeding (e.g. schedule it so it only seeds webtorrent files at night, so it doesn't slow down your PC while you're working!)",
+				"added": 1503960781
+			}
+		],
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": [
+			{
+				"comment_id": 5,
+				"body": "> [micks](#comment_2_1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ): KopyKate is pretty legit, I've been working on a clearnet version quite similar to this that isn't inherently reliant upon the zeronet architecture -- it's got the webRTC built into it, and has webseeds automation as well.  Being actively developed.\n\nHaving a decentralized database of magnet links is the reason I decided to work with ZeroNet in the first place. \n\nAll in all, KopyKate is a place where one can stream copyrighted content without repercussions. All the other projects I've seen are kinda gutless and only willing to work with videos under the Creative Commons license. I want a YouTube that is free from copyright restrictions.. where somebody could upload a home video playing with their cats while having Katy Perry as background music .. or do a drum cover of their favourite song using the original instrumental tracks .. without having their videos pulled down, flagged, blocked.\n\nLack of seeds is caused by lack of popularity. It would certainly be nice for WebTorrent to have BitTorrent support, but then, a lot of video formats that are hosted on torrent sites (e.g. MKV's) aren't capable of web streaming, so that doesn't even solve a quarter of the problem.\n\nZeroNet needs EXPOSURE! Spread the word.",
+				"added": 1503547965
+			},
+			{
+				"comment_id": 10,
+				"body": "> [kaffie](#comment_456_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I meant @mick's 'clearnet version'. Bitchute is the only clearnet site like this that I know of. [...]\n\nIt is possible and actually quite simple in theory by running a Ubuntu server with node-js modules (create-torrent, WebTorrent-hybrid, etc.). All you'd need is a user-friendly graphical CSS/HTML interface.\n\nThen again, that is technically no different from having webseeds, as you're still using a server that is running 24/7 to seed a torrent. \n\nOf course, the advantage of having this WebTorrent seedbox would be that users can seed somebody else's torrents.. without having their own PC's switched on.. so it's not a bad idea. It's certainly easier to shut down one seedbox than it is to shutdown a whole army of them, all across the world.\n\nKittySeedBox sounds like a good name for such a Github project. Then again, my only worry is that webtorrent-hybrid is still a bit buggy. We still desperately need to get WebTorrent.desktop fixed.",
+				"added": 1503567151
+			},
+			{
+				"comment_id": 12,
+				"body": "> [kaffie](#comment_457_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): This is about what I was imagining. Instead of it being user-user, it'd be seedbox to seedbox.  [...]\n\nDon't worry, I got this lol. Seriously, Node-js is ridiculously easy to use.. it didn't seem that way at first.\n&nbsp;\nKeep those ideas coming. I should really consider you a crew member at this point.. people get paid to test software, after all.",
+				"added": 1503568144
+			},
+			{
+				"comment_id": 14,
+				"body": "> [kaffie](#comment_458_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I just wanna see this stuff thrive, and support pretty much all the efforts to do that. KopyKate is great, really. I should probably start mirroring some more content.\n\nbtw - I've just tried seeding with the Vuze torrent client, and it seems to work pretty well without hogging the CPU. Try downloading Vuze (www.vuze.com) and seeding a video I just uploaded called In The Mood. I want to see what speeds it will yield with 2 peers. Note that it could take up to 1 minute to discover the first peer.",
+				"added": 1503629899
+			}
+		],
+		"8_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 7,
+				"body": "I'd consider it a compliment if the NSA were spying on me.",
+				"added": 1503548824
+			}
+		],
+		"14251_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": [
+			{
+				"comment_id": 8,
+				"body": "It's practically warfare. As criminals get smarter, police get even smarter, then criminals get smarter yet.. and so on and so on. One group cannot out-smart the other. So long as there is a will, there is a way for the cops to catch you. So long as there is a will, there is a way for criminals to get away..\n\nIt's not a war you can win on either side, unless you legalize drugs and/or soften regulations on other things that are being sold illegally, so that it becomes easier to reduce the harm associated with the products sold in the black market.",
+				"added": 1503555164
+			}
+		],
+		"3_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 9,
+				"body": "This is also something for ZeroNet seeders to worry about. If somebody was seeding a site that had an upload functionality, and somebody uploaded something questionable to the site.. then all the users seeding the site will receive 'the bomb' and it will get written into their hard drives.",
+				"added": 1503559579
+			},
+			{
+				"comment_id": 13,
+				"body": "> [vacuum](#comment_2_16rZsjufk1LwqZd42XhqrVxQz8SeDxMfZs): Well I discovered that 0chan porn has a few cp pictures, so I'm not hosting that anymore. I am running ZeroNet over Tor, however. Indeed, owners should remove the more questionable content, but then you could start a debate about censorship (however I am sure cp must be banned from here, because that's just some disturbing shit)\n\nyea, but my main concern is that according to the law, even accidentally downloading it can get you arrested.\n\nPedophiles should be prosecuted by all means, but the laws seem to be written in such a way that everyday users can get punished simply because of the fluid nature of modern information technology.",
+				"added": 1503612060
+			}
+		],
+		"1_18C45ndJpnDbtgU7QdFxbfcENxBsPPEUtG": [
+			{
+				"comment_id": 15,
+				"body": "dunno man. all I can say is world politics has become depressing. our Big Brothers got what they wanted - they successfully pitted us peasants against each other, so as to weaken us and make us easier to control.",
+				"added": 1503813220
+			},
+			{
+				"comment_id": 16,
+				"body": "The thing is, though. 2016 was not about Capitalism vs. Socialism. It was about Right wing populism vs. Left wing populism. Both groups are supported by low-income people who lack job opportunities and hate the system. The right blames unemployment on immigration and lazy minorities, but nonetheless wants to use the power of Taxation to increase military spending and build trillion-dollar border walls. The left blames unemployment and poverty on big corporations and wall street.\n\nBoth groups are just as whiny and entitled as each other, it's not about free markets or anything, but a lot of an-caps ironically happen to be Trump supporters .. not realizing that you need government and taxation to enforce borders.\n\nI personally support free markets, but we are going to need a Universal Basic Income so as to provide a floor for people to stand on, and make homelessness, poverty, welfare dependency, etc. a thing of the past, just like we rendered starvation a thing of the past with the power of agriculture and food processing technology.\n\nYou can be pro-free markets and anti-poverty. Communism is about seizing the means of production. This discourages entrepreneurship, and punishes that little girl wanting to set up a lemonade stand to make some extra cash for her family, more than it punishes the wolf of wall street. However, a free market economy coupled with a universal basic income means people would be free to take risks and be more willing to experiment with startups and small businesses because they wouldn't be worried about eviction or homelessness or anything. It also rewards people who work because they would be able to combine their paychecks with this guaranteed stipend. We already live in a kind of gig economy. It used to be that you could get a job at a factory and stay there for 20 years. \n\nThose days are gone, robots have taken over.. you're more likely to spend your 20's doing 100 different jobs and going from one place to the next. People here in New Zealand go to the welfare office about as often as they go to the doctor. There's still stigma.. but I believe getting rid of the Welfare system and replacing it with UBI would get rid of this stigma and the US vs. them mentality, because everybody would be receiving this survival allowance.\n\nI mean, this whole self-made man mythos is a load of crap. You'd be nothing living on a deserted island. We are a civilization, and we depend on one another.",
+				"added": 1503864525
+			},
+			{
+				"comment_id": 20,
+				"body": "There's just as many drug addicted rich brats living off their daddy's cash who aren't homeless.",
+				"added": 1504004743
+			}
+		],
+		"1_1d6oFadKcBXxEZHvmvAiZCoyrBeAmmLdi": [
+			{
+				"comment_id": 17,
+				"body": "never felt the need to live up to a label, but mkay.. here i am. wassup!",
+				"added": 1503885355
+			},
+			{
+				"comment_id": 18,
+				"body": "one of my dreams has always been to marry a chick who looks almost exactly like me.. or like Mary Elizabeth Winstead.. mess around with people and pretend we're twins. Brunettes ftw!\n\nSeriously tho, that's never gonna happen. I have no life. I'm a hikikomori.",
+				"added": 1503885618
+			}
+		],
+		"1_18U3XMxdYnD8BFVeY6UCPJvKTLg51n4uBZ": [
+			{
+				"comment_id": 21,
+				"body": "Everybody wants to use. Nobody wants to collaborate",
+				"added": 1504005239
+			}
+		]
+	},
+	"comment_vote": {
+		"9_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": 1,
+		"45_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"454_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"15_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": 1,
+		"455_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"457_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"2_16rZsjufk1LwqZd42XhqrVxQz8SeDxMfZs": 1,
+		"29_1EZG8eDkCFvNkYxpHmr2WbGWcSxAsRfqTT": 1
+	}
+}

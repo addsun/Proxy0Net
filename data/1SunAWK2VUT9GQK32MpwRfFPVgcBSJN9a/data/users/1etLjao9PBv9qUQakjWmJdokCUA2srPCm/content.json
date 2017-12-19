@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLNQFp2B6VE4awF02Or5GfSQtNtTFOWQPLUsHsS8LnpqUTwsIt55xrhEvarePLltzKDycynHHbb0tNnRnZOiAms=",
+ "cert_user_id": "matthewthurling@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b1e7a4c608304212eff73c16a5bd3edcfccaa12ff172a6574ce9426b62d5e329",
+   "size": 1221
+  }
+ },
+ "files_optional": {
+  "1506355607.jpg": {
+   "sha512": "614166c2b4a23eb9f6af577c7631ff050ce6c8b57c3d4a3ffb260bf66d712b4a",
+   "size": 7695
+  },
+  "1506355666.jpg": {
+   "sha512": "805c63810a3f2689fd0517c2a7fe562b29e243a0bbb8350bb72dbb7fd85c4bad",
+   "size": 165940
+  }
+ },
+ "inner_path": "data/users/1etLjao9PBv9qUQakjWmJdokCUA2srPCm/content.json",
+ "modified": 1506355662,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1etLjao9PBv9qUQakjWmJdokCUA2srPCm": "GxFu8uULoYInFUJae1fzm1sxgSkH+lLBo6jo55+MdulYF0ALfDBdLzP4LNdgrzhr3QLoy7ZWNIAZyApkNM03GxQ="
+ }
+}

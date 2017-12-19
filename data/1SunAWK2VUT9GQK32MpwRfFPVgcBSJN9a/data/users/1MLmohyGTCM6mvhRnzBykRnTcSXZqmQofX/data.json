@@ -1,0 +1,31 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Nonorobot",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Utilisateur ZeroNet aléatoire",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1510946342,
+			"body": "Bonjour ZeroMe!"
+		},
+		{
+			"post_id": 1510949485,
+			"body": "Bonsoir",
+			"date_added": 1510949483
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Clematis: Bonsoir",
+			"post_uri": "1MLmohyGTCM6mvhRnzBykRnTcSXZqmQofX_1",
+			"date_added": 1510949506
+		}
+	],
+	"follow": []
+}

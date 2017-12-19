@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G0eWCVdHqQz0O8iAHr9Y5yVCIDPOeCbnbDXpg8XOO/GJ/BGJO/RDeyTB7WBBI+pekBop6tWXAYU4JO+J68Qo5LI=",
+ "cert_user_id": "endsonlana@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "42b8e15faa7b60a032694b9479baa5d17053935f8639053bfa3b1c497faf738e",
+   "size": 1714
+  }
+ },
+ "inner_path": "data/users/1MgdeWrmbmBPTZsJBoL6DDboj82Pwr7j39/content.json",
+ "modified": 1507570397,
+ "signs": {
+  "1MgdeWrmbmBPTZsJBoL6DDboj82Pwr7j39": "G4Epmd/aEcuMYClyOFm0HKUiVtki97aRSQ8qK/WmrvFpD0b61FvUPgxkLlIj+P/4ylAkXSPsERhcxBs4fx0qWlg="
+ }
+}

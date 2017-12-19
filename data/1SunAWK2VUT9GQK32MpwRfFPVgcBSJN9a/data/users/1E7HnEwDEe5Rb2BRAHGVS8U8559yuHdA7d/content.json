@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HGJ4QANuuvVYAilW4vqQn6dhbEes3o8xLwtEWB0ta0SuiFQCUwcb55GgzMlhBB+HRwo0VcD6NjBPXrlUS6usqCk=",
+ "cert_user_id": "dnapolymerase@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6cc200a93886e6acfbbed1302d3bc4b94e494fa16a637df57f5b091085d0d88d",
+   "size": 344
+  }
+ },
+ "inner_path": "data/users/1E7HnEwDEe5Rb2BRAHGVS8U8559yuHdA7d/content.json",
+ "modified": 1501931376,
+ "signs": {
+  "1E7HnEwDEe5Rb2BRAHGVS8U8559yuHdA7d": "HHdSoHSJVzkzYCHSnhf4JAgaQFesODrnZMHQ+1KZqsb5eNGtrFStlJXHChRoqV7cSkKMelgnKTMzPPf3D62ps0Y="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5uu8fV77YlfigTaeaVzZdkpjORl5wJSm/2lzoXTB3/mWLpAHmBSufcpSh3+ci7SW4Z4vk6i4+VScuBdGJ78mRI=",
+ "cert_user_id": "stanstack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4352ae3769735e1d8af3b5deb1777dd242daeb6209ef4eff0db23a08fc95c5af",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1P3H9kgTBy9rikpdbgspWVqRtfCUwKKfP2/content.json",
+ "modified": 1510802974,
+ "signs": {
+  "1P3H9kgTBy9rikpdbgspWVqRtfCUwKKfP2": "HIWEjZIAx6FU6vYkbbI9hU6xDKWxNdmnt7uv/zLwWRQKCae3zpyZrhHGMTHInd5O9KZEV3+7PzktpnJ4uxuPOF0="
+ }
+}

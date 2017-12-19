@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4AmQK1bgw/cuQKSHcTQllcCjcK3ATyYJf/FbXfp6RGNf4nU8fXf3+lI0gaRC3mwFfgQOLzXWvZqgIChNlpXsbY=",
+ "cert_user_id": "kimchy123@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ae91ac7e43b172b56c8380ee33a245a256f17161e22f49f2a5cc6894b38264ac",
+   "size": 422
+  }
+ },
+ "inner_path": "data/users/1CP4p36f1UzwM33eNaubYyhSncVr3J3DsB/content.json",
+ "modified": 1510134981,
+ "signs": {
+  "1CP4p36f1UzwM33eNaubYyhSncVr3J3DsB": "HNHeGhT9btH4NGbHkQJx/CyGTtQM7+JMWYs4G9mGUjHaAkNuMQLJFi4/RDV0S91ZYYhg5soENGNqv5PxHV7JGSY="
+ }
+}

@@ -1,0 +1,57 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Can I have more than one ZeroNet ID?",
+			"body": "so that I can easily switch when using ZeroNet.",
+			"added": 1509087305
+		}
+	],
+	"topic_vote": {
+		"1_1MPTXu5zUeKZ4WqVmcMQUUp6zAtLN3JyAi": 1,
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "why you need a test...",
+				"added": 1509087353
+			},
+			{
+				"comment_id": 5,
+				"body": "test my space http://127.0.0.1:43110/1B7s2RpQe5oYxooTAUjKambTBMLGaKtVTt/",
+				"added": 1513167095
+			}
+		],
+		"2_1MxbxpNzeMXhpYC9V2aVZFYeMVzTJ8nArf": [
+			{
+				"comment_id": 2,
+				"body": "> [ajo](#comment_1_1aMDPbnfXb34rceadvMSYtJBJ3FsbVjNt): P2P网络，你的网站要有人访问才会被【上传】，不然只有你自己看，你自己上传给自己吗？\n\n谢谢\nhttp://127.0.0.1:43110/1B7s2RpQe5oYxooTAUjKambTBMLGaKtVTt/",
+				"added": 1509087437
+			}
+		],
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 3,
+				"body": "> [kyo877](#comment_1_1CGP23WuLE1DHpiAyGuSoNrNzabKv8NVmZ): 你可以通过备份多个users.json文件，不停的换users.json文件来实现此功能。当你删掉一个users.json，zeronet程序会再建一个原始users.json。\n\n嗯， 可这样有点麻烦",
+				"added": 1509091714
+			},
+			{
+				"comment_id": 4,
+				"body": "> [michaelwesten](#comment_8_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6): It is technically possible. In addition to non-ZeroID identification providers, you can also manually edit your users.json to enable easy switching. However, due to how ZeroNet handles the data, there's a decent risk of overwriting your original IDs, losing their private keys and locking you out of your identity forever. Try checking out this thread  and making some edits of your own. Make a backup first, of course. [...]\n\nThanks",
+				"added": 1509091747
+			}
+		]
+	},
+	"comment_vote": {
+		"11_1Ceg5F9KEWkCyTu3r1QBSuiU8C1PYsd8PJ": 1,
+		"117_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"8_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6": 1,
+		"1_1NdDmWhojXEn1Tse56aKsVKJU4zTPjxNPp": 1,
+		"4_1vjjRJpiNosn98M8cc1R6FnhgwY2bAekr": 1,
+		"2_1N3PjG79QtJEviXTaC28e4372TGbhi3sWd": 1
+	}
+}

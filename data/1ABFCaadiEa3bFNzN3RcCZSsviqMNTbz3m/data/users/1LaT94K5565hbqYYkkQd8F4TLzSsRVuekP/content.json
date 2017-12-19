@@ -1,0 +1,21 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HLDp+xZr6U9JM+ozrcCR6osjBfC07KBFBIPAtr+NJt+6rDpT7apv2cQKNwmPZK00Wwc+D2a9awq9N2PeR12rxxQ=",
+ "cert_user_id": "forestime@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "12be989bdc5d4627c4fbaa1e34e08513e5bb60c7dfa2263a5ae6fb25ce52eae1",
+   "size": 1921
+  },
+  "data.json": {
+   "sha512": "0a30d1affa2e35dff81d41b1e48a8ff4800dcaa8cc6781a3213d85c2f581430b",
+   "size": 649
+  }
+ },
+ "inner_path": "data/users/1LaT94K5565hbqYYkkQd8F4TLzSsRVuekP/content.json",
+ "modified": 1491054959,
+ "signs": {
+  "1LaT94K5565hbqYYkkQd8F4TLzSsRVuekP": "HFo7mHBBSEi3sQ7MhffN4Iq1KLyBmT5+sGvPlMkRd8JNezUukpV8vV52hlHB5Rh5pROc+0hF2gdzuS123Vt/GEc="
+ }
+}

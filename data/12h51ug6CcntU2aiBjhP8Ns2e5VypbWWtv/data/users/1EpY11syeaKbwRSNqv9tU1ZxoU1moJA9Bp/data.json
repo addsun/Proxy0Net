@@ -1,0 +1,38 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 4,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Loligod",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"intro": "Loli is love. Loli is life. \n\nFollow me for your daily supply of lolis. 2D only.",
+	"post": [
+		{
+			"post_id": 1481505919,
+			"date_added": 1481505916,
+			"meta": "{\"img\":\"900,675,feeddefffcccbbcaabdccbaacbbcaa98aedda99fcbeba,011002222234554600224789A9B000977CCBDDB034E99BEEDB000B3DB6360000BBD669000000BB60\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Kaffie: If Zeronet is not following Namecoin's specification than the fault relies on the Zeronet's integration not namecoin itself. Of course if there isn't any enforcement of the specification right now it won't make any difference, but the question is then 'when are they going to enforce it?' ",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482135828
+		},
+		{
+			"comment_id": 2,
+			"body": "@Kaffie: So it's compatible with regular domain name DNS specifications. If namecoin's namespace ever wanted to get included into regular DNS infrastructure it would need to follow the rules. Right now it isn't enforced but it could be in the future and developers need to think about that when picking a name. ",
+			"post_uri": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh_1481874072",
+			"date_added": 1482138098
+		},
+		{
+			"comment_id": 3,
+			"body": "日本番号1",
+			"post_uri": "1CVh9d8ZZTapTPT7NZTYuM1yb3sHHfNafj_1486315014",
+			"date_added": 1486325092
+		}
+	],
+	"follow": []
+}

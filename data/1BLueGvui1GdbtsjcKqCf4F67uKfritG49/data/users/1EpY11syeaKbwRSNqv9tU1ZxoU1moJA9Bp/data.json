@@ -1,0 +1,70 @@
+{
+	"next_comment_id": 11,
+	"user_name": "Loligod",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481537318": 1481537386
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "#teamfelix",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481537318",
+			"date_added": 1481537292
+		},
+		{
+			"comment_id": 2,
+			"body": "The hookup is exactly the same to regular video websites. But instead of pointing the video source to a file on your site you point it to the IPFS link. Detecting IPFS is pretty simple too just requiring an ajax request to the IPFS webui. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481881617
+		},
+		{
+			"comment_id": 3,
+			"body": "IPFS also has a good API so you can easily make an one button press to do certain functions (such as file pinning and peer lookup). On a site, that isn't sandboxed, it would be easy to do communication with IPFS without user interaction.\n\nI personally think the best part about IPFS is how it scales in a round cluster. Almost every person who has the file contributes to the file's completion when requested. It's a near exponential speed growth.",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481882100
+		},
+		{
+			"comment_id": 4,
+			"body": "@西木野真姬: IPFS is made to support large files. It does it by splitting up the file into multiple blocks inside a merkle tree for easy sharing. Now the resolve time to find the file does take some time. It's not going to be an instant action. But the moment you get connected to a peer who has the file it will start loading. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481880549",
+			"date_added": 1481883987
+		},
+		{
+			"comment_id": 5,
+			"body": "That's quite the large video file. School idol project... never watched it.  Stuck at 52.5MB download out of the 795MB it will take. Your poster link has a space in it making a bad request error. Seems that you got the idea though.",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481886132
+		},
+		{
+			"comment_id": 6,
+			"body": "@西木野真姬: I know. That is how I uploaded my other ones. You can't upload a whole folder using the webUI but with ipfs add -r you can do a whole directory. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481925423
+		},
+		{
+			"comment_id": 7,
+			"body": "@西木野真姬: For example see: http://localhost:8080/ipfs/QmNdHUsgbi6RsT8vH4mg7gvCbKq925DYXf3cyvwAVZ6mkN/hardcode",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1481884667",
+			"date_added": 1481925639
+		},
+		{
+			"comment_id": 8,
+			"body": "I really need to make it easier for people to pin the content. I don't know why it paused. Maybe see if it steams via ipfs gateway for you: https://ipfs.io/ipfs/QmNURR5TctPteXKmTaq3oM3FSxYi4jYrFDK1p2R3f9eFKH",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1491128767",
+			"date_added": 1491263484
+		},
+		{
+			"comment_id": 9,
+			"body": "I would be open for the challenge. ",
+			"post_uri": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj_1493055829",
+			"date_added": 1493064382
+		},
+		{
+			"comment_id": 10,
+			"body": "@Jupadr: #FLATISJUSTICE #NOTMYLOLI",
+			"post_uri": "1EDyci7R1R5tnQE4USqMjvEKqgWtgnJZ8x_1494263953",
+			"date_added": 1494442798
+		}
+	]
+}

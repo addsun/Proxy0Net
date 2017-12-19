@@ -1,0 +1,32 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GzwtnIiYlv1U8ud2GKISFR+ox9nP+ih2oLD/GzKrVxy2t4XQ95HdBcuVRmPX6Prbqb9qTDPkcDXJDf8Z5wycL1Y=",
+ "cert_user_id": "mackmonkey@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ea06acaa29dc51500e6be52f1d475d61ceabb132e793aa25b848c4f8bcace764",
+   "size": 1285
+  },
+  "data.json": {
+   "sha512": "c0c9e7eae23ac5d765dea629a8a3a12063c02c54028348cd7dce9651064671bf",
+   "size": 3255
+  }
+ },
+ "files_optional": {
+  "1503323020.jpg": {
+   "sha512": "c7685ff3fe8f2c7f1f2219f0e05fe661c069f4bf94adbac17d4122a887ebf20e",
+   "size": 20360
+  },
+  "1503400733.jpg": {
+   "sha512": "1d5749bb2ff38cc4014e51adb31ee20c005f98f58a67ba72ddf6a1ac626c6ad5",
+   "size": 176703
+  }
+ },
+ "inner_path": "data/users/18GX2r87ijKZZfTDyAD5ArfQQWHA9PgC1Q/content.json",
+ "modified": 1503603170,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "18GX2r87ijKZZfTDyAD5ArfQQWHA9PgC1Q": "HOAN6E0ol1qtsKlps1lGdJmHA+5Pur1w6nIu9SLlzTGcKsB5rINQ3x5tohCl6JMtOuVo3pNPysEFzk+sMmjtyxU="
+ }
+}

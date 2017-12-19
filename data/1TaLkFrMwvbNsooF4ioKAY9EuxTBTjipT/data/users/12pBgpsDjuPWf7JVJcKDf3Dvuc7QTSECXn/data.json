@@ -1,0 +1,71 @@
+{
+	"next_topic_id": 4,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "内容签名失败是什么鬼？",
+			"body": "在zerome上发帖或者fo人，完成一项操作右上角就会弹出红色字体窗口。",
+			"added": 1504711857
+		},
+		{
+			"topic_id": 2,
+			"title": "zerome是怎样设置昵称的？",
+			"body": "我看中文用户有中文名称",
+			"added": 1504839375
+		},
+		{
+			"topic_id": 3,
+			"title": "Zeronet没有Message功能吗？",
+			"body": "还是说，只是没有集成在ZeroHello页面啊？",
+			"added": 1504839552
+		}
+	],
+	"topic_vote": {
+		"1_12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": [
+			{
+				"comment_id": 1,
+				"body": "> [kai0](#comment_239_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 应该是你被公钥屏蔽了，这个就是我不喜欢去zerome的原因。\n\n屏蔽？为什么会出现这种情况呢，违规操作了吗？",
+				"added": 1504774415
+			},
+			{
+				"comment_id": 2,
+				"body": "> [kai0](#comment_240_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 你是反共人士吧？\n\n啊？什么鬼。。。  这和反不反垬有关系吗？不是啦，真正反垬的人士没有空捣鼓zeronet吧。哈哈哈哈哈。。。 我只想知道弹出窗口怎么解决。。。",
+				"added": 1504782783
+			},
+			{
+				"comment_id": 3,
+				"body": "> [kai0](#comment_241_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 自己的网站出现这个问题应该是要调整容量了。文件在data/user/中的content文件。把permission_rules    files_allowed: data.json    max_size: 20000 改成10000000\n\n在zerome上出现这种情况要怎样解决啊？我把文件夹删除了重新激活还是一样。。。",
+				"added": 1504835475
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kai0](#comment_241_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 自己的网站出现这个问题应该是要调整容量了。文件在data/user/中的content文件。把permission_rules    files_allowed: data.json    max_size: 20000 改成10000000\n\n右上角弹出窗口的内容：\n“内容签名失败\nInclude too large 68634B > 50000B”",
+				"added": 1504838716
+			},
+			{
+				"comment_id": 5,
+				"body": "> [kai0](#comment_242_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): zerome受别人控制，你没办法。\n\n尼玛。。。  强迫症受不了这种，没有原因的吗，也是容量问题？",
+				"added": 1504839076
+			}
+		],
+		"3_12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": [
+			{
+				"comment_id": 6,
+				"body": "> [ewingz](#comment_2_1LX4XMnuAVZzb6Ahd1ccwkienGB6iBL7fW): message的功能可以通过zeromail实现\n\n操作不够直接啊",
+				"added": 1504938221
+			}
+		],
+		"2_12pBgpsDjuPWf7JVJcKDf3Dvuc7QTSECXn": [
+			{
+				"comment_id": 8,
+				"body": "> [vpei](#comment_12_1C1EuEPhpe2B2g3Cp7aaUR8SKL8ximZ5pR): 鼠标放左上角下面一点的用户名上，会出现一个小笔，点下就可以修改了。\n\n知道了，谢谢",
+				"added": 1504939320
+			}
+		]
+	},
+	"comment_vote": {}
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GwzdBRLWSvhpyORi0QCuzJCy2UF9wZ402xUeecdbOvgNke5e6/1tG4XC5aOKU0vqioLqh5kKmAFDcJwg75wD6TY=",
+ "cert_user_id": "parallax@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "95e493b3730c72d1a56fd60f922f2c067a73f6a55be8dccc073415e70bafaa53",
+   "size": 1642
+  },
+  "data.json": {
+   "sha512": "bd6c856f429f5ff84ae72ac953b20b158fdf64c290b3866f2087d1076d3044ae",
+   "size": 2544
+  }
+ },
+ "inner_path": "data/users/1MCsuaWbHen3B6XtssFMPn2aD7rB8iT6bp/content.json",
+ "modified": 1504006491,
+ "signs": {
+  "1MCsuaWbHen3B6XtssFMPn2aD7rB8iT6bp": "Gw3Zo3W2avI47vxuCkapv+7TUnJ1MVU2wQoMi4IjoUu9FPnwHgoY9qT/zBvG6erJMupxVI7PbW4QhBxqLpu0MWo="
+ }
+}

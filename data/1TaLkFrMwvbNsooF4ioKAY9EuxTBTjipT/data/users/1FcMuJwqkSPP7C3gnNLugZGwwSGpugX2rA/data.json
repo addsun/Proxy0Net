@@ -1,0 +1,48 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"5_1tdPArKBRcAcJxnKWHbAv6NuXP4rZmRSR": 1,
+		"5_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"38_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"2_1Lvkcqq796u3e3UAMxJxo7RZLzjvnR9bbE": 1,
+		"6_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"5_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 1,
+				"body": "Good idea. But cant login. Link to Sing in dont active.",
+				"added": 1507027498
+			},
+			{
+				"comment_id": 2,
+				"body": "> [krixano](#comment_33_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Have you visited the site before. If you clicked the signin before and clicked to login but didn't complete the registration, it will do that. Also, if you're account was already selected but you didn't go through the registration process, it will also do this (I am aware of these particular issues and am still trying to figure out how to fix it - this is also why I haven't added the ability to change user yet). What you could do is, while on the zite: [...]\n\nFrom console, both fields are filled in, and press **Next** button\n\n```\nUncaught TypeError: this.existingUsers[i].value.toLowerCase is not a function\n    at a.showNext (bundle.js:23447)\n    at a.n [as showNext] (bundle.js:21045)\n    at click (eval at pi (bundle.js:21045), <anonymous>:2:2513)\n    at HTMLButtonElement.e (bundle.js:21045)\n```",
+				"added": 1507042667
+			},
+			{
+				"comment_id": 4,
+				"body": "> [krixano](#comment_35_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I just did something that might fix it. Can you try again, using the same steps I posted in my previous comment? [...]\n\nThat work, thanks.",
+				"added": 1507215337
+			}
+		],
+		"1_1CgkYcGEeiovWDTK7RrPcfXMibaKsBFtGp": [
+			{
+				"comment_id": 3,
+				"body": "Probably, euronews more interesting.",
+				"added": 1507214837
+			},
+			{
+				"comment_id": 5,
+				"body": "> [marxistleninist](#comment_6_1626jBiKnxjqtA1UJrSQEF1zWk3CMHZrLR): I would imagine CGTN as China is not a imperialist state (in the strictest sense) as compared to Euronews. Which is probably a EU platform for pushing their imperialist agenda.\n\nDo you really think west media, can be objective about China, Russia, Iran etc?",
+				"added": 1507313663
+			}
+		]
+	},
+	"comment_vote": {
+		"44_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"33_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1
+	}
+}

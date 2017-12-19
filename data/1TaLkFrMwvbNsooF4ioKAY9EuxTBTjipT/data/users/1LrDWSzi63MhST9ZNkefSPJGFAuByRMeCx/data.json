@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 3,
+	"comment": {
+		"1513170471_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 1,
+				"body": "Translation is actually a hard problem to solve, Google translate is so good because they have many engineers working on it and huge computers to train their translator programs. We could probably get some simple translation program working on ZeroNet but it would be not very good quality and also quite slow because running in the browser in javascript. You're probably better off just using Google translate through Tor, although I understand that this doesn't solve the privacy problem as they probably do record all of what you input in it.",
+				"added": 1513172384
+			},
+			{
+				"comment_id": 2,
+				"body": "This is a problem with Google which is fucking anoying: they've made themselves indispensable to us by being the only ones to provide quality services for things such as translation, search (most other search engines aren't as good) and some other things, simply by throwing huge amount of computing power at the internet and then privatizing all the data they collected. I've recently hit the same problem with Google Scholar, which is the best database for scientific litterature and which we absolutely cannot use for anything else than what Google wants us to use it (I wanted to do some analysis on research topics and put them in a graph so that we can see the connections)  - we just can't get the data! So fucking anoying.",
+				"added": 1513172714
+			}
+		]
+	},
+	"comment_vote": {
+		"214_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJZL6koi7Is9v2drdJLa36YlBdMHxjXWGtOxXL7RXbG087OAehDBzV1ebtz7H5MaUfNnFcOqZg6nwE7IJ5uKIdc=",
+ "cert_user_id": "markram@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "16180b020779605051e1feee071397b3643c269851d3d84208ba9aa0b1f79b1c",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1cVnhridffZvBbin7umFKM1VndkPVKHnj/content.json",
+ "modified": 1511327335,
+ "signs": {
+  "1cVnhridffZvBbin7umFKM1VndkPVKHnj": "Gz5ydWkQLba0y+zggqN2nH3aCStg2IC/b+VI8cnOnWyKFgxbn+B7sD6khqCQmSyrofJ37JfWLfw+f6BrXGpvVW8="
+ }
+}

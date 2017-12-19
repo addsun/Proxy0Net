@@ -1,0 +1,542 @@
+{
+	"next_topic_id": 10,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "ZeroStore ZeroCart ZeroMarket Shopping Carts on ZeroNet",
+			"body": "Hi, I dreamt up some ideas for how to have a store on ZeroNet, somewhat in line with ZenCart but \"simpler\". \n\nThe orders can be public-key encrypted, so even though everyone is sharing them in the database, only the seller can see what they are.  \n\nThe payment method can be through any cryptocurrency. The site can be preloaded with addresses, so that each order gets it's own address, and that way can more easily track who paid for their order -- alternatively the sending address would have to be provided by whoever is requesting the product or service.  Could probably even accept paypal, though I wouldn't recommend credit card, since the details would be shared by everyone, even if encrypted. \n\nThe seller can be notified of new purchases by having a bot on their zeronet instance checking for them, and then sending an email once it detects a new order. \n\nOne of the issues would be with obsolete stores, or those which are no longer maintained.  One way to mitigate that would be for the buyer to wait for a confirmation email from the seller before paying. \nI don't know if zeromail has bot handles, but if it does then that could be a possible alternative.\n\nAnother option would be to have a ZeroMarket place with multi-signature transactions.  So could have the same level of buyer/seller protection as Paypal.  For example a buyer makes an order, and puts it into a buyer-seller escrow, the seller then ships the item,  once the item has arrived in good working order, then the buyer finishes the transaction and-or writes a review,  if there is some problem the marketplace admins can either refund or give funds as appropriate.",
+			"added": 1482677967
+		},
+		{
+			"topic_id": 2,
+			"title": "How to load json with javascript in zeronet?",
+			"body": "I'm making a new search engine. trying to use xmhttprequest to load file and it says.\n\n\"Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at http://127.0.0.1:43111/1SearchPd3khzLtsxTxKYhYUohk7c1QYd/knowledge/0list.json. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing).\"\n\nSo how do i access other files?",
+			"added": 1498999927
+		},
+		{
+			"topic_id": 3,
+			"title": "Monetizing ZeroNet (Making money from ZeroNet)",
+			"body": "I see two ways of making monetizing ZeroNet. \n\n1. ZeroNet VPN\n\nThe first is something many people could do.   We've had some free clearnet portals of ZeroNet in the past, but likely due to the high level of traffic they weren't able to cope and closed down.  One possibility is to make a portal with a ZeroNet portal with a paywall through a VPN, possibly over the tor network.  This would be particularly useful for mobile devices, and for people that don't want to be storing and sharing the content which they visit.\n\nFor providers of this service, the main thing to think about, is where to store such servers. It would have to be either countries which don't mind the content on them, or have sufficiently strict privacy laws that they wont check whats on them.   Of course in any case it will be best to encrypt the ZeroNet partition, and it would need a large amount of space. \nIf using the tor network for the VPN, then the physical location of the server shouldn't matter too much, so long as there are proper encryption mechanisms in place. \n\n2.  ZeroNet Coin\n\nThe second method is a little bit more involved, and would probably require co-operation of @nofish.  The purpose of the ZeroNet coin, could be avoid certain forms of DDNS which ZeroNet may still be prone to, such as if there was a botnet of modified ZeroNet clients, which only pulled content, and did not share it -- which could if there were enough of them, overload certain websites and make them hard to access for normal users. \n\nThat form of DDNS could be circumvented by serving people that make donations with ZeroNet coin first.  Much like GridCoin, ZeroNet coin could be a reward for contributing bandwidth and storage to the network (for free). The clients would have to be modified so that they would keep track of who gave them how many kiB at what average speed (maybe even what sites). Then some kind of trusted peer consensus would have to be reached, to avoid clients pretending they got stuff to game the system. Several trusted peers can check if they get similar results from that host over a period of time (to also gauge uptime).  \nThere can probably some process of how a peer goes to become a trusted peer, based on having results like the other trusted peers for a certain period of time. \n\nAnyways, that's just an idea, would have to be fleshed out by some people more familiar with modern cryptocurrencies.",
+			"added": 1499258345
+		},
+		{
+			"topic_id": 4,
+			"title": "ZeroNet Archive",
+			"body": "One thing I've noticed with ZeroNet is there is very little content.  After downloading all the zites I could get a hold of for my filling my search engine,  the sum total is 3.1GB, and there are 1858 zites. \nOne way I was thinking that can increase the amount of relevant content, and increase the value of ZeroNet, is to make it similar to archive.org.\n\nCan read more at my blog:\nhttp://127.0.0.1:43110/1BLogoyFMSLpVbdJUThDkDui6bEESrbTmW/?Post:3:New+blog+post",
+			"added": 1499995121
+		},
+		{
+			"topic_id": 5,
+			"title": "Zirch Automated ZeroNetwork Search",
+			"body": "Made a new search engine, I believe it is the first fully automated zeronetwork search which uses a crawler to find all available zites and systematically index them. Have over 2000 zites available. Tell me what you think. \nIt is zirch.bit for quick access\nhttp://127.0.0.1:43110/zirch.bit\nhttp://127.0.0.1:43110/1SearchPd3khzLtsxTxKYhYUohk7c1QYd",
+			"added": 1500347322
+		},
+		{
+			"topic_id": 6,
+			"title": "Zirch Search Engine 3100+ zites, now Sorted by Peers.",
+			"body": "It's been a long time coming, but I finally added support for sorting by peers\nhttp://127.0.0.1:43110/zirch.bit\nThanks @Kaffie for your grab.py script and user friendly documentation.",
+			"added": 1501587982
+		},
+		{
+			"topic_id": 7,
+			"title": "How to use IPFS from ZeroNet",
+			"body": "Hi,  are there any good tutorial how to use IPFS from Zeronet? \nLike if I have big files I want to host on ipfs, that I want to use with my zeronet website?\nThanks in advance.",
+			"added": 1503407067
+		},
+		{
+			"topic_id": 1509939880,
+			"title": "SingularityNet: A Platform for the Decentralized AI Economy",
+			"body": "Hey guys, Blockchain P2P AI Network, led by the famous Ben Goertzel and Sophia Robot (the One that was granted Citizenship in Saudi Arabia),\nwhitepaper is out, will have token sales maybe December.\nMain site:\n\"The free and open market for AI technologies, built on smart contracts. Create, combine and monetize AI technologies at scale.\"  https://singularitynet.io/\nWhite paper:\nhttps://public.singularitynet.io/whitepaper.pdf\n\nIf you want I can mirror any of that stuff on ZeroNet if you have trouble accessing from where you are.",
+			"added": 1509939872
+		},
+		{
+			"topic_id": 1511280941,
+			"title": "Chronicles from the Future: New World Order's Genocidal Prophecy",
+			"body": "Including their plans to exterminate all Asians!\nhttp://127.0.0.1:43110/1vLoKesxKQDnLFrmJDoUXyrWX1h2YwSGJ/syun/2017/11/21/Chronicles-from-the-Future.html",
+			"added": 1511280932
+		}
+	],
+	"topic_vote": {
+		"8125_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"1_1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": 1,
+		"1_19QPCwraXEKFWsgWGCh7hgb3ActpZrmd3W": 1,
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": 1,
+		"4_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1
+	},
+	"next_comment_id": 67,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "yeah, zeronet is a lot faster than freenet. like whoosh",
+				"added": 1474510982
+			}
+		],
+		"1_1LE1ngFyG62KJC1Q7G2xyZGjaB2QubXSi9": [
+			{
+				"comment_id": 2,
+				"body": "If you have BTRFS, can use snapper, then you will always have backups of all your stuff, including whatever the messages are on this site.  Simply can roll back to the latest version that had all the files/messages intact. \nThen can seed a new forum with it. \nIf the .bit domain is Not compromised, then can simply flow over to the new one by changing the zeronet: entry,\nIf the .bit domain is compromised, then will need to use a different one.",
+				"added": 1474858022
+			}
+		],
+		"1_18jipjDsfAxAuq4ixbi2w24xJrYVfTYFPn": [
+			{
+				"comment_id": 3,
+				"body": "Canada",
+				"added": 1481030044
+			}
+		],
+		"1_1H8x2Aeu28Lnj6vhXFNZ32kpvGS6dnqWGA": [
+			{
+				"comment_id": 4,
+				"body": "I've had visions about something like ZeroNet for over a decade, I think it is the future of the internet. DDOS proof and uncensorable, zites are much like word-of-mouth knowledge, people learn it, and then can share it with others. So the more people that know, the easier it is to learn it.",
+				"added": 1482684517
+			}
+		],
+		"1_1LogBQ7aRYS9KNPZx2nrNKserBBAL5XhyD": [
+			{
+				"comment_id": 5,
+				"body": "I honestly can't believe people are talking about pizzagate like it was anything other than discussion about pizza.\nOnce you lend credence to something so far out an thoroughly debunked, you are obviously not interested in reality.",
+				"added": 1482849653
+			},
+			{
+				"comment_id": 6,
+				"body": "> [sthetz](#comment_33_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9): Not a single bit of suggestive evidence was \"debunked\". Not one bit. Are you a pedo supporter?\n\n\"suggest evidence\"? that's not evidence .\n> [planespherev2](#comment_128_1C9BTLZFTprZPJXkg9vPuZLBr3LeaxB7nj): You're either stupid or a pedophile.\n> https://www.youtube.com/watch?v=oHXBrEXmowo\n> https://www.youtube.com/watch?v=vlhBn_zSIrory\n\nSorry I don't waste time with conspiracy videos. \nI'm willing to skim some text if you give me links. \n\n> [sthetz](#comment_33_1BNmjz9tBLY3M1tq2z7DKvA1LjFXYsmLd9): Not a single bit of suggestive evidence was \"debunked\". Not one bit. Are you a pedo supporter?\n\n\"suggestive evidence\" is not evidence, it is just conjecture.",
+				"added": 1482851060
+			}
+		],
+		"1_125b8FxS36xSSCHkvZEhimvF5KPxjckS7o": [
+			{
+				"comment_id": 7,
+				"body": "Hitler was a Christian, through and through. He loved Jesus everyday, and followed in the genocidal footsteps of the old and new testament.",
+				"added": 1482851272
+			}
+		],
+		"1_1A4zF6rpFeUPPfA9xNBU4pPt3PwvXu1EZT": [
+			{
+				"comment_id": 8,
+				"body": "> [aboutislam](#comment_3_1A4zF6rpFeUPPfA9xNBU4pPt3PwvXu1EZT): Forgiveness is strength\n> Generally speaking, I’m lousy at forgiveness. At any given moment, I’m holding tight to a grudge or two, and there’s always another in my mind’s on-deck circle. \n\nLojong:\n\n    Slogan 30. Don't be so predictable -- Don't hold grudges.",
+				"added": 1483299927
+			}
+		],
+		"1_18cM73o7JT8droWw6aZHN85bRkJJMYCpw3": [
+			{
+				"comment_id": 9,
+				"body": "It's not too many! it's a great amount! I was always concerned that I couldn't see enough chinese people on the internet. Because of the great firewall of China. But because of ZeroNet I can see chinese people on the internet! it's fascinating :-D",
+				"added": 1498478160
+			}
+		],
+		"10_1DLHbq2nvwpgU4xT3ajhABAW1Lfn3zTZhe": [
+			{
+				"comment_id": 10,
+				"body": "it was livecoding.tv but they \"expanded\" because some people wanted to teach other things and it became liveedu.tv",
+				"added": 1498589696
+			}
+		],
+		"1_18JuREUrfUPwdwJLPA336tSjVaap8VSZp4": [
+			{
+				"comment_id": 11,
+				"body": "You can also simply not visit illegal/unethical websites, and thus you wont even download them in the first place.",
+				"added": 1498871695
+			}
+		],
+		"2_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 12,
+				"body": "Hi @nofish, \n\nThanks,\nI also wanted to express my gratitude for you making ZeroNet,\nIt's really an amazing thing, and I think it's the future of the internet. \nI've been envisioning something like it for the longest time, but lacked the technical expertise. \nThank you for making the world a better place by creating ZeroNet. \n\nLove, joy and gratitude.",
+				"added": 1499052586
+			},
+			{
+				"comment_id": 15,
+				"body": "Hi, I do have to admit however that I find the documentation to be somewhat daunting because the examples are in coffee script, and I'm not sure how to translate them into vanilla javascript. \nAdding the coffee script learning curve to the zeronet development learning curve really hurts. \n\nMaybe there is some kind of way of compiling that coffee-script into javascript which most people will understand?\nhmmm. I found coffee -c compiles to javascript. I guess that is an improvement. \n\nNot sure if you could just make a script to go through the docs and add javascript alternatives, so people aren't as mystified when they look at the examples. \n\nIf there was a ZeroDoc wiki, I guess I could add the javascript for the examples I use.",
+				"added": 1499117124
+			},
+			{
+				"comment_id": 16,
+				"body": "here, I made a minimal example:\n\nvar page = new ZeroFrame();                                                      \npage.cmd(\"fileGet\", \"knowledge/0list.json\", function (data) {                    \n  var websiteList = JSON.parse(data).websiteList;                                \n  console.log(\"first website \" + JSON.stringify(websiteList[0]));                \n});",
+				"added": 1499128225
+			},
+			{
+				"comment_id": 17,
+				"body": "@evo thanks, but I find both python and coffeescript to be very difficult because they rely on whitespace to convey meaning. So looking at the overview does not mean I'll be done, it just deepened my feeling of intimidation.  I can't pronounce symbols and-or whitespace in my head (meaningfully) so I really dislike when languages use symbols/whitespace to convey meaning instead of words, and coffeescript seems to like doing so .   Every symbol/whitespace that is used to convey a meaningful construct deepens my dislike of a language. \n\nIn part because of this difficulty I'm working on a programming language based on linguistic universals, that uses Zero symbols/whitespace. In fact don't even need to have spaces in between the words. Additionally it allows for translating between all human languages with high precision, so I hope to employ it on ZeroNet to help with translation, so for instance Chinese and English speakers could use the same forum seamlessly -- while also generating valid programming code. \n\n@nofish thanks I did follow the ZeroChat tutorial, it was good thanks. Though afterwards when I went to look at the API is when I ran into problems with coffeescript examples.   Fortunately by using the coffee -c compilation I was able to compile it into something that made sense to me.",
+				"added": 1499169643
+			}
+		],
+		"1_1GswNiY1YMA8KiwHnSrJENYc6T5UBenmab": [
+			{
+				"comment_id": 13,
+				"body": "yes, there is an android version. https://play.google.com/store/apps/details?id=net.mkg20001.zeronet",
+				"added": 1499052778
+			},
+			{
+				"comment_id": 14,
+				"body": "uh, well most people don't really need to understand addresses. bookmarks is about as far as technologically challenged people understand things. \n\nThe hardest part would be teaching them to start zeronet Before clicking on the bookmark. Or starting it at all, if it has a GUI interface, or some icon to click on, then it would be easier for a lot of people. Feel free to contribute.",
+				"added": 1499052987
+			}
+		],
+		"1_1EbCmWB1LcB6NdJhRBhu6krKCs3gZhePzp": [
+			{
+				"comment_id": 18,
+				"body": "How is it different from http://127.0.0.1:43110/zerome-reloaded.bit/ ?",
+				"added": 1499297770
+			},
+			{
+				"comment_id": 30,
+				"body": "I can't use peeper because it is not compatible with dark theme. \nthe black text on white hurts my eyes.",
+				"added": 1500244377
+			}
+		],
+		"3_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 19,
+				"body": "@kaffie, I completely agree with you in terms that it should be optional.  It works just fine without cryptocurrency.  \nSimilar to BOINC, it works just fine without a cryptocurrency, but for those people that are interested, they can be rewarded Gridcoin for contributing to BOINC. \nSo for instance vanilla ZeroNet could be sans cryptocurrency, but could have a version that has support for it also. \n\nI'm not really sure how a 51% attack would work, if you could explain that to me, would be great. Thanks",
+				"added": 1499298160
+			},
+			{
+				"comment_id": 21,
+				"body": "> [kaffie](#comment_375_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): If you own 51% of the mining power of a blockchain, you can control what happens. It's a huge problem for bitcoin and other large cryptocurrencies that have become centralized as difficulty rose. For smaller currencies it becomes an easy target, depending on the number of nodes. [...]\n\n\"Gridcoin has eliminated the possibility of a 51% attack, an attack on a standard Proof-of-Work coin, which involves a single entity owning a minimum of 51% of the total network hash rate. To attack Gridcoin in a similar way, the attacker would have to make a 51% buy-out, meaning he needs to own 51% of all the coins. In addition to the 51%, the attacker would have to buy and hold the cumulative stake weight of all nodes with fewer than 30 blocks staked. Since interest is being payed to those who let their nodes run for the network, transaction fees are not needed in theory. However they are still enforced to prevent transaction spam on a single node.\n\n\"These improvements were already made by Blackcoin, which Gridcoin, in an effort to keep up with current technology has implemented. Blackcoin also included the [Zerocash] protocol, a process enabling anonymous transactions.\"\n\n\n> Personally, I think if ZeroNet was going to add a cryptocurrency, why not just include a basic bitcoin wallet, or namecoin wallet? All the core dev-work is there, it's massively popular and watched like a hawk, and it'd fit right in with zeronet addresses/users by default. \n\nWell Namecoin addresses start with an N, so they are different than the Bitcoin addresses used by ZeroNet. \nAlso Bitcoin transactions fees are so high that it doesn't make sense for micro-transactions, the transaction fee for bitcoin was about 1 NMC last time I checked, much higher than even bank e-transfers. \n\nAlso the whole point of having a ZeroNet cryptocurrency is to reward people for seeding ZeroNet. It would be impossible to do with a foreign currency as we would actually have to buy that currency, in order to use it to reward people. \n\nThough a modification of gridcoin could work, where instead of having work-units for helping science, it would be work-units of serving clients.\n\n\"Gridcoin features Proof-of-Research (POR) algorithm, in partnership with Berkeley Open Infrastructure for Network Computing,[3] commonly known as BOINC (pronounced /bɔɪŋk/ - rhymes with \"oink\"). This protocol rewards users of the network once they have completed the computational work unit (WU) in BOINC by linking their Cross-Project ID (CPID) to their Gridcoin wallet. The reward for computation is a proportional payment of Gridcoin (GRC) based on calculations involving the user's recent average credit (RAC).\"\n\n\"Gridcoin is created daily from two activities, Proof-of-Stake and Proof-of-Research. Proof of Research is produced at a targeted rate of about 50,000 coins per 1000 blocks. A factor is used to adjust rewards to achieve this target and is called a Magnitude Unit and is stored in the blockchain. If the number of coins generated is too low the Magnitude Unit increases, this increases the number of coins paid for a certain magnitude, if the number of coins generated is too high the Magnitude Unit decreases, this decreases the number of coins paid for a certain magnitude. This has the effect of balancing Proof-of-Research payments with Proof-of-Stake payments. Effectively, if fewer researchers are helping to secure the network, the incentive is increased. \"\n\n> With a ZN-specific coin, nofish's time and effort would be even more divided than it already is.\n\nYes, I agree it would make most sense if someone familiar with GridCoin development or at least cryptocurrency development was to spearhead that.   It can be completely or partially independent of ZeroNet main branch. \n\nIf there was a selective clear-net passthrough, (where only particular websites are served to the clearnet),  then ZeroNet could get paid for hosting certain large/commercial clearnet websites,  the coin software would then distribute the coin based on who served what. \nOf course there would have to be a whole extra layer for verification, such as the web clients sending the serving a main server the hash of the site they received, to make sure they got the whole thing. \n\nThis would make ZeroNet kind of like the ultimate cloud hosting solution.",
+				"added": 1499464643
+			}
+		],
+		"5_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 20,
+				"body": "Dell XPS15 while running BOINC (load average > 4)\nBenchmarking ZeroNet 0.5.6 (rev2128) Python 2.7.13 (default, Jan 19 2017, 14:48:08) [GCC 6.3.0 20170118] on: linux2...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.112s [x6.27: Insane!!]\n- sign x 10..........0.194s [x1.81: Fast]\n- openssl verify x 100..........0.069s [x5.39: Insane!!]\n- pure-python verify x 10..........0.138s [x11.62: Insane!!]\n\nCryptHash:\n- sha256 5M x 10..........0.153s [x3.93: Insane!!]\n- sha512 5M x 10..........0.124s [x4.83: Insane!!]\n- os.urandom(256) x 1000..........0.003s [x2.25: Fast]\n\nMsgpack: (version: 0.4.8)\n- pack 5K x 10 000..........0.182s [x4.28: Insane!!]\n- unpack 5K x 10 000..........0.299s [x4.02: Insane!!]\n- streaming unpack 5K x 10 000..........0.321s [x4.36: Insane!!]\n\nDb: (version: 3.16.2, API: 2.6.0)\n- Open x 10..........0.006s [x22.44: Insane!!]\n- Insert x 10 x 1000..........0.376s [x2.66: WOW]\n- Buffered insert x 100 x 100..........0.442s [x2.94: WOW]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.048s [x5.21: Insane!!]\n- Not indexed query x 100..........0.121s [x4.96: Insane!!]\n- Like query x 100..........0.269s [x6.68: Insane!!]\n\nCompression:\n- Zip pack x 10..........0.042s [x2.85: WOW]\n- Zip unpack x 10..........0.048s [x4.18: Insane!!]\n- Tar.gz pack x 10..........0.113s [x2.65: WOW]\n- Tar.gz unpack x 10..........0.079s [x2.53: WOW]\n- Tar.bz2 pack x 10..........1.030s [x1.94: Fast]\n- Tar.bz2 unpack x 10..........0.208s [x2.41: Fast]\n\nDone. Total: 4.69s",
+				"added": 1499298453
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 22,
+				"body": "Owen Sound, Canada",
+				"added": 1499475363
+			}
+		],
+		"1_1PmhvqNCvuZCTE36ycrp7Qa9gQW1tF3AAF": [
+			{
+				"comment_id": 23,
+				"body": "Zeronet is the ultimate p2p web hosting solution. \nTor is used by zeronet for anonymity -- if desired.",
+				"added": 1499621601
+			}
+		],
+		"1_13kimmZahuVSK16LDm8LLLMFQ2zyCLGKzD": [
+			{
+				"comment_id": 24,
+				"body": "yes, you just need to make a modified client, that doesn't share, and then get about 15 thousand of them, and you might be able to take down one zite",
+				"added": 1499623604
+			},
+			{
+				"comment_id": 25,
+				"body": "> [gdd](#comment_70_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA): DDOS to 127.0.0.1:43110 ？yes， it's very good idea！just do it，you'll made the most great success！\n\nLOL! 😂",
+				"added": 1499657416
+			}
+		],
+		"68_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 26,
+				"body": "you can clone ZeroBoard http://127.0.0.1:43110/Board.ZeroNetwork.bit/\nOr you could follow the tutorial for making your own ZeroChat http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial",
+				"added": 1499657514
+			}
+		],
+		"1_1ADYd7UhXNnbWtBfs5Hv1ZCAn1sDMAyM4U": [
+			{
+				"comment_id": 27,
+				"body": "zerome can be run on smartphone\nhttps://play.google.com/store/apps/details?id=net.mkg20001.zeronet\nalso github:\nhttps://github.com/HelloZeroNet/ZeroNet-kivy/releases\nI can make a torrent if you don't have access to those\n\nHowever it doesn't support tor network (yet)\n\nSome people have had success running zeronet in termux,\ntermux has tor, so it might work.",
+				"added": 1499994281
+			}
+		],
+		"1_1GqZJYT5gnKsqRb3vxcEbyHH1eQViBJRNU": [
+			{
+				"comment_id": 28,
+				"body": "If you want to develop ZeroNet, then you should learn python, \nif you just want to make a zite html should be enough,\nthough javascript could help. \n\nThere is a new beta of the chinese documentation. \nbut I can't find it right now..\nthere is also https://github.com/HelloZeroNet/ZeroNet/blob/master/README-zh-cn.md\n",
+				"added": 1499995685
+			}
+		],
+		"4_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 29,
+				"body": "> [zc456](#comment_2_1A6rok3j9w6paahtGoxrePy7SSkMz5A48s): But isn't ZeroNet itself an archive because everyone has a copy that can easily be cloned?\n\nYes exactly, ZeroNet is good for archival purposes. \nI'm saying we should make it easy for people to archive stuff using ZeroNet. \nsuch as by having a Firefox Addon.",
+				"added": 1500078222
+			}
+		],
+		"5_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 31,
+				"body": "@akito yeah, sorting by peers is still on the todo list. I also have a second dev working on it.  here is the gitlab https://gitlab.com/liberit/zirch/tree/master",
+				"added": 1500348007
+			},
+			{
+				"comment_id": 32,
+				"body": "awesome, while I was sleeping it added 50 new zites! \n@kaffie @peeper yeah I don't really see how merging would work. I'm sure most/all the zites listed on kaffiene are also on zirch. \nThe trouble with maintenance is when you have to do it by hand, as it seems most search engines were doing.  That is why I automated it as much as possible. \n@peeper it is not obvious how translation works in ZeroNet, are there any tutorials? Do they all need to be in coffee script?  Cause me and coffee don't mix.",
+				"added": 1500377660
+			},
+			{
+				"comment_id": 33,
+				"body": "> [kaffie](#comment_400_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Kaffiene has backend scripts to fetch sites without metadata (just name/address/peers).[...]\n\nSo how does your bot fetch the peers? is the source available for it?\n\nIt also grabs the titles, description and domain from the content.json.   They are raw text grabs, but still better than no preview at all.  The sites which heavily rely on javascript are harder to grab from.  Though I have considered making a keyword grabber, or unique word grabber, it would be nearly impossible for chinese because all the text is stuck together.",
+				"added": 1500382889
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 34,
+				"body": "well there could be workarounds, and as long as you have tor, you can still use zeronet.",
+				"added": 1500468791
+			}
+		],
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 35,
+				"body": "> [helium47](#comment_2_16UaF2mYg79TtamgJSTFRKSeNdAiRbMFgx): it respects your freedom and privacy [...]\n\ndiaspora/gnusocial doesn't count, it's not P2P.\nThe servers always wanting donations to cover hosting costs. \nThey popular ones often going down from overuse, \nand many are deadlinks. \n\nthat model is deprecated, doesn't work.  \n\nMuch better would be if ZeroMe had OStatus support,  maybe with some kind of plugin.",
+				"added": 1500818063
+			}
+		],
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 36,
+				"body": "> [freedonn](#comment_8_18DExvnWNRp3xKFDmxuQtDKAnyhpE6e5xv): In principle, every site contains / and 43110. Why I just got 971 ?How can I get every site URL ?\n\nhttp://127.0.0.1:43110/zirch.bit/knowledge/realAddress.txt",
+				"added": 1501614225
+			},
+			{
+				"comment_id": 38,
+				"body": "> [michaelwesten](#comment_2_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6): @elspru: If you've got GNU grep, allow me to present a superior regex: [...]\n\nthanks @michaelwesten  I tried it, however it gives me a lot of difficult to use addresses and strings. \nmost links are written in the standard format, which is converted by proxies as needed. \n\nI still added you to contributors.txt for the effort",
+				"added": 1501810893
+			},
+			{
+				"comment_id": 39,
+				"body": "> [kaffie](#comment_428_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I'm guessing it's probably due to the way zirch searches for things. Take a look at Kaffiene's full index you can see there's 2410 unique sites in just the Kaffiene index.\n@kaffie if I could get those as a static list, I could load the ones I don't already have.\n\n> So there's certainly more than that. Zirch claims over 2,000 sites, but I haven't audited it. So perhaps there really are just 971 unique sites listed.\n\nAll the zites on Zirch have been verified and contain content.json's, though not all of them have an index.html.\nSo for instance of the 2399 currently in zirch index, 61 don't have index.html files. \n\nIt is possible that @freedonn was not waiting long enough in their script, since the search results are returned as they are found, perhaps in the second or so it took his script to run, it only managed to load 900 something results.\n\nAnother anomaly I noticed, is that some zites are not accessible in tor-only mode, so I had to setup a clearnet one to get those which weren't in the tor network for whatever reason.\n",
+				"added": 1501811480
+			},
+			{
+				"comment_id": 41,
+				"body": "> [michaelwesten](#comment_3_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6): most != all [...]\n\nOkay, I was having some trouble because of trying to run it in parallel, serial it works fine. \nI fixed it up, and ran it, though so far it doesn't seem to have to increased the number of real addresses.\n\n@kaffie added yours also, same thing.\n\nthough I did that update on my tor only node, it'll be a few hours before my clearnet one updates, if any of the new addresses are clearnet only there should be an increase.",
+				"added": 1501853544
+			},
+			{
+				"comment_id": 42,
+				"body": "@michaelwesten okay it seems to have worked, as it jumped to over 3000 zites overnight.",
+				"added": 1501928648
+			},
+			{
+				"comment_id": 44,
+				"body": "@michaelwesten Thanks, I added the patch, should take effect in the next 24 hours. \nI'm not sure why you included chatting and git repo in the same sentence, as I don't see a relation.\n\nIf you want to chat can reach me at htaf@toxme.io though talking on ZeroTalk is good advertising. \nIn term of a git repo, I have one, but haven't quite figured out how to use it effectively,\nso it's really out of date. I can git init the current 1Search and use that as the repo.",
+				"added": 1502075038
+			}
+		],
+		"1_1688KSTcvYWqFhiMigh4LnUZ27KfU2W8FK": [
+			{
+				"comment_id": 37,
+				"body": "well I was a Gray alien in a past life, there are some details on my zite http://127.0.0.1:43110/bodhi.bit\nalso made a thread on it http://127.0.0.1:43110/talk.bodhi.bit",
+				"added": 1501765367
+			},
+			{
+				"comment_id": 43,
+				"body": "@nekololi lol\n\n> [butts](#comment_2_1EnBwsMpLpryB15vaFSixFPHDpfot7nRaj): is gray alien the name of a particular species or is that just a color?\n\nIt is more of a genus or family, genetically speaking they are too diverse to be considered a single species.  Basically they specialize in genetic engineering and live underground.  So various \"models\" of Grays are made for different purposes,  and each hive has it's own mix, because they harvest their own genetic material for making amendments to newer versions of various host bodies. \n\nThe Grays as a collective are sometimes referred to as the \"Orion Group\".  There is also the Draconian Empire (mostly reptilians), and the Galactic Federation (mostly mammals).  The Orion Group is full of various hybrids.",
+				"added": 1501941523
+			}
+		],
+		"4_1Np58q7bCfW7hmHuXvoYux3ij6M4Qecfb3": [
+			{
+				"comment_id": 40,
+				"body": "with obfs4 bridge on tor and using zeronet over tor you should be pretty much invisible",
+				"added": 1501814303
+			}
+		],
+		"1_15Rn4kLyQf7tKstyyW3W9DV9VtCMNc4X9P": [
+			{
+				"comment_id": 45,
+				"body": "If you load all of ZeroNet, it would be under 8GB, closer 5",
+				"added": 1502589012
+			},
+			{
+				"comment_id": 46,
+				"body": "> [ivesen](#comment_27_1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp): my zeronet directory is 40GB in size, that's nearly all of zeronet including all optional files [...]\n\nWow, how did you do that?",
+				"added": 1502589882
+			}
+		],
+		"1_1MEWJRMLgvofqG9Mbsb2Rc4hFFyv7HeRx7": [
+			{
+				"comment_id": 47,
+				"body": "if there were millions of users, there would be multiple kinds of clients, and a lot more proxies. including pay proxies.\nfor instance there could be clients that only choose to store frequently visited websites, or recently visited ones.\nand clients that don't share, or have sharing quotas.\n\nClients could have a \"privacy mode\" where zites are loaded into tmpfs (RAM), and deleted after the client closes or a shutdown occurs, destroying all evidence of ever having visited.",
+				"added": 1502590114
+			}
+		],
+		"1_1ECmsQzFruxQnUt8DWmC2SKz3xL39XgzSa": [
+			{
+				"comment_id": 48,
+				"body": "> [adb](#comment_1_1BXCYRHwwev9cdgoMdWvhgKrMvUp19p2R2): ok, let me introduce some zero sites to u, which is found by my scripts and may not interesting to u. [...]\n\nI'd like to also add zirch search engine currently indexing over 3300 zites \nhttp://127.0.0.1:43110/zirch.bit",
+				"added": 1502894795
+			}
+		],
+		"1_1M5c4n1YevPV4Z3ZVS21BzH7b56qZhcML2": [
+			{
+				"comment_id": 49,
+				"body": "Who cares really?\nIf you're Christian or Muslim you are 0% better, and likely quite a bit worse (from a faith standpoint).\nJudaism talks about genociding Amorites,  Christianity genocides non-monotheists,  Islam genocides everyone that doesn't adhere to the same branch of Islam.   \nNo wonder there are a lot more people in East Asia, people aren't as obsessed with killing each other.",
+				"added": 1503111574
+			},
+			{
+				"comment_id": 50,
+				"body": "> [jayq](#comment_1_14YZi1gMud3SpDFUUQncoW68qorXf6SPPU): Abrahamic religions really are a cesspit of trash aren't they? The world would be a better place to live in by orders of magnitude if this collection of death cults never came to exist. Desert religions have nothing to do in the West.\n\nWell, we can't change what was. but we can help shape the future. \n\nSuch as by promoting safer religions, like Mahayana Buddhism.",
+				"added": 1503197894
+			}
+		],
+		"1_1NDhNyavxhFyWJHscjPu5qYjMbpfKSDVzt": [
+			{
+				"comment_id": 51,
+				"body": "Yes, I've done it.\nFirst create a new zite,\nUse httrack to download the zite. \nSet the \"size_limit\":  to be larger in megabytes than the current size of you site,\nin for your zite in the data/sites.json file \nthen it will sign properly\n\nBut yeah, if you could do it by wiki subtopics, and have each under 10MB, this would be ideal. as some people and proxies don't automatically increase the size past 10MB",
+				"added": 1503279514
+			}
+		],
+		"7_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 52,
+				"body": "> [nofish](#comment_984_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): The if you have it started the ipfs web interface is running on port 5001, so http://127.0.0.1:5001/anything\n\nso then i simply use the usual page.cmd(\"fileGet\") or something else?",
+				"added": 1503423385
+			}
+		],
+		"2_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 53,
+				"body": "The NSA can see everything you are doing on your computer via the Clipper Chip in your CPU, either ARM's TrustZone, Intel's ME, or AMD's PSP.   Unless you have one of the old chips that don't have clipper chips, like the AMD Opteron\nor something else RYF certified. https://www.fsf.org/resources/hw/endorsement/respects-your-freedom\n\nIn the future RISC-V may be the only option if you don't want a clipper chip integrated in your computer. Though at present the HiFive  Arduino board is the only available RISC-V SoC, and it only has 16kB of RAM, (not enough for linux).\n",
+				"added": 1505610133
+			},
+			{
+				"comment_id": 54,
+				"body": "> [cosmologica](#comment_59_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): Maybe in the future old PC's equal their weight in gold.\n\nProblem is that the half-life of most computing components is between 4 and 7 years. \nSo for hard-drives it's around 5, and for CPU's it's about 7.  \nInterlagos Opteron's were released in 2011, so about 50% of first production will be defunct in 2018.\nlast production of Opteron was in 2016, (though not sure that included Interlagos), so that should be enough to get through till 2023.  Hopefully by then RISC-V will have commercially available server and end-user chips available.\n\nI know some people that try to keep 15 year old computers alive, and it is just endless toil with the soldering gun and spare parts. at the 14 yr mark only 25% of original production is still operational -- so three out of four spare parts are recycling. ",
+				"added": 1505611726
+			}
+		],
+		"2_1GmJVE6KmMyRKKfEg2aiTjCtCU5poP3Rde": [
+			{
+				"comment_id": 55,
+				"body": "> [obiwanzanobi](#comment_39_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): then explain to me why the example link below gives me the Site:1FqhRo..4N4w Content.json not exist: data/1FqhRosMouo37Z8iDpLTEPvfznBq1b4N4w/content.jsonerror?\n\ncontent not found json error is fairly common, just means your zeronet server hasn't found enough peers, or peers that have it.  usually can wait a few hours and it'll be found.  unless the original person didn't seed it to enough people. ",
+				"added": 1505706351
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 56,
+				"body": "> [kaffie](#comment_505_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): There's already a Reddit/Voat clone here.\n\nZeroVoat has been broken for months.\nAt least I can't post anything, and the last update was two months ago..\n\nIs there an operational clone (if the current maintainer can't be reached) ?",
+				"added": 1506011336
+			}
+		],
+		"1_1CZn3nsKZkKf7rfS5ykaEBtTRMnyKTLsZt": [
+			{
+				"comment_id": 57,
+				"body": "> [zeronetnull](#comment_1_19gcSvK9UuEmzzKAqfLSdPWyrriES6TG9H): I always prefer hooktube (same url) to ad based youtube :P\n\nyou could simply use firefox with the adblock.. or uBlock origin",
+				"added": 1506044799
+			}
+		],
+		"3_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": [
+			{
+				"comment_id": 58,
+				"body": "yea seriously, more violence will only make things worse.\nIt is better to educate them and convert them to something safer, like Mahayana Buddhism.",
+				"added": 1506428717
+			},
+			{
+				"comment_id": 59,
+				"body": "> [kaffie](#comment_511_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Islam has a lot in common with christianity and judaism actually. Extremists of any of those religions are arguably terrorists.\n\nWhile it does, Islam is quite a bit worse due to the condoning of Jihad or holy war. \n\nJihad Report\nAugust, 2017\nAttacks \t181\nKilled \t1016\nInjured \t1090\nSuicide Blasts \t34\nCountries \t32\n\nhttp://thereligionofpeace.com/\n\nMost muslims don't really get into their religion very much, for instance  a majority likely don't even travel to Mecca.\nThe typical profile of a terrorist is an unemployed engineer that becomes religious to find meaning in life. \nUnfortunately when people become religious in Islam, they come across the fact they are supposed to be involved in Jihad to be completely devout. \n\nBy contrast in Buddhism, to be completely devout would involve a daily meditation. In Mahayanna Buddhism, the path of the Bodhisattva is to help relieve suffering of all. Typically through compassion, setting a good example and teaching ways to relieve suffering. \n\n\n\n\n",
+				"added": 1506478673
+			},
+			{
+				"comment_id": 61,
+				"body": "> [planespherev3](#comment_265_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Convert them to Buddhism? Are you trolling? You've got balls? Talk to a random muslim about that, and see the result.  [...]\n\nYes, this is why I  support refugees and education, since then they can have a safe space to convert away from Islam to something more peaceful.\n\nPersonally, I think it would be wise to have some policy to only allow muslims in if they are willing to convert to peaceful version (non-caliphate) of Islam, or a more peaceful religion altogether.  \n\nAnother alternative, may be that they could become Islamic-Buddhists,  that way they technically haven't committed apostasy.  Though I know the Tafkir in Islamic States would kill anyone that is not of the same branch of Islam -- so it's somewhat of a moot point.  Most people that die due to Islamic terrorism are muslim -- simply of a different variety than the attacker. ",
+				"added": 1506600639
+			},
+			{
+				"comment_id": 62,
+				"body": "> [vajag88](#comment_6_1P9VFgUn4ov1WCAy3xhSWHCiFR9hjSwdrT): Before muslims, human bombs started indian buddhist - explode Ghandi and Neru families. \n\nThat's false, Tamil people are primarily Hindu, \nand there is no evidence either way what religion the Tamil faction was.\nThe Tamil Tigers for instance that caused a lot of terrorism in Sri Lanka, \nwere Hindu, however the organization considered itself Atheist. \n\nI have to admit though, that Theraveda Buddhism is somewhat \"extremist\", in that it doesn't accept other religions. Whereas Mahayana (and Vajrayana) accepts the mixing of faiths -- which is why shinto-buddhism, daoist-buddhism and even tantric buddhism (tantra was adopted from hinduism) can exist.   \n\nSo the Tamil Tigers may have felt left out because they were Hindu, and decided to try to kill all the Buddhists in Sri Lanka.  It may have been different if Sri Lanka had Mahayana Buddhism, as they could have instead become Hindu-Buddhists and thus felt included.  \n\n> Japanese kamikadze - buddhist-sintoist.\n\nhttps://en.wikipedia.org/wiki/Buddhism_and_violence\n\"As far as Buddha's teachings and scriptures are concerned, however, Buddhism forbids all forms of violence, even in extreme cases of self-defense.\"",
+				"added": 1506603661
+			}
+		],
+		"6_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 60,
+				"body": "Gab.ai and all the other stuff on the servant web is temporary. \nZeroNet and the comrade web is immortal.",
+				"added": 1506481922
+			}
+		],
+		"9_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 63,
+				"body": "How about Pyash?\nThough admittedly it's software is not ready yet, \nit is a language designed for machine translation, \nand for compute programming.  \n\nSo (once the software is ready) statements you make in Pyash will be available in hundreds of languages with similar precision as programming languages. \nOne of the best parts is you don't have to learn the Pyash words, simply the subset of your native language which is supported. \n \n\nCurrently there is an alpha version of the chat available.\nhttp://127.0.0.1:43110/1hc6tqoeAQ6B9bacSSs1uo2YN6W75Vy1a\nAlso in the works is an evolutionary programmer\nhttp://127.0.0.1:43110/1vLoKesxKQDnLFrmJDoUXyrWX1h2YwSGJ/prom/2017/09/12/Evolutionary-Programmer-Training-Teaching-Two.html\nhttp://127.0.0.1:43110/1LwonpedFh54k36SMVJ7i98GdPHL5uGkZ\nAnd C compiler\nhttps://gitlab.com/liberit/pyac",
+				"added": 1506605112
+			}
+		],
+		"3_1QDJJ9VeMGmHzrtorrpX4n9o6nQ5HDV1Hz": [
+			{
+				"comment_id": 64,
+				"body": "those are serial killers, not mob killers... \nalso Jin Ruichao is not real to my knowledge...",
+				"added": 1507238747
+			}
+		],
+		"1509939880_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 65,
+				"body": "Here is latest presentation by Ben and Sophia \nhttps://www.facebook.com/WebSummitHQ/videos/1594270310639007/?hc_ref=ARR8_e-s8k7YxVpUNCwtqhjNPLw53a0kx7A-e_OXqf0uexNhaqXRHZJeaCLSQ9rx1aM&pnref=story.unseen-section",
+				"added": 1510149792
+			}
+		],
+		"1510821243_1CxzW1WSzp2bYT7HAsLcw1wt1USDmSjHM5": [
+			{
+				"comment_id": 66,
+				"body": "Hi tiotry,\nI need help with translating an article from English to Chinese, so Asian people wont die, can you help me?\nIt would also be good practice.  Simply type out what you understand as you read it into markdown text file -- blockquote line start with > . Ask me if anything is confusing. Then post on ZeroNet, and give link. Thanks. \nhttp://127.0.0.1:43110/1vLoKesxKQDnLFrmJDoUXyrWX1h2YwSGJ/syun/2017/11/21/Chronicles-from-the-Future.html\n\nYou know, I'm thinking it is rather long.  Maybe can post link after you translate the first 260 words. Thanks.",
+				"added": 1511319699
+			}
+		]
+	},
+	"comment_vote": {
+		"3_17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC": 1,
+		"1_19tWrNwoMBrvzvskKAxcPJVXLDNUDNvx58": 1,
+		"1_17AYUJE9dqiwbi1s5tokPxks5cSgQQs2o7": 1,
+		"1_1EcApkUejvnZHEo6KGdQAiAwjxbwiS7zUL": 1,
+		"3_1BVc1i4Be8EHyQrYcxMxQiTvFzKCzstuKN": 1,
+		"2_1BSdtt43kEFpFXqY7Le3tJkC6wWSrsXryh": 1,
+		"1_1JaAYJncF8JgK4obfPrc3Xppnc7FERVm2N": 1,
+		"2_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"2_1B7tTrZWYkdiH4ogQv46AwgSJ7xQ8xZbCa": 1,
+		"1_19mi68FmXwLyDcmkgBB9XMQA2sBMuTB2FA": 1,
+		"1_1Q3wv52h6RSubdYu5aoxZzfkFHmEx9wtfM": 1,
+		"58_1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS": 1,
+		"224_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"27_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9": 1,
+		"4_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"6_1yvSQH5Z7aJra4y9s6KG2kjLeGXYhNgn7": 1,
+		"28_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9": 1,
+		"29_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9": 1,
+		"30_1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9": 1,
+		"1_1CR3B1Bwx6umZqL7H6hrbyPdXKJR7j8Mfn": 1,
+		"2_1CR3B1Bwx6umZqL7H6hrbyPdXKJR7j8Mfn": 1,
+		"6_1CdwZ24MZhBc2XNT2vAjk2MQjJuEnybP5W": 1,
+		"66_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"2_1FJCJm9PPaL2Lcfv64fSCuXXBHQcE4JdGY": 1,
+		"4_1wPAKpDFvXtwxzHJ3t5TqTtpUG5HJhVD1": 1,
+		"5_1wPAKpDFvXtwxzHJ3t5TqTtpUG5HJhVD1": 1,
+		"2_15NXsHCCfQw8BUSxnsapUH212qTtg29iFU": 1,
+		"1_19nEWFATQHGZNFsmn8PDEGdJVaH5Byw1jc": 1,
+		"939_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"940_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1GS299Xp1B4nbnjywL4PPiKGT1xz1JPGuk": 1,
+		"8_1Hd7H8VUbdieey29AGC2xLxedDiPdM7JTT": 1,
+		"377_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"378_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"401_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"106_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"426_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_14YZi1gMud3SpDFUUQncoW68qorXf6SPPU": 1,
+		"984_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"985_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1EXV2zH5U6GkSuh3vouRWUNsmsUND6JT4i": 1,
+		"1_1JvKnhxweaav9oVUzMCTyu1JreQchSJGZZ": 1,
+		"15_1HABFyuoohZ13drjwyJsECp4zDKjvggyNp": 1,
+		"16_1HABFyuoohZ13drjwyJsECp4zDKjvggyNp": 1,
+		"25_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"9_1BXrm8Bwf3e4DPasJ5L3txhjqhmwhcVdtm": 1,
+		"17_1HABFyuoohZ13drjwyJsECp4zDKjvggyNp": 1,
+		"11_1NnHJYrqyt3ru8NNtgzX5TFMs71RWg9p6f": 1,
+		"22_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"10_1GEfdZ7AyiBeEj8341JU5yZrCWCCczGDg5": 1,
+		"5_1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2": 1
+	}
+}

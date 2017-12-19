@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6g8H0fbckOveqNrFhn3zlAUXTyMdlwFeJorWegYfbXGNHcYGMvIxQlRyaPYlnmyuf8yk9X6LNxi0/hIvc6UA7M=",
+ "cert_user_id": "dayup@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "2806dfb693073a2bed85ee53d9aa40611b3ff72b02939720e381f700a7d8cd52",
+   "size": 1754
+  },
+  "data.json": {
+   "sha512": "f3369541bd9b408da9df551b24f657c6621fb4d0f973028fd9a70731ac1a94c4",
+   "size": 331
+  }
+ },
+ "inner_path": "data/users/1GhGgfVzTCn24zFDpdiNQFrRvFs7SJ6gTx/content.json",
+ "modified": 1506218249,
+ "signs": {
+  "1GhGgfVzTCn24zFDpdiNQFrRvFs7SJ6gTx": "G5pNLj8VJUdIP1jmw8VCkcAlRfWCQ4veQyNN6pEw/YsHFDEztqV6u4xwVaDkeuociinzw8hY3EObRMGPqNGfXdg="
+ }
+}

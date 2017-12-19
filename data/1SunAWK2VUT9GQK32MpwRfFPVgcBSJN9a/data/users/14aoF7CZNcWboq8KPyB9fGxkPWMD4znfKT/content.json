@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HFoquTY34GZgr7O38pTyYpGtCHnwgcncJVwKv2mS2hRfaGB6E0d6Oop8xtXDofuIEepOtv+zGukH/TrW/dWGsIs=",
+ "cert_user_id": "jamesw2000@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1b4730ff0b4ce9ff3a7c1bf21b063e8f3bb2cc5da39dabdbff258a6d6e86c1b5",
+   "size": 341
+  }
+ },
+ "inner_path": "data/users/14aoF7CZNcWboq8KPyB9fGxkPWMD4znfKT/content.json",
+ "modified": 1509678654,
+ "signs": {
+  "14aoF7CZNcWboq8KPyB9fGxkPWMD4znfKT": "HCbzjRrr0yjI2FkNwcvmOIqQYps5UoMToQuEY6xfLQDTXiiVdTw+IjC1Bh5xZAUVo+ISSv6kCBewycjN8ZKgw9A="
+ }
+}

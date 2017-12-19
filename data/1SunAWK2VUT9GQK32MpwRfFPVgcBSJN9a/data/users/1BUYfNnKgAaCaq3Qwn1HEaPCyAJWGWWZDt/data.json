@@ -1,0 +1,48 @@
+{
+	"next_post_id": 5,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Neuromancer",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508830755,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1508852055,
+			"body": "kann ich hier eigentlich #hastags benutzen?\n",
+			"date_added": 1508852053,
+			"meta": "{\"img\":\"900,674,ccccddbbaba9999cbba99aaa986988a98976a87,011234444200050066465322753893688A5328A933B8886868A6B88888C6AC8CCACB99\"}"
+		},
+		{
+			"post_id": 1509366590,
+			"date_added": 1509366587,
+			"meta": "{\"img\":\"856,700,765987988877776a97a98cba655111433554543211322,0121313031456567084316656699AB66651CD9DD8BBCCCEEDDAAAAAAAEEEEEEEEEEEEEEEEEEEEEEE\"}"
+		},
+		{
+			"post_id": 1510650581,
+			"body": "Any german usenet forums still available?",
+			"date_added": 1510650577
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Deu: kommt hoffentlich noch",
+			"post_uri": "1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt_1508852055",
+			"date_added": 1508853100
+		},
+		{
+			"comment_id": 2,
+			"body": "gif geht wohl auch noch nicht :(",
+			"post_uri": "1BUYfNnKgAaCaq3Qwn1HEaPCyAJWGWWZDt_1509366590",
+			"date_added": 1509366644
+		}
+	],
+	"follow": []
+}

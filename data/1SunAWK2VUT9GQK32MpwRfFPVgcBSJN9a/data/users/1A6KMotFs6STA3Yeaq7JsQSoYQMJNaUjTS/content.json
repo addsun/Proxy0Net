@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyR+HFkacb5XfHEG9nJTjJNS6HmL0LNPUhr1EqHNxuGGGIxYNo7XvuVqOv/5zi1X28AUTHEd93wq3t7KtPZzGtc=",
+ "cert_user_id": "penguin007@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "63d35fd56fdda717087d59f2a3d654c6faaffaad23cd7770f3e5a3dfbc0bd164",
+   "size": 112
+  },
+  "data.json": {
+   "sha512": "a40049d1496baf65e79f9fe098f8603195fa3a43baf1bc09bd5e6034ee31fb66",
+   "size": 1513
+  }
+ },
+ "inner_path": "data/users/1A6KMotFs6STA3Yeaq7JsQSoYQMJNaUjTS/content.json",
+ "modified": 1504839391,
+ "signs": {
+  "1A6KMotFs6STA3Yeaq7JsQSoYQMJNaUjTS": "HJHnTjJu4/3fesrH5PHKbjxbU6Mbkzpvxq3XGSB8L1Iqb8AebZGPedBWYiFvqotzfm8o9tQX8GE1388STJXiGVw="
+ }
+}

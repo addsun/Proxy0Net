@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G2OEgGbuw8fyWlBP0kQBobjgZypjQDwyDfYXYeBK7RXZkcRgzRMxvMlcvK7UVpXd+lbD87qdQFHrDi6cwfGhltI=",
+ "cert_user_id": "leafsummer@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "ade9e34770939d91c2707d5e716426fd7fb73e4bb0a3c7c5b9bcbd3b5a0723a4",
+   "size": 1138
+  },
+  "data.json": {
+   "sha512": "72c3b813a5da0f0f7c5149a7e26454d6fc952fc34db5c3d7570b330bab4005fd",
+   "size": 2381
+  }
+ },
+ "inner_path": "data/users/1B5mo8cZB5RMFcZPEoPJJExifU4jLL2p39/content.json",
+ "modified": 1511509129,
+ "signs": {
+  "1B5mo8cZB5RMFcZPEoPJJExifU4jLL2p39": "G2QtESgmyhxQj5WOEOOIu3sGL5YPy9T0r+jvbzvJORCJFoa0fR2GY5qjF4UenOz79NCZvkP+zXVbquwCpx6HTio="
+ }
+}

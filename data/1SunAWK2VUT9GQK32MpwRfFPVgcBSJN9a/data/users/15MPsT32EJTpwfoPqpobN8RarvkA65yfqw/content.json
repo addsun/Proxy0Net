@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HPAgREbe8ACZyW4y8fixAQufmT8/gcxiAq9Gqwg63+jxOrvPMP+AWU90kfAob09gbmab2x9U9H2sHsYVfAJcfOk=",
+ "cert_user_id": "netrider@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "742bc113dfd5f7c992ae0438f332f02ca3d12de55147092973149be034a7c527",
+   "size": 1112
+  },
+  "data.json": {
+   "sha512": "23673fb6a13b41d4178c962610041813ec777adbd4d6bd27144d29c67e8ad283",
+   "size": 334
+  }
+ },
+ "inner_path": "data/users/15MPsT32EJTpwfoPqpobN8RarvkA65yfqw/content.json",
+ "modified": 1503547446,
+ "signs": {
+  "15MPsT32EJTpwfoPqpobN8RarvkA65yfqw": "HKJXfVlmSInryaExBw1NcdshdihmMQ9POPj2NS9dRW4yCdM5oww7/ObhJaIJ/Bq+h4v7o0N79PTWZZ0NuxSN3c0="
+ }
+}

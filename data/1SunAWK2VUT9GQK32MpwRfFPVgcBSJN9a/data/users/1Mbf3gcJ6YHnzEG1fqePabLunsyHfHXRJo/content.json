@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKCOGJk3sUTLCk/MmELGM1C2R41R8HA7lSX//665cnDS1vMX94qrjlPmTZSGm280tUXHAwYZu0DN822yUDVm7cU=",
+ "cert_user_id": "bourgeois@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "5b65b31a72ebdda79da47451bd43e799b85492c9bdcbf3fde1f7e12caf8f21e7",
+   "size": 1154
+  },
+  "data.json": {
+   "sha512": "da97e931a9823091b6dfc147834d05467545178ea173cd3153ebbaa558a7a069",
+   "size": 580
+  }
+ },
+ "inner_path": "data/users/1Mbf3gcJ6YHnzEG1fqePabLunsyHfHXRJo/content.json",
+ "modified": 1506819495,
+ "signs": {
+  "1Mbf3gcJ6YHnzEG1fqePabLunsyHfHXRJo": "HJwtPjUKYjwrGOgTKKKThzfS3P+uwBKu50EdFu9P7JFaeYVm9sH6L1XzjqcVWvxbuIJZ4Gz3f54FrwTUH3fvAds="
+ }
+}

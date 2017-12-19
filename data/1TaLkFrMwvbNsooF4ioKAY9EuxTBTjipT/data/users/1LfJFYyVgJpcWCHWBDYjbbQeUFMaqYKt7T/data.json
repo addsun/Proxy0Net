@@ -1,0 +1,27 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Opening the ZeroNet port behind a VPN",
+			"body": "So, I'm using a VPN that allows up to 20 ports to be opened, however each port is assigned to a user. Which means that I can't open the 15441 port. I tried opening it on my router, but that doesn't work because I'm running behind the VPN. Any solution to this?",
+			"added": 1505312202
+		}
+	],
+	"topic_vote": {
+		"1_1LfJFYyVgJpcWCHWBDYjbbQeUFMaqYKt7T": 1
+	},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1LfJFYyVgJpcWCHWBDYjbbQeUFMaqYKt7T": [
+			{
+				"comment_id": 1,
+				"body": "> [james007](#comment_18_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Yes, run it with the command line to override port 15441 to one of the open ones. [...]\n\nThanks, worked without a problem under Linux!",
+				"added": 1505316810
+			}
+		]
+	},
+	"comment_vote": {
+		"18_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1
+	}
+}

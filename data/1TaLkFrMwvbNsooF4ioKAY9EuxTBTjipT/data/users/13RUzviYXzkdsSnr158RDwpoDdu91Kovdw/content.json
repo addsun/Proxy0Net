@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G8hWIR49RjvSJaQAgDpQGghs3zJklbPPiMXxnMU/y6Kf9c2pRvBFIfDNlrS13S+fSey5arIMkJtNWOIodJt1a1Y=",
+ "cert_user_id": "ellobox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e0a0d30f2d2cdb116047408729af66d8f62018933646ea326a4e985e77db2a1c",
+   "size": 2546
+  }
+ },
+ "inner_path": "data/users/13RUzviYXzkdsSnr158RDwpoDdu91Kovdw/content.json",
+ "modified": 1502634790,
+ "signs": {
+  "13RUzviYXzkdsSnr158RDwpoDdu91Kovdw": "G1MPmpMAJR2GMJ++mql76V+DnipU0ve2pS9uAExVgepVGm2Tr5/GKkdJNcvJYCmMsFwx4S7x3SAqbjSqdXlTuQw="
+ }
+}

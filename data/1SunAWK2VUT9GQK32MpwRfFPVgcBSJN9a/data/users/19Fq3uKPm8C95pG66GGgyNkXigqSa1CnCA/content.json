@@ -1,0 +1,22 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G6JQ5c9N7en5koma16kZ6kcn1p0XigVOOnpx3JWB7oeJCku3r8QVRNDmL5JYjs28TW9U47f1hAa/Tw7x+bjvYco=",
+ "cert_user_id": "phantump21@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "23d6160563c7eb249ee3855c9cdfc8d90aee08716b5341cf816ad730407f8370",
+   "size": 1497
+  },
+  "data.json": {
+   "sha512": "bed3441962cb9544756cf315f273b93607436691dbd61ed9a6f8f72d0e9ed7f3",
+   "size": 343
+  }
+ },
+ "inner_path": "data/users/19Fq3uKPm8C95pG66GGgyNkXigqSa1CnCA/content.json",
+ "modified": 1512072685,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "19Fq3uKPm8C95pG66GGgyNkXigqSa1CnCA": "G1JVWxswAwjf4MyKxtZYXUx+ePSf2nqih8pK1Ij6+/SlFBMIBQFbL3tsmEW/J9wrcFmhqkq1BhMPURpROnVo03c="
+ }
+}

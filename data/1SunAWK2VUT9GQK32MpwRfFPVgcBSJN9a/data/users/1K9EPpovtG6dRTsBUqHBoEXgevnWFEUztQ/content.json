@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G7G/+PX/nqVOrE8KY3u0WHUi3k8Wgs6FbVzJBeH6As6+TeHlV6xEIe9QZMOQLf8yuVjmog0g7W7oLx1z9wAJzDg=",
+ "cert_user_id": "ascaro@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "87db8c2fb5b7b876c02dbdacec76a7e2e7377629d78e4dd29108c69402a67eb4",
+   "size": 526
+  }
+ },
+ "inner_path": "data/users/1K9EPpovtG6dRTsBUqHBoEXgevnWFEUztQ/content.json",
+ "modified": 1512651338,
+ "signs": {
+  "1K9EPpovtG6dRTsBUqHBoEXgevnWFEUztQ": "G1sYUUjWMN9UVGXSBbLl3Yaz3eOC7TPBEQXdbgkD6YSfaIZCmS+Smg0lBiJcMPxK1iNSEz/RpQMz9VuE4cSKm6o="
+ }
+}

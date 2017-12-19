@@ -1,0 +1,28 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "jpg",
+	"user_name": "Bashrc",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Freedombone project. Self-hosting. Free Software. AI/Alife. Tor. Arch/Parabola. The essential mix.",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1475506936,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1PXtqwuku4Srxgk3kdHCEE9qqViv5BrfW4_1475508772": 1475512663
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "sudo modprobe",
+			"post_uri": "19kHwsNsJ5rpdisLEDDcQPjuMG1BKkBXSa_1",
+			"date_added": 1475594879
+		}
+	],
+	"follow": []
+}

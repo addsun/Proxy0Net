@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HJhwtKasoGS+YSj60xn+c0WTPw+yTmTklo6hb+RYVoAqo3dGWDLrBSdnBd+YBxyFCwwoLwspYFX5ozesZl4ZmJk=",
+ "cert_user_id": "trichiuridae@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5c752f7113e9d990d09ce31e245da29c3245636ee0b3d3967414d8c40d495724",
+   "size": 962
+  },
+  "data.json": {
+   "sha512": "a306f63e8bc0e9b251632b4e3153dbcbee7228b5b46c9007a00e0967d63ca50f",
+   "size": 631
+  }
+ },
+ "inner_path": "data/users/1CeMerGmgy1xqRaq1MznekF8NwDrW3BqpQ/content.json",
+ "modified": 1511854460,
+ "signs": {
+  "1CeMerGmgy1xqRaq1MznekF8NwDrW3BqpQ": "HByYTGEJ5wVq489C0lEMdZ0w+QmTYm0Z/uteBpg9T4+FVu5eWpV5ogb7WdTJgNKfDzhqbOIs2G3DwciCMXu0yCY="
+ }
+}

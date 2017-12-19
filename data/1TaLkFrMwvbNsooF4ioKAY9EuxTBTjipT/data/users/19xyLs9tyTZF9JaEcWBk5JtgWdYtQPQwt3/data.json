@@ -1,0 +1,140 @@
+{
+	"next_topic_id": 7,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "antox是tox的安卓版  是开源软件  antox is tox's Android version is open source software",
+			"body": "用antox 和朋友聊天还是比较安全的\nChatting with friends use tox is safe\n如果有更高的安全需要可以把i2p打开\nIf there is a higher security needed    open i2p\n然后在 antox 里找到 设置 把 enable proxy 选项打勾\nAnd then found \"setting\" in the antox to enable the \"enable proxy\" option tick\n\nproxy type :           http\nproxy address :   127.0.0.1\nproxy port :           4444\n\ni2p 首次安装使用 需要做一次网络引导\n手机打开shadowsocks翻墙\n然后打开i2p 启动  等有了 \"活跃对等端\" 关掉shadowsocks 重启 i2p",
+			"added": 1505882756
+		},
+		{
+			"topic_id": 2,
+			"title": "why bitshares crash Is there any insider message?",
+			"body": "前段时间国内平台相继关闭 于是我把比特币兑换成了一些比特股 因为比特股是唯一一个钱包里自带去中心化交易所的 币种 去中心化交易所是不可能被关闭的\n但是近期比特币上涨 比特股却大跌  有人能告诉我怎么回事吗？﻿\n有没有什么内幕消息的？\nThe bitcoin exchange was closed in china so i buy some bitshares but why bitshares crash Is there any insider message?",
+			"added": 1507171935
+		},
+		{
+			"topic_id": 3,
+			"title": "how to make i2p faster",
+			"body": "at least 100KB/s\nhelp Chinese people we want youtube and google",
+			"added": 1507286540
+		},
+		{
+			"topic_id": 4,
+			"title": "how bitmessage avoid spam",
+			"body": "The node will ask your processor to calculate a problem before forwarding the message for you\nSo spam messages require high processor usage\n\nYou can also send messages use some cryptographic tokens\ni use bitshares it will cost 0.21851 BTS for every \"memo\" not suitable for sending messages\nI hope they can improve it let bitshares suitable for sending messages fewer cost more message capacity\n\ndo you use bitmessage ? it`s safe and decentralized",
+			"added": 1507380734
+		},
+		{
+			"topic_id": 5,
+			"title": "how zeronet avoid spam ?",
+			"body": "bitmessage :                  Proof of Work . \ncryptographic tokens :  costs money",
+			"added": 1507430093
+		},
+		{
+			"topic_id": 6,
+			"title": "zeronet 0.6.0  zeroUp   16Mbit/s( 2MBit/s )",
+			"body": "! ! !",
+			"added": 1507606056
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 17,
+	"comment": {
+		"1_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 1,
+				"body": "tox id :  B88DB8CB13CFDA188A140C507327916998116A5501DCFD1C81C166ADDB2DE065721862FC6FDF",
+				"added": 1505883055
+			},
+			{
+				"comment_id": 2,
+				"body": "测试了一下 代理服务器 似乎不能使用",
+				"added": 1505927825
+			}
+		],
+		"2_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 3,
+				"body": "比特股的钱包前段时间不是更新了过吗\n新钱包占用内存已经大幅减小了\n怎么还会超过64G呢\n我在windows平板上都能运行重钱包 4G的内存 系统还要占用1G\n我还在一台旧笔记本上运行过重钱包  本来是2G的内存 我加了一条2G的内存条 总共4G内存  CPU 1.6G 双核\n装了debian8.8 系统 自己编译的重钱包 运行起来没问题\n\n“交易所本身要交易的还是比特币。”    我不同意 比特股 有完整的 法币 绑定 可以绑定人民币和美元  通过bitCNY可以将比特股 和 其它虚拟币包括比特币  兑换成人民币  目前好像是所有虚拟币中唯一的吧？",
+				"added": 1507270931
+			},
+			{
+				"comment_id": 4,
+				"body": "the memory consumption is over 64GB ?\ni run the new bitshares full wallet ( BitShares-Core-2.0.170710-x64-cli-tools.zip ) in my windows tablet was OK\n4G RAM CPU 1.83Ghz * 4\n\ni also build and run  the bitshares-core with my old laptop system debian8.8    4G RAM CPU 1.6Ghz * 2\nall good",
+				"added": 1507272199
+			},
+			{
+				"comment_id": 5,
+				"body": "we don`t need full wallet the light wallet will be good ( BitShares2-light )\nmaybe bitshares need develop a “command line API light wallet” for those token exchange website is easy isn`t it",
+				"added": 1507337796
+			}
+		],
+		"4_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 6,
+				"body": "Bitmessage over Tor yeah",
+				"added": 1507394251
+			},
+			{
+				"comment_id": 8,
+				"body": "Proof of Work or costs money to avoid spam\nbut how zeronet avoid spam ?",
+				"added": 1507429725
+			}
+		],
+		"3_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 7,
+				"body": "false.i2p was so slow\nany others outproxys for i2p ?",
+				"added": 1507394809
+			}
+		],
+		"5_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 9,
+				"body": "Maybe someday somebody will vandalism\nlike the chinese government",
+				"added": 1507441919
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 10,
+				"body": "test\n\\\\\\*-\\*abc\\*-\\*",
+				"added": 1507523369
+			},
+			{
+				"comment_id": 11,
+				"body": "test\n*-*abc*-*",
+				"added": 1507523404
+			},
+			{
+				"comment_id": 12,
+				"body": "test\n\\*-\\*abc\\*-\\*",
+				"added": 1507523434
+			},
+			{
+				"comment_id": 13,
+				"body": "test\n1 \\\n2 \\\\\n3 \\\\\\\n4 \\\\\\\\\n5 \\\\\\\\\\",
+				"added": 1507523601
+			},
+			{
+				"comment_id": 14,
+				"body": "test\nstars     **********",
+				"added": 1507523665
+			},
+			{
+				"comment_id": 15,
+				"body": "test\n1 *\n2 **\n3 ***\n4 ****\n5 *****\n6 ******\n7 *******",
+				"added": 1507523734
+			}
+		],
+		"6_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 16,
+				"body": "0.6.0新版 新增ZeroUp  看视频 8个节点 最高网速超过2M每秒  接近3M每秒了",
+				"added": 1507606384
+			}
+		]
+	},
+	"comment_vote": {}
+}

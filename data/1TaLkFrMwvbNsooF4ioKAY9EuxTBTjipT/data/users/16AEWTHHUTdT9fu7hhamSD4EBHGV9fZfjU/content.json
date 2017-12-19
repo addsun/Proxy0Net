@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HEhWrTdsDifpr+IvaT0gIP6ymhq65ff0WGBIGqUFeONGJ4we7bKv3qeGf12ooJOdyH1cl0nAb8tUYMKFDuUta6A=",
+ "cert_user_id": "taxi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cfad77560349d265f4d59610eab5d8f1bbe116f24cdc317f28c905aca0461f9b",
+   "size": 675
+  }
+ },
+ "inner_path": "data/users/16AEWTHHUTdT9fu7hhamSD4EBHGV9fZfjU/content.json",
+ "modified": 1508234913,
+ "signs": {
+  "16AEWTHHUTdT9fu7hhamSD4EBHGV9fZfjU": "G8dNhmXdLYsSeFOUBYJfBFVIxXYtbmfUL/0QQqxaQVuFZ8TM/rskmdUrwRbwo/s8c+HoGDI2uxo5UGka2WaKljk="
+ }
+}

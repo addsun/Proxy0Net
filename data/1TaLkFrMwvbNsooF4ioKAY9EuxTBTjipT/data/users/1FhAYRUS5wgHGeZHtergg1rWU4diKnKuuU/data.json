@@ -1,0 +1,127 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "Critical Vulnerability in Zeronet?",
+			"body": "So the idea of Zeronet is decentralized internet for prevention of censorship, right?  But users can update their own sites, and all other hosts accept the update unconditionally.  In addition, a website's address is a user's public Bitcoin key, which presents a problem.\n\nLet me illustrate with an example: user Bigfoot creates a child porn site (G-d forbid).  Law enforcement wants to shut down the site, but shutting down one of the hosts will not solve the problem.  What do they do?  They use Bigfoot's public Bitcoin key to reverse engineer the identity of Jane Doe, who they then \"convince\" to \"update\" their site by removing all the images.  Then anyone hosting the site will automatically update their version to exclude the images.  Law wins, game over.\n\nAm I wrong about this?  am I missing something?  Because if not, there's a simple solution: have each site provide a mandatory changelog/reversion button.  That way, if someone has their blog forcibly taken own this way, then other hosts can revert back to the version they choose, and censorship is no longer as easy as described.\n\nFeedback would be appreciated.  I would say constructive feedback, but of course I can't force anyone here to be nice, so say what you will.",
+			"added": 1502980525
+		},
+		{
+			"topic_id": 2,
+			"title": "Suggestion Regarding Cross-Site Blocking",
+			"body": "this is either a better answer to the privacy problem caused or a really good laugh because I have little to no idea of what I'm talking about.\n\nOk so as I understand it, zeronet sites are no longer allowed to access other zeronet sites to address privacy/security concerns, but this causes problems with things such as zeronet search engines.  Solution?  \"Public\" and \"Private\" resources.  Al resources are private by default, but uers can (at their peril) enable public access to certain parts of their site.\n\nI have no idea if this would solve the problem or even if it would work.  It's just a suggestion.",
+			"added": 1503005033
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 18,
+	"comment": {
+		"1_177o9Aq6mWQ5remffUroniBUHinMmfWwNW": [
+			{
+				"comment_id": 1,
+				"body": "I would like this as well",
+				"added": 1502982287
+			}
+		],
+		"1_1FhAYRUS5wgHGeZHtergg1rWU4diKnKuuU": [
+			{
+				"comment_id": 2,
+				"body": "> [nofish](#comment_981_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): There is no such thing as \"They use Bigfoot's public Bitcoin key to reverse engineer the identity of Jane Doe\". The only attack vector is the Tor connection security, but if anyone can defeat that part, then then can do the same with the new site address.But it's a good idea to create backup on sites you want to save for the future.\n\nwhat I mean is if Jane Doe has her bitcoin public key posted elsewhere along with her identity or clues to it, all they have to do is google search the key.  And you are correct, there are other ways to reverse engineer someone's identity, I just used that as an example.",
+				"added": 1502983292
+			},
+			{
+				"comment_id": 4,
+				"body": "> [kaffie](#comment_443_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): This has actually happened before with ZeroMovies. There is now a mirror available. [...]\n\nfair enough.  TBPH, I know little of bitcoin/zeronet.",
+				"added": 1502984892
+			}
+		],
+		"1_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": [
+			{
+				"comment_id": 3,
+				"body": "I can't say for certain that it is or isn't the Internet 2.0.  I do however see it as a pillar of the future of the open and free internet.  I chose to support this project I believe it can and should be used to preserve history that is being washed and watered down, so that our grandchildren, if they are more open minded, can learn the true history of the world.  It reminds me of Granger from Farenheit 451, who had his followers memorize books so that when society was ready to accept books again, books of the past would be available to future generations.  I hope that Zeronet is used for the same purpose.",
+				"added": 1502983676
+			}
+		],
+		"8_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 5,
+				"body": "I wish I could, but I have too much invested in it.",
+				"added": 1502987244
+			},
+			{
+				"comment_id": 6,
+				"body": "> [akito](#comment_161_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Money or what?\n\nmoney, time, data, basically my internet life revolves around it.",
+				"added": 1502987392
+			},
+			{
+				"comment_id": 7,
+				"body": "> [akito](#comment_163_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Ouch. That hurts.\n\neventually, of course, I will be forced to abandon my investment and go private.  Until then, however, there is too much at stake.",
+				"added": 1502988072
+			},
+			{
+				"comment_id": 8,
+				"body": "what do you think of fastmail? https://www.fastmail.com/pricing/",
+				"added": 1502990843
+			},
+			{
+				"comment_id": 9,
+				"body": "> [akito](#comment_162_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): http://127.0.0.1:43110/14gSEpfWfF5Go7u5y7UidZQCnGa6eSBYZ9/ Provider -> Privacy E-Mail\n\nplease update, og site has changed since this was posted.",
+				"added": 1502995420
+			},
+			{
+				"comment_id": 10,
+				"body": "> [akito](#comment_165_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): I don't understand. The link still works for me. Or what do you mean?\n\nprivacytools main site was updated but that link wasn't",
+				"added": 1502999008
+			},
+			{
+				"comment_id": 11,
+				"body": "> [akito](#comment_167_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Main site? On the clearnet?\n\nyes.  Sorry, I sometimes have trouble explaining things.",
+				"added": 1503001401
+			},
+			{
+				"comment_id": 17,
+				"body": "how do I completely shut down my public online identity in an hour?",
+				"added": 1503067812
+			}
+		],
+		"1_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 12,
+				"body": "all the more reason Zeronet is more important than ever.\n\nJust this morning I thought I could get away with expressing my opinion publicly for the next few months, but I'm starting to see the light.  Goodbye gaming, hello privacy.",
+				"added": 1503016255
+			},
+			{
+				"comment_id": 13,
+				"body": "> [amsterdam](#comment_2_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY): Give it a few years. Everyone will be using this.\n\nI think \"years\" is the wrong word.  By 2019 it will be use Zeronet or bust.",
+				"added": 1503016555
+			}
+		],
+		"1_14GQCrDpk3rprFJYe2Yc6hnG4ryhvE3ys5": [
+			{
+				"comment_id": 14,
+				"body": "under the right circumstances, yes.  Those being basically what kaffie said",
+				"added": 1503037959
+			},
+			{
+				"comment_id": 15,
+				"body": "> [kaffie](#comment_448_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): It's not about being 'triggered'. I personally ban hate speech towards any demographic. I just like to keep peace. But yeah, if you want to do that stuff, it's entirely possible for you to clone the sites and have your own safe space to circlejerk in. [...]\n\nso this is your site?\n\nalso, in addition to cloning this site, people can create their own blogs that can't be shut down (with one exception, see the thread \"Critical Vulnerability in Zeronet?\"), so don't think you or anyone else has all the power.  That's the best part of a decentralized web like this: you're your own boss.  Nobody can tell you what to do on your own site.",
+				"added": 1503055408
+			}
+		],
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": [
+			{
+				"comment_id": 16,
+				"body": "zeronet, while not exactly new, is still young.  I've never seen much more than 1000 people online hosting the home page.\n\nGive it time.  As the war progresses, people will flock here like sheep.",
+				"added": 1503065940
+			}
+		]
+	},
+	"comment_vote": {
+		"15_1Aqzrn9MJnftKMJyU9mVviE5WZdTwJnkFr": 1,
+		"160_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"981_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"168_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"14_1Koe97YQ3wR5oFauQoGuUCBNqZ73SMTrKi": 1
+	}
+}

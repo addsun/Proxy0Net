@@ -1,0 +1,28 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "H7rzzzInSJtjIE8aNlO2TtZ46fqH+WiG33O5HnX2PB4OHUj4EYRFLuXfJGolzWGHQSdkrT8WFFOEth7QS5xPFkM=",
+ "cert_user_id": "skwerlman@kaffie.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f268787fc42e1aba47315ac1936746b05a1a6fdab8ccdac87ed9f9d1e33938c9",
+   "size": 1711
+  },
+  "data.json": {
+   "sha512": "4bdc46c6e6f7d03cdef539248904bb651700cc527043c8f23ec723a0f2b14237",
+   "size": 3331
+  }
+ },
+ "files_optional": {
+  "1497709531.jpg": {
+   "sha512": "901367c1a12462037e02cd20bb8657e567cd562ffbbe01122c000e4589fa004e",
+   "size": 108472
+  }
+ },
+ "inner_path": "data/users/12ecmXjTqvjjJNs7826fkDvaXKvRr1ssxD/content.json",
+ "modified": 1501530154,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12ecmXjTqvjjJNs7826fkDvaXKvRr1ssxD": "HCro4tHjaZhQdG3J3PUuBbkrHn56BWZPyjuNIUCmLPUXYXjAJYgxd9NneYfEW4lnDF1WdgnjDqX2bb4UIo5VWs8="
+ }
+}

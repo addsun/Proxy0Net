@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HNC7soWUE1o/Yo7zdw/6D+CsGxNAJlQB1CAkyhFyBS40zZivDwEB3bgUekSbxEgEqzwBXjcsLiR5TiwNmi3PtNc=",
+ "cert_user_id": "semenarsonist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "deb448cb7c5467b4c58009083bf967824feea6f0b48bae97564a68b98cb7dae4",
+   "size": 261
+  }
+ },
+ "inner_path": "data/users/183gMpouB3uc5hjf6cuCc1oLz2neo8cCNs/content.json",
+ "modified": 1509028891,
+ "signs": {
+  "183gMpouB3uc5hjf6cuCc1oLz2neo8cCNs": "HCZghLVL/ZOxIBPxag82nExYCKdqZN3OJPgISulVA3nvMFTA9X0liH+Rszd/m4YE3YJQyeNh8LyRM3VjhXrUip0="
+ }
+}

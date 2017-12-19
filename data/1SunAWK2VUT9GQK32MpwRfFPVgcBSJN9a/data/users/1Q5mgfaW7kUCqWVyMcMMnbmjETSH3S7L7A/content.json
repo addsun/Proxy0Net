@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyxAvM/3P2HBUcqvpDlbel0Xc66BYKW10yGtbC8aD2yXHqMHiBuwFyj5akwqCtSHDGoh6SJAJV9/JGd5f8XBfqg=",
+ "cert_user_id": "umiryuzaki@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "20ecc65c0270fc375ec8a2367b52acf650f87c4c25a6bdc6de7ab3517c52cacc",
+   "size": 1948
+  },
+  "data.json": {
+   "sha512": "7b41be17cfd92f856225bc74497dc706b689373305a5f354c86ab9c1cf795c67",
+   "size": 486
+  }
+ },
+ "inner_path": "data/users/1Q5mgfaW7kUCqWVyMcMMnbmjETSH3S7L7A/content.json",
+ "modified": 1509150983,
+ "signs": {
+  "1Q5mgfaW7kUCqWVyMcMMnbmjETSH3S7L7A": "G7e6c5CqaJBQ1M4MPfcTjQsbIb9Lt66muoN0nIM+D8+Zf7LAKzf5kPzRiEybUn63pKQRT65WsIvi028XRBfJqAk="
+ }
+}

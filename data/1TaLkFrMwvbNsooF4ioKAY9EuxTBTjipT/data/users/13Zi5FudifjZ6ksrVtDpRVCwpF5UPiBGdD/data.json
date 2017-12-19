@@ -1,0 +1,37 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1510613868,
+			"title": "I2P vs TOR.",
+			"body": "I've been using TOR for some time, it provides some anonymity & works well with ZeroNet. With I2P everyone routes traffic, and that seems more secure for anonymity. However your an exit node for some traffic at that point. Is there any legal risk involved with I2P? What is your experience using it?",
+			"added": 1510613867
+		}
+	],
+	"topic_vote": {
+		"1510252302_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1509518161_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 1,
+				"body": "A user rated system would be nice as well. For example when a site is blacklisted by (choose a number) users, you would get a prompt warning you as what content is contained.",
+				"added": 1509566643
+			}
+		],
+		"1510613868_13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD": [
+			{
+				"comment_id": 2,
+				"body": "They list access \"to & from the public internet\" on the web page for I2P, so I assumed it was possible through proxy.",
+				"added": 1510674597
+			},
+			{
+				"comment_id": 3,
+				"body": "> [rwxy](#comment_20_1G2KAr146veEMjvkrhD3sXMUH1fAuZdswM): how to install tor and run it  on ubuntu?could me tell me ?\n\nPut the TOR bundle in your documents folder (or wherever). Inside the TOR folder use \"start-tor-browser.desktop\" to launch. There may be other ways, I just found this to be easy.",
+				"added": 1510674889
+			}
+		]
+	},
+	"comment_vote": {}
+}

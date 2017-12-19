@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIJBIBWeDIT4OsI4CeO3O7+5eJMfFxsxBl6yQRoCNuTf0/bOG4Fpdp628LWYu0KGY++4TIGPuS7xOFcyZdS78zw=",
+ "cert_user_id": "exoticrainbow@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "a4c96710a6f62295f8e4220d1590f9bca8c4de7069566e49d9824b78e4487530",
+   "size": 797
+  },
+  "data.json": {
+   "sha512": "0fa5d9b4de2efcae905498ecb9e6dd46424daae2ed2a2176d3723aa70b5f7089",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1S1kAgXeu7isWmkNdrtjHonkVTNtkjXrX/content.json",
+ "modified": 1513626898,
+ "signs": {
+  "1S1kAgXeu7isWmkNdrtjHonkVTNtkjXrX": "G3C4l9nSsKmUVYOXKuAVXRJasHskSkY5LEFmblP8YAu/Ro91kn6lfXIh7FaFxLp1Yhd5OekAMNIIRZrCNDvaaaE="
+ }
+}

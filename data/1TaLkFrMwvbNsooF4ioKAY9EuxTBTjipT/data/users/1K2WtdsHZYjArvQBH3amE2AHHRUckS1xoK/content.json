@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBK5m64y5VNCd+iNo4CZqsFDipx5iswdLh/dpeg+e64uIOOGKlYpi46thlAILfzDQYPhq3QgA3A9zzPzUtmhDWY=",
+ "cert_user_id": "proteus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "996d9c4713e2b67087ec554278b6f176953a4f9231a4c2fc8979095fb537a8c8",
+   "size": 364
+  }
+ },
+ "inner_path": "data/users/1K2WtdsHZYjArvQBH3amE2AHHRUckS1xoK/content.json",
+ "modified": 1510220894,
+ "signs": {
+  "1K2WtdsHZYjArvQBH3amE2AHHRUckS1xoK": "G9vxvCnG/QqFGJIfQeHZiUzrs4APlFRUalnP55GH4u1RAL+wDc9mmleIbszvlksZeUsOi1CdHAI7wjFu7RGwLnQ="
+ }
+}

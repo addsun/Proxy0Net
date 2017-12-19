@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G/v/VofykukUwypfUKTJ26ZPFlj7urarEbBKVGMpFjBBFQbYuckf1WG5mpAQEDaZCjZTQPkznbYf//KELGm6xzE=",
+ "cert_user_id": "vincentcheung@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "59d6feae663285bf0cbb42f20d12d181d7128b7e75a31d39f8c985608383c51b",
+   "size": 2212
+  }
+ },
+ "inner_path": "data/users/12e4EcUWaMHVa31rkuzWWxstByasqAp7RV/content.json",
+ "modified": 1509011045,
+ "signs": {
+  "12e4EcUWaMHVa31rkuzWWxstByasqAp7RV": "HI7X6vQ+gKzcleVt/AGdMMY4hh4cWzmY4uqDpUZD3AuOJr0oGTd63qSUc27fS/v7IRMqHaH4UJU8N2DitTkffZw="
+ }
+}

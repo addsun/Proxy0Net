@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HBttlOyRPtSI07Pct383hvm9JYUWBKJd3lkwNJlunz9wnStIGV5yRx6n3Om0T/T+A55zM5yOJujOHhXe1VkK8AA=",
+ "cert_user_id": "earthrise@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3057383623984b850c5f365420db3295382e0e3904d048675f20feba4d38ab1e",
+   "size": 244
+  }
+ },
+ "inner_path": "data/users/1GLvVapZPkMpoKQapvADLHfGFPnueSKtLg/content.json",
+ "modified": 1500817211,
+ "signs": {
+  "1GLvVapZPkMpoKQapvADLHfGFPnueSKtLg": "GwUQ+4dNJ4QpBFY6guKjMJ4UHQhZuF96nrR4l/NRWXnAbj1S30icamrNPFN5WrwvYTBUpybcFradzq0t5MutBxM="
+ }
+}

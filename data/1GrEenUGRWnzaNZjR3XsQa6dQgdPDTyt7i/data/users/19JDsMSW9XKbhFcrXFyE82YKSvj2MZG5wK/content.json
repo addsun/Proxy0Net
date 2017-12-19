@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HGmYS6BQwQ6CnbhQLIA7vSQZYVNgcolsPhpk1jM1VJrC9dXooLHokbsjUsRFzchhouqcXq/R877Mr0ypd0n5Ql4=",
+ "cert_user_id": "toobee@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "28aabe6e6a6ad14fc654e38622ce843d8f7b8bc99c39685db5efc69d2064fb7a",
+   "size": 1766
+  },
+  "data.json": {
+   "sha512": "7d9337bf7eff5936c46b39c5bbcb233636e72754fd8e9f45fa6e1c0f8d51a4bb",
+   "size": 1809
+  }
+ },
+ "inner_path": "data/users/19JDsMSW9XKbhFcrXFyE82YKSvj2MZG5wK/content.json",
+ "modified": 1476434049.357472,
+ "signs": {
+  "19JDsMSW9XKbhFcrXFyE82YKSvj2MZG5wK": "HJObOQqdSRrYbq3G0sd593x5GbNmhgrkigfx2tFFzmvM2iMFkxCYfeIVBuPLCV4+/1PMRvINsV/C436SV9gO24w="
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5ski9tJEOV2fizHZKLxq1kWGAgAqNFuEXDPWz0GnwJ7tYEv+zyhkiaN7HITDLCNxKJ7qF9z6Y2nswi+GXwqSQM=",
+ "cert_user_id": "rattacher@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "af06cbc9b45f3aecf7da78ded82380faf4a23fa55c9ed3e5fe08cdf423d683f6",
+   "size": 1665
+  },
+  "data.json": {
+   "sha512": "653e7623255559d2c70a2f50acd6a2461e046426940e317fc81280ec5b66a33e",
+   "size": 760
+  }
+ },
+ "files_optional": {
+  "1509160115.jpg": {
+   "sha512": "d56cdba543512f7273d18f5d55f29143371ec4cb1e3feb63bdf3c07c1d55e124",
+   "size": 96803
+  }
+ },
+ "inner_path": "data/users/1McTBXFPhvXfC6yWMbbaaT94EB7W2GAt58/content.json",
+ "modified": 1509161103,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1McTBXFPhvXfC6yWMbbaaT94EB7W2GAt58": "HNMvEDshqC3DpSOjPbhWn0P4f9GrezhWn7anyCzh1VjQQThFBNCoxjwZQUFkXbz04arI7/Q3SJHWcAI9pu0AWAU="
+ }
+}

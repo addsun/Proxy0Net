@@ -1,0 +1,48 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Crazyhorseman",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1512288024,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "12R6CFWXFgjprYdv63by4UgmQu5gWrwz3b",
+			"user_name": "Freak",
+			"date_added": 1512296381
+		},
+		{
+			"follow_id": 2,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1H4JD9RerFvvHG5zneAatuhAcBpgWq4mMF",
+			"user_name": "Crypto1ex",
+			"date_added": 1512296383
+		},
+		{
+			"follow_id": 3,
+			"hub": "1JUDmCT4UCSdnPsJAHBoXNkDS61Y31Ue52",
+			"auth_address": "1AT5Ez4V3UBFWzmZrQcCR4iHuH43zugd3z",
+			"user_name": "孙大圣",
+			"date_added": 1512296387
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1EpY11syeaKbwRSNqv9tU1ZxoU1moJA9Bp",
+			"user_name": "Loligod",
+			"date_added": 1512296759
+		}
+	]
+}

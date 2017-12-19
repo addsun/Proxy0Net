@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1511471860,
+			"title": "Desktop shorcut?",
+			"body": "Would it be possible for ZeroNet to have a desktop shortcut Icon on Linux in the next update?",
+			"added": 1511471859
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1511411191_1CYj7o5iamDZeKZvdSAW4P2aEngmAXb78T": [
+			{
+				"comment_id": 1,
+				"body": "Im assuming it works exactly the same as when you download a torrent. Basically the PEERS are people who are either UPLOADING(aka SEEDING) content and then those who are DOWNLOADING(aka LEECHING). The ratio of a file is simply a representation of how much you have uploaded compared to how much you have downloaded. Lets say the file your downloaded was 350MB and you also uploaded 350MB. Your ratio would be a 1.0 because you have uploaded the same amount as you downloaded. The longer you SEED something the higher your ratio becomes.",
+				"added": 1511412911
+			}
+		]
+	},
+	"comment_vote": {}
+}

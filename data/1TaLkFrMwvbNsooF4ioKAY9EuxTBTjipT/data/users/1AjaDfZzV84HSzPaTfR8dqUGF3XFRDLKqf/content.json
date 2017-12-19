@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HNr2sV2YUCjB9eEIyO6tOpwqG6UeqPfxfUZwpWx4v/txf80LXZUHa0WbtVXTarX4/qjHPvQBze1qG83DDt5hIHc=",
+ "cert_user_id": "cleevergreen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "107d775926b0e75b5e9bf804b745fda9b8bdd4dfa0ca43c311fbaf208df97933",
+   "size": 629
+  }
+ },
+ "inner_path": "data/users/1AjaDfZzV84HSzPaTfR8dqUGF3XFRDLKqf/content.json",
+ "modified": 1510528657,
+ "signs": {
+  "1AjaDfZzV84HSzPaTfR8dqUGF3XFRDLKqf": "HBT8z9ETjcb1jUmc+nDQBM1fba59iBQ22vXbaHJYQxy0S/I8oNBYJt2KflqBBsv1wWPNFWnsqSkTmXwmGiNXBPI="
+ }
+}

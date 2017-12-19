@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G+BwGKZbozof3My9eciYgRmVrdpqIpM/r6uOU0/SOk2oi6A8QG/hU9niSkNrj/hbKMZgXXHZDBxlNq2D5NycyIc=",
+ "cert_user_id": "oldsupermanoffic@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe6d7b95afcafa9580d2f1209c17c0cab98363a6fb88e4bd4a3c40363d752992",
+   "size": 1022
+  }
+ },
+ "files_optional": {
+  "1503548286.jpg": {
+   "sha512": "04fa5dd19e88080e73dabd05d59fe6d83cf8dade43c0d8acf58db6ce7e26251d",
+   "size": 23803
+  },
+  "1503548343.jpg": {
+   "sha512": "202bc473358a25215a40c401f3aa585ed22e69946d1cf744bd49edb32f4e2ff0",
+   "size": 75781
+  }
+ },
+ "inner_path": "data/users/14tGw3De1DNtEwNzyYcXsQVX9LubTvzUoA/content.json",
+ "modified": 1503548338,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "14tGw3De1DNtEwNzyYcXsQVX9LubTvzUoA": "GywoQoVGaW3w6zgSbnhh3qFR5p8nf2AApX4hg4uUGakEJVYvKqU+G8PpSGssQQFYmJOBKS0Gdpadz/AUi6BDCjs="
+ }
+}

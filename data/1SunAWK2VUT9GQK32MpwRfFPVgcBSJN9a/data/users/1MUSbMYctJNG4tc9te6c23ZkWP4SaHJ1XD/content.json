@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G1eNWLCRIvNTMeRIuTQfrKBqu9Qgu1yXoNaQAI6PMAbNisYGYQUjbX19092+MqiZxt6JprQIfA9ijLewYvnfQ8E=",
+ "cert_user_id": "hubster@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "b8383d9c7a88cc5267bc35e04f778bd1e485936b91171ba1919890d52e98e58d",
+   "size": 1665
+  },
+  "data.json": {
+   "sha512": "c104858071192eac4489dbc516cf801e890ec7059d3962bd5d8317b1e30b5b38",
+   "size": 529
+  }
+ },
+ "inner_path": "data/users/1MUSbMYctJNG4tc9te6c23ZkWP4SaHJ1XD/content.json",
+ "modified": 1509307122,
+ "signs": {
+  "1MUSbMYctJNG4tc9te6c23ZkWP4SaHJ1XD": "HFGfSmU+DyiKXP2ppUbwhOcQHAqll1XTUCbeT4rb6SGPTZ7irw7zypxbrJn9UZF0l2Z+MXuM6H1nDZUG1aSappw="
+ }
+}

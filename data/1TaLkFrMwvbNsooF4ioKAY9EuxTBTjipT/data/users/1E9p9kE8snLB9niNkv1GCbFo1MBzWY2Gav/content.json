@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HKQz7kMYk9TLQv++HFb3AESY/3g4oRwoIalVvaIG398ktOLK98cTu6BAi8yiWPSC7eEL38T+xZOgZQjGqXIAUw8=",
+ "cert_user_id": "vanues@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9d45833ca618ee39f48c85695ee34e0bbb27d2ee79d4e374845a559b77e37cc1",
+   "size": 162
+  }
+ },
+ "inner_path": "data/users/1E9p9kE8snLB9niNkv1GCbFo1MBzWY2Gav/content.json",
+ "modified": 1500978643,
+ "signs": {
+  "1E9p9kE8snLB9niNkv1GCbFo1MBzWY2Gav": "HKZU6Ybmqje+3V4cABeQEjFMpRtjKXibH9q13HBFhRmFT+1EYNMm35gVkp7c5uMsxMqRWlwKO8uMJZ7PB47KJuA="
+ }
+}

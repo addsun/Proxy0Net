@@ -1,0 +1,417 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "HELP SAVE THE INTERNET!",
+			"body": "Congress is voting to [kill the internet](https://act.eff.org/action/don-t-let-congress-undermine-our-online-privacy)...again. But we stand a chance of stopping it!\n\nThis is really important. If you live here in 'Murica, **Call your representatives!** \n\nIf you need help finding them, there is the official site here: http://www.house.gov/representatives/find/\n\nAnd a much simpler one here, which also lets you contact your rep in-browser: https://callyourreps.arcology.io/\n\nAgain, **I Can't stress how important this is.** Please, do it! Even if you are terrified of speaking to people, one more voice is better than none!\n\nAnd regardless of if you even live here or not: spread the word! We can't let this go down without a fight!",
+			"added": 1490651902
+		},
+		{
+			"topic_id": 2,
+			"title": "[PSA] Help Preserve Climate Data!",
+			"body": "Trump's regime is trying to erase decades worth of climate data. A huge number of scientists and activists are trying to rescue as much as possible--but *you can help too!*\n\nLook [here](https://www.datarefuge.org/) for more info. In a week or two when I have the time, I'm planning on writing something that can use the CKAN api to auto-publish some of it on zeronet (I may need help). \n\n Also, If you have a torrent client and storage/bandwidth to spare, there are [torrent backups](https://climate.daknob.net/) to distribute--Weather you can permaseed or just reach a ratio of 1.1, it'll help!",
+			"added": 1494184789
+		}
+	],
+	"topic_vote": {
+		"3_1BRSETd8x5XUtHt9jz2e4WdB9rWY1WNfiu": 1,
+		"1_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"2_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"1_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"1_15wCmPkukZs4ZbbNJoVJo245kKNyQDFP7n": 1
+	},
+	"next_comment_id": 64,
+	"comment": {
+		"4_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 1,
+				"body": "Also:\nhttps://zeronet.maxweiss.io\nhttp://antnet.org (has broken security certificate, but still works)",
+				"added": 1486624973
+			}
+		],
+		"3_1BRSETd8x5XUtHt9jz2e4WdB9rWY1WNfiu": [
+			{
+				"comment_id": 3,
+				"body": "CSS isn't too hard, and you can pick up [some](http://www.w3schools.com/css/css3_backgrounds.asp) of the simpler parts pretty easily.\n\nAs an example, this bit changes all buttons to have a [yellow](http://www.colorhexa.com/fff400) background and white border when hovered over:\n\n``\n.button:hover {background-color: #FFF400; border-color: white}\n``\n\nFor a background, you want to find ``body`` (ctrl-f for huge files) and change the [color](http://www.w3schools.com/cssref/css_colors.asp) listed there.\n\nI tried finding it for the ~~main page's~~ this talk page's css file (better example) and it's on line 111 (`body { background-color: #F5F5F5;`). This is the greyish background here.",
+				"added": 1486708027
+			},
+			{
+				"comment_id": 4,
+				"body": "You're welcome. Also, [here](https://learnxinyminutes.com/docs/css/) is another nice little rundown.",
+				"added": 1486755845
+			}
+		],
+		"1_1PBMVMMVVtSK6FmMbfz4fhEw5fv6eZs5Dn": [
+			{
+				"comment_id": 5,
+				"body": "http://127.0.0.1:43110/NewGFWTalk.bit\n请使用这一个",
+				"added": 1486756406
+			}
+		],
+		"2_1PTaJe3LLeB5Pfxq8KjcpQSPcSK1PQqsQs": [
+			{
+				"comment_id": 6,
+				"body": "https://en.wikipedia.org/wiki/Online_disinhibition_effect",
+				"added": 1487032538
+			}
+		],
+		"1_15eCayxQsqggLVaj9kYJSCgTpoA2GPQEuW": [
+			{
+				"comment_id": 7,
+				"body": "@someuser: Are you the maintainer of the site? I've noticed a few problems with it.\n\n1. It seems to truncate any letter 'h's at the beginning of a query.\n2. It seems to have trouble with css and/or javascript on .bit sites, such as [here](http://nx.bit).\n3. I don't see any way way to tell apart .bit urls and zeronet urls. This may cause problems in some [cases](http://namecha.in/name/d/bluishcoder).\n\nStill, keep up the good work!",
+				"added": 1487266476
+			}
+		],
+		"1_19o28kY46qs4yztgepknRtS6HULZpQhiT7": [
+			{
+				"comment_id": 8,
+				"body": "https://wiki.namecoin.info/index.php?title=Register_and_Configure_.bit_Domains",
+				"added": 1487350526
+			}
+		],
+		"5_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 9,
+				"body": "Is there any reason why having the amount of work required increase (based on the rate of requests sent) wouldn't work?\n\nAlso, There are some [techniques](https://en.wikipedia.org/wiki/Guided_tour_puzzle_protocol) besides hashcash that might work better here to reduce spam.",
+				"added": 1487552498
+			}
+		],
+		"5_1BRSETd8x5XUtHt9jz2e4WdB9rWY1WNfiu": [
+			{
+				"comment_id": 11,
+				"body": "I think [this](http://stackoverflow.com/questions/29067660) is it.\n\nMight wanna tell the devs, too.",
+				"added": 1487719755
+			},
+			{
+				"comment_id": 12,
+				"body": "[found](http://unicode.org/help/display_problems.html) more [things](http://stackoverflow.com/questions/35944219).",
+				"added": 1487729981
+			}
+		],
+		"1_17To4zKQntCiVqSZqHK3mwEpbLWVCtLHEe": [
+			{
+				"comment_id": 13,
+				"body": "Moved the response [here](/1HEXX7UamTbF6EwEFtN6QDGsjLdcY7Hkc5/?Post:13) for visibility.",
+				"added": 1487810660
+			},
+			{
+				"comment_id": 22,
+				"body": "> [styromaniac](#comment_1_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): ZeroNet, WebTorrent, GitTorrent and Web2Web need DHT and need the widest adoption possible.\n\nGittorrent appears to be dead in the water, but we do have [something else](https://github.com/clehner/git-ssb).",
+				"added": 1488941495
+			},
+			{
+				"comment_id": 25,
+				"body": "> [sum1](#comment_1_18VhT9MmPNHTj6ZaAXigPP251FAq1kxKVR): If Zeronet was incorporated into Tribler somehow, then it would solve that issue.\n\n[Possible bad idea](https://lists.torproject.org/pipermail/tor-dev/2014-December/007999.html).",
+				"added": 1489020651
+			},
+			{
+				"comment_id": 28,
+				"body": "> [torezen](#comment_1_127xneP1vvFJyc6SQZNzh2hyrkBuezpcvr): Standard bittorrent already supports trackerless torrents, doesn't it? Surely it must be possible to integrate this into Zeronet.\n\nhttps://github.com/HelloZeroNet/ZeroNet/issues/57",
+				"added": 1489350116
+			}
+		],
+		"1_1HMgB5kC5CXhxSngryrEDLUrPXkKgH1mtt": [
+			{
+				"comment_id": 15,
+				"body": "> [cyberfoo](#comment_5_1HQat1a4kYwNck8Bx3CGxh6rKCQ9CtBvME): well there used to be a search thing called zerosearch\n\n[this one?](/zearch.bit)",
+				"added": 1488149535
+			},
+			{
+				"comment_id": 16,
+				"body": "> [kaffie](#comment_243_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Probably need therapy or something >_>\n\nI suggest mentioning it to your doctor to see how serious it is/isn't. Now (of all times) is a good time to consider this.",
+				"added": 1488346109
+			}
+		],
+		"22_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 17,
+				"body": "I don't know if [Redhat's business model](https://www.quora.com/How-does-Red-Hat-make-money) would work here.\n\nRight now, doing more development work on ZN so that it can eventually become stable is the best goal.",
+				"added": 1488347908
+			}
+		],
+		"2_12JNkg22um5nYeLgK8XgKavpivuwjrfHAy": [
+			{
+				"comment_id": 18,
+				"body": "These are the alternatives I can think of at the moment:\n\n1. A rolling blockchain/pruning, where a fixed amount of the last X transactions/ days are kept. Can also be set up so that storing more than the minimum is possible (and clients are rewarded for doing so).\n\n2. [Whatever the hell MaidSafe is doing](https://safe-network-explained.github.io/safe-for-bitcoiners#blockchain).\n\n3. Tangles: A new structure Invented by [IOTAtoken](http://iotatoken.com/). They're like a blockchain, but not strictly linear. The whitepaper is [here](http://iotatoken.com/IOTA_Whitepaper.pdf).",
+				"added": 1488650860
+			},
+			{
+				"comment_id": 20,
+				"body": "> [kopyjane](#comment_6_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Apparently Kim Dotcom was going to create a platform that facilitates easier bitcoin micro-transactions ..\n\nI hope someone can persuade him to open source whatever is done so far, that'd be nice.\n\nTwo other things:\n\nI just remembered [Blockstack](http://blockstack.org/intro)--not exactly a solution, but an idea source. It's a DNS storage system with a \"virtual\"/\"meta\" blockchain that can use any other blockchain under the hood--almost like a merger site here, really, it's pretty clever. Also it does Dapps. More on the scalability [here](http://forum.blockstack.org/search?q=scale).\n\nand:\n\n> [cnocg](#comment_4_1L34ssdxfxnnSFEoUmy48LocCxnVAHtqSV): zcash is a choice.\n\nYou forgot the ``http://`` there cnocg. Might wanna add that.\n\n\nAlso since when have multiple replies at once been a thing?",
+				"added": 1488825594
+			}
+		],
+		"1_12JNkg22um5nYeLgK8XgKavpivuwjrfHAy": [
+			{
+				"comment_id": 19,
+				"body": "> [usc](#comment_1_1PGgFqu1c2u77NWFS68Sb36M361DGhfjtA): Is there any complete guide to setting up a domain with Namecoin on ZeroNet?\n\nIf you want, you can make a url that partly contains a string you want ([see here](/13x71nc7fju6afMqpEPfcu3Gx9Z5hNhH48/?Post:5)) at no cost (besides some one-time heavy CPU work). I used it so that [my zite url](/1HEXX7UamTbF6EwEFtN6QDGsjLdcY7Hkc5) starts with 'hex'.\n\nIf you want to install it, the blockchain's only 5GB, and multiple people here would be willing to toss some NMC your way--including me.",
+				"added": 1488680258
+			}
+		],
+		"9_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [
+			{
+				"comment_id": 21,
+				"body": "[Multihashes](https://github.com/multiformats/multihash) could be of use here.",
+				"added": 1488906972
+			}
+		],
+		"26_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 23,
+				"body": "> [kai0](#comment_32_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): I think it is wrong to consider the P2P network formed by the mobile now. Because the mobile's storage capacity is too small.\n\nPeople use a lot of mobile devices, and being able to use Zeronet on them would make people like it more. Also, streaming data instead of downloading is becoming more popular (like Netflix/Spotify/Youtube), so being able to do some amount of that is a good idea too.\n\n> For example, from 100000 personal computers constitute zeronet basic network, each computer to take 30G hard drive capacity, 100000X30G = 3000T. So big a P2P database, how to build? How to run How to maintain This is the real problem.\n\nThat example isn't totally right. A network can be very redundant, or have high capacity, but having more of one means having less of the other. You can have more of each, but that's much harder. ([this page](https://en.wikipedia.org/wiki/CAP_theorem) explains it a little more).\n\nFor example, if there was only one site with a size of 30GB, then the whole network can only store 30GB. I know it's not really like that--but in the real network, just adding up the storage of each device isn't correct.",
+				"added": 1488987334
+			},
+			{
+				"comment_id": 24,
+				"body": "> [kai0](#comment_34_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): everything is done。\n\n[It really isn't](https://github.com/HelloZeroNet/ZeroNet/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). A better foundation is easier to build on top of.\n\nThere are people that have [already](http://createjs.org) made [CMSes](https://cdmedia.github.io/cms.js/) with Javascript, and it's possible to adapt one of those to use here. I know at least one [person](/126fBtopb2n7Pc42KhZyZyHhZKrecAdMdR) has already tried this.",
+				"added": 1489018913
+			},
+			{
+				"comment_id": 26,
+				"body": "> [kai0](#comment_38_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): I don't know css at all, to hard for me to change it.\n\nConsider learning [a bit](https://www.w3schools.com), it can be fun.\n\nThis is a little hard though, because \"making it look pretty\" is something graphical designers are better at, and \"making it do things\" is what programmers are best at (It's like having one person who is an expert on making sculptures, and one who is an expert on painting them). Nofish seems good at both, which is kind of rare. I don't think many other developers here are good at both skills.\nI'll also see if I can do something with it over the weekend, but there's only some much I can do unless I have more information. Maybe make a simple picture of what you're thinking of?",
+				"added": 1489131630
+			},
+			{
+				"comment_id": 27,
+				"body": "Someone made a blog with [Hexo](/14feUXtxkukdA9qutsHtKrAdXcYm5nnViu).",
+				"added": 1489349887
+			}
+		],
+		"1_1HJugahAiT2RnwJQdHuEd2RgW5fpWwNxnB": [
+			{
+				"comment_id": 29,
+				"body": "bad day?",
+				"added": 1489717941
+			}
+		],
+		"6_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 30,
+				"body": "yo we got ya [covered](/1F7b27kT38nMYZQg7tvDr33qWDZQgwnQpw) [fam](/12qyhjFvaCdbCwcsRX813aPwagd6FycFiU)",
+				"added": 1490463340
+			},
+			{
+				"comment_id": 32,
+				"body": "quick note(s):A: neither of these are mine, B: you may need to have git installed to make use of some of these, C: Download as many optional files as you can. They're sparse as-is.\nEdit: 0git seems to work fine, the other one is a bit flaky. Still, dl all those optional files plz, it helps.",
+				"added": 1490770997
+			}
+		],
+		"2_1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": [
+			{
+				"comment_id": 33,
+				"body": "open task manager (ctrl-shift-esc) > go to the startup tab > right-click > disable\n\nAlthough it would help if you could find *where* the other version is running from..",
+				"added": 1492922374
+			}
+		],
+		"1_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 34,
+				"body": "Nix (yes, that's its name) is pretty neat. [[link](http://distrowatch.com/table.php?distribution=nixos)]. Everything in the OS is managed by a single functional language (with the same name) instead of five bajilion blobs of C and Perl and whatever--you also get full atomic rollbacks, so that's pretty neat.\n\nI suggest giving it a spin--If you have a VM manager and know how to partition a disk, you can get it installed in like 15 minutes.",
+				"added": 1495244638
+			}
+		],
+		"1_18C45ndJpnDbtgU7QdFxbfcENxBsPPEUtG": [
+			{
+				"comment_id": 37,
+				"body": "[There are bigger fish to fry and you know it.](http://www.gao.gov/assets/690/683984.pdf)",
+				"added": 1496873848
+			},
+			{
+				"comment_id": 38,
+				"body": "> [planespherev3](#comment_209_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): If they don't want to abolish money, private property and the state, they are capitalist.\n\nNot entirely so. Some believe in government regulation (to prevent monopolies etc)--and that's goes against the core idea of capitalism pretty strongly, no proletariat revolution required.",
+				"added": 1497081632
+			}
+		],
+		"5_1BFTNXtYQDMCurqyg45KLmsV6oJD7bQSsH": [
+			{
+				"comment_id": 39,
+				"body": "> [kaffie](#comment_362_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): And that's it. The rest are shit.\n\nWoah slow down there. I don't think you've seen _all_ of them. That said, here a few interesting ones:\n\n\n  [Iotatoken](https://iota.org): First I know of to use a DAG instead of a blockchain. Whitepaper [here](http://iotatoken.com/IOTA_Whitepaper.pdf).\n\n  [Zcash](https://z.cash) (no relation): Heavy-duty (but optional) anonymity.\n\n  [Sia](http://sia.tech): fully decentralized anonymous file storage.\n\n  [Lisk](https://lisk.io): Dapps. Also it's not Ethereum.\n\n  [Golem](https://golem.network): Decentralized computation.",
+				"added": 1497230299
+			},
+			{
+				"comment_id": 40,
+				"body": "> [elonsatoshi](#comment_1_1ATJHcS2VayVXQvo2GUnkHcC63QkFY5Zjg): The first place I heard the term DAG was in IPFS. What's a DAG?\n\nhttps://en.wikipedia.org/wiki/Directed_acyclic_graph\n\nAlso, forgot to mention: [Maidsafe](https://maidsafe.net). Roughly same concept as Sia, but blockchain-less. In Alpha right now.",
+				"added": 1497582149
+			}
+		],
+		"1_1JW2rWSRrq6oEWq7buxhGCt3a3WCA96UWe": [
+			{
+				"comment_id": 41,
+				"body": "> [wotank](#comment_16_1JW2rWSRrq6oEWq7buxhGCt3a3WCA96UWe): thank you , but i can't find 3 dots appear.....\n\nIt's way on the right side -->",
+				"added": 1497753030
+			}
+		],
+		"1_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": [
+			{
+				"comment_id": 42,
+				"body": "_I made a Rough English version. I had to discard a lot of stuff (There's some redundancy, and I don't know how to reword the line about \"national dignity\" in a way that makes sense), but I think the overall meaning is there._\n\nAppeal for Chinese users: Please do not post in Chinese on this forum.\n\nThis is the English forum. Many of you are ignoring this provision and posting here in Chinese .In order to keep the boards clean and tidy, please delete your Chinese language posts and move them over to the Chinese board.\n\nThe Chinese language board is here:\n\n**[** **[中文论坛 | GFW Talk](/NewGFWTalk.bit)** **]**\n\n_Notes from me:_\n_1: this will be easier if we can get some kind of built-in translation service working._\n_2 I can do this again if needed (just send me a zeromail message), also see #3 below. _\n_3: Try rephrasing the same thing multiple ways, giving each a number. For example:_\n  \n  \n_A: I like pears._\n_B: I enjoy pears._ \n_C: I like how pears taste._\n\n_This reduces the impact of errors or quirks in translators and make you easier to understand._",
+				"added": 1497859481
+			},
+			{
+				"comment_id": 47,
+				"body": "Everyone:\n\nWe aren't telling you to go to the Chinese message board because we dislike you. We are saying it because many of us Don't speak Chinese, and using Online Translators is tedious.\n\nIf someone invents some kind of translate button or similar feature for this site, that might work. It might not be as accurate, but not needing to copy text back and forth between this site and a translator would make people much more eager to talk. Until then, sharing the same space will only cause clutter, and I would politely suggest only posting here if you know at least a small amount of English.\n\nThe Chinese Translation is below, I don't know how accurate it is. If someone who knows both languages wants to correct it, please do that.\n\n~~~\n\n大家：\n\n我们不会告诉你去中国留言板，因为我们不喜欢你。 我们这样说是因为我们许多人不会说中文，使用在线翻译是乏味的。\n\n如果有人为此网站发明了某种翻译按钮或类似的功能，那可能会起作用。 它可能不是那么准确，但不需要在本网站和翻译人员之间来回复制文本，这将使人们更加渴望谈话。 在此之前，共享相同的空间将只会引起混乱，如果您至少知道少量的英语，我会礼貌地建议在这里发布。\n\n这是中文翻译。\n\n我不知道它是多么准确。 如果知道这两种语言的人都想纠正这个问题，请这样做。",
+				"added": 1498426735
+			}
+		],
+		"1_1LxCPvqsa78HDaX15U1PVrZ52MpCvZmLYk": [
+			{
+				"comment_id": 43,
+				"body": "[What is Usenet?](http://usenet.org)\n \n \n> Usenet is a collection of newsgroups where the users can post messages and these posted messages are distributed via Usenet servers. Each server holds these posted messages for a certain period of time. This period of time is also known as retention time. Usenet can be compared with an internet forum, but the main difference is that the messages are not stored in one server and are only available for a certain amount of time.\n\nThree big things:\n\nUsenet is on/within the [WWW](http://www.webopedia.com/DidYouKnow/Internet/Web_vs_Internet.asp).\n\n> Servers\n\nWe don't really have those.\n\n> Retention Time\nNor this.\n\nAlso: you could use ZN without the WWW by setting up your own private network and private trackers.",
+				"added": 1497897030
+			}
+		],
+		"1_1F66E3MHhZtU9JT7K4a2sh7vZEn3CfcXCk": [
+			{
+				"comment_id": 44,
+				"body": "While the feature set is still in the works, ZN appears to be the most polished/functional right now.",
+				"added": 1498244531
+			}
+		],
+		"1_1NQqiXTHtCaNDH9aWaoMRpQDyUbGcwVRF3": [
+			{
+				"comment_id": 45,
+				"body": "Looks nice, but Counterparty isn't exactly separable from Bitcoin's blockchain--are you sure that some other similar token might not create less bloat? I would have gone with [Lisk](https://lisk.io) myself.",
+				"added": 1498273029
+			},
+			{
+				"comment_id": 46,
+				"body": "> [coval](#comment_1_1NQqiXTHtCaNDH9aWaoMRpQDyUbGcwVRF3): Maybe you can expand on what you mean by \"less bloat\"?\n\nRelying too heavily on an existing blockchain is a sort of unintentional form of centralization. It's not quite the same kind altcoins aim to avoid, but close--some people might describe this as 'piggybacking', 'leeching', or 'freebooting'.\n\nPersonally, I prefer altcoins/tokens that either simply start their own chain, or use [sidechains](https://gendal.me/2014/10/26/a-simple-explanation-of-bitcoin-sidechains), which don't depend on another blockchain too much. That way you can 'convert' something prominent like bitcoin into something exotic and experimental like [IOTA](https://iotatoken.com) (which has no blockchain) or (again) [Lisk](https://lisk.io) (where smart contracts are written in plain Javascript).",
+				"added": 1498371513
+			},
+			{
+				"comment_id": 48,
+				"body": "> [coval](#comment_2_1NQqiXTHtCaNDH9aWaoMRpQDyUbGcwVRF3): Thanks, appreciate you expanding on your thought.\n\nYou're welcome. I see a lot of jumping the gun in the crypto/altcoin world, and wouldn't want to see that happen here. Being willing to put in extra work to design your protocol with modularity and extensibility in mind is pretty applaudable.\n\nOn a related note, do you know how your system will handle domain abuse/squatting? I know that there are some attempts to do better than Namecoin--[Ethereum's](https://medium.com/the-ethereum-name-service/explaining-the-ethereum-namespace-auction-241bec6ef751) approach is workable, and I really like what [LBRY](https://lbry.io/faq/naming) has got going on. I don't know how much flexibility you have with this, but please do put it under consideration.",
+				"added": 1498442137
+			}
+		],
+		"16_168qV1Xxp2EyszrzdECLUwXrn9wGYjDdar": [
+			{
+				"comment_id": 49,
+				"body": "Rectennas are pretty cool. They let you literally pull power out of thin air (from stray radio waves). It's only milliwatts , but In an urban environment they can power a lightweight sensor network 24/7, rain or shine. [Here's some instructions on building one.](http://www.rexresearch.com/tate/tate.htm)",
+				"added": 1499724487
+			}
+		],
+		"1_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": [
+			{
+				"comment_id": 50,
+				"body": "I'll stick it on my seedbox under one condition: could you put it [here](/ZeroTorrent.bit) instead? It's a _much_ more fitting place.\n**Edit**: Done.",
+				"added": 1500236815
+			},
+			{
+				"comment_id": 52,
+				"body": "You can remove this one now.",
+				"added": 1500240607
+			}
+		],
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": [
+			{
+				"comment_id": 53,
+				"body": "Hard to say for now, But there is some degree of hope. Muricans gave congress a [pretty strong message](https://www.fightforthefuture.org/news/2017-07-13-update-historic-day-of-action-for-net-neutrality), and the momentum is still going--but there is still [more to do](https://www.fightforthefuture.org/projects).\n\nIf you live in America, tweet, email, and/or call (if you can) your local representatives. Be polite and informative, and write out what you want to say ahead of time if you think it will help.\n\n[Donation](https://donate.fightforthefuture.org) is also an option, but take note that they seem to not accept decimal amounts--I donated $3.50 USD and was refunded (worked when I did 3 though).\n\nI'm writing something about this on my zite, I'll stick it here soon.",
+				"added": 1500514387
+			},
+			{
+				"comment_id": 54,
+				"body": "> [rrwtbrsyq8wmackv](#comment_3_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7): Is your Congress accepting messages (of any strength) from the population?\n\nYes, they are accepting comments about the bill [here](http://gofccyourself.com). Be cautious though: 'restoring internet freedom' is their term for abolishing Title II, you need to file *against it*, and you need to specifically mention that you want title II to stay in place.\n\nYeah corporate free $peech is a big factor, but so is public popularity--serve the people poorly enough and you don't get reelected (meaning the 'donations' stop too). I don't care how bleak it looks, It's **worth** putting up a fight for.",
+				"added": 1500667140
+			}
+		],
+		"2_16J4P74LkfZ87zHug8ycEHmYdvp6wMdkXt": [
+			{
+				"comment_id": 55,
+				"body": "Also same. Pls resign it.",
+				"added": 1501272745
+			}
+		],
+		"3_1Jk6iv2QXUgZo4Y4P5ZUKe7SrpMnGs5unL": [
+			{
+				"comment_id": 56,
+				"body": "Not shutting down, but useful:\nhttps://qntm.org\nhttp://ascii.textfiles.com\nhttp://www.learnxinyminutes.com",
+				"added": 1502484202
+			}
+		],
+		"1_1PxJ9mMp9e5wcz7tRyw7VKBi1nSK7Gpk8y": [
+			{
+				"comment_id": 57,
+				"body": "[.](http://www.gao.gov/assets/690/683984.pdf)",
+				"added": 1503369328
+			}
+		],
+		"7_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 58,
+				"body": "wait, does ipfs have a webseed-like feature of some kind?",
+				"added": 1503426294
+			}
+		],
+		"1_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": [
+			{
+				"comment_id": 59,
+				"body": "ZN uses bittorrent trackers, which I'm pretty sure axe peers that engage in cuntish behavior.\n\nAlso: if you can create hundreds of uncooperative peers, somebody else can create just as many normal ones.",
+				"added": 1504909032
+			}
+		],
+		"1_1ACc4pa2pJam33SkSE1zF1seF3LQKWR24v": [
+			{
+				"comment_id": 60,
+				"body": "> Just subscribe to same sites\n\nDeletions wouldn't sync.\n\n>  maybe something like Syncthing\n\nI've used Syncthing and can say that it would be probably be good for this use case, although supposedly is has trouble with nested folders (I haven't noticed any).\n\nTwo other ideas: \n\nA shared network drive of some kind--I'd need to know more to say more.\n\nAlso, a git repo could fit well here if you can get pull requests to auto-accept. Bundle it up with Cryptomator and you can even store the repo on Github or another not-your-own device/server.",
+				"added": 1506069655
+			}
+		],
+		"6_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 61,
+				"body": "PGP would be overkill here, I imagine--either you would need to add a *lot* of complexity, or have your PGP key as your zite address.",
+				"added": 1506296023
+			}
+		],
+		"7_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 62,
+				"body": "Move from religion as a negative deterrent to patriotism as a positive encouragement (they function almost the same mentally anyway). Come up with some good slogans (something something \"the American family\"), whip up some relevant propaganda (the good kind) and you're ready to go.",
+				"added": 1506469643
+			},
+			{
+				"comment_id": 63,
+				"body": "relevant: http://en.wikipedia.org/wiki/The_Shape_of_Things_to_Come\nOne hell of a future.",
+				"added": 1506470016
+			}
+		]
+	},
+	"comment_vote": {
+		"27_1BRSETd8x5XUtHt9jz2e4WdB9rWY1WNfiu": 1,
+		"121_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"3_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"28_1BRSETd8x5XUtHt9jz2e4WdB9rWY1WNfiu": 1,
+		"7_1PTaJe3LLeB5Pfxq8KjcpQSPcSK1PQqsQs": 1,
+		"6_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"13_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"2_17To4zKQntCiVqSZqHK3mwEpbLWVCtLHEe": 1,
+		"1_17To4zKQntCiVqSZqHK3mwEpbLWVCtLHEe": 1,
+		"4_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"18_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"10_1PvAednzaMJiuMz1SD5wF3m3Hx7SK75zHv": 1,
+		"24_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"152_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"249_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"44_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"1_1HSLR7GTDxYLTqXLSSyVg1SieU7Nhk1FFW": 1,
+		"33_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"34_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"12_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1,
+		"36_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"37_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"13_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1,
+		"38_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"39_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"42_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"64_1LESBhM9ResjKhCCNhgbNDVFKcfdQractA": 1,
+		"43_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"47_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"2_1NQqiXTHtCaNDH9aWaoMRpQDyUbGcwVRF3": 1,
+		"1_115Lt9KY46bAyWNwsfg1KVchNGz4vkxY1n": 1,
+		"59_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"8_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"62_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1
+	}
+}

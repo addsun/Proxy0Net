@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G8k43dX5m/CxmN84voLlYNJN4yqMn0M6cGxchf9w/7MkrKzUqdQEM0Q8HWGGDKRlO+4rJc2oCitOMMpnFbCL4Mw=",
+ "cert_user_id": "greenpoison@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fad7643906771e92012f2996813978cc7230faf4fc3d322302b54d7cb469de32",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/12nxvsaB5nuXSjmTSEfizVEvRhtSBNoUYQ/content.json",
+ "modified": 1507833372,
+ "signs": {
+  "12nxvsaB5nuXSjmTSEfizVEvRhtSBNoUYQ": "G7kSsyta1DWoLHo/zfGjsnoUi4y2+69a9GdOPVTJaYFXZ0rOlWvCcnRcOW84FdYHlupdMnI9rJLBFvjCwj+uNnA="
+ }
+}

@@ -1,0 +1,80 @@
+{
+	"next_comment_id": 13,
+	"user_name": "音巢",
+	"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "有人给出过比较麻烦的跳hub法，虽然这里也有一个实验性的简化跳hub法",
+			"post_uri": "12WJPdnsnZQajtvTiCWcn5xGAUPyEV1yJ7_1502971768",
+			"date_added": 1502973959
+		},
+		{
+			"comment_id": 2,
+			"body": "被看出是密文的密文首先就输了",
+			"post_uri": "115Lt9KY46bAyWNwsfg1KVchNGz4vkxY1n_1504824032",
+			"date_added": 1504973982
+		},
+		{
+			"comment_id": 3,
+			"body": "@Niba: BM有个问题就是接收者如果掉线超过一定时间就没办法拿到加密密钥导致信息根本发送不出去，而且离线消息和移动端性能都不够理想，和IM软件比还是有硬伤",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1505702319",
+			"date_added": 1505873421
+		},
+		{
+			"comment_id": 4,
+			"body": "@xXx_JuNkO_xXx: 劲爆灵堂还行，这位猛男可否带我这个火星人到地球上观观光？",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1505919964",
+			"date_added": 1505924384
+		},
+		{
+			"comment_id": 5,
+			"body": "@xXx_JuNkO_xXx: 惊了，又有添砖加瓦？",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1505919964",
+			"date_added": 1505924809
+		},
+		{
+			"comment_id": 6,
+			"body": "@Polar: 一个基于Matrix协议的多/去中心化IM软件",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1506015903",
+			"date_added": 1506059265
+		},
+		{
+			"comment_id": 7,
+			"body": "@Comeon: 你似乎误解了什么。第一，0me显示什么东西不是由开发者决定的，而是由Hub决定的。\n第二，Hub只传递它认证的消息，而只要是它认证过的信息就会被传递出去并显示在0me中。\n第三，只要你的本地存有某个Hub，那0me会显示这个Hub中的所有信息，而与发布者是谁无关。\nNofish能做的最多最多就是在0me中给出GetAllHub的链接推荐，但这在工程学上是不妥的（随意地在自己的项目之下引用不受自己控制的外部部件",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507881437
+		},
+		{
+			"comment_id": 8,
+			"body": "@Comeon: 错误，每一个Hub接受什么ID的签名是由Hub自己定义的——和所有0网zite一样，而和ID提供者无关，ID提供者只是给了你一个签名用证书而已。而且关于各个站点接受什么id的签名是**白名单定义接受范围**，而不是黑名单定义拒绝范围",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507882590
+		},
+		{
+			"comment_id": 9,
+			"body": "@Comeon: 0Me算是一个显示器/窗户/Merge站点，而Hub才是主机/房间里面的东西/真正存放内容的zite。匿名账户要发言需要让账号加入AnonymousHub，而且现在AnonymousHub**只接受**0ch和ifs账户，关于要求其它账户也能在AnonymousHub说话那需要找AnonymousHub的鹳狸猿。",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507883781
+		},
+		{
+			"comment_id": 10,
+			"body": "@Comeon: 毕竟从前万物派生于几个原始站点，而原始站点只允许0id。而当有人反应过来之后，0id独占鳌头的状态已经无法逆转了，成为了0net中最权威的ID提供者\n另外，有必要纠正一下，不是**我的号**被加入白名单，而是Hub接受我**账号的提供者**",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507884406
+		},
+		{
+			"comment_id": 11,
+			"body": "@Comeon: 然而并不一定，你可以去看看0chan，匿名与否并不打扰你说话和听话的能耐。这个只要求站点所有者自己配置，允许多个提供者的ID发言那这些ID在这个站点上并不会有功能性区别",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507884849
+		},
+		{
+			"comment_id": 12,
+			"body": "@Comeon: 我觉得那并不归她管，站点自己接受什么id只能由站点鹳狸猿自己配置。目前唯一的方法只有营造一个0sites里著名的中文导航站了，然后在这个导航站里给新人一些指引\n当然目前最实际的方法就是让P2P在NewGFWTalk里发个置顶帖说明一下形势",
+			"post_uri": "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW_1507878769",
+			"date_added": 1507885403
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 5,
+	"comment": {
+		"1_15ins8mwfnDtrqrEgkkhmZHfHQJGAoJdQH": [
+			{
+				"comment_id": 1,
+				"body": "Intergalagtic File Server IFS: /12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er/\nCompletely ZN based, no non-ZN technology needed.",
+				"added": 1506177540
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 2,
+				"body": "> [scrubthesecond](#comment_64_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe): I am now, but it's nothing like Reddit.\n\nWhats most important missing?",
+				"added": 1506178304
+			},
+			{
+				"comment_id": 3,
+				"body": "> [jayofthezero](#comment_7_16nArdxrSaNThNp83kL8E6NLL9WD98iUne): Makes more sense to create a merge site and each \"subreddit\" is a hub that people can choose to download and subscribe to. That way no one person has control over the content, but people don't have to worry about maintaining an up to date clone of the actual reddit clone itself if they don't want to. That also means people can freely make their own reddit clone if they want to but have it connect to the same posts, and hence, the same content and communities. [...]\n\nThats done with ZV:\nIt uses hubs called CDN-Clusters.\nAnyone can connect to those clusters, like IFS and ZV are both very different frontends, that share the same merger type CDN.\nTo differentiate them, they use the names ZV-Cluster or IFS-Cluster, but since they are of same mergertype, any content can be shared between them.\n\nMore abstraction like Comments-Cluster, Video-Cluster, etc. could make the hubs even more useful, to simulate cross-content useage like imgur, etc.",
+				"added": 1506178726
+			}
+		],
+		"1_1B6yqEWDL2A9u1cMDrGDANznPEuHPV2AJo": [
+			{
+				"comment_id": 4,
+				"body": "Any link where you got it from?",
+				"added": 1506520845
+			}
+		]
+	},
+	"comment_vote": {}
+}

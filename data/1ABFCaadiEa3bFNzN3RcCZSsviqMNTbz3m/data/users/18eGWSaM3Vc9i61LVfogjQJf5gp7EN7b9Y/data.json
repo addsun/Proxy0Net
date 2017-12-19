@@ -1,0 +1,32 @@
+{
+	"next_comment_id": 5,
+	"user_name": "Rythyrix",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Keep in mind that onion peers can be duplicated quite easily by simply restarting ZeroNet repeatedly with Tor-only mode on. Since each hidden service is generated at ZeroNet daemon boot, that's a lot of hidden services no longer reachable, at least until they timeout. I would not count ZeroHello's peer count as gospel.",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1489299839",
+			"date_added": 1489299927
+		},
+		{
+			"comment_id": 2,
+			"body": "@Yinyue: That the same peers have changed to different addresses, making it appear as though there are more peers than there really are. If you wait about an hour, that number should drop, due to the tracker dropping them out of the registry of what to send whenever a node requests peers.",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1489299839",
+			"date_added": 1489300286
+		},
+		{
+			"comment_id": 3,
+			"body": "What is she holding?",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1489301312",
+			"date_added": 1489301935
+		},
+		{
+			"comment_id": 4,
+			"body": "Just judging by the vanity, I had assumed another gun market. Yikes, the depths to which humanity will sink.",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1490017123",
+			"date_added": 1490069064
+		}
+	]
+}

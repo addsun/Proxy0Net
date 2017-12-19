@@ -1,0 +1,80 @@
+{
+	"next_topic_id": 3,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "PURE CSS GAME",
+			"body": "A shoot the birds game site\n1FV6zgoutZSDD61ASubyyFLPqWPMZAQsJt",
+			"added": 1499907846
+		},
+		{
+			"topic_id": 2,
+			"title": "Issue with using window.localStorage",
+			"body": "I have a ZeroNet site which needs to use window.localStorage, but the iframe the site loads into is preventing me due to 'allow-same-origin' not being present in the sandbox property. It seems I have no control over the iframe's properties because it gets injected by ZeroNet and not any files on my machine.\n\nAnyone have a solution to this issue?",
+			"added": 1500084633
+		}
+	],
+	"topic_vote": {
+		"2_1ExgvBBPhr9nfVYJ9vaj9CiQSh4azo75xh": 1,
+		"2_1FufvbhYhPFkRkbEkBUy1goZWS8RoaasCs": 1,
+		"1_1DdVVtVGeYcTup7jnyMLLYwD3jjayPsu3M": 1
+	},
+	"next_comment_id": 9,
+	"comment": {
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 1,
+				"body": "> [godlike](#comment_1_1HLEARKK9Yd7vkNQoTUfLMjiQVTL6ebELG): NYC\n\nNYC also checking in",
+				"added": 1499907874
+			}
+		],
+		"1_1DdVVtVGeYcTup7jnyMLLYwD3jjayPsu3M": [
+			{
+				"comment_id": 2,
+				"body": "It's too easy for you to say, \"you're all wrong i'm from [pick a country not mentioned]\", and not pay anyone.",
+				"added": 1499997449
+			},
+			{
+				"comment_id": 7,
+				"body": "you are from Denmark\n ",
+				"added": 1500087368
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 3,
+				"body": "test",
+				"added": 1500000969
+			}
+		],
+		"8_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": [
+			{
+				"comment_id": 4,
+				"body": "Does anyone know of a decentralized cryptocurrency exchange on zeronet?\n Maybe someone could port Bisq to ZeroNet?",
+				"added": 1500030912
+			}
+		],
+		"1_145Mr9CmbgvE3UXC9nLhC5kGKL2w963yB2": [
+			{
+				"comment_id": 5,
+				"body": "> [anonymousyan](#comment_1_13GwoFajYHbvbXH6fhNxMB8aKvy5Wc2FQr): anybody online?\n\nI am :)",
+				"added": 1500034429
+			}
+		],
+		"2_1FufvbhYhPFkRkbEkBUy1goZWS8RoaasCs": [
+			{
+				"comment_id": 6,
+				"body": "I play TFC.",
+				"added": 1500084736
+			}
+		],
+		"2_1ExgvBBPhr9nfVYJ9vaj9CiQSh4azo75xh": [
+			{
+				"comment_id": 8,
+				"body": "> [kaffie](#comment_394_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh)\n\nAwesome, Thanks",
+				"added": 1500343391
+			}
+		]
+	},
+	"comment_vote": {}
+}

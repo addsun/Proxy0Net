@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 2,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Jeckimo",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1511316536,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1511316610,
+			"body": "I hope this doesn't fade into the void",
+			"date_added": 1511316608
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "yo teranhelo'",
+			"post_uri": "1Ly7Zat64UdKNHWhw5hfac5rsc6rLfYHV1_1511313645",
+			"date_added": 1511316560
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Ly7Zat64UdKNHWhw5hfac5rsc6rLfYHV1",
+			"user_name": "Taren",
+			"date_added": 1511316581
+		}
+	]
+}

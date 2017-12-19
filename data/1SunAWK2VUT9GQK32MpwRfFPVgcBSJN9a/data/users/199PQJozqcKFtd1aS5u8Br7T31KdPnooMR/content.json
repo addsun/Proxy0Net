@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4UuVuL0FSRIJFIGwacxo6oAQdazVm1f84NdkjAJfFRBXGp3Tm89yuy4SSnGUxckcTmoqZVf5exilW9h3RIH0Kw=",
+ "cert_user_id": "scrumplex@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "b41d336b80a197a78c77931b9e9290cb4562ec01c673f1964bdee10515c66171",
+   "size": 1213
+  },
+  "data.json": {
+   "sha512": "b817a93ba6c8d71f806455b7d9c14ac7d41aee4bcaf8efcc356536db802459a7",
+   "size": 394
+  }
+ },
+ "inner_path": "data/users/199PQJozqcKFtd1aS5u8Br7T31KdPnooMR/content.json",
+ "modified": 1512330321,
+ "signs": {
+  "199PQJozqcKFtd1aS5u8Br7T31KdPnooMR": "G9oswVChR5KDg6Uu8cT8x7suF8lbfHz5HNa7AdNClI2yfVD62j6JfuukYdSBg99Ypd1epgQsBlqYs/HALvxPfSg="
+ }
+}

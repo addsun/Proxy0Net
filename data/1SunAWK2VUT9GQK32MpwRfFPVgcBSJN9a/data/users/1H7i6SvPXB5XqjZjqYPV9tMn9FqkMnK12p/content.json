@@ -1,0 +1,24 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HF/+zNe0QgyIO8faBbKSU2ITUBhtyUujrFNh5eoGvFH+z0mTKnIGfaQA6tUkoicB5MCxDeIzH/USoZoNvNpj1pc=",
+ "cert_user_id": "putinkhuilo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5d99cae0b11a082a32954af699affff4280e9453f7c0257963e57de33eba9d80",
+   "size": 1025
+  }
+ },
+ "files_optional": {
+  "1505645288.jpg": {
+   "sha512": "f76ecaebf1758da7b572bdb355ace673e652018ddaf8b19fb67693c1da73a3c0",
+   "size": 28880
+  }
+ },
+ "inner_path": "data/users/1H7i6SvPXB5XqjZjqYPV9tMn9FqkMnK12p/content.json",
+ "modified": 1505661582,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1H7i6SvPXB5XqjZjqYPV9tMn9FqkMnK12p": "HDvrCBBhORVPVqtj4YtBlI4VENRCfQI1shZpym7GNDt+U8v6ojXHwhiHAEH46spkK0XM5TWtBfiAUS2V7sndQT8="
+ }
+}

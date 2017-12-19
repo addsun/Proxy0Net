@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G09wLO5DQJiXGJGkt8KIbHgZ3bz1ZgM7U03BOBn+8vm+MXYuBke4r7xoQ7961KmpzA1iuIoO5B7T3vMQ3NM2IoA=",
+ "cert_user_id": "ventri@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3bd6c56b4d19a009f44eba5fb1020dad580b7e636df6e97183eb932678e049f3",
+   "size": 240
+  }
+ },
+ "inner_path": "data/users/1kQVFXxaoGCTugCJAQGL5gYDRkuYa1wmX/content.json",
+ "modified": 1507658061,
+ "signs": {
+  "1kQVFXxaoGCTugCJAQGL5gYDRkuYa1wmX": "G0wBsLet2nk5pPydI/VYlnEBRJNymmZfxGEoqj6lVpJoejDZKDmPLm2RFi3OLkEFow2KPcFZCNkNmORNi/vcYS0="
+ }
+}

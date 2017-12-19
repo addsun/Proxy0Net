@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HLf9XnzIXaOtHFoqUzTbxHTlzr0yuVJNWEOIC4DBpCu4CJbSw4NNbKjy1JUuWoUj7z3TkzSt25IRDYcsAxE7FYU=",
+ "cert_user_id": "percy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "be4fc6bf75ebe28d6325200b30cbcd0b6c886cb779379415e439c6a7c70cae8e",
+   "size": 163
+  }
+ },
+ "inner_path": "data/users/12pXmPsuz7azCfuss3Yi7J3oDr8mBgTPKK/content.json",
+ "modified": 1511794148,
+ "signs": {
+  "12pXmPsuz7azCfuss3Yi7J3oDr8mBgTPKK": "HNBckav3XjPnZQzrJ90680CnxFlGmG/mQjG6IK1uYx7nR8ipUI/cBJGxKj43ggV1A9wLMAgWym9pneJ0tBe0kns="
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "GyY7bv3fcHxkWHfE8mAroyLu8gfuSmONW83a/rNPYQNbMLL2c6040K3tKI9eQJay4ChXU9yZghSS/vv0GslxQCI=",
+ "cert_user_id": "rollout@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "763bcd91d8b16136048f4689395ecb2364d2e4abf88ed0b170553f8272122645",
+   "size": 1857
+  },
+  "data.json": {
+   "sha512": "b1ce3bbc230050fd7402ae2664a829d2d492a95eac18a509604e0bc542b2aecb",
+   "size": 126285
+  }
+ },
+ "files_optional": {
+  "1503403737.jpg": {
+   "sha512": "e348f3d2f7013fe6a7531429a93b3e79869c994ad8d06a9f78431d1c0e9c6e7b",
+   "size": 101065
+  },
+  "1503650201.jpg": {
+   "sha512": "94a20e687108c4c52ca6cfeba0310f3db0c2699203ef9d17989e8fabe0613d93",
+   "size": 38839
+  },
+  "1504595160.jpg": {
+   "sha512": "c3e89c9cd082357b4cae994185d0d63ef1588007c155a405c496f4711f2af83a",
+   "size": 91405
+  },
+  "1505295010.jpg": {
+   "sha512": "daa23de8d638fdd44e5001654571ec7e0a30eb40b47f80b1509a4621d5d8e017",
+   "size": 38126
+  },
+  "1507878134.jpg": {
+   "sha512": "182fad1315b4bfbb709dec87d80e831dbed31dce1f3f63a2be29ee6efa892b0b",
+   "size": 62685
+  },
+  "1507903461.jpg": {
+   "sha512": "21b551e9d54df2ed8906b361af1ebcc1619793e5a61b41e0c3fe7596def8a073",
+   "size": 27645
+  },
+  "1507904773.jpg": {
+   "sha512": "130e4980c581383cf7c06fa200daa0833c31ebe7349aa462b83ed5fc397e5c63",
+   "size": 29915
+  },
+  "1508130614.jpg": {
+   "sha512": "1fd76978e472aa7940e084a558e6592e4b7f784a9acd662e3445bbe3ed276ea7",
+   "size": 48651
+  },
+  "1509031367.jpg": {
+   "sha512": "bd7995967b042a6c41b31c6a3ce1b1da43dd81c1b866810495cf1c5fc6531df1",
+   "size": 54148
+  },
+  "1509182207.jpg": {
+   "sha512": "bd7995967b042a6c41b31c6a3ce1b1da43dd81c1b866810495cf1c5fc6531df1",
+   "size": 54148
+  }
+ },
+ "inner_path": "data/users/1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW/content.json",
+ "modified": 1513335485,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1PcUqgLkcgRnfD88w2FPsdTrBHWaBuPTHW": "G8C13lguphSiXHKcQl+W15h7mC7Vw8GAmsVEyAtSw6gSR3IYoBKQQ18IOKKtO4nsfQkoAprv9CqaRv+qT54unZw="
+ }
+}

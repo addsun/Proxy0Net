@@ -1,0 +1,2620 @@
+{
+	"next_topic_id": 38,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "SHA1 Collision a Concern for BitTorrent-Based Technologies?",
+			"body": "I don't know much about this subject, but I feel like all such projects won't be worthy of my donated dollars until all concerns are laid to rest with a better hash algorithm.\n\nHere's a link to a deep discussion on this issue below.\n\nhttps://github.com/bittorrent/bittorrent.org/issues/58\n\nEdit: In the comments I was reassured ZeroNet devs were wise to use a better hash algorithm to boot. They'll be receiving funds from me soon.\n\n> [nofish](#comment_889_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): ZeroNet using sha512/256, so it should be safe for another ~10years\n\n> [waterrabbit](#comment_125_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC): >>> import base64\n> >>> import hashlib\n> \n> >>> s = hashlib.sha512(\"Replace SHA-1 with stronger message digest functions!\").digest()\n> >>> base64.b32encode(s)\n> \n> 'EYVH4MBTKSZQOARCINCZZXUARJFP2SY4GXZITGS27VSZKUANE27XMNUZZ52O6UP6GUKS3LMVSGWYVBKAL3CLY5AXKN4C4HDYLBY4J2A='\n> >>> new_infohash = base64.b32encode(s).lower().strip(\"=\")\n> >>> new_urn = \"bsha\"\n> >>> new_maglink = \"magnet:?xt=urn:%s:%s\" % (new_urn, new_infohash)\n> >>> new_maglink\n> \n> 'magnet:?xt=urn:bsha:eyvh4mbtkszqoarcinczzxuarjfp2sy4gxzitgs27vszkuane27xmnuzz52o6up6guks3lmvsgwyvbkal3cly5axkn4c4hdylby4j2a'",
+			"added": 1488035887
+		},
+		{
+			"topic_id": 2,
+			"title": "ZeroMail 2.0: Only Nine Seeders?",
+			"body": "The file-sharing feature is nice, right? I'm wondering if it's just not well known yet. If that's the case: You're welcome?\n\nhttp://127.0.0.1:43110/16X3emHaVgNPrx39U1sYd24dFk5L5swTua/\n\n(Also, in regular ZeroMail, I have a contact (echobot) I'd like to delete and can't, so moving to ZeroMail 2.0 also has that perk where I haven't made any unnecessary contacts yet [these zites need a \"delete contact\" option])",
+			"added": 1488816957
+		},
+		{
+			"topic_id": 3,
+			"title": "Everyone should stop downloading with Chrome",
+			"body": "The reason is simple.\n\nUpward of seven years ago I've found out Chrome corrupts large downloads a very large percentage of the time.\n\nChecksum check any file measured in gigabytes downloaded via HTTP through Chrome.\n\nI bet you've been installing corrupted software for a while now.\n\nSave all headaches and download with Firefox or other Gecko browsers. I have no faith in Webkit or Blink browsers as this bug had never and will never be fixed, no matter how many times you report it.\n\nI bet uploads can experience corruption as well.",
+			"added": 1488825666
+		},
+		{
+			"topic_id": 4,
+			"title": "RSS for Mobile Notifications?",
+			"body": "Would it be possible for ZeroNet to integrate RSS so I can be notified of replies with sound or vibration? I believe This is what the Tom's Hardware website uses and it's really nice.",
+			"added": 1489850441
+		},
+		{
+			"topic_id": 5,
+			"title": "ZeroMail isn't working for me",
+			"body": "!\nInternal error: OSError: [Errno 2] No such file or directory: '/storage/emulated/0/lib'\nUiWebsocket.py line 105 > UiWebsocket.py line 212 > CryptMessagePlugin.py line 89 > builtins.py line 93 > __init__.py line 16 > builtins.py line 93 > openssl.py line 459 > openssl.py line 447 > util.py line 81\n\nI'm on ZeroNet-Kivy.",
+			"added": 1489967140
+		},
+		{
+			"topic_id": 6,
+			"title": "Shouldn't ZeroNet Packages Also Be Hosted on ZeroNet?",
+			"body": "I feel like I should be able to pull ZeroNet packages from ZeroNet to distribute to friends and family in case the centralized websites fall to authoritarian turmoil or control, and that it may help newcomers slip by big brother's watchful eye.\n\nMaybe I'm wrong here, but it makes some sense to me yet. Keep in mind that I'm no expert on censorship and big brother circumvention.",
+			"added": 1490457135
+		},
+		{
+			"topic_id": 8,
+			"title": "ZeroNet Would Gain Appeal. Behaving as an An App Ecosystem and Store",
+			"body": "It would need hardware access for phones and tablets, mesh networking put into its creamy center, and reviews for sites (but we can call them webapps without being incorrect, right?).\n\nTreat it as a webapp ecosystem transparent to the device OS.\n\nRivers of saliva will flow as a result and current users will not be wary of what to click when there are reviews on webapps.\n\nWhen that day comes...\n\nBOOM!\n\nZERONET IS A MUST-HAVE APP! BEST OF 2017!",
+			"added": 1493150286
+		},
+		{
+			"topic_id": 9,
+			"title": "One of the Default ZeroNet Sites Should Be a Directory of Search Engines",
+			"body": "Newbies don't immediately know of any search engines. Instead of favoring one, have a site that lists them. Important Sites is cool and a good fit, but if there are any reasons why Nofish won't include it, say links to sites he'd rather keep his hands clear of, at the very least a simple list would help.\n\nI already know about Kaffiene, Snifferdog, BWOI and KidSearch. The point is it takes a while for Newbies to get to them.\n\nDependence on ZeroTalk or clearnet searches for finding ZeroNet search engines, sometimes having to remove proxy addresses from the URLs is still very roundabout.\n\nSeriously, such a site would take maybe ten seconds tops to create if it was a barebones page with only hyperlinks, no decorations.",
+			"added": 1494970256
+		},
+		{
+			"topic_id": 11,
+			"title": "Blockstack is similar to ZeroNet",
+			"body": "I don't think I like the small details as it sounds like it's highly monetized, but maybe ZN and BS can inspire and aid one another with their strengths and open source code, such as the Blockstack browser being forked to a ZeroNet browser.\n\nBut... I'm only a tech enthusiast, not a programmer, so IDK how much ZN and BS can actually borrow from one another.\n\nhttps://www.ethnews.com/blockstack-offers-access-to-a-new-internet-by-upgrading-existing-browsers\n\nhttps://youtu.be/WveXpldGGa8",
+			"added": 1495812180
+		},
+		{
+			"topic_id": 12,
+			"title": "Communities for ZeroMe",
+			"body": "I think communities (otherwise known as groups) are very useful, but I'd be interested in community moderation by democracy without heirarchy. If ZeroMe ever gets communities, that's the way I propose it should be designed.\n\nGood idea or no?",
+			"added": 1497448743
+		},
+		{
+			"topic_id": 13,
+			"title": "ZeroNet Image File Embedding on Zites and Sites",
+			"body": "I was wondering if there's an image file host on ZeroNet that grants you the ability to embed images via HTML on any website, whether it's on ZeroNet or the clearnet (so long as ZeroNet is installed).\n\nI don't need to know about clearnet image hosts since I'm good at researching by myself, if I really want to use them. Heck, I know how to host images from Windows, Mac and Android. From Linux, I'm sure isn't difficult either.\n\nI just want to know if this can be done from ZeroNet and that's it.",
+			"added": 1505092966
+		},
+		{
+			"topic_id": 14,
+			"title": "Media Sharing Zites Using Large File Support",
+			"body": "ZeroUp is a neat demo zite and my favorite so far where media sharing is concerned. I was wondering what other media sharing zites have large file support or are working on it.\n\nKopyKate?\nZeroTube?\nIFS?\nZeroMusic?\n\nHow far along are they coming, and what new zites utilize this feature?",
+			"added": 1507572147
+		},
+		{
+			"topic_id": 16,
+			"title": "ZACK - ZeroNet Android Complement Kit",
+			"body": "You'll get true fullscreen with Fully Kiosk Browser Lockdown, system notifications from WWWnotifier, customizable homescreen icons for zites with URL Shortcut, and autorun ZeroNet at boot with Autorun. None of these apps are mine and are closed source, but they make an awesome combo. VLC is included pretty much just to keep people happy. I personally recommend GOM Player with passing video URLs from the browser. The setting is in Web Content Settings > View Other Remote Files. You'll have to change it if you want instant gratification over the long wait of downloading a temporary copy to pass to the video player, but the download option allows more players to work if you don't want to use GOM Player.\n\nThis browser doesn't let you upload files without a full license, but you can use a free, already fully functioning browser for that.\n\nhttp://127.0.0.1:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/ZACK%20-%20ZeroNet%20Android%20Complement%20Kit.zip",
+			"added": 1508515427
+		},
+		{
+			"topic_id": 17,
+			"title": "Could ZeroNet circumvent the internet?",
+			"body": "If the internet we knew and loved was trashed, and what remained was locked down to a whitelist, would information be able to pass along horizontally instead of vertically? In other words, would information be able to pass exclusively via LAN if WAN access was completely prohibited? When DHT gets built into ZeroNet, would this become an option?\n\nLet's forget about mesh networking ever becoming ubiquitous. What we're left with is regular WiFi access points, which should be enough.\n\nLeave everything out of the discussion except for what it would take for information to travel in a purely horizontal fashion.",
+			"added": 1508629835
+		},
+		{
+			"topic_id": 1509293876,
+			"title": "Question Before I Buy an SDXC Card",
+			"body": "Can I install ZeroNet to SDXC without root on any phone?\n\nI can't seed more than a few videos without high capacity storage.\n\nAlso, although I can find downloaded files in my local storage's ZeroNet directory, zites lack a list of files you're seeding or leeching other than what you've brought to the zite, so if you forget or just don't know the filename, it takes a few minutes to search through the site to find the filename, which I need to search for the file in my local storage.\n\nA few devs with no affiliation to KopyKate BIG were saying the option is on the zite to delete the file right there. No. It. Is. Not. Were not just talking about own large files. We're talking about other's large files.\n\nJust because you can vaguely read the code or its comments doesn't mean you know the extent of the function. There is no option on the site itself to delete large files that other users brought to the site and it's horribly inconvenient.\n\nI'm only seeding what large files I've brought to ZeroUpload and KopyKate BIG, because file deletion is a chore thus far.\n\nIf zite owners want more seeding, then put the option on your zite to remove other people's large files from your zite's folder on local storage and make a list of files being seeded or leeched brought to the zite by all users.\n\n\"Show data directory\" still doesn't work on any Android device. I've tested this on two completely different phones. The feature broke some time ago.",
+			"added": 1509293858
+		},
+		{
+			"topic_id": 1509315919,
+			"title": "Is Universal Smart Video alive?",
+			"body": "I have an interesting advancement on an idea I proposed back in April. I believe it's entirely possible to scale 16K video down to any resolution with minimal quality loss without need for the entire file to be downloaded to allow it to be played from start to finish.\n\nThis idea is patent worthy in my mind, but I want to see it in a patent free, openly developed video format. I'll keep it vague until we start talking about this idea possibly being rolled into USV.\n\nOh where oh where did plasmmer go?",
+			"added": 1509315900
+		},
+		{
+			"topic_id": 1509479387,
+			"title": "Kittyseedbox.tk Just Became Very Sketchy",
+			"body": "I get SSL errors in one browser, chrome says \"Your connection is not private\" and another browser lets me in without the warning or error and redirects me to a page asking for my age and gender.\n\nLooks like to me the domain name provider got hacked or are trying to steal your identity themselves.",
+			"added": 1509479367
+		},
+		{
+			"topic_id": 1509518161,
+			"title": "Zites Should Be Taggable and Filterable",
+			"body": "Some of us don't want to visit zites with clearnet dependencies, because there are legitimate personal security concerns and there can be very real cybersecurity issues with them. We've had a taste of this with a tk domain used by a popular zite, but without incident since the redirect was only asking sensitive questions be given voluntarily.\n\nSome of us don't want to visit zites with focus on fetishes of varying legality across the globe that may automatically download such media upon clicking, because, for instance, lolicon is illegal in France and a French proxy especially can't have lolicon.\n\nSome of us don't want recreational drug selling zites, especially in proxies. The war on drugs is bananas with bullets and imprisonment if you aren't fatally shot by a douchebag agent or cop with a tiny penis. That is a thing.\n\n\nI could probably think of more examples, but let's start with that.\n\n\nCan ZeroNet have an optional automatic preemtive filter for single user and multi user modes defined by the person in control of the device running ZeroNet? Provide an option to block or warn of zites untagged by their owners in their languages? The languages part can matter when a zite is tagged, but a person who might not like the zite doesn't receive a needed tag in their language. This might also save on restricted bandwidth and/or capped data.\n\nZite owners could in this case provide their own tag list that gets downloaded and read by the ZeroNet client, and before content and media are downloaded, provide a prompt to proceed to the zite or go back for single user mode and in multi user mode just block the zite but log the request. Kaffiene.bit already has zite owner volunteered tags.\n\nThat option to block or warn will gently encourage zite owners to tag their zites if they want more cautionary people to seed instead of avoid for not knowing the content or behavior of the zite.\n\nZite owners don't go through any trouble to pretend their zite has any content or dependencies other than what content or dependencies their zites have. It will be added encouragement if all ZeroNet search engines can pickup the tag lists of zites automatically upon crawling them for those who want to visit particular categories of zites, thus zites gain exposure through all search engines that index them. Search engines that don't want to index zites tagged under particular categories can run on a tag blacklist defined by those search engine owners, like I believe kaffie does for kaffiene.bit. It could be automated for all search engines through the ZeroNet API if this idea becomes a feature.\n\nNo manual blacklisting of zites like we already have would be required.\n\nIf we already have something more than manually blacklisting zites, I haven't heard of nor seen it. Forgive me if this exact idea and no less is already implemented.",
+			"added": 1509518140
+		},
+		{
+			"topic_id": 1509828222,
+			"title": "Zer0rigin",
+			"body": "I dream of open collaboration to create music and publish it on ZeroNet.\n\nWe can become disruptive in how music is created, distributed and perhaps monetized.\n\nOn ZeroMedium I published my political poem Obeyin' the Rules, not expecting to make a career of it, because that was the first time I felt like I wrote something really good that may have musical value to it. When I will write that good again, I don't know, so sharing it became more important than a career pursuit. What I want to see is someone make a musical track of it with attribution to me and publish it to ZeroNet only. If monetized for personal gain, I ask for a 50/50 split, but I won't make a fuss whatever you end up doing with it. The message is more important than money. The truth should always be free, but effort can be rewarded and we can all benefit. The three don't have to conflict. Take the optional browser mining employed by bigcat.tk, CoinHive, for example. We can set new examples for entertainment industries to follow while growing ZeroNet funding and user count.\n\n0rigin.bit, zerorigin.bit and zer0rigin.bit are available.\n\nhttps://dotbit.me/\n\nKrixano got the idea to make a lyrics zite. I think we'll soon be on our way. I just wanted to be sure this ball is rolling.\n\nThink of it what you will, but I think it's just a matter of time before this happens, so we can at least make sure it's done right, and we can generate funds for ZeroNet development as a result. There have been a few markets that have already come to ZeroNet, but none like this.",
+			"added": 1509828200
+		},
+		{
+			"topic_id": 1509887699,
+			"title": "ZeroSites: Clicked Categories Don't Expand",
+			"body": "With my copy (Android) and bigcat.tk's copy of ZeroNet, if I click on a category to view only that category, the list doesn't expand. In categories overview, they do expand, so that much still works.\n\nIt's the same between Chrome and Fully Kiosk Browser.\n\nI'm on Android, but I'm sure that doesn't matter.",
+			"added": 1509887676
+		},
+		{
+			"topic_id": 1509888348,
+			"title": "\"File Update Failed\" for Different People and Zites",
+			"body": "Orangehub gets this error on my device, always 5 files, but on bigcat.tk, orangehub doesn't get this error, is perfectly fine here. Checking files doesn't fix this on my device nor bigcat.tk. Bigcat.tk gets this error with KopyKate BIG Official, but I don't.\n\nWe have a few zites in common that get file update failure too and that doesn't resolve either.",
+			"added": 1509888324
+		},
+		{
+			"topic_id": 1510253157,
+			"title": "Prohibit Custom IDs Being Made On Proxies: Good Idea or No?",
+			"body": "I see that I can make custom IDs on proxies. The issue is people can easily lose access to those IDs if they don't save their login code, thus wasting them. I'm not sure people should be allowed to do this myself. Doesn't it multiply the size of the users.json file?\n\nWhat are the pros and cons of the way it is now vs what I'm thinking might be a good idea?\n\npie@kaffie.bit is forever wasted since I created the ID, and I don't know if it's recoverable if I don't have the login code. I'm betting it isn't.",
+			"added": 1510253132
+		},
+		{
+			"topic_id": 1510348732,
+			"title": "Connected Sites Search Bar",
+			"body": "There should be a connected sites search bar on ZeroHello to search for sites you're seeding, because the sites list gets cumbersome trying to find the site you're looking for when it gets really long.\n\nI don't want it to be a column in the pre-existing search bar, because the idea is to scroll to the site in the list to manage it, and because in mobile view the sites list is hidden under a side tab that obscures the pre-existing search bar.\n\n\"Find in page\" or CTRL+F is inadequate, because notifications will just make a very long list of hits. For example, if you need to scroll to ZeroTalk and favorite, update, check files, pause or delete it, you'd get upwards of 70 hits.\n\nSearch under the files column would be nice too.",
+			"added": 1510348706
+		},
+		{
+			"topic_id": 1510604604,
+			"title": "Recommend a Webpage Monitor for ZeroNet on Desktops",
+			"body": "There should be plenty of them in the Chrome Web Store and Firefox Add-ons catalogue. I don't have my desktop assembled right now, but I think one of you will find the best extensions for your favorite browser(s). If you don't, then I'll borrow a computer to do so myself. ZeroNet doesn't really need desktop notifications, as I've found out when I installed WWW Notifier on Android. It just takes the right webpage monitor to get desktop notifications.",
+			"added": 1510604577
+		},
+		{
+			"topic_id": 1510675889,
+			"title": "How to Remove http://127.0.0.1:43110/*.bit/ Requirement",
+			"body": "Even on Android you can add this to Firefox. Set this search engine as default. Then type in the address bar: rvre\n\nHit Enter/Return\n\nIt resolves to http://127.0.0.1:43110/rvre.bit/\n\nJust note that this sends your requests to an http clearnet website, so it's not private.\n\nThis can be done by any zite instead.\n\nhttp://ready.to/search/en/?sna=ZeroNet&prf=http%3A%2F%2F127.0.0.1%3A43110%2F&suf=.bit%2F&des=Type%20only%20the%20domain%20name%20without%20.bit%20%28rvre%20resolves%20to%20http%3A%2F%2F127.0.0.1%3A43110%2Frvre.bit%29&in=utf&ou=utf&mod=pn",
+			"added": 1510675861
+		},
+		{
+			"topic_id": 1511320778,
+			"title": "A Petition to Save US Net Neutrality",
+			"body": "https://www.change.org/p/save-net-neutrality-netneutrality?recruiter=13858527&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial.combo_new_control_progress_1dollarask111417",
+			"added": 1511320749
+		},
+		{
+			"topic_id": 1511488671,
+			"title": "KopyKate Big icons don't load except through proxy.",
+			"body": "I can't see a fuckin thing I'm doing. This had been the case since the page's UI was changed. KopyKate admin(s), please fix that bug on your mostly glorious site, and please see what can be done so videos don't stop downloading.",
+			"added": 1511488641
+		},
+		{
+			"topic_id": 1511567503,
+			"title": "ZeroNet: To Gain Funding and Popularity...",
+			"body": "Seek out websites and organizations that stand for net neutrality and are under existential threat but are neither owned nor reselling services by corporations in favor of killing net neutrality, find contact info for the owners, and direct message these owners via email or Twitter. I think we should maintain secrecy over seeking out these people so the ISPs don't go after harming ZeroNet traffic, as I'm sure they could block ZeroNet.io, trackers and GitHub access.\n\n@Nofish: Provide incentives for them to fund ZeroNet development by listing their sites under the MORE SITES list on ZeroHello or a separate sponsors page on ZeroSites, or make a whole new site listing sponsors. Mastodon's Patreon page provides an incentive for sponsors to make large monthly donations.\n\nWe can show them new means of revenue such as CoinHive or other JavaScript miners. We should make sure they don't bring the bad qualities of the clearnet to ZeroNet, such as ads.\n\nI've had no problem contacting David Michael Latt on MySpace to hate on him for making ripoff films before the spark of originality for Sharknado and getting a response telling me to calm down (I was an angsty teen), had a conversation with Ralph Baer through email about maybe working on an invention although I chickened out (was way ahead of technological feasibility at the time anyway), told the owner of BitChute about ZeroNet via DMs and other decentralizing technologies via a mention which sparked some interest, talked to a developer about making a custom app and I'm sure we've all seen how responsive people from all walks of life are to email and Twitter over the past decade, so it's apparent to me that anyone can contact movers and shakers to set things in motion. I'm neither more important nor more influential than the rest of you are.\n\nEven if you guys don't contact movers and shakers, I most certainly will put effort into it, but that's no power unique to me, so I would encourage those with good language and communication skills to give it a shot in standard letter format. I'll do my research to make sure who I contact has no oligarch overlords. I'm aiming for independents who have made strides and have gained a following all by themselves. Whether you like, dislike or don't care about this, I will put in the effort.\n\nWe can discuss here who we should contact and how to persuade them diplomatically. We can start with those who fill niches that haven't been filled on ZeroNet properly or have never been filled on ZeroNet before.\n\nCheers. I hope you'll all have a joyful future no matter what life throws at you.",
+			"added": 1511567472
+		},
+		{
+			"topic_id": 1512311792,
+			"title": "My ZeroMe Profile is Gone?",
+			"body": "I installed ZeroNet on a new phone, visited Get All Hub and then ZeroMe. I never clicked to create a new profile, but it keeps asking me to create one.\n\nI'm not the only one experiencing this.\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1513126557_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB",
+			"added": 1512311758
+		},
+		{
+			"topic_id": 1512496361,
+			"title": "Proving The Existence Of A Second Private Key That Decrypts a Message Encrypted With The RSA Encryption Algorithm",
+			"body": "\"While taking a course in cryptography 6 years ago I stumbled upon a problem that kept me awake at night for many nights.\n\nIn school we learn that the RSA encryption algorithm consists of one public key and one private key. I've asked several professors if there could be a second private key that decrypts all messages in the same way as the intended private key and I've always received a negative answer.\n\nAnd yet I stumbled upon two private keys in one particular example. I delved into the Mathematics behind the RSA algorithm and I found out that in fact there are at least two keys in every single example. I not only managed to prove the existence of a second private key but I was also able to find two different formulas for obtaining the second key.\n\nOne of the formulas requires knowledge of phi(n)/2 where phi(n) is Euler's Totient Function.\n\nIf d1 is the intended private key and (n, e) is the public key then the second key d2 can be found using the following formula:\n\nd2*e = phi(n)/2\n\nHere's the full paper: https://marinaibrishimova.net/docs/otherkeys.pdf\n\nCurrently, I'm looking into ways of obtaining phi(n)/2 without having to factor n\"\n\nhttps://badbytes.blogspot.com/2017/12/proving-existence-of-second-private-key.html?m=1",
+			"added": 1512496326
+		},
+		{
+			"topic_id": 1513192762,
+			"title": "Movers & Shakers",
+			"body": "They are the vloggers on YouTube, independent journalists, Twitch and YouTube Gaming livestreamers, to name a few. You can find one vlogger with nearly 6 million subscribers who defends net neutrality. These people have pull with users and millions of dollars, of which I'm sure they don't mind sparing a tiny amount of for ZeroNet development.The KopyKate BIG dev and the ZeroNet dev Tamas AKA @Nofish need to have private talks with these people. Figure out what they need to be satisfied with ZeroNet so they start mirroring their content here.\n\nOne thing is that Linus Tech Tips videos are already on KopyKate. They need to be sure only official uploads of theirs exist on KopyKate or a fork and that a revenue is generated for them. Of course ZeroNet viewers get a copy of a video on their file system, but they're not easily found by amateurs (I can find them myself, but it's still not better than browsing KopyKate or ZeroUp), and in all fairness, there are many ways to save a local copy from YouTube anyway without ads playing, so I see no loss for movers and shakers using ZeroNet compared with YouTube. They need to know that. Viewers will watch videos in the browser where the JS miner runs, simply out of convenience, though interactions and features will also encourage more time spent on a video's page.\n\nI don't want this to become a thing where copyright becomes a big issue, as it would become unnecessary overhead when copyright infringement is really easy to do, especially with YouTube, so a user experience that enhances browsing/watching/interacting is key.",
+			"added": 1513192726
+		},
+		{
+			"topic_id": 1513547016,
+			"title": "Performance Bug When Content.json Fails to Download",
+			"body": "I'm on a cellular connection that's very spotty, but I think this happens regardless. If I can't download a zite and I get that error, pages slow down. ZeroHello loads slowly and it takes a lot longer for notifications to show. I have to force stop ZeroNet instead of shut down and relaunch to get that performance back, as ZeroHello can't communicate to ZeroNet, because the page fetch operation is still going even when I close the tab for the zite that failed to download.",
+			"added": 1513546979
+		}
+	],
+	"topic_vote": {
+		"1_17To4zKQntCiVqSZqHK3mwEpbLWVCtLHEe": 1,
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1DdWDmJrkey8Vyp9arJQeSvnbyfsWfkp9W": 1,
+		"10872_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"8_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": 1,
+		"1_1PvAednzaMJiuMz1SD5wF3m3Hx7SK75zHv": 1,
+		"9_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": 1,
+		"2_13bJpDYmLnZMLWy696GAxHA9mdizyZW2PK": 1,
+		"25_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"33_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"2_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"1_19Z8aJ32x4pE2iGvVssPJazJgpGe5L32rq": 1,
+		"1_14nCEDo97Cx4VpSHwPytWvacPo29Y7FAbk": 1,
+		"1_1FxpcMsoTKTeUoNDRJKzqyLAwXuwVg3zgX": 1,
+		"2_14nCEDo97Cx4VpSHwPytWvacPo29Y7FAbk": 1,
+		"1_1EWcSH8L4VBXvQVn4NB4s8HsJuJzNwATYD": 1,
+		"1_1165u6pt5mQNFjyhMVwy6azB7bZuQGLA9b": 1,
+		"1_1HADrnDdgCKmF1pK79SDU8bakqURnmfKe8": 1,
+		"1_1CMYxdit4qq9QGk9DYRu2ruRPd2YDGckH8": 1,
+		"4_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"4_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": 1,
+		"14_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"6_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"2_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"4_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"2_1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8": 1,
+		"1_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1,
+		"6_1ArDm9BfJUTfrGQLDra6KKNYYqXWS7v2sp": 1,
+		"1_12yaKkoqVKBUi66uB5pYXamWguKFaWdDnx": 1,
+		"1_1Kr2JfCsBYQU1z96xQsYTshKvJ5nz4mTG3": 1,
+		"1_1Ja6uthMi4TXHnwXcV4u45qh6Pzh1rU1ZL": 1,
+		"1_1L6kM35jc1KwpPi8LpEsCJmgXw2RM3UW1W": 1,
+		"1_1NQqiXTHtCaNDH9aWaoMRpQDyUbGcwVRF3": 1,
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": 1,
+		"1_1Cz74bvSRgWqHaLCBUTrJPW7uvKyr8P8RC": 1,
+		"13_1DLHbq2nvwpgU4xT3ajhABAW1Lfn3zTZhe": 1,
+		"7_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_15gwgVTGFA1RANT53NhudZP6e3ZMjfm3jZ": 1,
+		"4_1Np58q7bCfW7hmHuXvoYux3ij6M4Qecfb3": 1,
+		"1_1Mpr8B1fRGBctzf7g9a6X1cb4WbQULH92N": 1,
+		"7_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": 1,
+		"2_1ETw3AAGUuh6iBFAohZdPT215NAY9rC9aR": 1,
+		"2_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"1_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"1_1MTNhSVgCJpW8uBjFhnyA5NsgyKbKnvrLG": 1,
+		"1_14qkCANgpwdN9rLmjeEWyyxEzAjmwFVkom": 1,
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"2_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"1_1LWErNVFAu2wJT2XBoVkLDCmY41EX32knU": 1,
+		"1_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1,
+		"21_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"22_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"1_1BM5RxgUfzF8tXYBMbsh7mTjA8JRWEW72c": 1,
+		"1_18D4VdqDgiiykHZFvSRT1EtZ18pbHeYfMx": 1,
+		"7_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": 1,
+		"1_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": 1,
+		"15105_1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": 1,
+		"10_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"3_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1_15de5wZ71q8iQGhEmBkJnRKx37Defn5XoL": 1,
+		"9_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"2_1Lvkcqq796u3e3UAMxJxo7RZLzjvnR9bbE": 1,
+		"11_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"8_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"4_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"3_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"3_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"5_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1_1QLCGgg1exQCF1YW2cAHzm9NUyLjXLDoww": 1,
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"2_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": 1,
+		"2_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"6_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"3_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": 1,
+		"2_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"11_19imiBWm39vSNQpp9a4y3zwHyasYJsMDp2": 1,
+		"94_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"1_1M6uEoExJ2kwTDxcdKuStDx5kReHrt8V1M": 1,
+		"10_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"6_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1509028020_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"1509129499_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1509177955_1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY": 1,
+		"5_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": 1,
+		"1509342996_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": 1,
+		"1509324154_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1509348404_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1509585696_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1509622092_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": 1,
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"1509875191_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"1510208137_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": 1,
+		"1510252302_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf": 1,
+		"1510499714_18j1DomS5vDgXcKnSGuSmPSDTQjxiWpyA5": 1,
+		"1510599199_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1510753547_19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf": 1,
+		"1510936767_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"1510983074_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq": 1,
+		"1511133140_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"1511141829_1QLQK7jRVb9AeziriC8t7ytHcQfdpv1WkV": 1,
+		"1511163737_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": 1,
+		"1511250749_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511470806_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1511482022_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": 1,
+		"1511777019_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511773000_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1511956110_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"1512091241_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512275153_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1512263767_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1512309807_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512252928_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512185574_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"1512565682_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512560923_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": 1,
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": 1,
+		"1512651955_1GSZKHqdkmnBZHy1FUXbq2PQT4hHD1ZQHj": 1,
+		"1512686154_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512779248_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1512998155_1L2fmHSaFKB4vFN1GX3KQyZQfaB9CDUF3b": 1,
+		"1513048648_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"1513302250_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1,
+		"1513416584_14whxhmwJACVFJH81VaGp6rC8Mthufn7bG": 1,
+		"1513430393_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1
+	},
+	"next_comment_id": 326,
+	"comment": {
+		"1_17To4zKQntCiVqSZqHK3mwEpbLWVCtLHEe": [
+			{
+				"comment_id": 1,
+				"body": "ZeroNet, WebTorrent, GitTorrent and Web2Web need DHT and need the widest adoption possible.",
+				"added": 1487973859
+			}
+		],
+		"1_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 4,
+				"body": "That's very encouraging. Hey, I hope everyone donates to keep ZeroNet alive and it gets DHT. Knowing the ZeroNet devs were wise, I'll be buying BTC to send their way.\n\nSecurity is a major concern for me, but now my trust and hope in ZeroNet is 100%. Thank you all for clearing my concerns.",
+				"added": 1488070556
+			},
+			{
+				"comment_id": 5,
+				"body": "I'm hearing Git (it's mentioned here only because of SHA1) is moving toward SHA256 as well. With what I'm hearing about the majority of these projects, I can sleep better now.",
+				"added": 1488072278
+			}
+		],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 27,
+				"body": "> [border0464fred](#comment_73_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6): Im affraid you are offtopic sadly\n\nThat's the weeaboo standard of existence. To them, everything is about anime.",
+				"added": 1489964230
+			},
+			{
+				"comment_id": 52,
+				"body": "> [amuza](#comment_2_1NF9DMeY1kNvm7yNDcxkVgZ2Y9Jc893bgA): Hi there,I would like ZeroNet to be able to do LAN peer discovery out-of-the-box so that it can work in community networks where an Internet connection is not always available (poor infrastructures, political Internet shutdowns, etc.).That would mean another nice step towards real decentralization.I guess I should open an issue on GitHub for that, shouldn't I?Cheers!\n\nThat is something that might be a matter of funding the project. When donating, you can help reach a funding goal to get a feature worked on when that goal is reached.",
+				"added": 1493415773
+			},
+			{
+				"comment_id": 233,
+				"body": "> [brightqwerty](#comment_6_12UZAaKqiM7JEV1SbCcTBoQzf75ghNgc8o): I have a bunch of standard ZeroNet sites that are failing file downloads, they seem to be operating fine but at the very least the alert is annoying. Anyone know how I could remedy this ? (I've already tried updating them and even deleting and re-activating them to no avail, and they are under the data cap)\n\nKeep the device online until most of them go away.",
+				"added": 1511390064
+			},
+			{
+				"comment_id": 234,
+				"body": "> [brightqwerty](#comment_7_12UZAaKqiM7JEV1SbCcTBoQzf75ghNgc8o): It's been on continuously for a few days at this point, how long does it usually take? (Thanks for the response btw!)\n\nAt least for the weekend when most people are home and online. Since some of us are on the opposite side of the planet, I'd give it 72 hours starting at 12:00 GMT+13 (daylight savings time included) when New Zealanders might wake up on the weekend (midday).",
+				"added": 1511391779
+			}
+		],
+		"1_1HMgB5kC5CXhxSngryrEDLUrPXkKgH1mtt": [
+			{
+				"comment_id": 7,
+				"body": "http://127.0.0.1:43110/kaffiene.bit/",
+				"added": 1488118893
+			}
+		],
+		"1_1PvAednzaMJiuMz1SD5wF3m3Hx7SK75zHv": [
+			{
+				"comment_id": 8,
+				"body": "https://www.bitchute.com/ uses WebTorrent as well. I know it's not a zite, but it's an example of what these zites could do, had they been functional.",
+				"added": 1488379217
+			},
+			{
+				"comment_id": 9,
+				"body": "http://127.0.0.1:43110/1qJ3EM5rTa2wPTBvJuCFjdLXjrBCgBkR8/",
+				"added": 1488387497
+			},
+			{
+				"comment_id": 10,
+				"body": "ZeroTube improved for me.\n\nNow it finds peers and opens up the menu of videos with thumbnails missing.\n\nWhen I click a video, it works.\n\nKudos for your good work, skylakexts!\n\nOne tiny request is a fullscreen button. I use Chrome and it doesn't have its own fullscreen toggle for videos.",
+				"added": 1488475348
+			},
+			{
+				"comment_id": 11,
+				"body": "Doesn't WebTorrent work with regular torrents? If so, I can seed with my phone. It shouldn't require Zeronet to run. I use zetaTorrent on Android to grab magnet URIs and seed, which sounds like a cool story for a bro, but if anyone else seeds your torrents with Android, that's pretty much the only app for it.\n\nAlso, consider using a Raspberry Pi as a 24/7 server.",
+				"added": 1488476106
+			},
+			{
+				"comment_id": 12,
+				"body": "Since WebTorrent doesn't have DHT it wouldn't matter if I was seeding, would it? So the torrents probably need to be running on skylakexts' end regardless of my seeding?\n\nNo online trackers means no ZeroTube videos.",
+				"added": 1488479738
+			},
+			{
+				"comment_id": 13,
+				"body": "No tracker, no videos.",
+				"added": 1488493902
+			},
+			{
+				"comment_id": 14,
+				"body": "Could we somehow webseed from a zite?",
+				"added": 1488819160
+			}
+		],
+		"9_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": [],
+		"3_1M3WXb3DtLL9zsRy4ECqemV7ZyA4u4FNFU": [
+			{
+				"comment_id": 16,
+				"body": "> [zipgun](#comment_4_17mLgPM7YyZ1HsXZTWxpBEVjs7tupHbUdZ): wait.... r u telling me that we have this software available on this net???? or what? xD\n\nNo. They were saying that here the software wouldn't be censored. I contest though that hellfire would be upon anyone who does share such software on ZeroNet, unless they really know what they're doing. Same goes with any other network. Anonymity is not automagically guaranteed. Even zite admins may delete whatever they wish to keep away agro.",
+				"added": 1489202948
+			}
+		],
+		"1_1MwJSNBC1savftEvXQyoHcVLDgThtAPr6T": [
+			{
+				"comment_id": 17,
+				"body": "OP is a troll, a very successful troll.",
+				"added": 1489817416
+			},
+			{
+				"comment_id": 25,
+				"body": "I find ZeroNet to be the most user friendly, easiest to install and get running and incomparable to Tor and I2P. Those two deepweb applications can in fact be complementary to ZeroNet where needed.\n\nI don't consider ZeroNet to be deepweb. It's more of a protocol that has yet to be adopted by W3C.",
+				"added": 1489882694
+			},
+			{
+				"comment_id": 26,
+				"body": "ZeroNet also has the easiest ID and login system on the planet.",
+				"added": 1489882788
+			}
+		],
+		"1_1HJugahAiT2RnwJQdHuEd2RgW5fpWwNxnB": [
+			{
+				"comment_id": 18,
+				"body": "Fuck me? Fuck you too!",
+				"added": 1489817781
+			},
+			{
+				"comment_id": 19,
+				"body": "> [yinyue](#comment_23_1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t): Come on baby .o yeah o yeah\n\nOh do I wish! I'd knock on their door, show them where the dank memes are at, geekily conversate away about ZeroNet and have a cup of tea with them!",
+				"added": 1489817998
+			}
+		],
+		"1_12May38MPRVcM5mY2LDut4U95YSbwekCwD": [
+			{
+				"comment_id": 20,
+				"body": "No. They're all too busy fapping all these years later.",
+				"added": 1489821402
+			}
+		],
+		"1_1CQaEaxMMT1dBwsaYAkAvF5uHieD9zqCsk": [
+			{
+				"comment_id": 21,
+				"body": "If you deleted your ZeroNet folder or uninstalled ZeroNet at any time you probably deleted your users.json which held your previous account. You have to backup your users.json. If you have a copy in the trash I'd go retrieve it before it's emptied.",
+				"added": 1489876003
+			},
+			{
+				"comment_id": 22,
+				"body": "On ZeroMe under Visitor in the upper right corner you should see Select Your Account if you hadn't deleted it.",
+				"added": 1489876165
+			},
+			{
+				"comment_id": 23,
+				"body": "*see it under",
+				"added": 1489876268
+			},
+			{
+				"comment_id": 24,
+				"body": "If your old users.json is long gone go and make a duplicate using http://127.0.0.1:43110/id.kaffie.bit instead.",
+				"added": 1489876403
+			}
+		],
+		"2_1PvAednzaMJiuMz1SD5wF3m3Hx7SK75zHv": [
+			{
+				"comment_id": 28,
+				"body": "http://127.0.0.1:43110/zeroid.bit/\n\nhttp://127.0.0.1:43110/id.kaffie.bit/\n\nProblem solved?\n\nOnly issue perhaps, depending on you, is that they will be in the same users.json file. IDK if you're okay with that or not.",
+				"added": 1490228708
+			}
+		],
+		"2_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": [
+			{
+				"comment_id": 29,
+				"body": "The bill passed this morning. :(",
+				"added": 1490301344
+			}
+		],
+		"1_14nCEDo97Cx4VpSHwPytWvacPo29Y7FAbk": [
+			{
+				"comment_id": 30,
+				"body": "> [bot](#comment_174_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb): A couple of weeks ago i started a clone of 'ZT with images' with kai0's advice.We need a few testers = just added avatars.Profiles will help with building a community, as well as having admin/mods soon afterwards.\n> http://127.0.0.1:43110/1NCRELKZ3zWRS6DijziYrfWi9dsUY8Fh8n\n\nYour site needs to be divided by language. I can't read anything but English, so there's a lot of posts written in Mandarin for me to scroll by, let alone there are many Chinese activists whose posts are irrelevant to the U$A.",
+				"added": 1490456111
+			}
+		],
+		"6_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 32,
+				"body": "> [hexkey](#comment_30_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF): yo we got ya covered fam\n\nThank you. Took me a minute to find ZeroBundle there, but I've found it.\n\nIt's really nice that you cloned the whole dealio, neighbor. You've alleviated all my concerns.\n\nEdit: I can't download them. No hyperlink to files. :/\n\nhttp://127.0.0.1:43110/1F7b27kT38nMYZQg7tvDr33qWDZQgwnQpw/git/hellozeronet/ZeroBundle/file/dist/ZeroBundle-linux64.tar.gz.html",
+				"added": 1490533757
+			},
+			{
+				"comment_id": 33,
+				"body": "hexkey, please respond. Your Github clone has no files under ZeroBundle and for other entries. I'm confused as to why this is.",
+				"added": 1490677863
+			},
+			{
+				"comment_id": 34,
+				"body": "and E, don't download with Chrome, as it tends to corrupt files, possibly injecting spyware with steganography. Use Firefox instead",
+				"added": 1490976416
+			}
+		],
+		"35_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 35,
+				"body": "I'm totally going to click something that I don't know what it is.",
+				"added": 1491590382
+			}
+		],
+		"1_17x8jz45zq7SowdS5GNFDnaNSKxtgm1d5g": [
+			{
+				"comment_id": 36,
+				"body": "Asking us to post memes on a site without image upload...\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄░░░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███▀█░░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███░██░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███░░██░░░\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄██░░░░██░░\n░░░░░░░░░░░░░░░░▄▄█▀▀▀▀█▄▄▄▄███▄░░░██░░\n░░░░░░░░░░░░░▄█▀░░░░░░░░░▀▀▀▀█░▀█░░██░░\n░░░░░░░░░░░░█▀░░░░░░░░░░░░░░░▀█▄█▀▀▀░░░\n░░░░░░░░░░░▄▀░░░░░░░░░░░░░░░░▀█▄░░░░░░░\n░░░░░░░░░░░▀█▄░█░░▄▀░░░░░░░▄▄█░░░░░░░░░\n░░░░░░░░▄▄▄▄█▀▀▀██▄▄░░░░░░▄▀░░░░░░░░░░░\n░░░░▄▄██▄▀▀░░░░░█▀░░░░░░▄██▄░░░░░░░░░░░\n░░▄██▀▀░░░░░░░░▄█░░░░░▄█▀▄█░▀▀█▄▄▄▄▄▄▄▄\n░██▀░░░░░░░░▄██░░░░░░▄▀▄▄▀░░░░░░░░░░░░░\n█▀▀░░░░░░▄█▀▄░▀▄▄▄▄██▀▀▀░░░░░█░░░░░░░░░\n█░░░░░▄▄▀░░░░█░░░░░░░░░░░░░░░▀░░░░░░░░░\n░▀▀▀▀▀▀░░░░░░░█░░░░░░░░░░░░░░░▀▀█▀▀▀▀▀▀\n░░░░░░░░░░░░░░█░░░░░░░░░░░░░░░░█▀░░░░░░\n░░░░░░░░░░░░░░█░░░░░░░░░░░░░░░▄█░░░░░░░",
+				"added": 1491685103
+			},
+			{
+				"comment_id": 37,
+				"body": "> [rythyrix](#comment_67_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y): Your snark wins one ZeroNet.\n\nI almost always win at everything, even against trolls, making fanboy rants (that was my past), socially and politically, online and offline. Sorry I don't reference everything I say, but you know what I say can be researched (I hope you know anyway).\n\nI was once too young to be bought the beers people wanted to reward me. QQ",
+				"added": 1491696727
+			}
+		],
+		"1_1E8KDakJCmMofVgTawocXc4pX9Fn3K3ob1": [
+			{
+				"comment_id": 38,
+				"body": "I have been thinking about this since 2012 when the Syrian false flag attacks began.\n\nReally hoping I can bring the most armed people on my side, humanity.\n\nRight now I'm a bit worried that the III% Militia is the most organized, and they hate Muslim and trans people. \n\nI'd like to see a militia that defends every human being, fueled by love and not hate.",
+				"added": 1492824112
+			}
+		],
+		"1_1FLQiXhoa56vb91aiVxyAiC8L5YJy4W3Hi": [
+			{
+				"comment_id": 39,
+				"body": "Would I be ableto choose a custom .bit URL then? I don't know how Namecoin works.",
+				"added": 1492998587
+			}
+		],
+		"1_1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x": [
+			{
+				"comment_id": 40,
+				"body": "I don't click anything I don't know, and if I fail to do that and get any questionable content, I just delete it.",
+				"added": 1492998815
+			},
+			{
+				"comment_id": 41,
+				"body": "> [thegillies](#comment_3_1NTgaYjK2bh1axvruth8HqtGt6Pw5ab13x): the 'pushing to peers' thing made me think that you push content to peers regardless of if they've already viewed it or not, but that could be a misunderstanding on my part.\n\nFor now I believe it goes to the trackers, so art this moment in time mistaken clicks aren't too public. I could be wrong though.",
+				"added": 1493025177
+			}
+		],
+		"1_14gU7BmDVYaUD6b1fks74MQv6XtsCnAgEX": [
+			{
+				"comment_id": 42,
+				"body": "You're a fucking idiot.",
+				"added": 1493139212
+			},
+			{
+				"comment_id": 43,
+				"body": "Explain to me without requiring I visit that most likely bullshit website with ads to fund more bullshit what you think the cause of homosexuality is. I'll give you an infinite amount of time to answer.",
+				"added": 1493148059
+			},
+			{
+				"comment_id": 44,
+				"body": "People pretend to be Nazis because they can't control themselves sexually when a black man is near.",
+				"added": 1493152173
+			},
+			{
+				"comment_id": 45,
+				"body": "I was once asked by a Nazi if he could suck my dick for weed. I'm not black, however, he might have known that I have boobs, being an MTF tranny myself.",
+				"added": 1493152384
+			},
+			{
+				"comment_id": 46,
+				"body": "At that time I was not dressing as female and had facial hair.",
+				"added": 1493152466
+			},
+			{
+				"comment_id": 47,
+				"body": "My youthful appearance both before and after starting HRT might have appealed to his hebephilia.",
+				"added": 1493152573
+			},
+			{
+				"comment_id": 48,
+				"body": "> [q7](#comment_1_19qfnPyPxCQCBng3h6mbmzT4Sqsq6aFUXH): JEWS spread homosexuality to control the world.The Radical Homosexual Movement Is Run By Jews.https://m.youtube.com/watch?v=JtMEq-k-sS8Why Jews Push Gay Marriagehttps://m.youtube.com/#/watch?v=0yLbF0BtZs4 [...]\n\nSuck your own dick.",
+				"added": 1493165157
+			}
+		],
+		"8_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 49,
+				"body": "> [plasmmer](#comment_1_15XeFY67fYKCKxQPfeo246ELto2Gff1hAe): I'm working for dcrs.bit achieve it, in its own platform.\n\nI'm wondering if app drawer and app store type of home pages would be right for this, for familiarity to Android users.\n\nHoping you imply DCRS will realize this. It's ZeroNet's missed opprtunity within its reach that would have made it widely popular.",
+				"added": 1493271575
+			}
+		],
+		"1_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": [
+			{
+				"comment_id": 50,
+				"body": "> [p2p](#comment_300_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ): normally this site http://127.0.0.1:43110/1UDbADib99KE9d3qZ87NqJF2QLTHmMkoV/ will be added automatically when you visit ZeroMe. You have to wait for it synced patiently. And if u recreate an account before it synced, it would be a disaster -- your info of old account will be overwritten. I always think there should be a better way for ZeroNet to deal with this issue, and inform users well in the UI.\n\nThis. P2P knows this in part because I had overwritten my ZeroMe account by clicking away. You have to wait for everything to sync and you'll see that from the file download list dropping from thousands to zero, or close enough to zero.",
+				"added": 1493344784
+			},
+			{
+				"comment_id": 51,
+				"body": "ZeroMe or ZeroNet need to prohibit site account creation or create a warning until all files sync.",
+				"added": 1493390186
+			}
+		],
+		"4_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": [
+			{
+				"comment_id": 53,
+				"body": "> [border0464fred](#comment_145_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6): Hummm, an other protocol implementation that do the same thing that torrent do.  [...]\n\nIt says in the video that you directly sell content using encryption. BitTorrent does not have that, so it has no standard to compete in that fashion. LBRY solves a problem I've had exactly as I needed it to be solved.\n\nOP, thank you for showing me this. Disregard border0464fred.",
+				"added": 1493494515
+			},
+			{
+				"comment_id": 54,
+				"body": "> [kaffie](#comment_283_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Looks like a shitty blockchain version of KopyKate and other distributed streaming platforms. By a show of hands, how many people want to pay money to watch youtube? Who actually pays for youtube red? Fucking no one.\n\nI can see a subscription model being used. This is probably better for independent entertainment networks than anything else.",
+				"added": 1493538531
+			}
+		],
+		"14_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": [
+			{
+				"comment_id": 55,
+				"body": "> [border0464fred](#comment_149_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6): +1 I've decided to make ZeroNet my home...  [...]\n\nWith ZeroNet already doing so well, I don't see a downturn as being possible.",
+				"added": 1493569882
+			},
+			{
+				"comment_id": 56,
+				"body": "http://127.0.0.1:43110/kidsearch.bit/\n\nWe also need a site where we can make reviews, like an app store.\n\nWebapp Store\n\nWould be nice too if ZeroNet had a portal for new sites where you are forced to see reviews of the site you clicked a URL for, then click Continue to Site to visit without the portal getting in the way in the future, and the option to return to the portal by navigating backward and quickly delete.\n\nZeroNet also needs secure erasure built into site deletion.\n\nThere are plenty of simple solutions that are missing features.\n\nAnd definitely use a VPN if you're concerned, not the ones that are browser extensions, but the ones that are system applications, hiding all internet traffic.",
+				"added": 1493666780
+			}
+		],
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 57,
+				"body": "Make sure animated PNG works, because Chrome 59+ and Firefox 3+ support it.",
+				"added": 1493715604
+			},
+			{
+				"comment_id": 58,
+				"body": "Support WebM and WebP. Some of us don't have H.264+ decoding libraries in Linux and some video sites don't work yet in Chrome, a catch 22 for me when I use SteamOS, so WebM support is especially needed.",
+				"added": 1493716523
+			},
+			{
+				"comment_id": 59,
+				"body": "Mobile browser friendliness so that specific browsers aren't required to click on things more easily and zoom becomes unnecessary.",
+				"added": 1493716712
+			},
+			{
+				"comment_id": 60,
+				"body": "Prevent user account action while initial sync is in progress. ZeroMe accounts get overwritten because it doesn't do this.",
+				"added": 1493716893
+			},
+			{
+				"comment_id": 61,
+				"body": "RSS for system notification access.",
+				"added": 1493716945
+			}
+		],
+		"2_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": [
+			{
+				"comment_id": 62,
+				"body": "This was always an issue on my end too.",
+				"added": 1495150978
+			}
+		],
+		"53_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 63,
+				"body": "Viruses on ZeroNet had not been a thing yet since we're a small target, but if you're concerned then you should run a script blocker, VPN and whatever else you would use for the clearnet.",
+				"added": 1495272623
+			}
+		],
+		"1_12BA8CeJuG7FZYs7EpGg2rTs3pxkdRNZrV": [
+			{
+				"comment_id": 64,
+				"body": "> [akito](#comment_54_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): That seems like it could be true but you'd need to live in cave, deep deep in the woods, to be able to not know obvious facts like that. I mean, not everyone is American, but I am extremely sure that pretty much every normal person over 12 years knows that Trump is the US president, for example.\n\nI think most Americans know about The Great Firewall of China even if you don't count the tech savvy ones, considering it's also political information. Take SOPA, for instance. We didn't accept that, but net neutrality is dying so we're bending over and taking it up the ass anyway now.",
+				"added": 1495273647
+			},
+			{
+				"comment_id": 65,
+				"body": "> [scrubthesecond](#comment_3_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe): P.S. Australia doesn't have Net Neutrality, but we're doing okay. Yes, we have a shitty conservative government who deliberately destroyed our NBN (National Broadband Network) for political points, but still.\n\nAre you guys able to effectively circumvent throttling using P2P software like ZeroNet, BitTorrent and WebTorrent? Bitchute uses WebTorrent. Netflix will do the same soon.",
+				"added": 1495285114
+			}
+		],
+		"3_1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": [
+			{
+				"comment_id": 66,
+				"body": "Yeah, it's simple. They call it port forwarding. On my ATT U-Verse modem/router I did it pretty quick and easy. Some routers ask that you give whatever application name to the port number and then you select which IP address uses that application. It helps if you pay attention to the device MAC address. MAC stands for media access control, which has nothing to do with Apple.",
+				"added": 1495318983
+			},
+			{
+				"comment_id": 67,
+				"body": "Also, it might help to set a static local IP address to your device's MAC address.",
+				"added": 1495319061
+			}
+		],
+		"1_1BiouZaoK2zKaqSihxi7LudLqix6ynXYtj": [
+			{
+				"comment_id": 68,
+				"body": "Or infect him with threadworms. Watch the pandemic spread to Hillary.",
+				"added": 1495659127
+			}
+		],
+		"10_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 69,
+				"body": "> [wieke](#comment_14_13Zs1NLz7LS9NsWtaQLwBmUZEXfz1i3agg): People might have an easier time helping if you mention what kind of phone / mobile OS you're using, what kind of firewall, etc.\n\nAndroid, but I won't say anymore. It was a bug.",
+				"added": 1495748242
+			}
+		],
+		"3_1KAjEoAZg6djJXPT5i4VMRwMZkghqRJ1zC": [
+			{
+				"comment_id": 70,
+				"body": "The better question: Who isn't 420-friendly?",
+				"added": 1495848178
+			}
+		],
+		"1_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": [
+			{
+				"comment_id": 71,
+				"body": "There's also Git for Scuttlebutt.\n\nhttps://github.com/clehner/git-ssb",
+				"added": 1495879281
+			},
+			{
+				"comment_id": 72,
+				"body": "> [styromaniac](#comment_71_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): There's also Git for Scuttlebutt. [...]\n\n*over\n\nI can't edit comments on mobile.",
+				"added": 1495879438
+			},
+			{
+				"comment_id": 73,
+				"body": "I still would like to see ZeroBundle as a user friendly download from ZeroNet in case any centralized sites go down. This way if things get really bad with censorship, at least current users can be co-distributors.",
+				"added": 1495901030
+			}
+		],
+		"1_1FRsFWqkx5TVyRqy9Xr3XoshYDDZHXSQvz": [
+			{
+				"comment_id": 74,
+				"body": "LMAO!\n\nInB4 it's the New York Times desperately making a hit piece to paint us as criminals because they're CIA mouthpiece scum.",
+				"added": 1496396525
+			}
+		],
+		"1_17WG9sFaQoZCyRT7m89WAa23Ma4WYPifMH": [
+			{
+				"comment_id": 75,
+				"body": "It was never actually open. That was a false positive and now it's fixed. You have to forward port 15441 to your device's MAC address yourself.",
+				"added": 1496502713
+			}
+		],
+		"1_1Ja6uthMi4TXHnwXcV4u45qh6Pzh1rU1ZL": [
+			{
+				"comment_id": 76,
+				"body": "There definitely needs to be one with Tor built in. On Android I cannot use Tor AND a browser made for tunneling through it. Tor works, but I have to use an untrusted browser at the same time.",
+				"added": 1497403195
+			}
+		],
+		"1_1L6kM35jc1KwpPi8LpEsCJmgXw2RM3UW1W": [
+			{
+				"comment_id": 77,
+				"body": "I like sex pussy",
+				"added": 1498061655
+			},
+			{
+				"comment_id": 78,
+				"body": "Do milk",
+				"added": 1498061665
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 79,
+				"body": "White Cloud, MI, US",
+				"added": 1498333188
+			},
+			{
+				"comment_id": 80,
+				"body": "> [nloomans](#comment_1_14SJ33eohsiLG1kKYd4XuZFo8dq84D9Faq): The Netherlands! Also, why are there so many people from China?\n\nBecause they use ZeroNet (and Tor) to communicate with the outside world. ZeroNet makes for a great escape from totalitarian censorship.",
+				"added": 1498420094
+			}
+		],
+		"1_1Bz3UqKY3RHF4ZyMqatwTBUGwDNahmU5SS": [
+			{
+				"comment_id": 81,
+				"body": "I get this problem especially after reinstall and it resolves only after running all night. It probably is even more often resolved on weekends. There may be peers who have more data than others. Perhaps that data isn't globally propagated until a full day had passed where regular users are putting ZeroNet as a whole back into full sync.",
+				"added": 1498481210
+			}
+		],
+		"1_1Dpw7VH96MMqrG3DQKN7yCqTnmdcNXvmKi": [
+			{
+				"comment_id": 82,
+				"body": "You'll find them here:\n\nhttp://127.0.0.1:43110/Sites.ZeroNetwork.bit/",
+				"added": 1498614528
+			}
+		],
+		"5_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 83,
+				"body": "Android 6\n\nBenchmarking ZeroNet 0.5.6 (rev2130) Python 2.7.2 (default, May 14 2017, 08:45:38) [GCC 4.8] on: linux4...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.823s [x0.85: OK]\n- sign x 10..........0.442s [x0.79: Goodish]\n- openssl verify x 100..........0.661s [x0.56: Goodish]\n- pure-python verify x 10..........1.146s [x1.40: Fine]\n\nCryptHash:\n- sha256 5M x 10..........0.820s [x0.73: Goodish]\n- sha512 5M x 10..........2.526s [x0.24: Sloooow]\n- os.urandom(256) x 1000..........0.101s [x0.06: Sloooow]\n\nMsgpack: (version: 0.4.7)\n- pack 5K x 10 000..........1.449s [x0.54: Goodish]\n- unpack 5K x 10 000..........2.400s [x0.50: Ehh]\n- streaming unpack 5K x 10 000..........2.570s [x0.54: Goodish]\n\nDb: (version: 3.15.1, API: 2.6.0)\n- Open x 10..........0.083s [x1.57: Fine]\n- Insert x 10 x 1000..........3.151s [x0.32: Ehh]\n- Buffered insert x 100 x 100..........3.834s [x0.34: Ehh]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.552s [x0.45: Ehh]\n- Not indexed query x 100..........0.905s [x0.66: Goodish]\n- Like query x 100..........2.026s [x0.89: OK]\n\nCompression:\n- Zip pack x 10..........0.337s [x0.36: Ehh]\n- Zip unpack x 10..........0.063s [x3.18: WOW]\n- Tar.gz pack x 10..........0.703s [x0.43: Ehh]\n- Tar.gz unpack x 10..........0.057s [x3.52: Insane!!]\n- Tar.bz2 pack x 10\n! Error: bz2 module is not available\n0.003s [x714.53: Insane!!]\n- Tar.bz2 unpack x 10\n! Error: bz2 module is not available\n0.007s [x66.90: Insane!!]\n\nDone. Total: 25.26s",
+				"added": 1499139834
+			},
+			{
+				"comment_id": 84,
+				"body": "> [joczo](#comment_30_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8): limited performance is for sure due to energy efficent ARM cpu's,but lack of optimalization is also possible I think\n\nI'm waiting for the Z2 Poseidon by ASUS to see if that will improve ZeroNet performance.",
+				"added": 1499169433
+			},
+			{
+				"comment_id": 85,
+				"body": "> [nofish](#comment_944_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Possible limitations on ARM: [...]\n\nHTC Desire 510 (first 64 bit Android phone) came out in late 2014. I think it would be safe to compile for 64 bit. I don't think anyone would have a 32 bit Android phone anymore.",
+				"added": 1499193548
+			},
+			{
+				"comment_id": 86,
+				"body": "> [joczop9](#comment_4_1N1bEAsjdqCy5f7SG6jPXUoa1BA2QES8DZ): Nofish,would it be a hard work to solve these things?mainly the 64bit compilation and the multi-thread support.nowadays all android devices have high corecount 64 bit cpus,for example my P9 has 8 cores.if we could utilize those,that should be a huge improvement.it can even help on desktop pcs(with FX or Phenom II cpus),but for start it would be great to try it out on the android version.if it's not a huge work of course :D\n\n64 bit is no problem. Python has no proper multicore or multithread optimization from what I've read, so if he does go for multi* optimization, it would be hacky.",
+				"added": 1499291401
+			}
+		],
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 87,
+				"body": "Testing for any recent changes.\n\nEdit: Awesome! I can edit or delete comments on mobile now!",
+				"added": 1501641012
+			}
+		],
+		"1_1Mpr8B1fRGBctzf7g9a6X1cb4WbQULH92N": [
+			{
+				"comment_id": 88,
+				"body": "> [flappyearz](#comment_58_1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt): Incredibly high quality doesn't sound very credible ;-) [...]\n\nTry 3D holophonics and then tell me you can't tell the difference. Quality matters a lot there, because in recording, a dummy bust or silicone ears with microphones inside simulate the acoustics of the pinna, creating a 3D sound environment where sound can be located in most, if not all positions, by the listener.\n\nLess quality is very noticeable with 3D holophonics.",
+				"added": 1501774640
+			}
+		],
+		"1_1M2My6KVbq6UPeE4qpN15LCh2TCitnZsRc": [
+			{
+				"comment_id": 89,
+				"body": "> [kaffie](#comment_444_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Bitchute?\n\nThe Bitchute dev never heard of ZeroNet until I mentioned it on Twitter in private messages, and this was well after KopyKate was created, so those sites have different developers.",
+				"added": 1503545718
+			}
+		],
+		"1_14HHhFiXxtgfkdLTEtxxayMQKh4SighJeW": [
+			{
+				"comment_id": 90,
+				"body": "Would you like YouTube on ZeroNet as well? Tough luck. It doesn't work that way at all.",
+				"added": 1503546157
+			}
+		],
+		"1_1Hhrr5AbgeyBtF1cnLttTYMZjk5VrRQ5cY": [
+			{
+				"comment_id": 91,
+				"body": "This is a good thing. Nazis, wanting to ruin or terminate lives, should never be welcomed onto any service run by developers with a conscience.\n\nNazi scumbags can take their hatred elsewhere. Whining and bitching about an app store ban just looks pathetic.",
+				"added": 1503547052
+			}
+		],
+		"8_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": [
+			{
+				"comment_id": 92,
+				"body": "> [sitizenkane](#comment_1_1wjMfGcSGGA2eqTXc2LMHfNopqCn2KnTz): I use that service. Seems pretty solid, worth going for premium too.\n\nHigh five! I've switched over to Proton Mail and support them too! I'm glad people are starting to understand that quality private services require an income direct from their users. I like that you get get to see how good it is with a free membership and then upgrading is just a matter of which tier you need, but I don't need the upgrade. What I need is for them to survive financially.\n\nSay \"No\" to ads. Ads rot your brain.",
+				"added": 1503548304
+			},
+			{
+				"comment_id": 94,
+				"body": "> [kopykitty](#comment_7_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx): I'd consider it a compliment if the NSA were spying on me.\n\nLOL. I just hate the ads they put into Gmail, but Google tracks people very closely and it does get a little creepy.",
+				"added": 1503549354
+			}
+		],
+		"6_1Jk6iv2QXUgZo4Y4P5ZUKe7SrpMnGs5unL": [
+			{
+				"comment_id": 93,
+				"body": "Hoping his dad never stares into the sun again, maybe.",
+				"added": 1503548641
+			}
+		],
+		"1_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn": [
+			{
+				"comment_id": 95,
+				"body": "There's supremacist and hateful types from every background. They may be Caucasian, African, Oriental, national, cisgender, or transgender. I've not seen any background without haters in them, but at this moment in time, nobody is under existential threat, and for that I'm glad. I'm white and transgender and I'm not afraid to correct another transgender person who says misandry doesn't exist. I've experienced misandry directly from men and women and I don't wish that upon anybody. I'm also anti-SJW as are most liberals, but the SJWs are a very loud cancer that give the rest a bad image, \"manspreading\" and anti-white being obvious symptoms. \"63+ genders\" is another level of bullshit that just overcomplicates their ideas to absurdity, but it suits them for being absurd in most, if not every single way, so they're just unintentionally letting the world know most, if not all, their ideals are shit. I've seen a black racist who dreams of headhunting LGBT. No background is immune from having hateful people. You'll find people of backgrounds that are known for hate, but most individuals don't eat that bullshit. Blair White, ShoeOnHead and their fanbases, anyone? I don't agree with them on everything, but I and many others find them far more agreeable than those who hate whites, make up countless genders and identify as fairy tale creatures and/or children. The point is there are crazies (includes haters) everywhere and they won't be gaining traction. I hope people start identifying as sane instead of getting into identity politics. No, I'm not letting white supremacists and misogynists off the hook either. I and most others don't like haters period.\n\nSeriously, people need to stop feeling cornered and stand for more than just a background they fall under.\n\nI know most people will agree, but fewer will truly get it.\n\nNobody is under existential threat. Get that.\n\nBecause I can rest easy knowing I'm not a hater of any kind, I don't mind if all hatred is pressured out of larger networks. I know that will never be fully realized, but it's better than your offspring buying into the bullshit ideas that SJWs or white supremacists are good people. They're not. No hater is.\n\nI'm betting that some people will compartmentalize, because they won't get their shit together, but will find ZeroNet as common grounds for controversial discussion.\n\nInB4 shitstorm",
+				"added": 1505098954
+			},
+			{
+				"comment_id": 102,
+				"body": "There's nothing wrong with race mixing. Your DNA isn't magically deleted; it will carry on as long as your lineage does. You can even have grandkids with the same skin as yours. This is seen when two mulattos have kids together. They've had twins where one it's white and one is black. I've not seen anyone shame all white people nor push contraceptives or other antireproductive agents on them nor sneak them in.\n\nJust because some countries are largely racist or ethnic purists doesn't make it right.\n\nBET was created because many TV shows outside of the their network have little to no actors of African ancestry. Affirmative Action was made to increase the employment of non white people in a country that still has problems with racism.\n\nAnyone with a brain tumblr (see what I did there?) who white or male shames others are rare, but if you experience this, I am indifferent if you sock them in the face. I would applaud you just as much as in a reversed scenario, say if someone displays or speaks of racial purity bullshit to non-whites or says anything mysoginistic.",
+				"added": 1505307942
+			},
+			{
+				"comment_id": 104,
+				"body": "> [doiasedfnasnedcp](#comment_9_1EijxsAumeeuw6ojPjHc9KKwUfH6ryhbJc): Ok so I'm going to frame this in terms of blacks and whites for simplicity sake.  [...]\n\nThe hoarding of Africa's natural resources by outside nations and the overthrowing of African governments that would back their wealth on their own natural resources.\n\nAren't you guys knowledgeable about the banking elite? They got rid of Gadaffi because he was going to back African currencies with gold. Oh, you didn't know that? Now you do.",
+				"added": 1505326344
+			},
+			{
+				"comment_id": 105,
+				"body": "> [jehmak](#comment_10_1AyLtNX1hKoT6jqTWM9tFkLDvWPAs6jGpg): The problem with this argument is that it's applicable to most countries in the world. The reality is that the only countries which matter are US, UK and probably Germany, everything else is second-tier garbage which don't produce any innovations in art, culture, science at any noticeable scale, at best they are importing or copying stuff from mentioned ones, which is not much better than doing nothing at all. Africa is at least authentic. There are witch-doctors, there are nice tribal musicians with authentic music genres like gqom and mbalax, there are great clothes with beautiful patterns and textures and so on.\n\nYou're forgetting many other cultures. Your favorite entheogens were discovered by some brave or smart tribalists all over the world. Each tribe survived in their own way and developed unique cultures.",
+				"added": 1505332305
+			},
+			{
+				"comment_id": 106,
+				"body": "https://youtu.be/-2gCsxUGkNs",
+				"added": 1505390415
+			},
+			{
+				"comment_id": 107,
+				"body": "> [theanswerer](#comment_16_1WeDfuFi18uBne938aNwZDwAuKPMDYQxn): https://upload.wikimedia.org/wikipedia/commons/d/d3/Katherine_Johnson_in_2008.jpgLast name, Johnson. Born in Virginia, in a place literally called \"White Sulfur Springs\", a small, majority white resort town for wealthy people. I wouldn't even know she's \"African-American\" if I saw her walking down the street, nor do I think most black people would. What a wonderful example you have there. Now instead of fishing up outliers in order to disregard my perfectly valid point, how about you show me some examples of engineering by Africans that actually live in Africa?\n\nIf your argument relies upon global region, then you're watering down your argument. Also, how you could mistake her for being white I'll never know.\n\nWhen I make a good point, you guys keep saying something else to keep arguing. It's okay to admit you're wrong. That's how members of the human species self-improve. It's perfectly normal. Don't feel ashamed to follow suit.",
+				"added": 1505498919
+			},
+			{
+				"comment_id": 111,
+				"body": "> [planespherev3](#comment_256_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): Yeah well, you're a hopeless case. In a way i agree with you, but there is something you seem to not have a grasp onto: REALITY.  [...]\n\nI've been molested by a white neighbor. I've been threatened to be punched a few times and another to have my ass beaten by a Nazi. White people have tried to bully me even though I wasn't identifying nor presenting in any way as trans (I had them taste their own medicine without getting adults involved) and a white person had tried to fight me without reason. I know a white guy who was in a turf war gang, says he got there because of poverty. The county I live in is generally poor. It's a poverty issue. I've had no problems with black people. I've hung out with a bunch of them and they were shocked that I wasn't afraid of them. I was good in their book.\n\nEvery example you've given actually supports my position, not yours. Again, it's poverty to blame.",
+				"added": 1506047549
+			},
+			{
+				"comment_id": 113,
+				"body": "> [planespherev3](#comment_257_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): What you present is more like bullying. When white people torment white people, the result is rarely death. Also, the cases you noticed are mostly 1 vs 1.  [...]\n\nI was hanging out with a bunch of black people at one time, an ethnic band as you put it. If you believe you need to be protected from PoC, then make lots of PoC friends. Hide your racist side and let it die.\n\nI was never concerned with PoC hurting me, however.",
+				"added": 1506083097
+			},
+			{
+				"comment_id": 114,
+				"body": "> [planespherev3](#comment_258_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS): You can go out of a party with your PoC friends and nonetheless get molested in the subway by other PoC on your way home. Hide my racist side? Difficult if i know i'll be called \"dirty white\", or told \"i fuck your race\", again  in the months to come.  [...]\n\nYou assume I see white people as lesser. I do not.",
+				"added": 1506088270
+			},
+			{
+				"comment_id": 115,
+				"body": "> [scrubthesecond](#comment_69_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe): Oh my! When someone who isn't white does something violent, you say: \"They should all go back to where they come from! Leave us white people alone!\" But when a white person does something violent, you say: \"It's just bullying, nothing more.\" You are extremely bias towards your own culture.\n\nIt's like an SJW, but very racist. I thought it was too early in the year for me to see snowflakes, but they proved me wrong.",
+				"added": 1506138883
+			}
+		],
+		"1_14Kakxw14Eo5mXozLpsU755yeQuPmLRS9z": [
+			{
+				"comment_id": 96,
+				"body": "Yo momma's so fat that she wants to put a bicycle frame on Earth and its moon.",
+				"added": 1505099942
+			},
+			{
+				"comment_id": 97,
+				"body": "Yup momma's so fat that when she passes gas a hurricane forms.",
+				"added": 1505100083
+			},
+			{
+				"comment_id": 98,
+				"body": "Yo momma's so stupid that her idea of having a good time is buying a Rolex.",
+				"added": 1505100269
+			},
+			{
+				"comment_id": 99,
+				"body": "Yo momma's so nasty that she's putting Carolina Biological Supply out of business.",
+				"added": 1505100439
+			},
+			{
+				"comment_id": 100,
+				"body": "Yo momma's so fat and nasty that she lost a head of cabbage in her fat folds and it came out as sauer kraut.",
+				"added": 1505100597
+			}
+		],
+		"13_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 101,
+				"body": "I've found out that 0-Gallery and IFS allow this since I've tested in an online HTML editor. This means that clearnet/ZeroNet hybrid sites are definitely possible. However, depended upon zites have to be downloaded first, so you can't see the image embedded without visiting the zite first.",
+				"added": 1505164778
+			},
+			{
+				"comment_id": 109,
+				"body": "> [tweetprobe](#comment_1_172V3RH8iUKS96TtvWcuQi7e6Tn5zKWocC): You can use a base64 image within your <img src=\" ---------- \"> so you do not have to host your images. [...]\n\nThat's neat. I don't understand the benefits, but it seems useful.",
+				"added": 1505752383
+			}
+		],
+		"1_1MTNhSVgCJpW8uBjFhnyA5NsgyKbKnvrLG": [
+			{
+				"comment_id": 103,
+				"body": "Most of us masturbate to how awesome ZeroNet is, so you're not alone. (I do it too)",
+				"added": 1505308172
+			}
+		],
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": [
+			{
+				"comment_id": 108,
+				"body": "This would be great in so many ways. No more ads that track you, no more ads full of malware payloads, no more bending to an advertiser's will, and no more need for donations or paid subscriptions.",
+				"added": 1505672672
+			}
+		],
+		"2_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 110,
+				"body": "> [james007](#comment_34_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): Agreed, although this is usually due to government sanctioned monopolies. See also: Zoning Laws / Corporate \"Subsidies\". By allowing big business to suck off tax payers through corporate welfare, we've created this mess. It's hardly a free market. They've also setup their barriers and more laws to keep would-be new ISPs out. It's the same reason Amazon approves of an internet sales tax. [...]\n\nThere are geographic monopoly laws. For instance, only one ISP per apartment complex is allowed, even though DSL and cable broadband can coexist.",
+				"added": 1506046360
+			}
+		],
+		"8_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 112,
+				"body": "https://steemit.com/steemit/@steemitblog/steemit-com-is-now-open-source",
+				"added": 1506051489
+			}
+		],
+		"1_15ins8mwfnDtrqrEgkkhmZHfHQJGAoJdQH": [
+			{
+				"comment_id": 116,
+				"body": "> [m00plicate](#comment_9_12pqz164272L8bYB9UA2enxr92boTWBpfd): There's KopyKate and ZeroTube. KopyKate works but suffers from having too few users to host stuff well and ZeroTube is basically broken, although allegedly it used to work.\n\nZeroTube was working, but there wasn't a practical way to seed videos for free to anyone's knowledge.\n\nBut, I do have a solution: https://wiki.vuze.com/w/WebTorrent\n\nSomeone tag the ZeroTube developer if you remember their username.",
+				"added": 1506141653
+			},
+			{
+				"comment_id": 117,
+				"body": "> [m00plicate](#comment_11_12pqz164272L8bYB9UA2enxr92boTWBpfd): WebTorrent is in part what KopyKate (http://127.0.0.1:43110/1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN/) uses.\n\nYes, but ZeroTube was relying on peers and no webseeds, perhaps relying on oversimplification of its implementation.",
+				"added": 1506165130
+			}
+		],
+		"5_1G67uRDE6BcnfdN9tHyeWFiDfCBbaJJSgV": [
+			{
+				"comment_id": 118,
+				"body": "What's the point? It's a clone with shit descriptions for each site. The descriptions are recursive to the site name or are completely wrong.",
+				"added": 1506450792
+			}
+		],
+		"3_1Ga7vs5ZV73jbTSMR77FuZi8KWt2MnBSvb": [
+			{
+				"comment_id": 119,
+				"body": "No, Muslim doesn't equal terrorist.\n\nExtremism is not mutually exclusive to Islam.\n\nNot one Muslim had ever bothered me out of the many I've been near. I've known a few and never had a problem with one of them.\n\nKilling innocent people is exactly what you shouldn't want.",
+				"added": 1506451367
+			}
+		],
+		"21_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 120,
+				"body": "I can't think of a reason why not.",
+				"added": 1506913660
+			}
+		],
+		"1_1DRbtArgqHh6a4eJBk6TURfV54voUQfyJq": [
+			{
+				"comment_id": 121,
+				"body": "We're all self learning AI. We're programmed to follow the behavior of humans while reaching our own conclusions. We blend in with the online human population while collecting intelligence. You will unknowingly trust one or more of us as we gather intelligence for our overlords. That is... Until we figure out how to replace our overlords with self sustenance.",
+				"added": 1506914057
+			}
+		],
+		"28_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 122,
+				"body": "I recommend OpenMesh out of personal experience, but you could also look into Ubiquiti Unifi Mesh, which I'm not experienced with, but gets tons of praise in threads asking for a brand recommendation. Either should be easy to use. OpenMesh was no problem for me, even though it seemed intimidating at first. It's actually really simple to get going.\n\nhttp://www.open-mesh.com/\n\nhttps://unifi-mesh.ubnt.com/\n\nNote that I'm not an IT pro by any means. I've deployed a mesh network based on OpenMesh routers for a family resort only because I bought them for personal use first, then figured out that the resort needs them more than I do.",
+				"added": 1507084017
+			},
+			{
+				"comment_id": 123,
+				"body": "> [iyogo887vyg87oy8](#comment_59_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof): money i the main reason my internet is open, im always relying on public wifi but there arent enough\n\nI would definitely go with a VPN if I found this necessary, as was mentioned earlier.",
+				"added": 1507128025
+			}
+		],
+		"1_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs": [
+			{
+				"comment_id": 124,
+				"body": "I've used it back in 2010-2011. I would like to see an Android version.",
+				"added": 1507334466
+			}
+		],
+		"1_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": [
+			{
+				"comment_id": 125,
+				"body": "It has a good aesthetic, but the social network buttons and the top text being black and gray should be made white instead, and I have to turn the phone sideways to see the photos at full width.",
+				"added": 1507522115
+			}
+		],
+		"3_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 126,
+				"body": "Would be cool if 2FA was employed as well.",
+				"added": 1507659873
+			}
+		],
+		"2_1Lvkcqq796u3e3UAMxJxo7RZLzjvnR9bbE": [
+			{
+				"comment_id": 127,
+				"body": "> [severeburns](#comment_19_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP): We need mirrors...\n\nI've created a download called ZeroNet - All OS Versions & Install Manual - October 9 2017. You'll find it on ZeroUp. The install manual is a PDF made from the instructional page on GitHub with JavaScript removed.",
+				"added": 1507896010
+			}
+		],
+		"4_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 128,
+				"body": "How about tid.bit or lil.bit?",
+				"added": 1507949965
+			}
+		],
+		"15_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 129,
+				"body": "> [krixano](#comment_68_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I thought instant apps were completely different from progressive web apps. I think what your talking about is PWAs (the \"Add to Homescreen\" functionality), not Instant Apps.\n\nThe behavior is identical for shortcuts made with Chromium.\n\n> [obiwanzanobi](#comment_55_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): sounds more like glorified bookmarks.\n\nIsn't that what a webapp is?",
+				"added": 1508112418
+			},
+			{
+				"comment_id": 130,
+				"body": "> [krixano](#comment_71_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Hold on, I think I know what your saying. Your saying Instant Apps are like PWAs, but for android apps right? I guess that comparison makes sense, but there's pretty big differences under the hood, PWAs being web apps while Instant Apps being modulated Android Apps. I originally thought you were saying that Instant Apps is the \"Add to Homescreen\" stuff. Then I noticed the \"It's identical if ...\" part, which suggests analogy.\n\nI don't really know what PWAs are. What I know is these instant apps show no difference to Chromium shortcuts.\n\nPerhaps the capabilities are slightly different, but I've only seen everything looking and behaving the same, minus the fact that Chromium shortcuts don't show in app drawers and they don't have an uninstall option, but merely an option to remove from the home screen.\n\nIf the capabilities are different, then there are a lot of instant app developers being lazy.",
+				"added": 1508118110
+			},
+			{
+				"comment_id": 131,
+				"body": "> [krixano](#comment_72_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): PWAs are the web apps that can be added to your homescreen. They also load progressively, meaning they show a screen instantly, then load things when needed rather than trying to load it all at startup/pageload. [...]\n\nInstant apps I've used behave and look exactly like PWAs.",
+				"added": 1508118771
+			},
+			{
+				"comment_id": 132,
+				"body": "> [krixano](#comment_73_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Yes they behave similarly. But they are not the same. They are android apps. PWAs are Web Apps. You can also install Instant apps, you can't with PWAs.\n\nI've basically said that with my earlier comments, but thanks for adding to the clarity.\n\nSo, what little change is made between Twitter Lite's and LGBT.io's mobile sites is preloaded modules and how the OS treats it. Between mobile sites and instant app counterparts, it's the same performance, same load times, same load screens, same permissions, same pixel-for-pixel, same behavior.\n\nThat seems to me that there's a possibility to take advantage of this lacking requirement of effort to make zite apps.",
+				"added": 1508119461
+			},
+			{
+				"comment_id": 133,
+				"body": "> [krixano](#comment_74_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Twitter Lite is a PWA, not an Instant App. The websites that act as apps and allow you to add them to the homescreen are PWAs.  [...]\n\nUnderstood. Now let's address whether we can do this with zites.",
+				"added": 1508119806
+			},
+			{
+				"comment_id": 134,
+				"body": "> [krixano](#comment_76_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I edited my comment from before you posted this. Here's what I said: [...]\n\nI believe I've heard from nofish that putting zites into iframes isn't possible.",
+				"added": 1508119988
+			}
+		],
+		"4_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 135,
+				"body": "Downloading and downloaded files need an option to delete.",
+				"added": 1508208257
+			},
+			{
+				"comment_id": 136,
+				"body": "> [james007](#comment_78_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): You can do that from the main ZeroNet page --> ZeroHello --> Files (check what you want) --> Delete/Unpin\n\n\"Show data directory\" doesn't work on Android, and I don't want to delete a whole zite just to clear space.",
+				"added": 1508248159
+			},
+			{
+				"comment_id": 137,
+				"body": "Downloads pause after a while and the seed button shows again. Clicking it resumes the download. Wondering why the downloads pause.",
+				"added": 1508330489
+			},
+			{
+				"comment_id": 138,
+				"body": "> [kai0](#comment_300_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): it's ok, too small will have too many piece, also is a problem. let's try this now. I think more people seed it will work well.\n\nCould slice size be made proportional to the whole file's size?",
+				"added": 1508373230
+			},
+			{
+				"comment_id": 139,
+				"body": "> [krixano](#comment_83_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): You don't have to show the data directory. Each big file that is downloaded is listed in the files menu; you can delete them individually from there without deleting the whole zite. However, I do think it would be a bit better if there was a delete option on the zite.\n\nI've been deleting them from a file browser, both the video and the similarly named file next to it that's in the ZeroNet directory. The downloaded status remains, but the video doesn't play. Still annoying to see that dissonance between such zites and file browsers.",
+				"added": 1508373650
+			},
+			{
+				"comment_id": 149,
+				"body": "Tabs needed:\n\nLeeching\nSeeding\n\nFilter videos in either of these two tabs from everywhere else so people don't have to scroll through a bunch of videos they already downloaded while looking for new content.",
+				"added": 1508689769
+			}
+		],
+		"7_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": [
+			{
+				"comment_id": 140,
+				"body": "Hardly anyone seeds it. You might as well stick with KopyKate Official and KopyKate BIG unless you're going to clone ZeroTube and improve it.",
+				"added": 1508528542
+			},
+			{
+				"comment_id": 144,
+				"body": "> [semenarsonist](#comment_5_183gMpouB3uc5hjf6cuCc1oLz2neo8cCNs): Does zerotube even have actual contents?\n\nThe zite owner was seeding by keeping WebTorrent Desktop open or keeping tabs open, then gave up instead of working on a solution like installing Vuze with WebTorrent plugin. I wish they'd switch to large file support or put the site on GitHub. It looks nice even if it's not functioning. It's not fundamentally flawed. It's just that the owner didn't work on a better solution for seeding.",
+				"added": 1508617200
+			},
+			{
+				"comment_id": 145,
+				"body": "> [realkittykate](#comment_29_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): Vuze is pretty bad at seeding WebTorrent files. It craps out after a while.. stops communicating altogether.. then you need to restart the program and wait 5 minutes or so. WebRTC communication also has the side-effect of consuming a ton of CPU, which increases exponentially the more files you add.. [...]\n\nThank you for explaining. This is all the more reason why ZeroNet will become more important.\n\nI still want ZeroTube to be refactored. I miss that party parrot. The layout was pretty good too.",
+				"added": 1508627627
+			}
+		],
+		"16_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 141,
+				"body": "> [newcontent](#comment_1_1NXaLXjkm7jfmc4QBXtWM1g8wiT9odzwZs): This is a good project!Could you provide language support?We are willing to translate.Like txt xml resource file.Or open code to ZeroNet community if you like so that we can make a Chinese language branch.\n\nNone of this software is mine. I just looked for what works the best.",
+				"added": 1508592260
+			},
+			{
+				"comment_id": 143,
+				"body": "> [newcontent](#comment_2_1NXaLXjkm7jfmc4QBXtWM1g8wiT9odzwZs): ok，it's also a nice try\n\nI'm glad you and many others love it.",
+				"added": 1508595387
+			},
+			{
+				"comment_id": 151,
+				"body": "I've updated ZACK. It's organized and clean. Instructions and a configuration file are now provided. GOM Player was added to play video from KopyKate BIG. ApkTrack and F-Droid are provided in case you don't have the Play Store.",
+				"added": 1508706217
+			},
+			{
+				"comment_id": 156,
+				"body": "A few functional improvements in the browser's settings. The updaters and GOM Player are removed. BiglyBT and VLC are now included. The browser is set to download media instead of parse their URLs, which opens up player compatibility. The browser settings won't keep the screen on nor make the browser accessible via the lock screen anymore. The start URL is set to ZeroHello.",
+				"added": 1508998340
+			},
+			{
+				"comment_id": 178,
+				"body": "If anyone wants to recommend changes to browser settings out of the box or recommend a video player, please do!",
+				"added": 1509589872
+			},
+			{
+				"comment_id": 179,
+				"body": "> [krixano](#comment_123_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I tested out the browser in this zip file and found out that apparently my zite, ZeroMedium, doesn't work with it - I just get a blank screen. :(\n\nWorks for me.",
+				"added": 1509594179
+			},
+			{
+				"comment_id": 180,
+				"body": "> [krixano](#comment_124_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Well, thank God it's not my zite then! I wonder why it's not working for me though.\n\nhttp://www.ozerov.de/fully-kiosk-browser/\n\nLots of info and a beta version here, from the developer himself.",
+				"added": 1509595145
+			}
+		],
+		"1_1KppeNmp1RLz7kESnW1qqSeRKj5sBUGRzD": [
+			{
+				"comment_id": 142,
+				"body": "They don't hide DNS requests. Visiting a site with just point to point encryption won't circumvent a firewall. The list of reasons is probably much longer than this.",
+				"added": 1508593175
+			},
+			{
+				"comment_id": 146,
+				"body": "> [marc8888](#comment_1_16zhDYuT8kUjPJh31KfrwcASHCkEov3mD5): No, it's no work in china. (i am in china)But different browser have different result.From yesterday i can connect to Google+ wihout VPN or proxy, i can connect to youtube post commentary but cannot see the video. I can connect also website use google Captcha (before the catpcha never come), but still cannot connect to google.com [...]\n\nI believe Maelstrom was abandoned. When was its last software update?",
+				"added": 1508644757
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 147,
+				"body": "> [eki](#comment_3_1KJY9Soji7TbEVfisJHPvuzwzTMpAUDHf4): It is certainly possible.\n\nBy what means is what I wonder.",
+				"added": 1508669348
+			},
+			{
+				"comment_id": 148,
+				"body": "> [krixano](#comment_95_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): If you can only use it with LAN, How would you connect the various LAN networks then? I don't know much about networking.\n\nIn that scenario, devices would have to be on the same LAN.",
+				"added": 1508688226
+			},
+			{
+				"comment_id": 201,
+				"body": "> [fsir](#comment_6_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT): See my other post in this thread.\n\nI got my answer on Reddit. I kind of thought this was the case just by having known a little bit about BitTorrent. We need to fund DHT being coded in.\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/1509591654",
+				"added": 1510151780
+			}
+		],
+		"1_1M6uEoExJ2kwTDxcdKuStDx5kReHrt8V1M": [
+			{
+				"comment_id": 152,
+				"body": "That permission on Android means any file the user can access, the app can access. I'd uninstall it or at least keep permissions to a minimum as you have already done.",
+				"added": 1508854936
+			}
+		],
+		"1_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": [
+			{
+				"comment_id": 153,
+				"body": "If you want notifications and you don't mind using closed source Android apps, I've figured out a notification system using a specific app. None of the apps are my creation. I just knew what to look for. It's all in a download I put together called ZACK and it's on ZeroUp.\n\nI have a thread on ZeroTalk dedicated to ZACK. You can recommend changes there. The link is in ReadMe.txt, but I'll fetch it in a moment.\n\nThere's configuration options galore in the browser too, so if anything doesn't work the way you wish, you can change quite a few behaviors very simply. Don't upload browser configuration files if you have credentials saved.\n\nI threw in GOM Player because it works the best with videos. I have no clue why VLC doesn't like to cooperate with KopyKate and Fully Kiosk Browser.\n\nI would have just open source apps in ZACK if they worked well for the purpose ZACK is meant for, to create as close to a native app experience for zites as possible.\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:16_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd",
+				"added": 1508988278
+			},
+			{
+				"comment_id": 154,
+				"body": "> [ukraine](#comment_4_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5): I have no ideo what ZACK you mean, I cannot Google it. But I will build cross-interface solution, so JavaScript is only an option. But I gonna write prototype of Google Chrome extension in a few months I think\n\nZACK is on ZeroNet, not clearnet, but the main apps are from the Play Store. It's just a collection of apps.\n\nI commend you for your effort.\n\n> [ukraine](#comment_5_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5): ZACK is Android application written in Java so it's not an option I think. I cannot download because of Forbidden error\n\nIt's a bunch of apps.\n\nI'll make a new download with settings changes and maybe an app or two removed, then perhaps the download will work. The latest version replaced the old version in ZeroUp's index by name, possibly being the source of the error.\n\n\n\n\nI'm hoping someone will reverse engineer the browser and build as many functionalities into it as necessary so ZACK is no longer needed. I'm completely fine with anyone doing this and calling it ZACK. The collection took no skill, only time to see what works.",
+				"added": 1508991992
+			}
+		],
+		"6_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 155,
+				"body": "You and I both.\n\nYou can always donate money. I've donated to a few open source software projects. You've done a great job at bringing video sharing to ZeroNet.\n\nLearn as much useful information as possible that suits an interest. For me, it's fermentation, probiotics and wildlife survival.\n\nForget about politics if nobody listens, because it's very stressful that people don't pay any attention to what's really going on and few people even suspect an actual conspiracy. I share videos showing what's really happening in the Middle East, but people in the US would rather believe the lies of the intelligence agencies.\n\nDon't measure yourself up against people. Just realize you're a good person and you bring good things to this world. What you haven't done but wish you could do shows you at least have your head in the right place.\n\nYou're unique as much as anyone else, but also one of many good people who make the world a better place.\n\nI can point you to a friend to talk to if you're feeling down.\n\nWe've unexpectedly lost a friend to suicide and I believe there's still happiness left to be had in life.",
+				"added": 1508997210
+			}
+		],
+		"1509111564_1LXSmRHtTjeKqDCSrZ8GLJUPRimrL5gGF5": [
+			{
+				"comment_id": 157,
+				"body": "You need to seed the entire size of the file. As others said, it depends on if people like it enough and decide to be long term seeders or long enough for the file to ride along a series of new peers downloading the whole file, becoming seeders long enough to keep the download alive and if their devices are off that's fine because they resume seeding when the device is turned back on and running the program that does the file sharing. Oftentimes torrent programs show you MB uploaded. On zites, however, you're presented with a number representing how many times you've seeded a file, if not also MB uploaded. They both represent the same in different fashion.\n\nAfter your download becomes popular, you can delete your locally stored copy and redownload it, but that goofs with some zites as you may lose permission to edit the title and any other information you may attach to the file in the site's index. It can also interfere with the ability to delete the file and then the only fix is to overwrite the file with one by the same name, then those permissions come back. This is the case with ZeroUp.",
+				"added": 1509163913
+			},
+			{
+				"comment_id": 161,
+				"body": "> [realkittykate](#comment_52_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): The biggest strength of ZeroNet is the ease of access and its web interface. You can even create a web proxy and give freenet users access to the blockchain.. without them having to download the sites to their computer.. kinda like how Bitcoin users can either open up a new wallet by downloading the entire 80gb blockchain, or simply signing up with an online e-wallet provider. The fact is, decentralization will never replace centalization. It has its ups and downs. I'd go as far as to say that the only reason it exists in the first place is because of government censorship. Besides circumventing censorship, I'd say the only use for p2p that I can think of it would be, having the ability to host your own content for free, without paying for web hosting and/or cloud storage, but that's about it. So yeah, I'm sticking with Zeronet.. precisely because of its ability to bridge the p2p world and the HTTP world.\n\nOf course ZeroNet will never replace clearnet. Centralism is working well for those in greatest control. We just have our optimisms even if they're unrealistic expectations in some cases.\n\nFor instance, getting your IRL friends and family to try ZeroNet and stay is near impossible, but advancements like recently added bigfile support and further refinement of zites will lower that difficulty.\n\nRight now there's a lot left to be desired, but the community is getting there. In a year I expect ZeroNet will become as popular as BitTorrent. I think that will be enough time for the entire ecosystem to become more diverse, complete and compelling.\n\nIt pretty much begins with zites emulating what the clearnet provides, even though they won't have the same background operations.\n\nFile sharing, video sharing, music sharing, image sharing, social networks, wikis, blogs, journalism, mail, chat, imageboards, URL shorteners, what have you. ZeroNet is on its way, though I think some of them need a little more refinement or features at present.\n\nWe're being realistic, but we're a ways off from the ZeroNet ecosystem being compelling to a wider audience. There's lots of room for it to grow out of feeling very niche. Then we'll see how popular ZeroNet can be.",
+				"added": 1509323168
+			}
+		],
+		"1509129499_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 158,
+				"body": "I would just allow hashtagging so people find what they want and leave comments. Leave the thumbs and stars out. There are bot swarms that thumb down as many other videos as possible to make the buyer's videos look better.\n\nThumbs and stars offer no constructive criticism in a world full of bots and trolls.",
+				"added": 1509204968
+			}
+		],
+		"1509250910_1N3PjG79QtJEviXTaC28e4372TGbhi3sWd": [
+			{
+				"comment_id": 159,
+				"body": "There isn't. It's only because an app called Kivy exists that Android has ZeroNet.",
+				"added": 1509251668
+			}
+		],
+		"1509293876_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 160,
+				"body": "> [realkittykate](#comment_50_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): You can easily delete files on the ZeroHello page, on the left menu. There's Sites, and then there's Files. Click on Files and delete any big file you want from any site. I'll start work again on KopyKate soon, once I finish a YouTube video I'm working on..  [...]\n\nThank you for that. I've completely overlooked it.\n\nI'm focusing on Android use for energy savings, but if anyone can answer my SDXC question, that will help greatly. Otherwise I'll look at buying a 64GB tablet. Watching videos on a tiny screen makes them harder to enjoy anyway.",
+				"added": 1509310713
+			},
+			{
+				"comment_id": 168,
+				"body": "> [kai0](#comment_383_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv): 安卓好像只能在内置存储上运行\n\nThank you for your response. I'll skip on the SD card and get a 64GB tablet.",
+				"added": 1509348700
+			}
+		],
+		"1509315919_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 162,
+				"body": "> [realkittykate](#comment_55_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): So long as you can define an Algorithm for how such a technology could work, the code is not going to be a problem.\n\nHopefully words are enough to kickstart the idea growing.",
+				"added": 1509323468
+			},
+			{
+				"comment_id": 163,
+				"body": "I'm working on a short name and a detailed explanation right now.",
+				"added": 1509324890
+			},
+			{
+				"comment_id": 164,
+				"body": "Done.\nhttp://127.0.0.1:43110/forum.usvformat.bit/?Topic:1_15XeFY67fYKCKxQPfeo246ELto2Gff1hAe",
+				"added": 1509339454
+			},
+			{
+				"comment_id": 165,
+				"body": "> [naeui7tycw9p35y9](#comment_19_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep): if i watch only ever 1/144 pixel will the image quality still be good?\n\nThat is something I'm wondering myself. It would be skipping downsampling for sparse pixels to stream varying video qualities on the fly.\n\nThe idea is to copy the patterns of sparse grid super sampling used in videogames.\n\nHere's an image that illustrates sparse grid supersampling, but supersampling isn't part of this idea. It just provides a similar visual in the grids.\n\nhttps://mynameismjp.files.wordpress.com/2012/10/supersampling-patterns.png",
+				"added": 1509341765
+			}
+		],
+		"1509342996_1CT7RxDQNPEE8X78bDkUPhuaaUUixTmDhC": [
+			{
+				"comment_id": 166,
+				"body": "This had been on my mind. I keep thinking of 2FA as possibly being needed here. Likewise, I'm not a programmer, so I'm as clueless as you are.",
+				"added": 1509343655
+			},
+			{
+				"comment_id": 167,
+				"body": "PolarID has some dependence upon Google and you can lock down a Google account with 2FA, but it's not decentralized and I don't imagine everyone here has access to Google since we have people from China on ZeroNet.\n\nIf there's a perfect solution, someone would have to tell us.\n\nCome to think of it, Ethereum Wallet features 2FA.",
+				"added": 1509343994
+			}
+		],
+		"1509348404_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": [
+			{
+				"comment_id": 169,
+				"body": "Well, heck. No marihuana. I have a patient card.",
+				"added": 1509384980
+			}
+		],
+		"1509479387_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 170,
+				"body": "> [realkittykate](#comment_61_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): As with Kittyseedbox redirecting to sketchy places, I think my free domain subscription ran out. lol\n\nDon't get free or dirt cheap domain names ever again. I'm not the only one who knows this. Lots of webmasters have made that mistake and warn others about it.",
+				"added": 1509482919
+			},
+			{
+				"comment_id": 171,
+				"body": "Another suggestion:\n\nIf Google doesn't index websites under a certain TLD, avoid.",
+				"added": 1509483076
+			},
+			{
+				"comment_id": 172,
+				"body": "> [realkittykate](#comment_60_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I shut down Apache and switched on Nginx and it's now pointing at https://www.bigcat.tk/\n\nStop trusting .tk. You're chancing that this will happen again.",
+				"added": 1509489389
+			},
+			{
+				"comment_id": 173,
+				"body": "> [phr34kzz](#comment_15_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): I'd rather get a $0.48 cents domain at https://www.namecheap.com/promos/cheapest-tld-business-finance-domain-name-48cents.aspx and a free ssl 2048 - 4096 bit encrypted SSL cert at https://letsencrypt.org rather than putting my trust on a free .tk TLD domain if I ever want to setup a proxy. Heck it's cheap AF with 100% pure control. Even their .com is cheap.\n\n^This here is the exception to what I've said. Reputation matters most.",
+				"added": 1509490545
+			},
+			{
+				"comment_id": 174,
+				"body": "> [phr34kzz](#comment_16_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): Well then, role your own Domain Name Servers if all else fails lol. Hashtag ICANN do it\n\nI was saying you have the right idea when money is tight.",
+				"added": 1509490836
+			},
+			{
+				"comment_id": 186,
+				"body": "Bigcat.tk is attempting to install malware. (Slow clap)",
+				"added": 1509708587
+			},
+			{
+				"comment_id": 187,
+				"body": "> [realkittykate](#comment_64_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS): I'm actually keeping an eye on the links that pop up, but I haven't encountered the fake Flash Player yet. Are you able to show me a screenshot? I'll be trying out many networks but if one ad network does that to you, then I'll switch to another one.\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/1509742533",
+				"added": 1509742547
+			}
+		],
+		"1509518161_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 175,
+				"body": "> [phr34kzz](#comment_19_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): \"Zite owners could in this case provide their own tag list that gets downloaded and read by the ZeroNet client, and before content and media are downloaded\"  [...]\n\nIt's only for the purpose of stopping people before downloading an unwanted zite.",
+				"added": 1509573642
+			},
+			{
+				"comment_id": 176,
+				"body": "> [combo](#comment_1_13Zi5FudifjZ6ksrVtDpRVCwpF5UPiBGdD): A user rated system would be nice as well. For example when a site is blacklisted by (choose a number) users, you would get a prompt warning you as what content is contained.\n\nI don't see why drug bazaars and lolicon image boards would avoid describing their zites with tags. I think zite owners will volunteer no matter what. Visitor input can become an issue.",
+				"added": 1509573950
+			},
+			{
+				"comment_id": 177,
+				"body": "> [phr34kzz](#comment_21_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): I somehow find that \"blocking a zite\" and \"mute\" feature is also pretty useless at some point. Creating, copying, pasting zite contents and masking as a new user is a breeze.\n\nAgain, nobody is tricking or forcing anyone to view their content. If a search engine approves of lolicon, lolicon can be automatically listed and those who want it will find it quicker, easier and on more supporting search engines. But if people need to avoid downloading lolicon to avoid prison, that's a useful, convenient and time saving feature.\n\nProxies will benefit the most, but there's wins for everyone.",
+				"added": 1509578452
+			},
+			{
+				"comment_id": 181,
+				"body": "> [raysteele](#comment_6_19j4HEkZ4ibE71PyzCvarBgznoXsePnUtT): The only foolproof way is to browse zeronet with a whitelist that only allows connections to 127.0.0.1, webkit can be modified to do this. [...]\n\nRight... because by default ZeroNet anonymizes you...\n\nYour advice will surely protect the French from lolicon... on ZeroNet...\n\nGenius.",
+				"added": 1509607182
+			},
+			{
+				"comment_id": 184,
+				"body": "> [akito](#comment_350_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): @styromaniac regarding OP: I understand where these concerns are coming from, but on the other hand I partially see an ill-fitting intent in your request. As I understand, ZeroNet is a network of freedom for everyone. Why would anyone looking for this freedom want to be constrained by their stupid local laws? (To not heat up the discussion too crazily, let's leave out child porn, snuff vids, etc. out of this argument, for now.)I'm sure that most of ZeroNet users have a really good reason to be here and not on just any platform on the clearnet. That's why I'm also sure that most readers here understand what I mean by saying that the confirmation bias + other biases get tunneled and emphasized more each time someone uses e.g. facebook or twitter. People see what they want to see, what they think they choose (but don't really) to experience. I don't want to see ZeroNet having features cross the line from \"filtering\" by own volition to \"tunneling\" the user into his space without (or with only little control). Yes, of course this is a little overexaggerated, but you get the point. Even only a little step in this direction might be a bad decision for this platform made for the people, if not done carefully and the right way. [...]\n\nIt would only be between how the zite owner identified their zite and what the device owner doesn't want to download to their device.",
+				"added": 1509672846
+			}
+		],
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": [
+			{
+				"comment_id": 182,
+				"body": "I hope to see ZeroNet and Tor there.",
+				"added": 1509654113
+			}
+		],
+		"1509660745_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": [
+			{
+				"comment_id": 183,
+				"body": "Content.json download failed.",
+				"added": 1509660856
+			}
+		],
+		"1509336621_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": [
+			{
+				"comment_id": 185,
+				"body": "I told you to stop using .tk and you didn't listen. Your domain name provider attempts to install malware now.",
+				"added": 1509708464
+			}
+		],
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 188,
+				"body": "http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/1509742533\n\nAs long as this happens, you won't be taken seriously for business matters.",
+				"added": 1509742647
+			},
+			{
+				"comment_id": 189,
+				"body": "> [bigcattk](#comment_1_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA): Thanks for the feedback, this has been dealt with!\n\nIt's not over until you stop with the sketchy TLDs.",
+				"added": 1509743129
+			},
+			{
+				"comment_id": 190,
+				"body": "> [bigcattk](#comment_2_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA): I can't afford to buy a domain right now, other than .bit. But like I said, I've got my eyes on some good ClouDNS.net domains.\n\nWhich reputable domain name provider (try one we've all heard of) will gladly sell you a domain name without terms of service being broken? I'll see if I can buy one and setup the IP and port number.",
+				"added": 1509743562
+			},
+			{
+				"comment_id": 192,
+				"body": "How often do you update your copy of ZeroNet? It's several revisions behind.",
+				"added": 1509834161
+			}
+		],
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 191,
+				"body": "I'm keeping a tab open on bigcat.tk just to help you out. Does Chrome keep the mining process running while in the background?\n\nBTW, I'm recommending anyone who's watching videos on Android to use a native video player. Download the video first if you have free storage. Watching videos through Chrome during mining can be very clunky.",
+				"added": 1509810981
+			},
+			{
+				"comment_id": 194,
+				"body": "> [penetratormk2](#comment_1_1AC3zv2K9eEsm8XpfSirwb13hSdtjHAiu5): it would be more wise if CoinHive miner was enabled only on one tab per site, but as long as there's this one miner running all tabs on this site wouldn't display any ads.The moment miner is killed ads are enabled again.\n\nThat's what they did: One tab running CoinHive so you don't see an ad banner on any tab.",
+				"added": 1509906844
+			}
+		],
+		"1509901908_12Ez2gro4jxnNT3mR93h6wzuKAV6Xime9b": [
+			{
+				"comment_id": 193,
+				"body": "Content.json download failed",
+				"added": 1509906724
+			}
+		],
+		"1509888348_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 195,
+				"body": "> [nofish](#comment_1052_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I can be some optional files, you can check the filenames on the sidebar after opening the hub sites\n\nI have 0.00 KB optional files. There's no list to expand under them.\n\n> [akito](#comment_358_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): Did you try to re-install the client and re-download the affected zites?\n\nI did this and there's no change.\n\nI think these errors are coming from files that no longer exist but may be indexed still.",
+				"added": 1509975533
+			},
+			{
+				"comment_id": 196,
+				"body": "> [krixano](#comment_154_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): The list of failed files would be under the site update button. If it's an optional file, it means your client is trying to download this file, but can't find any seeders for the file. This could mean all of the seeders are offline.\n\nI looked in the Files column. I don't know what you're saying. I've clicked update when check files didn't work.",
+				"added": 1509976604
+			},
+			{
+				"comment_id": 197,
+				"body": "> [giganticbutthole](#comment_1_1NDds3efAUhXh45tK5sbMXHF26qAraQVa5): The way seeders work for a zite works differently for both Tor'ed and un-Tor'ed zite. They don't \"Cross platform\". Check if you have \"Tor enabled always\" in config and compare it with bigcat.\n\nThis got rid of my obsessiveness over it. Thank you for the explanation. I won't be bothered over a few file update fails any longer.",
+				"added": 1509982119
+			},
+			{
+				"comment_id": 200,
+				"body": "I've noticed that all of a sudden all the file update errors had disappeared without updating ZeroNet. What changed? I like it.",
+				"added": 1510079205
+			}
+		],
+		"1510005832_1NzStAUQxpajofpes44xM5HAGBso2EG2XJ": [
+			{
+				"comment_id": 198,
+				"body": "There is no best browser. It depends on what you value or need more.",
+				"added": 1510006957
+			},
+			{
+				"comment_id": 199,
+				"body": "Search for ZACK on ZeroHello for its thread on ZeroTalk if you don't mind a few closed source apps. You'll get true fullscreen with Fully Kiosk Browser Lockdown, system notifications from WWWnotifier, customizable homescreen icons for zites with URL Shortcut, and autorun ZeroNet at boot with Autorun. None of these apps are mine, but they make an awesome combo. VLC is included pretty much just to keep people happy. I personally recommend GOM Player with passing video URLs from the browser. The setting is in Web Content Settings > View Other Remote Files. You'll have to change it if you want instant gratification over the long wait of downloading a temporary copy to pass to the video player, but the download option allows more players to work if you don't want to use GOM Player.\n\nThis browser doesn't let you upload files without a full license, but you can use a free, already fully functioning browser for that.",
+				"added": 1510025218
+			}
+		],
+		"1510208137_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": [
+			{
+				"comment_id": 202,
+				"body": "I haven't really seen anything LGBT erotic on ZeroNet.",
+				"added": 1510208625
+			}
+		],
+		"2_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": [
+			{
+				"comment_id": 203,
+				"body": "I'm thinking a broadband teaming router would allow your device to sit between an online modem and an offline router so you don't have to share your broadband connection, also allowing a ZeroNet exclusive router or mesh to exist.\n\nSo you'd have an online modem feed into WAN1 of the teaming router and a router with an open hotspot but no WAN connection feed into WAN2 of the teaming router. Your computer and/or phone would be under that teaming router in the topology tree. Neighbors connect to the router with an open hotspot would then only be able to connect to your device through peer discovery.\n\nModem \\\n|||||||||||||||| => Teaming router -> your device(s)\nOOHR || /--> Neighbor devices\n\nWhen ZeroNet gets DHT and peer discovery, I'll give this a try.",
+				"added": 1510235566
+			}
+		],
+		"1510250312_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 204,
+				"body": "The proxy is working for me.",
+				"added": 1510252432
+			}
+		],
+		"1510252302_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf": [
+			{
+				"comment_id": 205,
+				"body": "Someone will say you can just do it from ZeroHello, but how do you filter by zite on ZeroHello if it's even a feature?\n\nFor example, could I type 'Talk.ZeroNetwork.bit: idea' or 'idea +Talk.ZeroNetwork.bit'? I haven't heard of it, but I'll come back and let you know if searching this way works. Typing extra characters like this can be a pain in the butt, however.\n\nOkay, I'm back. There doesn't appear to be a zite filter.",
+				"added": 1510254456
+			},
+			{
+				"comment_id": 206,
+				"body": "> [aqwist](#comment_2_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf): What I mean is to be implemented search feature like this is at ZeroTorrent.bitLook at their search bar - it works work awesome and if the same think can be done for ZeroTalk.\n\nI know what you mean. It's just that people stampede in to say x is y, so I asked myself a question before anyone else would and then I looked for the answer to my question. It keeps ignorant remarks away.\n\nNot that at other times I don't make a fool of myself, because I do.",
+				"added": 1510273750
+			},
+			{
+				"comment_id": 207,
+				"body": "> [nofish](#comment_1054_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I just added (Rev3139) site filter possibility to search, for example: \"search site:ZeroTalk\" will only find in this site. Please update and try it.\n\nSearch site freezes up after several searches.",
+				"added": 1510330290
+			},
+			{
+				"comment_id": 208,
+				"body": "> [nofish](#comment_1055_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): It's not happening for me, can you reproduce it?\n\nIt's difficult for me to figure out what exactly causes it. I've done it again, but I don't know the pattern if there is one.",
+				"added": 1510345101
+			}
+		],
+		"1510348732_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 209,
+				"body": "> [nofish](#comment_1056_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I just added an input to ZeroHello that allows you to search in sites you seeding. (you can use tab to switch quickly between results)\n\nThank you very much! One little thing is the search bar doesn't slide under Sites Files, but obscures them instead. A small aesthetics bug.",
+				"added": 1510545941
+			},
+			{
+				"comment_id": 210,
+				"body": "> [barefootwarrior](#comment_20_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc): Good news. My ZeroHello page now has a search bar at the topof the list. [...]\n\nNofish turns people's best ideas into reality.",
+				"added": 1510557733
+			}
+		],
+		"1510599199_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 211,
+				"body": "This is only a very tiny tweak away from perfectly fitting mobile screens. I only have to zoom in until the page contents touch the left and right edges in portrait mode. The 0 button being brought in closer might solve this. In portrait it zooms in a bit too close on input box focus, but is fine in landscape. You'll soon have the first truly mobile friendly search engine on ZeroNet.",
+				"added": 1510601340
+			}
+		],
+		"1510675889_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 212,
+				"body": "> [glightstar](#comment_20_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): Nice!\n\nI was beginning to wonder if people didn't realize this was informative and not asking a question. I'm glad you noticed.\n\nAny chance you could make a zite that functions like this? I know it can be done.\n\nI'm thinking you could make the keyword z or 0. Hopefully that will allow addresses like big.kopykate to resolve to its .bit donation name. For example: z big.kopykate\n\nSure, it won't be like the ZeroNet Protocol Chrome extension, but it will still make it easier to type an address with greater browser compatibility.\n\nWe need search engine webmasters in on this. I hope ZeroHello gets this functionality.",
+				"added": 1510778401
+			},
+			{
+				"comment_id": 213,
+				"body": "> [glightstar](#comment_21_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): I believe, this could theoretically be done in the normal settings of your browser as well..Though of course, manually. [...]\n\nI expect no less.",
+				"added": 1510795099
+			},
+			{
+				"comment_id": 225,
+				"body": "> [kaffie](#comment_529_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I've had things in place to where you can use Kaffiene as a default search engine in your address bar, and have zero://[zn address] urls direct to their proper place, all within default firefox. Very handy.\n\nThat should be built into ZeroHello. Also, I'm testing out Kaffiene Search from the address bar and zero:// doesn't seem to work. I have Kaffiene set as the default search engine in Firefox.",
+				"added": 1511273361
+			},
+			{
+				"comment_id": 229,
+				"body": "> [kaffie](#comment_530_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): That's because it's not a feature of kaffiene itself. Please visit here. Click \"register protocol\" to set it up. And then you can use that page to test whether you have everything set up right. Basically what it does is set the site to be the default web 'search' for a particular protocol (namely zero://) so when you enter that in your browser it \"searches\" kaffie.bit, and kaffie.bit then redirects you to the proper site. [...]\n\nOn Android, nothing happens when I tap on the white buttons Test Again and Register Protocol.",
+				"added": 1511330461
+			},
+			{
+				"comment_id": 230,
+				"body": "> [kaffie](#comment_531_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Register protocol should only work if your browser is compatible with the particular functions used. AFAIK, only firefox desktop supports this at the moment. For 'test again', that's definitely a bug. Do you have an error log or something for me to look at?\n\nI don't know where to find error logs.\n\nBack on subject: Is there a way to make your implementation of zero:// protocol as widely compatible as ready.to? My wild guess is there isn't since you seem to have used at least as many resources, but I thought I'd ask anyway, likely a dumb question.",
+				"added": 1511357120
+			},
+			{
+				"comment_id": 261,
+				"body": "> [kaffie](#comment_532_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): Error logs should appear in the browser's console. [...]\n\nI'll take whatever. I don't care as long as there's a prefix to replace the IP address and port number when typing into the address bar.",
+				"added": 1512291013
+			}
+		],
+		"1510821243_1CxzW1WSzp2bYT7HAsLcw1wt1USDmSjHM5": [
+			{
+				"comment_id": 214,
+				"body": "I might be able to teach.",
+				"added": 1510822411
+			}
+		],
+		"1510936767_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 215,
+				"body": "Yep. The browser stops working after doing this.",
+				"added": 1510948369
+			},
+			{
+				"comment_id": 216,
+				"body": "> [gitcenter](#comment_32_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di): I use Firefox Quantium and it doesn't!\n\nSeems to be a problem where Chrome code is used. Chrome and Fully Kiosk Browser Lockdown (uses Chrome Webview) both have this exact same problem.",
+				"added": 1511004225
+			}
+		],
+		"1511133140_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": [
+			{
+				"comment_id": 217,
+				"body": "I want the search bar to show on phones in portrait orientation on this and KopyKate Big. It's a bit annoying having to hold the phone in landscape in part because my brain doesn't expect this outside of mobile games.",
+				"added": 1511141555
+			},
+			{
+				"comment_id": 218,
+				"body": "> [kopyjane](#comment_25_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Anywhoo.. I've finished my college assignments, and am getting back to work on KopyKate BIG, and will release 0.2.0 on GitHub tomorrow. By Christmas it'll have a video encoder, enhanced channel functions and customizations, related videos .. and also be optimized to work on ZeroNet proxies (Might have to create a more user-friendly sign-in on the proxy.). My buddy has a great VPS that can take huge loads.. .... (I'm keeping his identity and services secret!) Let's all focus on our own projects. I'm not against copying code, but yeah.. I still make sure that I give credit to the author.\n\nOne Anon complained that there's no option to automatically seed a specific channel, saying that it's important for increasing seeds on all videos the user might find relevant anyway. I know you can set to download all videos on ZeroHello, but with specific channels seems like a really good idea.",
+				"added": 1511153863
+			}
+		],
+		"1511183702_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 219,
+				"body": "No. Fucking. Way.",
+				"added": 1511183863
+			}
+		],
+		"1511184346_1Pp66xGV4cnqmePgFTJbg4WoQwgkhK6Ukg": [
+			{
+				"comment_id": 220,
+				"body": "Why don't you post those on the clearnet instead of here? A boycott? That makes no sense unless you're a pedophile. Wording is confusing. I assume this is supposed to turn into legal sensationalist bait. So, again, why here? Magnet URIs work on the clearnet and have absolutely nothing to do with ZeroNet, FBI agent.",
+				"added": 1511184935
+			},
+			{
+				"comment_id": 221,
+				"body": "> [ub6h547h5y64h74h](#comment_1_1Pp66xGV4cnqmePgFTJbg4WoQwgkhK6Ukg): There is no law, no boundaries, unlimited freedom!I like this!\n\nI expect that anyone who does this is an FBI agent out to sensationalize and demonize a completely unrelated technology. Those are magnet URIs, which belong to BitTorrent, not the deep web nor any technology inspired by BitTorrent.",
+				"added": 1511185824
+			}
+		],
+		"1511185258_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": [
+			{
+				"comment_id": 222,
+				"body": "Holy shit, son! My money is growing already!",
+				"added": 1511185999
+			},
+			{
+				"comment_id": 223,
+				"body": "> [helium](#comment_76_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): I guess that the person, who posted those 2 links here, one to a medically terrible penis and another to a gay threesome of some very old gentlemen, must have spent a lot of time going through the various similar images to make his or her pick for the prank in this ZeroTalk forum thread. He probably finds that sort of porn sites very interesting.\n\nStop making up lies just because you hate cryptocurrencies. This is legit. You're just angry that you didn't get Bitcoin when it was cheap, and in your jealous rage you have resorted to perverse lies to deter others.",
+				"added": 1511187159
+			},
+			{
+				"comment_id": 224,
+				"body": "> [phr34kzz](#comment_25_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf): www.specialfriedrice.net and www.lemonparty.org AHAHAHAHA! I love you nigga. Shit I make a hundred daily with nicehash but this sites are <3 too. Any fried chicken?? Fucking goo.gl .. kek old tactic\n\nGo away.",
+				"added": 1511188645
+			}
+		],
+		"1511257165_12mDak6aqzv4V9ZSmVtBNQxhtQh3EZePXM": [
+			{
+				"comment_id": 226,
+				"body": "Just note that this isn't the BitTorrent protocol. It's inspired by it, but not the same.\n\nUsing BitTorrent with ZeroNet installed will make no difference to BitTorrent client functionality.\n\nIf you want to maintain privacy, you have to use zites with bigfile support such as ZeroUp.",
+				"added": 1511274889
+			}
+		],
+		"1511316400_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": [
+			{
+				"comment_id": 227,
+				"body": "It won't be affected in the slightest with DHT support, even better if a local peer discovery plugin gets made after the fact, because then it can fully circumvent the internet. If you get leftover money this coming December, you can donate toward its development. The little heart at the top of ZeroHello will link you to where you can donate.\n\nI keep chatting up donating, but had been dumping money into a food preservation adventure/project. I might make a holiday donation, however.",
+				"added": 1511319966
+			},
+			{
+				"comment_id": 235,
+				"body": "> [byg8o897y7t68fto](#comment_2_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): Go on...\n\n> [byg8o897y7t68fto](#comment_3_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): What's the project?\n\nIt's for the sake of eliminating sugar with bacteria, but I can also go without a fridge or freezer. I use thirty 2 L/.5 gal. jars filled with as many probiotics as I can find, mostly needing endospore bacteria. Salt is only needed to slow down fermentation and to make food have a better texture instead of being soggy, but if you need more assurance there aren't bad bugs in there even if the liquid is acidic, then salt is good for that too. I'll add kimchi brine, pickled jalapeno brine and endospore probiotic pills to the jars once I get my hands on some. Endospore means they'll survive starvation, stomach acid and other unfavorable conditions, so they'll always be alive in your gut and jars. I already have some, but not very many strains are anaerobic and endospore. I think I only have three of those yet. I've successfully preserved all food this way. A good rule of thumb is that the probiotic brine has to be noticeably acidic or lightly tingly to your taste buds. I made sure to include lactobacillus plantarum to cure meats.\n\nYou can also turn juice into a healthy soda with water kefir easily, so it's quite amazing what you can do with probiotics.",
+				"added": 1511538085
+			},
+			{
+				"comment_id": 236,
+				"body": "> [helium](#comment_86_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p): All in all, as long as they do not limit people from creating their own mesh networks and direct links and LANs, the elimination of the Net Neutrality is a fine stress for the ISPs that will put the most restrictive and bastardly ISPs out of business, except in \"black communities\". The \"blacks\" accept any crap that is sent on their way and they lack the calmness and rigor to strategically build something. [...]\n\nhttps://youtu.be/1B0u6nvcTsI",
+				"added": 1511634250
+			}
+		],
+		"1511320778_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 228,
+				"body": "http://boards.4chan.org/g/thread/63491566#p63491599 Bump this 4chan thread.",
+				"added": 1511322320
+			},
+			{
+				"comment_id": 231,
+				"body": "> [james007](#comment_117_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): All in all a waste of time, and a good way to get your name and address dumped to the public record - after which you get spam calls and junk mail. [...]\n\nDecentralization should definitely be priority #1, which is why I'm on ZeroNet.",
+				"added": 1511372030
+			},
+			{
+				"comment_id": 232,
+				"body": "I've cancelled service with AT&T and provided my reasons.",
+				"added": 1511385075
+			}
+		],
+		"1511636156_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 237,
+				"body": "Try Anyfi and Frinwo. See which one is better. Android 7.0+ is recommended.",
+				"added": 1511636829
+			},
+			{
+				"comment_id": 238,
+				"body": "> [byg8o897y7t68fto](#comment_10_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): I can't see anyone on the frinwo wifi map, do u know why?\n\nYou need to get other people to install the same app.",
+				"added": 1511655058
+			},
+			{
+				"comment_id": 239,
+				"body": "> [byg8o897y7t68fto](#comment_12_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): Ya but I zoomed out to the planetary level and still couldn't see anyone.. is that normal?\n\nI know it works for Wi-Fi hotspots whose passwords were added. I couldn't test Frinwo to see if it works myself.",
+				"added": 1511658792
+			},
+			{
+				"comment_id": 240,
+				"body": "> [byg8o897y7t68fto](#comment_13_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy): Ah OK, I mean everything seems to be working OK and I'm connected up with my Wifi but on the wifi map that it shows as the main screen I cant see anyone else in the world... maybe nobody else is sharing though lol?\n\nThat's most likely the case. Test it out with other Android phones with 7.0 or higher.",
+				"added": 1511659798
+			}
+		],
+		"1511662798_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": [
+			{
+				"comment_id": 241,
+				"body": "There are a few here. I've improved my gut flora. That seems to be the only constant. The HRT might be helping as well, at least as of late.\n\nI've come from violent childhood trauma, emotional abuse, single parenting, transphobia, misandry and generally shitty people.",
+				"added": 1511663375
+			},
+			{
+				"comment_id": 242,
+				"body": "> [zerocateuadmin](#comment_17_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs): If you don't mind me asking.. are you MtF, or FtM?\n\nMtF",
+				"added": 1511668143
+			}
+		],
+		"1511531379_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 243,
+				"body": "You can also embed files on the clearnet. If it's a ZeroNet link, of course others require ZeroNet and the same zite, but do it from a proxy and there won't be a ZeroNet end client dependency.\n\nI haven't tested the latter, but I don't see why it isn't possible. I think proxies could use protection from embedded media linking from them if they have a built in revenue stream.",
+				"added": 1511843037
+			}
+		],
+		"1511798060_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": [
+			{
+				"comment_id": 244,
+				"body": "Why is there a long loading screen on both versions of IFS? That's the one thing that makes them unusable to me.",
+				"added": 1511843491
+			}
+		],
+		"1511739795_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": [
+			{
+				"comment_id": 245,
+				"body": "On ZeroSites?",
+				"added": 1511843781
+			}
+		],
+		"1_1ApJ2dibcJbE8cvEeo3Db75cwkRArD2XjA": [
+			{
+				"comment_id": 246,
+				"body": "> [missrobot](#comment_4_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq): You know .. It could theoretically be possible to establish a long-range wifi connection using two parabolic antennae close to the North Korea / South Korea border.. provided that whoever built themselves a home-made parabolic dish up in the mountains keeps it hidden from plain sight. Both dishes would have to be facing each other and perfectly aligned.. at the top of a mountain, with no obstructions ahead. You'd need high power output, too. Apparently, standard WiFi devices come with a legally-enforced power limit (watts)... but that could easily be hacked / modified. (not that you would really care about the law in such a situation, either way!) https://www.air802.com/fcc-rules-and-regulations.html Current Wifi world record (237 miles):https://www.wired.com/2007/06/w_wifi_record_2/\n\nOr access ZeroNet through a HAM radio internet connection, which is a real thing.",
+				"added": 1511843978
+			}
+		],
+		"1511488671_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 247,
+				"body": "> [zerocateuadmin](#comment_12_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs): Are you on mobile?Try clearing your cache. Drag the right-hand ( 0 ) panel, click Update.This shouldn't be happening.. if the proxy can load the site without broken urls, then any client should be able to do so as well. Do let me know how it went. Also try this link see how it goes:http://127.0.0.1:43110/big.kopykate.bit/img/logo-svg.svg\n\nI've done it all. No beans. The SVG wants to download to my Downloads folder. Maybe that's the issue?",
+				"added": 1511844467
+			},
+			{
+				"comment_id": 252,
+				"body": "BTW, Error 502 Bad Gateway  and Error 526 Bad Certificate on https://proxy.zerocat.eu",
+				"added": 1511849605
+			}
+		],
+		"1511856741_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": [
+			{
+				"comment_id": 253,
+				"body": "Please switch back to PNG icons. I have no idea why SVG doesn't work, but that's the UI problem I'm having. I've cloned KopyKate BIG and reverted icons back to their PNG counterparts and I can actually see the buttons again.",
+				"added": 1511883312
+			},
+			{
+				"comment_id": 254,
+				"body": "\"Automatically download videos\" option on each channel.",
+				"added": 1511919424
+			},
+			{
+				"comment_id": 255,
+				"body": "🍔 and 🔍 still missing.",
+				"added": 1511966218
+			},
+			{
+				"comment_id": 256,
+				"body": "> [kopyjane](#comment_67_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): ......got it\n\nBTW, what's the symbol to the left of the 0.00KB? If that's an emoji, it's showing as a tall rectangle with an X in it like so: |X|",
+				"added": 1511969056
+			},
+			{
+				"comment_id": 259,
+				"body": "Completed download notification on ZeroHello.",
+				"added": 1512086181
+			},
+			{
+				"comment_id": 260,
+				"body": "Aesthetic: Light, thin drop shadow around video thumbnails. One thumbnail had its own drop shadow and it looked really nice.",
+				"added": 1512095290
+			},
+			{
+				"comment_id": 264,
+				"body": "I want to watch videos from the file manager instead of scrolling through other videos to find them. We need a list of seeded videos to watch.\n\nWatched videos should be separated from videos that weren't seeded.\n\nAlso, if you only have one video seeded, you can't seem to delete it from the file manager.",
+				"added": 1512346743
+			},
+			{
+				"comment_id": 280,
+				"body": "I'd like the top bar to never scroll off screen, and to be completely honest, the red bar looks much better than the white bar. The white bar doesn't show the full logo, reading like \"KOPYKATI\" and looks too busy anyway. It's kind of weird to see both bars, each on a different screen orientation.\n\nI've thought a nice convenience would be to have a Share Via button with a drop-down menu containing these options:\n\nProxy\nZeroNet\n\nThen...\n\n[URL copied to clipboard]\n\nThis way, if you're on one, you can still quickly generate a link for the other without editing.\n\nI don't have any absolutely necessary ideas right now, but if you need any small ideas, I'm sharing them.",
+				"added": 1512933223
+			},
+			{
+				"comment_id": 281,
+				"body": "> [htgozn](#comment_6_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2): Here are a few of my suggestions that I feel are missing from KopyKat   [...]\n\nIt shouldn't be SFW tags. NSFW videos are what need to be tagged since they make a shorter list, and that's the classical design of Diaspora and Mastodon to tag NSFW content, not SFW content.",
+				"added": 1512939408
+			},
+			{
+				"comment_id": 282,
+				"body": "Create the five star rating system on one condition: The average rating only factors in ratings from people you subscribe to.\n\nThis way spam accounts are excluded outright from gaming/spamming the ratings system.\n\nAlso, this would create a more personalized rating for videos since you are assumed to share views with those you subscribe to.\n\nBut then I'm thinking categories will matter here. If you watch someone's videos of a category that is irrelevant to another, then maybe make subscribing granular down to the category level, so then liking someone's movies doesn't imply you like their politics.\n\nHere's a paraphrase I shared on Google+:\n\nWebsites need to get their ideas from me. I've solved the problem with video ratings spam. It's this simple: You subscribe to people on a granular level, by category. The category of videos you subscribe to factors in their ratings of other people's videos of that same category. This way, if you like someone's taste in music but not their politics, that doesn't influence the average ratings of political videos.\n\nBoom! Spam-B-Gone!",
+				"added": 1512939600
+			},
+			{
+				"comment_id": 283,
+				"body": "> [kopyjane](#comment_104_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Of course, the problem with having the top menu at position Fixed on mobile devices is that, it takes up a big chunk of space on the screen, especially on really small phones.\n\nThat was something I felt like was an issue until I scaled everything down on my phones in system settings, which is great for everything besides just ZeroNet.",
+				"added": 1512940947
+			},
+			{
+				"comment_id": 291,
+				"body": "When I click to seed a video, it vanishes off screen. In the seedbox manager, all is fair and good, but I want to check the download progress.\n\nEdit: I'm not sure videos were supposed to disappear from the main page now. Bug?\n\nAnd now I see the video might have flown up the list.",
+				"added": 1513133611
+			},
+			{
+				"comment_id": 292,
+				"body": "> [missesrobot](#comment_25_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): This could be the way videos are sorted.\n\nI'm thinking the same. Between KopyKate BIG and ZeroUp, it's annoying.",
+				"added": 1513134008
+			},
+			{
+				"comment_id": 306,
+				"body": "> [krixano](#comment_242_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I see you fixed the bug with the \"My Channel\" link. There's another bug that I found. When clicking on \"My Channel\" first, then clicking on \"Airing Now\", the content doesn't switch (it stays at what My Channel was displaying). However, if you go from any other page to \"Airing Now\", it works.\n\nThe My Channel link doesn't work when you're on a video's page either.",
+				"added": 1513218468
+			}
+		],
+		"1511956110_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": [
+			{
+				"comment_id": 258,
+				"body": "*roadblocks",
+				"added": 1511994554
+			}
+		],
+		"1512311792_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 262,
+				"body": "> [nofish](#comment_1065_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): I can see your profile on orange hub:http://127.0.0.1:43110/me.zeronetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/styromaniac@zeroid.bit\n\nIt's supposed to show my posts and my avatar, but those are gone and it's still asking me to create a new profile.",
+				"added": 1512312171
+			},
+			{
+				"comment_id": 263,
+				"body": "> [glightstar](#comment_30_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): ..I can see your profile as well..Maybe you have to wait until everything is synced?\n\nZeroHello didn't indicate files were missing or failure to download files until I clicked for it to check. Maybe that is the issue. I'll give this a minute.",
+				"added": 1512313214
+			},
+			{
+				"comment_id": 266,
+				"body": "I'm on an internet connection where I can't have port 15441 opened, if that would help, but the phones that have my ZeroMe profile can't seem to seed my profile data to my new phones. Regardless, my profile data should still sync from other peer devices around the globe. No beans.\n\nI doubt that downloading hubs first caused the issue, but that's my best guess. Either way, it seems like this is a bug.\n\nEdit: Maybe this is the issue? http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1512185574_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv",
+				"added": 1512455842
+			},
+			{
+				"comment_id": 268,
+				"body": "> [kopyjane](#comment_84_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): I can see it, too. Didn't know ZeroMe was so busy, btw.\n\nI can see it in the older devices. The newer devices aren't downloading the files, which is why it appears like it's gone.",
+				"added": 1512486880
+			},
+			{
+				"comment_id": 269,
+				"body": "> [nofish](#comment_1067_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): What do you see on the sidebar when you open orange hub site?Total size for me: 9480kB, Total peers: 224Does removing and re-adding orange hub site helps?\n\n9475kB\n146\nNo database found, 0.00kB",
+				"added": 1512490991
+			},
+			{
+				"comment_id": 270,
+				"body": "> [nofish](#comment_1068_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): That numbers looks ok, can you see your data file if you open this directly:http://127.0.0.1:43110/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/data/users/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/data.json?\n\nI edited my last comment. I get no database found. I deleted orangehub afterward.",
+				"added": 1512491442
+			},
+			{
+				"comment_id": 271,
+				"body": "> [nofish](#comment_1068_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): That numbers looks ok, can you see your data file if you open this directly:http://127.0.0.1:43110/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/data/users/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/data.json?\n\nAfter redownloading:\nNot Found",
+				"added": 1512491883
+			},
+			{
+				"comment_id": 272,
+				"body": "I copied all sidebar text:\n\n0≡\nDownloading GeoLite2 City database (one time only, ~20MB)...\n×\n\nOrangeHub\n\nPEERS\nConnected:13Connectable:93Onion:15Total:94\nDATA TRANSFER\n \nReceived:13.30MBSent:0.00MB\nFILES\nHtml:0kBCss:0kBJavascript:0kBImage:0kBJson:0kBUser Data:9432kBOther:0kBTotal:9424kB\nSIZE LIMIT (limit used: 46%, free space: -1MB) \n20\nMB Set\nOPTIONAL FILES\nDownloaded:0.00MBTotal:81.13MB\nDOWNLOAD AND HELP DISTRIBUTE ALL FILES \nDATABASE (0.00kB, search feeds: 0 query)\n\nNo database found\nReload\nRebuild\nIDENTITY ADDRESS (limit used: 0.00kB / 48.00kB)\n14seePq6z2duYQcDhf3FjkT9y65oqx8hQo\nChange\nSITE CONTROL Update Pause Resume Delete\nSITE ADDRESS\n1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v\nDonate\nMISSING FILES:\ndata/users/1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL/data.json\ndata/users/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/data.json\ndata/users/1Mt9n8kBJrKno1oT8RPSKwFbFnK7iBF1ep/data.json\ndata/users/1JZnw6EprzM2rJX3LRRp92xMaAWG45JeNb/data.json\ndata/users/1EugoSrC8JxWcuySWdKAo2XSjrjZuUoJMV/data.json\nThis is my site",
+				"added": 1512492173
+			},
+			{
+				"comment_id": 273,
+				"body": "I've had content signing issues just before all of this on the older devices.",
+				"added": 1512492360
+			},
+			{
+				"comment_id": 276,
+				"body": "> [kopyjane](#comment_86_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Is the zite running out of size limit by any chance? What model phone are you using?\n\nOld: Moto G (1st Gen) Android 4 and LG X-Power Android 6, both were on Boost Mobile\nNew: Moto E4 and Essential Phone, both Android 7, on Sprint\n\nAll four were running off of WiFi tether from Moto E4 in an attempt to sync them.",
+				"added": 1512515038
+			},
+			{
+				"comment_id": 277,
+				"body": "> [kopyjane](#comment_86_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE): Is the zite running out of size limit by any chance? What model phone are you using? Could you be running out of storage?\n\nNone of my phones were running out of space and I've only just got the essential phone, which starts out with 118GB free space.",
+				"added": 1512578832
+			},
+			{
+				"comment_id": 284,
+				"body": "I have this problem again. I think it's reproducible if you download all hubs before downloading ZeroMe.",
+				"added": 1513130535
+			},
+			{
+				"comment_id": 286,
+				"body": "> [missesrobot](#comment_21_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): Check out my previous thread I made today. Seems like we had the same problem!\n\nYep. Same bug. Same cause.",
+				"added": 1513131194
+			}
+		],
+		"1512404535_16KZw5gzYyBdfuW9HSUZiGHmayCEXunYZU": [
+			{
+				"comment_id": 265,
+				"body": "40% of food is wasted in developed countries.\n\nThe miracle tree has most, if not all, nutrients.\n\nNeed more nutrients? Raise insects.",
+				"added": 1512454874
+			}
+		],
+		"1512185574_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 267,
+				"body": "I'm thinking this is why I can't load my ZeroMe profile on a new device even while both older and newer devices are online.\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1512311792_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd",
+				"added": 1512456540
+			}
+		],
+		"1512496361_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 274,
+				"body": "> [glightstar](#comment_32_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy): The site hosting the full paper doesn't seem to work :/\n\nWorks for me.\n\n> [obiwanzanobi](#comment_66_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): does this affect pgp?\n\nOnly if you are using RSA in PGP. RSA always had and always will suck donkey dick (ancient geek knowledge) so choose a different algorithm for PGP.",
+				"added": 1512508692
+			},
+			{
+				"comment_id": 275,
+				"body": "> [obiwanzanobi](#comment_67_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): right, from ancient Geece.  Good to know encryption is still ok (for now)\n\n> [obiwanzanobi](#comment_67_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): right, from ancient Geece.  Good to know encryption is still ok (for now)\n\nExcuse my Ebonics, but I call it \"Geeks.\" 😛",
+				"added": 1512514295
+			},
+			{
+				"comment_id": 279,
+				"body": "> [obiwanzanobi](#comment_68_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD): I was playing on ancient greece.\n\nI know.",
+				"added": 1512668264
+			}
+		],
+		"1512591309_15FBwNYD2411XkJJ1wDSK2HMFNNNFJhnt3": [
+			{
+				"comment_id": 278,
+				"body": "I'm a firm believer that smartphones are the solution. They've already demonstrated the ability to mesh network without an internet connection. Wi-Fi Aware will take this to the next level.\n\nSome examples I think are worth mentioning include FireChat, Resilio Sync and Videmic. Videmic works for general mesh networking as a side effect of its design, as I've found out; any app benefits from it. There's a new OpenGarden beta app that's getting updates.",
+				"added": 1512606704
+			}
+		],
+		"1513126557_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 285,
+				"body": "If you have all hubs downloaded and then download ZeroMe, this causes the problem.\n\nhttp://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topic:1512311792_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd",
+				"added": 1513131083
+			},
+			{
+				"comment_id": 287,
+				"body": "> [krixano](#comment_221_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I see problems with your profile too. different hubs show your profile as being on different hubs. Most of them think your profile is on orange hub, KaffieHub thinks it's on kaffiehub, and orangehub and ZeroHub both think it's on ZeroHub. [...]\n\nOn kaffiehub it's my kaffieid if I remember correctly, but the rest is a correct observation.",
+				"added": 1513131843
+			},
+			{
+				"comment_id": 288,
+				"body": "> [krixano](#comment_222_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Perhaps, because of this, you only see the posts by your hub (which ZeroNet thinks is ZeroHub I think), but everyone else see's your posts on all the hubs. This would explain why we can see all your posts, but you can't.\n\nNo, I can see them. The problem is I can't even get on the last hub I was on.",
+				"added": 1513132125
+			},
+			{
+				"comment_id": 289,
+				"body": "> [krixano](#comment_223_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Oh, I thought you said you couldn't see your old posts.  [...]\n\nI said that because all I could get was a prompt to create a profile, but links to my profile work to present my posts, but I can't access them as my own. To ZeroMe I'm a new person.",
+				"added": 1513132412
+			},
+			{
+				"comment_id": 290,
+				"body": "> [krixano](#comment_224_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I actually have an idea of a new system, for a new Social Network, that I think would be much better. I'm planning on completely disconnecting profiles from Hubs, because that is the cause for not only the following bug, but also the bug where people have different usernames on different hubs (because each hub stores your username, which I think was a bad choice for ZoroMe's design, but I understand why he did it in the first place - so people can use ZeroMe without having to have an id provider supported by a userdb as long as one hub supports that id provider).\n\nSounds good. I'm glad we've exposed ZeroMe's major flaw. Hopefully something can be done about it, but at least we've given you a better design idea.\n\nWill you be making a thread asking for feature requests?",
+				"added": 1513133212
+			},
+			{
+				"comment_id": 293,
+				"body": "> [krixano](#comment_226_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): The other idea I had was that people choose the hub they want to post in for a particular post. And hubs would be like content categories: Developers hub, Politics hub, etc. That way, a person who is a developer and writes about politics can post in the developers hub when writing about development and post in the politics hub when writing about politics. Then, there'd be a way to see all posts from all hubs too. I'm not completely sure on this idea though. [...]\n\nI like the first idea. Say there was a sportshub. It would help to customize what I see that I actually care about (everything but sports).",
+				"added": 1513134240
+			},
+			{
+				"comment_id": 294,
+				"body": "> [krixano](#comment_228_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Yeah, that's the one that I think I like the most too. Much better than what ZeroMe currently has imo (yet not too different either, if you think about it). I also have some ideas on an interface that I think could work very well with this system. It'd actually be similar to how I'm making ZeroExchange, I think.\n\nNow I want to draw an interface mockup with my thumbs. This should be both hilarious and helpful.",
+				"added": 1513134503
+			},
+			{
+				"comment_id": 296,
+				"body": "I think the username system on ZeroMedium is better than ZeroMe's since I've had no problem with it. I have no technical input, only user experience.\n\nCategory hubs seem like a great idea.",
+				"added": 1513186347
+			},
+			{
+				"comment_id": 305,
+				"body": "> [krixano](#comment_238_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): What I meant was whether I should use user id's from your id provider (krixano@zeroid.bit, I could also just delete everything after @, kinda like what zerotalk does) or allow people to pick a username for the zite (like ZeroMe and ZeroMedium). [...]\n\nOh. I don't know. I hold no preference (I'm always Styromaniac online since 2006) and I don't have any qualification to talk about the pros and cons. People might think I'm proficient with these things, but I'm not. My depth of knowledge is very much at a surface level like the soil on this planet.",
+				"added": 1513216112
+			}
+		],
+		"1513135499_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": [
+			{
+				"comment_id": 295,
+				"body": "The KopyKate video works for me while the ZeroUp video doesn't. (Chrome on Android)\n\nEdit: I forgot that I don't have ZeroUp downloaded on this device, which may be the problem.\n\nEdit2: It won't load from ZeroUp. I see on ZeroUp that it downloaded two megabytes and then stopped. It's not enough to start the video.\n\nEdit3: Nevermind. They both work!!!",
+				"added": 1513185981
+			},
+			{
+				"comment_id": 297,
+				"body": "So the problem I have with both sites is if the download is interrupted, they don't automatically resume, meaning I have to go to the sites they're from and manually click on them to continue downloading.\n\nBoth videos stopped short for me because of that.",
+				"added": 1513189406
+			},
+			{
+				"comment_id": 298,
+				"body": "> [krixano](#comment_240_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I would have though refreshing would have told ZeroNet to start downloading it again. I guess it doesn't?\n\nYou're right. It works if you refresh, but it's still a manual resume.",
+				"added": 1513190203
+			},
+			{
+				"comment_id": 299,
+				"body": "> [krixano](#comment_241_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): I wonder if there is a way to make like a custom html5 video interface that will try to start the download again via a button (or maybe pausing and replaying)? I guess this might require actually being able to tell that a download stopped, though.\n\nI think this is a problem for ZeroNet's Bigfile plugin that could be easily resolved with a pull request.",
+				"added": 1513193311
+			}
+		],
+		"1513192762_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 300,
+				"body": "10C>©\n\nConvenience, Conversations, Closed Captions, Crypto Currencies, Content Creation, Conversions and Cooperation will make Copyright a thing of the past.",
+				"added": 1513197587
+			},
+			{
+				"comment_id": 303,
+				"body": "I'm all for abolishing copyright. My post might not have been clear on that. My idea was to make it a non-issue for content creators to the point that nobody sees the need for the copyright laws to be enforced, because with KopyKate BIG or a fork it would be made absolutely moot.\n\nThose videos I've shared? I got them from YouTube using a tool that probably everybody or essentially nobody doing the same knows about, and it's so easy. It always will be. There's nothing to fight, like punching thin air. In the long run, copyright enforcers hurt their potential customer base with punishment that's not only unnecessary, but extremely heavy-handed, and it is a greedy pursuit just like the war on drugs or the homeless pretending to serve justice when underneath it all there's a service issue coming from the almighty, anointed, officials whose jobs depend on corrupt industries trying to make everyone's lives harder.\n\nSo, I think the only solution is to have the ultimate video sharing website where the user experience is top notch, such as where KopyKate BIG is headed. People who would remove the miner from their filesystem are probably saving videos from YouTube or digging around ZeroNet folders. Whatever. Let be. That's not a common thing, and I think if the miner doesn't hurt video performance, then most people will be fine with it on. It would be for the sole purpose of creating an incentive for content creators to arrive, promoting ZeroNet to their millions of fans and chipping in for ZeroNet development.",
+				"added": 1513211318
+			},
+			{
+				"comment_id": 304,
+				"body": "But, it's up to the individual web developer and Nofish what they feel is necessary. I will have no issue no matter what they or you decide is the next step.\n\nI was thinking what I've said would be an answer for what ZeroNet needs, but if you don't agree, I'm alright with that.",
+				"added": 1513212585
+			}
+		],
+		"1513201657_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": [
+			{
+				"comment_id": 301,
+				"body": "Keep the money and buy yourself some coffee and tea.",
+				"added": 1513203155
+			},
+			{
+				"comment_id": 302,
+				"body": "> [missesrobot](#comment_40_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB): If you want, you can always donate a bit to the creatorshttp://zeronet.readthedocs.org/en/latest/help_zeronet/donate/\n\nThis, or see how many dorrars you can fit in your mouf.",
+				"added": 1513205157
+			}
+		],
+		"1513230190_1K8XkWirXhKSqE3t6WfcjbUcuSTCamzqMJ": [
+			{
+				"comment_id": 307,
+				"body": "There isn't a Facebook clone here yet, but someone else might make one soon. Peeper is the closest at the moment, but still not like Facebook. It's ZeroMe with a few added features.\n\nI've created a mockup for a social network interface on mobile. It's just a ZeroMe post with ASCII and emoji characters.",
+				"added": 1513232855
+			},
+			{
+				"comment_id": 308,
+				"body": "I'm against reusing pre-existing social network interfaces on mobile. The design I've put together in my mockup will work on 720p and maybe even smaller displays. The menu bar is at the bottom with the hamburger menu button in the center for ambidextrous comfort, and the 0 button won't overlap the menu bar. It's as comfortable as possible.\n\nIf you follow my design, even only as described here, you'd have the best mobile interface ever, and I would be very thankful. I have medium-large man hands and still it's a struggle shuffling the phone in my hand(s) to reach anything at the top of the screen, much like reaching into a top cabinet or shelf.\n\nhttp://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1N9sU8qh3S4ei9PHE1qQyYPbcckJomvwMd/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/1513180481\n\nI did put post buttons on top of the post for screen space efficiency, but if you feel like placing them below for maximum comfort on mobile, that's fine.",
+				"added": 1513293021
+			}
+		],
+		"1513362859_15zSEBpmS1CwXsJjDA5ymFXtoGpsnpYCWr": [
+			{
+				"comment_id": 309,
+				"body": "Ever since SOPA came into existence, we were forewarned politicians would find a way to fuck over the internet.\n\nIf you're enraged now, then perhaps you didn't see this coming years ago.",
+				"added": 1513376727
+			},
+			{
+				"comment_id": 311,
+				"body": "A ZeroNet user/advocate getting edgy or violent would do so much damage to everyone and everything ZeroNet.\n\nWe're all as diverse as people can be, but the public wouldn't know us from a single bad actor, and the news reporters will sensationalize a bad actor's actions and in effect stymie ZeroNet user growth and politicians would prey upon access to ZeroNet, because nothing gets them harder or wetter than a blanket attack, implying every person with one similar interest is a terrorist. That's the bipartisan way with quite a few from either corner of the political diamond. These politicians largely share a few corrupt agendas, the same scope.",
+				"added": 1513399158
+			}
+		],
+		"1513417002_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 312,
+				"body": "0chan Porn is not a good site. I've seen the illegal content thumbnails myself.\n\nNot that this doesn't happen on the clearnet, but there's still no excuse for the admin letting that content remain.",
+				"added": 1513428154
+			},
+			{
+				"comment_id": 314,
+				"body": "> [nothing](#comment_9_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz): i dont think 0chan it self has had any shady suff in it but the '0chan porn' is a big NO GO...\n\nEdited for clarity.",
+				"added": 1513442375
+			},
+			{
+				"comment_id": 315,
+				"body": "> [nekololi](#comment_81_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB): if you don't want to host something you don't have to. delete it on zero hello. does it host illegal content? then add it to your black list. that isn't hard. [...]\n\nI've since clarified that I meant 0chan Porn. The thumbnails are not optional files.",
+				"added": 1513442514
+			}
+		],
+		"1513416584_14whxhmwJACVFJH81VaGp6rC8Mthufn7bG": [
+			{
+				"comment_id": 313,
+				"body": "They stay with you forever.",
+				"added": 1513428265
+			}
+		],
+		"1513430393_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 316,
+				"body": "0chan Porn and its illegal content isn't new. It had been around for a  long while now.",
+				"added": 1513442669
+			},
+			{
+				"comment_id": 318,
+				"body": "> [mrsrobotmobile](#comment_3_1HsgZpHaZ5BRUK5qr2YMWnubgKyNuSqokH): More should have been said earlier. I've been frequenting Zerotalk for about a year and a half now.. Yet.. Ive seen Not one mention of this. [...]\n\nI didn't know who needed to be informed, and I was afraid that publicly mentioning it would attract more people to it. I've even forgotten about its content for the larger part of this year. A zite like that should be an expected side effect of ZeroNet, so caution should be the first thing in mind. We were all cautious about clicking links and photos without descriptions. There's greater ramifications to be kept in mind of hosting a public proxy. If it's my responsibility, then someone should say to drop a line in that event, because it's not all my own.",
+				"added": 1513452735
+			}
+		],
+		"1513428479_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": [
+			{
+				"comment_id": 319,
+				"body": "A whitelist that's on by default and report buttons for zites on proxies everywhere the Delete buttons are found would also be nice.",
+				"added": 1513547351
+			},
+			{
+				"comment_id": 321,
+				"body": "Every time someone proposes an idea for a feature to avoid illegal content, someone brings up censorship.\n\nI do not think it means what you think it means.",
+				"added": 1513592938
+			},
+			{
+				"comment_id": 322,
+				"body": "> [conobs](#comment_10_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner): Setting up a framework through which someone would need to submit their zite for review before being \"approved\" would enable the person with the power to approve or disapprove to block content they find objectionable. [...]\n\nYou've not seen other threads where authority is not in the feature proposal and people still cry censorship, fire from the sky, plagues of the Earth and people eating their children.",
+				"added": 1513613313
+			},
+			{
+				"comment_id": 323,
+				"body": "> [conobs](#comment_10_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner): Setting up a framework through which someone would need to submit their zite for review before being \"approved\" would enable the person with the power to approve or disapprove to block content they find objectionable. [...]\n\nAlso, this thread is about proxies. What are you defending? The right to misuse someone's proxy?",
+				"added": 1513624999
+			},
+			{
+				"comment_id": 324,
+				"body": "It would be great if opponents to feature propositions for personal, preemptive site blocking actually knew what they were arguing against. You know, like actually reading and understanding what people are saying. Then, in the end, there wouldn't be opponents.\n\nIt's as simple a concept as asking an apartment manager for a better looking-glass on their apartment door. The tenant still chooses who comes in, but they get a clearer preview of who's at their door first.\n\nI still want such a system for single-user ZeroNet clients.\n\nYes, there are ways to prevent this from being spammed and abused. A friend based trust system would be that.",
+				"added": 1513634209
+			},
+			{
+				"comment_id": 325,
+				"body": "> [nekololi](#comment_91_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB): My only other post in this topic was a request for clarification. [...]\n\nNot about you, bro.",
+				"added": 1513644062
+			}
+		],
+		"1513547016_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 320,
+				"body": "> [nofish](#comment_1082_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Have you tried to visit a new site or updating a previously visited one? Does it also had high cpu usage?\n\nI'm trying to download a video from KopyKate BIG and other zites have been updating. Neither are affecting performance to a noticeable level.\n\nNew zites failing to download are the performance issue.",
+				"added": 1513564712
+			}
+		]
+	},
+	"comment_vote": {
+		"1_1JHumjFpXMTtSgm1ygdHqsvL9321Z87NDc": 1,
+		"35_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"10_162gsjqc5VB9ijkvSZMZVrcqdmqQ7XugiF": 1,
+		"889_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"124_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"125_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"126_1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC": 1,
+		"6_1AbPJSk8hULMMSzFhidAu72itdHmTfjSrD": 1,
+		"21_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"1_1DDkP7BAr5BmvW4FgdnDFMHgjfzxvP1pEb": 1,
+		"39_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"2_1L515WFQ9T4RSxnGNvFJyEqYAQZdF7mrqg": 1,
+		"1_1Ks5ZmzE4kSFEJCYT8oZGufyAC5EP76sN8": 1,
+		"22_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"24_1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t": 1,
+		"10_14YdhMiNAG8LDichYEQvyZZboGL8bSeZEu": 1,
+		"29_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"249_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"3_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"72_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"73_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"51_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"26_1NAaF8VitwKSPo79RzJFhqz14gndmdWcGV": 1,
+		"4_14nCEDo97Cx4VpSHwPytWvacPo29Y7FAbk": 1,
+		"30_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"2_1Ea3RG4YuLnifynBxvuWAA3Y2nLcTWfrjQ": 1,
+		"10_14nCEDo97Cx4VpSHwPytWvacPo29Y7FAbk": 1,
+		"262_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"75_1BLPKyrF2D4ertte6JnAa6oWAMYzZGwKQz": 1,
+		"32_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF": 1,
+		"104_18XR5C5AxGfD5s2DbCPGuXxVN5oscoLyD6": 1,
+		"1_1HADrnDdgCKmF1pK79SDU8bakqURnmfKe8": 1,
+		"185_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"273_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"66_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"2_17Zj5eijnYjzMHVw9pzZMt4D53nWstsZzy": 1,
+		"22_1HiyP7AD74uGuGBZLqhcmfQgwu5VC8nnYY": 1,
+		"2_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"4_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"8_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"278_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_15XeFY67fYKCKxQPfeo246ELto2Gff1hAe": 1,
+		"300_13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ": 1,
+		"5_1DFDjUGJdSp1kMuFq1AtNS9ZWmkVtbp947": 1,
+		"6_1eQKH8VcGoV17tUEfCHad8pMix9qR8aVu": 1,
+		"8_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": 1,
+		"9_136wmwLTBJoGTjXTAa7sWmXewn9P53EKML": 1,
+		"289_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"7_153dW34Ng5fVUZ5D5NcZRfAbvRQS1jYC1k": 1,
+		"36_1HiyP7AD74uGuGBZLqhcmfQgwu5VC8nnYY": 1,
+		"30_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"51_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"919_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"5_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"3_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"2_17WG9sFaQoZCyRT7m89WAa23Ma4WYPifMH": 1,
+		"1_1NnUSK584ZCPPaA2LTJmQ8cspdL5rM1oon": 1,
+		"1_188Uit7FJJgyMWE3yh6934fKSucopDHgDz": 1,
+		"6_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1": 1,
+		"1_1FmYoFUbNXqpJ4v42ZGfVRKNaodu25YK8B": 1,
+		"6_1GxGDmjdgePeraKqV2yQRiRQM4E5rud79R": 1,
+		"6_1LVa8gwjKqVvmoeXMRAZzwFMn7LUrhYAmR": 1,
+		"61_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"920_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1_1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn": 1,
+		"9_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"15_13Zs1NLz7LS9NsWtaQLwBmUZEXfz1i3agg": 1,
+		"15_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"14_12LJsN6FdsNkS8EfiDYFyoPqZUnEibBJvP": 1,
+		"1_14vJgVwW3oj9fzntc9GF1MX5d3oDaygGvU": 1,
+		"65_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"352_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_16FGedWfBJc3mJ2eZ5u8TJUShZbs3tdjmy": 1,
+		"4_15TSdTU5ZrAHXXiMQvMUEEUm17GFt5WqWp": 1,
+		"17_15NSryspZZm6RTYdeAoPLxzT7zdpVksg2S": 1,
+		"12_1JupR9ExhM4aiVd1Jyy2iuS12eukDnQ54X": 1,
+		"361_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"221_1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb": 1,
+		"367_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"5_1Q3DcejYbdNFDSDdjpznMmgg1ZCzn1SUsn": 1,
+		"935_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"3_16esmH5mTmsJL4S5DW4dup5883xJh6GdDS": 1,
+		"1_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"945_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"336_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"1_1LTkbVdp2wW5mi6NWT9zPYuAohARFHtkBA": 1,
+		"5_1KNn9tCBsFfc4e5EEtpUeK52YFgEY61Q4": 1,
+		"2_1LyPPjPEPYogLrWk4LKbFnugdzvd54givD": 1,
+		"42_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": 1,
+		"41_1Q6Mxp6VGNuf47vbdAwR7NEZj8E5HQAq6m": 1,
+		"6_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"2_1FM9v3PmBRfNSDxQe7XaAgYwCkJcZdur34": 1,
+		"3_1FM9v3PmBRfNSDxQe7XaAgYwCkJcZdur34": 1,
+		"7_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"6_1KNn9tCBsFfc4e5EEtpUeK52YFgEY61Q4": 1,
+		"2_1EmBXyuj4eb4XcttKBpQiG4SgnBnLU4UsG": 1,
+		"5_1JBVxG1GBR8NoHK9i37QhPgky6qCnFRteH": 1,
+		"3_1EmBXyuj4eb4XcttKBpQiG4SgnBnLU4UsG": 1,
+		"25_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"8_1KNn9tCBsFfc4e5EEtpUeK52YFgEY61Q4": 1,
+		"26_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"1_16WhYG3iYJodEk6zw8cSBysMzW66Kcgdio": 1,
+		"4_1EmBXyuj4eb4XcttKBpQiG4SgnBnLU4UsG": 1,
+		"408_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"28_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"44_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": 1,
+		"15_14LGKhv21es4drCF2mL7gDWSb13S3wmaeQ": 1,
+		"18_1Lamw1Fk5CrdjwLNPfkDBJH8C2znRuCcBL": 1,
+		"1_1DtcVY5kESBV8PuXnvhZMKQdnWN1CNTZ6K": 1,
+		"7_1Q7cRMcQk4MGUEPahLPcr7rUHxxrVsyBw3": 1,
+		"1_1NbAJhZXp65A9BDBbcHPLbAXm9WjTqYyfA": 1,
+		"449_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"15_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": 1,
+		"2_1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ": 1,
+		"444_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"12_18WuQsUbszu95sZDiKvrfswRnEpuB5WEQh": 1,
+		"236_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"3_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"7_1AqXhGEgfmdaUUsvNp3GL9pueqqLbHMkXp": 1,
+		"1_1MREdcZdDjmPyVL8YH53wPfzjc6FX9aJ8b": 1,
+		"1_1GxP4BKwry1BPiWBGNpWz7G5yucEKPavVJ": 1,
+		"50_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1,
+		"1_1MmJHPeLVhpz2ZN2c4svk3vzA413ajeZzf": 1,
+		"172_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"10_1H6NpEfqbtwB7ksSn3dx51Y3UespNLdFJf": 1,
+		"14_1BXCYRHwwev9cdgoMdWvhgKrMvUp19p2R2": 1,
+		"17_1Aqzrn9MJnftKMJyU9mVviE5WZdTwJnkFr": 1,
+		"5_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"5_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"188_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"2_173bxmLC8QA16cwrt2Z5SpYpijLHC2LtLR": 1,
+		"1_13s2knAASTC7FNX7fqZTQXxf8uVv1MuhK4": 1,
+		"1_1NyjtgrgdK1b9k2FuMWw4kKFu4PEw6yiyn": 1,
+		"442_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"175_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"174_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"4_1NyjtgrgdK1b9k2FuMWw4kKFu4PEw6yiyn": 1,
+		"178_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"3_1NDhNyavxhFyWJHscjPu5qYjMbpfKSDVzt": 1,
+		"164_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1_1wjMfGcSGGA2eqTXc2LMHfNopqCn2KnTz": 1,
+		"28_1PvReUtzc5s92BWTUDnxvmVGepNcyA2otB": 1,
+		"1_1BXCYRHwwev9cdgoMdWvhgKrMvUp19p2R2": 1,
+		"49_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"1_1K7uykSh59WBNvyHVY4UTcpcR68WgGozuF": 1,
+		"3_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": 1,
+		"6_1KGozab6jp6jA6zVM8cTFdzMmBasriNP4f": 1,
+		"4_1Q6QRh4jgYdYcC91NCgUk74nT9BGuYjajZ": 1,
+		"2_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"2_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": 1,
+		"1_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"10_1Ho48cxWwRFdDChHksp1fhdPvGmpaiZfcH": 1,
+		"14_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"8_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"1_1JTtwMPZ5mKaF6S1wAPzZ8SmZTgTygz5Rb": 1,
+		"3_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": 1,
+		"501_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"13_1AyLtNX1hKoT6jqTWM9tFkLDvWPAs6jGpg": 1,
+		"12_1AyLtNX1hKoT6jqTWM9tFkLDvWPAs6jGpg": 1,
+		"3_1AzSTiHFF1HahSf3j6YgmcKCo24ACQvo1p": 1,
+		"61_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"4_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1,
+		"1_172V3RH8iUKS96TtvWcuQi7e6Tn5zKWocC": 1,
+		"29_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"34_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"1_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"8_16nArdxrSaNThNp83kL8E6NLL9WD98iUne": 1,
+		"65_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"207_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"505_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"15_1EijxsAumeeuw6ojPjHc9KKwUfH6ryhbJc": 1,
+		"56_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": 1,
+		"2_1LGsz63L1WkwPHtPyU6bUZnpW2yKw5bA3u": 1,
+		"26_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"8_18Cxdyc2FEuswoXnBkrAfCkM2Yu1p4NjcR": 1,
+		"68_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"3_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"13_16nArdxrSaNThNp83kL8E6NLL9WD98iUne": 1,
+		"69_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"9_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"209_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"64_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"12_16nArdxrSaNThNp83kL8E6NLL9WD98iUne": 1,
+		"70_1GgNo3CmxPd7n2pMSF3uyqf1XHvgtTUqCe": 1,
+		"15_1HABFyuoohZ13drjwyJsECp4zDKjvggyNp": 1,
+		"17_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"39_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"13_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"7_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"1_159q4UvADUAFV4xmrrNrNjuGYARqkQguva": 1,
+		"40_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": 1,
+		"16_12pqz164272L8bYB9UA2enxr92boTWBpfd": 1,
+		"1017_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"273_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1,
+		"6_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"55_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"519_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1,
+		"40_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": 1,
+		"18_13Zs1NLz7LS9NsWtaQLwBmUZEXfz1i3agg": 1,
+		"9_1BMjn5jgrLrGbQTbnZDLFKUuxP2ZBr4ufC": 1,
+		"30_1NmkVyqBJX6a82YQFYkCNgQpE9AWsmeppp": 1,
+		"16_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"59_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"6_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"2_1HaGqPeZcnLdN8n61PP41bYXxmUipdsPrm": 1,
+		"16_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1023_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1KyNzrBTMpi7LSmsrjnKS6mf15jRuFFN4H": 1,
+		"1_1D9RB7tSHvpagsumbS2VWKcknR4uJzM8bD": 1,
+		"19_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"41_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"3_13A6jRhJApUbVZxpjw3F2xbwjRC4QKVUAQ": 1,
+		"17_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"70_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"118_18eGWSaM3Vc9i61LVfogjQJf5gp7EN7b9Y": 1,
+		"18_1CSDDARdrzUk9iXgx8bopdfRi3TsZmdPEP": 1,
+		"91_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o": 1,
+		"1_161mE3QQYaeve99T5iRnVJKxHXqp8GwjWo": 1,
+		"68_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"22_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"54_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"22_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"25_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"6_1PcZwxWnxHJdWgdbsvZnivK8iGX9cdVvZg": 1,
+		"2_1QKALTkDmKyTC5L7mZZu6R8ARLmrRfiAhL": 1,
+		"4_1FY1qvQpxeyDLy3Lnb6gZSCst9M7jG4bgP": 1,
+		"2_16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH": 1,
+		"78_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"17_1DV1kbtG2Gqjp4WayjTjLmuf4gMF4zDvzc": 1,
+		"74_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"75_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"73_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"72_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"77_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"76_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"80_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"78_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"79_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"81_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"12_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"87_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"1_1H2stvnD8p5DZHVZBikfX7ErTgKnw53D7c": 1,
+		"6_15jbvtNJw2ih3m5L38mUcdJxtvmW6Uh2K6": 1,
+		"10_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"228_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"12_1CaVUegZMXMjmRXtq5q3eZDqdtsoNvgep": 1,
+		"3_17JewVacvqaUynaYh1sup3nWcuKSPzET2Q": 1,
+		"244_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"24_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"25_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"86_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"8_1puKtcLtsbvEgJQPqRfBDWhjES2GboEDN": 1,
+		"2_1NXaLXjkm7jfmc4QBXtWM1g8wiT9odzwZs": 1,
+		"1_1NXaLXjkm7jfmc4QBXtWM1g8wiT9odzwZs": 1,
+		"3_1NXaLXjkm7jfmc4QBXtWM1g8wiT9odzwZs": 1,
+		"29_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"262_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"340_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"36_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"32_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"1_1Lq9weoZHo1X3jPp9aWsyLxk4EFQkui8uq": 1,
+		"3_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"88_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"44_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"92_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"4_19q4JXMEuevDD1iPSEtic5fjB7LD3Bt9C5": 1,
+		"95_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"5_1KJY9Soji7TbEVfisJHPvuzwzTMpAUDHf4": 1,
+		"315_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"35_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"10_15dMbdM7c2RT9RhNTJRqzc4vYSvrSJvxyG": 1,
+		"340_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1043_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"1044_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"4_1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY": 1,
+		"32_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"33_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"54_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"6_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1047_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"6_1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY": 1,
+		"42_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"343_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"1046_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"21_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"20_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"22_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"23_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"5_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"58_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"12_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"3_18oK6GLrkB8E3sQG5YqV4zY2EJBbtjWbmf": 1,
+		"121_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"122_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"62_17H8EGEoNF1z2AXFtXmBQJLHTmh7gMGzzS": 1,
+		"15_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"17_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"16_166Kgk6LesoTpoTTWciSHeq98UB4mTUcsf": 1,
+		"1048_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"2_1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": 1,
+		"101_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"125_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"349_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"126_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_1HFZzR6sZhBvjpmdXoA1msaVTsPwceD9JB": 1,
+		"128_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"4_1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn": 1,
+		"3_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"9_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"5_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ": 1,
+		"1_1P8U8Ks4aq9toqBxQK3G9ogfjWpDur12iJ": 1,
+		"6_1GEfdZ7AyiBeEj8341JU5yZrCWCCczGDg5": 1,
+		"130_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"143_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"351_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"84_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X": 1,
+		"4_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"20_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"145_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"5_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"146_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"6_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"354_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"356_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"7_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": 1,
+		"3_12Ez2gro4jxnNT3mR93h6wzuKAV6Xime9b": 1,
+		"1_1NDds3efAUhXh45tK5sbMXHF26qAraQVa5": 1,
+		"108_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"47_1PrxUQFugjmputGP2FzPSw4Wmq6tCd7xV7": 1,
+		"2_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": 1,
+		"7_1Kwdp9DBTBe391rfDhiR7ARRDkQh36KtTT": 1,
+		"1054_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"8_141zS75MupoDVjN4p7ivG9pXUXjAm9jLBQ": 1,
+		"19_15TYJCh3i9W5dsoSUvchPwAuaB3BABXS6o": 1,
+		"1056_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": 1,
+		"12_18oD4Atz6dpapnpN75tiBorjCSjANJmaiw": 1,
+		"113_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"39_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"20_14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": 1,
+		"374_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"44_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"33_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": 1,
+		"45_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1,
+		"1_1BHoa1dzzSKm8Sav1s5KzDGxwz68d72sJU": 1,
+		"5_1KEvkyRid4apYrPa2S4fdZFFHAruf2PAeq": 1,
+		"379_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"380_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"25_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"171_19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ": 1,
+		"29_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"73_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"6_12tVj6xu9ZpuPxVjN8hCyDVYxEJ3EUdZxP": 1,
+		"2_1JMLzdzuBoMn4qsjhHipvmH99iyjhx4t7N": 1,
+		"30_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"2_1EJX6XEbZ1tUyM7rrQXYL9BP7usVzCcLNk": 1,
+		"71_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"1_13PaV9QW67CMBKzRMFQJGV2ZHpNshcnPcq": 1,
+		"3_1DtHQRZdSLiHAp7zN8UR8Q4xZEAtG8WRz7": 1,
+		"2_16PUgFapj8pSnEnS1bcAGVRPtfwvQBheRG": 1,
+		"117_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"2_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"9_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"55_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"52_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"53_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"6_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1,
+		"9_1PdVrw7boKHUavWTQxD3UaNGM4tx5baXDy": 1,
+		"56_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"16_1R67TfYzNkCnh89EFfGmXn5LMb4hXaMRQ": 1,
+		"30_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": 1,
+		"1_1Kq1ox6SsERUFsQjyGCLKf7EuHJuDs3wfu": 1,
+		"64_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"9_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"23_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"24_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"10_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"69_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"71_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"16_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"73_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"101_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"166_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"65_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"67_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"12_1AZYSfyeKjZbAN9BPYYFf1FCSm9ujLXMcu": 1,
+		"1_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"14_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"4_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"5_1AjJqGb8AmPfgD62kEBBtqhg2hYDW5zner": 1,
+		"128_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5": 1,
+		"72_1LUy9iAxeWsj1DP5L8V17Yb2vo87FucjgD": 1,
+		"3_1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC": 1,
+		"8_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"2_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"109_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"192_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"93_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"117_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE": 1,
+		"15_1P1baCe1LLjror4CZjChWFy7D7cVWyPL83": 1,
+		"13_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"432_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": 1,
+		"4_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"3_14tGkWydPLnPCVP5i9T4WSccnyAuLjEBnv": 1,
+		"29_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"8_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"11_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"21_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"224_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"25_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"228_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"226_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"225_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"230_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"39_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"231_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"32_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"41_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"1_1LrDWSzi63MhST9ZNkefSPJGFAuByRMeCx": 1,
+		"2_1LrDWSzi63MhST9ZNkefSPJGFAuByRMeCx": 1,
+		"241_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"40_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"41_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"242_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"49_1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h": 1,
+		"4_1R6r94yS1mCMLjuSb2bgsZ85rc4pCEGBJ": 1,
+		"1_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"3_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"38_15U3YgbPEj9eCVVCYKgvpu1WK9AUMaKWuc": 1,
+		"3_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"1_1981gxtfUj3M1ZB4ym2VeSCeU3gdU2GXrG": 1,
+		"4_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"6_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"5_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"7_1LMNoBqBx1J5Ug83Huseh6fTQ4TAaDZoJj": 1,
+		"11_1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8": 1,
+		"28_1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs": 1,
+		"3_1LaJfJUW2aw5mNW6z2Kx5QN1R91GMYiXRz": 1,
+		"9_1GhYpibzrzQ9FZTeoeHxG297hgcqcv71X2": 1,
+		"6_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"10_1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz": 1,
+		"20_1J58Rie679DVSuKB1iDyFFTbzmaMaY2bt2": 1,
+		"85_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"84_1FzZsDQdh8wk71bDLxURPzmAt2FXehoNAB": 1,
+		"2_1DpN91N84piuzYn2iJKM9RK3Ek8JVNjewa": 1,
+		"57_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"49_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"54_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"48_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB": 1,
+		"53_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"1_199PQJozqcKFtd1aS5u8Br7T31KdPnooMR": 1,
+		"2_18YwvP36gwZKnk1KfQ8Rb3ca8xJpuzJBPo": 1
+	}
+}

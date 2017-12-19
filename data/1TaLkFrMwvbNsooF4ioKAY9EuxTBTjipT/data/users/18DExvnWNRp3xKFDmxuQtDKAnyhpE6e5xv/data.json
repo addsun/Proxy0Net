@@ -1,0 +1,63 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 10,
+	"comment": {
+		"1_17R9N6TFQ5u4MnbppJqbyXt9jNe1WkijRY": [
+			{
+				"comment_id": 1,
+				"body": "Different people save  different data, so everyone can get every file,I think.",
+				"added": 1501433615
+			}
+		],
+		"2_15Q5U52Aqgjb66GkzhkGKDYgWsqR8TEkJG": [
+			{
+				"comment_id": 2,
+				"body": "> [sammdu](#comment_11_1DzxVtsZsMBXUddtDgDN21WzSY2KUBVnNX): K K I know u guys if we start a conversation on cap vs com it'll never end lol (btw when will 0net support emojis)so lets focus on the facts & realities.Fact: speech is more free on Twitter etc than in Weibo (Chinese Twitter). Yes censorship always happens but one is more serious than another. Way more serious.Fact: VPN/Proxy/Shadowsocks are paid services, 0net is free. Thats why people choose to use 0net (if they have even discovered this thing exists) over other solutions. Tor is too slow, with 0net you can set tor to be automatically used when connection is blocked, so the overall experience is much faster.Fact: Clearnet can be white-listed / blocked at any moment if the gov choose to (like NK), this thing will even work in \"Intranet\", if someone managed to smuggle in a juicy USB flash drive.\n\nI have test that ZeroNet support many emojis. 😀 😃 😄 😁 0️⃣ 1️⃣ 2️⃣4️⃣\nYou can find more emojis here:\nhttp://192.168.15.158:43110/1G7jmLghk4h3RiBy4QLGnR4rih7zj7QkMV/?Post:5",
+				"added": 1501486466
+			}
+		],
+		"1_1Nb18h3QSAvsRdR8rQ2AXZaSA2Rp7dZqrs": [
+			{
+				"comment_id": 4,
+				"body": "OK, let me try to give u a  brief translation.\n** China banned some social media accounts for they don't spread positive socialist values.**",
+				"added": 1501487799
+			}
+		],
+		"1_19RcMpV1xVFHHsC3D3XaZSQpso7krgvuUo": [
+			{
+				"comment_id": 5,
+				"body": "参考我的方法吧，把ZeroNet运行在电脑上，然后用手机访问，不管什么手机都可以。\nhttp://127.0.0.1:43110/1G7jmLghk4h3RiBy4QLGnR4rih7zj7QkMV/?Post:6",
+				"added": 1501488167
+			}
+		],
+		"1_1Geq5B49Mzx1gv2F2BxBCNDscjw9TXhLUH": [
+			{
+				"comment_id": 6,
+				"body": "Quite cool!",
+				"added": 1501492180
+			}
+		],
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 7,
+				"body": "I searched for `/` and `43110` , and  I save the results  into `out.txt` .\nI got `971` after i run`grep -o '127.0.0.1:43110/[a-zA-Z0-9][a-zA-Z0-9][a-zA-Z0-9.]*' out.txt | sort -u|wc -l`.\nDoes it means that ZeroNet has 971 sites now ?",
+				"added": 1501590104
+			},
+			{
+				"comment_id": 8,
+				"body": "> [kaffie](#comment_427_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): ZeroNet definitely has more than 971 sites. At least over 2,000.\n\nIn principle, every site contains `/` and `43110`. Why I just got `971` ?\nHow can I get every site URL ?",
+				"added": 1501590866
+			},
+			{
+				"comment_id": 9,
+				"body": "> [kaffie](#comment_428_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh): I'm guessing it's probably due to the way zirch searches for things. Take a look at Kaffiene's full index you can see there's 2410 unique sites in just the Kaffiene index. So there's certainly more than that. Zirch claims over 2,000 sites, but I haven't audited it. So perhaps there really are just 971 unique sites listed.\n\nThanks,  `Kaffiene's full index` > [michaelwesten](#comment_2_1AqnMR6NZXT6cZ1dgpnhx5pfeFvPQ1edU6): @elspru: If you've got GNU grep, allow me to present a superior regex: [...]\n\nThanks for your suggestion of `grep`, but,I think it's not the problem of `grep` . Maybe you can take a look at kaffie's answer  :-)",
+				"added": 1501678161
+			}
+		]
+	},
+	"comment_vote": {
+		"428_1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh": 1
+	}
+}

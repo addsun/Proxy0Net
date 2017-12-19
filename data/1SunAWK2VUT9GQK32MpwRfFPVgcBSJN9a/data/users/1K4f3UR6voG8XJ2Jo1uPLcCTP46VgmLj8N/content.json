@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HAxZ1/8LqV1KveEopXSNqA89xFFXyRGA8vHBX03Gl5FyU6hxa9kxrz8sqAXIP/Ww091ZNwKejzLQYry9K9nKbz8=",
+ "cert_user_id": "chibitech@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "8a83d9edc4cd3451579d8ddb08fb9708f0b0af675a3e045dba1a237b56d91016",
+   "size": 1178
+  },
+  "data.json": {
+   "sha512": "5f0263db251c5dce1f314dbb04d136484430c9291be32e955e762095be665136",
+   "size": 368
+  }
+ },
+ "inner_path": "data/users/1K4f3UR6voG8XJ2Jo1uPLcCTP46VgmLj8N/content.json",
+ "modified": 1510042841,
+ "signs": {
+  "1K4f3UR6voG8XJ2Jo1uPLcCTP46VgmLj8N": "HAqRIuVTdBdiqyinzDfwqGbQXAXXul6auf5BS54Cix2ofR4uGn2dwO8zcPSle4oFVBdutHjYdxcEQzF9i8RDYaI="
+ }
+}

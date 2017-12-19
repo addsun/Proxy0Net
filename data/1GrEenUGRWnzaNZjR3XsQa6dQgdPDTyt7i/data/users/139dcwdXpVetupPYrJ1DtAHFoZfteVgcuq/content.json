@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G/mw0EbemZwSivB5klAaEaojYgU529B0Hijl2CfncPZ3gTe2vdJBhkzbDBEmpiv/Fnxo0Gi9eIh7JC57CcZ6U5s=",
+ "cert_user_id": "dragnite@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "817a687e329161cf7b83c7097392e1548b96061f05a58f3d24a316bfe6bf896d",
+   "size": 1749
+  },
+  "data.json": {
+   "sha512": "4896641acd881daeb60c674ed33964e1e7066322766e3e72fd23518ae1a292f6",
+   "size": 1287
+  }
+ },
+ "inner_path": "data/users/139dcwdXpVetupPYrJ1DtAHFoZfteVgcuq/content.json",
+ "modified": 1476191712.187,
+ "signs": {
+  "139dcwdXpVetupPYrJ1DtAHFoZfteVgcuq": "HMfIS+qjqE8JBJvY9tPN9n5gS8SQmLOV+L1krTVhi9w9XbMlVPBji8Tc1Aj/ZN4WcHveLAXeyCCUlHx1QRac6yA="
+ }
+}

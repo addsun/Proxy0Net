@@ -1,0 +1,120 @@
+{
+	"next_topic_id": 5,
+	"topic": [
+		{
+			"topic_id": 1509742198,
+			"title": "BigCat.tk is open to do Business!",
+			"body": "So it seems like a lot of people have ended up using BigCat.tk. I've been thinking of ways I can keep the lights running..\n&nbsp;\nYesterday I experimented with Ad networks, although you can see why the Ad revenue model is dying out on the internet; a lot of ads are annoying and end up installing malware, which I didn't notice until a user told me. I've switched them off now so it's all good.\n&nbsp;\nA world without ads will be great for the user but sadly, after months of research, it seems like a lot of content creators really are going to be doomed.. unless we introduce something like a Universal Basic Income across the world.\n&nbsp;\nI've thought about expanding BigCat.tk and maybe even buying a VPS like Cyberbunker.com and hosting it there, so we can give a taste of ZeroNet to the masses.\n&nbsp;\nIt's funny though, I'm surprised I've been able to handle all the load with this $300 PC. My house used to actually be a nursing home from the 1960s or something. What they did was they re-purposed it and then rented out the rooms to poor people, still at ridiculously high prices. There's more than 20 people living in here, so they gave us high-speed fibre broadband in order to cope with all the unemployed people on welfare surfing the net all day.. ... which is why I've been able to host the site without any noticeable delays in internet speed. The landlords don't know there's a webserver here!\n&nbsp;\nBigCat is willing to collaborate with anybody who wants to advertise their products on the site through **Native Advertisement**. You pay a monthly amount in bitcoin for the privilege. What that means is:\n1. The products must be relevant to ZeroNet (e.g. you can advertise a Zite, VPN services, software, apps, etc.)\n2. The products must be legit and your links must not contain any malware.\n3. I will design the ads for you since I have some pretty good graphics design and CSS skills, and make sure it blends in well with the layout of ZeroNet sites so it doesn't interrupt user experience.\n&nbsp;\nI'm reacheable through ZeroMail at Realkittykate. Cheers!",
+			"added": 1509742197
+		},
+		{
+			"topic_id": 1509789326,
+			"title": "How to monetize your site with CoinHive (without draining your viewer's CPU!)",
+			"body": "I figured out how to do this for Bigcat.tk, so I feel a moral obligation to share this with the rest of the open source community.\n&nbsp;\nAt this point I think you've all heard of Coinhive.com - a javascript application that allows you to mine Monero coins every time a user visits your website, using their CPU.. in order to fund your web development endeavors without ads.\n&nbsp;\nThis has sparked a lot of outrage all over the world.. with users eventually blocking the app because it was slowing down their devices, and even Anti-viruses registering it as a Trojan.\n&nbsp;\nLuckily, Coinhive came up with a solution to this: You can give users consent to enable the miner.\n&nbsp;\nAnother cool option they have is that you can Throttle the speed of the miner. You get less coins at a slower rate with a high throttle, but users won't notice any significant reduction in CPU performance. \n&nbsp;\nThe code is really simple. You add this wherever you normally add your scripts:\n&nbsp;\n<script type=\"text/javascript\" src=\"https://authedmine.com/lib/authedmine.min.js\"></script>\n<script>\nvar miner = new CoinHive.Anonymous('ENTER_YOUR_PUBLIC_KEY_HERE');\nminer.start();\nminer.setThrottle(0.9); // Set miner on high throttle (LOW speed)!\n&nbsp;\n// Listen on events\nminer.on('found', function() { /* Hash found */ })\nminer.on('accepted', function() { /* Hash accepted by the pool */ })\n&nbsp;\n// Update stats once per second\nsetInterval(function() {\n    var hashesPerSecond = miner.getHashesPerSecond();\n    var totalHashes = miner.getTotalHashes();\n    var acceptedHashes = miner.getAcceptedHashes();\n    var throttleValue = miner.getThrottle();\n    var ad_state = 0;\n&nbsp;\n    // Output to HTML elements... (optional)\n    //document.getElementById(\"hashes_per_second\").innerHTML = parseFloat(hashesPerSecond).toFixed(2);\n    //document.getElementById(\"total_hashes\").innerHTML = totalHashes;\n    //document.getElementById(\"throttle_value\").innerHTML = throttleValue;\n&nbsp;\n    // OR alternatively, output to console log (recommended)...\n    //console.log(\"Hashes per second: \" + parseFloat(hashesPerSecond).toFixed(2));\n    //console.log(\"Total hashes: \" + totalHashes);\n    //console.log(\"Throttle value: \" + throttleValue);\n&nbsp;\n    if (ad_state == 1) {\n\tconsole.log(\"Hello world!\"); // Do nothing, meh.\n    } else {\n      if (miner.isRunning()) {\n          document.getElementById(\"please_help\").style.display = \"none\";\n      } else {\n          document.getElementById(\"please_help\").style.display = \"block\";\n      \t  ad_state = 1;\n      }\n    }\n&nbsp;\n}, 1000);\n</script>\n&nbsp;\n..Where document.getElementById(\"please_help\") are the ads and/or notifications you will display if the miner is blocked, so you can negotiate with the User and give them consent.\n..and Where string\"ENTER_YOUR_PUBLIC_KEY_HERE\" is the public key that is provided to you at Coinhive.com\n&nbsp;\nNOTE that only one tab is allowed to be opened for the site. If a second tab is opened, then ads will be displayed on the second tab, and the second tab will not be running the miner. This is obviously a safeguard mechanism that prevents two instances of miners from running at once.",
+			"added": 1509789324
+		},
+		{
+			"topic_id": 1510050824,
+			"title": "Nothing is Free.",
+			"body": "Nothing is free. You can't make something out of nothing.. that would be in complete violation of the laws of thermodynamics. \n&nbsp;\nWe can still have a pretty happy and comfortable civilization and a world of abundance in which money is rendered meaningless, and 3d printers can manufacture all of our basic necessities .. and artificially intelligent machines provide all of our services, and are able to mine all of the material resources and extract all of the energy available to us in the universe. It's still gonna take some effort and planning.\n&nbsp;\nJust keep that in mind. If you're into file-sharing, make sure you're in this game for the right reasons .. to make information more widespread and accessible to the common man, to fight censorship and to fight intellectual property monopolies that have created an artificial economy that line the pockets of lawyers, bankers, etc. more than they actually help protect small artists and creators.\n&nbsp;\nIf you're here for Freebies because you think everything should just be given to you for nothing without you even having to wiggle a finger ... well, then you're simply delaying the inevitable contributing to the very evils you're trying to fight.\n&nbsp;\nNothing is free, but we can still live less expensively and cut out a lot of unnecessary bullshit. We can have a universal basic income and provide public services along that nature, but that still requires us to accept taxation as a fact of life. \n&nbsp;\nBe a rebel with a cause. Not some self-destructive junkie. Use Ad-block to get rid of malicious ads that sell you malware, but be sure to support the content creators whose content you benefit from, rather than vilifying them for even kindly asking you for donations. This is the only way we can have this paradise mentioned above.",
+			"added": 1510050821
+		},
+		{
+			"topic_id": 1510300423,
+			"title": "Loneliness can Kill you..",
+			"body": "According to studies. Not that it should come as any sort of surprise to anyone...\n&nbsp;\nToday me and my male friend from high school went to my college. We sat down in the computer labs, after-hours.. and played Dota 2. We installed it inside of a virtual machine. You can get kicked out and have your user account banned for doing that.. but fuck society, right?\n&nbsp;\nThe graphics and FPS sucked, but we had fun.. we actually won the match. We laughed our asses off, we were kids again.\n&nbsp;\nIt's good to have a male friend like that, someone who doesn't hit on you, unlike a lot of other men I've met (I'm not against men hitting on women, by all means - you gotta go for it.. but, if somebody tells you that they're not into it...you know. Some men think that I 'friendzone' them when I say I'm attracted to girls.. that's the problem. It's like an Ego thing, almost...). \n&nbsp; \nHe has a girlfriend, but we're still friends because we play video games and talk about IT stuff. I'm also trying to help him find work, although.. I try not to make myself seem too 'qualified' to talk on that subject, as I'm in a similar boat right now. I don't think I'll be able to get a job after I leave college, either.. \n&nbsp;\n..for what is worth, I could never have an office job, or hold down any 9-5 job (I've worked something like 10-12 minimum wage jobs in the past, but none of those lasted longer than 3 months..). It would make me feel like shit.. I like to do my own things in my own time, it's the only way I can stay motivated and passionate; it has to be something that 100% interests me, otherwise .. you could probably hold me at gun point, and I'd still procrastinate and slack off. Maybe that's why we're able to be such close friends, because we have the same 'disease', so to speak.. \n&nbsp;\nBut yeah, I feel so much better now after just 4 hours of interacting with somebody. It's amazing, really. Loneliness can kill you.. these past couple of days have been hell. A lot of us underestimate how much better we will feel if we just reach out to somebody.. and a lot of the times, people don't turn out to be the judgmental pricks that your subconscious makes them out to be!",
+			"added": 1510300419
+		}
+	],
+	"topic_vote": {
+		"1510252302_1Mb5HMCBsLTFkCZdkaiLcp38c3XwEf7ejf": 1,
+		"1510253157_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1
+	},
+	"next_comment_id": 14,
+	"comment": {
+		"1509742198_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 1,
+				"body": "> [styromaniac](#comment_188_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): http://127.0.0.1:43110/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/1509742533 [...]\n\nThanks for the feedback, this has been dealt with!",
+				"added": 1509742907
+			},
+			{
+				"comment_id": 2,
+				"body": "> [styromaniac](#comment_189_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): It's not over until you stop with the sketchy TLDs.\n\nI can't afford to buy a domain right now, other than .bit. But like I said, I've got my eyes on some good ClouDNS.net domains.",
+				"added": 1509743269
+			},
+			{
+				"comment_id": 3,
+				"body": "> [akito](#comment_351_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY): \"unless we introduce something like a Universal Basic Income across the world.\" etc....OR we stay in reality and just let the user mine some coins while visiting the website. This is the future of supporting independent networks like e.g. PirateBay, anyway. [...]\n&nbsp;\nDidn't the PirateBay get a bad rap for forcing users to mine coin?\n&nbsp;\nI'd be happy to experiment with coin mining provided it doesn't crash people's devices and provided it has a decent pay out that makes up for whatever inconveniences it may cause. We'll see how this goes anyway.. everything's still in the tinkering stage.. so if you have any complaints, be sure to write it below!",
+				"added": 1509773417
+			},
+			{
+				"comment_id": 4,
+				"body": "okie dokie. \nI'm gonna be trialling CoinHive for about a month. The way it works is - users have the option to either view the proxy ad-free by donating a small amount of CPU resources for the purpose of mining Monero.. or they can disable the miner and instead enable the native ad-banners.\n&nbsp;\nHaving a high-throttle (very low CPU usage) as well as a user consent notifications allows us to strike the right balance between monetization and quality of user experience. I'm actually gonna make a tutorial on this, so that anyone can do this with their own site. We need to make money, man.. enough with this starving artist bullshit. Stay tuned!",
+				"added": 1509787880
+			},
+			{
+				"comment_id": 7,
+				"body": "I've now hooked up the service to Cloudflare.. so hopefully that will increase performance and loading time. lol\n&nbsp;\nI don't think I'll be using a VPS because a lot of VPS owners are kinda sketchy and ask you for things like ID and passport. The last thing I need is identity theft.",
+				"added": 1509859194
+			}
+		],
+		"1509789326_1BgmsWcEitkkf96t5qVkBFPoYwdoc4hSqA": [
+			{
+				"comment_id": 5,
+				"body": "> [styromaniac](#comment_191_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd): I'm keeping a tab open on bigcat.tk just to help you out. Does Chrome keep the mining process running while in the background? [...]\n\nThanks man. I'll keep my promise and buy new domains and move this to a higher speed, more secure server, and also finish KopyKate BIG by Christmas.\n&nbsp;\nThe process will only run so long as you have a tab open from Bigcat.tk, and so long as you pressed Agree, which saves a cookie to your browser. You can press F12 and see the mining happening in the console logs.. and also check Task manager or whichever app you use to monitor CPU usage.\n&nbsp;\nI've just tested watching videos while the site is open on my PC, works fine, no spikes in frame rate. So this is at the absolute lowest setting, so you should barely notice anything at all.",
+				"added": 1509824392
+			},
+			{
+				"comment_id": 6,
+				"body": "> [krixano](#comment_146_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu): Yeah, but take into account that phones have less resources than PCs. Not saying to make the mining lower, just saying that phones are more likely to lag than PCs.\n\nI'll be sure to test it on as many phones as possible.",
+				"added": 1509824901
+			}
+		],
+		"1510036025_15gfWASCEHFnhHREdAfWH9a8ZwHBXUKbUq": [
+			{
+				"comment_id": 8,
+				"body": "Nothing is really free. You can't make something out of nothing.. that would violate the laws of thermodynamics.",
+				"added": 1510049586
+			}
+		],
+		"1510250312_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 9,
+				"body": "I was downloading the Monero blockchain. It made my computer unusable.. lol... everything is up again now.\n\nI've actually gotten back in touch with my friend from college.. so I might get a free VPS going. It'll still be behind cloudflare, but it should speed things up yet..",
+				"added": 1510296008
+			}
+		],
+		"3_16UYTd5pL9rt4hhxQAmfX89QqmjJB58xDx": [
+			{
+				"comment_id": 10,
+				"body": "Can't we have a system that can automatically destroy CP in the block chain through some sort of democratic user action?",
+				"added": 1510296619
+			},
+			{
+				"comment_id": 11,
+				"body": "like, you could have some sort of ZeroNet plugin that can automatically delete files that have been reported by a sufficient number of users as being CP",
+				"added": 1510296663
+			}
+		],
+		"1510253157_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 12,
+				"body": "yeah. i guess it's just user responsibility..",
+				"added": 1510296746
+			}
+		],
+		"1510297231_1G2KAr146veEMjvkrhD3sXMUH1fAuZdswM": [
+			{
+				"comment_id": 13,
+				"body": "what are you trying to run?",
+				"added": 1510298515
+			}
+		]
+	},
+	"comment_vote": {
+		"187_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": 1,
+		"146_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1,
+		"2_1PyrAjbZiHyfW7jSWeUpDPSeMU7sAJ5HSs": 1
+	}
+}

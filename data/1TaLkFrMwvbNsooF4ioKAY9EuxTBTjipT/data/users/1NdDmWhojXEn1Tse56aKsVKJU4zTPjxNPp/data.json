@@ -1,0 +1,16 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 1,
+				"body": "目前，拥有多个身份的最佳方法是通过将插件/禁用的多用户目录重命名为插件/多用户，然后重新启动ZeroNet来启用Multiuser插件\n之后，您将能够改变ZeroHello的身份。 要登录其他帐户，您必须从users.json文件中输入master_seed值。 更改您的身份后，您必须访问ZeroID网站以获取您的零密码证书（证书添加的通知将会出现）\n* .pem文件不重要，每次重新启动客户端时都会重新生成。",
+				"added": 1509092186
+			}
+		]
+	},
+	"comment_vote": {}
+}

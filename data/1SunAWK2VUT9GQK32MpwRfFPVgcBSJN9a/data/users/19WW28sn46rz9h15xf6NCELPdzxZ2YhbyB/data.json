@@ -1,0 +1,56 @@
+{
+	"next_post_id": 9,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Missesrobot",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1513476551,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1513477133,
+			"body": "I've had to start over. Wiped the zerocat.eu proxy clean. Wiped my own Zeronet client folder clean, as it used to be a proxy, too. \n\nAll of my old seeded movies are gone.. but at least it's good to know that enough people are seeding them, anyway.\n\nZeroNet comes with a steep learning curve. It's a brave, new world .. after all. I underestimated the amount of kiddy porn that may have potentially been lurking around.. as much as I overestimated the moral stamina of the average ZeroNet user.\n\nFuck kiddy porn. Pedophiles should just draw anime, and whack off to that instead. I have nothing against anime. Anime is great",
+			"date_added": 1513477131
+		},
+		{
+			"post_id": 1513480023,
+			"body": "@krixano - I just saw the routing tutorial you posted, and wanted to say thanks - this should save a lot of time and effort. It's also something I feel should be included in the Zeronet docs and packages.\n\nbtw - does this work on any zeroframe, or only the zeroframes usedin e.g. zeroup, zerome, etc?\n\np.s. I'll be sure to include your username in the credits for KopyKate BIG 0.2.0 :)\n\n**The official ZeroFrame Routing Tutorial - by Krixano**\n\nhttp://127.0.0.1:43110/1K2myjtjoEVpRC2JMieRL73ES4V4iLP2Ev/",
+			"date_added": 1513480020
+		},
+		{
+			"post_id": 1513511027,
+			"body": "Mission accomplished! :)\nhttp://127.0.0.1:43110/big.kopykate.bit/?Video=1513510645_17ffrcHNzbFoUe81PyMEagQdv2DGNRLFcE\n\nSuccessful reverse-engineering of ZeroMe and ZeroUp's Dynamic page routing system. Tutorial will be available soon, and will include Zeroframe.coffee and other source files. *Back*, *Forward* buttons both work.\n\nDynamically generated pages simply load faster, especially on mobile.. and are easier on the eye.",
+			"date_added": 1513511022
+		},
+		{
+			"post_id": 1513548658,
+			"body": "Now that I think about it .. I've wasted my past 10 years trying to be a Normie. \n\nIt was a futile attempt at re-inventing myself; trying to undo all of the 'damage' that had accumulated over time .. as a result of me spending all evening after school on my PC playing Warcraft III, modding games, making virtual friends on online forums, etc.\n\nI've even spent the last 3 years going to bars in the weekends. I've learned how to make people laugh. How to strike up conversations. How to have a lame one night stand. I've tried Tinder..\n\n..Yet none of it ever translated into what I've always been looking for; a meaningful, lasting relationship.. with someone I don't have to try too hard to impress all the time.\n\nEven my nerdiest of friends are now in a couple. Even crossdressers ... drag-queens full of tattoos and piercings can find love. How did they do it.. and why can't I do what they did?\n\nMaybe a normal life just isn't worth pursuing. Maybe the forces at play are trying to protect me from something. I don't believe in a literal god, but certain aspects of the universe have a tendency to follow a certain set of rules.  \n\nI'd run out of fucks to give, a long time ago. I'm going back to being the kid I've always been in primary school; always happy, so long as I could use my PC. ",
+			"date_added": 1513548652
+		},
+		{
+			"post_id": 1513648753,
+			"body": "The scroll on my mouse was annoying the crap out of me.. constantly slipping away for no reason.\n\nThis video saved my life. I didn't have isopropyl alcohol.. so I just used sodium percarbonate and water, my homebrewing sterilizer. Seems to have solved the issue.. after drying off and a good scroll.\nhttps://www.youtube.com/watch?v=981KfZez7Ws",
+			"date_added": 1513648746
+		},
+		{
+			"post_id": 1513655811,
+			"body": "Three quarters of the way through development for KopyKate v0.2.0..\n&nbsp;\nThe navigation system is what took the longest amount of time to complete. Zite should be published by tonight.\n&nbsp;\nQuite a hassle really, but it will pay off in the long term. Coffeescript will make future coding faster, and jquery is easier to work with.  \n&nbsp;\nhttp://127.0.0.1:43110/big.kopykate.bit/?Video=1513655221_19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB",
+			"date_added": 1513655803
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I should add. The **forward** button doesn't work with this code (even in the site example), and module.exports is undefined (why is there a node.js function?)\n&nbsp;\nIt's also hard to come up with a routing system that deals with dynamically-generated Urls which contain video information, when this code defines routing anchors/urls with .add .. on site load.\n&nbsp;\nThen again, this code gave me lots of insights. I believe I'll be able to create a fully functional routing system by tomorrow. Nofish's routing on ZeroMe and ZeroUp is truly a piece of engineering.\n&nbsp;\nThis is the only thing getting in the way of me re-creating KopyKate.",
+			"post_uri": "19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513480023",
+			"date_added": 1513497299
+		}
+	],
+	"follow": []
+}

@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HHjKNQYbLrCKui/NkrUwrPx0y++McP6AxoMkyEZWfIFDbMZyZ0YzZGklnsIGdhPZzDBeTBd6H0lnAtz7mKfpV4o=",
+ "cert_user_id": "jacktheflying@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "e6b28d8346bb7eb8b3f38cc6c577cbb01f5a5be0d29b051f36725927d80c2519",
+   "size": 1098
+  },
+  "data.json": {
+   "sha512": "6da23d598cb1a3799e6a72ab785491be396492d137834d5668301b425655fd62",
+   "size": 320
+  }
+ },
+ "inner_path": "data/users/1rREbThq1wSn5KZWFDHDdif8h8AHVmFZk/content.json",
+ "modified": 1512408472,
+ "signs": {
+  "1rREbThq1wSn5KZWFDHDdif8h8AHVmFZk": "GyaUfeQ9qnGfLO4mxnFP9hB4VdmtcnaecD8tDFoAVcmDLB1J/3uY6GIJ2G36P/1lLwKYKcccvMufBmK7a8IOy10="
+ }
+}

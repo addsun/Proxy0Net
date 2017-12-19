@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "Gx7zDcCIQ1pTnTf+1cZrvSN0iaT4Zw+AlO9+4/JhE0GtRD4oocwrmH+PNIzkq2q7JE2YztefAX717aO/R+UY6jk=",
+ "cert_user_id": "skooma@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "abec677d5ef7da2402025986e38f38437b22e89d87367c843a7b9cc286aa2c42",
+   "size": 324
+  }
+ },
+ "inner_path": "data/users/1B3hENGNRJPLYfBHnDHBVifagTadcrohyx/content.json",
+ "modified": 1500039523,
+ "signs": {
+  "1B3hENGNRJPLYfBHnDHBVifagTadcrohyx": "HIwxQLS/IXm4kevW+ggOqEMOh7XXfehYkpnpexiPo4HQJqL/s3usjxPr9TsExyjDgZSttzgw7Mt0pFDZyq0bbW8="
+ }
+}

@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1509087257,
+			"title": "Who can break the Chinese firewall?",
+			"body": "help!",
+			"added": 1509087256
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 1,
+				"body": "你可以通过备份多个users.json文件，不停的换users.json文件来实现此功能。当你删掉一个users.json，zeronet程序会再建一个原始users.json。",
+				"added": 1509087762
+			}
+		]
+	},
+	"comment_vote": {}
+}

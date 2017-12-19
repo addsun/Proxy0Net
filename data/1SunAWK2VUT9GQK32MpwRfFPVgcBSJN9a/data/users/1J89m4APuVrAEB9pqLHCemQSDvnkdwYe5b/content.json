@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HCSNx6fGYpGwFNmRjB/3/VdcEbN27HRpON4gfyP+IgQMMIJ8+7BnwlJQto/ZU4b4FlrYktEoaPyI/lDgOOdAkYg=",
+ "cert_user_id": "kniffy428@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "905c8fb3e06245a63b7c263dad6bc5910f6f9ec71e46076d3c0ee972312f3824",
+   "size": 1662
+  },
+  "data.json": {
+   "sha512": "b218434148379d2d2b1fdf7f34d1dbc422bb5a9803ad4f5ea93479c2daf6a966",
+   "size": 2285
+  }
+ },
+ "files_optional": {
+  "1507614475.jpg": {
+   "sha512": "5d71392735211a2a64cc4e2b77eaea4115e720905a4ef124c2683ba643da4552",
+   "size": 60002
+  }
+ },
+ "inner_path": "data/users/1J89m4APuVrAEB9pqLHCemQSDvnkdwYe5b/content.json",
+ "modified": 1507717395,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1J89m4APuVrAEB9pqLHCemQSDvnkdwYe5b": "HNuW1/oGKLyniBk+4m0qY94AvZ+GoU3BLPvcT9pPIqeBU7mKa9csJJSNddZSbltF1xuyde6YzMxhAEL15sADv0s="
+ }
+}

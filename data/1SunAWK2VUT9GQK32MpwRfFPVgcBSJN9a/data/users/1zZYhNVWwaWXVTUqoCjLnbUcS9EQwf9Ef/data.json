@@ -1,0 +1,48 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 5,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Eterno",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Utente ZeroNet casuale",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1509687614,
+			"body": "Ciao ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699": 1509689837,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510077454": 1510433334,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1511452936": 1511540622
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Krixano: idem",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509687841
+		},
+		{
+			"comment_id": 2,
+			"body": "@Krixano: idem = the same thing",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509689038
+		},
+		{
+			"comment_id": 3,
+			"body": "@Krixano I can't view the GitCenter Source repo because the content.json isn't downloading for me.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509689209
+		},
+		{
+			"comment_id": 4,
+			"body": "@Krixano it also happens to me",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1509637699",
+			"date_added": 1509689246
+		}
+	],
+	"follow": []
+}

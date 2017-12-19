@@ -1,0 +1,21 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "G4Xs2ih1Q17h4oBLqy1JE261AvEFO5x9wN8Keqx4+eG7/RXK1XhwQeKTzvjXaTM0CkK+HQm4NXYthy1ngpwwjHQ=",
+ "cert_user_id": "quitonication@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "2e51c46fefbb259af9f837ce3b6b32e95ffe8451722671074c046346168752c0",
+   "size": 1468
+  },
+  "data.json": {
+   "sha512": "5fec61378e1277b26d4171b95fee2e4277121f96c45dd8e9470d85518a3819bc",
+   "size": 5667
+  }
+ },
+ "inner_path": "data/users/18esEnwpRLg6mSqmRpucP2Rz2mjz614DcM/content.json",
+ "modified": 1510291618,
+ "signs": {
+  "18esEnwpRLg6mSqmRpucP2Rz2mjz614DcM": "HJp2k2dC3ki82fNNQGKwyV8PT2i4OIHvd54aDssVmE+1J9KTayApSed+IPsonqQ9t9BfM8kqBDrnyyhaja9h2yc="
+ }
+}

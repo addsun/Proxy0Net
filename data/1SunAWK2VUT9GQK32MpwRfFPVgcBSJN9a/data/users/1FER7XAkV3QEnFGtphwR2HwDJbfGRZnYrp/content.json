@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G5lV2SbFXy+20X+DBHjg4SGjGKQfA+oU6xbcyHqb/9vVCYJgq7lmeLPe+4E5ffYmtpdkJqdllTAI4upzrrrudHE=",
+ "cert_user_id": "skyblond@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "f45eace13229d45965addb16d77bc1061c38fc6a996c202fc56da04345fc8f72",
+   "size": 1081
+  },
+  "data.json": {
+   "sha512": "528a12dd06af64998ad20ddc6c5519cc042452a241bfa0e8ce66c45ce3fa806f",
+   "size": 340
+  }
+ },
+ "inner_path": "data/users/1FER7XAkV3QEnFGtphwR2HwDJbfGRZnYrp/content.json",
+ "modified": 1512654502,
+ "signs": {
+  "1FER7XAkV3QEnFGtphwR2HwDJbfGRZnYrp": "HDnyMN7EMa58OOOUVWg9QB5wTXDr77qdl9sHz8wjmrCBLZrfTmlocFc5xQBndkNePubpOgSw4GsvnWXtJk2RMT0="
+ }
+}

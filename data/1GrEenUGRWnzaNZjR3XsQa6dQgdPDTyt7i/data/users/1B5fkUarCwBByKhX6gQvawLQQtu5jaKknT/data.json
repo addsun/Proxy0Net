@@ -1,0 +1,48 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 2,
+	"avatar": "jpg",
+	"user_name": "Antilopa",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1486047286,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1486047464,
+			"body": "Hi. Just checking it it out. Very interesting but still trying to find my way around the interface.",
+			"date_added": 1486047462
+		}
+	],
+	"post_like": {
+		"1JsMCU9GSatL9JrsjCGEbs82cSZZftSthP_1475053900": 1486047377,
+		"1JsMCU9GSatL9JrsjCGEbs82cSZZftSthP_1486047694": 1486047749
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi Muppeth!",
+			"post_uri": "1JsMCU9GSatL9JrsjCGEbs82cSZZftSthP_1",
+			"date_added": 1486047497
+		},
+		{
+			"comment_id": 2,
+			"body": "i was wondering the same. couldn't find it yet ",
+			"post_uri": "1JsMCU9GSatL9JrsjCGEbs82cSZZftSthP_1486047694",
+			"date_added": 1486047737
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1JsMCU9GSatL9JrsjCGEbs82cSZZftSthP",
+			"user_name": "Muppeth",
+			"date_added": 1486047362
+		}
+	]
+}

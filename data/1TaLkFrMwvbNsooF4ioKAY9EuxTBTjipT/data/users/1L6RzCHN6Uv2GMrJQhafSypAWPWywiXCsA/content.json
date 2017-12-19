@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HFPR7SPfHOZDlGulPzb6loj7fNm6CPk1qBrxmfQn7dYbfyyy4TSA+qydSRurVbWJ4BiWEdS9JBrVE46wTrcydeQ=",
+ "cert_user_id": "homebrew@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "23ed6395c16fafa5da0ffcb3ad80a365198c0b8a94ef9efc6db0316d14f38b3b",
+   "size": 3112
+  }
+ },
+ "inner_path": "data/users/1L6RzCHN6Uv2GMrJQhafSypAWPWywiXCsA/content.json",
+ "modified": 1504059621,
+ "signs": {
+  "1L6RzCHN6Uv2GMrJQhafSypAWPWywiXCsA": "HEUUgLlOnrAkeQoAy9VGv3arPyBxtyTNkuZS/fASFD7SPC4fAnuTXEaJ7V8Y+/FXmumweh8jXJSM2ar+F/lyhqQ="
+ }
+}

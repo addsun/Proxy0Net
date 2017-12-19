@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "G5jXKOd0MMPnVwpy9z2yKvkjUPs91qgfaQS50nEzQAj5WPkPgVzH6hHDrlClfZam0hBdFlzpxey/2qcYkQZKMWI=",
+ "cert_user_id": "supviper@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "30475a7956eff4439eb5cde5f7ec2d16f43f859bbc420ede9338c0bab9e17726",
+   "size": 239
+  }
+ },
+ "inner_path": "data/users/1C6BNyrYBjTJbHwRn2Af4VBL5CV5RkCf75/content.json",
+ "modified": 1513091319,
+ "signs": {
+  "1C6BNyrYBjTJbHwRn2Af4VBL5CV5RkCf75": "HAFRFQhzGHjhvb60dndBH1K6jjTkf5tlLza5POdvqYYkCi6voaG99nLL6nK8mIpBotdobq4I5hiLyrEu1B358mE="
+ }
+}

@@ -1,0 +1,33 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Anonymouslogin",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Willekeurige ZereNet gebruiker",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1508492349,
+			"body": "Hallo ZeroMe!"
+		}
+	],
+	"post_like": {
+		"1KkoAwUyUGh6uBSs1xz5gGwG66SjMCyLSi_1508470762": 1508492367,
+		"1KkoAwUyUGh6uBSs1xz5gGwG66SjMCyLSi_1508469714": 1508492377,
+		"1KkoAwUyUGh6uBSs1xz5gGwG66SjMCyLSi_1508469656": 1508492379,
+		"1KkoAwUyUGh6uBSs1xz5gGwG66SjMCyLSi_1508586165": 1508588192,
+		"1KJY9Soji7TbEVfisJHPvuzwzTMpAUDHf4_1508585728": 1508588223
+	},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1KkoAwUyUGh6uBSs1xz5gGwG66SjMCyLSi",
+			"user_name": "Doublelunar2100",
+			"date_added": 1508492370
+		}
+	]
+}

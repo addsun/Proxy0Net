@@ -1,0 +1,48 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 1,
+	"next_follow_id": 5,
+	"avatar": "generate",
+	"user_name": "Inflp",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507629439,
+			"body": "Hello ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1GVM7nNzmYJ3ppPCmDTPLozrJF2Z9mgFpF",
+			"user_name": "猫叉酱（小号）",
+			"date_added": 1507629835
+		},
+		{
+			"follow_id": 2,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1LsLEjo2ZZKr2ZHT49rYBrvmU48ULCW5GH",
+			"user_name": "Stibium",
+			"date_added": 1507629859
+		},
+		{
+			"follow_id": 3,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "14BYGyurrHihtovBZr8JvA5vkxWvA5oc4G",
+			"user_name": "Zshang",
+			"date_added": 1507630086
+		},
+		{
+			"follow_id": 4,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GAWwPWreQXo1CwcefCgL6w5wYPkNFWbsj",
+			"user_name": "西木野真姬",
+			"date_added": 1507630102
+		}
+	]
+}

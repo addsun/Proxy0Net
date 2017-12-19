@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"5_19xyLs9tyTZF9JaEcWBk5JtgWdYtQPQwt3": [
+			{
+				"comment_id": 1,
+				"body": "I think user-end scripting would be the best method that doesn't approach censorship or a monetary gate. Have it recognize patterns that are long and exactly the same to begin with, and possibly be a site with user voted on submissions later to mark things as spam. Just a couple places to start.",
+				"added": 1507624930
+			}
+		],
+		"5_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": [
+			{
+				"comment_id": 2,
+				"body": "> [cosmologica](#comment_66_1PiXrhT1UjMZmJc5WFhfUxourdfapeHJ8o): I have a question too. So, I am experimenting a little with this FreeNet. And on both Windows and Linux the pc shuts down / gives a blue screen. I think this is strange. What could be the cause of this?\n\nSounds more like a hardware problem than a software one. Use Linux to \"apt-get install memtest86+\", or the equivalent in your OS. Then you can reboot and it'll be a boot option, it'll let you know if you have a RAM issue. If it crashes *during* the test at the same point multiple times, it's probably a bad RAM slot on your motherboard.",
+				"added": 1507625372
+			}
+		],
+		"1_1F8VgytUggkP8kkieK8GcEMVsJTwcoAqdk": [
+			{
+				"comment_id": 3,
+				"body": "If you can get someone to help you or have a remote computer, I'd suggest setting up a publically accessible ZeroNet instance. I'm not sure how to implement this properly yet, but I think that'd be a thing to look into.",
+				"added": 1511860668
+			}
+		],
+		"1510579536_1EZTWytasXcKdiUFnN4KHqAfvg1nwkTkKv": [
+			{
+				"comment_id": 4,
+				"body": "You're doing god's work, my man. c:",
+				"added": 1511860837
+			}
+		],
+		"1511083849_1KoZ6vDCXeDavsQjCToc95SZJu7uVVd9Yi": [
+			{
+				"comment_id": 5,
+				"body": "You would think they'd be okay with the leader being portrayed as Winnie the Pooh, it's kind of a nice (even kind) meme.",
+				"added": 1511861193
+			}
+		]
+	},
+	"comment_vote": {
+		"34_13aB79mzuRLgDYzQthn9wzycjw77WyDXh6": 1,
+		"66_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"92_1Pv5CdXMDJm5k5iAp4SVbutnMg2ue8e58p": 1,
+		"382_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1,
+		"289_1F8omDpXyPsBfd9CBJ91o4Wv1AA2KxqMEY": 1
+	}
+}

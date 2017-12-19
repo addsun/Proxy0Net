@@ -1,0 +1,82 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 12,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 1,
+				"body": "Notice received; burn contingencies activated.",
+				"added": 1497052776
+			}
+		],
+		"6_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib": [
+			{
+				"comment_id": 2,
+				"body": "@elspru: If you've got GNU ```grep```, allow me to present a superior regex:\n\n```grep -hERoi --binary-files=text '((https?|zero)://)?(127\\.0\\.0\\.1:[0-9]{1,5}|localhost|zero)/(1[A-Za-z0-9]{31,33}|[A-Za-z0-9-]+\\.bit)/?'```\n\nRecursively, case-insensitively prints all instances of any combination of the following:\nProtocol header; https/http/@Kaffie's zero:// only\nDomain name; localhost/zero/127.0.0.1:[port]\nSite address; 1VANITYISUREHOPE/namecoin.bit\nand finally; trailing slash, optionally\n\nRun in your nodes ```data``` directory and enjoy~",
+				"added": 1501663280
+			},
+			{
+				"comment_id": 3,
+				"body": "> [elspru](#comment_38_1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib): thanks @michaelwesten  [...]\n\n``` most != all```\n\nWhat precisely is the problem with the output? I could explain each step if you'd like.",
+				"added": 1501837180
+			},
+			{
+				"comment_id": 4,
+				"body": "Looking in 1Search... dir, it appears as though you aren't removing any trailing slashes from the ends of your results, causing addressGather.sh's ```sed -e 's/^.*\\//http:\\/\\/127.0.0.1:43110\\//'``` to destroy some links by removing everything before and including the final slash on a line.```sed -e 's/\\/*$//;s/^.*\\//http:\\/\\/127.0.0.1:43110\\//'``` will remove any extant trailing slashes from results prior to sorting, providing more input for ```sort | uniq```  to parse, hopefully resulting in greater amounts of links.\n\nAlso, chatting over ZeroTalk is silly; do you have a GitHub, GitLab or similar code repo set up somewhere? Perhaps on [0git](http://127.0.0.1:43110/0git.bit)?",
+				"added": 1501998086
+			}
+		],
+		"1_1pzJozRNVpCctRdWj2jgp59MkzCkZt2VZ": [
+			{
+				"comment_id": 5,
+				"body": "Apparently, a great many.",
+				"added": 1502000437
+			}
+		],
+		"1_19bxeaAV3CdRCr8BegmEXTqwhV15EabmS2": [
+			{
+				"comment_id": 6,
+				"body": "You could also try [OnionShare](https://onionshare.org/) (clearnet) if you have a secure channel to share the link through. Onionshare automates the process of setting up a Tor hidden service, zipping the files you wish to share, and presenting a download page. Pretty neat, but not suitable for multiple (>2) peers.",
+				"added": 1502019665
+			}
+		],
+		"17_1H5UJ7LneToGqYqJ9fbLnu1Ko2pxTpchof": [
+			{
+				"comment_id": 7,
+				"body": "You don't even need a packet sniffer. File and site requests to peers are logged under ```ZeroBundle]\\ZeroNet\\log/debug.log```. This shows which peer delivered a file to you, which may not be the owner of the file.\n\nTry ```grep -E '(Site|WorkerManager):1[0-9A-Za-z]{5}\\.\\.' debug.log | grep -E -e '[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}' -e '[0-9A-Za-z]{16}\\.onion'```.",
+				"added": 1506710221
+			}
+		],
+		"1_1PE9MQLkHhQ6srLz1QZ17JKiNhqKBZZrD1": [
+			{
+				"comment_id": 8,
+				"body": "It is technically possible. In addition to non-ZeroID identification providers, you can also manually edit your ```users.json``` to enable easy switching. However, due to how ZeroNet handles the data, there's a decent risk of overwriting your original IDs, losing their private keys and locking you out of your identity forever. Try checking out [this thread](/Talk.ZeroNetwork.bit/?Topic:1_17AMQVbBa12XB3xFWKDnP2dCEx92TaiY7X)  and making some edits of your own. Make a backup first, of course.\n\nAs far as obtaining new ZeroIDs, the easy way is to make a new instance of ZeroNet, obtain the ID you want, save a copy of that ```users.json```, and delete the extra instance. Make sure not to overwrite any jsons; doing so will lose you your keys.",
+				"added": 1509089360
+			}
+		],
+		"1509624447_1CGweCTCsFxD5FjvciBaGagZXsAUbXustF": [
+			{
+				"comment_id": 9,
+				"body": "Please change the returned search results from a link like ```127.0.0.1:43110/1whatever``` to ```/1whatever```. Some people use different port numbers, some use different protocol headers, some proxies aren't configured correctly...\n\nT'would maximize compatibility with different nodes.",
+				"added": 1509690855
+			}
+		],
+		"1510376498_13YYF6nT5NB9ayzUQmmAL7iueaAjkw51kB": [
+			{
+				"comment_id": 10,
+				"body": "Try the [Jargon File](http://www.catb.org/~esr/jargon/html/meaning-of-hack.html) (clearnet). Quite a fun read.",
+				"added": 1510469177
+			}
+		],
+		"1512674582_19hoduLR1FWYebZFxdJsgbEYvhrdxN5AP9": [
+			{
+				"comment_id": 11,
+				"body": "Hunting down unauthorized VNC clients.",
+				"added": 1512715066
+			}
+		]
+	},
+	"comment_vote": {}
+}

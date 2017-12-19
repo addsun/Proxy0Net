@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G4iBst9SEXW7etSSkakWttm/xn9tpgIs5wY8uS2WjxvV4KwZZqmJ/cP58/aVKqJI3Gr13Z27VPLoq3ImWQ/Ng3c=",
+ "cert_user_id": "mileswilson@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9a15a54b788ce6f8c7988dc96ac8951f1de0a9dcf761f04a936f4010f4a898c7",
+   "size": 342
+  }
+ },
+ "inner_path": "data/users/1E59yYhARkPwvhoAtWugsqnMm4mAt1b4gR/content.json",
+ "modified": 1503667724,
+ "signs": {
+  "1E59yYhARkPwvhoAtWugsqnMm4mAt1b4gR": "G3fq/y36K8pQ8mazmwd6aJ2g6tcSMojNmQkUkkT9OwjzPWKyV0v0T2s1jy7XmVnrBuQ+i8EGtqLbGtoMiJ2XJQM="
+ }
+}

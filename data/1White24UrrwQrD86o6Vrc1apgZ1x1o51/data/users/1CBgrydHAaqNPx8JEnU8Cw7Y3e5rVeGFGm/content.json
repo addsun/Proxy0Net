@@ -1,0 +1,17 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G5S6VMeseBYAQ65jMVFZbVumkuTk0L/dxM0NXlwI84iOCd1JjJUjCUNM3NpEVseHaYTL1riDBmfYwTL+8bWTHBE=",
+ "cert_user_id": "holysky@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bab0a16d57d72a29c9d968ebb20b2b5e5a3c4724760d17120de333ca9e1bed96",
+   "size": 6750
+  }
+ },
+ "inner_path": "data/users/1CBgrydHAaqNPx8JEnU8Cw7Y3e5rVeGFGm/content.json",
+ "modified": 1510389945,
+ "signs": {
+  "1CBgrydHAaqNPx8JEnU8Cw7Y3e5rVeGFGm": "G/S8BpXEDLNfQhXI8jJzt7DZEO5a5IgEOx6JjaxjDL9hCdyfq0s9yv9QXCkw2h7aPrQ3xlgsXjRNXF6OIuk4J6k="
+ }
+}

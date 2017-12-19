@@ -1,0 +1,32 @@
+{
+	"next_post_id": 2,
+	"next_comment_id": 3,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "1M28MbykbznsE",
+	"hub": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507893367,
+			"body": "你好 ZeroMe!"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "惊了！什么时候开始支持匿名者的",
+			"post_uri": "1GNgaj5EqkzqYECYbXa889fGLyuseHRi3t_1507893435",
+			"date_added": 1507893391
+		},
+		{
+			"comment_id": 2,
+			"body": "@Waterfire: 匿名id直接由站点本身签发，而zeroid是原始站点之一，需要直接和zeronet.io交互来获取证书",
+			"post_uri": "13E5tt1YdR4bXsVo9fUUP9mXmHvTb2U8F2_1507947441",
+			"date_added": 1507951013
+		}
+	],
+	"follow": []
+}

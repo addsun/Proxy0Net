@@ -1,0 +1,80 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 10,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Fcu",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1508508934,
+			"body": "新手请去看置顶FAQ，看过一遍后，很多都不是问题了：http://127.0.0.1:43110/gfwtalk.bit",
+			"date_added": 1508508932
+		},
+		{
+			"post_id": 1508511107,
+			"body": "@Zeee: ",
+			"date_added": 1508511104,
+			"meta": "{\"img\":\"900,675,eeedddcccaaa44433322211100089b57b57a233,001010000111222344451221235666122223677611122368861119AB66661223996CC61122235CC6\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "把你博客发出来，让别人帮你做种先",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508507907",
+			"date_added": 1508508676
+		},
+		{
+			"comment_id": 2,
+			"body": "@Comeon: 进去看看就知道了",
+			"post_uri": "1QFjAAmN249dG7gcZ413HbPajWD8DfbxSX_1508508934",
+			"date_added": 1508509740
+		},
+		{
+			"comment_id": 3,
+			"body": "签名后，点发布，快",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508509507",
+			"date_added": 1508509939
+		},
+		{
+			"comment_id": 4,
+			"body": "得了，以后就顺利了。",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508509507",
+			"date_added": 1508510057
+		},
+		{
+			"comment_id": 5,
+			"body": "写点东西看看，写完再签名发布，以后都这样。注意保存好users.json，一定要保存好，丢了，这个网站就无主了。",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508509507",
+			"date_added": 1508510169
+		},
+		{
+			"comment_id": 6,
+			"body": "@Jianhao84: 你的系统时间好像快了吧",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508509507",
+			"date_added": 1508510572
+		},
+		{
+			"comment_id": 7,
+			"body": "@Jianhao84: 以后有问题直接这里问吧，别去qq问了",
+			"post_uri": "1GY2JgHULwxExXrHrGVLgeMaihNN9Qiwn1_1508509507",
+			"date_added": 1508510900
+		},
+		{
+			"comment_id": 8,
+			"body": "@Comeon: 有人注册gfwtalk.bit，重新指向新的中文论坛了",
+			"post_uri": "1QFjAAmN249dG7gcZ413HbPajWD8DfbxSX_1508508934",
+			"date_added": 1508512466
+		},
+		{
+			"comment_id": 9,
+			"body": "@Comeon: http://127.0.0.1:43110/mydf.gfwtalk.bit 这个二级域名是一个已去世的博主：东先生 的博客，可以检验ZeroNet的网站的永存于网络的特性。",
+			"post_uri": "1QFjAAmN249dG7gcZ413HbPajWD8DfbxSX_1508508934",
+			"date_added": 1508512679
+		}
+	],
+	"follow": []
+}

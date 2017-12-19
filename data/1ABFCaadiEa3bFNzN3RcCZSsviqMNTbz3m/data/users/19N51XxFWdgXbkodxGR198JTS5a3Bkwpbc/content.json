@@ -1,0 +1,17 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "HzsyjlOAo3rKhMg7GnSaVCdkM3tgAITSWTrVY7faWorSeT6dWzNnbPBZh6R8nx+OmGWj+lWQPWb2HpeqcuXQKHQ=",
+ "cert_user_id": "comeon@kaffie.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4f94a56030904a12f85f23f1a94cebc5b65d78855409b4471e53b2af81d2a4bc",
+   "size": 129
+  }
+ },
+ "inner_path": "data/users/19N51XxFWdgXbkodxGR198JTS5a3Bkwpbc/content.json",
+ "modified": 1508851413,
+ "signs": {
+  "19N51XxFWdgXbkodxGR198JTS5a3Bkwpbc": "HHk+z7mYyvQyu6vnC8VBE8dcx894GQs73GQ7yEah/1jHM8M5EWSYPXlpt6aoIUBgNx8l1HxqobDQ/M2TDLzlsW0="
+ }
+}

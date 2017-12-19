@@ -1,0 +1,36 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 6,
+	"comment": {
+		"3_195Xafx3aZsxtngKo7D3XWgByQ5rYJX1C": [
+			{
+				"comment_id": 1,
+				"body": "you mean upload my privatekey? i wont do it !",
+				"added": 1507669424
+			},
+			{
+				"comment_id": 2,
+				"body": "encrypt first and then upload -> get hash of user.json.enc \nenter hash of user.json.enc -> download",
+				"added": 1507670014
+			},
+			{
+				"comment_id": 3,
+				"body": "encrypt first and then upload -> get hash of user.json.enc \nenter hash of user.json.enc -> download",
+				"added": 1507670035
+			},
+			{
+				"comment_id": 4,
+				"body": "encrypt and get hash of user.json.enc     ->  upload\nenter hash of user.json.enc -> download\nhow do you think",
+				"added": 1507670552
+			},
+			{
+				"comment_id": 5,
+				"body": "encrypt first and then upload\nsafety first  for reference only",
+				"added": 1507675077
+			}
+		]
+	},
+	"comment_vote": {}
+}

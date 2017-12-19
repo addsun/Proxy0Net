@@ -1,0 +1,28 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HB5TR/bMhvg30zIR6bhQO7DXgfxNoHT83m1xZIHIvZk43cERHxkFscp8bd0pzn7aAnWzu+nt5ANPZcO2WQH7wJQ=",
+ "cert_user_id": "evilpartisan@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "af777c0279fd292c56ecce8a64a2171be36322b5cd9e6cdef0713f56dd5a0adc",
+   "size": 1548
+  },
+  "data.json": {
+   "sha512": "ebbfb74b73dae73df4fe08975628d837d87f49a0534bf3e42bd3da9106bdb3b4",
+   "size": 826
+  }
+ },
+ "files_optional": {
+  "1492449170.jpg": {
+   "sha512": "d693e7e3882f4d3de4e125a4160461962d53049468a6321c66a0bcc07a36522e",
+   "size": 60702
+  }
+ },
+ "inner_path": "data/users/13ZbjhN837WMwU2EY7qneFS58qvEViSQ7N/content.json",
+ "modified": 1492797191,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "13ZbjhN837WMwU2EY7qneFS58qvEViSQ7N": "HOjW/yPJPODF7H3rbvbslA6BjAHgPWu4gWM66ezCrZvsVlVX2huEzO9BjvvJYZ4hFXFuTdsfkSyTb5dY5ETwK38="
+ }
+}

@@ -1,0 +1,39 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 1,
+	"next_follow_id": 2,
+	"avatar": "generate",
+	"user_name": "Kangster",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1474008450,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504655170,
+			"body": "Have some sunset",
+			"date_added": 1504655168,
+			"meta": "{\"img\":\"900,505,454654665766776987898bbaaa8875986ba8222432543111,001234564200123357840129A99B91CDDEEEE1EDFFFFFFFC0DFFFFFFFC0D\"}"
+		},
+		{
+			"post_id": 1504655227,
+			"body": "Just took this",
+			"date_added": 1504655224,
+			"meta": "{\"img\":\"900,570,000111221342553663895784765654544777aa9999bba,00011111102344444443356666677435689A9B6595BBBAA9CCBBCCDB8EED\"}"
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1P5JBRpJuWWyYsWMKLgT5eLDqSYYvdm2cF",
+			"user_name": "Darkarmy",
+			"date_added": 1504655307
+		}
+	]
+}

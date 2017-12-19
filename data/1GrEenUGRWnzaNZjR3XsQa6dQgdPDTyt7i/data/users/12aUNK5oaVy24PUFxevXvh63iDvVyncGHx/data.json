@@ -1,0 +1,586 @@
+{
+	"next_post_id": 18,
+	"next_comment_id": 51,
+	"next_follow_id": 28,
+	"avatar": "jpg",
+	"user_name": "Durand",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "Environmentalist // Social Democrat // Technophile",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1472490366,
+			"body": "안녕!"
+		},
+		{
+			"post_id": 1472505175,
+			"body": "I guess this is going to be dominated by Hello spam for a while! :D",
+			"date_added": 1472505173
+		},
+		{
+			"post_id": 1473207573,
+			"body": "Does anyone else have this problem when deleting a site?\n\n>Internal error: AttributeError: 'Site' object has no attribute 'site'\n> UiWebsocket.py line 99 > UiWebsocket.py line 176 > UiWebsocket.py line 668 > Site.py line 934",
+			"date_added": 1473207570
+		},
+		{
+			"post_id": 1474082877,
+			"body": "Finally watched Zootropolis tonight. Disney totally nailed this one! :D",
+			"date_added": 1474082873
+		},
+		{
+			"post_id": 1474451991,
+			"body": "Anyone got any suggestions on how to embed disqus-like comments on a zeronet site? My comments need to be accessible via a clearnet site and via zeronet.",
+			"date_added": 1474451986
+		},
+		{
+			"post_id": 1474535699,
+			"body": "@Talnicrom: I have an idea for ZeroMePlus. Can you turn hide notifications of comments that were made by yourself? For example, [these notifications](https://ipfs.pics/QmRVNfvrQfLSuMTqaDoZoabmgxXRM2TJ9w66JXDXK8JjuH) are totally pointless - I know I commented on them.",
+			"date_added": 1474535693
+		},
+		{
+			"post_id": 1476676975,
+			"body": "I finally watched [The Big Short](https://g.co/kgs/KOkFck) because it's now on Netflix. It makes my blood boil that we not only let Wall Street get away with all the crap they did but we also rewarded them for destroying our economy. Bankers got huge bonuses and Morgan Stanley is bigger than ever. Nothing has changed. Meanwhile, ordinary people lost their homes and the rest of us had to pay to clean up the mess.",
+			"date_added": 1476676968
+		},
+		{
+			"post_id": 1476734316,
+			"body": "Reading about [Liquid Democracy](https://medium.com/@DomSchiener/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f#.oyr5d477d), a cross between direct democracy and representative democracy. Sounds interesting but I'm not sure how it would prevent ignorant voters from voting against their interests (eg. Brexit).",
+			"date_added": 1476734308
+		},
+		{
+			"post_id": 1478747906,
+			"body": "In light of recent events, here's something I wrote a few weeks ago.\n\nIf you think the current refugee crisis in Europe is bad with barely a few million people, in the next twenty years, over a *billion* people will be forced to leave their homes in search of food and fresh water.\n\n\nThere are hundreds of millions of people presently living in delicate ecosystems, where fresh water is scarce and food security is non-existent. In California, for example, drought will become an increasingly severe problem (it already has water shortages).  200 million people depend on glacial meltwater for survival. 600 million people live near the coast and will have to migrate to higher land when flood defences get too expensive. 1 billion people around the globe rely on coral reefs for food, many of which are dead or dying. Climate Change is the #1 threat to national security, according to the US Department of Defense due to all the conflict it would trigger.\n\n\nWe think of climate change as a one-dimensional issue, of the world becoming warmer and sea levels rising. But the reality is so much more complicated than that. What about fossilised diseases frozen in the Arctic melting? Or mosquitos increasing in range and spreading deadly infections (eg. Zika)? Or trapped methane in the permafrost escaping and causing runaway global warming with a 6-degree rise in average temperatures? Humans have *never* lived in a world of more than a 2-degree rise. How will we cope with this? How will we cope with 2/3 of all wildlife going extinct by 2020? Or extreme wildfires and hurricanes? In the UK, we can barely handle a flood or two a year and it's going to get much worse if we don't change our behaviour.\n\n\nWe first discovered climate change and the greenhouse effect 120 years ago in 1896. Since then we've debated the science and gone into denial. Instead of throwing away that packet of cigarettes when doctors told us that they will kill us, we've decided to attach them directly to our lungs and double down. We'd rather debate about where to build walls and how many refugees to keep out than about how to protect our only home for our children and grandchildren.\n\n\nAs it stands right now, there are clear solutions that we can take. We can push for cheap renewable and nuclear energy and stop subsidising coal and gas companies. We can reduce how much meat (especially beef) we eat and how much we drive and fly. And we can support a price on carbon that will adequately price the damages we do to our planet, which allows our economy to invest in clean energy. The best part is that this is all far cheaper that having to deal with the devastation that climate change will bring! We really, really need to start now.",
+			"date_added": 1478747897,
+			"meta": "{\"img\":\"700,700,8775785539be8aa5999986643341123224ab6bc9de7cd28a,01112333334566106606664617277774888777729A6627A27215461BBCDE1281AFF5FB42178551F5A8906446152011060060\"}"
+		},
+		{
+			"post_id": 1478842319,
+			"body": "Anyone seen this article about ransomware through ZeroNet?\nWe ought to be more careful with security here.\nhttps://blog.checkpoint.com/wp-content/uploads/2016/04/ZeroNetProtocol-DP-4-1.pdf",
+			"date_added": 1478842309
+		},
+		{
+			"post_id": 1479583253,
+			"body": "## Inequality for all (2013)\nEasily the best documentary about inequality that I've seen. It's by Robert Reich too, who seems to be a really cool guy! You can watch it for free on [vimeo](https://vimeo.com/141725998) (password: bernie2016) so you have no excuses not to :)",
+			"date_added": 1479583242,
+			"meta": "{\"img\":\"472,700,ffeeedddda98998443776cccccbbba977966b66b88989,00121000013200004500000160001122211027777018898818ABBCD883EED389999999\"}"
+		},
+		{
+			"post_id": 1479669961,
+			"body": "## Decentralised machine learning for data privacy?\n\nThere are plenty of benefits to be gained from machine learning but most techniques require a large amount of data. For example, automatic tagging of photographs is one simple but useful feature but this requires a large dataset of images.\n\nWe also live in a world where surveillance is a big problem, and as we give up our data to big corporations, this only gets worse. It would be wise to not allow governments and large corporations to have access to so much data without our explicit consent. To solve these two problems, I've been thinking about an alternative solution.\n\nWould it be possible to create a framework whereby the training of algorithms occur on small sets of data and only the end results are aggregated on a large scale in a desynchronised, decentralised fashion?\n\nFor example, let's take face tagging. The current method of tagging used by Facebook involves looking at all the photographs uploaded by users that have been manually tagged and then training their facial recognition algorithm on this large data set. This requires that we give facebook unencrypted photographs to be stored on their servers, as well as a large database of all the facial tags that we manually added to said photographs. This is a huge privacy hazard.\n\nThe alternative: each user encrypts photographs before storing them on facebook's servers. The only people who can see them would be your friends who have keys to the photographs. When you or your friends tag photographs, client-side software on either your phone or your computer uses those tags to train a facial tagging algorithm about the photographs. The results of this training are then uploaded to a server, where they are then collated with other people's results. The final, master algorithm is then used by everyone for auto-tagging of photographs, run locally on the user's computer or phone.\n\nThis alternative strategy reduces the need to open up data to big companies, while we still get the benefits of big data. If users don't want to train data on their own phones/computers, they could have the option of uploading their unencrypted photos to facebook (or another trusted server), at their own risk.\n\nI would love to know what you guys & gals think about this idea. Is it technically feasible? Is it even sensible? This is something that we need in the zeronet world!﻿",
+			"date_added": 1479669949
+		},
+		{
+			"post_id": 1484303454,
+			"body": "Wooohoo, so happy that A Series of Unfortunate Events is now out on Netflix!",
+			"date_added": 1484303441,
+			"meta": "{\"img\":\"900,439,211111333544666444000766555777445322223,0111111111223444552261627789881662335AA51611B22C2A\"}"
+		},
+		{
+			"post_id": 1484378902,
+			"body": "I can't seem to get coffeescript to compile ZeroMe :( Anyone know how to fix it? This is the error I get.\n\n> durand@Deuterium ~/D/Z/Z/d/1/js (master)> coffee ZeroMe.coffee \n> ReferenceError: window is not defined\n>  at Object.<anonymous>  (/home/durand/Desktop/ZeroBundle/ZeroNet/data/1GrDtAugfqzWs3WrF9eSCe33ApnB6Syyaf/js/ZeroMe.coffee:1:1)\n>  at Object.<anonymous> (/home/durand/Desktop/ZeroBundle/ZeroNet/data/1GrDtAugfqzWs3WrF9eSCe33ApnB6Syyaf/js/ZeroMe.coff> ee:1:1)\n>  at Module._compile (module.js:410:26)\n> at Object.exports.run (/usr/lib/coffee-script/lib/coffee-script/coffee-script.js:134:23)\n>  at compileScript (/usr/lib/coffee-script/lib/coffee-script/command.js:224:29)\n>  at compilePath (/usr/lib/coffee-script/lib/coffee-script/command.js:174:14)\n>  at Object.exports.run (/usr/lib/coffee-script/lib/coffee-script/command.js:98:20)\n>  at Object.<anonymous> (/usr/lib/coffee-script/bin/coffee:7:41)\n>  at Module._compile (module.js:410:26)\n>  at Object.Module._extensions..js (module.js:417:10)\n>  at Module.load (module.js:344:32)\n>  at Function.Module._load (module.js:301:12)\n>  at Function.Module.runMain (module.js:442:10)\n>  at startup (node.js:136:18)\n>  at node.js:966:3\n\n@Nofish",
+			"date_added": 1484378888
+		},
+		{
+			"post_id": 1484526454,
+			"body": "**The Trials of A Jester**\n\nTaken in the beautiful Palazzo Ducale on Piazza San Marco in Venice. I was bored one evening and decided to revitalise some of my old photographs with a touch of film emulation. I loved the statue itself but felt that the colour/standard b&w version was a bit lacking in impact. Most of the work was in Rawtherapee, with film noise and basic retouching in The Gimp!\n\nIf you're interested, you can find all of my photographs at full resolution under a Creative Commons licence [here](https://goo.gl/photos/EuSmiug3BQ9dBxnHA)",
+			"date_added": 1484526438,
+			"meta": "{\"img\":\"900,506,777999aaa888666555ccc444ddd333222,0122222345114333200061022130446216634077860305409A60777777AA\"}"
+		},
+		{
+			"post_id": 1485123880,
+			"body": "Love this Calavera print from the 1910s by Mexican artist José Guadalupe Posada! He published a number of these political cartoons which eventually got him in trouble with the local government... and I only know all this thanks to Google Arts & Culture: https://www.google.com/culturalinstitute/beta/entity/m02vw34",
+			"date_added": 1485123863,
+			"meta": "{\"img\":\"534,700,ffedddddcaa8a98ccb876765787777887998987886aa9654,0123444356789AB4CDAABBB344488EE3433AAEEE4BA883BE4EB9933333BBB3E366FD3AB3524CCBBE\"}"
+		}
+	],
+	"post_like": {
+		"161PCrxHPg6RVU2o83863vKy1NoZi59hMq_1472840264": 1472847910,
+		"1Hw2n6KUQ2ppnLbiwb6hqnUdRRcrKwHUy6_1477683553": 1477762021,
+		"19ev8HmfPQ2VC8aWDA4Ck7E2vLYDYFgw9P_1478311564": 1478321563,
+		"13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731": 1478747755,
+		"12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478747906": 1478842392,
+		"1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041": 1478854710,
+		"17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1479646714": 1479669850,
+		"1KiMJsULUcZVNSJb1bbhyN2XQ7m1Fb3SLD_1479629093": 1479670532
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This is great! George Monbiot is an awesome journalist :)",
+			"post_uri": "161PCrxHPg6RVU2o83863vKy1NoZi59hMq_1472840264",
+			"date_added": 1472847908
+		},
+		{
+			"comment_id": 2,
+			"body": "It supports anything you like that doesn't need server side processing. I think the main limit is who is willing to seed your site and how big the files are (people will not want to seed sites with big files).",
+			"post_uri": "19ANCfCYFWovsscm6SyjcaD6U3qGJkHUNm_1473206885",
+			"date_added": 1473207535
+		},
+		{
+			"comment_id": 3,
+			"body": "@Hannatas: No problem! If you do have big files, you can make them optional to download so that your site still gets seeded :) ",
+			"post_uri": "19ANCfCYFWovsscm6SyjcaD6U3qGJkHUNm_1473206885",
+			"date_added": 1473208226
+		},
+		{
+			"comment_id": 4,
+			"body": "D'oh. Sorry, I thought I already checked if I was up to date! It works now :) Thanks @nofish!",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1473207573",
+			"date_added": 1473219164
+		},
+		{
+			"comment_id": 5,
+			"body": "Try this clone on ZeroMe: [ZeroMePlus](/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6/)",
+			"post_uri": "19X4kuVbyrH3kcMzk3w2hYFMbQXwqxBAiB_1473788388",
+			"date_added": 1473824713
+		},
+		{
+			"comment_id": 6,
+			"body": "Doesn't have to be open unless you're publishing your own website.",
+			"post_uri": "17tpqoZw9eG2MQq6C3CVZ9MVxJxLTtCPZC_1474403269",
+			"date_added": 1474418486
+		},
+		{
+			"comment_id": 7,
+			"body": "@Kopykate: yeah, that's the reason it doesn't work. JS security :/ I guess there's no way to break out of the iframe either. ",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474453865
+		},
+		{
+			"comment_id": 8,
+			"body": "@tkarita: Thanks. I tried it but I still can't get it to unsandbox. The function just returns false... maybe the ZeroFrame API can help",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474459327
+		},
+		{
+			"comment_id": 9,
+			"body": "@Talnicrom: I was planning on using github pages to host my clear net site. I'd rather not host a full zeronet proxy but I had a similar idea to you where there was a bridge to create a new zeroid profile to comment with (perhaps even using OAuth) and whenever someone comments, a little program runs in the background to update the relevant users.json file. If the person wanted, they could get access to the private key of their user id to directly comment via zeronet. Otherwise, they'd be able to comment via my proxy. The only problem with this system is that I would have access to the zeroid private key myself - although I suppose that's not much different from using disqus or a similar system.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474451991",
+			"date_added": 1474534986
+		},
+		{
+			"comment_id": 10,
+			"body": "@tkarita: It's a good idea but I would totally recommend *against* automatically seeding every new site on that list. You don't know what you're sharing with other people..",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
+			"date_added": 1474535281
+		},
+		{
+			"comment_id": 11,
+			"body": "@Elspru: I don't mean you but the people seeding websites. New 0Net Sites suggests auto-adding every site added to that list but I think it's a terrible idea.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474517578",
+			"date_added": 1474552918
+		},
+		{
+			"comment_id": 12,
+			"body": "@Talnicrom: Sweet, thanks! You're very quick at this! I had to toggle notifications off and on for it to work.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1474535699",
+			"date_added": 1474622856
+		},
+		{
+			"comment_id": 14,
+			"body": "You just need to add your private key to zeronet/data/users.json under your site address with \n`\"privatekey\": \"your private key here\"`",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474625191
+		},
+		{
+			"comment_id": 15,
+			"body": "@Hankrearden: That's always been a problem with git. You shouldn't have to commit your zeronet folder though, unless you're actively developing zeronet itself, surely?",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474629079
+		},
+		{
+			"comment_id": 16,
+			"body": "@Hankrearden: Nope. dldx on github too.",
+			"post_uri": "1A3XsuLB6P7LQPCw1QWASG7RGSwrCv6Xib_1474557462",
+			"date_added": 1474647801
+		},
+		{
+			"comment_id": 17,
+			"body": "All I see is \"Awaiting Torrent\"",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474648977",
+			"date_added": 1474651313
+		},
+		{
+			"comment_id": 18,
+			"body": "I'm pretty sure tor blocks most bittorrent traffic..",
+			"post_uri": "1F1kDrT693w8ATbcXV1wHmGSD6SpSY4f5L_1474649220",
+			"date_added": 1474651355
+		},
+		{
+			"comment_id": 19,
+			"body": "Private content should be possible with encryption.. But it's a little complicated to develop I guess.",
+			"post_uri": "19iqSTEtbgmfZ4DVgHd3rZfMETR3GjkVzp_1475727126",
+			"date_added": 1475767836
+		},
+		{
+			"comment_id": 20,
+			"body": "hi!",
+			"post_uri": "1QFxFBXZPQs5ezpvE1Atf5Eexi1qKD3t4R_1476618399",
+			"date_added": 1476675942
+		},
+		{
+			"comment_id": 21,
+			"body": "@Planteater: Pretty much :/",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476676975",
+			"date_added": 1476721387
+		},
+		{
+			"comment_id": 22,
+			"body": "@ks: Why do you think it's a myth?",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
+			"date_added": 1476738505
+		},
+		{
+			"comment_id": 23,
+			"body": "@Planteater: In the US, there are many working-class Republicans who vote to lower taxes on the rich (which in turn means that more revenue comes from the working classes like themselves because government spending has never been reduced). This doesn't make any sense. I think they're being prayed upon due to their mistrust of other races and their economic insecurity but I don't see any valid reasons to vote Republican as a poor person..",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
+			"date_added": 1476827190
+		},
+		{
+			"comment_id": 24,
+			"body": "It works!",
+			"post_uri": "1FV2f6u9UJFhhUzaPXmxyDh8Mb1nbfk3rX_1476827679",
+			"date_added": 1476830392
+		},
+		{
+			"comment_id": 25,
+			"body": "@Planteater: The Brexit vote has left me pretty pissed off about direct democracy. I'm not sure that I want ignorant people deciding on things they don't know about. For example, I have no idea about farming or fishing and don't want to decide on laws about it. However, I at least know that I don't know much about it. There are plenty of people who think they are experts in economics/immigration/foreign policy despite having not studied them at all. These people would rather vote for irrational policies than delegate their votes. Democracy is a fine line and our current system is bad but that doesn't mean that we have to completely change it for something equally bad.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
+			"date_added": 1476903556
+		},
+		{
+			"comment_id": 26,
+			"body": "@Rozruch: I'm also concerned about that. That's why I'm not convinced about either Liquid Democracy or Direct Democracy yet.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1476734316",
+			"date_added": 1477191288
+		},
+		{
+			"comment_id": 27,
+			"body": "Hi! I'm here to talk :) ZeroNet is probably a bit confusing at first but you'll get used to it. Be sure to use [ZeroMePlus](http://127.0.0.1:43110/1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6) instead because it has a few more features you might appreciate - like the ability to flag spam and block unwanted people.",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1478290463",
+			"date_added": 1478320935
+		},
+		{
+			"comment_id": 28,
+			"body": "Just like twitter.",
+			"post_uri": "15ug5RbSdRTRBRKcXyhsqpTMKp89FTn9uX_1478313939",
+			"date_added": 1478321589
+		},
+		{
+			"comment_id": 29,
+			"body": "Hi!",
+			"post_uri": "13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731",
+			"date_added": 1478747758
+		},
+		{
+			"comment_id": 30,
+			"body": "@Hexagon: Lol! Only one way to find out? ",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478747906",
+			"date_added": 1478841077
+		},
+		{
+			"comment_id": 31,
+			"body": "@Abcdefghi: I don't know many but if you go to a proxy like bit.no.com, you'll see quite a few that you can browse: https://bit.no.com:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/\n\nDon't click on links you don't understand and be careful!",
+			"post_uri": "13Jo6eFeig3usqrZvDVvYychPecgRV3cu7_1478747731",
+			"date_added": 1478842234
+		},
+		{
+			"comment_id": 32,
+			"body": "Hey!",
+			"post_uri": "1LjowQf1Ux9SC7SEZ17Yi2fMWisHQRS6AE_1",
+			"date_added": 1478843364
+		},
+		{
+			"comment_id": 33,
+			"body": "Indeed.",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1478844041",
+			"date_added": 1478854718
+		},
+		{
+			"comment_id": 34,
+			"body": "@Eibriel: I realise that but considering how people just randomly click on links on ZeroNet, there's also the possibility that they will accidentally distribute RansomWare. It's only a matter of time before we get people hijacking popular zeronet sites to distribute viruses, spread spam and create DDOS attacks. I use linux so I don't really worry about getting ransomware but I do worry about accidentally spreading it to other people!\n\n@Flyman: If you use Windows, you should definitely get antivirus. Even MS' own anti-virus is good enough these days. But for ransomware, I think the best solution is actually just to keep backups of your data because you wouldn't want to pay money to someone to get your files back!",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478842319",
+			"date_added": 1478855066
+		},
+		{
+			"comment_id": 35,
+			"body": "@Flyman: So how do you transfer data to it? Viruses can be transmitted through usb too..",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1478842319",
+			"date_added": 1478932383
+		},
+		{
+			"comment_id": 36,
+			"body": "If it's anything like the brexit vote, it's going to get even worse.",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1479015855",
+			"date_added": 1479043473
+		},
+		{
+			"comment_id": 37,
+			"body": "@Shellbound: Absolutely. What's happening in Austria, France and Germany are just as worrying.. :(",
+			"post_uri": "1H5VKNWtkBA7RpJWyYuFw5bqjwbgjXoqKp_1479015855",
+			"date_added": 1479137003
+		},
+		{
+			"comment_id": 38,
+			"body": "No, not yet.. You can access it through a proxy but there aren't any mobile friendly sites yet.",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479579779",
+			"date_added": 1479582832
+		},
+		{
+			"comment_id": 39,
+			"body": "You should also check out gmic too. It has a few 3d conversion plugins.",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479561150",
+			"date_added": 1479583061
+		},
+		{
+			"comment_id": 40,
+			"body": "@Great Sick: Yeah, I do that with a raspberrypi :)",
+			"post_uri": "152kdpXWPevMLNm7755GKuzQPsu71bs13t_1479579779",
+			"date_added": 1479589659
+		},
+		{
+			"comment_id": 41,
+			"body": "I guess we just wait until it is improved!",
+			"post_uri": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt_1479646714",
+			"date_added": 1479669877
+		},
+		{
+			"comment_id": 42,
+			"body": "Definitely :D",
+			"post_uri": "1KiMJsULUcZVNSJb1bbhyN2XQ7m1Fb3SLD_1479629093",
+			"date_added": 1479670557
+		},
+		{
+			"comment_id": 43,
+			"body": "@Eibriel: Yeah, I'm sure it must be possible but I couldn't find much more than academic papers by googling for it. Maybe I'm using the wrong search terms.. \n\nEDIT: I was searching for \"desynchronised neural networks\". \"asynchronous machine learning\" gives me a lot more relevant results: http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks\n\nSomeone on G+ pointed [this research paper](https://arxiv.org/abs/1602.05629) out.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961",
+			"date_added": 1479677911
+		},
+		{
+			"comment_id": 44,
+			"body": "@Linkerlin: That's the idea. It's a bit complicated in practice though..",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1479669961",
+			"date_added": 1479768260
+		},
+		{
+			"comment_id": 46,
+			"body": "Just don't click on any links you don't understand and you'll be fine! :)",
+			"post_uri": "19SMDgYNqtZfSS3XSAWceB6S6JDtHA5c2B_1479806881",
+			"date_added": 1479872617
+		},
+		{
+			"comment_id": 47,
+			"body": "Also doesn't work great with touchscreens.. I still prefer the original Opera!",
+			"post_uri": "1QFcL2PapA8NuvNWeHCafHaMPJcXgmb55i_1484240076",
+			"date_added": 1484276386
+		},
+		{
+			"comment_id": 48,
+			"body": "@Mathkruger: Only managed to watch the first couple of episodes but it's pretty good so far. It has an unusual filming style though O.o",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1484303454",
+			"date_added": 1484365285
+		},
+		{
+			"comment_id": 49,
+			"body": "@Nofish: Thanks, that worked.. but how do I generate all.js?",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1484378902",
+			"date_added": 1484393822
+		},
+		{
+			"comment_id": 50,
+			"body": "Wait, nevermind. It works now with --debug. The problem was that I used /usr/bin/coffee rather than just coffee in the argument list.",
+			"post_uri": "12aUNK5oaVy24PUFxevXvh63iDvVyncGHx_1484378902",
+			"date_added": 1484393943
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 2,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "161PCrxHPg6RVU2o83863vKy1NoZi59hMq",
+			"user_name": "Forteller",
+			"date_added": 1472847952
+		},
+		{
+			"follow_id": 3,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1NWh3WAty57FH8at1WtrZigMrdhrDkuPzh",
+			"user_name": "Kaffie",
+			"date_added": 1473030924
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1473031020
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1H1SHzxnPJS3hBbKvfXLqf4QJnXEUgaVe9",
+			"user_name": "Shellbound",
+			"date_added": 1473127234
+		},
+		{
+			"follow_id": 6,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "19M1DT5vruSATEcbEczYRwCk2uPuLcATBa",
+			"user_name": "Talnicrom",
+			"date_added": 1473444267
+		},
+		{
+			"follow_id": 7,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1GervYZoP82e8X1Rgc4wyMkJY2zSsJuq8t",
+			"user_name": "tkarita",
+			"date_added": 1474468153
+		},
+		{
+			"follow_id": 8,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "12EgeG4vgNHzuPJYZqVJQwy2W9vkywbQQu",
+			"user_name": "PaintNinja",
+			"date_added": 1474468155
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16AFTG7vdicwJbRQpWc2F9BRHTE5MTftE7",
+			"user_name": "Shift",
+			"date_added": 1474534219
+		},
+		{
+			"follow_id": 10,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "14jDYQEDwSAeKNsi7Hg9dGhPdtNV7qzCvG",
+			"user_name": "Dumi",
+			"date_added": 1474620176
+		},
+		{
+			"follow_id": 11,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1CN6kKKe8sNoYJBXFGm8J2RKr1RXpedQBk",
+			"user_name": "Hankrearden",
+			"date_added": 1474623062
+		},
+		{
+			"follow_id": 13,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LxkfGxtWhktAJ5WJ9ZnKxksTSH37qm8cC",
+			"user_name": "Firebox",
+			"date_added": 1474651390
+		},
+		{
+			"follow_id": 14,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi",
+			"user_name": "Eibriel",
+			"date_added": 1478032077
+		},
+		{
+			"follow_id": 15,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "17ac9ybVj5CtUpBvi5NeP1EwNZjfJoZWvt",
+			"user_name": "Binero",
+			"date_added": 1478320995
+		},
+		{
+			"follow_id": 16,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EJ7j6nGoz84S8eYsfEmYA6hF9vV4nKkR4",
+			"user_name": "Zerg",
+			"date_added": 1479679449
+		},
+		{
+			"follow_id": 18,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1L3deY1C8BW1MkqHJNX4kdG12zuEGed42F",
+			"user_name": "Cunnected",
+			"date_added": 1479679494
+		},
+		{
+			"follow_id": 19,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "133PfjoNP94oHC3GczL9e7SCKoeKEMyCDJ",
+			"user_name": "G1tich",
+			"date_added": 1483425751
+		},
+		{
+			"follow_id": 20,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18cSYDgTfMB255SDgQM9EuoyWu78MhWfNj",
+			"user_name": "Martinv",
+			"date_added": 1483939503
+		},
+		{
+			"follow_id": 21,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "15NScazvsCHNmiXi6o6nvaMiwjeJYizgZQ",
+			"user_name": "Musickiller",
+			"date_added": 1484098822
+		},
+		{
+			"follow_id": 22,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "16nArdxrSaNThNp83kL8E6NLL9WD98iUne",
+			"user_name": "Jayofthezero",
+			"date_added": 1484098874
+		},
+		{
+			"follow_id": 23,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1EErpRfR94YZwEMpAwsGKYsgSqHuRxvWib",
+			"user_name": "megfault",
+			"date_added": 1484098902
+		},
+		{
+			"follow_id": 24,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1LWuc6JBhUGrKEAh1aPrPU85dEMcKmg3pS",
+			"user_name": "ZAlex",
+			"date_added": 1484098931
+		},
+		{
+			"follow_id": 25,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1Faps7c2HR7yTGPWYDUiEjVXix1CsjttMh",
+			"user_name": "Uplink",
+			"date_added": 1484099650
+		},
+		{
+			"follow_id": 26,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Hc2G1REnkmsVL6AKFJJUTnb9LxkHydXVu",
+			"user_name": "Mathkruger",
+			"date_added": 1484365224
+		},
+		{
+			"follow_id": 27,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR",
+			"user_name": "weakish",
+			"date_added": 1484526190
+		}
+	],
+	"settings": {
+		"reverse_comment_order": true,
+		"mute_ugly": true,
+		"mute_spam": true,
+		"mute_blocked": true
+	},
+	"blocked": [
+		"1Kkc5j5xrEJevvV6sBqCrW93dscMVGbcDY",
+		"1MdwjTFbwpWCLfyo2ZjeXzB7DbL7euNPBi",
+		"1aKE86erdBaK2dKXd6uLEXbn2GBoptohG",
+		"1M5S5iwDzmj3yvzaf753c9qDckz3Vx5Qxo",
+		"1NQvmcUkean3BWS9N88P9dKYnP1TAB5kHz",
+		"1JVtiH7RA45sc7efV5Xdpai4gwUvHm18fm",
+		"1KLuQcCWFTWUpmtnRd3UJdyxUHWvXS5tBv",
+		"1ArVAHkGKYqRo2jQ1oPHjkFVHkYDvuBoci"
+	],
+	"flags": {},
+	"comment_like": {
+		"1AxLMGKjSdsL3Sxa2x1WHJmoap3Z93YdCm_6": 1478932397
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HKzg4qu05bLh7q3k2djpcvGcHtLgHmEK/6njn2StB3SY78NXBPLG9ejwK+Cw7nIsp/KLI1zW4DeYOIIxcHxR8SQ=",
+ "cert_user_id": "cossack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a5c5831a34c51780068f25896abdbbc3a4dccc5517cb3e3526e1e82144bea418",
+   "size": 338
+  }
+ },
+ "inner_path": "data/users/1PmrjFoFkLpo4s6rmWztKddLwDq62cSQ5C/content.json",
+ "modified": 1504846743,
+ "signs": {
+  "1PmrjFoFkLpo4s6rmWztKddLwDq62cSQ5C": "G9c1EVb3eVQAygt4zlBmIViXBgsUXnbierAwN3MfGPGmP00/lajdasarJ2gCkLOLIg2l/ZSFs/cDbhbVqNm04Io="
+ }
+}

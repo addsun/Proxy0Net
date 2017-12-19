@@ -1,0 +1,17 @@
+{
+ "address": "1CouTPX7rK6cyffPCyyxttdZhB1u7NPtqz",
+ "cert_auth_type": "web",
+ "cert_sign": "HHmuNVaIryouAAQRAtV1SJ/nwho6ikafANTSxVWRs1XgtP0VqfITzj9ietRuOTTihYoCMMDaKnMHmgvIHbix/A8=",
+ "cert_user_id": "pensive@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "176eebddfc9b2d5cef9b97cd7164d701aa98ee621b74bfa0f0d1d1b321dc0071",
+   "size": 359
+  }
+ },
+ "inner_path": "data/users/12qVvFnVhrN5XeYRv6do3adHNnYDpLKXxB/content.json",
+ "modified": 1495437151,
+ "signs": {
+  "12qVvFnVhrN5XeYRv6do3adHNnYDpLKXxB": "G0hsgqmZ7rlRGWPGVXu3z2LwMJHwMFAQQhwmLMLuKpOKDhWnx+o/jEmscxjqwlV+92INAYdeXgcaxA09/tteQW0="
+ }
+}

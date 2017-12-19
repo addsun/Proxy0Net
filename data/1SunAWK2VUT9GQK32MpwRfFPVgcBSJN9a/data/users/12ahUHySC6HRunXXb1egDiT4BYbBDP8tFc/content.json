@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HIf8IV759Fy+nsi51aD8uK1oBsPY6MlAqbVFvfEnSmYufc7KqcfaSbNd9NcBRHA0zPkv6Kp+iOPhWuH6yknXZ4k=",
+ "cert_user_id": "teslakun@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "75a8b987c1c55974d4f8db9e66fc9b8f19ede75b60de93d263a0953485bd11a0",
+   "size": 1155
+  },
+  "data.json": {
+   "sha512": "daea8083dfc2c9d16f60a54d759c3eb9b600837bf3a30867b22fd3253dd1d00f",
+   "size": 1180
+  }
+ },
+ "files_optional": {
+  "1512309971.jpg": {
+   "sha512": "ceb1c4c3768e70b22e773e1fb4cf6581588b3b6ee6f6a46d7849e1300e8e96d2",
+   "size": 67306
+  }
+ },
+ "inner_path": "data/users/12ahUHySC6HRunXXb1egDiT4BYbBDP8tFc/content.json",
+ "modified": 1512404822,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "12ahUHySC6HRunXXb1egDiT4BYbBDP8tFc": "G83kbTF7uBrGvZw72oSdh6TISxjsaHlEbgka2kEixVYtYTfzUUywJYk+txIPhVvxCe5UwhiiOQy27sArmQfv2SE="
+ }
+}

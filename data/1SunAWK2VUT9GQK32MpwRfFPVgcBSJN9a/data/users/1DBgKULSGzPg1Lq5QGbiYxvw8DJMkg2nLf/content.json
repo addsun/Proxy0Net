@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G3bgrbXOCfEJTpn8Ueob09F4yO0gCrJcqqKI0xek1Ri0q1ZSkERkAOOQ1lR9uou+vn+0LHxy0eJPypy4rfybyvc=",
+ "cert_user_id": "ectalizero@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "949dd46e21c63677954ce4fc9ca416f5ba519360ed9f4e347a5034a8789d9329",
+   "size": 1380
+  },
+  "data.json": {
+   "sha512": "767296264b1aee222b241efd8ead8a9864fc4c1a177b7a0b530a19de9b91c103",
+   "size": 1014
+  }
+ },
+ "files_optional": {
+  "1509715626.jpg": {
+   "sha512": "c4506fec6f3020f6bee049474f9f0a1892270347582a1476b385b1aad09483e1",
+   "size": 70909
+  }
+ },
+ "inner_path": "data/users/1DBgKULSGzPg1Lq5QGbiYxvw8DJMkg2nLf/content.json",
+ "modified": 1509812830,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1DBgKULSGzPg1Lq5QGbiYxvw8DJMkg2nLf": "G0UbsgiCMEvAkjzjkuUJOcxIA7PTH6rq7Q4WkqADDd4uJftXYLidD34cNwATuqsnvnMDXSs+ZqciKQaQHmVhoDM="
+ }
+}

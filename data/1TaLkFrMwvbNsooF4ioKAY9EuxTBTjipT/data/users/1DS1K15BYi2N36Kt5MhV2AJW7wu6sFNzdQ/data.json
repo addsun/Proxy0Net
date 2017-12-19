@@ -1,0 +1,52 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"3_17vKbxL13KnzGATstqawXSG2oiQygmdkcX": 1,
+		"1_164x9q7LJPLX4SMbhqLPraKAGZRPa2gTFe": 1,
+		"1_1PmhvqNCvuZCTE36ycrp7Qa9gQW1tF3AAF": 1,
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": 1,
+		"1_13kimmZahuVSK16LDm8LLLMFQ2zyCLGKzD": 1,
+		"1_1Ey4hYTcoTAGEbZM7UuMTNr24SH4LySwrP": 1,
+		"1_1FoBePyJrNaeE6ik2eukxFHG8MKhGVRAy3": 1
+	},
+	"next_comment_id": 6,
+	"comment": {
+		"2_12UhiqqmEFy9e5iDphNwnugKQrhWMMAP3J": [
+			{
+				"comment_id": 1,
+				"body": "there shoud be a better P2P link YacY but faster and with organized automatik krawling",
+				"added": 1492784203
+			},
+			{
+				"comment_id": 2,
+				"body": "*like *crawling",
+				"added": 1492784252
+			}
+		],
+		"1_1PmhvqNCvuZCTE36ycrp7Qa9gQW1tF3AAF": [
+			{
+				"comment_id": 3,
+				"body": "i think i2p is great but have bandwith-problems, tor is good, and zeroNet should run on top of both instead on clearnet! -> good CDN",
+				"added": 1499719833
+			}
+		],
+		"5_14UupgrdnT7Y8vMES7aqUFgD1fC5RYNrh8": [
+			{
+				"comment_id": 4,
+				"body": "Benchmarking ZeroNet 0.5.6 (rev2128) Python 2.7.11 |Continuum Analytics, Inc.| (default, Dec 6 2015, 18:08:32) [GCC 4.4.7 20120313 (Red Hat 4.4.7-1)] on: linux2...\n\nCryptBitcoin:\n- hdPrivatekey x 10..........0.105s [x6.67: Insane!!]\n- sign x 10..........0.173s [x2.02: Fast]\n- openssl verify x 100..........0.061s [x6.05: Insane!!]\n- pure-python verify x 10..........0.132s [x12.11: Insane!!]\n\nCryptHash:\n- sha256 5M x 10..........0.141s [x4.24: Insane!!]\n- sha512 5M x 10..........0.101s [x5.92: Insane!!]\n- os.urandom(256) x 1000..........0.018s [x0.36: Ehh]\n\nMsgpack: (version: 0.4.6)\n- pack 5K x 10 000..........0.179s [x4.36: Insane!!]\n- unpack 5K x 10 000..........0.315s [x3.81: Insane!!]\n- streaming unpack 5K x 10 000..........0.339s [x4.13: Insane!!]\n\nDb: (version: 3.9.2, API: 2.6.0)\n- Open x 10..........0.026s [x4.94: Insane!!]\n- Insert x 10 x 1000..........0.361s [x2.77: WOW]\n- Buffered insert x 100 x 100..........1.123s [x1.16: OK]\n- Total rows in db: 20000\n- Indexed query x 1000..........0.051s [x4.90: Insane!!]\n- Not indexed query x 100..........0.114s [x5.25: Insane!!]\n- Like query x 100..........0.253s [x7.12: Insane!!]\n\nCompression:\n- Zip pack x 10..........0.197s [x0.61: Goodish]\n- Zip unpack x 10..........1.325s [x0.15: Sloooow]\n- Tar.gz pack x 10..........0.134s [x2.24: Fast]\n- Tar.gz unpack x 10..........0.109s [x1.84: Fast]\n- Tar.bz2 pack x 10..........1.275s [x1.57: Fine]\n- Tar.bz2 unpack x 10..........0.207s [x2.42: Fast]\n\nDone. Total: 7.70s",
+				"added": 1499779344
+			}
+		],
+		"1_1KjKGbXe5KwQkmHdtsyhp1TzRieGu3wPBw": [
+			{
+				"comment_id": 5,
+				"body": "EU",
+				"added": 1500314353
+			}
+		]
+	},
+	"comment_vote": {
+		"220_1HYB4Pe6irbQgDbeKm1zeFD7M8pdbksFeS": 1
+	}
+}

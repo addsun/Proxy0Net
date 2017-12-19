@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HLwbSe+MK3fd730Nj/RRn+mlTeYAQgKNT4lyy/PV23dZ++RrKNClm6mm3JEM+IQfRmUGygDuYv/ehkwLV74XL+k=",
+ "cert_user_id": "venchia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c283042eda2868743926c628c12c85788f817c2e5853d52455e26ee092aabd4f",
+   "size": 646
+  }
+ },
+ "inner_path": "data/users/1L5V1qAz5eV4X1tUJfHgzngVXHubxZqCoq/content.json",
+ "modified": 1508065814,
+ "signs": {
+  "1L5V1qAz5eV4X1tUJfHgzngVXHubxZqCoq": "HCv74SIHHK8xgWsdukIN+3srSj1PJ30FQOUPxYG3/6V4byQR/Q/TwDiLYYiz1tc7n1eU2TuKoD7CIus6IHYHyLk="
+ }
+}

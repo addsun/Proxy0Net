@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "GyrCqrtw7J8YjD+LGYQZyiF2TVPuohfWO2UtFFVx06pTTLKFyONS/fbDOC6rowlNENreSPJL7YF73bU8/8k3300=",
+ "cert_user_id": "gregprime@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "955292684d09abeb3a6b9b1c4a2f989b6d417239956982651dc16ce15af3378d",
+   "size": 530
+  }
+ },
+ "inner_path": "data/users/1NX1RcMXEtfwYkpPsHDPXpsCvaB1HSXcjE/content.json",
+ "modified": 1506121646,
+ "signs": {
+  "1NX1RcMXEtfwYkpPsHDPXpsCvaB1HSXcjE": "GzAgQ5eCfvKUJitS1hCkc99Ramx1+IWEpEOq5qa/rz6LfD7EZ7hriTv07WMnr0go5sR7tUkZxeauli3P83anTCo="
+ }
+}

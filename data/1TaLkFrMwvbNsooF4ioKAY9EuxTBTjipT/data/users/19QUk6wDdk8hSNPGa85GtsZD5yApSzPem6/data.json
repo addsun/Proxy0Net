@@ -1,0 +1,23 @@
+{
+	"next_topic_id": 2,
+	"topic": [
+		{
+			"topic_id": 1,
+			"title": "zeronet newbie here",
+			"body": "Hey! Any method for setting zeronet to open in tor automatically without setting tor as the default browser?",
+			"added": 1505417070
+		}
+	],
+	"topic_vote": {},
+	"next_comment_id": 2,
+	"comment": {
+		"1_19QUk6wDdk8hSNPGa85GtsZD5yApSzPem6": [
+			{
+				"comment_id": 1,
+				"body": "Thanks. Yeah, I meant using the tor browser, not tor enabled in firefox. But I set zeronet as homepage in tor browser, guess that gets the job done without having to set the tor browser as default",
+				"added": 1505419885
+			}
+		]
+	},
+	"comment_vote": {}
+}

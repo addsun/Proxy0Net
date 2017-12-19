@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HBw/VmqnIk0/RgwWH4qi1nIkx/N8LlTtAWIHoGhwdgfCSHhZGaalcVlG0ftdNPZG3iUzOvIf6bc3DVJeNfSyo1I=",
+ "cert_user_id": "bisclavret@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "a2bc788b7df9b0f3151e20858b479a153d5385ea9628c69e920bafb0ea4d8eb7",
+   "size": 924
+  },
+  "data.json": {
+   "sha512": "5b163a076869473d55abdff291a32027af243f7ef3f3ebdb62284944e4c3fb54",
+   "size": 317
+  }
+ },
+ "inner_path": "data/users/16gS7bgGDyPiXPMwGMJHW5kH1vmmwELCLb/content.json",
+ "modified": 1513023492,
+ "signs": {
+  "16gS7bgGDyPiXPMwGMJHW5kH1vmmwELCLb": "HPcp2/NGk5VQP836ilIa7favzLo/sdSf/4rmYCQmZ/8ZS0Q/rR4rfCHg6k+DM1O3VQ4tpxTyNCwC9T+BC2QSkU8="
+ }
+}

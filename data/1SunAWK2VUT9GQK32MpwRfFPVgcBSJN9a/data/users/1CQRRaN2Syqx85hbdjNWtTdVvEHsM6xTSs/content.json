@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G9STawk2h3bjBQON2HOFw5dxX6nimjiwapdSLWdnXcd8OwnO4B1IDJFktLAq0dum0I0PBl4z0qjHStKCThqehBM=",
+ "cert_user_id": "malamute@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6295d58512dcf75a426edb2a564cddc5a6a33f8afbd6c0114f2a82f48f5ad2a5",
+   "size": 4557
+  }
+ },
+ "inner_path": "data/users/1CQRRaN2Syqx85hbdjNWtTdVvEHsM6xTSs/content.json",
+ "modified": 1503013300,
+ "signs": {
+  "1CQRRaN2Syqx85hbdjNWtTdVvEHsM6xTSs": "GxdcMVfy4pNxcCcOUMAFOjo+GsE271qt//CbUf7fiQXgD4UggAXI0hLKmBPj73MVIlnlosRfbw3X48vlMN0piD0="
+ }
+}

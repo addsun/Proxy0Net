@@ -1,0 +1,22 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "HA63aXuoDCKm1s5yneZjtXMWimbz3ymnEPapUI3IO7n9eE3g+JtUL7+G2wfH0sqCJrxcyQtCZTr4zVSmZWlexfc=",
+ "cert_user_id": "pinkk7465@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "d069e9d9446a119cda83df972d58d00d11c0749c0881a1974c947d24935bd7ee",
+   "size": 1607
+  },
+  "data.json": {
+   "sha512": "5f3b1363321da2da4693d7b43c078a330523900b6eea6d5bda5e0d5ba92d12c3",
+   "size": 12070
+  }
+ },
+ "inner_path": "data/users/1BnSx1AaPuFnpi1ufDgPdDudVxqV1yt7t8/content.json",
+ "modified": 1483762787.116349,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1BnSx1AaPuFnpi1ufDgPdDudVxqV1yt7t8": "G63BR5EU/yG3nD6tCedpzlM4DC5e4ZRKNW73X/E7TcIZsL0M6KyQaEzaQzEMv3a5Pf2Hu7yVkWJMNyktQlaq/Ng="
+ }
+}

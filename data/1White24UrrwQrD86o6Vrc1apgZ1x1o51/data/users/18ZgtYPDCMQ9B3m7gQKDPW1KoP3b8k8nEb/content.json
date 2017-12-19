@@ -1,0 +1,17 @@
+{
+ "address": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+ "cert_auth_type": "web",
+ "cert_sign": "G2CDTGKjOYt6ZZp02CF0e4wxm6wF81nFKADZO8od103++QuhnpoSfRjawiKQfYFt9isPZ2N2byBlrpiOFEDO/wU=",
+ "cert_user_id": "whore@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2922e8b42d510bb1c3b4724aeb9c1f02ee89d9f391fece28b96baf88c3ce970",
+   "size": 336
+  }
+ },
+ "inner_path": "data/users/18ZgtYPDCMQ9B3m7gQKDPW1KoP3b8k8nEb/content.json",
+ "modified": 1500027127,
+ "signs": {
+  "18ZgtYPDCMQ9B3m7gQKDPW1KoP3b8k8nEb": "HHmacZzSNU66coAG4bdNAW+MlsEwqve8J+wep0T2Qa0YGyCTMDnPpwJlt0n1s+PEyXdW6FSKZOwqChGjHwAkFFg="
+ }
+}

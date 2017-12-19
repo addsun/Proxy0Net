@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJz/317Fvp5xChIin4UIRPn07g2RuWUKYlHr8OmISyvRDiJkpEtNO+4zmZfkz8NB6/Mg9AQHtwXzl0nc/drZ8nE=",
+ "cert_user_id": "bemis@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6b8a29b0e64751883ecee77a226e95fd71db49401c93d85a8a5678f825c3b18e",
+   "size": 300
+  }
+ },
+ "inner_path": "data/users/15RYpjMmMCXGFFPVvUCjPgx83FYnATZP64/content.json",
+ "modified": 1503018935,
+ "signs": {
+  "15RYpjMmMCXGFFPVvUCjPgx83FYnATZP64": "HDY1pzouRWCsaLmIvCioHiLaC2FbBFqVU8CdJfH3nQwcIvtpUMDARjo3MiNPHA+anFph/zJaOrTUFuiIe9l/1co="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HAu14NNyTbDsR46O8K1Xj+TbuIVUg0hOBUq0FHiMJMGSOO1/QKcz7Ss6CaKciIpTtjmirPiRqKNUojREDX7Qwno=",
+ "cert_user_id": "drdaeman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "adab0d2e75e79c4ba3c90e9a8dd96e174fafc3bfe7f0ab0d9026edb5ad32282d",
+   "size": 613
+  }
+ },
+ "inner_path": "data/users/176bTFqJeZeP69KuL1A26aRHDAhV2rmbCE/content.json",
+ "modified": 1508777475,
+ "signs": {
+  "176bTFqJeZeP69KuL1A26aRHDAhV2rmbCE": "HG9iTloIcwvqmY7pCWbxVNkL+OHyZLSZ9LmgcJOfGp9wSDZDgZIYFhIZyy2bo05c0V5+Biexgxk3fgYtTTOpyTY="
+ }
+}

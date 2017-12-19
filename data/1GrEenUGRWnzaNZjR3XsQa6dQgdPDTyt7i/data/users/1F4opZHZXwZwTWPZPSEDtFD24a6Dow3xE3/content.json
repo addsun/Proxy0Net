@@ -1,0 +1,17 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G6FzQwnGf3K/axD0elLVUYuiNSQzEKcgqz53Nt2YXHEoULW+3/cbS0MK1Cfh+/jnqvJBNe+sgKYUXTOCiQD463c=",
+ "cert_user_id": "neverland@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "07b08da98545fd84721266cd56a60685edc865e47788ed6863bcab81e6d622bb",
+   "size": 195
+  }
+ },
+ "inner_path": "data/users/1F4opZHZXwZwTWPZPSEDtFD24a6Dow3xE3/content.json",
+ "modified": 1500087764,
+ "signs": {
+  "1F4opZHZXwZwTWPZPSEDtFD24a6Dow3xE3": "HFd0xrEszh2db5kUnRpPPBfSIbenBopHkgAXPR2bIA/9DEXvaIcio6mkP/Dp2BusJncDwdhXQ923moWOyvou+DM="
+ }
+}

@@ -1,0 +1,38 @@
+{
+	"next_post_id": 4,
+	"next_comment_id": 2,
+	"next_follow_id": 1,
+	"avatar": "generate",
+	"user_name": "Braindonor",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1504859740,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1504859799,
+			"body": "What is this kind of sorcery?",
+			"date_added": 1504859797
+		},
+		{
+			"post_id": 1504859858,
+			"body": "I need to know more about this technology! This is amazing in every single way!\n",
+			"date_added": 1504859855
+		}
+	],
+	"post_like": {
+		"1A6KMotFs6STA3Yeaq7JsQSoYQMJNaUjTS_1504838968": 1504862771
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I'd like to know too!",
+			"post_uri": "1A6KMotFs6STA3Yeaq7JsQSoYQMJNaUjTS_1504838968",
+			"date_added": 1504862778
+		}
+	],
+	"follow": []
+}

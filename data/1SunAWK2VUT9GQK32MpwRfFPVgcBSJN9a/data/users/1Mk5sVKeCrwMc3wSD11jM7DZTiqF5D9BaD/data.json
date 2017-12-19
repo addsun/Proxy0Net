@@ -1,0 +1,512 @@
+{
+	"next_post_id": 19,
+	"next_comment_id": 43,
+	"next_follow_id": 20,
+	"avatar": "jpg",
+	"user_name": "Ekaterina",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "The evil mind behind ZeroNet sites such as [ZeroPolls](/ZeroPolls.bit), [ZeroTodos](/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f) and [ZeroQuotes](/1NJyPoPpL8At17T6G7A1qHVQdqZDBmXcLT/).",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1507198613,
+			"body": "Hello ZeroMe! It's been a loooong time... http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/?Post:27:It%E2%80%99s+been+a+loooong+time%E2%80%A6"
+		},
+		{
+			"post_id": 1507340997,
+			"body": "So, trying to figure out how all of the new ZeroNet features work that I missed. Starting with ZeroMe :)\n\nLooks like you only get follower notifications from ZeroMe in your newsfeed if you have downloaded the follower's hub already?\n\nWhat about comments, will I see those from someone who is on a hub I haven't downloaded yet? My guess would be no, and in that case it's probably best to just download all hubs?",
+			"date_added": 1507340995
+		},
+		{
+			"post_id": 1507497775,
+			"body": "Just uploaded an audiobook of *The Adventures of Sherlock Holmes* to ZeroUP [here](http://127.0.0.1:43110/1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc/data/users/1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD/The%20Adventures%20of%20Sherlock%20Holmes%20Episodes%2001-06.m4b.zip). Sherlock Holmes is in the public domain in most countries including the US, so if you want to try out ZeroNet's new Big File support, this file won't get you into trouble and is 150 MB big so a good test. Also, the books are great, if you liked the new movies you'll love them, they are just as crazy.",
+			"date_added": 1507497772,
+			"meta": "{\"img\":\"700,700,a98ba9cba987876665667558544332222445556433644,01001011001213004111122112122111305021116789A821018AA9AA12223BB9A912216C599A1221C98DEA10010054431111\"}"
+		},
+		{
+			"post_id": 1507761837,
+			"body": "I've spent the whole day trying to figure out how to use Google Dart with ZeroNet's API, their JavaScript interop documentation is terrible. If it existed, I mean. Which it doesn't. And that's terrible. It's past midnight now, my head is killing me, but I did it, it works! Next step: Profit! Or something.",
+			"date_added": 1507761833,
+			"meta": "{\"img\":\"900,557,100621732943b32887aa9665422811801511400a63822853,00123425678892897666009909828819AAAABCCBDEACCCE323FBACCC9312\"}"
+		},
+		{
+			"post_id": 1507840771,
+			"body": "Watching Bitcoin go higher and higher ($5345 right now), all my altcoins going lower and lower. Hmmm, think positive... I'm really good at bad investments! Not that I had much to invest. But I hoped the ten bucks would be a million by now! Or two, you know, I'm not choosy.",
+			"date_added": 1507840766
+		},
+		{
+			"post_id": 1507842946,
+			"body": "So, one question I need to ask, to everyone here, why don't you use ZeroMe more? It is so cool, I can't understand it. I've added all hubs, I'm on the \"Everyone\" tab, and there are relatively few new posts each day. I would have really thought ZeroMe is going to be a game changer.\n\nIt's because you can't post reaction gifs on here like on Twitter 🦆, is it? But you gain so much instead! More characters, no censorship, arguably much better design, everything updates live, you can actually read conversations, you can use markdown formatting, it even works offline! So what's not to like?",
+			"date_added": 1507842940
+		},
+		{
+			"post_id": 1507887298,
+			"body": "Life is Strange Before the Storm Episode 2 trailer: https://www.youtube.com/watch?v=hk9de3ljHnw\n\nOctober 19th. CAN'T. WAIT. 🦋",
+			"date_added": 1507887291,
+			"meta": "{\"img\":\"700,700,a56746535744a76867655333643865532965854543222524,011112233345556788815998AA88889B9CDADDDD28DDDABC9D3DDAD4B99A0B00CB98E70BC9C277EE0A777777E7FEE2262722\"}"
+		},
+		{
+			"post_id": 1507905837,
+			"body": "Wrote a [blog post](http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/?Post:28:ZeroNet+API+support+for+Dart+is+taking+shape!) about my ZeroNet + Dart progress. It's progressing! :D",
+			"date_added": 1507905829,
+			"meta": "{\"img\":\"897,700,222322333332443554543533444544355344232,0010000000022231000000331100000456789AB2000000000000000000000331103C000000000000\"}"
+		},
+		{
+			"post_id": 1508022656,
+			"body": "ZeroDart (ZeroNet API for Google's Dart programming language) is coming along nicely, I got much further today than I thought I would in such a short time. Supports logging in, reading and writing files, signing and publishing, everything needed for a basic ZeroNet site!\n\nI even had time left to start documenting all of the ZeroNet API calls so that the docs show up right in the IDE. So I'll work on the AngularDart ToDo list example application next, so that I'll have a site to show off already very soon, before I've finished implementing the rest of the ZeroNet API :)",
+			"date_added": 1508022647
+		},
+		{
+			"post_id": 1508141650,
+			"body": "The AngularDart example app fully works with ZeroNet now (saves todos to and loads todos from ZeroNet if logged in) using my ZeroNet API wrapper for Dart.\n\nJust one more issue I need to fix, looks like Angular doesn't detect changes in bindings when they come from the outside, which is ZeroNet in this case since I use ZeroFrame.js behind the scenes, so the UI doesn't update unless you focus any input element on the site which triggers a change event.\n\nI found workarounds for Angular 2 but not for AngularDart which does things a bit differently since it uses Dart's advanced features, so I'll have to look into that some more!",
+			"date_added": 1508141640,
+			"meta": "{\"img\":\"900,591,defcdffffbce8ad8beaceeee,0110222222345677777277777777727722222222777222227227222222277777222227\"}"
+		},
+		{
+			"post_id": 1508274684,
+			"body": "Moved my ZeroNet data folder from my SSD to my bigger harddrive. Wow, what a difference that makes, I think I never used ZeroNet on a harddrive before. ZeroNet is lightning fast on an SSD. On a harddrive, not so much. Feels excruciatingly slow compared to the SSD (doesn't help that it's not a fast harddrive to begin with, 5200 RPM I think). I might have to move ZeroNet back onto the SSD and just move sites with big files over to the harddrive.",
+			"date_added": 1508274673
+		},
+		{
+			"post_id": 1508314774,
+			"body": "Just released the ToDo List example app from my ZeroDart ZeroNet API wrapper for Google's Dart programming language. You can play with it [here](http://127.0.0.1:43110/1MmNzppieddSqYd5cmk7kVKcYKYBxF2wQ/) and I've written a blog post about it [here](http://127.0.0.1:43110/1Kp5xdjQyrPth5mEJsn6NDBKZxcaeYz86N/?Post:29:The+first+ZeroNet+website+created+with+ZeroDart!).\n\n**Beware of bugs and it's just an example so don't actually use it for anything important.**",
+			"date_added": 1508314762,
+			"meta": "{\"img\":\"900,539,defcdffffabd9ad9bddddeee,011022222234536666727777777772772222227277777777272222222222\"}"
+		},
+		{
+			"post_id": 1508407419,
+			"body": "Apparently some people have been playing it already since Friday, the developer released it accidentally with a patch, but the leak was already fixed when I heard so I had to wait for the midnight release last night. Anyhow, it's out now! I think I'm already two thirds through it. The big downside of episodic games.\n\n🦋 Life is Strange: Before the Storm Episode 2! 🦋",
+			"date_added": 1508407406,
+			"meta": "{\"img\":\"900,506,56767857845744545678aabc89a3339ab323345222112111,011234022567784917A112009B523504CCDD95CB35CBEEEB5CCCCBFFE9BB\"}"
+		},
+		{
+			"post_id": 1508967183,
+			"body": "I'm down with the mother of all colds, at this rate my nose won't survive the amount of handkerchiefs I'm going through. At least the fever is keeping me warm! But makes it nearly impossible to concentrate so I haven't made much progress the last few days with my ZeroNet sites, which is annoying, I want to code!",
+			"date_added": 1508967169,
+			"meta": "{\"img\":\"704,700,ba4dc8864b84ee9643c97a788b5ac5b6ab12a22833999c33,001011011022344031415362325376888363323399967990A7BC55555555C555552222C66DC27E2EC283F77AAEB390277677\"}"
+		},
+		{
+			"post_id": 1509109544,
+			"body": "Started working on a tutorial on how to create a chat using ZeroDart, so this is basically the Dart version of ZeroNet's original chat tutorial. It uses Google's Material Design so should work well on Android.\n\nThis also helps me to figure out how to best distribute ZeroDart when it's ready, as a pub package which you can import into your own site, or as a fully working ZeroNet site that you just modify. I'll choose the option that turns out to be the most convenient one.",
+			"date_added": 1509109529,
+			"meta": "{\"img\":\"828,700,eeeddeaad99c9adbbdfffccc,00011111100012233345066066666006666666600660066660066066666006600666600777777770\"}"
+		},
+		{
+			"post_id": 1509914934,
+			"body": "Just a heads up in case it takes me a while to reply over the next few days: It's been a little over a week and I'm still sick, fever came back yesterday as well so right now I'm useless because everything is spinning way too much! ;) So I'm mostly in bed right now. No cold anymore at least, I was running out of handkerchiefs anyhow. The person I probably got this from was sick for 2 weeks so theoretically I should be feeling well again soon.",
+			"date_added": 1509914918
+		},
+		{
+			"post_id": 1510831774,
+			"body": "I'm finally not sick anymore, yay! :) Glad that is over. I'm going to start working on my ZeroNet projects again tomorrow. Of course while I was sick the 30 day free trial of WebStorm ran out so now I have to switch my Dart development over to the Visual Studio Code editor + console commands. Someone donated ~$6 in Bitcoin to me last month (thanks so much!), that would actually cover the monthly cost for WebStorm (it's €5 I think), especially since the price of Bitcoin has gone up since then so now it's worth $8, but aside from me not really wanting to spend money for a text editor, if I look at the current fee for Bitcoin transactions... Whoa.\n\nThe recommended fee was about $55 two days ago for a small $10 transaction, and now it seems to fluctuate between $5 and $15, so I can't really use my Bitcoin Visa card right now, that's just too much money for me and I have no idea how long it takes (if it is even going through at all) if you use a smaller transaction fee. It's starting to look like Bitcoin is going to die as a currency and is just going to be a store of value in the future, like gold. Might have to replace my donation link with a different currency and get a new Visa card for that currency. There is a Dash & Ethereum Visa card, so those two would be alternatives to Bitcoin.\n\nDash has the advantage that it has anonymity baked in, while the Ethereum price is probably more stable (although I'm wary of that, Ethereum keeps popping up in the news for losing hundreds of millions after hacks). Dash has gone up extremely in the last week or so, could come crashing down again any moment so it's a gamble to buy that right now. Can't decide! What do you guys and gals here use?",
+			"date_added": 1510831757
+		},
+		{
+			"post_id": 1511777884,
+			"body": "Looks like there is [good support for Dart + React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/) (clearnet link) now using a library called OverReact :D, I think I'll create another sample application for ZeroDart using that instead of AngularDart which I've been using so far, see how it compares. From my initial testing, there is a lot less boilerplate. Although still a bit too much for my taste (my taste being no boilerplate at all, like Vue.js!).",
+			"date_added": 1511777866
+		}
+	],
+	"post_like": {
+		"1LxFPKfaDedtyVuWXCjJqBECSDUhzGm1mu_1507378787": 1507379340,
+		"17JewVacvqaUynaYh1sup3nWcuKSPzET2Q_1507488767": 1507490065,
+		"1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC_1507542727": 1507547175,
+		"1L6tV5fkdmeqiwoLKy2S89amcoofP8zQK2_1507636385": 1507638101,
+		"1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg_1507846041": 1507846440,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507860787": 1507860968,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561": 1507886854,
+		"13KPsHJy3GXNWiGYYVtS8s6xvScJTUDsnW_1507892029": 1507894558,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507901696": 1507906301,
+		"1Hd4X8FNiTzfRataE3qj75ysDeobMEgWhs_1508504125": 1508504445,
+		"1D5ZVXtddbPvYhADfeeZ5Tc738ChkhhWu4_1508737831": 1508826638
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@Chickenman: Thanks! That could come in handy.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507340997",
+			"date_added": 1507342481
+		},
+		{
+			"comment_id": 2,
+			"body": "Welcome to the future ;)",
+			"post_uri": "1LxFPKfaDedtyVuWXCjJqBECSDUhzGm1mu_1507378787",
+			"date_added": 1507379441
+		},
+		{
+			"comment_id": 3,
+			"body": "Works fine for me, including the picture you posted. Did you try a lot of pictures or is it only the most recent ones you saw that didn't work for you? Maybe it's peer to peer connection troubles. Not an expert but I think it works like this: If you use Tor and a direct connection with an open port together on ZeroNet, you can receive from and send files to anyone on ZeroNet, so these people act as bridges for people who haven't opened ZeroNet's port in their router or use Tor always mode to stay anonymous and hide their IP address and therefore can only connect to other Tor users (that's what I do). If you use Tor and the person whose picture you wanted to view doesn't and nobody else who could act as a bridge between you two has downloaded the picture yet, you can't download the picture from anyone, so you'll have to wait until more people downloaded it, or if you don't use Tor try using it to see if it works better, or if you don't want Tor but can open your port in your router, open it.",
+			"post_uri": "17JewVacvqaUynaYh1sup3nWcuKSPzET2Q_1507476565",
+			"date_added": 1507479235
+		},
+		{
+			"comment_id": 4,
+			"body": "@Desu: You're welcome ;) I'm basically a newbie too, I used ZeroNet before but was gone for a year so I have to relearn a lot. It's pretty simple though all in all, even developing sites for it, so we should both be up to speed in no time. It's the most usable and user friendly of all the decentralized projects I've seen so far. Especially with the site cloning feature. Just click clone on a site's 3 dots menu on ZeroHello and you've got your own fully decentralized blog or even a wiki without having to know anything about web programming.",
+			"post_uri": "17JewVacvqaUynaYh1sup3nWcuKSPzET2Q_1507476565",
+			"date_added": 1507482335
+		},
+		{
+			"comment_id": 5,
+			"body": "@Desu: Should get faster when more people are seeding it :) Not sure if the uploading is done through Tor as well when \"Tor always\" is enabled, I've got 10 Mbit upload speed, so a little over 1 MB per second, but Tor would make it much slower.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507497775",
+			"date_added": 1507499206
+		},
+		{
+			"comment_id": 6,
+			"body": "Welcome to ZeroNet :) You can find popular 3rd party sites on [ZeroSites](http://127.0.0.1:43110/Sites.ZeroNetwork.bit/). The number with the little person icon next to a site is the number of people that are seeding the site, so it's the best indicator of popularity. There is also a search engine for sites called [Kaffiene](http://127.0.0.1:43110/kaffiene.bit/). My own sites are listed in my ZeroMe profile if you want to check them out, [ZeroPolls](http://127.0.0.1:43110/ZeroPolls.bit/) is the only popular one I think, lets you create and vote on polls and then watch them update live.",
+			"post_uri": "1L6tV5fkdmeqiwoLKy2S89amcoofP8zQK2_1507636385",
+			"date_added": 1507637991
+		},
+		{
+			"comment_id": 7,
+			"body": "@Krixano: I actually had to learn just a bit of TypeScript today to figure out how Dart's JS Interop works, due to the lack of documentation (they give examples but only for huge libraries). Dart has a tool that takes any typescript file and just automatically outputs Dart code for it. So I used that to figure out how it works, wrote simple functions and classes in TypeScript, compiled them to Dart, and went from there. It turned out to be super easy, the thing that had me stumped for so long is that Dart apparently can't deal with ES6 classes. So I just used Babel to translate ZeroFrame.js into ES5 code and voila, it all started working!",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507761837",
+			"date_added": 1507763251
+		},
+		{
+			"comment_id": 8,
+			"body": "@Polar: That's quite a lot actually. And in the last 24 hours alone there were 25 new users. So it's not the lack of users I think. It's the users not using it.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507843376
+		},
+		{
+			"comment_id": 9,
+			"body": "@Nekololi: So it's a chicken and egg problem. Nobody sees anything interesting, so instead of posting something interesting themselves, be the change you want to see and all that, they just leave and say \"It's a ghost town!\" Well... Yeah... Because they didn't post anything! :D",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507844689
+		},
+		{
+			"comment_id": 10,
+			"body": "@Nekololi: Not lecturing, just trying to find out why it is like it is.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507845173
+		},
+		{
+			"comment_id": 11,
+			"body": "@Prudence: That's how I even found users to follow :) I don't even use the \"followed users\" tab anymore since there are so few posts anyhow that it's no problem to just go through the \"Everyone\" tab to see what I missed.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507845255
+		},
+		{
+			"comment_id": 12,
+			"body": "@Prudence: Usually, at least from what I've seen, when Bitcoin has set a new record high it goes down enormously after a few days or weeks. And then it slowly, over weeks or months, goes back to the record high and stays there / climbs higher. So buying into it now probably wouldn't be a good idea. But when it's inevitably back down to $4000 or so, then probably yes. But I've got too little altcoins left to even consider trading them for Bitcoin so I can just wait this one out and see what happens :)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507840771",
+			"date_added": 1507845758
+		},
+		{
+			"comment_id": 13,
+			"body": "ZeroMe is what happens when someone says „Twitter? Bah, I’m going to make my own Twitter. With Blackjack. And hookers!“ (Obligatory Futurama reference) And then you go there and you find neither Blackjack nor hookers but a lot of posts about ZeroNet and sites developed for ZeroNet and programming for ZeroNet. And Chinese. Lots of Chinese. Which I can’t read, so it’s a mystery what they’re talking about!",
+			"post_uri": "1GCMDNMgJHvZJfdbD9ygDmpBdnVAobdJYg_1507846041",
+			"date_added": 1507846416
+		},
+		{
+			"comment_id": 14,
+			"body": "@Prudence: That happened to me with Ethereum when it split into Ethereum and Ethereum classic, basically doubling your coins, I heard about that months later so I never knew I made money. Well, kind of. Since I only had one Ethereum left when the doubling happened, sold it for $15 or something. Better than nothing. But not the million I wanted! :) And of course, I sold my Ethereum when they were below $20 as well. Just half a year or so before they went into the hundreds. But that wasn't really a bad choice, I needed the money and I still got much more out than I put in.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507840771",
+			"date_added": 1507846718
+		},
+		{
+			"comment_id": 15,
+			"body": "@Prudence: Yeah I wouldn't want to dox myself so I'm not going to start posting my vaction pictures :) But still, people could post news, memes, interesting links, I don't know. Twitter is mostly that as well, it's basically just a news aggregator at this point. It's what RSS used to be.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507847038
+		},
+		{
+			"comment_id": 16,
+			"body": "@Krixano: Which is a great use case for ZeroMe, and probably what I will be mostly posting here too. I used to write really long and detailed blog posts with source code snippets about my ZeroNet sites and I'll still do that, but for small changes, quick announcements and such ZeroMe could be a better fit. But I'll try to post some other interesting stuff too, so that it's not all just ZeroNet talking about ZeroNet :)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507857390
+		},
+		{
+			"comment_id": 17,
+			"body": "@Nekololi: I don't really \"use\" Twitter and other social networks much either, at least not in terms of posting. But I do read Twitter almost every day, it's where I get my daily dose of news, find links to new interesting websites, projects to check out and so on.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507857790
+		},
+		{
+			"comment_id": 18,
+			"body": "@Lerolero: I still don't know exactly what Ethereum even is useful for, people (and big companies) are so enthusiastic about it but to me \"smart contracts\" sound mostly boring, although I guess you could do something like ZeroID on top of it? But you can't even host files on Ethereum so not interesting to me, I want to publish websites and ZeroNet does that very well, but I made a few hundred bucks with Ethereum when I really needed money, so... Yay Ethereum! :)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507840771",
+			"date_added": 1507858733
+		},
+		{
+			"comment_id": 19,
+			"body": "The downsides I see to DAT is that you have to convince people to host your site, same issue IPFS has, on ZeroNet you have to seed if you want to view a site which is IMHO better, at least while decentralized networks are still small. And then there is the beaker browser, with ZeroNet you can use any browser, even Tor Browser to be anonymous, although I don't know if Beaker browser is absolutely necessary, I haven't played around with it that much.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507886828
+		},
+		{
+			"comment_id": 20,
+			"body": "@Bluishcoder: I certainly think so. I've looked at many of the other projects, Blockstack, MaidSafe, etc. But they are nowhere near the point where they could compete with ZeroNet. It's even better compared to the clearnet in some ways. All sites work offline. Very easy to do live updating real-time sites. Everyone can host their own blog or forum or chat with just a few mouse clicks thanks to the site cloning functionality, no need to rent a server and figure out how to install wordpress or something which most people will never be able to do, no need to rely on some company doing it for you and either taking your money or your privacy and control.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507887543
+		},
+		{
+			"comment_id": 21,
+			"body": "Welcome to ZeroNet!",
+			"post_uri": "13KPsHJy3GXNWiGYYVtS8s6xvScJTUDsnW_1507892029",
+			"date_added": 1507894556
+		},
+		{
+			"comment_id": 22,
+			"body": "Click on your username somewhere to go to your profile. Then in the top left click on your profile picture, then you can select an image on your hard drive to upload.",
+			"post_uri": "167JYW7etngrjqaxfEabgowTbL42556bs9_1507904197",
+			"date_added": 1507906039
+		},
+		{
+			"comment_id": 23,
+			"body": "@Xori: No idea why that site is so big (didn't work for me when I tried it out eaerlier today so I don't know what is on there), there is no reason for that. You can compress all the text to make it super small (you can basically put your whole ZeroNet site into a Zip file and it will still work, as if it was a folder) and for pictures and other big files you can use ZeroNet's optional files feature, which only downloads files when the browser requests them, so it would only download a picture when you're actually viewing the specific page it's on. And for cases were that doesn't help, there is the merger site feature which ZeroMe uses (the hubs, basically).",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507927731
+		},
+		{
+			"comment_id": 24,
+			"body": "@Bluishcoder: Ah that explains the size! I was wondering what it could be. When I opened the site ZeroNet asked me to set the limit to 500 MB and I thought that surely must be some bug! :)",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507933356
+		},
+		{
+			"comment_id": 25,
+			"body": "@Bluishcoder: Are the markdown files really that much of an issue, even with compression? Text compresses so well. Just how much did you write in those fifteen years? :) I'd think the pictures and videos that aren't yet optional files would be the biggest chunk of the site size. But I don't know much about how optional files work, haven't played with them myself yet, so I don't know how involved the process of converting all the files is and how it plays together with Jekyll, which I also know nothing about other than that Github uses it for Github pages I believe :)",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507934673
+		},
+		{
+			"comment_id": 26,
+			"body": "@Bluishcoder: The profile pictures are I think, but the pictures you post are only stored on your own computer, and when someone clicks on the \"Show picture\" button or on \"Help distribute this user's images\" on their profile, it's also hosted on theirs.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507934479",
+			"date_added": 1507934861
+		},
+		{
+			"comment_id": 27,
+			"body": "@Bluishcoder: It is a cool system, not just because it keeps the amount of data you need to store down but because it also means you can pick and choose which pictures you want to share, so if someone posts something disgusting you don't want to help sharing, you don't have to.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507934479",
+			"date_added": 1507935584
+		},
+		{
+			"comment_id": 28,
+			"body": "@Bru: I found ZeroNet on mobile quite easy, was amazed how well it works already. But it supposedly drains a lot of resources so a \"light client\" would be needed for most people, where you give up a bit of the decentralization through making use of \"super nodes\", but gain better battery life :)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507842946",
+			"date_added": 1507936778
+		},
+		{
+			"comment_id": 29,
+			"body": "@Bluishcoder: Still can't view the site, even though it fully downloaded now. The content.json file has no files listed in it. You probably still need to sign & publish it?",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507937389
+		},
+		{
+			"comment_id": 30,
+			"body": "@Bluishcoder: Ah, I see. Updating and check files hasn't worked for me yet, but I'll try again tomorrow.",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1507938953
+		},
+		{
+			"comment_id": 31,
+			"body": "@Bluishcoder: It works now, I can read the blog! The site had a few more peers today than before, so I clicked on \"check files\" and it instantly started downloading 1700 files :D",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507886561",
+			"date_added": 1508022118
+		},
+		{
+			"comment_id": 32,
+			"body": "Issue fixed! Aaaaaaaaawwwwwwww........ YEAH! The old Angular 2 workaround I found actually still works in AngularDart 4, just much easier. Basically I just need to listen for ZeroNet's \"message\" event, not do anything with it just listen, that's enough to make Angular components update like they should.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508141650",
+			"date_added": 1508185771
+		},
+		{
+			"comment_id": 33,
+			"body": "@Chickenman: Thanks for trying it out! :) Do you mean the first time you saved the button kept saying \"Saving...\" with the spinning wheel animation? Could be a bug, I'll look into it. Google's original this is based on doesn't have an Edit button, they didn't want to make the code too complex since it's really just a simple starting point to build your own app on top of, so I didn't add one either. For a more sophisticated ToDo app, check out my [ZeroTodos](http://127.0.0.1:43110/1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f/) site. That lets you edit tasks, reorder them by dragging, make multiple task lists, pretty much everything you'd want in a ToDo app.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508314774",
+			"date_added": 1508322238
+		},
+		{
+			"comment_id": 34,
+			"body": "@Chickenman: It's a bug alright, just tried it out with a second ZeroNet installation. This is a weird one. It works if you wait 30 seconds or so and then ZeroNet will ask you if you want to force write the files despite them being synced already. After that it'll always work instantly. I'll work on fixing that. **Edit**: I think I found the issue, will fix it now.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508314774",
+			"date_added": 1508326156
+		},
+		{
+			"comment_id": 35,
+			"body": "All bugs fixed I believe. There was a second one hiding behind the first one, sneaky little bugger.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508314774",
+			"date_added": 1508331716
+		},
+		{
+			"comment_id": 36,
+			"body": "Aaaand I've played through the episode. Actually found all but one of the graffitis this time around, had to get half of them in collector's mode for the first episode. Now for another ~2 months of waiting for the last episode :) Or next to last, since there will be a bonus episode featuring Max from the original game as part of the Deluxe Edition. The episode was cool though, had a really super sweet scene that I think many people were waiting for. But since this is a prequel and therefore people know what'll happen I don't think the third episode will exactly leave you with a happy feeling. Playing through the original game after this is probably going to be very different now, emotionally.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508407419",
+			"date_added": 1508460612
+		},
+		{
+			"comment_id": 37,
+			"body": "@Advo: Thanks ;)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508967183",
+			"date_added": 1508970066
+		},
+		{
+			"comment_id": 38,
+			"body": "@Binchan: Thanks! Yeah, also helps with depression according to a recent study, people should do it more, it gets fun and even addicting very quickly. But in this case, it didn't help. It's a demonic cold, too powerful :D",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508967183",
+			"date_added": 1509046265
+		},
+		{
+			"comment_id": 39,
+			"body": "@Binchan: Thanks :) Wasn't really gone, just completely useless. The fever was really messing with my head. Probably due to my pre-existing condition. And it kept coming back every few days. But it's gone now and I feel great again! :D",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510832066
+		},
+		{
+			"comment_id": 40,
+			"body": "@sksn [NO2X]: Yeah but at some point these huge multi million Dollar contracts failing is going to bring the price of Ethereum crashing down into nothing and then I'd lose everything, when people figure out that the whole concept of smart contracts doesn't work because it's not possible (at least for a human) to write bug free code. Maybe there will be some automatic AI type stuff in the future that writes secure, bug free contracts, but until then it seems like a cool theory that just doesn't work in practice. What cryptos do you prefer? I haven't really looked into the newer ones much lately. I hear Monero and Zcash mentioned sometimes, but don't know how they compare to Dash.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510860154
+		},
+		{
+			"comment_id": 41,
+			"body": "@sksn [NO2X]: Thanks for explaining! $1.50 per transaction would be bearable, if it doesn't get even higher than that and Monero does sound very interesting. $1.50 is probably the upper limit I'd be willing to spend on a transaction since I usually only transfer small amounts. If I have to pay a $5 tx fee on a $10 or $20 transaction, that'd be silly. Ethereum Classic I'll have to look into more. I even had one ETH classic left over from the fork, but sold it a while ago since I wasn't interested in Ethereum anymore. I did agree with the forking into Ethereum Classic back when it happened, as much as I felt for the people who lost money, the Ethereum blockchain lost all credibility when the devs stole the money back from the hacker, you just can't do that and still claim the blockchain is immutable. If you can even call the guy who did it a hacker since he just used the smart contract exactly like it was programmed to work, just not as it was intended by the developers. And the legal consequences are also troublesome, now a judge can order the ETH devs to freeze accounts, they did it before so they cannot claim that's not possible. At least that's what people were talking about back then, haven't followed up on it after that, I've stayed away from Ethereum ever since they did that, needed the money anyhow, still had about 15 Ethereum at that point. Would have been worth a lot more today of course :D",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510871907
+		},
+		{
+			"comment_id": 42,
+			"body": "@Vizy93: I haven't seen any, but when I've checked out Bitshares which sksn mentioned, I saw OpenLedger which is built on top of it and apparently they are planning to offer the first Visa card that works for all altcoins their decentralized exchange supports, they are crowdfunding it in Q4 so should start any moment now and they want the Visa card to be available 3 months after that as I understand it, so I guess sometime between February and April 2018. As for availability in countries, I guess that is up to Visa card dealers and not the blockchain services that make use of it, so it's probably the same ~45 supported countries everywhere. It's just a temporary solution anyway, ideally at some point there is going to be a pure cryptocurrency card that can be used with all altcoins, one that is not tied to a corporation like Visa or Mastercard, which stores will accept just like Visa and MasterCard as cryptocurrencies become more popular because their customers want to pay with it. There are already some huge companies that directly accept Bitcoin, like Steam, so this would be the logical next step.",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1511300053
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1507288804
+		},
+		{
+			"follow_id": 2,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h",
+			"user_name": "Binchan",
+			"date_added": 1507340503
+		},
+		{
+			"follow_id": 3,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1NAytMtn4tGCCrPNV4bDRViH6VrQ3xhYzu",
+			"user_name": "Rainbowcat",
+			"date_added": 1507340511
+		},
+		{
+			"follow_id": 4,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1LxFPKfaDedtyVuWXCjJqBECSDUhzGm1mu",
+			"user_name": "Grantmazzy",
+			"date_added": 1507379342
+		},
+		{
+			"follow_id": 5,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu",
+			"user_name": "Krixano",
+			"date_added": 1507488148
+		},
+		{
+			"follow_id": 6,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "17JewVacvqaUynaYh1sup3nWcuKSPzET2Q",
+			"user_name": "Desu",
+			"date_added": 1507492335
+		},
+		{
+			"follow_id": 7,
+			"hub": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+			"auth_address": "1GnKQZXGc51J9spdsMMXxJizM41LXeKEBz",
+			"user_name": "nothing",
+			"date_added": 1507499592
+		},
+		{
+			"follow_id": 8,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "19CBgNAsAK3aVnVyekqBv48wgUZGmbptNE",
+			"user_name": "Advo",
+			"date_added": 1507542015
+		},
+		{
+			"follow_id": 9,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy1dDBGdk9AE6c2HbU97yXpxB29t1D16j",
+			"user_name": "Prudence",
+			"date_added": 1507542036
+		},
+		{
+			"follow_id": 10,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC",
+			"user_name": "ZeRoberto",
+			"date_added": 1507547191
+		},
+		{
+			"follow_id": 11,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1H9R6W9QWUpYiJkLyAsFXmXhAV7HEqoHtN",
+			"user_name": "Flyman",
+			"date_added": 1507885170
+		},
+		{
+			"follow_id": 12,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ",
+			"user_name": "GomZik",
+			"date_added": 1507918896
+		},
+		{
+			"follow_id": 13,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L",
+			"user_name": "Bluishcoder",
+			"date_added": 1507933387
+		},
+		{
+			"follow_id": 14,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy",
+			"user_name": "Glightstar",
+			"date_added": 1507984533
+		},
+		{
+			"follow_id": 15,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "16t83GyRixTRFbTL91Lvk2q3Z8kJzJfAXH",
+			"user_name": "GY",
+			"date_added": 1508169114
+		},
+		{
+			"follow_id": 16,
+			"hub": "1White24UrrwQrD86o6Vrc1apgZ1x1o51",
+			"auth_address": "1MsnuK89hgwtHZDNLbWoTYppjbDktR8dzR",
+			"user_name": "zux",
+			"date_added": 1508456855
+		},
+		{
+			"follow_id": 17,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1BghwqwD4SJaigm7kQjxvgTyEdxZgzWhSS",
+			"user_name": "Stanz",
+			"date_added": 1508456868
+		},
+		{
+			"follow_id": 18,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di",
+			"user_name": "Git Center",
+			"date_added": 1509913317
+		},
+		{
+			"follow_id": 19,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "18oD4Atz6dpapnpN75tiBorjCSjANJmaiw",
+			"user_name": "sksn [NO2X]",
+			"date_added": 1510872439
+		}
+	]
+}

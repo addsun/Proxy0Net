@@ -1,0 +1,308 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "GwkxutXCw/x9k1zI/1xtjEy4GnBa+V84A2GVYO0LNdPvSmMZKrWt7ghZmk8uLn+eF+2RHs1IJgY6IMFj0TaMx48=",
+ "cert_user_id": "kof@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "5291966ceb291128766ed62ae52e7a64d327fc8395fa97b1adb29f0c69bc5351",
+   "size": 1700
+  },
+  "data.json": {
+   "sha512": "4ab984c8b49553c0a39a130c21c204b0c58313e9fcf526ec36e8928e818af51f",
+   "size": 98300
+  }
+ },
+ "files_optional": {
+  "1488464963.jpg": {
+   "sha512": "60cdd3a61e7893bd496dd17983726d55812e1f077377a60dd53395ed401b8140",
+   "size": 51193
+  },
+  "1488513596.jpg": {
+   "sha512": "ae98a5dfec661a2bb40453015a1067212579dca3a6d5251dbdd355805d0a5420",
+   "size": 76857
+  },
+  "1488637609.jpg": {
+   "sha512": "e83ca11207cf05dadd4ff6d78aebe3aca9cc8529606080fe1d16353aa255b0e7",
+   "size": 83482
+  },
+  "1489377874.jpg": {
+   "sha512": "b7d5340677478074fb98a3fea8c8d7afc44627626cad6a9b254fa4b1644bba5e",
+   "size": 32405
+  },
+  "1489402117.jpg": {
+   "sha512": "2bd6be5df10c051b2400a67ff3aa88d8937bed2fdc39935797d9a4d5c8fccaa4",
+   "size": 97329
+  },
+  "1489594267.jpg": {
+   "sha512": "555180ed141d283d86abb6d2ed8b9ee7621317ded30ef3fdf53abad64380f51b",
+   "size": 76131
+  },
+  "1490175625.jpg": {
+   "sha512": "07e8a38a956a621d4daa176ed83eca5470ea424eb0d940994cd0e1bbbfb5d7ee",
+   "size": 40951
+  },
+  "1490438576.jpg": {
+   "sha512": "db95362dba75f5a2e228757d9f540e866428b900b47052c557690715302fe7f9",
+   "size": 97003
+  },
+  "1490439051.jpg": {
+   "sha512": "8989bf179f4357942e0c47802bb8287a85594bbfc51761e66bc791236117018f",
+   "size": 77957
+  },
+  "1490524592.jpg": {
+   "sha512": "18e811ba39050fc63a782eac90d448683c9c2d2ae68025e2e744737509095f04",
+   "size": 76729
+  },
+  "1490602245.jpg": {
+   "sha512": "800d12ce482f4efae632c6bcfc832ea099fc67a7675bd3157770767399c01f9d",
+   "size": 71743
+  },
+  "1490602253.jpg": {
+   "sha512": "9b2d65ca8012ac0d05da8b760c034eb2cf24fa1a039614dfd62ed54f275dae94",
+   "size": 67880
+  },
+  "1490602262.jpg": {
+   "sha512": "0ba9db2a1fa912fee2615ab475ed5924cec6a025591076ae199140fe49edb879",
+   "size": 73016
+  },
+  "1490679286.jpg": {
+   "sha512": "dbcfa23db9222bba5fc56378eaf7efbc12f4cda30bce2e1b855ad163cbe6b882",
+   "size": 58682
+  },
+  "1491717753.jpg": {
+   "sha512": "75840c5ce9d2a65df8c55d4214293d5acadb86cb2f08ce4f5bdf179fbe4ac272",
+   "size": 40888
+  },
+  "1492061723.jpg": {
+   "sha512": "3ce738e601a1346f3af549e2c59bc13217b94e142e58d0a05a7a94a74ae2af9e",
+   "size": 68922
+  },
+  "1492061774.jpg": {
+   "sha512": "adcab896259e1aeefa78e3c546108f98abee4b6e97857a3bee6aa88716ec9301",
+   "size": 41847
+  },
+  "1492061777.jpg": {
+   "sha512": "adcab896259e1aeefa78e3c546108f98abee4b6e97857a3bee6aa88716ec9301",
+   "size": 41847
+  },
+  "1492325799.jpg": {
+   "sha512": "703fc8f2799b0b78e03e94b909fb357a49a85cf365beab6fdc22b8408b3a8e44",
+   "size": 94867
+  },
+  "1493008465.jpg": {
+   "sha512": "84e0c6ee6c511337a9a1c50f5d314838b5477b28b47e7869a6aa80eff41c3245",
+   "size": 102256
+  },
+  "1493030009.jpg": {
+   "sha512": "039c19b307072828bd8ec651178c43542809eccab69eff3fb2b929859a6f1d9c",
+   "size": 61450
+  },
+  "1493030017.jpg": {
+   "sha512": "62386acc343f274ef12029e656a083b8c6cdd618fe05c326e61c73d670f381b0",
+   "size": 87526
+  },
+  "1493030248.jpg": {
+   "sha512": "966ff31dd5d6a2b2dd4ceadc6c0bd18aa9d96f9204985dbbd7ccb393f2b370a6",
+   "size": 65055
+  },
+  "1493107730.jpg": {
+   "sha512": "caa44980ae2faf3bd5fcce10bb1b403ef26fd93780869104e8b5055119679e22",
+   "size": 102217
+  },
+  "1493134138.jpg": {
+   "sha512": "777735b7744771b0c0ffa85d0b23238d51b51685eadcaaef53341602f09f2f14",
+   "size": 101622
+  },
+  "1493550424.jpg": {
+   "sha512": "40dc7a2879793160cc32ebb875fd31a8df6da52cc1b421f6356959bea372112a",
+   "size": 64130
+  },
+  "1493704885.jpg": {
+   "sha512": "fa55d791c4ef1f0831eff087ffac5cc044162c6c488e2ec87622b35c05214a7e",
+   "size": 32652
+  },
+  "1495374936.jpg": {
+   "sha512": "22ae3a5c7195ffe062010a389ba885ef4088eb3aa0a1db864f0544369a166101",
+   "size": 66611
+  },
+  "1495450729.jpg": {
+   "sha512": "2495bd7df777973b79bf2bdaa60053d8e44a11a10099ac8a8f329f4594a31a96",
+   "size": 114495
+  },
+  "1495467301.jpg": {
+   "sha512": "84cb6dd6d790bddda34419d20f7b2f3206c0924ee271cbc96945aba4810ed8ed",
+   "size": 100726
+  },
+  "1495467721.jpg": {
+   "sha512": "8afa0e8e36766e2f1ac9fd68f986c420dbccf35a40296e2df638cfe21664f74a",
+   "size": 86242
+  },
+  "1495468367.jpg": {
+   "sha512": "b149f053979f9d9d1ac717de6be31eb48c7c789d6027fcbcf10d1b102238bd5b",
+   "size": 60104
+  },
+  "1495522436.jpg": {
+   "sha512": "51f96b0f3e72d2f607870541841311128ff76dd2bc29282e51545c674dc3eb32",
+   "size": 98871
+  },
+  "1495526244.jpg": {
+   "sha512": "3ee139609f75df94ce6403b30f0082e21986acb5d5c29ab956fd3dac9f955d0f",
+   "size": 82157
+  },
+  "1495607045.jpg": {
+   "sha512": "218ffd5e7379518e6533843b0e591093f93f8dc84d25ceb847cae3e2ad078193",
+   "size": 147564
+  },
+  "1495634984.jpg": {
+   "sha512": "8cbfbc4f8f22bf93200a55a63570ba20284009d9ef8f0be71958d9a286ce9a28",
+   "size": 154953
+  },
+  "1495717584.jpg": {
+   "sha512": "191d3490f32d15069b3cfe62b562578a4fe7e42c7ade695aec7a7edb2cca3a4c",
+   "size": 115191
+  },
+  "1495725713.jpg": {
+   "sha512": "6d84f674c4d8564cf8de09ecb821026a985e76e3a3d395162c465d59fae86685",
+   "size": 105313
+  },
+  "1495986833.jpg": {
+   "sha512": "a2c6eeb6de085f15b9c71f244053645072ae9906bb47af1467da6a8693a8abc1",
+   "size": 65913
+  },
+  "1496239963.jpg": {
+   "sha512": "9e6eaa35e34b9ff0e5e51add04fe9452488b60b914e569bf97199280de514dbd",
+   "size": 115430
+  },
+  "1496295368.jpg": {
+   "sha512": "dbd217fd55375dfaaf53411793628880e027ae0ba864c370db37e3f6fb360e8d",
+   "size": 45145
+  },
+  "1496810802.jpg": {
+   "sha512": "ca552623528b806f9e64358cf89f49b280cfa42aa29a3bdaf66a67632e75aede",
+   "size": 11611
+  },
+  "1498476480.jpg": {
+   "sha512": "7a7cb66d85e812526f9e509da70aa0f75a927f404270b2c989355aab30bc8bf1",
+   "size": 71076
+  },
+  "1498543566.jpg": {
+   "sha512": "30e0025de0286e56715c9a228ca72105777d1fc6c5f50e019fa5af76ec6a6992",
+   "size": 67838
+  },
+  "1498547805.jpg": {
+   "sha512": "9200882d159f78bb936084e4a777ae79a4e7fd08e77ae72475b8992a4bd24223",
+   "size": 23071
+  },
+  "1498625297.jpg": {
+   "sha512": "7c209585f4455215c6d082ea16f928e047972373d99926e45e1b186d95103ffb",
+   "size": 42286
+  },
+  "1498635708.jpg": {
+   "sha512": "d228edda57c3d10746a1a4bafcc904dded15bab627773e6b629eb81aa9111e6a",
+   "size": 53094
+  },
+  "1498748058.jpg": {
+   "sha512": "3a89936e787cf1645eaf492db454c8b171b6a14498f9f0c1338c1d53a1c89ab2",
+   "size": 70082
+  },
+  "1499244464.jpg": {
+   "sha512": "7b58c58f5ede45f8f5a20456a192fb09086b9dd67b24a11cf72f285effbd7aa3",
+   "size": 50652
+  },
+  "1500024231.jpg": {
+   "sha512": "d4844ae9126640dbb2d96ba6359d4865c4ada6b9fe02178bb7e2a41815c309da",
+   "size": 44372
+  },
+  "1500305604.jpg": {
+   "sha512": "b7469937bb8b6737581beb5197d3b8f72e1b6fa0105158b6aa91eac0eda2b4a4",
+   "size": 60739
+  },
+  "1500306958.jpg": {
+   "sha512": "6ba54976c5e08b04ce9d2b825fd1673568f178bb427b3c59994cc6e98968c979",
+   "size": 38420
+  },
+  "1500361624.jpg": {
+   "sha512": "47590c8003d187cfaa21077b4e80b69bd024ee63bb7f5e8a2467757d59d598be",
+   "size": 122012
+  },
+  "1500619712.jpg": {
+   "sha512": "4d5c8034b26407c184c6a383b596e5777faecccc29e8cccaadb332af1a9e2ca5",
+   "size": 66822
+  },
+  "1502638649.jpg": {
+   "sha512": "22308ccf5cf7df1d2b5c92ed3604043e9f1a1a543efec8ab105593acafd564cd",
+   "size": 101040
+  },
+  "1502638662.jpg": {
+   "sha512": "aa06b606b1b32711779ff83a784e22a053955362f5e9f59a12b9d59a235eab4f",
+   "size": 102058
+  },
+  "1502720907.jpg": {
+   "sha512": "427c6e5693c3d3145329dc3d301bf65448d9502138d6ab2a6497666eac413dcb",
+   "size": 137702
+  },
+  "1505125169.jpg": {
+   "sha512": "a619fdc3c374b3e291efc74a35ab5e044f4929d5a2368e3f3f6b133f7d7e3a5e",
+   "size": 58203
+  },
+  "1505230366.jpg": {
+   "sha512": "412bbee6b97ddd051a74b70f8c6af5c1e7095d6ac3cba29e955f6d4ce396c043",
+   "size": 95575
+  },
+  "1505738048.jpg": {
+   "sha512": "7292e29dc7dc0792ffdcea208e883120fa93f228a269f79f10c774d794211f7e",
+   "size": 46668
+  },
+  "1508160865.jpg": {
+   "sha512": "d8cbc6ed4fdf8464eb873366959416a6c3b88680c2a3eae40d7b2f245ac3da99",
+   "size": 27097
+  },
+  "1508160888.jpg": {
+   "sha512": "ce2fa073e5107a9dc761a3902d94d4b038053fc253c310de819373082aac7851",
+   "size": 41444
+  },
+  "1510164455.jpg": {
+   "sha512": "819586415aae1bc39804aa9de2be3b5355057af86c564ec149d1a69cd830fc20",
+   "size": 40103
+  },
+  "1510576600.jpg": {
+   "sha512": "d0387ba1ebef84438d857a7cbf22773dd1d7676414b17baafef934a152624e25",
+   "size": 94668
+  },
+  "1510716228.jpg": {
+   "sha512": "540bcf54ee7396dccb471d17bad5a57c8513ffd5704f5bcd7ae313c588cb9203",
+   "size": 90284
+  },
+  "1510824341.jpg": {
+   "sha512": "d886448b564ec55f761dc6c9591e948f291ce2931420c279c04a3ac311a5036f",
+   "size": 38848
+  },
+  "1511267842.jpg": {
+   "sha512": "2a4d990b762244b1a75f5a803bec156418c06ba3a2b11884e7647a829590bb6b",
+   "size": 58358
+  },
+  "1511272777.jpg": {
+   "sha512": "c3537394add1d63c205dcbc6811291dd1ac41471bc462dadf4bc5683330320f3",
+   "size": 36783
+  },
+  "1511367867.jpg": {
+   "sha512": "3ac887137537b7448c6cd43e906e252c338e1f3a262fd09ba6602f656a317715",
+   "size": 127907
+  },
+  "1511876762.jpg": {
+   "sha512": "b31d8eb59573d484263a36d49efffedfbc1558ebf78084960a832506073f1d46",
+   "size": 49187
+  },
+  "bg.jpg": {
+   "sha512": "10acd54efc26663dc0ad19049b057d3b73799ec182accefc092b169b0e318f0c",
+   "size": 41919
+  }
+ },
+ "inner_path": "data/users/1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y/content.json",
+ "modified": 1512312025,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "1JB3QRRX45hwxLvSHrhntkBX4FZzn4Qo8Y": "G132boqBHjq7B9RcpU/3k3PnDcJcOt25j3G7b1yVxsyNV+IlvlH86sLt7o/dCMGVN0SWZSH0biP9UjQqR/gZG3A="
+ }
+}

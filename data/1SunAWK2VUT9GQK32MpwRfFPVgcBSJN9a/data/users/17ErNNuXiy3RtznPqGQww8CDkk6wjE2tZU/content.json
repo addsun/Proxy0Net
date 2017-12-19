@@ -1,0 +1,28 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G1BTSPzlTAUf+E7tqWdk6gKZYSBtuEeXZneYcg/tChLeOJII82KprxUNHI584Mb8gTjPu+cfANP5uJFBsMLZW/k=",
+ "cert_user_id": "pockt@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "af4fe0a8f40ab0fb35f7eabc0debb8015535b27f479324e6a26eb02081df9967",
+   "size": 1336
+  },
+  "data.json": {
+   "sha512": "8284f0c16f91651210a1d3e2632d062a1960454517849b14c9cfa5bd98356f4d",
+   "size": 736
+  }
+ },
+ "files_optional": {
+  "1504124466.jpg": {
+   "sha512": "01fd76484844e86f3889df04e9916fa9c5eb32348b28820dce999dca0c926849",
+   "size": 75247
+  }
+ },
+ "inner_path": "data/users/17ErNNuXiy3RtznPqGQww8CDkk6wjE2tZU/content.json",
+ "modified": 1504124482,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "17ErNNuXiy3RtznPqGQww8CDkk6wjE2tZU": "HJ4y+blLgsacBjNm6ydnP5lViwvKfWQBOEp/EW0bKa8YMY3xVVVf78elWIHTAj1s9eOE7rj8QJPUwjOLRNqox1U="
+ }
+}

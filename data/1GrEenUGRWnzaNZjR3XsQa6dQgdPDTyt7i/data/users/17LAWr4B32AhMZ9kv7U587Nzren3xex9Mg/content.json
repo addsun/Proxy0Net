@@ -1,0 +1,21 @@
+{
+ "address": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "cert_auth_type": "web",
+ "cert_sign": "G8UMEP0YTqPtPouTJ5WHnzXXmvm1UI0uKnbnnE2wKwRmQ482Wza2M7WDi16Ec2gBEJJWxyb4dUyDD9v2l5ymo4I=",
+ "cert_user_id": "conduitry@zeroid.bit",
+ "files": {
+  "avatar.png": {
+   "sha512": "d921e23253b392249bfb124e7f9495f7f2608938b930bcdcb3c52249c7f32a34",
+   "size": 1621
+  },
+  "data.json": {
+   "sha512": "9acdd228c196c9e2bb1a5a0c544189d2266f0aa7691de23b379e7c1af2179221",
+   "size": 598
+  }
+ },
+ "inner_path": "data/users/17LAWr4B32AhMZ9kv7U587Nzren3xex9Mg/content.json",
+ "modified": 1476811486.221,
+ "signs": {
+  "17LAWr4B32AhMZ9kv7U587Nzren3xex9Mg": "HEJ0GY9aSsVm9Zod29nxuxwSaI/Ds6Mfda/3HBgkXdLGjsYOBTwwQyeIpQAA0E/396J37ColSD6v4zbH56a2O1M="
+ }
+}

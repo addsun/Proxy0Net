@@ -1,0 +1,24 @@
+{
+ "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HABaktTHo3VqhgNCFNUXhlbQQjw1qPnVDxBozCb1j7O7Gen8ahCyWVVt2cNH7+XChDjb9wQtfkVjQmZwRZc8KXk=",
+ "cert_user_id": "himura@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0041e4edc96479533adb80e238bfe43c161ffcab3746eff2efa6b133613d4d42",
+   "size": 7438
+  }
+ },
+ "files_optional": {
+  "1484490462.jpg": {
+   "sha512": "7c64b181364ab130f061a7d4462065e42e871a40f62f106449af88cb888f85b3",
+   "size": 55012
+  }
+ },
+ "inner_path": "data/users/16jQ6KNsJ7uZ3Fh4x3s1bkBBteaHcitAgd/content.json",
+ "modified": 1487277271,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "16jQ6KNsJ7uZ3Fh4x3s1bkBBteaHcitAgd": "HCoK0llPKC7KkVy9zIEStCX6Ul391ZGiq3qrSyIMkEjsWtnzbNyrfUdOxHBn4iSEwo58lZv/m3A8qGEsu6DpDOA="
+ }
+}

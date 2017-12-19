@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HORUuwvMRmWD6rXwlAr/9f2ryYFMDMEQYLF7LsnhuhAETYyn/QzlgwTGN8P5vvT1VYPaIbNcAOZazqL2W34EyHw=",
+ "cert_user_id": "usditsula@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "111d61e1d67ca66c1e9364159e3d3aeab5f1a6ed823382a2b67d14dfed3e2fa6",
+   "size": 1818
+  },
+  "data.json": {
+   "sha512": "2db4c21e6f01170a4b6d01e4808b7e0fd9f8e8860db53e715649bbca10da7975",
+   "size": 304
+  }
+ },
+ "inner_path": "data/users/1HoAJ9Jhqyv9jaVJJQYsDZv5U8bXDkKNm6/content.json",
+ "modified": 1503761796,
+ "signs": {
+  "1HoAJ9Jhqyv9jaVJJQYsDZv5U8bXDkKNm6": "HBoGwA+y2xK+Hp1fSSZ+3vfI1wB3h4vReYM0xNoepLzIFRM/G+1Y+g1neGWg2WWJ/TPYTV9q1KQEPyg+t2qNAhI="
+ }
+}

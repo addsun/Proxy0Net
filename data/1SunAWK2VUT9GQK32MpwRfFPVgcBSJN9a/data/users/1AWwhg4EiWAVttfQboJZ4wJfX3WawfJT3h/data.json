@@ -1,0 +1,259 @@
+{
+	"next_comment_id": 38,
+	"user_name": "Binchan",
+	"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+	"post_like": {
+		"1A6KMotFs6STA3Yeaq7JsQSoYQMJNaUjTS_1504831845": 1504858848,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1": 1507264406,
+		"1E7B1fs2LMt2ef3nXt9Sq24Yqmh9T5uNRy_1507103304": 1507265428,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1507497775": 1507506125,
+		"19CBgNAsAK3aVnVyekqBv48wgUZGmbptNE_1507704496": 1507724336,
+		"13Lg9zTA6UaKv1cCcSaxbWgSNjohCirVw6_1507639018": 1507784170,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507901696": 1507936622,
+		"1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507860787": 1507936738,
+		"1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508022656": 1508077736,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1508979702": 1508983334,
+		"17Zks611RR4oN8USC3RxJzaw94GyPufioG_1509122575": 1509160510,
+		"1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr_1509117815": 1509160797,
+		"1KJY9Soji7TbEVfisJHPvuzwzTMpAUDHf4_1508927924": 1509164679,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509292190": 1509293084,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509325172": 1509326122,
+		"1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509335221": 1509337590,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510490810": 1510494446,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510512873": 1510535657,
+		"19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379": 1511922626,
+		"1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr_1511738267": 1511923348,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1511959694": 1511973989,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512058030": 1512061056,
+		"1ALwbRLVTnHkqz8mCtWrHV1AsZLFkRhJj2_1512227109": 1512361932,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513005011": 1513086875,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513142397": 1513174122,
+		"19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513287335": 1513303632,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513516312": 1513543425,
+		"1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1513585986": 1513586773
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ZeroMe currently doesn't have this feature. As a temporary solution you can clone a hub for specific group and invite others to join your hub, I've made a [pull request](https://github.com/HelloZeroNet/ZeroMe/pull/100) for adding hub timeline, but it's still not merged. You can try my [ZeroMe clone](/1G9wPKCvqdzZVRzZizcsExhYufMpAxbh6U/) for it or ask the main dev to merge it to official ZeroMe.\nYou can also just clone a ZeroTalk for specific group and discussion.",
+			"post_uri": "1CQkanqAKY2nxcrwMpSpe9no2TGzE9G1PC_1507069044",
+			"date_added": 1507550773
+		},
+		{
+			"comment_id": 2,
+			"body": "It should work if there are peers serving all the optional files. There is an option to run zeronet and serve all optional files of a site. Another idea: host Wikipedia zim files as optional files and create a kiwix js app, I'm using [kiwix-cli](https://aur.archlinux.org/packages/kiwix-cli-git) and I can browse Wikipedia from its Web UI",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507950093",
+			"date_added": 1507958449
+		},
+		{
+			"comment_id": 3,
+			"body": "@Bluishcoder: Probably not necessary, so it depends on your interest. IPFS before also created a [wikipeidia hosting project](https://ipfs.io/blog/24-uncensorable-wikipedia/) when Turkey censored Wikipedia. But the project now [looks deprecated](https://github.com/ipfs/distributed-wikipedia-mirror).",
+			"post_uri": "1JGLcd9SrxuxdEYR2AGTVR6MeyVw8qQt9L_1507950093",
+			"date_added": 1507983030
+		},
+		{
+			"comment_id": 4,
+			"body": "Get well soon! Regular exercise keeps most diseases away ;)",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1508967183",
+			"date_added": 1508982442
+		},
+		{
+			"comment_id": 5,
+			"body": "Getting DNS over TLS is really good news! Just hope that one day TLS Servers are also decentralized. I know little about TLS, but guess it will be something like this: [HTTPS Server without a public/static IP. TLS Tunnels with decentralized credentials.](https://github.com/beameio/beame-sdk)",
+			"post_uri": "1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr_1509227198",
+			"date_added": 1509234342
+		},
+		{
+			"comment_id": 6,
+			"body": "Yup, that is a severe issue. Thx for sharing. Btw, it's [in the TODO list](https://github.com/HelloZeroNet/ZeroNet-kivy): \n> Keep users.json and other sensitive data in internal private directory of the APP, out of other APPs' reach.",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509278515",
+			"date_added": 1509279607
+		},
+		{
+			"comment_id": 7,
+			"body": "@Musickiller: Do you also use the app for your main account on Android?",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509278515",
+			"date_added": 1509280015
+		},
+		{
+			"comment_id": 8,
+			"body": "@Clematis: This may help: [Linux Deploy](https://github.com/meefik/linuxdeploy/)",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509292190",
+			"date_added": 1509322754
+		},
+		{
+			"comment_id": 9,
+			"body": "@Zefinity-Inf: Thx for the info",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509292190",
+			"date_added": 1509324485
+		},
+		{
+			"comment_id": 10,
+			"body": "XD +1 \"Include too large 897B > 0B\"",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509325172",
+			"date_added": 1509326553
+		},
+		{
+			"comment_id": 11,
+			"body": "@Shouko: For me ZeroBlog is still the most decentralized and therefore my favorite on ZeroNet. Have you checked [0gallery](/0gallery.bit) by 空澄砂夜? The content is also totally in owner's control and it has hubs!",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509335221",
+			"date_added": 1509337953
+		},
+		{
+			"comment_id": 12,
+			"body": "@Shouko: >< That's what I want to express too.",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509335221",
+			"date_added": 1509339215
+		},
+		{
+			"comment_id": 13,
+			"body": "@P2P: Sure. Nice work!",
+			"post_uri": "1FKrCcxyhZGUxUyj4Lkmrdrwv3uTo2C8NY_1509278515",
+			"date_added": 1509416203
+		},
+		{
+			"comment_id": 14,
+			"body": "> I won't be able to update my repos\nCould you explain it?\nI tried many times to publish my repo to clearnet proxy and failed, but some time later it auto-published!\nAnd a suggestion: Instead of auto-redirecting repo address to Git Center, can you provide a button in the repo zite for redirecting?\nSo user can edit her/his repo zite from config panel. -> [My repo as an example](/13zzNGxEXDeLxHEGZdG3mE7G8dChf45LrV)\n--- ---\nI find that Repository Index and My Repos are using repo address, so auto-redirecting is a bit more convienient than a button. Krixano's suggestion (by appending /1 to it so you aren't redirected to Git Center, then slide open the sidebar) is enough for accessing config panel.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510077454",
+			"date_added": 1510143856
+		},
+		{
+			"comment_id": 15,
+			"body": "Before user could create channel from the \"All Channel\" page. The feature is probably disabled by the author for some reasons, or just a bug. You can file an issue in [its Github Repo](http://github.com/zer0net/zerovoat)",
+			"post_uri": "1HRCEHNV2Xn5iqanzyv4unWaH6e9swNULc_1510084107",
+			"date_added": 1510149257
+		},
+		{
+			"comment_id": 16,
+			"body": "@Git Center: I think that's not necessary. Adding /1 or anything is enough to bypass redirecting. Later you may like to add this trick to FAQ :)",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1510077454",
+			"date_added": 1510244388
+		},
+		{
+			"comment_id": 17,
+			"body": "> can I create a private zite and only have it be accessible by people who know the link to it?\nYou can. As there is no global index and crawler, and when you publish a site, practically only the user who finds the link can open it. Also an advanced version of private site is [in the todo list](https://github.com/HelloZeroNet/ZeroNet/issues/62)",
+			"post_uri": "1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o_1510449523",
+			"date_added": 1510455350
+		},
+		{
+			"comment_id": 18,
+			"body": "@Vizy93: I think you can check [the stats page](/Stats) or ZeroNet log for related info. If the user is using tor, then... Haven't looked into details about this.",
+			"post_uri": "1KieR53aUzHPPH7b54QyDN5a8iYdZm4r9o_1510449523",
+			"date_added": 1510540001
+		},
+		{
+			"comment_id": 19,
+			"body": "Welcome back :D",
+			"post_uri": "1Mk5sVKeCrwMc3wSD11jM7DZTiqF5D9BaD_1510831774",
+			"date_added": 1510831862
+		},
+		{
+			"comment_id": 20,
+			"body": "Guess you are using Torbrowser or sth simllar: Here is [the explanation](https://tor.stackexchange.com/questions/3283/html5-canvas-security-flaw)\n> After plugins and plugin-provided information, we believe that the HTML5 Canvas is the single largest fingerprinting threat browsers face today...\n> To reduce the threat from this vector, we have patched Firefox to prompt before returning valid image data to the Canvas APIs. If the user hasn't previously allowed the site in the URL bar to access Canvas image data, pure white image data is returned to the Javascript APIs.\n\nHaven't found a solution for it yet. So you need to use another browser to upload image on ZeroMe.\n--- ---\nFirefox nightly and upcoming Firefox 58 also introduces this feature: https://www.ghacks.net/2017/10/28/firefox-58-warns-you-if-sites-use-canvas-image-data/\nBut for ZeroNet the permission prompt doens't show up in Torbrowser",
+			"post_uri": "1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr_1510949351",
+			"date_added": 1510961276
+		},
+		{
+			"comment_id": 21,
+			"body": "Sorry to raise some opposite opinions. Before I studied life sciences in a Uni. I'm not a professor for such a topic, but vegatables and plants somehow also have nervous system (you can search for papers about it). They know pain and react to harm. They're just much more distant relatives to us compare to animals.\nLife is cruel, but still we can gradually reduce the cruelity of life (though having enough concept about cruelity is also important for dealing with it) :)",
+			"post_uri": "1CGNmXxGCPcrNgyothjxD7NxgLmpsJWPAr_1511738267",
+			"date_added": 1511925275
+		},
+		{
+			"comment_id": 22,
+			"body": "@Krixano: I don't have that problem, newest torrent is submitted about 17 hours ago. If I search with space character, there are around 40 torrents now (there are more actually).\nIf I search with 0, one recent torrent \"Vikings S05E01-E02.HDTV.x264-KILLERS[rarbg] -\" is in the list, but if I search with e, two recent torrents \"Cuphead\" and \"Popeye for President.avi\" don't show up in the list.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512081385
+		},
+		{
+			"comment_id": 23,
+			"body": "@Krixano: That's weird. I guess you might download the zite a long time ago and the author made some big changes later. So your database needs to rebuild. But it seems there are some other issues.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512083357
+		},
+		{
+			"comment_id": 24,
+			"body": "@Krixano: Oops! It's from my side. After I rebuilt the database, I also have only 20 torrents now.",
+			"post_uri": "19t3AncxBxySDwgUBD6MGDRTeMdA2GJTSf_1511715379",
+			"date_added": 1512083899
+		},
+		{
+			"comment_id": 25,
+			"body": "Another small fix request: as you see, from [the comment of my previous PR](/gitcenter.bit/repo/pull-requests/view/?18r929Hq8hE5Pi9Zf7ovMQVyn3WcGfxMgu/1@1PFWGebEqZssXXnM9u2gk7yJpXUoMPQG8D), the code exceeds far away from the page. You can add sth like\n```\npre {overflow:auto}\n```\nto solve it.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512058030",
+			"date_added": 1512084713
+		},
+		{
+			"comment_id": 26,
+			"body": "@Git Center: Fixed. I'll try to make my code more general and cover more situations, so some small changes won't affect the dark theme. Btw, I find my repo name now [covers the star button](/1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t/repo/?13zzNGxEXDeLxHEGZdG3mE7G8dChf45LrV). You may need to do some tweak for long repo name.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512058030",
+			"date_added": 1512174903
+		},
+		{
+			"comment_id": 27,
+			"body": "XD, I think I'm the first one who did such a mischief. Instead I use bookmark to directly access my repo in Git Center. But since you say so, I've also changed my repo back. \nEven so it's still a bit tricky to access the side panel of the repo. You may like to add it to beginner's guide.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512177196
+		},
+		{
+			"comment_id": 28,
+			"body": "@Nofish: Instead you can access the config panel by adding sth lke /1 after the repo address to trigger a Not Found page, idea from Krixano.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512177351
+		},
+		{
+			"comment_id": 29,
+			"body": "@Krixano: Well... I just dug the database and this post was [where you mentioned that method](/Me.ZeroNetwork.bit/?Post/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu/1509655041), it would be nice if you credited him at that time. And... the misinfomation kept going on even after I [credited you to @Git Center](/Me.ZeroNetwork.bit/?Post/1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/1510077454) ;_;",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512178710
+		},
+		{
+			"comment_id": 30,
+			"body": "@Krixano: I agree. It's my mistake. I think next time I credit sth like this I'll just mention that it's from one's post but won't say it's his idea.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512179611
+		},
+		{
+			"comment_id": 31,
+			"body": "Yep, I set `body {background-color: #1b1b1b !important;}` so most zites has dark background, I don't set `background-image: none` because some zite owner may set a beautiful wallpaper, like ZeroMe Reload. Btw, I checked the code of that zite, looks like it uses clearnet javascript to mine Monero, so even you did this that zite is not nice at all X(",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512206954",
+			"date_added": 1512221550
+		},
+		{
+			"comment_id": 32,
+			"body": "@Nofish: Works perfect with my Pi 2. Thank you very much!",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512151914",
+			"date_added": 1512226320
+		},
+		{
+			"comment_id": 33,
+			"body": "@Git Center: I know. Imho that's still not good enough. Like, all the users contribue their cpu to one developer, such a thing makes me uncomfortable. And probably I'm a bit pananoid about centralized source. \nCoin mining will help website become independent from the ads system. I'm quite expecting about it. On the other hand, profit/money is important, but it can spoil lots of things, sad story...",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512206954",
+			"date_added": 1512228355
+		},
+		{
+			"comment_id": 34,
+			"body": "@Git Center: Iirc only one `:params` is allowed for ZeroHello newsfeed cmd, and there are two in the code. Not very sure, if you change only one `:params` to the address and it works...",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512849555",
+			"date_added": 1512913693
+		},
+		{
+			"comment_id": 35,
+			"body": "What about changing the title from `h1` to `h2`, `h1: 32px` is the default setting for many browsers [[ref]](https://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags), it also affects comment and readme.",
+			"post_uri": "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di_1512837360",
+			"date_added": 1512914704
+		},
+		{
+			"comment_id": 36,
+			"body": "I agree with @Krixano, Vue.js fits ZeroNet ver well. I checked the src of ZeroGreeter (ZeroHello alternative, available on Git Center), and very impressive how little essential code is needed to create a multi-featured, flexible and robust zite. But I guess Coffeescript is still a go if you want to learn more about fundamental structure and low level of web dev, and how horrible JavaScript is...",
+			"post_uri": "19WW28sn46rz9h15xf6NCELPdzxZ2YhbyB_1513158285",
+			"date_added": 1513173813
+		},
+		{
+			"comment_id": 37,
+			"body": "@Mrsrobotmobile: [I understand](/Me.ZeroNetwork.bit/?Post/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/1AWwhg4EiWAVttfQboJZ4wJfX3WawfJT3h/1513215968) ;D For me one important feature of clearnet proxy is for bootstrapping new zites, so if it's disabled...",
+			"post_uri": "1EQuGEmS5J8SQ1xA6MM9KfubBb71uxiLvs_1513430474",
+			"date_added": 1513476489
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+ "address": "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv",
+ "cert_auth_type": "web",
+ "cert_sign": "G+wkgAl0+kPlar3i3WL2YsdyMofta3HLgKApYIbCfuZXfSUhn5hjlZ6eslBSeUrwUNfjQoG0CcsOi0W+9EOdBco=",
+ "cert_user_id": "daishengsheng@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7a0b7af0bcdc876feebcc6768986868a6d29ec1fcbf208ff300d1a93a395eef7",
+   "size": 10769
+  }
+ },
+ "files_optional": {
+  "1500714146.jpg": {
+   "sha512": "374898d37c6e8c13639da6f5d05d7834bb36c9315f31a7702de007378eb35973",
+   "size": 57359
+  }
+ },
+ "inner_path": "data/users/18EQbBVfaJdqGe8Fcd3ib3jctZExcvDMqx/content.json",
+ "modified": 1500826907,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "18EQbBVfaJdqGe8Fcd3ib3jctZExcvDMqx": "HE8DHPHoUCEhQjaSNpc1bU5gWi7CfFoKkw3fzEChep21bgMwe71YsqyNOmocVTgmr/mVhFxo9qW6x1eZypMlUrM="
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "address": "1ABFCaadiEa3bFNzN3RcCZSsviqMNTbz3m",
+ "cert_auth_type": "web",
+ "cert_sign": "H5CdNYXTNjKRyhvhf+cHVCxIzwSwNFtLQCQVWuBxboOYGsB3CVCNITM1gaw0zjonUjlpNDrm9pUPhcoay9RjJ0E=",
+ "cert_user_id": "tomascw@cryptoid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "7c8c0d628c3de13bf24bafdd3f5bb63b22671d5630959674bd7e368d0060d1b0",
+   "size": 1645
+  },
+  "data.json": {
+   "sha512": "222253a7ac500348285193bf9fac2caec526ab5ce94b3bcfa9cac513dfb8b4e0",
+   "size": 599
+  }
+ },
+ "files_optional": {
+  "1508313766.jpg": {
+   "sha512": "c38292cc05f9e8a3fbc1d21655a6dd57a195f53ff1d5269b286031d812a78848",
+   "size": 38591
+  }
+ },
+ "inner_path": "data/users/16WPjg8YSKm9BpG5Ut52wp2hZc1c2Z1tM7/content.json",
+ "modified": 1508313765,
+ "optional": "(?!avatar).*jpg",
+ "signs": {
+  "16WPjg8YSKm9BpG5Ut52wp2hZc1c2Z1tM7": "HMtfJn7bHCMrGR6Crzb4FgTQxiPTKs30r08sfmbtBAAbE0gk5C9314zZLh+/ild1LkL2A5GqY8Cd/YmAPVZFgJY="
+ }
+}

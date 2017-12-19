@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G9O63q001NACzT6LIUKT4ClDugmA+nNw23q44Yj/cDTRcjUfURUyK4jQxnYDkp/sdfH+UgNGGpGO0smJkBYpP6k=",
+ "cert_user_id": "mystogan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8756d13e575c01530233e2668f598049f9ade73028e675caf0fa5fcc45872d05",
+   "size": 339
+  }
+ },
+ "inner_path": "data/users/1EEKm28YBndZpjUqSii1qMG1B3GJexkqH3/content.json",
+ "modified": 1502082694,
+ "signs": {
+  "1EEKm28YBndZpjUqSii1qMG1B3GJexkqH3": "HE96mN4LNHenzX3ekQcJXvF+dKiAKRnsDcvx8UXAD4m7czsjU8i6v52Ywg7+rOb2hDjjCWJ1iLjBDthEcmDKumQ="
+ }
+}

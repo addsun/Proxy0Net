@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HHQdk9SF0GD0gEQEMwMSLP5rMOgBhJcw4brcquYaYYoP7FFHiM716xCDp1SBz0hfHLBZ5NPNRXHm7qiX5e3ll5g=",
+ "cert_user_id": "nipos@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "71139dd00f8be8603f2b92cda54d1bac2321f5f79adba344f7f84c87967d9b9e",
+   "size": 1833
+  },
+  "data.json": {
+   "sha512": "6eefeb20faee4b29acac15b7c0bfc29f85c032aea5f24e8ebd0923106b08c6ca",
+   "size": 346
+  }
+ },
+ "inner_path": "data/users/1Hvxi2Ygnr6GageTcaryMZmwwRLTYb1jb/content.json",
+ "modified": 1507468781,
+ "signs": {
+  "1Hvxi2Ygnr6GageTcaryMZmwwRLTYb1jb": "HE8w1DOC8GqYqjrczSDYoJ0hb3QD3KBL5GOsbQ48WDaRIa+wdVPmHBQOj+40uSXA+RHqhvNx5HpU/y76eFqOzfk="
+ }
+}

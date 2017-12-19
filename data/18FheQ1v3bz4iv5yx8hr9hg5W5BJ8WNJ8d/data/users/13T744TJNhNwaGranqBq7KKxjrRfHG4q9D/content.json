@@ -1,0 +1,17 @@
+{
+ "address": "18FheQ1v3bz4iv5yx8hr9hg5W5BJ8WNJ8d",
+ "cert_auth_type": "web",
+ "cert_sign": "HLgrMWsUmMVqGtc1FIvDvDAcY4jCEguk3vbuc5lXBmUG+5cihUfyvrCRdZmRVqTC8cIA8Il75hSfI2QlHFbTMUY=",
+ "cert_user_id": "libee@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ff0a20310e042808f4a626645bb7923f42d66fd255c19c41044e155eed88f37e",
+   "size": 8666
+  }
+ },
+ "inner_path": "data/users/13T744TJNhNwaGranqBq7KKxjrRfHG4q9D/content.json",
+ "modified": 1511317368,
+ "signs": {
+  "13T744TJNhNwaGranqBq7KKxjrRfHG4q9D": "G7qxPRnEeTcvl2+OS/rvlbzAf35JCxuy0TXPYmg0f++aO801lH/4100GiXIenzS+ri+VBZlOCmn+9T6AkCed7WI="
+ }
+}

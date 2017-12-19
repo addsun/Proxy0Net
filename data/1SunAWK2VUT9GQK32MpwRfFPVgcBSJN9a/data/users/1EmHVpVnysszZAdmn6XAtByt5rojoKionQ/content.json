@@ -1,0 +1,17 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "HG6Q1RHRTdsPZyVdKn9nPJI7G+nY3+drE345UPckKnvJNtAhtNHlHCm5NKMpYQiQs+figx3EcnpL8kgh38V5nig=",
+ "cert_user_id": "contuardaleyhest@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9d85ff7198e3c3c430f551ca2000202c0c1c2763aa4af35b876c1ef5d31ab320",
+   "size": 1021
+  }
+ },
+ "inner_path": "data/users/1EmHVpVnysszZAdmn6XAtByt5rojoKionQ/content.json",
+ "modified": 1504541183,
+ "signs": {
+  "1EmHVpVnysszZAdmn6XAtByt5rojoKionQ": "G4d09TM+0DdPQaUVUjI92Zj4FaulNsTED7L9xMvP58Qbbq5HEyMyjtyB59J2TPNIP5lmyYfeMW+sBAKnTO22zOc="
+ }
+}

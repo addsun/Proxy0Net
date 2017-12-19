@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HJeh+n3QWVC2CRYwLOXNLXRtiQR2n9utL4B6m5Ybx71jUUmEaUeWTs4zNXQ4EKPrnDyc8o9r/v5vDIb/7uQ7rEs=",
+ "cert_user_id": "wagum@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ce572c7f666abfbc43ddd8b2a634576b1af503b70feb5521fb65ca80eb304752",
+   "size": 242
+  }
+ },
+ "inner_path": "data/users/12xGTGpxu9bNwC95kiRy6H8WDfrfLgjU2q/content.json",
+ "modified": 1503878123,
+ "signs": {
+  "12xGTGpxu9bNwC95kiRy6H8WDfrfLgjU2q": "HHFmWnwqWvdthjklQ2t5QzJO2T0TmReaenQTPE21AQb+FygN7oLlwUM4B0BU9V1cZPhapiEvSkPYC0hbBdsPlCA="
+ }
+}

@@ -1,0 +1,39 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 1,
+	"next_follow_id": 3,
+	"avatar": "generate",
+	"user_name": "Xurioux",
+	"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+	"intro": "Random ZeroNet user",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1503024456,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 1503024474,
+			"body": "Hello people of the zeronet. This is the future of internet!",
+			"date_added": 1503024472
+		}
+	],
+	"post_like": {},
+	"comment": [],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+			"auth_address": "14GQCrDpk3rprFJYe2Yc6hnG4ryhvE3ys5",
+			"user_name": "Xurioux",
+			"date_added": 1503024476
+		},
+		{
+			"follow_id": 2,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "1Lhk4qqj4FQSQqVFkVaWiXMWpSUcn7fqER",
+			"user_name": "Ilove4chan",
+			"date_added": 1503024494
+		}
+	]
+}

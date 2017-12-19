@@ -1,0 +1,21 @@
+{
+ "address": "1SunAWK2VUT9GQK32MpwRfFPVgcBSJN9a",
+ "cert_auth_type": "web",
+ "cert_sign": "G1YlEeGc1sQxKLODY6zcQvyOgWL0xtwIaFP+z4jJIYcv8aU8PMK/6m8hMlyPd2/LxpRylholj9QCEvITCsi6tT0=",
+ "cert_user_id": "yukiisbored@zeroid.bit",
+ "files": {
+  "avatar.jpg": {
+   "sha512": "a657857c5fad184839376d72e4f3b1bf1860721a2c64fee97b3c9f84553cc6df",
+   "size": 1399
+  },
+  "data.json": {
+   "sha512": "8ea4b70e6d006b3917bf0d4a5d8f0b6459ed8e5820de63d5795538deb6532ee1",
+   "size": 408
+  }
+ },
+ "inner_path": "data/users/1Gyo5huYnJqSzPiciTqYUuhHbk21pHsbM6/content.json",
+ "modified": 1511454519,
+ "signs": {
+  "1Gyo5huYnJqSzPiciTqYUuhHbk21pHsbM6": "G9Iw7BjYAR5hCfutRmtKx+imt+gcZ9P1iuq/DNK5IijjDwssGK5NU2vN8B+AsC0+hcM3iQD0cY2I0ie6+ZFa7C8="
+ }
+}

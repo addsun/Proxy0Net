@@ -1,0 +1,17 @@
+{
+ "address": "1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT",
+ "cert_auth_type": "web",
+ "cert_sign": "HAmnrTiN9EQVWz2qUX/9lx5niFbQph2/eiCqs1Nrbyf1FQv6ga4TNbOZDpX8ijnmvJWckJGFiI2D3KNHGGzlXJs=",
+ "cert_user_id": "zeronews@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "23e148647b1ff37aeda1f57e493d4a048e630b07505b641fd401501ac632b329",
+   "size": 31107
+  }
+ },
+ "inner_path": "data/users/1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG/content.json",
+ "modified": 1513625468.299566,
+ "signs": {
+  "1KbV1e1u6P6AsY8XNBydgtbtN8iSB5WMyG": "G4E2thlUcYz/2uwL3Wc1w3mIcDHxnNSFtNaqdkeVr3sm4DenZCikBR62SQWQoDnrSC1WVsnhOOeqAT9sL/EW4Xk="
+ }
+}

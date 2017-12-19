@@ -1,0 +1,1113 @@
+{
+	"next_post_id": 36,
+	"next_comment_id": 158,
+	"next_follow_id": 10,
+	"avatar": "jpg",
+	"user_name": "12hstudy <--假装是彩色",
+	"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+	"intro": "新 ZeroNet 用户",
+	"post": [
+		{
+			"post_id": 1481790905,
+			"body": "哈哈~没出问题了^_^，你好，zeronet",
+			"date_added": 1481790902
+		},
+		{
+			"post_id": 1481793370,
+			"body": "总算找出来ID颜色的算法了，All.js2245-2349：\n```\n    Text.prototype.toColor = function(text, saturation, lightness) {\n      var hash, i, _i, _ref;\n      if (saturation == null) {\n        saturation = 30;\n      }\n      if (lightness == null) {\n        lightness = 50;\n      }\n      hash = 0;\n      for (i = _i = 0, _ref = text.length - 1; 0 <= _ref ? _i <= _ref : _i >= _ref; i = 0 <= _ref ? ++_i : --_i) {\n        hash += text.charCodeAt(i) * i;\n        hash = hash % 1777;\n      }\n      return \"hsl(\" + (hash % 360) + (\",\" + saturation + \"%,\" + lightness + \"%)\");\n    }\n```",
+			"date_added": 1481793365
+		},
+		{
+			"post_id": 1481809853,
+			"body": "咦。。到了晚上人都到哪去了？。。。",
+			"date_added": 1481809846
+		},
+		{
+			"post_id": 1481812500,
+			"body": "按照三角形来算，第一年的数据总量10M，第二年就会达到40M。。而若是按照用户膨胀曲线，这个值还会更高。。希望在这之前zeronet能解决好如何处理旧数据以及搜索的问题吧",
+			"date_added": 1481812492
+		},
+		{
+			"post_id": 1481848273,
+			"body": "早安，zeronet",
+			"date_added": 1481848264
+		},
+		{
+			"post_id": 1481889164,
+			"body": "等待2个小时，搞个大新闻",
+			"date_added": 1481889154
+		},
+		{
+			"post_id": 1481897861,
+			"body": "在线影院上线啦~48部延时摄影大片，支持从公共代理读取文件，无需安装IPFS也能轻松在线观看，快快点击吧~[在线影院](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/)\n@Rainlime: @Lmath: @p2p @莱文倩: @Mzero: \n^_^",
+			"date_added": 1481897850
+		},
+		{
+			"post_id": 1481901512,
+			"body": "I just work a [cinema online](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/) this night..thanks @Loligod help with some function",
+			"date_added": 1481901500
+		},
+		{
+			"post_id": 1481941511,
+			"body": "[在线影院](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/) 项目已开源，欢迎大家添砖加瓦^_^\n地址：[GitHub](https://github.com/cxgreat2014/IPFS_MovieOnline)\n另外，**求PIN！！！**，pin的人越多播放速度越快",
+			"date_added": 1481941498
+		},
+		{
+			"post_id": 1481946791,
+			"body": "想在zn上建个bilibili，但是项目单靠个人是完成不了的，因此，求帮助 ：）",
+			"date_added": 1481946777
+		},
+		{
+			"post_id": 1481948235,
+			"body": "目前想法把聊天室模板魔改成视频站，发言内容限定成视频hash和视频描述，直接就能上zn的API了。希望能成，哈哈",
+			"date_added": 1481948220
+		},
+		{
+			"post_id": 1481963198,
+			"body": "flv.js只支持H.264视频编码和AAC音频编码的flv文件=_=也就是说格式工厂转换出来的flv文件无法使用。正在安装ffmpeg中。。",
+			"date_added": 1481963182
+		},
+		{
+			"post_id": 1481967347,
+			"body": "转了一圈回到原点，发现原来是ffmpeg自身对flv的支持不够好而导致的转码出错bug。。。",
+			"date_added": 1481967330
+		},
+		{
+			"post_id": 1481967495,
+			"body": "等待转码好无聊。。<--假装是彩色",
+			"date_added": 1481967477
+		},
+		{
+			"post_id": 1481970788,
+			"body": "已找到无法播放flv的BUG出在哪了，等待作者回复中。。\nhttps://github.com/HelloZeroNet/ZeroNet/issues/707",
+			"date_added": 1481970769
+		},
+		{
+			"post_id": 1481990300,
+			"body": "现在有些人怎么状况都不了解就开始说不行？莫名其妙。。",
+			"date_added": 1481990280
+		},
+		{
+			"post_id": 1482031454,
+			"body": "",
+			"date_added": 1482031432,
+			"meta": "{\"img\":\"900,470,13614836a1243464797bb23334a7ac667899456653975a97,012103000445613004708591304777AABCA4C4DCEEFEEEDDDD\"}"
+		},
+		{
+			"post_id": 1482032714,
+			"body": "视频站在建立时遇到了困难，flv格式因为flv.js采用的核心方法因zeronet的iframe没有allow-same-origin 属性而导致window.URL.createObjectURL(new window.MediaSource())得到的url无法播放，因此在chromium内核一揽子浏览器上通过flv.js来实现视频流式播放（免加载完成等待）基本失败，而webm格式的视频清晰度实在是令人抓鸡，mp4无损转webm马赛克成板出现，因此求更好的解决方法",
+			"date_added": 1482032691
+		},
+		{
+			"post_id": 1482036937,
+			"body": "在没有新技术支持的情况下，或许只能期待zn将ipfs融合进来，否则想在zn上看高清影视就没有其他更好的办法了。",
+			"date_added": 1482036913
+		},
+		{
+			"post_id": 1482038367,
+			"body": "刚刚看了一下，zerome和zerotalk的颜色算法是不一样的，但是我的用户名都是紫色...",
+			"date_added": 1482038342
+		},
+		{
+			"post_id": 1482041770,
+			"body": "成功将ZeroMe的ID颜色算法给Python化，可以使用虚荣比特币地址生成器自己去修改自己的ID颜色了\n```\ndef getTextColor(text, saturation=30, lightness=50):\n    i = 0\n    textLen = len(text) - 1\n    textHash = 0\n    while i <= textLen if 0 <= textLen else i >= textLen:\n        textHash += ord(text[i]) * i\n        textHash = textHash % 1777\n        if i <= textLen:\n            i += 1\n        else:\n            i -= 1\n    return f\"hsl({textHash % 360}, {saturation}%, {lightness}%)\"\n\n\nprint(getTextColor('15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL')) #将会得到我的ID颜色值 hsl(307, 30%, 50%)\n\n```",
+			"date_added": 1482041744
+		},
+		{
+			"post_id": 1482061079,
+			"body": "找到终极解决办法，视频站不久重新上线（和视频流播放）",
+			"date_added": 1482061052
+		},
+		{
+			"post_id": 1482064971,
+			"body": "为啥我故意把新的zerobundle放到一个特别小的盘上然后浏览很多带option file的帖子，在超出限制之后无任何警告也没有删除？\n这样我弄个特别大的option file然后设置个图片加载这一文件，不随随便便坑死人\n最重要的是，**超出限制也无任何警告，超出限制也无任何警告，超出限制也无任何警告，重要的话说三遍！！！**\n@p2p，我觉得这是一个比较严重的问题，\n讨论地址：[gfwtalk.bit](/gfwtalk.bit/?Topic:1_15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL/+zerobundle+option+file)",
+			"date_added": 1482064943
+		},
+		{
+			"post_id": 1482066082,
+			"body": "我认为option file设计可以这样改进，用户设置默认缓存大小，当超出时自动检索本地缓存的文件，然后向网络请求获取拥有这一文件的用户，然后看看有多少能够连接，连接之后随机请求文件一部分做比对校验，如果校验通过的小于20则保留这份文件，大于20则删除这个文件，如果空间还不够就查看下一个可选文件，伪代码：\n```\n\ndef rm_enough_file():\n    for file_id in get_option_file_list():\n        if check_file_real_have(file_id) >20:\n            rm_option_file(file_id)\n            if check_option_files_diskuseage()<option_files_diskuseage_limit:\n                break\n\n\nif check_option_files_diskuseage()>option_files_diskuseage_limit:\n    rm_enough_file()\n\n```",
+			"date_added": 1482066053
+		},
+		{
+			"post_id": 1482066226,
+			"body": "咦。。今天人好少诶。。半天见不到人更新一贴，卖个萌先~\n#      喵~",
+			"date_added": 1482066196,
+			"meta": "{\"img\":\"900,563,dcccbb999677555889765434235bbb888a87876224b98113,001234443300567748449A46BC688D373BE667FD933AA674390000101000\"}"
+		},
+		{
+			"post_id": 1482075573,
+			"body": "233，到了晚上zerome被chinese占领，oh yeah！",
+			"date_added": 1482075542
+		},
+		{
+			"post_id": 1482107069,
+			"body": "早安，ZeroMe",
+			"date_added": 1482107037
+		},
+		{
+			"post_id": 1482112765,
+			"body": "hub空间又满了。。这咋办？。三天就要换一个ZeroID？",
+			"date_added": 1482112732
+		},
+		{
+			"post_id": 1482113542,
+			"body": "plyr播放器移植zeronet失败，失败原因疑似zn对svg也有限制：[demo](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/plyr-master/demo/index.html)\n另外，[在线影院](/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7/plyr-master/)全线启用fmp4流式文件源，更快的加载速度，更少的等待时间，视频站初步搭建完成^_^",
+			"date_added": 1482113508
+		},
+		{
+			"post_id": 1482113742,
+			"body": "又要换hub了，[500Mhub](/1KNmG5rJUGhgUJGFbLkv2B5isaqu9PrZqi)见",
+			"date_added": 1482113707
+		}
+	],
+	"post_like": {
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481952946": 1481953748,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481968367": 1481968946,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482067467": 1482067631,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007": 1482067906,
+		"1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677": 1482071798
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@莱文倩: 233",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481790738
+		},
+		{
+			"comment_id": 2,
+			"body": "@Lmath: 好像要吵架的语气呀。。HS是公用的，自建ss是私人的，这个明白了？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481790802
+		},
+		{
+			"comment_id": 3,
+			"body": "@Lmath: fg的确是很容易断。。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481790829
+		},
+		{
+			"comment_id": 4,
+			"body": "@Lmath: 以及为啥我换火狐之后发一条消息会出现两个发布成功提示？。。新版本BUG？",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481790870
+		},
+		{
+			"comment_id": 5,
+			"body": "@Lmath: 但是，这样打不死的小强才是最好的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481791204
+		},
+		{
+			"comment_id": 6,
+			"body": "@Lmath: 他的服务器多啊，以及对抗GFW有他的方法，你可以逆向去分析一下（至少在75期间所有公共翻墙软件都失效时这一个依然坚挺）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481793068
+		},
+		{
+			"comment_id": 8,
+			"body": "将自己的比特币地址丢进去就能算出来，如我的地址是15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL，结果便是hsl(307,30%,50%)~~果然这么随机的东西我都能污染~~(逃",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481793702
+		},
+		{
+			"comment_id": 9,
+			"body": "@Rainlime: 2333，的确如此",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481794034
+		},
+		{
+			"comment_id": 10,
+			"body": "@Lmath: 不知道。。不过那是禁网最严厉的一段时期，比64还严",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481783287",
+			"date_added": 1481794110
+		},
+		{
+			"comment_id": 11,
+			"body": "冒泡冒泡~",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481809853",
+			"date_added": 1481810361
+		},
+		{
+			"comment_id": 15,
+			"body": "可以在手机上再跑个php服务器什么的，用kodexplorer管理",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481848083
+		},
+		{
+			"comment_id": 18,
+			"body": "@莱文倩: 哈哈，谢谢<--假装是绿色",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481848273",
+			"date_added": 1481853860
+		},
+		{
+			"comment_id": 19,
+			"body": "@莱文倩: →_→",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481784741",
+			"date_added": 1481853913
+		},
+		{
+			"comment_id": 20,
+			"body": "@猫叉酱: 2333, 不过这个软件的作者很傲娇，对于一些功能需求硬是不愿意做=_=...",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481856270
+		},
+		{
+			"comment_id": 22,
+			"body": "@猫叉酱: 的确如此。。zn的碎片化特别伤磁盘，站点多了在任务管理器里可以看到每秒都有数k的读写，刚启动时甚至能把磁盘队列占满。。我都不敢为了启动速度把zn装到固态硬盘了。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481856832
+		},
+		{
+			"comment_id": 23,
+			"body": "@猫叉酱: 其次得有电。。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481855922",
+			"date_added": 1481856898
+		},
+		{
+			"comment_id": 24,
+			"body": "@莱文倩: 再然后环境要支持上网。。（南极-50°）",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481855922",
+			"date_added": 1481857504
+		},
+		{
+			"comment_id": 25,
+			"body": "@P2P: 2333",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481790905",
+			"date_added": 1481871742
+		},
+		{
+			"comment_id": 26,
+			"body": "@Lmath: 哈？没太了解，机械硬盘反复读取会伤，固态。。我的是tlc硬盘，估计会死得快",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481871900
+		},
+		{
+			"comment_id": 27,
+			"body": "@Lmath: +1",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481871908
+		},
+		{
+			"comment_id": 28,
+			"body": "@莱文倩: 是的，就是算出来的。。包括我的连续三个紫色都是。。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481871956
+		},
+		{
+			"comment_id": 29,
+			"body": "@P2P: 穷人思维你不懂（手动再见）小地方质保一点不给力",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872033
+		},
+		{
+			"comment_id": 30,
+			"body": "@莱文倩: 2333,等你hub满了我分一点好运气给你，哈哈",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481872168
+		},
+		{
+			"comment_id": 31,
+			"body": "@P2P: 磁盘碎片啊。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872216
+		},
+		{
+			"comment_id": 32,
+			"body": "@P2P: 原先我cxg那号存zn的的盘根目录打开都要十多秒",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872271
+		},
+		{
+			"comment_id": 33,
+			"body": "@莱文倩: 真和碎了没啥两样了",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872301
+		},
+		{
+			"comment_id": 34,
+			"body": "@P2P: 而且还基本弄废一个笔记本硬盘，错误检测5k多我去。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872351
+		},
+		{
+			"comment_id": 35,
+			"body": "@Lmath: 2333，这个好",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481793370",
+			"date_added": 1481872391
+		},
+		{
+			"comment_id": 36,
+			"body": "@P2P: 定制个0net://协议，然后后面要么跟公钥地址，要么跟bit域名，这样来区分host（我看这个得和各大浏览器厂商协商才行）。到时地址就是0net://Me.ZeroNetwork.bit/",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481872721
+		},
+		{
+			"comment_id": 37,
+			"body": "@P2P: 这样就没必要解决跨域限制在frame里了",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481872753
+		},
+		{
+			"comment_id": 38,
+			"body": "@Lmath: \n@P2P: 然而我的硬盘除了那一块之外十多年来就没坏过",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872858
+		},
+		{
+			"comment_id": 39,
+			"body": "@Lmath: 开发又不挂PT，当然用得少",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872922
+		},
+		{
+			"comment_id": 40,
+			"body": "@Lmath: 正在搓大招，等会放出来",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872956
+		},
+		{
+			"comment_id": 41,
+			"body": "@P2P: 233，看脸+1",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481872969
+		},
+		{
+			"comment_id": 42,
+			"body": "@Lmath: 作者为啥要把网页放在frame里？现在的限制主要是哪个给应用移植带来不便？^_^明白了吗？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481873858
+		},
+		{
+			"comment_id": 43,
+			"body": "@莱文倩: 要解决的是对浏览器原生一揽子API的拦截问题，尤其是cookie和localstorage",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481873972
+		},
+		{
+			"comment_id": 44,
+			"body": "@P2P: 所以，当注册成伪协议之后就没问题了，而且不影响翻墙",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874079
+		},
+		{
+			"comment_id": 45,
+			"body": "@P2P: 参见chrome内置ftp协议解析",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874103
+		},
+		{
+			"comment_id": 46,
+			"body": "@Lmath: ......我觉得zm最迫切的是出个查看对话功能。。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874244
+		},
+		{
+			"comment_id": 47,
+			"body": "@Lmath: 如果注册私有协议公共代理还怕吗？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481874300
+		},
+		{
+			"comment_id": 48,
+			"body": "@P2P: 啥问题？",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481877393
+		},
+		{
+			"comment_id": 49,
+			"body": "@P2P: 刚刚在做项目，还没做完呢",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481698684",
+			"date_added": 1481877407
+		},
+		{
+			"comment_id": 51,
+			"body": "@Rainlime: 嗯，但在这里需求是去中心化的云计算^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481812500",
+			"date_added": 1481889138
+		},
+		{
+			"comment_id": 52,
+			"body": "@Rainlime: ^_^马上就好，正在设置做种",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481889164",
+			"date_added": 1481894596
+		},
+		{
+			"comment_id": 53,
+			"body": "@Rainlime: ^_^ 做好了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481889164",
+			"date_added": 1481897913
+		},
+		{
+			"comment_id": 54,
+			"body": "233，主要是今天晚上我去忙视频站去了没咋上^_^抱歉哈",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481883722",
+			"date_added": 1481897994
+		},
+		{
+			"comment_id": 55,
+			"body": "@Lmath: @Firedog: .....变态。",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481877443",
+			"date_added": 1481898599
+		},
+		{
+			"comment_id": 56,
+			"body": "@Lmath: 2333",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481898621
+		},
+		{
+			"comment_id": 57,
+			"body": "@Firedog: https://github.com/ipfs/faq/issues/210",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481898705
+		},
+		{
+			"comment_id": 58,
+			"body": "@Apuar: https://bit.no.com:43110/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481902355
+		},
+		{
+			"comment_id": 59,
+			"body": "@weakish: 这个我也看过，但是用东西爱惜的毛病是改不掉的。。",
+			"post_uri": "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz_1481818361",
+			"date_added": 1481902406
+		},
+		{
+			"comment_id": 60,
+			"body": "@简单翻墙: \n@Firedog: \n@莱文倩: \n@Apuar: \n项目已开源，欢迎大家添砖加瓦^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941436
+		},
+		{
+			"comment_id": 61,
+			"body": "@Rainlime: wow~速度好快，^_^谢谢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941591
+		},
+		{
+			"comment_id": 62,
+			"body": "@Loligod: ^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481901512",
+			"date_added": 1481941805
+		},
+		{
+			"comment_id": 63,
+			"body": "@Rainlime: ipfs在本地运行的话会自动把通过gateway访问的文件缓存下来（默认最多cache10GB文件），在第二次访问时就相当于从本地读取，自然就很快了^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941921
+		},
+		{
+			"comment_id": 64,
+			"body": "@Firedog: 我这一直都在线的，但是因为pin我的视频的人不多，因此放起来就会很慢很慢。。因此，求PIN",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481941991
+		},
+		{
+			"comment_id": 65,
+			"body": "@莱文倩: 上传文件得配合ipfs，目前要加个文件夹把视频放到底下然后批量添加。。额。。也就是说普通用户使用起来的确挺麻烦啦，不过上传hash如果加入了zn的API支持那就不一样了，到时就和发条消息一样把几个字段在网页上选择填写一下就好^_^，另外，这套系统使用的是bilibili开源的flv.js，因此在线播放flv格式的视频也是可以的哟XD",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942252
+		},
+		{
+			"comment_id": 66,
+			"body": "@Rainlime: 哈哈~^_^嗯，~",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942280
+		},
+		{
+			"comment_id": 67,
+			"body": "@Rainlime: 最好先设置IPFS_PATH系统变量，不然默认占用的是C盘空间^&#95;^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481942504
+		},
+		{
+			"comment_id": 68,
+			"body": "@Rainlime: qaq主要是第一次使用时它要从互联网上同步数据，因此的确会比较慢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943049
+		},
+		{
+			"comment_id": 69,
+			"body": "@Rainlime: IPFS是一个越用越快的东西，访问频次高的或者pin的文件都会在本地留存，下次观看时就是秒开了，但是第一次使用时的确会很慢",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943112
+		},
+		{
+			"comment_id": 70,
+			"body": "@Rainlime: 嗯！平时我也在用^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481897861",
+			"date_added": 1481943545
+		},
+		{
+			"comment_id": 74,
+			"body": "@Rainlime: 嘘。。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481941511",
+			"date_added": 1481947301
+		},
+		{
+			"comment_id": 75,
+			"body": "@Lmath: 2333",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481948035
+		},
+		{
+			"comment_id": 76,
+			"body": "@Rainlime: 嘻嘻，没事，等到站点做完了你当大自然的搬运工就好了^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481949997
+		},
+		{
+			"comment_id": 77,
+			"body": "@Rainlime: ：）Thanks~",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481941511",
+			"date_added": 1481950061
+		},
+		{
+			"comment_id": 78,
+			"body": "@Firedog: 2333",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481950075
+		},
+		{
+			"comment_id": 79,
+			"body": "@Rainlime: 嗯。。。那样还能设置板块？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951005
+		},
+		{
+			"comment_id": 80,
+			"body": "@Rainlime: 不过那样要看的代码实在是太多了TAT，时间开销太大",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951038
+		},
+		{
+			"comment_id": 81,
+			"body": "@Rainlime: 嗯。。我试试吧，不然没有板块也是个问题，但更多的我觉得应该让更多的人参与这个项目，毕竟我并非专业前端^_^而且众人拾柴火焰高嘛，多些人多些力量和建议^&#95;^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481951100
+		},
+		{
+			"comment_id": 82,
+			"body": "期待新希望项目能开发出新的便捷加密方案：）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481951454
+		},
+		{
+			"comment_id": 83,
+			"body": "@Rainlime: 嗯^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481952452
+		},
+		{
+			"comment_id": 84,
+			"body": "@Rainlime: 视频只能用IPFS，毕竟太大了。。不过IPFS的速度实在是问题，因此起步就要发展出用户群，并且多鼓励用户pin文件/板块。。It's a hard work.",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481953166
+		},
+		{
+			"comment_id": 85,
+			"body": "@Rainlime: Option File机制在这里得灵活运用，但是。。具体的弹幕设计还是一头雾水，毕竟不能让人才发几条弹幕就没空间了。。multi 文件读写在现有的znAPI限制下还是个很大的问题，不知道其他人有没有什么好的解决方案",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481953694
+		},
+		{
+			"comment_id": 86,
+			"body": "@莱文倩: 是的，大文件传输一直是zn的痛点",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481954030
+		},
+		{
+			"comment_id": 87,
+			"body": "@Rainlime: 咦。。等等，如果使用option file的方式或许比ipfs更方便。。得了，先上OptionFile做个再说",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481954587
+		},
+		{
+			"comment_id": 88,
+			"body": "@Lmath: 是的但是我想试试flv的解决方案，看看zn是否支持流式获取可选文件，如果可以就使用op，否则ip",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481954949
+		},
+		{
+			"comment_id": 89,
+			"body": "@Lmath: ~~已删除~~问题已解决XD",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481956141
+		},
+		{
+			"comment_id": 90,
+			"body": "@Rainlime: 正在测试^_^等会就好",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481957937
+		},
+		{
+			"comment_id": 91,
+			"body": "@Lmath: \n@Rainlime: 出现错误：\n```\nNot allowed to load local resource: blob:null/f43fc17b-b7e8-4590-8cc1-aca2b28334dc\nUncaught (in promise) DOMException: Failed to load because no supported source was found.\n```\n经查错，发现错误出现在下面两行：\n```\n        this._mediaSourceObjectURL = window.URL.createObjectURL(this._mediaSource);\n        mediaElement.src = this._mediaSourceObjectURL;\n```\n正在对比校正",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481948235",
+			"date_added": 1481958622
+		},
+		{
+			"comment_id": 92,
+			"body": "@莱文倩: 传是可以传，但是编码问题烦死我了，bilibili的flv.js的codec只实现了H.264视频编码和aac音频编码的视频转换成MP4再喂给浏览器播放，然而这两种视频编码在默认情况下ffmpeg中是不会自带 的，得自己去装。。要上传视频播放的门槛真是高啊。。。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965005
+		},
+		{
+			"comment_id": 93,
+			"body": "@莱文倩: 传了之后不能播放一样懵逼",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965156
+		},
+		{
+			"comment_id": 94,
+			"body": "@莱文倩: mp4实在是太大了，而且在chrome内核一揽子浏览器上不支持流式播放，必须得加载完才能看，你能想象你点开新番之后还得等二十多分钟等到下完了才能看吗?",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965370
+		},
+		{
+			"comment_id": 95,
+			"body": "@莱文倩: =_=....flv.js可以实现免flash在线播放flv视频，它是在浏览器中转码的。demo：http://www.bilibili.com",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481965451
+		},
+		{
+			"comment_id": 96,
+			"body": "webtorrent在我这因bt协议和udp announce被封堵而导致无法使用，抗墙能力-999",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481967436
+		},
+		{
+			"comment_id": 97,
+			"body": "@Firedog: 首先第一次使用连上vpn，然后访问http announce，之后得到节点列表保存在本地，启动时直连不用再翻墙了",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969038
+		},
+		{
+			"comment_id": 98,
+			"body": "@猫叉酱: 公司网",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969048
+		},
+		{
+			"comment_id": 99,
+			"body": "@Rainlime: \n@莱文倩: 找到无法播放flv的原因了，是zn的js对浏览器进行的魔改所导致的，已提交issue https://github.com/HelloZeroNet/ZeroNet/issues/707",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481946791",
+			"date_added": 1481969141
+		},
+		{
+			"comment_id": 100,
+			"body": "@Firedog: 是啊，下一步作者计划加入节点交换，也就是说就算连不上announce只连上一个peer，只要那个peer连上了其他peer我也一样能连上整个网络",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481969808
+		},
+		{
+			"comment_id": 101,
+			"body": "@Firedog: 正在搞",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481970011
+		},
+		{
+			"comment_id": 102,
+			"body": "@Firedog: 进度看这里：https://zeronet.readthedocs.io/en/latest/help_zeronet/donate/#dht-support",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481970136
+		},
+		{
+			"comment_id": 103,
+			"body": "@Ysc3839: 并非如此，你看下这个项目再来 https://github.com/bilibili/flv.js",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481971189
+		},
+		{
+			"comment_id": 104,
+			"body": "@猫叉酱: 不一样，迅雷有自己的通道",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1481971220
+		},
+		{
+			"comment_id": 105,
+			"body": "@Loligod: Because mp4 isn't a good stream video format and flv is...so I want to convert mp4 to flv and let it play in zeronet",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481973086
+		},
+		{
+			"comment_id": 106,
+			"body": "@Loligod: 呃。。我还是用中文算了，Please excuse my poor English skill..我不想让访客点开一个视频需要等待太久才能看到它，因此我只能选择流媒体一类的解决方案，但各个浏览器的兼容情况各不一样，为了兼容性只能选择flv.js一类的开源html5播放器来加载视频",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481973511
+		},
+		{
+			"comment_id": 107,
+			"body": "@Loligod: I think, I need to try webm",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481974251
+		},
+		{
+			"comment_id": 108,
+			"body": "@Loligod: Ok, Thanks for your suggestion^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1481975426
+		},
+		{
+			"comment_id": 109,
+			"body": "@Rainlime: 谷歌的一个专门研发加密算法的项目，项目名称“New Hope”，或者“Post Quantum Cryptography”（后量子密码学）意在开发出能够对抗量子计算机的新算法，现行加密算法无论是RSA还是DSA都能迅速被量子计算机破解，因此对新的高强度加密算法需求十分紧迫。目前该项目的算法已试验性的在Chrome上部署，在与[Play 市场](https://play.google.com/store)进行通讯时若在加密证书那看见算法为`CECPQ1`那就是了。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481980974
+		},
+		{
+			"comment_id": 110,
+			"body": "@Lmath: @Firedog: @猫叉酱: 原博在这里：\nhttps://security.googleblog.com/2016/07/experimenting-with-post-quantum.html\n今年七月就开始测试了",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1481886808",
+			"date_added": 1481983082
+		},
+		{
+			"comment_id": 111,
+			"body": "@Ysc3839: 浏览器不支持播放flv，flv.js把flv转码MP4然后再喂给chrome。何处受限于浏览器支持的编码格式？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481989785
+		},
+		{
+			"comment_id": 112,
+			"body": "@Lmath: 看作者说的。现在明白了作者做的是什么帽子戏法了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481991150
+		},
+		{
+			"comment_id": 113,
+			"body": "@Lmath: 刚刚试了webm，压缩比百分之14左右",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481991406
+		},
+		{
+			"comment_id": 114,
+			"body": "@Lmath: 然而清晰度感人。。像素块一片片的。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1481991925
+		},
+		{
+			"comment_id": 115,
+			"body": "@Lmath: 我使用的是`ffmpeg -i in.mp4 -crf 0 out.webm`，转换出来的效果依然不尽人意。。马赛克还是存在",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481963198",
+			"date_added": 1482024311
+		},
+		{
+			"comment_id": 116,
+			"body": "@Loligod: I tried to use webm, but video screen becomes not clear, and even appeared in the mosaic. I use `ffmpeg -i in.mp4 -crf 0 out.webm` is still the case, what a good solution?",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1482026335
+		},
+		{
+			"comment_id": 117,
+			"body": "一边做，一边查手册呗，，在运用中学习是最快的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482026217",
+			"date_added": 1482026387
+		},
+		{
+			"comment_id": 118,
+			"body": "@Rainlime: 是的（看到别人在这里秀自己的国家我也来亮一亮）",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482031333",
+			"date_added": 1482031763
+		},
+		{
+			"comment_id": 119,
+			"body": "@Rainlime: 这张图不是太好，雾霾太重，我删掉了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482031333",
+			"date_added": 1482032075
+		},
+		{
+			"comment_id": 120,
+			"body": "@Lmath: 可见https://github.com/HelloZeroNet/ZeroNet/issues/707#issuecomment-267801351 作者还没回复",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482037184
+		},
+		{
+			"comment_id": 121,
+			"body": "@Lmath: 如果add allow-same-origin to zeronet iframe，window.URL.createObjectURL(new window.MediaSource())就可以使用了，但这样的话zn其实根本没必要再加个iframe sandbox，若是没有这层frame一堆应用直接就能移植过来了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482037481
+		},
+		{
+			"comment_id": 122,
+			"body": "@Lmath: 最后一个选择那还移植个毛web APP啊、、",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482036937",
+			"date_added": 1482039564
+		},
+		{
+			"comment_id": 123,
+			"body": "另一种可以用来分发大文件的p2p网络 官网 ipfs.io",
+			"post_uri": "1VU4YuLth4bBcRtxtGatSwBbQuLXNzgVk_1482042541",
+			"date_added": 1482042943
+		},
+		{
+			"comment_id": 124,
+			"body": "@Lmath: 的确如此，目前唯一办法是使用比特币虚荣地址生成器（参数1），然后从生成的一堆比特币地址里选一个符合要求的。",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482041770",
+			"date_added": 1482052993
+		},
+		{
+			"comment_id": 125,
+			"body": "@Lmath: @Ysc3839: chromium内核一揽子浏览器不支持流式播放MP4",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482053071
+		},
+		{
+			"comment_id": 126,
+			"body": "@Loligod: ok，I'm downloading it ^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1481970788",
+			"date_added": 1482053267
+		},
+		{
+			"comment_id": 127,
+			"body": "@Lmath: 格式正确是可以，但是有什么便捷的方法可以使一堆文件全部格式正确吗？",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482054812
+		},
+		{
+			"comment_id": 128,
+			"body": "@Lmath: =_=...我还是去找实现文档看看吧",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482032714",
+			"date_added": 1482054950
+		},
+		{
+			"comment_id": 129,
+			"body": "@Ddjj: 我得去问问P2P",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482061079",
+			"date_added": 1482064594
+		},
+		{
+			"comment_id": 130,
+			"body": "当微博用啊，2333",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482066106
+		},
+		{
+			"comment_id": 131,
+			"body": "@Ddjj: 档次？。。。目前还没有出现太严重的阶级分化，随意啦",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482066251
+		},
+		{
+			"comment_id": 132,
+			"body": "@Rainlime: 嗯嗯，链接已修复",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482064971",
+			"date_added": 1482067691
+		},
+		{
+			"comment_id": 133,
+			"body": "@Rainlime: 233，握爪",
+			"post_uri": "1JVxDWmnkRf72L1z5EfJofptZYodRw7R2h_1482064864",
+			"date_added": 1482067844
+		},
+		{
+			"comment_id": 134,
+			"body": "@Rainlime: ^_^~/",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482061079",
+			"date_added": 1482067895
+		},
+		{
+			"comment_id": 135,
+			"body": "嗯？：）我去看看",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482067926
+		},
+		{
+			"comment_id": 136,
+			"body": "@Rainlime: 好的^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482066226",
+			"date_added": 1482067958
+		},
+		{
+			"comment_id": 137,
+			"body": "@Rainlime: 1984.city这个网站好久之前就知道的了，不过我没怎么去上面看，233",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068066
+		},
+		{
+			"comment_id": 138,
+			"body": "@Rainlime: 这个问题可以通过iptables设置来处理，不过做起来比较麻烦，为了局域网网络通畅，我一般在路由器上就做好翻墙设置了2333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068167
+		},
+		{
+			"comment_id": 139,
+			"body": "@Rainlime: 具体的教程等会回你",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068189
+		},
+		{
+			"comment_id": 140,
+			"body": "@Rainlime: 使用ss-redir配合Linux的iptable来实现全局代理.\nUbuntu 14.04环境下通过， Qubes OS未测试\n```bash\n# cat juli-start-iptables.sh   \n#!/bin/sh  \n#创建一个叫SOCKS的链  \n   \niptables -t nat -N SOCKS  \n   \n#忽略本地地址以及服务器的地址,服务器地址如果不属于内网IP的话一定要注意加上.    \n   \niptables -t nat -A SOCKS -d 0.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 10.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 127.0.0.0/8 -j RETURN  \n   \niptables -t nat -A SOCKS -d 169.254.0.0/16 -j RETURN  \n   \niptables -t nat -A SOCKS -d 172.16.0.0/12 -j RETURN  \n   \niptables -t nat -A SOCKS -d 192.168.0.0/16 -j RETURN  \n   \niptables -t nat -A SOCKS -d 224.0.0.0/4 -j RETURN  \n   \niptables -t nat -A SOCKS -d 240.0.0.0/4 -j RETURN  \n   \n# Anything else should be redirected to shadowsocks's local port  \n   \n#除上面之外的所有流量都跳转到socks的本地端口(local_port),这里使用shadosock默认端口1080  \n   \niptables -t nat -A SOCKS -p tcp -j REDIRECT --to-ports 1080  \n# 重点\n# 最后是应用上面的规则,将OUTPUT出去的tcp流量全部经过SOCKS链  \n   \n#如果是在openwrt上实现透明代理的话,使用下面被注释了的规则  \n   \niptables -t nat -A PREROUTING -p tcp -j SOCKS  \niptables -t nat -A PREROUTING -p udp -j SOCKS  \niptables -t nat -A PREROUTING -p icmp -j SOCKS  \n   \n#iptables -t nat -A OUTPUT -p tcp -j SOCKS  \n```\n将防火墙规则加入系统后,启动ss-redir,其实两者顺序调换了也无所谓\n\n#ss-redir -c /etc/shadosocks.json\n\nshadosocks.json的内容和设置ss-local是一致的",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482068272
+		},
+		{
+			"comment_id": 141,
+			"body": "@Rainlime: 不知道能否运行是吗？。。。或许你需要一个自动前置代理（路由器）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482069217
+		},
+		{
+			"comment_id": 142,
+			"body": "@Rainlime: 如果你家的路由器是mt7620芯片（小米mini，迅雷下载宝，优酷路由宝，斐讯k1k2等大部分2015-2016年市面上的廉价家用智能路由器）可以到[这里](http://www.right.com.cn/forum/thread-161324-1-1.html)下载开源魔改路由器固件，自动把局域网所有流量按智能代理shadowsocks。",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482069459
+		},
+		{
+			"comment_id": 143,
+			"body": "@Rainlime: 嗯嗯",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482068007",
+			"date_added": 1482070717
+		},
+		{
+			"comment_id": 144,
+			"body": "晚安~",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482072235",
+			"date_added": 1482072158
+		},
+		{
+			"comment_id": 145,
+			"body": "上午看到ShadowBreaks的bitcoin地址就顺手去查了下，发现只收到了2.006074 BTC（大约1567美元），这个数字到现在还没动过2333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482072440
+		},
+		{
+			"comment_id": 146,
+			"body": "@Firedog: 卖的只是一些工具而已，全套要1000呢2333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482072559
+		},
+		{
+			"comment_id": 147,
+			"body": "@Rainlime: 嗯嗯，吃瓜群众已经带好小板凳，就等好戏上演了2333（话说zeronet会不会因此而受到攻击呢？手动问号.jpg）",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482072615
+		},
+		{
+			"comment_id": 148,
+			"body": "@猫叉酱: 前些天听说迅雷差不多离线掉两年以前的整个互联网了。。不过新的资源的确还是要bt下载的233",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482073107
+		},
+		{
+			"comment_id": 149,
+			"body": "有人研究过貌似是有这个规律，以好久为一个周期节点会变少之后再变多。以及，图片是你PS改的吧？",
+			"post_uri": "15oJLfpirNrTr2Fzhq6reLQ2aJGeDAnLHF_1482059008",
+			"date_added": 1482073205
+		},
+		{
+			"comment_id": 150,
+			"body": "@Lmath: tor本来就在被攻击，而且还有人用它发动攻击呢2333",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482073442
+		},
+		{
+			"comment_id": 151,
+			"body": "@Lmath: 最大的攻击还来自GFW呢，直接导致国内tor网络瘫痪",
+			"post_uri": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M_1482071677",
+			"date_added": 1482073474
+		},
+		{
+			"comment_id": 152,
+			"body": "@Lmath: +1",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482074441
+		},
+		{
+			"comment_id": 153,
+			"body": "@Lmath: 谁大早上的来。。说明这里空闲的人很少",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482075573",
+			"date_added": 1482076625
+		},
+		{
+			"comment_id": 154,
+			"body": "@莱文倩: webtorrent做种时间等于浏览器打开时间，不但增加浏览器开销还影响网速，得不偿失",
+			"post_uri": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5_1481963469",
+			"date_added": 1482110619
+		},
+		{
+			"comment_id": 155,
+			"body": "@莱文倩: 把历史数据打包丢到option file里去。。另外。。我去，空间又满了",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482107069",
+			"date_added": 1482112508
+		},
+		{
+			"comment_id": 156,
+			"body": "@莱文倩: 我发代码以及和人讨论如何建立在线bilibili使用视频流格式等消耗了太多地方了，现在在边删边发",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482112765",
+			"date_added": 1482113993
+		},
+		{
+			"comment_id": 157,
+			"body": "@Rainlime: 早安～^_^",
+			"post_uri": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL_1482107069",
+			"date_added": 1482116043
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1EFRUQjydLVFKNFBiF2LW5rpQeqEr8EA6M",
+			"user_name": "Rainlime",
+			"date_added": 1481791420
+		},
+		{
+			"follow_id": 2,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1958F7oCppj78MP966AfojMQwHg2WUupzq",
+			"user_name": "Lmath",
+			"date_added": 1481791437
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "18hidquEH7k6Dnn5MDd4zJFJ2cTUF22wk2",
+			"user_name": "Cxgreat2014",
+			"date_added": 1481811638
+		},
+		{
+			"follow_id": 4,
+			"hub": "1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v",
+			"auth_address": "18KhAfkwavAUrUQk67T4x6Gczq5hL5wE4Z",
+			"user_name": "Generate",
+			"date_added": 1481811647
+		},
+		{
+			"follow_id": 5,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "15qcGEu7LuArtRwGS1cv5RDWL4CZ4yN7mL",
+			"user_name": "12hstudy <--假装是蓝色",
+			"date_added": 1481811655
+		},
+		{
+			"follow_id": 6,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1PniNzyi8fygvwyBaLpA9oBDVWZ5fXuJUw",
+			"user_name": "Balancer73",
+			"date_added": 1482030641
+		},
+		{
+			"follow_id": 7,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj",
+			"user_name": "Nofish",
+			"date_added": 1482030643
+		},
+		{
+			"follow_id": 8,
+			"hub": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+			"auth_address": "1DD52vhXkbAdaS54PoZ2vNauiQ8XMiswC5",
+			"user_name": "Lovelychian",
+			"date_added": 1482030653
+		},
+		{
+			"follow_id": 9,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "13Z7XxTa7JuFat3KzzMWu3onwM6biLuurJ",
+			"user_name": "P2P",
+			"date_added": 1482030657
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {},
+	"next_comment_id": 15,
+	"comment": {
+		"2_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [],
+		"8_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj": [
+			{
+				"comment_id": 2,
+				"body": "Hi there,\nI would like ZeroNet to be able to do LAN peer discovery out-of-the-box so that it can work in community networks where an Internet connection is not always available (poor infrastructures, political Internet shutdowns, etc.).\nThat would mean another nice step towards real decentralization.\nI guess I should open an issue on GitHub for that, shouldn't I?\nCheers!",
+				"added": 1493390767
+			},
+			{
+				"comment_id": 11,
+				"body": "Hi. How can I go to that first ZeroNet frontpage where the main sites done by @nofish are announced?",
+				"added": 1507555974
+			},
+			{
+				"comment_id": 14,
+				"body": "Greetingz!\n\nI have some questions on security.\n\n1.- There was this problem that users visiting a Zite could not know if contents (audio, video, whatever) were being downloaded from the Zite or from the Internet.\nWas this thing somehow solved?\nIs there any workaround?\nWhat dangers do you see?\n\n2.- I read a bit on the dangers of JavaScript [1].\nSome people browse the Web with JavaScript disabled and they enable it only for trusted websites. \nAs far as I understand, Zeronet would not work without JavaScript.\nNow I am a bit worried about Zeronet's security,\nplease let me know if you think I should not.\n\nI was just wondering if there could be any way to to reduce the dangers of JavaScript on Zeronet.\nMaybe by everyone agreeing to set their Zites' JavaScript free [2]?\nso that we can use the LibreJS browser extension [3].\n\nOr maybe if there could be a voting system for Zites? So users trusting a Zite or having audited its javascript code could somehow vote in a way that the voting results are readable by users who never visited that Zite before?\n\nWhat can I do now to reduce the dangers or Javascript when using Zeronet?\n\nPlease let me know what your thoughts are.\n\nThank you!\n\n[1] https://www.gnu.org/philosophy/javascript-trap.html\n[2] https://www.gnu.org/software/librejs/free-your-javascript.html\n[2] https://www.gnu.org/software/librejs/",
+				"added": 1513351737
+			}
+		],
+		"1_1KuwwnkAtVrfnyhv8pyGRxLqzNZbEkJt2u": [
+			{
+				"comment_id": 3,
+				"body": "Oh, just seeing this now! I guess it's too late now to change dates. I wish it could be on the weekend.",
+				"added": 1505995963
+			},
+			{
+				"comment_id": 4,
+				"body": "I'm thinking of trying to attend anyway. We might be two people.",
+				"added": 1505995982
+			},
+			{
+				"comment_id": 5,
+				"body": "But it's such a long trip from here... Besides the presentation, do you think it would be possible to also have a dedicated hands-on workshop for beginners (non-dev) on building a site from scratch?",
+				"added": 1505996003
+			},
+			{
+				"comment_id": 6,
+				"body": "It would be nice for us to come back to our country being able to\n1- Have our own site on Zeronet\n2- Give workshops on how to build a Zerosite",
+				"added": 1505996024
+			},
+			{
+				"comment_id": 7,
+				"body": "When I wrote \"dedicated\" I meant a workshop just focused on learning to build a Zerosite. I did not mean dedicated to me : ) but an open one. The more people we are, the better.",
+				"added": 1505996790
+			},
+			{
+				"comment_id": 8,
+				"body": "> [nofish](#comment_1009_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): After the talks I'm planning to do a small (30-40 min) workshop that covers site creation and the basic API functions.\n\nGreat! Thank you.",
+				"added": 1506079283
+			}
+		],
+		"1_1EMDKkZzS2ztrvcsUmzFkifjMWKFu73zCs": [
+			{
+				"comment_id": 9,
+				"body": "I find it very interesting. It just requires people to crawl sites to contribute to the global index.",
+				"added": 1507293594
+			}
+		],
+		"1_1M1msf96AhLpJDJimVK7mXXCoaAGxfzxh9": [
+			{
+				"comment_id": 10,
+				"body": "I'm also interested in that feature.\nThere's a request for it here:\nhttps://github.com/HelloZeroNet/ZeroNet/issues/931",
+				"added": 1507552988
+			}
+		],
+		"1509377783_1EG11ySHg4mXe3GEVwF3nVPAaX3rcvhiDd": [
+			{
+				"comment_id": 12,
+				"body": "Phones are always problematic if you like freedom. You may want to check replicant.us",
+				"added": 1510304895
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 13,
+				"body": "Community networks are a real thing.\nThey do exist. They are self-managed autonomous networks.\nThey are free networks.\nOften using inexpensive Wi-Fi equipment.\nOwning your network infrastructure allows you to be unaffected in case of Internet shutdowns.\nWhy forget about mesh networking when you are looking for horizontal structures?\nIt is there and it does work.\n\nWe also need the apps.\nWe have some, but Zeronet is not there yet.\nI believe soon it will be.\nhttps://github.com/HelloZeroNet/ZeroNet/issues/931",
+				"added": 1510306886
+			}
+		]
+	},
+	"comment_vote": {}
+}

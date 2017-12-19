@@ -1,0 +1,33 @@
+{
+	"next_topic_id": 1,
+	"topic": [],
+	"topic_vote": {
+		"1509649171_1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": 1,
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": 1
+	},
+	"next_comment_id": 4,
+	"comment": {
+		"1510158773_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB": [
+			{
+				"comment_id": 1,
+				"body": ">Not found",
+				"added": 1510165318
+			},
+			{
+				"comment_id": 2,
+				"body": "> [malteaser](#comment_1_18zH6Av8AX7XdEW9PNFeb8QCs4QdMTVaYB): Did you get an actual error saying \"not found\"?  What we get is the occasional time the page seems to get stuck and never loads, but trying again generally fixes it.  [...]\n\nI got an actual page with \"Not found\" on it (when i followed first post link) and an empty page for main page. When i checked back some time later, everything worked.",
+				"added": 1510220258
+			}
+		],
+		"17_16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": [
+			{
+				"comment_id": 3,
+				"body": "You should note that apart from technical challenges (which are, of course, solveable) there is government control issue. Do you really believe that if government whitelists internet, it will look at your horizontal ZeroNet transfer and do nothing?\n\nSome governments already forbid public wi-fi without requiring providers to identify its users; they may as well ask every wi-fi provider to store all traffic and block all encrypted and p2p connections. And, of course, sanction everybody who sets up wi-fi access point without registering with children/anti-terrorist/copyright protection registry.\n\nOf course, it may seem to be hard to enforce. But for your idea to work, you need a lot of users joining in and then you can no longer really hide forever.",
+				"added": 1510675634
+			}
+		]
+	},
+	"comment_vote": {
+		"128_12gAes6NzDS9E2q6Q1UXrpUdbPS6nvuBPu": 1
+	}
+}
