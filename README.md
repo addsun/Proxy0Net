@@ -7,3 +7,4 @@ heroku.com
 - 在部署 (Deploy) 页面选择 GitHub，在Connect to GitHub 这一栏连接上你的 GitHub 帐号，搜索并连接本项目
 - 选择一个分支并点击 `Deploy Branch`
 - 部署完毕后，将网页拉到最上面，并点击`Open app`打开你的网站。
+## heroku.com不让安装p2p程序。
